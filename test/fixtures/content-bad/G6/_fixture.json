@@ -1,0 +1,5 @@
+{
+  "base": "../../content-sample",
+  "expect": "G6",
+  "note": "ritual mantra (used by a step) without pada/explanation → FAIL"
+}

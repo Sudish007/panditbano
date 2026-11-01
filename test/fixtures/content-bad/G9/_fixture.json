@@ -1,0 +1,5 @@
+{
+  "base": "../../content-sample",
+  "expect": "G9",
+  "note": "Hindi है/और/यह inside the Bhojpuri field → FAIL"
+}

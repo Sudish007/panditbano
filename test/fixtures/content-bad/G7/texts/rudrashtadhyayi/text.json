@@ -1,0 +1,58 @@
+{
+  "id": "rudrashtadhyayi",
+  "title": {
+    "hi": "रुद्राष्टाध्यायी",
+    "en": "Rudrashtadhyayi",
+    "bho": "रुद्राष्टाध्यायी"
+  },
+  "intro": {
+    "hi": "शुक्ल यजुर्वेद से संकलित आठ अध्याय, जिनका पाठ रुद्राभिषेक में होता है। उत्तर भारत का रुद्री-पाठ यही है।",
+    "en": "Eight adhyayas compiled from the Shukla Yajurveda, recited in the Rudrabhishek. This is the North Indian Rudri recitation.",
+    "bho": "शुक्ल यजुर्वेद से संकलित आठ अध्याय, जेकर पाठ रुद्राभिषेक में होला। उत्तर भारत के रुद्री-पाठ इहे बा।"
+  },
+  "lang": "sa",
+  "kind": "vedic",
+  "deity": "शिव",
+  "source": {
+    "ref": "ws-rudrashtadhyayi",
+    "retrieved": "2026-10-31"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "sd-rudrashtadhyayi-sasvara",
+      "retrieved": "2026-10-31"
+    }
+  ],
+  "chapters": [
+    {
+      "n": 1,
+      "title": {
+        "hi": "प्रथम अध्याय — गणपति और शिवसंकल्प",
+        "en": "Adhyaya 1 — Ganapati and the Shiva-sankalpa",
+        "bho": "पहिला अध्याय — गनपति आ शिवसंकल्प"
+      },
+      "verseCount": 7
+    },
+    {
+      "n": 2,
+      "title": {
+        "hi": "द्वितीय अध्याय — पुरुषसूक्त",
+        "en": "Adhyaya 2 — Purusha sukta",
+        "bho": "दुसरा अध्याय — पुरुषसूक्त"
+      },
+      "verseCount": 2
+    }
+  ],
+  "phase": 1,
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "rudri",
+    "shiva"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "base": "../../content-sample",
+  "expect": "G15",
+  "note": "unknown sensitive kind (no note string exists for it) → FAIL (schema enum + G15)"
+}

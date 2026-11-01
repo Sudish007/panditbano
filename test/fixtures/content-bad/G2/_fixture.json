@@ -1,0 +1,5 @@
+{
+  "base": "../../content-sample",
+  "expect": "G2",
+  "note": "meaning.bho missing → id parity FAIL"
+}

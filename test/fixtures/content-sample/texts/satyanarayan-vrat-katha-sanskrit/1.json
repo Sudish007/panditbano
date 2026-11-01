@@ -1,0 +1,46 @@
+{
+  "text": "satyanarayan-vrat-katha-sanskrit",
+  "n": 1,
+  "title": {
+    "hi": "प्रथम अध्याय",
+    "en": "Adhyaya 1",
+    "bho": "पहिला अध्याय"
+  },
+  "source": {
+    "ref": "ws-skanda-reva-233",
+    "retrieved": "2026-10-31",
+    "modified": "ASCII colon typed for the visarga normalised to ः; danda spacing normalised"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "sd-satyanarayan-katha",
+      "retrieved": "2026-10-31"
+    }
+  ],
+  "verses": [
+    {
+      "v": 1,
+      "verseKind": "shloka",
+      "svara": false,
+      "speaker": "व्यास उवाच",
+      "devanagari": "एकदा नैमिषारण्ये ऋषयः शौनकादयः । पप्रच्छुर्मुनयः सर्वे सूतं पौराणिकं खलु ॥",
+      "meaning": {
+        "hi": "एक बार नैमिषारण्य में शौनक आदि ऋषियों और सब मुनियों ने पुराणों के ज्ञाता सूत जी से पूछा।",
+        "en": "Once, in the Naimisha forest, Shaunaka and the other rishis, all the sages, asked Suta, the knower of the Puranas.",
+        "bho": "एक बेर नैमिषारन में सौनक आदि ऋषि आ सब मुनि लोग पुरान के जानकार सूत जी से पूछल।"
+      }
+    },
+    {
+      "v": 2,
+      "verseKind": "shloka",
+      "svara": false,
+      "speaker": "ऋषय ऊचुः",
+      "devanagari": "व्रतेन तपसा किंवा प्राप्यते वाञ्छितं फलम् । तत्सर्वं श्रोतुमिच्छामः कथयस्व महामुने ॥",
+      "meaning": {
+        "hi": "किस व्रत या तप से मनचाहा फल मिलता है — हे महामुनि, वह सब हम सुनना चाहते हैं, कहिए।",
+        "en": "By what vow or austerity is the wished-for fruit obtained — great sage, we wish to hear all of it; tell us.",
+        "bho": "कवना बरत भा तप से मनचाहा फल मिलेला — हे महामुनि, ऊ सब हमनी के सुनल चाहत बानी, कहीं।"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1348 @@
+{
+  "_meta": {
+    "written": "2026-11-01",
+    "note": "Source registry (design section 10.1). Every mantra/verse/occasion/katha record points here by id; the renderer picks the attribution line pattern by project (decisions section 7.2: wikisource W, sanskritdocuments S, gretil G, vhp V, publisher B, archive T). titles[] are the names under which prose may cite the source — each such mention must be a link (G16 / UI-19). Content steps append entries; ids are stable.",
+    "attributionLines": "W wikisource | S sanskritdocuments | G gretil | V vhp/link | B publisher/sequence | T archive scan/transcription | O other (see build/lib/derive.mjs attributionLine)"
+  },
+  "sources": [
+    {
+      "id": "ws-syv-01",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः ०१",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_०१",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 1",
+        "Vajasaneyi Samhita 1"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 1; pada text labelled NN.M with the svara text below it (R2 S20). Second source: sanskritdocuments doc_veda files / TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 1"
+    },
+    {
+      "id": "ws-syv-02",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः ०२",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_०२",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 2",
+        "Vajasaneyi Samhita 2"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 2; pada text labelled NN.M with the svara text below it (R2 S20). Second source: sanskritdocuments doc_veda files / TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 2"
+    },
+    {
+      "id": "ws-syv-03",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः ०३",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_०३",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 3",
+        "Vajasaneyi Samhita 3"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 3; pada text labelled NN.M with the svara text below it (R2 S20). Second source: sanskritdocuments doc_veda files / TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 3"
+    },
+    {
+      "id": "ws-syv-05",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः ०५",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_०५",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 5",
+        "Vajasaneyi Samhita 5"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 5; pada text labelled NN.M with the svara text below it (R2 S20). Second source: sanskritdocuments doc_veda files / TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 5"
+    },
+    {
+      "id": "ws-syv-08",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः ०८",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_०८",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 8",
+        "Vajasaneyi Samhita 8"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 8; pada text labelled NN.M with the svara text below it (R2 S20). Second source: sanskritdocuments doc_veda files / TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 8"
+    },
+    {
+      "id": "ws-syv-09",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः ०९",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_०९",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 9",
+        "Vajasaneyi Samhita 9"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 9; pada text labelled NN.M with the svara text below it (R2 S20). Second source: sanskritdocuments doc_veda files / TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 9"
+    },
+    {
+      "id": "ws-syv-10",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः १०",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_१०",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 10",
+        "Vajasaneyi Samhita 10"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 10; pada text labelled NN.M with the svara text below it (R2 S20). Second source: sanskritdocuments doc_veda files / TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 10"
+    },
+    {
+      "id": "ws-syv-13",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः १३",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_१३",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 13",
+        "Vajasaneyi Samhita 13"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 13; pada text labelled NN.M with the svara text below it (R2 S20). Second source: sanskritdocuments doc_veda files / TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 13"
+    },
+    {
+      "id": "ws-syv-15",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः १५",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_१५",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 15",
+        "Vajasaneyi Samhita 15"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 15; pada text labelled NN.M with the svara text below it (R2 S20). Second source: sanskritdocuments doc_veda files / TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 15"
+    },
+    {
+      "id": "ws-syv-16",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः १६",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_१६",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 16",
+        "Vajasaneyi Samhita 16"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 16; pada text labelled NN.M with the svara text below it (R2 S20). Second source: sanskritdocuments doc_veda files / TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 16"
+    },
+    {
+      "id": "ws-syv-17",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः १७",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_१७",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 17",
+        "Vajasaneyi Samhita 17"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 17; pada text labelled NN.M with the svara text below it (R2 S20). Second source: sanskritdocuments doc_veda files / TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 17"
+    },
+    {
+      "id": "ws-syv-18",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः १८",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_१८",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 18",
+        "Vajasaneyi Samhita 18"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 18; pada text labelled NN.M with the svara text below it (R2 S20). Second source: sanskritdocuments doc_veda files / TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 18"
+    },
+    {
+      "id": "ws-syv-19",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः १९",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_१९",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 19",
+        "Vajasaneyi Samhita 19"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 19; pada text labelled NN.M with the svara text below it (R2 S20). Second source: sanskritdocuments doc_veda files / TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 19"
+    },
+    {
+      "id": "ws-syv-20",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः २०",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_२०",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 20",
+        "Vajasaneyi Samhita 20"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 20; pada text labelled NN.M with the svara text below it (R2 S20). Second source: sanskritdocuments doc_veda files / TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 20"
+    },
+    {
+      "id": "ws-syv-23",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः २३",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_२३",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 23",
+        "Vajasaneyi Samhita 23"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 23; pada text labelled NN.M with the svara text below it (R2 S20). Second source: sanskritdocuments doc_veda files / TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 23"
+    },
+    {
+      "id": "ws-syv-25",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः २५",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_२५",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 25",
+        "Vajasaneyi Samhita 25"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 25; pada text labelled NN.M with the svara text below it (R2 S20). Second source: sanskritdocuments doc_veda files / TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 25"
+    },
+    {
+      "id": "ws-syv-26",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः २६",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_२६",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 26",
+        "Vajasaneyi Samhita 26"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 26; pada text labelled NN.M with the svara text below it (R2 S20). Second source: sanskritdocuments doc_veda files / TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 26"
+    },
+    {
+      "id": "ws-syv-27",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः २७",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_२७",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 27",
+        "Vajasaneyi Samhita 27"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 27; pada text labelled NN.M with the svara text below it (R2 S20). Second source: sanskritdocuments doc_veda files / TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 27"
+    },
+    {
+      "id": "ws-syv-29",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः २९",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_२९",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 29",
+        "Vajasaneyi Samhita 29"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 29; pada text labelled NN.M with the svara text below it (R2 S20). Second source: sanskritdocuments doc_veda files / TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 29"
+    },
+    {
+      "id": "ws-syv-31",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः ३१",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_३१",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 31",
+        "Vajasaneyi Samhita 31"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 31; pada text labelled NN.M with the svara text below it (R2 S20). Second source: sanskritdocuments doc_veda files / TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 31"
+    },
+    {
+      "id": "ws-syv-33",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः ३३",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_३३",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 33",
+        "Vajasaneyi Samhita 33"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 33; pada text labelled NN.M with the svara text below it (R2 S20). Second source: sanskritdocuments doc_veda files / TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 33"
+    },
+    {
+      "id": "ws-syv-34",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः ३४",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_३४",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 34",
+        "Vajasaneyi Samhita 34"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 34; pada text labelled NN.M with the svara text below it (R2 S20). Second source: sanskritdocuments doc_veda files / TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 34"
+    },
+    {
+      "id": "ws-syv-36",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः ३६",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_३६",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 36",
+        "Vajasaneyi Samhita 36"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 36; pada text labelled NN.M with the svara text below it (R2 S20). Second source: sanskritdocuments doc_veda files / TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 36"
+    },
+    {
+      "id": "ws-syv-39",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः ३९",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_३९",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 39",
+        "Vajasaneyi Samhita 39"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 39; pada text labelled NN.M with the svara text below it (R2 S20). Second source: sanskritdocuments doc_veda files / TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 39"
+    },
+    {
+      "id": "ws-syv-40",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः ४०",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_४०",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 40",
+        "Vajasaneyi Samhita 40"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 40; pada text labelled NN.M with the svara text below it (R2 S20). Second source: sanskritdocuments doc_veda files / TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 40"
+    },
+    {
+      "id": "ws-syv-index",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "reference",
+      "secondSourceAvailable": false,
+      "titles": [
+        "शुक्लयजुर्वेदः",
+        "Shukla Yajurveda (Wikisource)"
+      ],
+      "note": "Index of the 40 adhyaya pages (R2 S19).",
+      "wikisourceLang": "sa"
+    },
+    {
+      "id": "ws-rudrashtadhyayi",
+      "project": "wikisource",
+      "title": "रुद्राष्टाध्यायी",
+      "url": "https://sa.wikisource.org/wiki/रुद्राष्टाध्यायी",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "रुद्राष्टाध्यायी",
+        "Rudrashtadhyayi"
+      ],
+      "note": "Eight adhyayas + shantyadhyaya + svastiprarthana (R2 S21); verify against sd-rudrashtadhyayi-sasvara.",
+      "wikisourceLang": "sa"
+    },
+    {
+      "id": "ws-pgs",
+      "project": "wikisource",
+      "title": "पारस्करगृह्यसूत्रम्",
+      "url": "https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "पारस्करगृह्यसूत्रम्",
+        "पारस्कर गृह्यसूत्र",
+        "Paraskara Grihya Sutra",
+        "Paraskara Grhyasutra"
+      ],
+      "note": "Three kandas; verify against Oldenberg SBE 29 (ia-sbe29).",
+      "wikisourceLang": "sa",
+      "locator": "PGS"
+    },
+    {
+      "id": "ws-skanda-reva-233",
+      "project": "wikisource",
+      "title": "स्कन्दपुराणम्/खण्डः ५ (अवन्तीखण्डः)/रेवा खण्डम्/अध्याय:२३३",
+      "url": "https://sa.wikisource.org/wiki/स्कन्दपुराणम्/खण्डः_५_(अवन्तीखण्डः)/रेवा_खण्डम्/अध्याय:२३३",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "स्कन्दपुराण रेवाखण्ड अध्याय 233",
+        "Skanda Purana Reva Khanda 233"
+      ],
+      "note": "Satyanarayan vrata katha adhyaya 1 (chapter 233 of the Reva-khanda page set; the page title uses अध्याय: with a colon). Visarga is typed as ASCII colon on the page — normalise to ः and record modified. Second source: sd-satyanarayan-katha.",
+      "wikisourceLang": "sa",
+      "locator": "SkP Reva 233"
+    },
+    {
+      "id": "ws-skanda-reva-234",
+      "project": "wikisource",
+      "title": "स्कन्दपुराणम्/खण्डः ५ (अवन्तीखण्डः)/रेवा खण्डम्/अध्याय:२३४",
+      "url": "https://sa.wikisource.org/wiki/स्कन्दपुराणम्/खण्डः_५_(अवन्तीखण्डः)/रेवा_खण्डम्/अध्याय:२३४",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "स्कन्दपुराण रेवाखण्ड अध्याय 234",
+        "Skanda Purana Reva Khanda 234"
+      ],
+      "note": "Satyanarayan vrata katha adhyaya 2 (chapter 234 of the Reva-khanda page set; the page title uses अध्याय: with a colon). Visarga is typed as ASCII colon on the page — normalise to ः and record modified. Second source: sd-satyanarayan-katha.",
+      "wikisourceLang": "sa",
+      "locator": "SkP Reva 234"
+    },
+    {
+      "id": "ws-skanda-reva-235",
+      "project": "wikisource",
+      "title": "स्कन्दपुराणम्/खण्डः ५ (अवन्तीखण्डः)/रेवा खण्डम्/अध्याय:२३५",
+      "url": "https://sa.wikisource.org/wiki/स्कन्दपुराणम्/खण्डः_५_(अवन्तीखण्डः)/रेवा_खण्डम्/अध्याय:२३५",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "स्कन्दपुराण रेवाखण्ड अध्याय 235",
+        "Skanda Purana Reva Khanda 235"
+      ],
+      "note": "Satyanarayan vrata katha adhyaya 3 (chapter 235 of the Reva-khanda page set; the page title uses अध्याय: with a colon). Visarga is typed as ASCII colon on the page — normalise to ः and record modified. Second source: sd-satyanarayan-katha.",
+      "wikisourceLang": "sa",
+      "locator": "SkP Reva 235"
+    },
+    {
+      "id": "ws-skanda-reva-236",
+      "project": "wikisource",
+      "title": "स्कन्दपुराणम्/खण्डः ५ (अवन्तीखण्डः)/रेवा खण्डम्/अध्याय:२३६",
+      "url": "https://sa.wikisource.org/wiki/स्कन्दपुराणम्/खण्डः_५_(अवन्तीखण्डः)/रेवा_खण्डम्/अध्याय:२३६",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "स्कन्दपुराण रेवाखण्ड अध्याय 236",
+        "Skanda Purana Reva Khanda 236"
+      ],
+      "note": "Satyanarayan vrata katha adhyaya 4 (chapter 236 of the Reva-khanda page set; the page title uses अध्याय: with a colon). Visarga is typed as ASCII colon on the page — normalise to ः and record modified. Second source: sd-satyanarayan-katha.",
+      "wikisourceLang": "sa",
+      "locator": "SkP Reva 236"
+    },
+    {
+      "id": "ws-skanda-reva-237",
+      "project": "wikisource",
+      "title": "स्कन्दपुराणम्/खण्डः ५ (अवन्तीखण्डः)/रेवा खण्डम्/अध्याय:२३७",
+      "url": "https://sa.wikisource.org/wiki/स्कन्दपुराणम्/खण्डः_५_(अवन्तीखण्डः)/रेवा_खण्डम्/अध्याय:२३७",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "स्कन्दपुराण रेवाखण्ड अध्याय 237",
+        "Skanda Purana Reva Khanda 237"
+      ],
+      "note": "Satyanarayan vrata katha adhyaya 5 (chapter 237 of the Reva-khanda page set; the page title uses अध्याय: with a colon). Visarga is typed as ASCII colon on the page — normalise to ः and record modified. Second source: sd-satyanarayan-katha.",
+      "wikisourceLang": "sa",
+      "locator": "SkP Reva 237"
+    },
+    {
+      "id": "ws-skanda-reva-index",
+      "project": "wikisource",
+      "title": "स्कन्दपुराणम्/खण्डः ५ (अवन्तीखण्डः)/रेवा खण्डम्",
+      "url": "https://sa.wikisource.org/wiki/स्कन्दपुराणम्/खण्डः_५_(अवन्तीखण्डः)/रेवा_खण्डम्",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "reference",
+      "secondSourceAvailable": false,
+      "titles": [
+        "रेवा खण्डम्",
+        "Reva Khanda (index)"
+      ],
+      "wikisourceLang": "sa"
+    },
+    {
+      "id": "ws-shri-sukta",
+      "project": "wikisource",
+      "title": "श्रीसूक्तम्",
+      "url": "https://sa.wikisource.org/wiki/श्रीसूक्तम्",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "श्रीसूक्तम्",
+        "Shri Sukta (Wikisource)"
+      ],
+      "note": "Khila sukta of the Rigveda as recited in Lakshmi puja; verify against sanskritdocuments doc_veda shrIsUkta (sasvara).",
+      "wikisourceLang": "sa"
+    },
+    {
+      "id": "ws-navagraha-stotra",
+      "project": "wikisource",
+      "title": "नवग्रहस्तोत्रम्",
+      "url": "https://sa.wikisource.org/wiki/नवग्रहस्तोत्रम्",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "नवग्रहस्तोत्रम्",
+        "Navagraha Stotra"
+      ],
+      "note": "Vyasa-attributed nine verses (जपाकुसुमसंकाशं …).",
+      "wikisourceLang": "sa"
+    },
+    {
+      "id": "ws-ganapati-atharvashirsha",
+      "project": "wikisource",
+      "title": "गणपत्यथर्वशीर्षम्",
+      "url": "https://sa.wikisource.org/wiki/गणपत्यथर्वशीर्षम्",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "गणपत्यथर्वशीर्षम्",
+        "Ganapati Atharvashirsha"
+      ],
+      "note": "Unaccented; the accented text is sd-ganapati-accent.",
+      "wikisourceLang": "sa"
+    },
+    {
+      "id": "ws-matsya-252",
+      "project": "wikisource",
+      "title": "मत्स्यपुराणम्/अध्यायः २५२",
+      "url": "https://sa.wikisource.org/wiki/मत्स्यपुराणम्/अध्यायः_२५२",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": false,
+      "titles": [
+        "मत्स्यपुराण अध्याय 252",
+        "Matsya Purana 252"
+      ],
+      "note": "Vastu chapters (vastu-purusha, 45 devatas, vastu homa) for Vastu shanti.",
+      "wikisourceLang": "sa",
+      "locator": "MtP 252"
+    },
+    {
+      "id": "ws-matsya-253",
+      "project": "wikisource",
+      "title": "मत्स्यपुराणम्/अध्यायः २५३",
+      "url": "https://sa.wikisource.org/wiki/मत्स्यपुराणम्/अध्यायः_२५३",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": false,
+      "titles": [
+        "मत्स्यपुराण अध्याय 253",
+        "Matsya Purana 253"
+      ],
+      "note": "Vastu chapters (vastu-purusha, 45 devatas, vastu homa) for Vastu shanti.",
+      "wikisourceLang": "sa",
+      "locator": "MtP 253"
+    },
+    {
+      "id": "ws-matsya-254",
+      "project": "wikisource",
+      "title": "मत्स्यपुराणम्/अध्यायः २५४",
+      "url": "https://sa.wikisource.org/wiki/मत्स्यपुराणम्/अध्यायः_२५४",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": false,
+      "titles": [
+        "मत्स्यपुराण अध्याय 254",
+        "Matsya Purana 254"
+      ],
+      "note": "Vastu chapters (vastu-purusha, 45 devatas, vastu homa) for Vastu shanti.",
+      "wikisourceLang": "sa",
+      "locator": "MtP 254"
+    },
+    {
+      "id": "ws-matsya-255",
+      "project": "wikisource",
+      "title": "मत्स्यपुराणम्/अध्यायः २५५",
+      "url": "https://sa.wikisource.org/wiki/मत्स्यपुराणम्/अध्यायः_२५५",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": false,
+      "titles": [
+        "मत्स्यपुराण अध्याय 255",
+        "Matsya Purana 255"
+      ],
+      "note": "Vastu chapters (vastu-purusha, 45 devatas, vastu homa) for Vastu shanti.",
+      "wikisourceLang": "sa",
+      "locator": "MtP 255"
+    },
+    {
+      "id": "ws-matsya-256",
+      "project": "wikisource",
+      "title": "मत्स्यपुराणम्/अध्यायः २५६",
+      "url": "https://sa.wikisource.org/wiki/मत्स्यपुराणम्/अध्यायः_२५६",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": false,
+      "titles": [
+        "मत्स्यपुराण अध्याय 256",
+        "Matsya Purana 256"
+      ],
+      "note": "Vastu chapters (vastu-purusha, 45 devatas, vastu homa) for Vastu shanti.",
+      "wikisourceLang": "sa",
+      "locator": "MtP 256"
+    },
+    {
+      "id": "ws-matsya-257",
+      "project": "wikisource",
+      "title": "मत्स्यपुराणम्/अध्यायः २५७",
+      "url": "https://sa.wikisource.org/wiki/मत्स्यपुराणम्/अध्यायः_२५७",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": false,
+      "titles": [
+        "मत्स्यपुराण अध्याय 257",
+        "Matsya Purana 257"
+      ],
+      "note": "Vastu chapters (vastu-purusha, 45 devatas, vastu homa) for Vastu shanti.",
+      "wikisourceLang": "sa",
+      "locator": "MtP 257"
+    },
+    {
+      "id": "ws-garuda-pretakanda",
+      "project": "wikisource",
+      "title": "गरुडपुराणम्/प्रेतकाण्डः (धर्मकाण्डः)",
+      "url": "https://sa.wikisource.org/wiki/गरुडपुराणम्/प्रेतकाण्डः_(धर्मकाण्डः)",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "गरुडपुराण प्रेतकाण्ड",
+        "Garuda Purana Pretakanda",
+        "Garuda Purana (Pretakanda)"
+      ],
+      "note": "Index of 49 adhyayas → /अध्यायः १ …; numbering cross-check with gretil-garuda.",
+      "wikisourceLang": "sa"
+    },
+    {
+      "id": "ws-mukhyaprishtham",
+      "project": "wikisource",
+      "title": "मुख्यपृष्ठम् (Sanskrit Wikisource)",
+      "url": "https://sa.wikisource.org/wiki/मुख्यपृष्ठम्",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "portal",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Sanskrit Wikisource",
+        "संस्कृत विकिस्रोत"
+      ],
+      "note": "Licence footer: CC BY-SA 4.0 (R2 S4).",
+      "wikisourceLang": "sa"
+    },
+    {
+      "id": "ws-hi-ramcharitmanas",
+      "project": "wikisource",
+      "title": "रामचरितमानस (Hindi Wikisource; Belvedere 1925 scan)",
+      "url": "https://hi.wikisource.org/wiki/रामचरितमानस",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 / public-domain scan (PD-1996)",
+      "kind": "scan",
+      "secondSourceAvailable": true,
+      "titles": [
+        "रामचरितमानस (विकिस्रोत)",
+        "Ramcharitmanas (Hindi Wikisource)"
+      ],
+      "note": "Belvedere Press 1925 scan index विषयसूची:रामचरितमानस.pdf; Sundarkand transcription source (plan §2.7).",
+      "wikisourceLang": "hi"
+    },
+    {
+      "id": "sd-syv-sandhya",
+      "project": "sanskritdocuments",
+      "title": "shuklayajurvedIyasandhyA (Shukla Yajurvediya Sandhya)",
+      "url": "https://sanskritdocuments.org/doc_veda/shuklayajurvedIyasandhyA.html",
+      "retrieved": "2026-10-31",
+      "licence": "sanskritdocuments.org terms: personal study; reproduced here under the owner decision of brief section 14 with locator and attribution",
+      "kind": "verify",
+      "secondSourceAvailable": false,
+      "titles": [
+        "शुक्लयजुर्वेदीय संध्या (sanskritdocuments)",
+        "Shukla Yajurvediya Sandhya (sanskritdocuments)"
+      ],
+      "note": "Order of the Madhyandina sandhya; mantra text copied from the SYV pages (R2 S47)."
+    },
+    {
+      "id": "sd-svastivachanam",
+      "project": "sanskritdocuments",
+      "title": "svastivAchanam",
+      "url": "https://sanskritdocuments.org/doc_veda/svastivAchanam.html",
+      "retrieved": "2026-10-31",
+      "licence": "sanskritdocuments.org terms: personal study; reproduced here under the owner decision of brief section 14 with locator and attribution",
+      "kind": "verify",
+      "secondSourceAvailable": false,
+      "titles": [
+        "स्वस्तिवाचनम् (sanskritdocuments)",
+        "Svastivachanam (sanskritdocuments)"
+      ],
+      "note": "Composite order of the svasti ṛks (R2 S48)."
+    },
+    {
+      "id": "sd-rudrashtadhyayi-sasvara",
+      "project": "sanskritdocuments",
+      "title": "rudrAShTAdhyAyI shuklayajurvedIya sasvara",
+      "url": "https://sanskritdocuments.org/doc_shiva/rudrAShTAdhyAyIshuklayajurvedIyasasvara.html",
+      "retrieved": "2026-10-31",
+      "licence": "sanskritdocuments.org terms: personal study; reproduced here under the owner decision of brief section 14 with locator and attribution",
+      "kind": "verify",
+      "secondSourceAvailable": true,
+      "titles": [
+        "रुद्राष्टाध्यायी सस्वर (sanskritdocuments)",
+        "Rudrashtadhyayi sasvara (sanskritdocuments)"
+      ],
+      "note": "Accented Rudrashtadhyayi (U+A8F3, U+1CEA, U+1CED); brief section 14 also allows it as copy source for the shanti/svasti sections missing on Wikisource."
+    },
+    {
+      "id": "sd-satyanarayan-katha",
+      "project": "sanskritdocuments",
+      "title": "satyanArAyaNa vratakathA",
+      "url": "https://sanskritdocuments.org/doc_vishhnu/satyanArAyaNavratakathA.html",
+      "retrieved": "2026-10-31",
+      "licence": "sanskritdocuments.org terms: personal study; reproduced here under the owner decision of brief section 14 with locator and attribution",
+      "kind": "verify",
+      "secondSourceAvailable": false,
+      "titles": [
+        "सत्यनारायण व्रतकथा (sanskritdocuments)",
+        "Satyanarayana vratakatha (sanskritdocuments)"
+      ],
+      "note": "Five adhyayas 24/27/51/44/24 verses (R2 S23)."
+    },
+    {
+      "id": "sd-durga700",
+      "project": "sanskritdocuments",
+      "title": "durga700 (Durga Saptashati / Devi Mahatmyam)",
+      "url": "https://sanskritdocuments.org/doc_devii/durga700.html",
+      "retrieved": "2026-10-31",
+      "licence": "sanskritdocuments.org terms: personal study; reproduced here under the owner decision of brief section 14 with locator and attribution",
+      "kind": "verify",
+      "secondSourceAvailable": false,
+      "titles": [
+        "durga700",
+        "दुर्गासप्तशती (sanskritdocuments)"
+      ],
+      "note": "Pothi order: 13 adhyayas with viniyoga and the angas (R2 S25)."
+    },
+    {
+      "id": "sd-ganapati-accent",
+      "project": "sanskritdocuments",
+      "title": "Shri Ganapati Atharvashirsha with accents (ganapatiaccent)",
+      "url": "https://sanskritdocuments.org/doc_veda/ganapatiaccent.html",
+      "retrieved": "2026-10-31",
+      "licence": "sanskritdocuments.org terms: personal study; reproduced here under the owner decision of brief section 14 with locator and attribution",
+      "kind": "verify",
+      "secondSourceAvailable": false,
+      "titles": [
+        "ganapatiaccent",
+        "गणपत्यथर्वशीर्ष सस्वर (sanskritdocuments)"
+      ],
+      "note": "Accented text used by R3 for the font proof (160 x U+0951, 228 x U+0952, 27 Vedic-extension characters)."
+    },
+    {
+      "id": "sd-doc-veda",
+      "project": "sanskritdocuments",
+      "title": "doc_veda index",
+      "url": "https://sanskritdocuments.org/doc_veda/",
+      "retrieved": "2026-10-31",
+      "licence": "sanskritdocuments.org terms: personal study; reproduced here under the owner decision of brief section 14 with locator and attribution",
+      "kind": "reference",
+      "secondSourceAvailable": false,
+      "titles": [
+        "sanskritdocuments doc_veda"
+      ],
+      "note": "SYV sandhya, Purusha-sukta SYV, Shri-sukta sasvara, shantipatha, svastivachana, navagraha-sukta entries (R2 S46)."
+    },
+    {
+      "id": "sd-doc-misc",
+      "project": "sanskritdocuments",
+      "title": "doc_z_misc_general index",
+      "url": "https://sanskritdocuments.org/doc_z_misc_general/",
+      "retrieved": "2026-10-31",
+      "licence": "sanskritdocuments.org terms: personal study; reproduced here under the owner decision of brief section 14 with locator and attribution",
+      "kind": "reference",
+      "secondSourceAvailable": false,
+      "titles": [
+        "sanskritdocuments doc_z_misc_general"
+      ],
+      "note": "Misc. paddhati verses (R2 S53)."
+    },
+    {
+      "id": "sd-home",
+      "project": "sanskritdocuments",
+      "title": "sanskritdocuments.org (terms paragraph)",
+      "url": "https://sanskritdocuments.org/",
+      "retrieved": "2026-10-31",
+      "licence": "sanskritdocuments.org terms: personal study; reproduced here under the owner decision of brief section 14 with locator and attribution",
+      "kind": "portal",
+      "secondSourceAvailable": false,
+      "titles": [
+        "sanskritdocuments.org"
+      ],
+      "note": "Terms: personal study, no copying without permission (R2 S1, S2)."
+    },
+    {
+      "id": "gretil-garuda",
+      "project": "gretil",
+      "title": "Garudapurana (GRETIL plaintext, Venkateshvara ed., Sansknet input)",
+      "url": "http://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_garuDapurANa.txt",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-NC-SA 4.0 (encoding)",
+      "kind": "verify",
+      "secondSourceAvailable": false,
+      "titles": [
+        "GRETIL Garudapurana",
+        "Garuda Purana (GRETIL)"
+      ],
+      "note": "Numbering cross-check only; never merged into a BY-SA record (decisions section 7.1).",
+      "encoders": "Sansknet project"
+    },
+    {
+      "id": "gretil-skanda-reva",
+      "project": "gretil",
+      "title": "Skandapurana Revakhanda (RKS, ed. Giri 1994; input J. Neuss)",
+      "url": "http://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_skandapurANa-revAkhaNDa-rks.txt",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-NC-SA 4.0 (encoding)",
+      "kind": "verify",
+      "secondSourceAvailable": false,
+      "titles": [
+        "GRETIL Revakhanda",
+        "Skanda Purana Revakhanda (GRETIL)"
+      ],
+      "note": "Does not contain the Satyanarayan chapters (R2 C16).",
+      "encoders": "Jürgen Neuss"
+    },
+    {
+      "id": "vhp-vajasaneyi",
+      "project": "vhp",
+      "title": "Vedic Heritage Portal — Vajasneyi Madhyandina Samhita",
+      "url": "https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/",
+      "retrieved": "2026-10-31",
+      "licence": "no reproduction without written permission (IGNCA copyright policy)",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Vedic Heritage Portal",
+        "वैदिक हेरिटेज पोर्टल",
+        "vedicheritage.gov.in"
+      ],
+      "note": "Recitation audio and bibliography; link only (R2 S5, S6)."
+    },
+    {
+      "id": "titus-vs",
+      "project": "titus",
+      "title": "TITUS — Vajasaneyi-Samhita (Madhyandina)",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm",
+      "retrieved": "2026-10-31",
+      "licence": "no republication (TITUS terms)",
+      "kind": "verify",
+      "secondSourceAvailable": false,
+      "titles": [
+        "TITUS Vajasaneyi-Samhita",
+        "TITUS"
+      ],
+      "note": "Verification of VS readings only (R2 S11)."
+    },
+    {
+      "id": "ia-sbe29",
+      "project": "archive",
+      "title": "The Grihya-Sutras, Part I (Oldenberg, Sacred Books of the East XXIX, 1886)",
+      "url": "https://archive.org/details/india.history.resource.89728",
+      "retrieved": "2026-10-31",
+      "licence": "public domain (1886)",
+      "kind": "sequence",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Sacred Books of the East XXIX",
+        "Grihya-Sutras (Oldenberg)",
+        "Oldenberg SBE 29"
+      ],
+      "note": "PD English translation of the Paraskara Grihya Sutra; sequence reference for the vivaha (R1 ia-sbe29-djvu).",
+      "item": "india.history.resource.89728",
+      "publisher": "Clarendon Press, Oxford",
+      "year": "1886"
+    },
+    {
+      "id": "ia-satyanarayan-jangamwadi",
+      "project": "archive",
+      "title": "Satyanarayan Vrat Puja Katha (Sanskrit, printed; Jangamwadi Math collection)",
+      "url": "https://archive.org/details/satyanarayan-vrat-puja-katha-sanskrit-printed-jangamwadi-math-collection",
+      "retrieved": "2026-10-31",
+      "licence": "public-domain print (uploader metadata; verify imprint date)",
+      "kind": "scan",
+      "secondSourceAvailable": true,
+      "titles": [
+        "Satyanarayan Vrat Puja Katha (Jangamwadi scan)"
+      ],
+      "note": "Sanskrit katha + puja vidhi scan; use for the vidhi sequence and as a second source for the verses (R2 S54).",
+      "item": "satyanarayan-vrat-puja-katha-sanskrit-printed-jangamwadi-math-collection"
+    },
+    {
+      "id": "ia-syv-nirnaya-1929",
+      "project": "archive",
+      "title": "Shukla Yajurveda Samhita (W. L. S. Pansikar, Nirnaya Sagar Press, 1929)",
+      "url": "https://archive.org/details/ShuklaYajurvedaSamhita1929WLSPansikarNirnayaSagarPress",
+      "retrieved": "2026-10-31",
+      "licence": "public domain (pre-1931 print)",
+      "kind": "scan",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Shukla Yajurveda Samhita 1929 (Nirnaya Sagar)"
+      ],
+      "note": "Printed Madhyandina text with svara; reference for readings (R2 S54).",
+      "item": "ShuklaYajurvedaSamhita1929WLSPansikarNirnayaSagarPress",
+      "publisher": "Nirnaya Sagar Press, Bombay",
+      "year": "1929"
+    },
+    {
+      "id": "ia-vivah-mvf",
+      "project": "archive",
+      "title": "Vivah Sanskar Paddhati (Acharya Akhilesh Dwivedi, Manav Vikas Foundation, 2020) — OCR text",
+      "url": "https://archive.org/stream/mvf_20240803_20240803_1558/विवाह%20पद्धति%20-%20Mvf%20_djvu.txt",
+      "retrieved": "2026-10-31",
+      "licence": "modern Hindi, copyright author — sequence facts only, no text copied",
+      "kind": "sequence",
+      "secondSourceAvailable": false,
+      "titles": [
+        "विवाह संस्कार पद्धति (द्विवेदी)",
+        "Vivah Sanskar Paddhati (Dwivedi 2020)"
+      ],
+      "note": "Madhyandina/PGS pothi with lokachar markers and Purvanchal customs (kohbar, dwarpuja); R1 ia-vivah-mvf.",
+      "item": "mvf_20240803_20240803_1558",
+      "publisher": "Manav Vikas Foundation, Mumbai",
+      "year": "2020"
+    },
+    {
+      "id": "ia-vivah-paddhati",
+      "project": "archive",
+      "title": "Vivah Paddhati (94-page scan, same text family)",
+      "url": "https://archive.org/details/20240214_20240214_1342",
+      "retrieved": "2026-10-31",
+      "licence": "no licence stated — sequence facts only",
+      "kind": "sequence",
+      "secondSourceAvailable": false,
+      "titles": [
+        "विवाह पद्धति (scan 20240214)"
+      ],
+      "note": "R1 ia-vivah-paddhati.",
+      "item": "20240214_20240214_1342"
+    },
+    {
+      "id": "ia-antya-gp",
+      "project": "archive",
+      "title": "Antya Karma Shraddha Prakash (Gita Press scan)",
+      "url": "https://archive.org/details/antya-karma-shraddha-prakash-gita-press-gorakhpur_202011",
+      "retrieved": "2026-10-31",
+      "licence": "copyright Gita Press edition — reference scan only, no text copied",
+      "kind": "sequence",
+      "secondSourceAvailable": false,
+      "titles": [
+        "अन्त्यकर्म-श्राद्धप्रकाश",
+        "Antya Karma Shraddha Prakash",
+        "Antyakarma-Shraddha Prakash"
+      ],
+      "note": "Sequence facts for antyeshti/shraddha (R1 ia-antya-gp).",
+      "item": "antya-karma-shraddha-prakash-gita-press-gorakhpur_202011",
+      "publisher": "Gita Press, Gorakhpur"
+    },
+    {
+      "id": "ia-rudra-gp",
+      "project": "archive",
+      "title": "Rudrashtadhyayi (Gita Press scan)",
+      "url": "https://archive.org/details/rudrashtadhyayi-gita-press-gorakhpur",
+      "retrieved": "2026-10-31",
+      "licence": "copyright Gita Press edition — reference only",
+      "kind": "sequence",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Rudrashtadhyayi (Gita Press)",
+        "रुद्राष्टाध्यायी (गीता प्रेस)"
+      ],
+      "note": "Chapter order of the Rudri paath (R1 ia-rudra-gp).",
+      "item": "rudrashtadhyayi-gita-press-gorakhpur",
+      "publisher": "Gita Press, Gorakhpur"
+    },
+    {
+      "id": "ia-karmakand-bhaskar",
+      "project": "archive",
+      "title": "Karmakand Bhaskar (AWGP scan)",
+      "url": "https://archive.org/details/20201029_20201029_0657",
+      "retrieved": "2026-10-31",
+      "licence": "uploader-asserted licence; reformist (Gayatri Pariwar) paddhati — compare only",
+      "kind": "sequence",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Karmakand Bhaskar",
+        "कर्मकाण्ड भास्कर"
+      ],
+      "note": "Not the Pauranik Madhyandina line (R1 section B); used for comparison notes only.",
+      "item": "20201029_20201029_0657"
+    },
+    {
+      "id": "ia-search",
+      "project": "archive",
+      "title": "archive.org advanced search (metadata API)",
+      "url": "https://archive.org/advancedsearch.php",
+      "retrieved": "2026-10-31",
+      "licence": "item-level; licenceurl uploader-asserted",
+      "kind": "reference",
+      "secondSourceAvailable": false,
+      "titles": [
+        "archive.org search"
+      ],
+      "note": "Queries recorded in R2 S54."
+    },
+    {
+      "id": "stotranidhi",
+      "project": "stotranidhi",
+      "title": "Stotra Nidhi",
+      "url": "https://stotranidhi.com/",
+      "retrieved": "2026-10-31",
+      "licence": "site terms not stated for reuse; reproduced under brief section 14 with locator",
+      "kind": "copy",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Stotra Nidhi",
+        "stotranidhi.com"
+      ],
+      "note": "Client-rendered — fetch with venv Playwright page.inner_text (brief section 10). Copy source for chalisas/aartis absent from Wikisource."
+    },
+    {
+      "id": "kavitakosh-sundarkand",
+      "project": "kavitakosh",
+      "title": "Kavita Kosh — सुन्दर काण्ड / रामचरितमानस / तुलसीदास",
+      "url": "https://kavitakosh.org/kk/सुन्दर_काण्ड_/_रामचरितमानस_/_तुलसीदास",
+      "retrieved": "2026-10-31",
+      "licence": "all rights reserved to authors (verification only)",
+      "kind": "verify",
+      "secondSourceAvailable": false,
+      "titles": [
+        "कविता कोश",
+        "Kavita Kosh"
+      ],
+      "note": "Second source for the Sundarkand transcription (attribution line T)."
+    },
+    {
+      "id": "shubhvela",
+      "project": "shubhvela",
+      "title": "Shubhvela — panchang, festivals, muhurat (the owner's other site)",
+      "url": "https://sudish007.github.io/shubhvela/",
+      "retrieved": "2026-10-31",
+      "licence": "MIT code / own content",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Shubhvela",
+        "शुभवेला"
+      ],
+      "note": "Dates, muhurat and festival pages are linked, never recomputed (brief section 2.3); ids in content/shubhvela-ids.json."
+    },
+    {
+      "id": "research-decisions",
+      "project": "research",
+      "title": "Pandit Bano research synthesis (research/decisions.md; summary in docs/research-summary.md)",
+      "url": "https://github.com/Sudish007/panditbano",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (site prose)",
+      "kind": "reference",
+      "secondSourceAvailable": false,
+      "titles": [
+        "research/decisions.md"
+      ],
+      "note": "Tradition baseline, sequence facts and owner questions; the public summary ships as docs/research-summary.md (FEAT-110)."
+    },
+    {
+      "id": "research-r1",
+      "project": "research",
+      "title": "R1 tradition dossier (research/R1-tradition.md)",
+      "url": "https://github.com/Sudish007/panditbano",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (site prose)",
+      "kind": "reference",
+      "secondSourceAvailable": false,
+      "titles": [
+        "R1-tradition.md"
+      ],
+      "note": "Occasion sequences with their sources; muhurat-rule rows."
+    },
+    {
+      "id": "research-r4",
+      "project": "research",
+      "title": "R4 legal and sensitivity dossier (research/R4-legal.md)",
+      "url": "https://github.com/Sudish007/panditbano",
+      "retrieved": "2026-10-31",
+      "licence": "CC BY-SA 4.0 (site prose)",
+      "kind": "reference",
+      "secondSourceAvailable": false,
+      "titles": [
+        "R4-legal.md"
+      ],
+      "note": "Privacy paragraph section 6.3; honesty frames section 5.3–5.5."
+    },
+    {
+      "id": "ssvv-karmakand",
+      "project": "government",
+      "title": "Sampurnanand Sanskrit Vishwavidyalaya — Online Sanskrit Training Centre, Karmakand courses",
+      "url": "https://ssvvostc.ac.in/karmakand/",
+      "retrieved": "2026-10-31",
+      "licence": "institutional page",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "ssvvostc.ac.in"
+      ],
+      "note": "Level 0 route table (decisions section 10)."
+    },
+    {
+      "id": "csu-pgd-karmakanda",
+      "project": "government",
+      "title": "Central Sanskrit University — P.G. Diploma in Karmakanda and Paurohitya",
+      "url": "https://www.csu-agartala.edu.in/pg_diploma_in_karmakanda_and_paurohitya.html",
+      "retrieved": "2026-10-31",
+      "licence": "institutional page",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "csu-agartala.edu.in"
+      ]
+    },
+    {
+      "id": "slbsrsv-paurohitya",
+      "project": "government",
+      "title": "Shri Lal Bahadur Shastri National Sanskrit University — Diploma courses",
+      "url": "https://www.slbsrsv.ac.in/academic/part-time-courses/diploma-advance-diploma-courses",
+      "retrieved": "2026-10-31",
+      "licence": "institutional page",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "slbsrsv.ac.in"
+      ]
+    },
+    {
+      "id": "jrrsu-admission",
+      "project": "government",
+      "title": "Jagadguru Ramanandacharya Rajasthan Sanskrit University — admissions",
+      "url": "https://admission.jrrsu.in/",
+      "retrieved": "2026-10-31",
+      "licence": "institutional page",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "jrrsu.in"
+      ]
+    },
+    {
+      "id": "usvv-jyotish",
+      "project": "government",
+      "title": "Uttarakhand Sanskrit University — Faculty of Veda and Jyotish",
+      "url": "http://usvv.ac.in/faculty-veda-jyotish.php",
+      "retrieved": "2026-10-31",
+      "licence": "institutional page (no TLS)",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "usvv.ac.in"
+      ]
+    },
+    {
+      "id": "upss-training",
+      "project": "government",
+      "title": "Uttar Pradesh Sanskrit Sansthan — training scheme",
+      "url": "https://upsanskritsansthanam.in/en/page/training-scheme",
+      "retrieved": "2026-10-31",
+      "licence": "institutional page",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "upsanskritsansthanam.in"
+      ]
+    },
+    {
+      "id": "upss-paurohitya-registry",
+      "project": "government",
+      "title": "Uttar Pradesh Sanskrit Seva — Paurohitya registry",
+      "url": "http://upsanskritseva.in/Web/Paurohitya",
+      "retrieved": "2026-10-31",
+      "licence": "institutional page (no TLS)",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "upsanskritseva.in"
+      ]
+    },
+    {
+      "id": "mpsvv-admission",
+      "project": "government",
+      "title": "Maharshi Panini Sanskrit evam Vedic Vishwavidyalaya — admission",
+      "url": "https://www.mpsvv.ac.in/index.php/en/admission",
+      "retrieved": "2026-10-31",
+      "licence": "institutional page",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "mpsvv.ac.in"
+      ]
+    },
+    {
+      "id": "ksdsu",
+      "project": "government",
+      "title": "Kameshwar Singh Darbhanga Sanskrit University",
+      "url": "https://ksdsu.bihar.gov.in/",
+      "retrieved": "2026-10-31",
+      "licence": "institutional page",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "ksdsu.bihar.gov.in"
+      ]
+    },
+    {
+      "id": "jnana-prabodhini",
+      "project": "other",
+      "title": "Jnana Prabodhini — Paurohitya training",
+      "url": "https://www.jnanaprabodhini.org/paurohitya/",
+      "retrieved": "2026-10-31",
+      "licence": "institutional page",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Jnana Prabodhini",
+        "jnanaprabodhini.org"
+      ],
+      "note": "Open-access precedent cited on Level 0 (R4 section 8.3 rule 2)."
+    }
+  ]
+}

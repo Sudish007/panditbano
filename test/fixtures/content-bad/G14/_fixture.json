@@ -1,0 +1,5 @@
+{
+  "base": "../../content-sample",
+  "expect": "G14",
+  "note": "mantra + curative verb + Schedule disease term → FAIL"
+}

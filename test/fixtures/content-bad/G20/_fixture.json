@@ -1,0 +1,5 @@
+{
+  "base": "../../content-sample",
+  "expect": "G20",
+  "note": "the 25-id content form instead of the 14 engine ids → FAIL"
+}

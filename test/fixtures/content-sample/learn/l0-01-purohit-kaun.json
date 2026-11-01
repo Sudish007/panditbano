@@ -1,0 +1,171 @@
+{
+  "id": "l0-01-purohit-kaun",
+  "level": 0,
+  "order": 1,
+  "minutes": 10,
+  "title": {
+    "hi": "पुरोहित कौन है?",
+    "en": "Who is a purohit?",
+    "bho": "पुरोहित के हवें?"
+  },
+  "summary": {
+    "hi": "घर के संस्कार कराने वाले पुरोहित की भूमिका और सीखने के औपचारिक रास्ते।",
+    "en": "The role of the family purohit and the formal routes to learning it.",
+    "bho": "घर के संस्कार करावे वाला पुरोहित के भूमिका आ सीखे के औपचारिक रास्ता।"
+  },
+  "quiz": [
+    {
+      "q": {
+        "hi": "उत्तर भारत के अधिकतर पंडित किस वेद-शाखा का पालन करते हैं?",
+        "en": "Which Vedic shakha do most North Indian pandits follow?",
+        "bho": "उत्तर भारत के बेसी पंडित कवना वेद-शाखा के मानेलन?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "hi": "शुक्ल यजुर्वेद माध्यंदिन",
+            "en": "Shukla Yajurveda Madhyandina",
+            "bho": "शुक्ल यजुर्वेद माध्यंदिन"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "hi": "कृष्ण यजुर्वेद तैत्तिरीय",
+            "en": "Krishna Yajurveda Taittiriya",
+            "bho": "कृष्न यजुर्वेद तैत्तिरीय"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "hi": "सामवेद कौथुम",
+            "en": "Samaveda Kauthuma",
+            "bho": "सामवेद कौथुम"
+          }
+        }
+      ],
+      "answer": "a",
+      "feedback": {
+        "ok": {
+          "hi": "सही — हिंदी-भाषी क्षेत्र की पद्धतियाँ इसी शाखा के मंत्र उद्धृत करती हैं।",
+          "en": "Right — the Hindi-belt paddhatis quote this shakha's mantras.",
+          "bho": "सही — हिंदी-भाषी इलाका के पद्धति एही शाखा के मंत्र लिखेला।"
+        },
+        "no": {
+          "hi": "नहीं — उत्तर भारत में शुक्ल यजुर्वेद की माध्यंदिन शाखा चलती है।",
+          "en": "No — North India follows the Madhyandina shakha of the Shukla Yajurveda.",
+          "bho": "ना — उत्तर भारत में शुक्ल यजुर्वेद के माध्यंदिन शाखा चलेला।"
+        }
+      }
+    },
+    {
+      "q": {
+        "hi": "विवाह की विधि का मुख्य सूत्र-ग्रंथ कौन है?",
+        "en": "Which sutra text is the backbone of the wedding procedure?",
+        "bho": "बियाह के विधि के मुख्य सूत्र-ग्रंथ कवन बा?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "hi": "मनुस्मृति",
+            "en": "Manusmriti",
+            "bho": "मनुस्मृति"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "hi": "पारस्कर गृह्यसूत्र",
+            "en": "Paraskara Grihya Sutra",
+            "bho": "पारस्कर गृह्यसूत्र"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "hi": "गरुड़ पुराण",
+            "en": "Garuda Purana",
+            "bho": "गरुड़ पुरान"
+          }
+        }
+      ],
+      "answer": "b",
+      "feedback": {
+        "ok": {
+          "hi": "सही।",
+          "en": "Right.",
+          "bho": "सही।"
+        },
+        "no": {
+          "hi": "नहीं — पारस्कर गृह्यसूत्र ही विवाह का आधार है।",
+          "en": "No — the Paraskara text is the basis of the wedding.",
+          "bho": "ना — पारस्कर गृह्यसूत्र ही बियाह के आधार बा।"
+        }
+      }
+    },
+    {
+      "q": {
+        "hi": "सप्तपदी में कितने पद होते हैं?",
+        "en": "How many steps are in the saptapadi?",
+        "bho": "सप्तपदी में केतना पद होला?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "hi": "चार",
+            "en": "Four",
+            "bho": "चार"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "hi": "सात",
+            "en": "Seven",
+            "bho": "सात"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "hi": "बारह",
+            "en": "Twelve",
+            "bho": "बारह"
+          }
+        }
+      ],
+      "answer": "b",
+      "feedback": {
+        "ok": {
+          "hi": "सही — सात।",
+          "en": "Right — seven.",
+          "bho": "सही — सात।"
+        },
+        "no": {
+          "hi": "नहीं — सात पद, चार भाँवरों के बाद।",
+          "en": "No — seven steps, after the four bhanwars.",
+          "bho": "ना — सात पद, चार भाँवर के बाद।"
+        }
+      }
+    }
+  ],
+  "related": {
+    "occasions": [
+      "vivah"
+    ],
+    "mantras": [
+      "vs-36-3"
+    ],
+    "terms": [
+      "purohit"
+    ]
+  },
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

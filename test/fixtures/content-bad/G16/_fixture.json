@@ -1,0 +1,5 @@
+{
+  "base": "../../content-sample",
+  "expect": "G16",
+  "note": "bare source titles without links → FAIL"
+}

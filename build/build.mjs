@@ -10,6 +10,10 @@ import { fileURLToPath } from "node:url";
 import config, { LANGS } from "./config.mjs";
 import { createRoutes, OCCASION_GROUPS } from "./lib/routes.mjs";
 import { setUI, tidy } from "./templates/lib.mjs";
+import { loadContent, parseJsonFile } from "./lib/load.mjs";
+import { runGate, writeReport, formatFindings } from "./gate.mjs";
+import { derive } from "./lib/derive.mjs";
+export { parseJsonFile };
 import { homePage } from "./templates/pages/home.mjs";
 import { notFoundPage } from "./templates/pages/not-found.mjs";
 import { offlinePage } from "./templates/pages/offline.mjs";
@@ -33,24 +37,6 @@ function walk(dir, out = []) {
 }
 const posix = (p) => p.split(sep).join("/");
 
-/** JSON.parse with file:line:col in the error (design §11.1 stage 1). */
-export function parseJsonFile(file) {
-  const text = readFileSync(file, "utf8");
-  try {
-    return JSON.parse(text);
-  } catch (err) {
-    const m = /position (\d+)/.exec(err.message);
-    let line = 1, col = 1;
-    if (m) {
-      const pos = Number(m[1]);
-      const before = text.slice(0, pos);
-      line = before.split("\n").length;
-      col = pos - before.lastIndexOf("\n");
-    }
-    throw new Error(`${posix(relative(ROOT, file))}:${line}:${col}: ${err.message}`);
-  }
-}
-
 /** --paper of the light and dark blocks of tokens.css (for <meta name="theme-color"> and the manifest). */
 export function paperColours(tokensCss) {
   const pick = (selector) => {
@@ -65,38 +51,29 @@ const hash12 = (buf) => createHash("sha256").update(buf).digest("hex").slice(0, 
 
 // ---------------------------------------------------------------- stages
 function stageLoad() {
-  const ui = {};
+  const data = loadContent(config.CONTENT_DIR, { label: "content" });
   for (const l of LANGS) {
-    const file = join(config.CONTENT_DIR, "ui", `${l}.json`);
-    ui[l] = parseJsonFile(file);
-    setUI(l, ui[l]);
+    if (!data.ui[l]) throw new Error(`content/ui/${l}.json missing`);
+    setUI(l, data.ui[l]);
   }
-  // Content collections (occasions, mantras, …) are loaded by build/lib/load.mjs from FEAT-104 onward.
-  const data = { ui, features: { searchPage: config.features.search } };
+  data.features = { searchPage: config.features.search };
   return data;
 }
 
-function stageGate() {
-  // FEAT-104 wires build/gate.mjs here; until then the gate has nothing to check.
-  return { ok: true, findings: [] };
+function stageGate(data) {
+  // design §10.7: FAIL → exit 3 after writing dist/_reports/gate.json (the only dist write on failure — NIT 14)
+  return runGate(data, { phase: process.env.PB_PHASE || 1, R });
 }
 
 function stageDerive(data) {
-  const groups = {};
-  for (const g of OCCASION_GROUPS) groups[g] = (data.occasions || []).filter((o) => o.group === g).length;
-  const counts = {
-    occasions: (data.occasions || []).length,
-    mantras: (data.mantras || []).length,
-    verses: (data.texts || []).reduce((n, t) => n + (t.chapters || []).reduce((m, c) => m + (c.verses || []).length, 0), 0),
-    terms: (data.terms || []).length,
-    chapters: (data.texts || []).reduce((n, t) => n + (t.chapters || []).length, 0),
-    kathas: (data.kathas || []).length,
-    lessons: (data.lessons || []).length,
-    levels: (data.levels || []).length,
-    groupCount: Object.values(groups).filter((n) => n > 0).length,
-    groups,
-  };
-  return { counts };
+  const d = derive(data, { R });
+  for (const g of OCCASION_GROUPS) d.counts.groups[g] = d.counts.groups[g] || 0;
+  return d;
+}
+
+/** Group cards for the home page (design §27 item 3): up to 4 example chips per group in the page language. */
+function homeGroups(groups, lang) {
+  return groups.map((g) => ({ id: g.id, examples: g.examples.map((e) => ({ title: e.title[lang], href: e.href(lang) })) }));
 }
 
 function computeHash() {
@@ -143,7 +120,7 @@ function stageRender(out, ctx, data, derived) {
       switch (route.pageType) {
         case "root-redirect": html = rootRedirectPage(ctx); break;
         case "not-found": html = notFoundPage(ctx, { route }); break;
-        case "home": html = homePage(ctx, { route, counts: derived.counts, groups: data.groups || [], featured: data.featured || [] }); break;
+        case "home": html = homePage(ctx, { route, counts: derived.counts, groups: homeGroups(derived.groups, route.lang), featured: data.featured || [] }); break;
         case "offline": html = offlinePage(ctx, { route }); break;
         default: break; // templates for the other page types arrive with FEAT-105…108
       }
@@ -208,14 +185,14 @@ export async function build() {
   const timed = (name, fn) => { const s = performance.now(); const r = fn(); timings[name] = Math.round(performance.now() - s); return r; };
 
   const data = timed("load", stageLoad);
-  const gate = timed("gate", stageGate);
+  const gate = timed("gate", () => stageGate(data));
+  writeReport(gate, config.DIST); // always written (design-review NIT 14); the previous dist/ is otherwise untouched on FAIL
   if (!gate.ok) {
-    rmSync(config.DIST, { recursive: true, force: true });
-    mkdirSync(join(config.DIST, "_reports"), { recursive: true });
-    writeFileSync(join(config.DIST, "_reports", "gate.json"), JSON.stringify(gate, null, 2));
-    for (const f of gate.findings) console.error(`GATE FAIL ${f.rule} ${f.file}: ${f.message}`);
+    console.error(formatFindings(gate.findings.filter((f) => f.level === "FAIL")));
+    console.error(`gate FAIL: ${gate.counts.FAIL} FAIL, ${gate.counts.FLAG} FLAG — only dist/_reports/gate.json was written`);
     process.exit(3);
   }
+  if (gate.counts.FLAG) console.log(`gate: 0 FAIL, ${gate.counts.FLAG} FLAG (dist/_reports/gate.json)`);
   const derived = timed("derive", () => stageDerive(data));
   const hash = timed("hash", computeHash);
   const out = new Map();
@@ -236,12 +213,12 @@ export async function build() {
     pageList: pages.map((p) => ({ pageType: p.pageType, lang: p.lang, href: p.href })),
     files: out.size + 1,
     counts: derived.counts,
-    gate: { ok: true, flags: gate.findings.length },
+    gate: { ok: true, flags: gate.counts.FLAG },
     timings,
     totalMs: Math.round(performance.now() - t0),
   };
   out.set("_reports/build.json", JSON.stringify(report, null, 2) + "\n");
-  timed("write", () => writeAll(out));
+  timed("write", () => { writeAll(out); writeReport(gate, config.DIST); });
   console.log(`build ${hash}: ${pages.length} pages, ${out.size} files → ${posix(relative(ROOT, config.DIST))} (${report.totalMs} ms; ${Object.entries(timings).map(([k, v]) => `${k} ${v}`).join(", ")})`);
   return report;
 }

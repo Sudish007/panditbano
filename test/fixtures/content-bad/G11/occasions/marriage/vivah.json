@@ -1,0 +1,316 @@
+{
+  "id": "vivah",
+  "code": "M00",
+  "group": "marriage",
+  "phase": 1,
+  "title": {
+    "hi": "विवाह (बियाह)",
+    "en": "Wedding (vivah)",
+    "bho": "बियाह"
+  },
+  "lede": {
+    "hi": "उत्तर भारतीय विवाह की पूरी विधि — द्वारपूजा से सप्तपदी और विदाई तक, हर चरण का मंत्र, अर्थ और पंडित जी की पंक्ति।",
+    "en": "The complete North Indian wedding — from the dwar puja to the saptapadi and the vidai, with the mantra, meaning and the pandit's line for every step.",
+    "bho": "उत्तर भारत के बियाह के पूरा विधि — दुआर पूजा से सप्तपदी आ बिदाई तक, हर चरन के मंत्र, अरथ आ पंडित जी के बोली।"
+  },
+  "overview": {
+    "hi": "छोटा।",
+    "en": "This page follows the order of the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्), which most pandits of the Hindi belt follow. Folk-custom steps are marked separately and carry no Vedic mantra.",
+    "bho": "ई पन्ना [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) के क्रम पर चलेला, जेकरा हिंदी-भाषी इलाका के बेसी पंडित मानेलन। लोकाचार के चरन अलगा से चिह्नित बा आ ओकर कवनो वैदिक मंत्र नइखे।"
+  },
+  "when": {
+    "rules": {
+      "hi": "विवाह के मास और लग्न पंचांग से तय होते हैं; खरमास, देवशयन (चातुर्मास) और मलमास में विवाह नहीं किया जाता। तिथि और मुहूर्त की गणना इस साइट पर नहीं होती — मुहूर्त पृष्ठ का लिंक नीचे है।",
+      "en": "Wedding months and the lagna come from the panchang; no weddings are held in Kharmas, Devshayan (Chaturmas) or Malmas. This site computes no dates — the muhurat link is below.",
+      "bho": "बियाह के महीना आ लगन पंचांग से तय होला; खरमास, देवसयन (चउमास) आ मलमास में बियाह ना होला। तिथि आ मुहूरत के गनती एह साइट पर ना होला — मुहूरत पन्ना के लिंक नीचे बा।"
+    },
+    "shubhvela": {
+      "muhurat": "marriage",
+      "festival": null,
+      "vrat": null
+    }
+  },
+  "roles": [
+    {
+      "role": {
+        "hi": "वर पक्ष",
+        "en": "Groom's side",
+        "bho": "बर पच्छ"
+      },
+      "does": {
+        "hi": "बरात, द्वारपूजा में वर का आगमन, और विवाह के बाद वधू का गृहप्रवेश।",
+        "en": "The barat, the groom's arrival at the dwar puja, and the bride's griha pravesh after the wedding.",
+        "bho": "बरियात, दुआर पूजा में दुलहा के आवल, आ बियाह के बाद दुलहिन के गृहप्रवेश।"
+      }
+    },
+    {
+      "role": {
+        "hi": "कन्या पक्ष",
+        "en": "Bride's side",
+        "bho": "कनिया पच्छ"
+      },
+      "does": {
+        "hi": "मंडप, कलश और गणेश पूजन की तैयारी, द्वारपूजा और कन्यादान।",
+        "en": "Preparing the mandap, the kalash and the Ganesh puja, the dwar puja and the kanyadaan.",
+        "bho": "मड़वा, कलश आ गनेस पूजन के तइयारी, दुआर पूजा आ कन्यादान।"
+      }
+    },
+    {
+      "role": {
+        "hi": "पुरोहित",
+        "en": "Purohit",
+        "bho": "पुरोहित"
+      },
+      "does": {
+        "hi": "संकल्प से विदाई तक हर चरण का मंत्र पढ़ना और यजमान को हर क्रिया बताना।",
+        "en": "Reciting the mantra of every step from the sankalpa to the vidai and telling the host what to do at each.",
+        "bho": "संकल्प से बिदाई तक हर चरन के मंत्र पढ़ल आ जजमान के हर काम बतावल।"
+      }
+    }
+  ],
+  "samagri": [
+    {
+      "id": "kalash",
+      "item": {
+        "hi": "कलश (तांबे या मिट्टी का)",
+        "en": "Kalash (copper or clay)",
+        "bho": "कलश (तामा भा माटी के)"
+      },
+      "qty": "1",
+      "must": true,
+      "searchUrl": "https://duckduckgo.com/?q=%E0%A4%A4%E0%A4%BE%E0%A4%82%E0%A4%AC%E0%A4%BE+%E0%A4%95%E0%A4%B2%E0%A4%B6"
+    },
+    {
+      "id": "haldi",
+      "item": {
+        "hi": "हल्दी",
+        "en": "Turmeric (haldi)",
+        "bho": "हरदी"
+      },
+      "qty": "100 ग्राम",
+      "must": true
+    },
+    {
+      "id": "lava",
+      "item": {
+        "hi": "लावा (खील)",
+        "en": "Puffed rice (lava, khil)",
+        "bho": "लावा (खील)"
+      },
+      "qty": "250 ग्राम",
+      "note": {
+        "hi": "लाजा होम के लिए; वधू का भाई चार भागों में बाँटता है।",
+        "en": "For the laja homa; the bride's brother divides it into four parts.",
+        "bho": "लाजा होम खातिर; दुलहिन के भाई चार भाग में बाँटेला।"
+      },
+      "must": true
+    },
+    {
+      "id": "ghee",
+      "item": {
+        "hi": "घी",
+        "en": "Ghee",
+        "bho": "घीव"
+      },
+      "qty": "250 ग्राम",
+      "must": true
+    },
+    {
+      "id": "samidha",
+      "item": {
+        "hi": "समिधा (आम या पलाश की लकड़ी)",
+        "en": "Samidha (mango or palash wood)",
+        "bho": "समिधा (आम भा पलास के लकड़ी)"
+      },
+      "qty": "1 किलो",
+      "must": false
+    }
+  ],
+  "parts": [
+    {
+      "id": "purvang",
+      "title": {
+        "hi": "पूर्वांग",
+        "en": "Preliminary rites (purvanga)",
+        "bho": "पूर्वांग"
+      }
+    },
+    {
+      "id": "mukhya",
+      "title": {
+        "hi": "मुख्य विधि",
+        "en": "Main rites",
+        "bho": "मुख्य विधि"
+      }
+    },
+    {
+      "id": "uttarang",
+      "title": {
+        "hi": "उत्तरांग",
+        "en": "Closing rites (uttaranga)",
+        "bho": "उत्तरांग"
+      }
+    }
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "part": "purvang",
+      "layer": "paddhati",
+      "action": {
+        "hi": "पवित्रीकरण — पंडित मंत्र पढ़कर यजमान और सामग्री पर जल छिड़कता है।",
+        "en": "Pavitrikarana — the pandit recites the mantra and sprinkles water on the host and the materials.",
+        "bho": "पवित्रीकरन — पंडित मंत्र पढ़ के जजमान आ सामग्री पर जल छींटेलन।"
+      },
+      "mantraIds": [
+        "pad-apavitrah-pavitro-va"
+      ],
+      "samagriIds": [
+        "kalash"
+      ],
+      "panditSays": {
+        "sa": "ॐ अपवित्रः पवित्रो वा सर्वावस्थां गतोऽपि वा",
+        "hi": "सब लोग जल छिड़ककर स्वयं को और सामग्री को पवित्र करें।",
+        "en": "Everyone, sprinkle water to purify yourselves and the materials.",
+        "bho": "सभे जल छींट के आपन देह आ सामग्री के पवित्र करीं।"
+      }
+    },
+    {
+      "n": 2,
+      "part": "purvang",
+      "layer": "paddhati",
+      "action": {
+        "hi": "संकल्प — यजमान हाथ में जल, अक्षत और द्रव्य लेकर देश-काल और गोत्र-नाम के साथ विवाह का संकल्प बोलता है।",
+        "en": "Sankalpa — the host holds water, rice and a coin and states the vow of the wedding with the place, time, gotra and name.",
+        "bho": "संकल्प — जजमान हाथ में जल, अछत आ द्रव्य लेके देस-काल आ गोत्र-नाँव के साथे बियाह के संकल्प बोलेला।"
+      },
+      "panditSays": {
+        "sa": "ॐ विष्णुर्विष्णुर्विष्णुः {गोत्र} गोत्रः {नाम} शर्मा अहं विवाहकर्म करिष्ये",
+        "hi": "अपना गोत्र और नाम बोलिए; बाकी मैं पढ़ता हूँ।",
+        "en": "Say your gotra and name; I will read the rest.",
+        "bho": "आपन गोत्र आ नाँव बोलीं; बाकी हम पढ़त बानी।"
+      },
+      "note": {
+        "hi": "पूरा संकल्प-ढाँचा संदर्भ पृष्ठ [संकल्प](/reference/sankalpa/) पर है।",
+        "en": "The full sankalpa template is on the reference page [Sankalpa](/reference/sankalpa/).",
+        "bho": "पूरा संकल्प के ढाँचा संदर्भ पन्ना [संकल्प](/reference/sankalpa/) पर बा।"
+      }
+    },
+    {
+      "n": 3,
+      "part": "purvang",
+      "layer": "vedic",
+      "action": {
+        "hi": "प्राणायाम और गायत्री जप — वर तीन बार गायत्री पढ़ता है।",
+        "en": "Pranayama and Gayatri japa — the groom recites the Gayatri three times.",
+        "bho": "प्रानायाम आ गायत्री जप — दुलहा तीन बेर गायत्री पढ़ेला।"
+      },
+      "mantraIds": [
+        "vs-36-3"
+      ],
+      "panditSays": {
+        "hi": "आँखें बंद करके तीन बार गायत्री।",
+        "en": "Eyes closed, the Gayatri three times.",
+        "bho": "आँख मूँद के तीन बेर गायत्री।"
+      }
+    },
+    {
+      "n": 4,
+      "part": "mukhya",
+      "layer": "vedic",
+      "important": true,
+      "action": {
+        "hi": "सप्तपदी — वर वधू को उत्तर दिशा में सात पद चलाता है, हर पद पर एक पद-मंत्र।",
+        "en": "Saptapadi — the groom leads the bride seven steps to the north, one line of the mantra at each step.",
+        "bho": "सप्तपदी — दुलहा दुलहिन के उत्तर दिसा में सात पद चलावेला, हर पद पर मंत्र के एक टुकड़ा।"
+      },
+      "mantraIds": [
+        "pgs-1-8-1"
+      ],
+      "panditSays": {
+        "hi": "सातवाँ पद — अब विवाह शास्त्र की दृष्टि से पूर्ण है।",
+        "en": "The seventh step — the marriage is now complete in the eyes of the shastra.",
+        "bho": "सातवाँ पद — अब बियाह शास्त्र के नजर में पूरा बा।"
+      }
+    },
+    {
+      "n": 5,
+      "part": "uttarang",
+      "layer": "paddhati",
+      "action": {
+        "hi": "शांति के लिए [रुद्राष्टाध्यायी](/texts/rudrashtadhyayi/) के पहले अध्याय (शिवसंकल्प) का पाठ।",
+        "en": "Recitation of the first adhyaya of the [Rudrashtadhyayi](/texts/rudrashtadhyayi/) (the Shiva-sankalpa verses) for shanti.",
+        "bho": "शांति खातिर [रुद्राष्टाध्यायी](/texts/rudrashtadhyayi/) के पहिला अध्याय (शिवसंकल्प) के पाठ।"
+      },
+      "textRefs": [
+        {
+          "text": "rudrashtadhyayi",
+          "chapter": 1
+        }
+      ],
+      "panditSays": {
+        "hi": "सब शांत बैठें; पाठ दस मिनट का है।",
+        "en": "Everyone sit quietly; the recitation takes ten minutes.",
+        "bho": "सभे चुपचाप बइठीं; पाठ दस मिनट के बा।"
+      }
+    },
+    {
+      "n": 6,
+      "part": "uttarang",
+      "layer": "lok",
+      "action": {
+        "hi": "विदाई — वधू के परिवार की ओर से विदा; गाँव-घर के गीत।",
+        "en": "Vidai — the farewell from the bride's family, with the songs of the household.",
+        "bho": "बिदाई — दुलहिन के घर से बिदा; घर-गाँव के गीत।"
+      },
+      "panditSays": {
+        "hi": "यह लोकाचार है, इसका कोई मंत्र नहीं।",
+        "en": "This is a folk custom; there is no mantra for it.",
+        "bho": "ई लोकाचार बा, एकर कवनो मंत्र नइखे।"
+      },
+      "note": {
+        "hi": "लोकाचार — इसका कोई वैदिक मंत्र नहीं है।",
+        "en": "Folk custom — there is no Vedic mantra for it.",
+        "bho": "लोकाचार — एकर कवनो वैदिक मंत्र नइखे।"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "region": "mithila",
+      "what": {
+        "hi": "मिथिला में सिंदूरदान को केंद्रीय विधि माना गया है और कोहबर की पूजा अलग से होती है।",
+        "en": "In Mithila the sindoor daan is the central rite and the kohbar puja is held separately.",
+        "bho": "मिथिला में सेनुरदान के केंद्रीय विधि मानल गइल बा आ कोहबर के पूजा अलगा से होला।"
+      },
+      "source": "research-r1"
+    }
+  ],
+  "faq": [
+    {
+      "q": {
+        "hi": "क्या सात फेरे और सप्तपदी एक ही हैं?",
+        "en": "Are the seven pheras and the saptapadi the same thing?",
+        "bho": "का सात फेरा आ सप्तपदी एके चीज बा?"
+      },
+      "a": {
+        "hi": "नहीं। हिंदी-भाषी क्षेत्र की पद्धति में चार भाँवर (परिक्रमा) अलग हैं और सप्तपदी के सात पद उसके बाद अलग विधि के रूप में होते हैं।",
+        "en": "No. In the Hindi-belt paddhati the four bhanwars (circumambulations) are one rite and the seven steps of the saptapadi follow as a separate rite.",
+        "bho": "ना। हिंदी-भाषी इलाका के पद्धति में चार भाँवर (परिक्रमा) अलगा बा आ सप्तपदी के सात पद ओकरा बाद अलगा विधि के रूप में होला।"
+      }
+    }
+  ],
+  "sources": [
+    "ws-pgs",
+    "ia-sbe29",
+    "ia-vivah-mvf"
+  ],
+  "tags": [
+    "vivah",
+    "samskara"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

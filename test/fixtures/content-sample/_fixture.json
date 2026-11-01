@@ -1,0 +1,4 @@
+{
+  "registries": "../../../content",
+  "note": "ui/, termbank.json, forbidden-hi-in-bho.json, sources.json, institutions.json, latin-allow.json and shubhvela-ids.json are read from the repo's content/ (design §10.1); records below are the miniature corpus of plan.md §2.16."
+}

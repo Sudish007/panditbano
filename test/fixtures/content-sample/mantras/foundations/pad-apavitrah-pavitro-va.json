@@ -1,0 +1,77 @@
+{
+  "id": "pad-apavitrah-pavitro-va",
+  "kind": "paddhati",
+  "locator": "paddhati — pavitrikarana",
+  "title": {
+    "hi": "पवित्रीकरण मंत्र",
+    "en": "Pavitrikarana mantra",
+    "bho": "पवित्रीकरन मंत्र"
+  },
+  "devanagari": "ॐ अपवित्रः पवित्रो वा सर्वावस्थां गतोऽपि वा । यः स्मरेत् पुण्डरीकाक्षं स बाह्याभ्यन्तरः शुचिः ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "अपवित्रः पवित्रो वा",
+      "gloss": {
+        "hi": "अपवित्र हो या पवित्र",
+        "en": "whether impure or pure",
+        "bho": "अपवित्र होखे भा पवित्र"
+      }
+    },
+    {
+      "sa": "सर्वावस्थां गतोऽपि वा",
+      "gloss": {
+        "hi": "किसी भी अवस्था में हो",
+        "en": "in whatever state",
+        "bho": "कवनो हाल में होखे"
+      }
+    },
+    {
+      "sa": "यः स्मरेत् पुण्डरीकाक्षम्",
+      "gloss": {
+        "hi": "जो कमलनयन (विष्णु) का स्मरण करे",
+        "en": "whoever remembers the lotus-eyed one (Vishnu)",
+        "bho": "जे कमलनयन (विष्णु) के सुमिरन करे"
+      }
+    },
+    {
+      "sa": "स बाह्याभ्यन्तरः शुचिः",
+      "gloss": {
+        "hi": "वह बाहर-भीतर शुद्ध है",
+        "en": "is pure outside and within",
+        "bho": "ऊ बाहर-भीतर सुद्ध बा"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "अपवित्र हो या पवित्र, किसी भी अवस्था में हो — जो कमलनयन विष्णु का स्मरण करता है, वह बाहर और भीतर से शुद्ध हो जाता है।",
+    "en": "Impure or pure, in whatever state one may be — whoever remembers the lotus-eyed Vishnu becomes pure outside and within.",
+    "bho": "अपवित्र होखे भा पवित्र, कवनो हाल में होखे — जे कमलनयन विष्णु के सुमिरन करेला, ऊ बाहर आ भीतर से सुद्ध हो जाला।"
+  },
+  "explanation": {
+    "hi": "यह पद्धति-श्लोक है, वेद का मंत्र नहीं; हर पूजा के आरंभ में पंडित इसे पढ़कर जल छिड़कता है। यजमान और सामग्री दोनों पर जल डाला जाता है।",
+    "en": "This is a paddhati verse, not a Vedic mantra; at the start of every puja the pandit recites it while sprinkling water on the host and on the materials.",
+    "bho": "ई पद्धति के श्लोक बा, वेद के मंत्र ना; हर पूजा के सुरुआत में पंडित एकरा पढ़ के जल छींटेलन। जजमान आ सामग्री दुनो पर जल डालल जाला।"
+  },
+  "source": {
+    "ref": "ia-satyanarayan-jangamwadi",
+    "retrieved": "2026-10-31",
+    "modified": "fixture record: text as printed in the puja-vidhi section; content steps re-verify against the scan page"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "sd-doc-misc",
+      "retrieved": "2026-10-31"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional paddhati verse (Garuda Purana attribution in paddhatis); public domain",
+  "tags": [
+    "pavitrikaran"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

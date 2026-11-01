@@ -1,0 +1,36 @@
+{
+  "text": "rudrashtadhyayi",
+  "n": 2,
+  "title": {
+    "hi": "द्वितीय अध्याय — पुरुषसूक्त",
+    "en": "Adhyaya 2 — Purusha sukta",
+    "bho": "दुसरा अध्याय — पुरुषसूक्त"
+  },
+  "source": {
+    "ref": "ws-rudrashtadhyayi",
+    "retrieved": "2026-10-31",
+    "modified": "double ASCII dots normalised to ॥"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "sd-rudrashtadhyayi-sasvara",
+      "retrieved": "2026-10-31"
+    }
+  ],
+  "verses": [
+    {
+      "v": 1,
+      "verseKind": "mantra",
+      "svara": true,
+      "locator": "VS 31.1",
+      "devanagari": "स॒हस्र॑शीर्षा॒ पुरु॑षः सहस्रा॒क्षः स॒हस्र॑पात् । स भूमिँ॑ स॒र्वत॑ स्पृ॒त्वात्य॑तिष्ठद्दशाङ्गु॒लम् ॥"
+    },
+    {
+      "v": 2,
+      "verseKind": "mantra",
+      "svara": true,
+      "locator": "VS 31.2",
+      "devanagari": "पुरु॑ष ए॒वेदँ सर्वं॒ यद्भू॒तं यच्च॑ भा॒व्य॑म् । उ॒तामृ॑त॒त्वस्येशा॑नो॒ यदन्ने॑नाति॒रोह॑ति ॥"
+    }
+  ]
+}

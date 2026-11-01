@@ -1,0 +1,41 @@
+{
+  "id": "vs-36-3",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 36.3",
+  "title": {
+    "hi": "गायत्री मंत्र",
+    "en": "Gayatri mantra",
+    "bho": "गायत्री मंत्र"
+  },
+  "devanagari": "भूर्भुवः॒ स्वः॒ तत्स॑वि॒तुर्वरे॑ण्यं॒ भर्गो॑ दे॒वस्य॑ धीमहि । धियो॒ यो नः॑ प्रचो॒दया॑त् ॥",
+  "svara": true,
+  "meaning": {
+    "hi": "पृथ्वी, अंतरिक्ष और स्वर्ग — तीनों लोकों में व्याप्त उस सविता देव के वरणीय तेज का हम ध्यान करते हैं, जो हमारी बुद्धि को प्रेरित करे।",
+    "en": "We meditate on the choice-worthy radiance of the god Savitr, present in earth, mid-space and heaven, that he may impel our intellects.",
+    "bho": "धरती, अंतरिक्ष आ सरग — तीनो लोक में बसल ओह सविता देव के चुने जोग तेज के हमनी के धियान करत बानी, जे हमनी के बुद्धि के प्रेरित करसु।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-36",
+    "retrieved": "2026-10-31",
+    "modified": false
+  },
+  "checkedAgainst": [
+    {
+      "ref": "sd-syv-sandhya",
+      "retrieved": "2026-10-31"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "gayatri",
+    "sandhya"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

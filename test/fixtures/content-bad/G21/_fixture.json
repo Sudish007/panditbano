@@ -1,0 +1,5 @@
+{
+  "base": "../../content-sample",
+  "expect": "G21",
+  "note": "bho identical to hi over 40 characters → FAIL"
+}

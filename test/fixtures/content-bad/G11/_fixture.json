@@ -1,0 +1,5 @@
+{
+  "base": "../../content-sample",
+  "expect": "G11",
+  "note": "hi:en length ratio far outside 0.6–1.8 → FLAG (the fixture also triggers no FAIL; the test asserts the FLAG)"
+}

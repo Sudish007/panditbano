@@ -1,0 +1,15 @@
+{
+  "id": "kalash",
+  "definition": {
+    "hi": "जल से भरा तांबे या मिट्टी का पात्र, जिसमें पूजा के आरंभ में वरुण और सब तीर्थों का आवाहन होता है।",
+    "en": "A copper or clay pot filled with water in which Varuna and all the tirthas are invoked at the start of a puja.",
+    "bho": "जल से भरल तामा भा माटी के बरतन, जेह में पूजा के सुरुआत में वरुन आ सब तीरथ के आवाहन होला।"
+  },
+  "related": [
+    "sankalp"
+  ],
+  "occasions": [
+    "vivah",
+    "satyanarayan-puja"
+  ]
+}

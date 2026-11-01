@@ -1,0 +1,58 @@
+{
+  "text": "rudrashtadhyayi",
+  "n": 1,
+  "title": {
+    "hi": "प्रथम अध्याय — गणपति और शिवसंकल्प",
+    "en": "Adhyaya 1 — Ganapati and the Shiva-sankalpa",
+    "bho": "पहिला अध्याय — गनपति आ शिवसंकल्प"
+  },
+  "source": {
+    "ref": "ws-rudrashtadhyayi",
+    "retrieved": "2026-10-31",
+    "modified": "double ASCII dots normalised to ॥; footnote references removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "sd-rudrashtadhyayi-sasvara",
+      "retrieved": "2026-10-31"
+    }
+  ],
+  "verses": [
+    {
+      "v": 1,
+      "verseKind": "mantra",
+      "svara": true,
+      "locator": "VS 23.19",
+      "devanagari": "ग॒णानां॑ त्वा ग॒णप॑तिँ हवामहे प्रि॒याणां॑ त्वा प्रि॒यप॑तिँ हवामहे नि॒धीनां॑ त्वा निधि॒पतिँ॑ हवामहे वसो मम । आहम॑जानि गर्भ॒धमा त्वम॑जासि गर्भ॒धम् ॥",
+      "meaning": {
+        "hi": "गणों के पति, प्रियों के पति, निधियों के पति — हे वसु, हम तुम्हें बुलाते हैं; मैं गर्भधारण का कारण जानूँ, तुम भी उसे जानो।",
+        "en": "Lord of the hosts, lord of the dear ones, lord of the treasures — O Vasu, we call upon you; may I know the cause of the womb, and may you know it too.",
+        "bho": "गन के मालिक, प्रिय लोग के मालिक, निधि के मालिक — हे वसु, हमनी के तोहरा के बोलावत बानी; हम गर्भ के कारन जानीं, तहूँ ओकरा जानीं।"
+      }
+    },
+    {
+      "v": 2,
+      "verseKind": "mantra",
+      "svara": true,
+      "locator": "VS 23.33",
+      "devanagari": "गा॑य॒त्री त्रि॒ष्टुब्जग॑त्यनु॒ष्टुप् प॒ङ्क्त्या स॒ह । बृ॑ह॒त्यु॒ष्णिहा क॒कुप्सू॒चीभिः॑ शम्यन्तु त्वा ॥",
+      "meaning": {
+        "hi": "गायत्री, त्रिष्टुप्, जगती, अनुष्टुप् और पंक्ति के साथ, बृहती, उष्णिक् और ककुप् — ये छंद सूचियों से तुम्हें शांत करें।",
+        "en": "Gayatri, Trishtubh, Jagati, Anushtubh together with Pankti, Brihati, Ushnih and Kakubh — may these metres soothe you with their needles.",
+        "bho": "गायत्री, त्रिष्टुप, जगती, अनुष्टुप आ पंक्ति के साथे, बृहती, उष्निक आ ककुप — ई छंद सूई से तोहरा के शांत करसु।"
+      }
+    },
+    {
+      "v": 3,
+      "verseKind": "mantra",
+      "svara": true,
+      "locator": "VS 23.34",
+      "devanagari": "द्विप॑दा॒ याश्चतु॑ष्पदा॒स्त्रिप॑दा॒ याश्च॒ षट्प॑दाः । विच्छ॑न्दा॒ याश्च॒ सच्छ॑न्दाः सू॒चीभिः॑ शम्यन्तु त्वा ॥",
+      "meaning": {
+        "hi": "जो दो पद वाली, चार पद वाली, तीन पद वाली और छह पद वाली ऋचाएँ हैं, जो छंद से बाहर और छंद में हैं — वे सूचियों से तुम्हें शांत करें।",
+        "en": "The verses of two feet, of four, of three and of six, those outside metre and those in metre — may they soothe you with their needles.",
+        "bho": "जे दू पद वाली, चार पद वाली, तीन पद वाली आ छव पद वाली ऋचा बाड़ी, जे छंद से बाहर आ छंद में बाड़ी — ऊ सूई से तोहरा के शांत करसु।"
+      }
+    }
+  ]
+}

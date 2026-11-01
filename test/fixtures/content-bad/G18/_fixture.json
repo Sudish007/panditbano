@@ -1,0 +1,5 @@
+{
+  "base": "../../content-sample",
+  "expect": "G18",
+  "note": "the same mantra id in two files → duplicate id FAIL"
+}

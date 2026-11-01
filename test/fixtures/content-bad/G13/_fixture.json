@@ -1,0 +1,5 @@
+{
+  "base": "../../content-sample",
+  "expect": "G13",
+  "note": "[[no-such-term]] not in the term bank → FAIL"
+}

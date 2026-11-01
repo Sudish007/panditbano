@@ -1,0 +1,130 @@
+{
+  "_meta": {
+    "written": "2026-11-01",
+    "source": "research/decisions.md section 10 (institutional pages fetched 2026-10-31)",
+    "note": "Named institutions and courses for Learn Level 0. Every name (and the Devanagari names[]) must be a link wherever it appears in prose (G16 / UI-19)."
+  },
+  "institutions": [
+    {
+      "id": "ssvv",
+      "name": "Sampurnanand Sanskrit Vishwavidyalaya",
+      "names": [
+        "सम्पूर्णानन्द संस्कृत विश्वविद्यालय",
+        "संपूर्णानंद संस्कृत विश्वविद्यालय"
+      ],
+      "course": "3-month and 6-month Karmakand Certificate; 1-year Karmakand Diploma; Shastri/Acharya with Shukla Yajurveda and Paurohitya",
+      "duration": "3 / 6 / 12 months; eligibility not stated on the page (UNCERTAIN)",
+      "url": "https://ssvvostc.ac.in/karmakand/",
+      "urls": [
+        "https://ssvv.ac.in/programs-offered"
+      ],
+      "status": "fact",
+      "note": "UP state university, Varanasi; Online Sanskrit Training Centre (UP Govt funded)."
+    },
+    {
+      "id": "csu",
+      "name": "Central Sanskrit University",
+      "names": [
+        "केन्द्रीय संस्कृत विश्वविद्यालय",
+        "केंद्रीय संस्कृत विश्वविद्यालय"
+      ],
+      "course": "P.G. Diploma in Karmakanda and Paurohitya; Certificate Course in Paurohitya and Karmakanda",
+      "duration": "1 year; PG diploma implies graduation (UNCERTAIN)",
+      "url": "https://www.csu-agartala.edu.in/pg_diploma_in_karmakanda_and_paurohitya.html",
+      "urls": [
+        "https://sanskrit.ac.in/syllabus_2026/cc_d_pgd_syllabus.php"
+      ],
+      "status": "fact",
+      "note": "Central university, 13 campuses."
+    },
+    {
+      "id": "slbsrsv",
+      "name": "Shri Lal Bahadur Shastri National Sanskrit University",
+      "names": [
+        "श्री लाल बहादुर शास्त्री राष्ट्रीय संस्कृत विश्वविद्यालय"
+      ],
+      "course": "Diploma in Paurohitya (Karmkand); Certificate Praveshika; Acharya (Paurohitya); Ph.D.",
+      "duration": "1 year; Intermediate 10+2; total fee INR 10,050; admission by interview",
+      "url": "https://www.slbsrsv.ac.in/academic/part-time-courses/diploma-advance-diploma-courses",
+      "status": "fact",
+      "note": "Central; Department of Paurohitya est. 1964, New Delhi."
+    },
+    {
+      "id": "jrrsu",
+      "name": "Jagadguru Ramanandacharya Rajasthan Sanskrit University",
+      "names": [
+        "जगद्गुरु रामानन्दाचार्य राजस्थान संस्कृत विश्वविद्यालय",
+        "जगद्गुरु रामानंदाचार्य राजस्थान संस्कृत विश्वविद्यालय"
+      ],
+      "course": "Diploma in Paurohitya Karmakanda; Short Term Course in Gram Paurohitya Training",
+      "duration": "1 year; admission window 2026-27: 21 May - 31 Oct 2026",
+      "url": "https://admission.jrrsu.in/",
+      "status": "fact",
+      "note": "Rajasthan state university, Jaipur."
+    },
+    {
+      "id": "usvv",
+      "name": "Uttarakhand Sanskrit University",
+      "names": [
+        "उत्तराखण्ड संस्कृत विश्वविद्यालय",
+        "उत्तराखंड संस्कृत विश्वविद्यालय"
+      ],
+      "course": "P.G. Diploma in Paurohitya and Karmkand (Jyotish department)",
+      "duration": "PG diploma",
+      "url": "http://usvv.ac.in/faculty-veda-jyotish.php",
+      "status": "fact",
+      "note": "Haridwar; portal has no TLS (http allow-list)."
+    },
+    {
+      "id": "upss",
+      "name": "Uttar Pradesh Sanskrit Sansthan",
+      "names": [
+        "उत्तर प्रदेश संस्कृत संस्थान"
+      ],
+      "course": "Karmkand Prashikshan Shivir (training camps); public Paurohitya teacher registry",
+      "duration": "camps, no degree",
+      "url": "https://upsanskritsansthanam.in/en/page/training-scheme",
+      "urls": [
+        "http://upsanskritseva.in/Web/Paurohitya"
+      ],
+      "status": "fact",
+      "note": "UP state body, Lucknow."
+    },
+    {
+      "id": "mpsvv",
+      "name": "Maharshi Panini Sanskrit evam Vedic Vishwavidyalaya",
+      "names": [
+        "महर्षि पाणिनि संस्कृत एवं वैदिक विश्वविद्यालय"
+      ],
+      "course": "Shastri/Acharya; Patropadhi (diploma) courses; a Diploma in Karmakand appears on aggregators only",
+      "duration": "official page: Content Awaited",
+      "url": "https://www.mpsvv.ac.in/index.php/en/admission",
+      "status": "to-confirm",
+      "note": "MP state university, Ujjain."
+    },
+    {
+      "id": "ksdsu",
+      "name": "Kameshwar Singh Darbhanga Sanskrit University",
+      "names": [
+        "कामेश्वर सिंह दरभंगा संस्कृत विश्वविद्यालय"
+      ],
+      "course": "Upshastri/Shastri/Acharya; Veda faculties",
+      "duration": "Karmakanda diploma not seen",
+      "url": "https://ksdsu.bihar.gov.in/",
+      "status": "to-confirm",
+      "note": "Bihar state university, Darbhanga."
+    },
+    {
+      "id": "jnana-prabodhini",
+      "name": "Jnana Prabodhini",
+      "names": [
+        "ज्ञान प्रबोधिनी"
+      ],
+      "course": "Paurohitya training for women and men of all castes since 1990",
+      "duration": "cited on Level 0 as the open-access precedent",
+      "url": "https://www.jnanaprabodhini.org/paurohitya/",
+      "status": "fact",
+      "note": "Pune (R4 S46; R4 section 8.3 rule 2)."
+    }
+  ]
+}

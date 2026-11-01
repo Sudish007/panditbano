@@ -1,0 +1,39 @@
+{
+  "id": "satyanarayan-vrat-katha",
+  "title": {
+    "hi": "सत्यनारायण व्रत कथा",
+    "en": "Satyanarayan vrat katha",
+    "bho": "सत्यनारायन बरत कथा"
+  },
+  "lede": {
+    "hi": "पाँच अध्यायों की कथा, अपने शब्दों में, मूल श्लोकों के साथ।",
+    "en": "The five-adhyaya katha retold in our own words, with the original verses.",
+    "bho": "पाँच अध्याय के कथा, आपन शब्द में, मूल श्लोक के साथे।"
+  },
+  "deity": "सत्यनारायण",
+  "textId": "satyanarayan-vrat-katha-sanskrit",
+  "puranicSource": {
+    "ref": "ws-skanda-reva-index",
+    "locator": "स्कन्दपुराण, रेवाखण्ड, अध्याय २३३–२३७"
+  },
+  "adhyayas": [
+    {
+      "n": 1,
+      "title": {
+        "hi": "पहला अध्याय — नारद का प्रश्न",
+        "en": "Adhyaya 1 — Narada's question",
+        "bho": "पहिला अध्याय — नारद के सवाल"
+      },
+      "verseRefs": [
+        "satyanarayan-vrat-katha-sanskrit-1-1",
+        "satyanarayan-vrat-katha-sanskrit-1-2"
+      ]
+    }
+  ],
+  "vidhiOccasionId": "satyanarayan-puja",
+  "phase": 1,
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "satyanarayan-vrat-katha-sanskrit",
+  "title": {
+    "hi": "सत्यनारायण व्रतकथा (संस्कृत)",
+    "en": "Satyanarayan vrat katha (Sanskrit)",
+    "bho": "सत्यनारायन बरतकथा (संस्कृत)"
+  },
+  "intro": {
+    "hi": "स्कंदपुराण के रेवाखंड में मिलने वाली पाँच अध्यायों की मूल संस्कृत कथा।",
+    "en": "The original Sanskrit katha in five adhyayas, found in the Reva-khanda of the Skanda Purana.",
+    "bho": "स्कंदपुरान के रेवाखंड में मिले वाला पाँच अध्याय के मूल संस्कृत कथा।"
+  },
+  "lang": "sa",
+  "kind": "puranic",
+  "deity": "सत्यनारायण",
+  "source": {
+    "ref": "ws-skanda-reva-233",
+    "retrieved": "2026-10-31"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "sd-satyanarayan-katha",
+      "retrieved": "2026-10-31"
+    }
+  ],
+  "chapters": [
+    {
+      "n": 1,
+      "title": {
+        "hi": "प्रथम अध्याय",
+        "en": "Adhyaya 1",
+        "bho": "पहिला अध्याय"
+      },
+      "verseCount": 2
+    }
+  ],
+  "vidhiOccasionId": "satyanarayan-puja",
+  "phase": 1,
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Puranic Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

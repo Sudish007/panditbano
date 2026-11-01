@@ -1,0 +1,5 @@
+{
+  "base": "../../content-sample",
+  "expect": "G5",
+  "note": "step references a mantra that does not exist → FAIL"
+}

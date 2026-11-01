@@ -1,0 +1,5 @@
+{
+  "base": "../../content-sample",
+  "expect": "G4",
+  "note": "source.ref not in sources.json → FAIL"
+}

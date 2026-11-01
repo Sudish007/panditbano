@@ -1,0 +1,137 @@
+{
+  "id": "vs-36-3",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 36.3",
+  "title": {
+    "hi": "गायत्री मंत्र",
+    "en": "Gayatri mantra",
+    "bho": "गायत्री मंत्र"
+  },
+  "devanagari": "भूर्भुवः॒ स्वः॒ तत्स॑वि॒तुर्वरे॑ण्यं॒ भर्गो॑ दे॒वस्य॑ धीमहि । धियो॒ यो नः॑ प्रचो॒दया॑त् ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "भूः भुवः स्वः",
+      "gloss": {
+        "hi": "तीन व्याहृतियाँ — पृथ्वी, अंतरिक्ष, स्वर्ग",
+        "en": "the three vyahritis — earth, mid-space, heaven",
+        "bho": "तीन व्याहृति — धरती, अंतरिक्ष, सरग"
+      }
+    },
+    {
+      "sa": "तत्",
+      "gloss": {
+        "hi": "उस",
+        "en": "that",
+        "bho": "ऊ"
+      }
+    },
+    {
+      "sa": "सवितुः",
+      "gloss": {
+        "hi": "सविता (सूर्य) के",
+        "en": "of Savitr (the sun)",
+        "bho": "सविता (सुरुज) के"
+      }
+    },
+    {
+      "sa": "वरेण्यम्",
+      "gloss": {
+        "hi": "वरण करने योग्य",
+        "en": "worthy of choosing",
+        "bho": "चुने जोग"
+      }
+    },
+    {
+      "sa": "भर्गः",
+      "gloss": {
+        "hi": "तेज",
+        "en": "radiance",
+        "bho": "तेज"
+      }
+    },
+    {
+      "sa": "देवस्य",
+      "gloss": {
+        "hi": "देव के",
+        "en": "of the god",
+        "bho": "देव के"
+      }
+    },
+    {
+      "sa": "धीमहि",
+      "gloss": {
+        "hi": "हम ध्यान करें",
+        "en": "may we meditate on",
+        "bho": "हमनी के धियान करीं"
+      }
+    },
+    {
+      "sa": "धियः",
+      "gloss": {
+        "hi": "बुद्धियों को",
+        "en": "our intellects",
+        "bho": "बुद्धि के"
+      }
+    },
+    {
+      "sa": "यः",
+      "gloss": {
+        "hi": "जो",
+        "en": "who",
+        "bho": "जे"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमारी",
+        "en": "our",
+        "bho": "हमनी के"
+      }
+    },
+    {
+      "sa": "प्रचोदयात्",
+      "gloss": {
+        "hi": "प्रेरित करे",
+        "en": "may he impel",
+        "bho": "प्रेरित करसु"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "पृथ्वी, अंतरिक्ष और स्वर्ग — तीनों लोकों में व्याप्त उस सविता देव के वरणीय तेज का हम ध्यान करते हैं, जो हमारी बुद्धि को प्रेरित करे।",
+    "en": "We meditate on the choice-worthy radiance of the god Savitr, present in earth, mid-space and heaven, that he may impel our intellects.",
+    "bho": "धरती, अंतरिक्ष आ सरग — तीनो लोक में बसल ओह सविता देव के चुने जोग तेज के हमनी के धियान करत बानी, जे हमनी के बुद्धि के प्रेरित करसु।"
+  },
+  "explanation": {
+    "hi": "गायत्री मंत्र शुक्ल यजुर्वेद के छत्तीसवें अध्याय का तीसरा मंत्र है और संध्या तथा उपनयन का केंद्रीय मंत्र है। पंडित इसे तीन व्याहृतियों के साथ पढ़ाते हैं; प्राणायाम में इसके आगे ॐ और शिरस् जोड़ा जाता है।",
+    "en": "The Gayatri is the third mantra of the thirty-sixth adhyaya of the Shukla Yajurveda and the central mantra of the sandhya and the upanayana. Pandits teach it with the three vyahritis; in pranayama, Om and the shiras are prefixed.",
+    "bho": "गायत्री मंत्र शुक्ल यजुर्वेद के छत्तीसवाँ अध्याय के तीसरा मंत्र बा आ संध्या तथा उपनयन के केंद्रीय मंत्र बा। पंडित एकरा तीन व्याहृति के साथे पढ़ावेलन; प्रानायाम में एकरा आगे ॐ आ शिरस् जोड़ल जाला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-36",
+    "retrieved": "2026-10-31",
+    "modified": false
+  },
+  "checkedAgainst": [
+    {
+      "ref": "sd-syv-sandhya",
+      "retrieved": "2026-10-31"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "gayatri",
+    "sandhya"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "iast": "bhūr bhuvaḥ svaḥ"
+}

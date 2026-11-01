@@ -1,0 +1,5 @@
+{
+  "base": "../../content-sample",
+  "expect": "G7",
+  "note": "verseCount disagrees with the chapter file → FAIL"
+}

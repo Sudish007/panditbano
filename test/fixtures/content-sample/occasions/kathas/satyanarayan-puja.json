@@ -1,0 +1,115 @@
+{
+  "id": "satyanarayan-puja",
+  "code": "K01",
+  "group": "kathas",
+  "phase": 1,
+  "title": {
+    "hi": "सत्यनारायण पूजा",
+    "en": "Satyanarayan puja",
+    "bho": "सत्यनारायन पूजा"
+  },
+  "lede": {
+    "hi": "पूर्णिमा या किसी भी शुभ दिन घर में होने वाली सत्यनारायण व्रत-कथा की पूजा-विधि।",
+    "en": "The puja procedure of the Satyanarayan vrat katha, held at home on a purnima or any auspicious day.",
+    "bho": "पुर्नवासी भा कवनो नीक दिन घर में होखे वाला सत्यनारायन बरत-कथा के पूजा-विधि।"
+  },
+  "overview": {
+    "hi": "कथा के पाँच अध्याय पढ़ने से पहले पंडित कलश, गणेश और नवग्रह का संक्षिप्त पूजन कराता है; प्रसाद में पंजीरी और पंचामृत होते हैं।",
+    "en": "Before the five adhyayas of the katha are read, the pandit conducts a short puja of the kalash, Ganesh and the navagraha; the prasad is panjiri and panchamrit.",
+    "bho": "कथा के पाँच अध्याय पढ़े से पहिले पंडित कलश, गनेस आ नवग्रह के छोट पूजन करावेलन; परसाद में पंजीरी आ पंचामृत होला।"
+  },
+  "when": {
+    "rules": {
+      "hi": "प्रायः पूर्णिमा को; तिथि के लिए [शुभवेला](https://sudish007.github.io/shubhvela/hi/vrat/satyanarayan/) का व्रत पृष्ठ देखें।",
+      "en": "Usually on the purnima; see the [Shubhvela](https://sudish007.github.io/shubhvela/en/vrat/satyanarayan/) vrat page for the date.",
+      "bho": "बेसी के पुर्नवासी के; तिथि खातिर [शुभवेला](https://sudish007.github.io/shubhvela/bho/vrat/satyanarayan/) के बरत पन्ना देखीं।"
+    },
+    "shubhvela": {
+      "muhurat": null,
+      "festival": null,
+      "vrat": "satyanarayan"
+    }
+  },
+  "roles": [
+    {
+      "role": {
+        "hi": "यजमान दंपति",
+        "en": "The host couple",
+        "bho": "जजमान जोड़ी"
+      },
+      "does": {
+        "hi": "संकल्प, पूजन और कथा-श्रवण।",
+        "en": "The sankalpa, the puja and listening to the katha.",
+        "bho": "संकल्प, पूजन आ कथा सुनल।"
+      }
+    }
+  ],
+  "samagri": [
+    {
+      "id": "panjiri",
+      "item": {
+        "hi": "पंजीरी (गेहूँ के आटे की)",
+        "en": "Panjiri (roasted wheat flour)",
+        "bho": "पंजीरी (गोहूँ के आटा के)"
+      },
+      "qty": "सवा किलो",
+      "must": true
+    }
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "layer": "paddhati",
+      "action": {
+        "hi": "पवित्रीकरण और संकल्प।",
+        "en": "Pavitrikarana and sankalpa.",
+        "bho": "पवित्रीकरन आ संकल्प।"
+      },
+      "mantraIds": [
+        "pad-apavitrah-pavitro-va"
+      ],
+      "panditSays": {
+        "hi": "जल छिड़ककर संकल्प के लिए हाथ में जल लें।",
+        "en": "Sprinkle water, then take water in hand for the sankalpa.",
+        "bho": "जल छींट के संकल्प खातिर हाथ में जल लीं।"
+      }
+    },
+    {
+      "n": 2,
+      "layer": "paddhati",
+      "action": {
+        "hi": "कथा के पहले अध्याय का पाठ।",
+        "en": "Reading of the first adhyaya of the katha.",
+        "bho": "कथा के पहिला अध्याय के पाठ।"
+      },
+      "textRefs": [
+        {
+          "text": "satyanarayan-vrat-katha-sanskrit",
+          "chapter": 1
+        }
+      ],
+      "panditSays": {
+        "hi": "अब कथा सुनिए।",
+        "en": "Now listen to the katha.",
+        "bho": "अब कथा सुनीं।"
+      }
+    }
+  ],
+  "sources": [
+    "ws-skanda-reva-233",
+    "sd-satyanarayan-katha",
+    "ia-satyanarayan-jangamwadi"
+  ],
+  "kathaId": "satyanarayan-vrat-katha",
+  "textIds": [
+    "satyanarayan-vrat-katha-sanskrit"
+  ],
+  "tags": [
+    "satyanarayan",
+    "katha"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

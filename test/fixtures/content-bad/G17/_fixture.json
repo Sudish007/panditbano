@@ -1,0 +1,5 @@
+{
+  "base": "../../content-sample",
+  "expect": "G17",
+  "note": "literal corpus counts in prose → FLAG (test asserts the FLAG)"
+}

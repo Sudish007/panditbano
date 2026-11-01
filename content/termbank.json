@@ -1,0 +1,6853 @@
+{
+  "_meta": {
+    "product": "Pandit Bano (पंडित बनो / पंडित बनीं)",
+    "file": "termbank.json",
+    "written": "2026-10-31",
+    "author": "R5 research step (agent-written; Bhojpuri awaiting the owner's native review)",
+    "languages": {
+      "hi": "Hindi, standard Khari Boli, IS 16500:2012 spelling (anusvara for pancham varna, nukta ज़/फ़ in loans)",
+      "en": "English (IAST-free easy Roman in UI; IAST only in mantra views)",
+      "bho": "Bhojpuri, respectful standard register of Bihar / eastern UP in Devanagari, spellings agreeing with Shubhvela ui/{hi,bho}.json and packages/engine/src/locale/index.ts"
+    },
+    "fields": {
+      "id": "stable ASCII slug used by content records and the glossary",
+      "category": "foundations | puja-upachara | havan | samagri | sankalpa | calendar-weekday | calendar-month | calendar-tithi | direction | deity | role | samskara | childhood | marriage | death | home | texts | vrat-festival | shanti | ui | honesty",
+      "en": "English display term (first form) with the Sanskrit term in brackets where it helps",
+      "hi": "Hindi display term",
+      "bho": "Bhojpuri display term",
+      "sa": "Sanskrit / shastric headword when it differs from the Hindi spelling (optional)",
+      "hiAlt": "accepted Hindi synonyms (optional)",
+      "bhoAlt": "accepted Bhojpuri variants of the same register (optional)",
+      "bhoFolk": "Bhojpuri folk / spoken forms; show in brackets on first use, never as the heading unless the owner decides so (optional)",
+      "evidence": "FACT = spelling attested in a cited source; INFERENCE = agent-derived (usually a Sanskrit tatsama shared by both languages, or a regular Bhojpuri sound change); UNCERTAIN = owner must confirm",
+      "source": "where the Bhojpuri/Hindi spelling was read (see R5-language.md source ledger for URLs and fetch dates)",
+      "note": "usage note",
+      "ownerQuestion": "number of the open word choice in R5-language.md section 7"
+    },
+    "sourceKeys": {
+      "SV-UI": "Shubhvela packages/content/ui/{en,hi,bho}.json (1,889 keys each; read 2026-10-31)",
+      "SV-ENGINE": "Shubhvela packages/engine/src/locale/index.ts (weekday, month, nakshatra, tithi, planet tables; read 2026-10-31)",
+      "SV-CORPUS": "Shubhvela packages/content/corpus/{festivals,glossary,muhurat-activities,rules}/{hi,bho}.json (read 2026-10-31; all records review:\"draft\")",
+      "SV-DOC": "Shubhvela docs/CONTENT-TRANSLATION.md (register rules; read 2026-10-31)",
+      "BHWP": "bh.wikipedia.org article named after the colon (fetched 2026-10-31; CC BY-SA 4.0)",
+      "HIWP": "hi.wikipedia.org article named after the colon (fetched 2026-10-31; CC BY-SA 4.0)",
+      "WP-GRAMMAR": "en.wikipedia.org/wiki/Bhojpuri_grammar and /wiki/Bhojpuri_language (fetched 2026-10-31)",
+      "IS16500": "IS 16500:2012 / Central Hindi Directorate spelling rules as reproduced on hi.wikipedia.org/wiki/मानक_हिंदी_वर्तनी (fetched 2026-10-31)",
+      "BRIEF": "brief.md (owner decisions, 2026-10-31)",
+      "AGENT": "agent-written; no external attestation fetched (INFERENCE or UNCERTAIN)"
+    },
+    "rules": {
+      "shubhvelaWins": "Where a word exists in Shubhvela ui/{hi,bho}.json or the engine locale tables, that spelling is binding (brief 2.3): बियाह, बरत, जनम, नाँव, दक्खिन, पूरब, पच्छिम, एतवार सोमार मंगर बुध बियफे सुक सनिचर, चइत बइसाख जेठ असाढ़ सावन भादो आसिन कातिक अगहन पूस माघ फागुन, सतभिखा.",
+      "bhoRetroflexN": "Bhojpuri writes ण as न in everyday / tadbhava words (कारन, परिनाम, चरन, उदाहरन, परनाम); Sanskrit mantra words, deity names and shastric technical terms keep ण (गणेश, नारायण, पुराण, ब्राह्मण, करण, पूर्णाहुति).",
+      "bhoNukta": "Bhojpuri uses nukta only in ड़ / ढ़ (जरूरत, तारीख, आवाज, साफ; never ज़ फ़ ख़).",
+      "hiNukta": "Hindi uses ज़ / फ़ in loanwords whose standard pronunciation has z / f (ज़रूरत, ज़्यादा, फ़ोन, फ़र्क); ख़ only in तारीख़ to agree with Shubhvela; no क़ / ग़.",
+      "digits": "Latin digits everywhere in hi / bho / en UI and prose (Shubhvela convention); Devanagari digits only inside the devanagari mantra field when the source has them.",
+      "honorific": "Deities and planets take the respectful plural in hi (… हैं) and bho (… बाड़न); \"जी\" after a deity name in family-register prose (गणेश जी), not inside mantra glosses."
+    },
+    "counts": {
+      "terms": 629,
+      "byCategory": {
+        "foundations": 45,
+        "puja-upachara": 23,
+        "havan": 17,
+        "samagri": 48,
+        "sankalpa": 52,
+        "calendar-weekday": 7,
+        "calendar-month": 12,
+        "calendar-tithi": 16,
+        "direction": 9,
+        "deity": 42,
+        "role": 34,
+        "samskara": 21,
+        "childhood": 11,
+        "marriage": 46,
+        "death": 38,
+        "home": 20,
+        "texts": 39,
+        "vrat-festival": 71,
+        "shanti": 13,
+        "ui": 56,
+        "honesty": 9
+      },
+      "byEvidence": {
+        "FACT": 370,
+        "INFERENCE": 250,
+        "UNCERTAIN": 9
+      }
+    }
+  },
+  "terms": [
+    {
+      "id": "puja",
+      "category": "foundations",
+      "en": "puja (worship)",
+      "hi": "पूजा",
+      "bho": "पूजा",
+      "evidence": "FACT",
+      "source": "SV-UI calendar.pujaWindow"
+    },
+    {
+      "id": "puja-path",
+      "category": "foundations",
+      "en": "puja and recitation (household worship)",
+      "hi": "पूजा-पाठ",
+      "bho": "पूजा-पाठ",
+      "evidence": "INFERENCE",
+      "source": "AGENT",
+      "note": "everyday collocation in both languages"
+    },
+    {
+      "id": "vidhi",
+      "category": "foundations",
+      "en": "procedure (vidhi)",
+      "hi": "विधि",
+      "bho": "विधि",
+      "bhoFolk": [
+        "बिधि"
+      ],
+      "evidence": "INFERENCE",
+      "source": "BHWP:छठ (बिधि, बिधान); Shubhvela keeps व",
+      "ownerQuestion": 20
+    },
+    {
+      "id": "vidhan",
+      "category": "foundations",
+      "en": "rule / ordinance (vidhana)",
+      "hi": "विधान",
+      "bho": "विधान",
+      "bhoFolk": [
+        "बिधान"
+      ],
+      "evidence": "INFERENCE",
+      "source": "BHWP:पितरपख (बिधान)",
+      "ownerQuestion": 20
+    },
+    {
+      "id": "karmakand",
+      "category": "foundations",
+      "en": "ritual practice (karmakanda)",
+      "hi": "कर्मकांड",
+      "bho": "कर्मकांड",
+      "evidence": "FACT",
+      "source": "BHWP:कर्मकांड (article title)"
+    },
+    {
+      "id": "sanskar",
+      "category": "foundations",
+      "en": "sacrament (samskara)",
+      "hi": "संस्कार",
+      "bho": "संस्कार",
+      "evidence": "FACT",
+      "source": "BHWP:बियाह (\"बियाह एगो संस्कार हवे\"); SV-CORPUS muhurat-naamkaran"
+    },
+    {
+      "id": "anushthan",
+      "category": "foundations",
+      "en": "rite / observance (anushthana)",
+      "hi": "अनुष्ठान",
+      "bho": "अनुष्ठान",
+      "evidence": "FACT",
+      "source": "BHWP:सत्यनारायण कथा (\"पूजा भा अनुष्ठान\")"
+    },
+    {
+      "id": "mantra",
+      "category": "foundations",
+      "en": "mantra",
+      "hi": "मंत्र",
+      "bho": "मंत्र",
+      "evidence": "FACT",
+      "source": "BHWP:सत्यनारायण कथा (\"मंत्र सभ के साथे\"); BHWP:यज्ञ"
+    },
+    {
+      "id": "shlok",
+      "category": "foundations",
+      "en": "verse (shloka)",
+      "hi": "श्लोक",
+      "bho": "श्लोक",
+      "evidence": "FACT",
+      "source": "BHWP:श्लोक (article); SV-CORPUS muhurat-business-start bho"
+    },
+    {
+      "id": "sankalp",
+      "category": "foundations",
+      "en": "vow of intent (sankalpa)",
+      "hi": "संकल्प",
+      "bho": "संकल्प",
+      "evidence": "FACT",
+      "source": "SV-CORPUS muhurat-vrat-start bho (\"कवनो संकल्प\")"
+    },
+    {
+      "id": "achaman",
+      "category": "foundations",
+      "en": "sipping water thrice (achamana)",
+      "hi": "आचमन",
+      "bho": "आचमन",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "pavitrikaran",
+      "category": "foundations",
+      "en": "self-purification (pavitrikarana)",
+      "hi": "पवित्रीकरण",
+      "bho": "पवित्रीकरण",
+      "evidence": "INFERENCE",
+      "source": "AGENT",
+      "note": "shastric term keeps ण"
+    },
+    {
+      "id": "pranayam",
+      "category": "foundations",
+      "en": "breath control (pranayama)",
+      "hi": "प्राणायाम",
+      "bho": "प्राणायाम",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "swasti-vachan",
+      "category": "foundations",
+      "en": "invocation of well-being (svasti-vachana)",
+      "hi": "स्वस्तिवाचन",
+      "bho": "स्वस्तिवाचन",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "shanti-path",
+      "category": "foundations",
+      "en": "peace recitation (shanti-patha)",
+      "hi": "शांति पाठ",
+      "bho": "शांति पाठ",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "ganesh-ambika-pujan",
+      "category": "foundations",
+      "en": "Ganesha-Ambika worship",
+      "hi": "गणेश-अंबिका पूजन",
+      "bho": "गणेश-अंबिका पूजन",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "kalash-sthapana",
+      "category": "foundations",
+      "en": "establishing the water-pot (kalasha sthapana)",
+      "hi": "कलश स्थापना",
+      "bho": "कलश स्थापना",
+      "bhoAlt": [
+        "कलश बइठावल"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS glossary ghatasthapana bho (\"कलश बइठावल\")"
+    },
+    {
+      "id": "ghatasthapana",
+      "category": "foundations",
+      "en": "Navratri pot-setting (ghatasthapana)",
+      "hi": "घटस्थापना",
+      "bho": "घटस्थापना",
+      "evidence": "FACT",
+      "source": "SV-UI vrat.time.ghatasthapana"
+    },
+    {
+      "id": "punyahavachan",
+      "category": "foundations",
+      "en": "proclamation of an auspicious day (punyaha-vachana)",
+      "hi": "पुण्याहवाचन",
+      "bho": "पुण्याहवाचन",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "navagraha-pujan",
+      "category": "foundations",
+      "en": "worship of the nine planets",
+      "hi": "नवग्रह पूजन",
+      "bho": "नवग्रह पूजन",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "shodash-matrika",
+      "category": "foundations",
+      "en": "sixteen mother goddesses (shodasha matrika)",
+      "hi": "षोडश मातृका",
+      "bho": "षोडश मातृका",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "sapta-ghrit-matrika",
+      "category": "foundations",
+      "en": "seven ghee-matrikas",
+      "hi": "सप्त घृत मातृका",
+      "bho": "सप्त घृत मातृका",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "nandi-shraddha",
+      "category": "foundations",
+      "en": "auspicious ancestor rite before a samskara (nandi / abhyudayika shraddha)",
+      "hi": "नांदी श्राद्ध",
+      "bho": "नांदी श्राद्ध",
+      "hiAlt": [
+        "नांदीमुख"
+      ],
+      "bhoAlt": [
+        "नांदीमुख"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "raksha-sutra",
+      "category": "foundations",
+      "en": "protective thread (raksha-sutra / kalava)",
+      "hi": "रक्षासूत्र",
+      "bho": "रक्षासूत्र",
+      "hiAlt": [
+        "कलावा",
+        "मौली"
+      ],
+      "bhoAlt": [
+        "कलावा"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "dikpal",
+      "category": "foundations",
+      "en": "guardians of the directions (dikpala)",
+      "hi": "दिक्पाल",
+      "bho": "दिक्पाल",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "panchang-pujan",
+      "category": "foundations",
+      "en": "worship of the five limbs of the day",
+      "hi": "पंचांग पूजन",
+      "bho": "पंचांग पूजन",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "shodashopachar",
+      "category": "foundations",
+      "en": "sixteen-step worship (shodashopachara)",
+      "hi": "षोडशोपचार",
+      "bho": "षोडशोपचार",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "panchopachar",
+      "category": "foundations",
+      "en": "five-step worship (panchopachara)",
+      "hi": "पंचोपचार",
+      "bho": "पंचोपचार",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "aarti",
+      "category": "foundations",
+      "en": "waving of lamps (arati)",
+      "hi": "आरती",
+      "bho": "आरती",
+      "evidence": "FACT",
+      "source": "BHWP:दीया (\"आरती करे खातिर\"); BHWP:रामनउमी"
+    },
+    {
+      "id": "mantra-pushpanjali",
+      "category": "foundations",
+      "en": "flower offering with mantras (pushpanjali)",
+      "hi": "मंत्र पुष्पांजलि",
+      "bho": "मंत्र पुष्पांजलि",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "kshama-prarthana",
+      "category": "foundations",
+      "en": "prayer for forgiveness (kshama-prarthana)",
+      "hi": "क्षमा प्रार्थना",
+      "bho": "क्षमा प्रार्थना",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "pradakshina",
+      "category": "foundations",
+      "en": "circumambulation (pradakshina / parikrama)",
+      "hi": "प्रदक्षिणा",
+      "bho": "प्रदक्षिणा",
+      "hiAlt": [
+        "परिक्रमा"
+      ],
+      "bhoAlt": [
+        "परिक्रमा"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:तिथि (\"परिक्रमा\")"
+    },
+    {
+      "id": "visarjan",
+      "category": "foundations",
+      "en": "farewell / immersion (visarjana)",
+      "hi": "विसर्जन",
+      "bho": "विसर्जन",
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals anant-chaturdashi bho (\"गणेश विसर्जन\"); BHWP:पितरपख (\"पितृ विसर्जन\")"
+    },
+    {
+      "id": "nitya-karma",
+      "category": "foundations",
+      "en": "daily duties (nitya-karma)",
+      "hi": "नित्य कर्म",
+      "bho": "नित्य कर्म",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "pratah-smaran",
+      "category": "foundations",
+      "en": "morning remembrance (pratah-smarana)",
+      "hi": "प्रातः स्मरण",
+      "bho": "प्रातः स्मरण",
+      "bhoAlt": [
+        "भोर के सुमिरन"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "snan",
+      "category": "foundations",
+      "en": "ritual bath (snana)",
+      "hi": "स्नान",
+      "bho": "नहान",
+      "bhoAlt": [
+        "स्नान"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:छठ (\"नहान, बरत आ अरघा दिहल\"); SV-CORPUS glossary nahay-khay bho (\"नहान\")"
+    },
+    {
+      "id": "sandhya-vandan",
+      "category": "foundations",
+      "en": "twilight worship (sandhya-vandana)",
+      "hi": "संध्या वंदन",
+      "bho": "संध्या वंदन",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "jap",
+      "category": "foundations",
+      "en": "repetition of a mantra (japa)",
+      "hi": "जप",
+      "bho": "जप",
+      "hiAlt": [
+        "जाप"
+      ],
+      "bhoAlt": [
+        "जाप"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "tarpan",
+      "category": "foundations",
+      "en": "water offering to ancestors and gods (tarpana)",
+      "hi": "तर्पण",
+      "bho": "तर्पण",
+      "evidence": "FACT",
+      "source": "BHWP:पितरपख (\"पितरपख के नहान, आ तर्पण\")"
+    },
+    {
+      "id": "dev-puja",
+      "category": "foundations",
+      "en": "worship of deities (deva-puja)",
+      "hi": "देव पूजा",
+      "bho": "देव पूजा",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "dhyan",
+      "category": "foundations",
+      "en": "meditation / visualisation verse (dhyana)",
+      "hi": "ध्यान",
+      "bho": "ध्यान",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "abhishek",
+      "category": "foundations",
+      "en": "ritual bathing of the deity (abhisheka)",
+      "hi": "अभिषेक",
+      "bho": "अभिषेक",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "prarthana",
+      "category": "foundations",
+      "en": "prayer (prarthana)",
+      "hi": "प्रार्थना",
+      "bho": "प्रार्थना",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "vinyog",
+      "category": "foundations",
+      "en": "ritual application of a mantra (viniyoga)",
+      "hi": "विनियोग",
+      "bho": "विनियोग",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "padachheda",
+      "category": "foundations",
+      "en": "word-by-word split of a mantra (pada-chheda)",
+      "hi": "पदच्छेद",
+      "bho": "पदच्छेद",
+      "hiAlt": [
+        "शब्दार्थ"
+      ],
+      "bhoAlt": [
+        "शब्द के अरथ"
+      ],
+      "evidence": "INFERENCE",
+      "source": "BHWP:छठ (\"शाब्दिक अरथ\")",
+      "ownerQuestion": 21
+    },
+    {
+      "id": "avahan",
+      "category": "puja-upachara",
+      "en": "invocation (avahana)",
+      "hi": "आवाहन",
+      "bho": "आवाहन",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "asan",
+      "category": "puja-upachara",
+      "en": "seat (asana)",
+      "hi": "आसन",
+      "bho": "आसन",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "padya",
+      "category": "puja-upachara",
+      "en": "water for the feet (padya)",
+      "hi": "पाद्य",
+      "bho": "पाद्य",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "arghya",
+      "category": "puja-upachara",
+      "en": "water offering (arghya)",
+      "hi": "अर्घ्य",
+      "bho": "अरघ",
+      "bhoAlt": [
+        "अर्घ्य"
+      ],
+      "bhoFolk": [
+        "अरघा"
+      ],
+      "evidence": "FACT",
+      "source": "SV-UI vrat.chhath.sandhyaArghya bho (\"संझा अरघ\"); BHWP:छठ (अरघ / अरघा)",
+      "ownerQuestion": 16
+    },
+    {
+      "id": "achamaniya",
+      "category": "puja-upachara",
+      "en": "water for sipping (achamaniya)",
+      "hi": "आचमनीय",
+      "bho": "आचमनीय",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "snan-upachara",
+      "category": "puja-upachara",
+      "en": "bathing the deity (snana)",
+      "hi": "स्नान (उपचार)",
+      "bho": "स्नान (उपचार)",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "vastra",
+      "category": "puja-upachara",
+      "en": "cloth offering (vastra)",
+      "hi": "वस्त्र",
+      "bho": "वस्त्र",
+      "bhoFolk": [
+        "कपड़ा"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "yajnopavit-upachara",
+      "category": "puja-upachara",
+      "en": "sacred thread offering (yajnopavita)",
+      "hi": "यज्ञोपवीत",
+      "bho": "यज्ञोपवीत",
+      "evidence": "FACT",
+      "source": "BHWP:जनेव (\"जनेव, जनेऊ, यज्ञोपवीत भा उपनयन\")"
+    },
+    {
+      "id": "gandh",
+      "category": "puja-upachara",
+      "en": "fragrant paste (gandha / chandana)",
+      "hi": "गंध",
+      "bho": "गंध",
+      "hiAlt": [
+        "चंदन"
+      ],
+      "bhoAlt": [
+        "चंदन"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "akshat",
+      "category": "puja-upachara",
+      "en": "unbroken rice (akshata)",
+      "hi": "अक्षत",
+      "bho": "अच्छत",
+      "bhoAlt": [
+        "अक्षत"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:रामनउमी (\"मूर्तियन के अच्छत चढ़ावल जाला\"); BHWP:रक्षाबंधन"
+    },
+    {
+      "id": "pushp",
+      "category": "puja-upachara",
+      "en": "flowers (pushpa)",
+      "hi": "पुष्प",
+      "bho": "फूल",
+      "hiAlt": [
+        "फूल"
+      ],
+      "bhoAlt": [
+        "पुष्प"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:छठ (\"फल-नरियर-परसाद\"); BHWP:रक्षाबंधन (\"फलफूल\")"
+    },
+    {
+      "id": "dhoop",
+      "category": "puja-upachara",
+      "en": "incense (dhupa)",
+      "hi": "धूप",
+      "bho": "धूप",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "deep",
+      "category": "puja-upachara",
+      "en": "lamp (dipa)",
+      "hi": "दीप",
+      "bho": "दीया",
+      "hiAlt": [
+        "दीया",
+        "दीपक"
+      ],
+      "bhoAlt": [
+        "दीप"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:दीया (article title); SV-CORPUS glossary pradosh bho (\"साँझ के दीया\")"
+    },
+    {
+      "id": "naivedya",
+      "category": "puja-upachara",
+      "en": "food offering (naivedya / bhoga)",
+      "hi": "नैवेद्य",
+      "bho": "नैवेद्य",
+      "hiAlt": [
+        "भोग"
+      ],
+      "bhoAlt": [
+        "भोग"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "tambul",
+      "category": "puja-upachara",
+      "en": "betel offering (tambula)",
+      "hi": "तांबूल",
+      "bho": "तांबूल",
+      "hiAlt": [
+        "पान"
+      ],
+      "bhoAlt": [
+        "पान"
+      ],
+      "evidence": "INFERENCE",
+      "source": "HIWP:मड़वा मटकोर (\"जौ, पान\")"
+    },
+    {
+      "id": "dakshina",
+      "category": "puja-upachara",
+      "en": "fee / gift to the priest (dakshina)",
+      "hi": "दक्षिणा",
+      "bho": "दक्षिणा",
+      "evidence": "FACT",
+      "source": "BHWP:कर्मकांड (\"ओकरा के दक्षिणा दे के\")"
+    },
+    {
+      "id": "namaskar",
+      "category": "puja-upachara",
+      "en": "salutation (namaskara / pranama)",
+      "hi": "नमस्कार",
+      "bho": "परनाम",
+      "hiAlt": [
+        "प्रणाम"
+      ],
+      "bhoAlt": [
+        "नमस्कार"
+      ],
+      "evidence": "FACT",
+      "source": "WP-GRAMMAR Bhojpuri_language phrase table (\"राम राम / परनाम\")"
+    },
+    {
+      "id": "prasad",
+      "category": "puja-upachara",
+      "en": "blessed food (prasada)",
+      "hi": "प्रसाद",
+      "bho": "परसाद",
+      "bhoAlt": [
+        "प्रसाद"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:छठ (\"परसाद चढ़ावल\", \"बिसेस परसाद\")"
+    },
+    {
+      "id": "charanamrit",
+      "category": "puja-upachara",
+      "en": "water from the deity's feet (charanamrita)",
+      "hi": "चरणामृत",
+      "bho": "चरणामृत",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "tilak",
+      "category": "puja-upachara",
+      "en": "forehead mark (tilaka / tika)",
+      "hi": "तिलक",
+      "bho": "टीका",
+      "bhoAlt": [
+        "तिलक"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:टीका (\"संस्कृत में एकरा के तिलक कहल जाला\"); BHWP:रक्षाबंधन (\"तिलक (टीका)\")"
+    },
+    {
+      "id": "pushpanjali",
+      "category": "puja-upachara",
+      "en": "handful of flowers (pushpanjali)",
+      "hi": "पुष्पांजलि",
+      "bho": "पुष्पांजलि",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "parikrama",
+      "category": "puja-upachara",
+      "en": "circumambulation (parikrama)",
+      "hi": "परिक्रमा",
+      "bho": "परिक्रमा",
+      "evidence": "FACT",
+      "source": "BHWP:तिथि"
+    },
+    {
+      "id": "bhog",
+      "category": "puja-upachara",
+      "en": "food offered to the deity (bhoga)",
+      "hi": "भोग",
+      "bho": "भोग",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "havan",
+      "category": "havan",
+      "en": "fire offering (havana / homa)",
+      "hi": "हवन",
+      "bho": "हवन",
+      "hiAlt": [
+        "होम"
+      ],
+      "bhoAlt": [
+        "होम"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:यज्ञ (\"मंत्र पढ़-पढ़ के हवन कइल जाला\")",
+      "ownerQuestion": 19
+    },
+    {
+      "id": "yajna",
+      "category": "havan",
+      "en": "Vedic sacrifice (yajna)",
+      "hi": "यज्ञ",
+      "bho": "यज्ञ",
+      "bhoFolk": [
+        "जग्य"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:यज्ञ (title); BHWP:वेद, BHWP:छठ (\"पुत्रेष्टि जग्य\")",
+      "ownerQuestion": 26
+    },
+    {
+      "id": "havan-kund",
+      "category": "havan",
+      "en": "fire altar (havana-kunda)",
+      "hi": "हवन कुंड",
+      "bho": "हवन कुंड",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "vedi",
+      "category": "havan",
+      "en": "altar (vedi)",
+      "hi": "वेदी",
+      "bho": "बेदी",
+      "bhoAlt": [
+        "वेदी"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:छठ (\"माटी के बेदी पर सजावल\")"
+    },
+    {
+      "id": "agni-sthapana",
+      "category": "havan",
+      "en": "establishing the fire (agni-sthapana)",
+      "hi": "अग्नि स्थापना",
+      "bho": "अग्नि स्थापना",
+      "bhoFolk": [
+        "आगि"
+      ],
+      "evidence": "INFERENCE",
+      "source": "BHWP:डोम (\"इनहन लोग से आगी लिहल जाला\")"
+    },
+    {
+      "id": "agni-avahan",
+      "category": "havan",
+      "en": "invoking the fire (agni-avahana)",
+      "hi": "अग्नि आवाहन",
+      "bho": "अग्नि आवाहन",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "samidha",
+      "category": "havan",
+      "en": "fuel sticks (samidha)",
+      "hi": "समिधा",
+      "bho": "समिधा",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "ahuti",
+      "category": "havan",
+      "en": "oblation (ahuti)",
+      "hi": "आहुति",
+      "bho": "आहुति",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "ghrit-ahuti",
+      "category": "havan",
+      "en": "ghee oblation",
+      "hi": "घृत आहुति",
+      "bho": "घी के आहुति",
+      "bhoAlt": [
+        "घृत आहुति"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "navagraha-ahuti",
+      "category": "havan",
+      "en": "oblations to the nine planets",
+      "hi": "नवग्रह आहुति",
+      "bho": "नवग्रह आहुति",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "swishtakrit",
+      "category": "havan",
+      "en": "Svishtakrit oblation",
+      "hi": "स्विष्टकृत",
+      "bho": "स्विष्टकृत",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "purnahuti",
+      "category": "havan",
+      "en": "final oblation (purnahuti)",
+      "hi": "पूर्णाहुति",
+      "bho": "पूर्णाहुति",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "vasordhara",
+      "category": "havan",
+      "en": "stream of ghee (vasordhara)",
+      "hi": "वसोर्धारा",
+      "bho": "वसोर्धारा",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "bhasma-dharan",
+      "category": "havan",
+      "en": "wearing the sacred ash (bhasma-dharana)",
+      "hi": "भस्म धारण",
+      "bho": "भस्म धारण",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "brahman-bhojan",
+      "category": "havan",
+      "en": "feeding Brahmins (brahmana-bhojana)",
+      "hi": "ब्राह्मण भोजन",
+      "bho": "ब्राह्मण भोजन",
+      "bhoFolk": [
+        "बाभन-भोज"
+      ],
+      "evidence": "INFERENCE",
+      "source": "BHWP:जनेव (बाभन); BHWP:डोम (\"अंतिम भोज\")",
+      "ownerQuestion": 8
+    },
+    {
+      "id": "agnihotra",
+      "category": "havan",
+      "en": "daily fire rite (agnihotra)",
+      "hi": "अग्निहोत्र",
+      "bho": "अग्निहोत्र",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "hota",
+      "category": "havan",
+      "en": "reciting priest (hotr / hota)",
+      "hi": "होतृ (होता)",
+      "bho": "होतृ",
+      "evidence": "FACT",
+      "source": "BHWP:वेद (\"जग्य करावे वाला पुरोहित … 'होता' कहायँ\")",
+      "note": "Vedic priest title; the bho gate forbids the token होता (Hindi verb), so Bhojpuri prose uses the stem होतृ or पुरोहित"
+    },
+    {
+      "id": "samagri",
+      "category": "samagri",
+      "en": "materials list (samagri)",
+      "hi": "सामग्री",
+      "bho": "सामग्री",
+      "bhoFolk": [
+        "सामान"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:छठ (\"पूजा के सामग्री\")"
+    },
+    {
+      "id": "kalash",
+      "category": "samagri",
+      "en": "water-pot (kalasha)",
+      "hi": "कलश",
+      "bho": "कलश",
+      "evidence": "FACT",
+      "source": "SV-CORPUS glossary ghatasthapana; HIWP:मड़वा मटकोर"
+    },
+    {
+      "id": "nariyal",
+      "category": "samagri",
+      "en": "coconut",
+      "hi": "नारियल",
+      "bho": "नरियर",
+      "bhoAlt": [
+        "नारियल"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:छठ (\"फल-नरियर-परसाद\")"
+    },
+    {
+      "id": "aam-patta",
+      "category": "samagri",
+      "en": "mango leaves",
+      "hi": "आम के पत्ते",
+      "bho": "आम के पत्ता",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "kush",
+      "category": "samagri",
+      "en": "kusha grass",
+      "hi": "कुश",
+      "bho": "कुश",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "til",
+      "category": "samagri",
+      "en": "sesame",
+      "hi": "तिल",
+      "bho": "तिल",
+      "evidence": "FACT",
+      "source": "BHWP:गंगा नदी (\"चाउर के आटा आ तिल के बनल पिंडा\")"
+    },
+    {
+      "id": "jau",
+      "category": "samagri",
+      "en": "barley",
+      "hi": "जौ",
+      "bho": "जौ",
+      "bhoFolk": [
+        "जव"
+      ],
+      "evidence": "INFERENCE",
+      "source": "HIWP:मड़वा मटकोर (\"जौ, पान और पीला कपड़ा\")"
+    },
+    {
+      "id": "chawal",
+      "category": "samagri",
+      "en": "rice",
+      "hi": "चावल",
+      "bho": "चाउर",
+      "bhoAlt": [
+        "चावल"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:कोहबर (\"पिसल चाउर (चउरठ)\"); BHWP:गंगा नदी"
+    },
+    {
+      "id": "ghee",
+      "category": "samagri",
+      "en": "ghee",
+      "hi": "घी",
+      "bho": "घी",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "doodh",
+      "category": "samagri",
+      "en": "milk",
+      "hi": "दूध",
+      "bho": "दूध",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "dahi",
+      "category": "samagri",
+      "en": "curd",
+      "hi": "दही",
+      "bho": "दही",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "shahad",
+      "category": "samagri",
+      "en": "honey",
+      "hi": "शहद",
+      "bho": "मधु",
+      "bhoAlt": [
+        "शहद"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "shakkar",
+      "category": "samagri",
+      "en": "sugar",
+      "hi": "शक्कर",
+      "bho": "चीनी",
+      "hiAlt": [
+        "चीनी"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:चीनी (article)"
+    },
+    {
+      "id": "gud",
+      "category": "samagri",
+      "en": "jaggery",
+      "hi": "गुड़",
+      "bho": "गुड़",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "panchamrit",
+      "category": "samagri",
+      "en": "five nectars (panchamrita)",
+      "hi": "पंचामृत",
+      "bho": "पंचामृत",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "panjiri",
+      "category": "samagri",
+      "en": "roasted wheat-flour prasad (panjiri)",
+      "hi": "पंजीरी",
+      "bho": "पंजीरी",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "kapur",
+      "category": "samagri",
+      "en": "camphor",
+      "hi": "कपूर",
+      "bho": "कपूर",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "agarbatti",
+      "category": "samagri",
+      "en": "incense stick",
+      "hi": "अगरबत्ती",
+      "bho": "अगरबत्ती",
+      "evidence": "FACT",
+      "source": "BHWP:छठ (\"दिया अगरबत्ती बारल जाला\")"
+    },
+    {
+      "id": "roli",
+      "category": "samagri",
+      "en": "red powder (roli / kumkum)",
+      "hi": "रोली",
+      "bho": "रोरी",
+      "hiAlt": [
+        "कुमकुम"
+      ],
+      "bhoAlt": [
+        "रोली"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:रामनउमी (\"रोली आ लेप\"); BHWP:रक्षाबंधन (\"रोरी या हरदी\")"
+    },
+    {
+      "id": "sindoor",
+      "category": "samagri",
+      "en": "vermilion (sindura)",
+      "hi": "सिंदूर",
+      "bho": "सिंदूर",
+      "bhoFolk": [
+        "सेनुर"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:दुर्गा (\"सिंदूर लगावेली\")",
+      "ownerQuestion": 23
+    },
+    {
+      "id": "haldi",
+      "category": "samagri",
+      "en": "turmeric",
+      "hi": "हल्दी",
+      "bho": "हरदी",
+      "evidence": "FACT",
+      "source": "BHWP:कोहबर (\"पीसल हरदी (ऐपन)\"); BHWP:रक्षाबंधन"
+    },
+    {
+      "id": "aipan",
+      "category": "samagri",
+      "en": "turmeric paste for ritual painting (aipan)",
+      "hi": "ऐपन",
+      "bho": "ऐपन",
+      "evidence": "FACT",
+      "source": "BHWP:कोहबर"
+    },
+    {
+      "id": "chaurath",
+      "category": "samagri",
+      "en": "rice-flour paste for ritual painting",
+      "hi": "चावल का घोल (चौरठ)",
+      "bho": "चउरठ",
+      "evidence": "FACT",
+      "source": "BHWP:कोहबर (\"पिसल चाउर (चउरठ)\")"
+    },
+    {
+      "id": "supari",
+      "category": "samagri",
+      "en": "betel nut",
+      "hi": "सुपारी",
+      "bho": "सुपारी",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "paan",
+      "category": "samagri",
+      "en": "betel leaf",
+      "hi": "पान",
+      "bho": "पान",
+      "evidence": "FACT",
+      "source": "HIWP:मड़वा मटकोर"
+    },
+    {
+      "id": "bel-patra",
+      "category": "samagri",
+      "en": "bael leaf (bilva-patra)",
+      "hi": "बेलपत्र",
+      "bho": "बेलपत्र",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "durva",
+      "category": "samagri",
+      "en": "durva grass",
+      "hi": "दूर्वा",
+      "bho": "दूब",
+      "hiAlt": [
+        "दूब"
+      ],
+      "bhoAlt": [
+        "दूर्वा"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "tulsi-dal",
+      "category": "samagri",
+      "en": "tulsi leaf",
+      "hi": "तुलसी दल",
+      "bho": "तुलसी पत्ता",
+      "evidence": "INFERENCE",
+      "source": "BHWP:तुलसी (article)"
+    },
+    {
+      "id": "gangajal",
+      "category": "samagri",
+      "en": "Ganga water",
+      "hi": "गंगाजल",
+      "bho": "गंगाजल",
+      "evidence": "FACT",
+      "source": "BHWP:गंगा नदी (\"गंगाजल के इस्तेमाल\")"
+    },
+    {
+      "id": "shankh",
+      "category": "samagri",
+      "en": "conch",
+      "hi": "शंख",
+      "bho": "शंख",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "ghanti",
+      "category": "samagri",
+      "en": "bell",
+      "hi": "घंटी",
+      "bho": "घंटी",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "chauki",
+      "category": "samagri",
+      "en": "low wooden stool for the deity",
+      "hi": "चौकी",
+      "bho": "चौकी",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "mandap",
+      "category": "samagri",
+      "en": "canopy / pavilion (mandapa / marwa)",
+      "hi": "मंडप",
+      "bho": "मड़वा",
+      "hiAlt": [
+        "मड़वा"
+      ],
+      "bhoAlt": [
+        "मंडप"
+      ],
+      "evidence": "FACT",
+      "source": "HIWP:मड़वा मटकोर (\"मड़वा (या माँड़ो) की रस्म में नया बाँस से मंडप\")"
+    },
+    {
+      "id": "thali",
+      "category": "samagri",
+      "en": "plate",
+      "hi": "थाली",
+      "bho": "थरिया",
+      "bhoAlt": [
+        "थाली"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:रक्षाबंधन (\"पूजा क थरिया सजावेलीं\")"
+    },
+    {
+      "id": "lota",
+      "category": "samagri",
+      "en": "small water vessel",
+      "hi": "लोटा",
+      "bho": "लोटा",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "diya-mitti",
+      "category": "samagri",
+      "en": "earthen lamp",
+      "hi": "मिट्टी का दीया",
+      "bho": "माटी के दीया",
+      "evidence": "FACT",
+      "source": "BHWP:छठ (\"माटी के चूल्हा\")"
+    },
+    {
+      "id": "batti",
+      "category": "samagri",
+      "en": "wick",
+      "hi": "बत्ती",
+      "bho": "बाती",
+      "bhoAlt": [
+        "बत्ती"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "mala",
+      "category": "samagri",
+      "en": "rosary / garland",
+      "hi": "माला",
+      "bho": "माला",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "phal",
+      "category": "samagri",
+      "en": "fruit",
+      "hi": "फल",
+      "bho": "फल",
+      "evidence": "FACT",
+      "source": "BHWP:छठ"
+    },
+    {
+      "id": "mithai",
+      "category": "samagri",
+      "en": "sweets",
+      "hi": "मिठाई",
+      "bho": "मिठाई",
+      "evidence": "FACT",
+      "source": "BHWP:रक्षाबंधन"
+    },
+    {
+      "id": "kheer",
+      "category": "samagri",
+      "en": "rice pudding",
+      "hi": "खीर",
+      "bho": "खीर",
+      "evidence": "FACT",
+      "source": "SV-CORPUS glossary kharna bho (\"खीर से खोलल जाला\")"
+    },
+    {
+      "id": "thekua",
+      "category": "samagri",
+      "en": "Chhath sweet (thekua)",
+      "hi": "ठेकुआ",
+      "bho": "ठेकुआ",
+      "evidence": "FACT",
+      "source": "BHWP:छठ (\"पकवान ठेकुआ\")"
+    },
+    {
+      "id": "daura",
+      "category": "samagri",
+      "en": "bamboo basket (daura)",
+      "hi": "दउरा",
+      "bho": "दउरा",
+      "evidence": "FACT",
+      "source": "BHWP:छठ (\"बाँस के बनावल बड़हन आकार के दउरा\")"
+    },
+    {
+      "id": "soop",
+      "category": "samagri",
+      "en": "winnowing tray (soop)",
+      "hi": "सूप",
+      "bho": "सूप",
+      "evidence": "FACT",
+      "source": "BHWP:छठ (\"नया सूप आ डाली\")"
+    },
+    {
+      "id": "ganna",
+      "category": "samagri",
+      "en": "sugarcane",
+      "hi": "गन्ना",
+      "bho": "ऊख",
+      "bhoAlt": [
+        "ऊखि"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:छठ (\"ऊखि गाड़ल जाला\")"
+    },
+    {
+      "id": "pitambar",
+      "category": "samagri",
+      "en": "yellow cloth",
+      "hi": "पीला वस्त्र",
+      "bho": "पियर कपड़ा",
+      "evidence": "INFERENCE",
+      "source": "HIWP:मड़वा मटकोर (\"पीला कपड़ा\")"
+    },
+    {
+      "id": "lal-kapda",
+      "category": "samagri",
+      "en": "red cloth",
+      "hi": "लाल कपड़ा",
+      "bho": "लाल कपड़ा",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "janeu-dhaga",
+      "category": "samagri",
+      "en": "sacred-thread cord",
+      "hi": "जनेऊ",
+      "bho": "जनेऊ",
+      "bhoAlt": [
+        "जनेव"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:जनेव",
+      "ownerQuestion": 15
+    },
+    {
+      "id": "sankalp-template",
+      "category": "sankalpa",
+      "en": "the sankalpa formula (date, place, lineage, intent)",
+      "hi": "संकल्प वाक्य",
+      "bho": "संकल्प वाक्य",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "samvatsar",
+      "category": "sankalpa",
+      "en": "year name in the 60-year cycle (samvatsara)",
+      "hi": "संवत्सर",
+      "bho": "संवत्सर",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "samvat",
+      "category": "sankalpa",
+      "en": "era year (samvat)",
+      "hi": "संवत",
+      "bho": "संवत",
+      "evidence": "FACT",
+      "source": "SV-UI panchang.samvat"
+    },
+    {
+      "id": "vikram-samvat",
+      "category": "sankalpa",
+      "en": "Vikram Samvat",
+      "hi": "विक्रम संवत",
+      "bho": "विक्रम संवत",
+      "evidence": "FACT",
+      "source": "SV-UI panchang.vikram"
+    },
+    {
+      "id": "shaka-samvat",
+      "category": "sankalpa",
+      "en": "Shaka Samvat",
+      "hi": "शक संवत",
+      "bho": "शक संवत",
+      "evidence": "FACT",
+      "source": "SV-UI panchang.shaka"
+    },
+    {
+      "id": "ayan",
+      "category": "sankalpa",
+      "en": "half-year of the Sun (ayana)",
+      "hi": "अयन",
+      "bho": "अयन",
+      "evidence": "FACT",
+      "source": "SV-UI panchang.ayana"
+    },
+    {
+      "id": "uttarayan",
+      "category": "sankalpa",
+      "en": "northward half-year (uttarayana)",
+      "hi": "उत्तरायण",
+      "bho": "उत्तरायण",
+      "evidence": "FACT",
+      "source": "SV-UI panchang.ayana.uttarayana"
+    },
+    {
+      "id": "dakshinayan",
+      "category": "sankalpa",
+      "en": "southward half-year (dakshinayana)",
+      "hi": "दक्षिणायन",
+      "bho": "दक्षिणायन",
+      "evidence": "FACT",
+      "source": "SV-UI panchang.ayana.dakshinayana"
+    },
+    {
+      "id": "ritu",
+      "category": "sankalpa",
+      "en": "season (ritu)",
+      "hi": "ऋतु",
+      "bho": "ऋतु",
+      "evidence": "FACT",
+      "source": "SV-UI panchang.ritu"
+    },
+    {
+      "id": "maas",
+      "category": "sankalpa",
+      "en": "lunar month (masa)",
+      "hi": "मास",
+      "bho": "महीना",
+      "hiAlt": [
+        "महीना"
+      ],
+      "evidence": "FACT",
+      "source": "SV-UI panchang.month (hi मास, bho महीना)"
+    },
+    {
+      "id": "paksha",
+      "category": "sankalpa",
+      "en": "fortnight (paksha)",
+      "hi": "पक्ष",
+      "bho": "पक्ष",
+      "bhoFolk": [
+        "पाख",
+        "पखवारा"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS glossary paksha (bho \"चांद्र पखवारा\"); BHWP:तिथि (\"अन्हार आ अँजोर पाख\")"
+    },
+    {
+      "id": "shukla-paksha",
+      "category": "sankalpa",
+      "en": "bright fortnight (shukla paksha)",
+      "hi": "शुक्ल पक्ष",
+      "bho": "शुक्ल पक्ष",
+      "bhoFolk": [
+        "अँजोर पाख",
+        "सुदी"
+      ],
+      "evidence": "FACT",
+      "source": "SV-ENGINE pakshaNames; BHWP:तिथि (\"अँजोर पाख (सुदी)\")"
+    },
+    {
+      "id": "krishna-paksha",
+      "category": "sankalpa",
+      "en": "dark fortnight (krishna paksha)",
+      "hi": "कृष्ण पक्ष",
+      "bho": "कृष्ण पक्ष",
+      "bhoFolk": [
+        "अन्हार पाख",
+        "बदी"
+      ],
+      "evidence": "FACT",
+      "source": "SV-ENGINE pakshaNames; BHWP:तिथि (\"अन्हार पाख (बदी)\")"
+    },
+    {
+      "id": "tithi",
+      "category": "sankalpa",
+      "en": "lunar day (tithi)",
+      "hi": "तिथि",
+      "bho": "तिथि",
+      "evidence": "FACT",
+      "source": "SV-UI panchang.tithi"
+    },
+    {
+      "id": "vaar",
+      "category": "sankalpa",
+      "en": "weekday (vara)",
+      "hi": "वार",
+      "bho": "वार",
+      "bhoAlt": [
+        "दिन"
+      ],
+      "evidence": "FACT",
+      "source": "SV-UI panchang.vara (bho दिन) and muhurat.rule.vara (bho वार)"
+    },
+    {
+      "id": "nakshatra",
+      "category": "sankalpa",
+      "en": "lunar mansion (nakshatra)",
+      "hi": "नक्षत्र",
+      "bho": "नक्षत्र",
+      "evidence": "FACT",
+      "source": "SV-UI panchang.nakshatra",
+      "note": "the 27 names are taken verbatim from Shubhvela engine nakshatraNames (bho differs only in सतभिखा)"
+    },
+    {
+      "id": "yoga",
+      "category": "sankalpa",
+      "en": "panchang yoga",
+      "hi": "योग",
+      "bho": "योग",
+      "evidence": "FACT",
+      "source": "SV-UI panchang.yoga"
+    },
+    {
+      "id": "karan",
+      "category": "sankalpa",
+      "en": "half-tithi (karana)",
+      "hi": "करण",
+      "bho": "करण",
+      "evidence": "FACT",
+      "source": "SV-UI panchang.karana"
+    },
+    {
+      "id": "gotra",
+      "category": "sankalpa",
+      "en": "lineage (gotra)",
+      "hi": "गोत्र",
+      "bho": "गोत्र",
+      "evidence": "FACT",
+      "source": "BHWP:देउवा (\"अलग-अलग गोत्र आ पुरोहित परिवार\")"
+    },
+    {
+      "id": "pravar",
+      "category": "sankalpa",
+      "en": "ancestral sages of a gotra (pravara)",
+      "hi": "प्रवर",
+      "bho": "प्रवर",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "naam",
+      "category": "sankalpa",
+      "en": "name",
+      "hi": "नाम",
+      "bho": "नाँव",
+      "evidence": "FACT",
+      "source": "SV-UI (bho नाँव); WP-GRAMMAR phrase table (\"राउर नाँव का ह?\")",
+      "note": "binding reuse; नाम stays in compounds (नामकरण)"
+    },
+    {
+      "id": "desh",
+      "category": "sankalpa",
+      "en": "country / region named in the sankalpa",
+      "hi": "देश",
+      "bho": "देस",
+      "bhoAlt": [
+        "देश"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:जिउतिया (\"नेपाल देस\")"
+    },
+    {
+      "id": "sthan",
+      "category": "sankalpa",
+      "en": "place",
+      "hi": "स्थान",
+      "bho": "जगह",
+      "hiAlt": [
+        "जगह"
+      ],
+      "bhoAlt": [
+        "स्थान"
+      ],
+      "evidence": "FACT",
+      "source": "SV-UI today.yourLocation (hi स्थान, bho जगह)"
+    },
+    {
+      "id": "panchang",
+      "category": "sankalpa",
+      "en": "almanac (panchanga)",
+      "hi": "पंचांग",
+      "bho": "पंचांग",
+      "bhoFolk": [
+        "पतरा"
+      ],
+      "evidence": "FACT",
+      "source": "SV-UI panchang.title; BHWP:तिथि (\"हिंदू पतरा\")"
+    },
+    {
+      "id": "purnimanta",
+      "category": "sankalpa",
+      "en": "month ending at full moon (purnimanta)",
+      "hi": "पूर्णिमांत",
+      "bho": "पूर्णिमांत",
+      "evidence": "FACT",
+      "source": "SV-UI panchang.purnimanta"
+    },
+    {
+      "id": "amanta",
+      "category": "sankalpa",
+      "en": "month ending at new moon (amanta)",
+      "hi": "अमांत",
+      "bho": "अमांत",
+      "evidence": "FACT",
+      "source": "SV-UI panchang.amanta"
+    },
+    {
+      "id": "adhik-maas",
+      "category": "sankalpa",
+      "en": "intercalary month (adhika masa / malamasa)",
+      "hi": "अधिक मास",
+      "bho": "अधिक महीना",
+      "hiAlt": [
+        "मलमास",
+        "पुरुषोत्तम मास"
+      ],
+      "bhoAlt": [
+        "मलमास"
+      ],
+      "evidence": "FACT",
+      "source": "SV-UI events.adhikLabel"
+    },
+    {
+      "id": "kharmas",
+      "category": "sankalpa",
+      "en": "inauspicious solar month for weddings (kharamasa)",
+      "hi": "खरमास",
+      "bho": "खरमास",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "chaturmas",
+      "category": "sankalpa",
+      "en": "four holy months (chaturmasa)",
+      "hi": "चातुर्मास",
+      "bho": "चातुर्मास",
+      "bhoFolk": [
+        "चउमासा"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "devshayan",
+      "category": "sankalpa",
+      "en": "Vishnu's sleep period (devashayana)",
+      "hi": "देवशयन",
+      "bho": "देवशयन",
+      "evidence": "INFERENCE",
+      "source": "SV-UI vrat.name.ekadashi-devshayani"
+    },
+    {
+      "id": "muhurat",
+      "category": "sankalpa",
+      "en": "auspicious time (muhurta)",
+      "hi": "मुहूर्त",
+      "bho": "मुहूर्त",
+      "evidence": "FACT",
+      "source": "SV-UI muhurat.title"
+    },
+    {
+      "id": "shubh-muhurat",
+      "category": "sankalpa",
+      "en": "auspicious window",
+      "hi": "शुभ मुहूर्त",
+      "bho": "शुभ मुहूर्त",
+      "bhoAlt": [
+        "शुभ बेला"
+      ],
+      "evidence": "FACT",
+      "source": "SV-UI common.tagline bho (\"शुभ बेला\")"
+    },
+    {
+      "id": "lagna",
+      "category": "sankalpa",
+      "en": "ascendant / wedding hour (lagna)",
+      "hi": "लग्न",
+      "bho": "लग्न",
+      "bhoFolk": [
+        "लगन"
+      ],
+      "evidence": "FACT",
+      "source": "SV-ENGINE lagnaName"
+    },
+    {
+      "id": "abhijit",
+      "category": "sankalpa",
+      "en": "Abhijit muhurta",
+      "hi": "अभिजित",
+      "bho": "अभिजित",
+      "evidence": "FACT",
+      "source": "SV-UI panchang.segmentsLine"
+    },
+    {
+      "id": "brahma-muhurat",
+      "category": "sankalpa",
+      "en": "pre-dawn muhurta (brahma muhurta)",
+      "hi": "ब्रह्म मुहूर्त",
+      "bho": "ब्रह्म मुहूर्त",
+      "evidence": "FACT",
+      "source": "SV-CORPUS glossary brahma-muhurta"
+    },
+    {
+      "id": "rahu-kaal",
+      "category": "sankalpa",
+      "en": "Rahu Kaal",
+      "hi": "राहु काल",
+      "bho": "राहु काल",
+      "evidence": "FACT",
+      "source": "SV-UI panchang.segmentsLine"
+    },
+    {
+      "id": "bhadra",
+      "category": "sankalpa",
+      "en": "Bhadra (Vishti karana)",
+      "hi": "भद्रा",
+      "bho": "भद्रा",
+      "evidence": "FACT",
+      "source": "SV-ENGINE bhadraName"
+    },
+    {
+      "id": "panchak",
+      "category": "sankalpa",
+      "en": "Panchak",
+      "hi": "पंचक",
+      "bho": "पंचक",
+      "evidence": "FACT",
+      "source": "SV-UI today.flagPanchak"
+    },
+    {
+      "id": "sankranti",
+      "category": "sankalpa",
+      "en": "solar ingress (sankranti)",
+      "hi": "संक्रांति",
+      "bho": "संक्रांति",
+      "evidence": "FACT",
+      "source": "SV-UI calendar.sankranti"
+    },
+    {
+      "id": "suryoday",
+      "category": "sankalpa",
+      "en": "sunrise",
+      "hi": "सूर्योदय",
+      "bho": "सूर्योदय",
+      "bhoFolk": [
+        "भोर",
+        "सुरुज उगल"
+      ],
+      "evidence": "FACT",
+      "source": "SV-UI panchang.sunriseSunset"
+    },
+    {
+      "id": "suryast",
+      "category": "sankalpa",
+      "en": "sunset",
+      "hi": "सूर्यास्त",
+      "bho": "सूर्यास्त",
+      "bhoFolk": [
+        "साँझ"
+      ],
+      "evidence": "FACT",
+      "source": "SV-UI panchang.sunriseSunset"
+    },
+    {
+      "id": "chandroday",
+      "category": "sankalpa",
+      "en": "moonrise",
+      "hi": "चंद्रोदय",
+      "bho": "चंद्रोदय",
+      "evidence": "FACT",
+      "source": "SV-UI vrat.time.moonrise"
+    },
+    {
+      "id": "madhyahna",
+      "category": "sankalpa",
+      "en": "midday (madhyahna)",
+      "hi": "मध्याह्न",
+      "bho": "मध्याह्न",
+      "bhoFolk": [
+        "दुपहरिया"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS glossary madhyahna (bho \"दुपहरिया\")"
+    },
+    {
+      "id": "aparahna",
+      "category": "sankalpa",
+      "en": "afternoon (aparahna; time for shraddha)",
+      "hi": "अपराह्न",
+      "bho": "अपराह्न",
+      "evidence": "FACT",
+      "source": "SV-CORPUS glossary aparahna"
+    },
+    {
+      "id": "pradosh-kaal",
+      "category": "sankalpa",
+      "en": "evening twilight (pradosha kala)",
+      "hi": "प्रदोष काल",
+      "bho": "प्रदोष काल",
+      "evidence": "FACT",
+      "source": "SV-UI vrat.time.pradosh"
+    },
+    {
+      "id": "nishita",
+      "category": "sankalpa",
+      "en": "midnight hour (nishita)",
+      "hi": "निशीथ",
+      "bho": "निशीथ",
+      "bhoFolk": [
+        "अधरतिया"
+      ],
+      "evidence": "FACT",
+      "source": "SV-UI calendar.timing.nishita (bho \"निशीथ (अधरतिया)\")"
+    },
+    {
+      "id": "sandhya",
+      "category": "sankalpa",
+      "en": "twilight (sandhya)",
+      "hi": "संध्या",
+      "bho": "संझा",
+      "bhoAlt": [
+        "संध्या",
+        "साँझ"
+      ],
+      "evidence": "FACT",
+      "source": "SV-UI vrat.chhath.sandhyaArghya; SV-CORPUS glossary sandhya (bho \"साँझ भा भोर\")"
+    },
+    {
+      "id": "usha",
+      "category": "sankalpa",
+      "en": "dawn (usha)",
+      "hi": "उषा",
+      "bho": "भोर",
+      "bhoAlt": [
+        "उषा"
+      ],
+      "evidence": "FACT",
+      "source": "SV-UI vrat.chhath.ushaArghya bho (\"भोर के अरघ\")"
+    },
+    {
+      "id": "din",
+      "category": "sankalpa",
+      "en": "day",
+      "hi": "दिन",
+      "bho": "दिन",
+      "evidence": "FACT",
+      "source": "SV-UI common.days_one"
+    },
+    {
+      "id": "raat",
+      "category": "sankalpa",
+      "en": "night",
+      "hi": "रात",
+      "bho": "रात",
+      "evidence": "FACT",
+      "source": "SV-UI muhurat.night_tag"
+    },
+    {
+      "id": "saal",
+      "category": "sankalpa",
+      "en": "year",
+      "hi": "वर्ष",
+      "bho": "साल",
+      "hiAlt": [
+        "साल"
+      ],
+      "evidence": "FACT",
+      "source": "SV-UI common.years_one (hi वर्ष, bho साल)"
+    },
+    {
+      "id": "tarikh",
+      "category": "sankalpa",
+      "en": "civil date",
+      "hi": "तारीख़",
+      "bho": "तारीख",
+      "evidence": "FACT",
+      "source": "SV-UI onboarding.birthDate (hi तारीख़ with nukta, bho तारीख without)",
+      "ownerQuestion": 14
+    },
+    {
+      "id": "ravivar",
+      "category": "calendar-weekday",
+      "en": "Sunday",
+      "hi": "रविवार",
+      "bho": "एतवार",
+      "evidence": "FACT",
+      "source": "SV-ENGINE weekdayNames (binding reuse, brief 2.3); WP-GRAMMAR Bhojpuri_language weekday table"
+    },
+    {
+      "id": "somvar",
+      "category": "calendar-weekday",
+      "en": "Monday",
+      "hi": "सोमवार",
+      "bho": "सोमार",
+      "evidence": "FACT",
+      "source": "SV-ENGINE weekdayNames (binding reuse, brief 2.3); WP-GRAMMAR Bhojpuri_language weekday table"
+    },
+    {
+      "id": "mangalvar",
+      "category": "calendar-weekday",
+      "en": "Tuesday",
+      "hi": "मंगलवार",
+      "bho": "मंगर",
+      "evidence": "FACT",
+      "source": "SV-ENGINE weekdayNames (binding reuse, brief 2.3); WP-GRAMMAR Bhojpuri_language weekday table"
+    },
+    {
+      "id": "budhvar",
+      "category": "calendar-weekday",
+      "en": "Wednesday",
+      "hi": "बुधवार",
+      "bho": "बुध",
+      "evidence": "FACT",
+      "source": "SV-ENGINE weekdayNames (binding reuse, brief 2.3); WP-GRAMMAR Bhojpuri_language weekday table"
+    },
+    {
+      "id": "guruvar",
+      "category": "calendar-weekday",
+      "en": "Thursday",
+      "hi": "गुरुवार",
+      "bho": "बियफे",
+      "evidence": "FACT",
+      "source": "SV-ENGINE weekdayNames (binding reuse, brief 2.3); WP-GRAMMAR Bhojpuri_language weekday table"
+    },
+    {
+      "id": "shukravar",
+      "category": "calendar-weekday",
+      "en": "Friday",
+      "hi": "शुक्रवार",
+      "bho": "सुक",
+      "evidence": "FACT",
+      "source": "SV-ENGINE weekdayNames (binding reuse, brief 2.3); WP-GRAMMAR Bhojpuri_language weekday table"
+    },
+    {
+      "id": "shanivar",
+      "category": "calendar-weekday",
+      "en": "Saturday",
+      "hi": "शनिवार",
+      "bho": "सनिचर",
+      "evidence": "FACT",
+      "source": "SV-ENGINE weekdayNames (binding reuse, brief 2.3); WP-GRAMMAR Bhojpuri_language weekday table"
+    },
+    {
+      "id": "chaitra",
+      "category": "calendar-month",
+      "en": "Chaitra",
+      "hi": "चैत्र",
+      "bho": "चइत",
+      "evidence": "FACT",
+      "source": "SV-ENGINE lunarMonthNames (binding reuse)"
+    },
+    {
+      "id": "vaishakh",
+      "category": "calendar-month",
+      "en": "Vaishakha",
+      "hi": "वैशाख",
+      "bho": "बइसाख",
+      "evidence": "FACT",
+      "source": "SV-ENGINE lunarMonthNames (binding reuse)"
+    },
+    {
+      "id": "jyeshtha",
+      "category": "calendar-month",
+      "en": "Jyeshtha",
+      "hi": "ज्येष्ठ",
+      "bho": "जेठ",
+      "evidence": "FACT",
+      "source": "SV-ENGINE lunarMonthNames (binding reuse)"
+    },
+    {
+      "id": "ashadh",
+      "category": "calendar-month",
+      "en": "Ashadha",
+      "hi": "आषाढ़",
+      "bho": "असाढ़",
+      "evidence": "FACT",
+      "source": "SV-ENGINE lunarMonthNames (binding reuse)"
+    },
+    {
+      "id": "shravan",
+      "category": "calendar-month",
+      "en": "Shravana",
+      "hi": "श्रावण",
+      "bho": "सावन",
+      "evidence": "FACT",
+      "source": "SV-ENGINE lunarMonthNames (binding reuse)"
+    },
+    {
+      "id": "bhadrapad",
+      "category": "calendar-month",
+      "en": "Bhadrapada",
+      "hi": "भाद्रपद",
+      "bho": "भादो",
+      "evidence": "FACT",
+      "source": "SV-ENGINE lunarMonthNames (binding reuse)"
+    },
+    {
+      "id": "ashwin",
+      "category": "calendar-month",
+      "en": "Ashwin",
+      "hi": "आश्विन",
+      "bho": "आसिन",
+      "bhoFolk": [
+        "कुआर"
+      ],
+      "evidence": "FACT",
+      "source": "SV-ENGINE lunarMonthNames; BHWP:पितरपख / BHWP:कुआर (कुआर)",
+      "ownerQuestion": 6
+    },
+    {
+      "id": "kartik",
+      "category": "calendar-month",
+      "en": "Kartik",
+      "hi": "कार्तिक",
+      "bho": "कातिक",
+      "evidence": "FACT",
+      "source": "SV-ENGINE lunarMonthNames (binding reuse)"
+    },
+    {
+      "id": "margashirsha",
+      "category": "calendar-month",
+      "en": "Margashirsha",
+      "hi": "मार्गशीर्ष",
+      "bho": "अगहन",
+      "hiAlt": [
+        "अगहन"
+      ],
+      "evidence": "FACT",
+      "source": "SV-ENGINE lunarMonthNames (binding reuse)"
+    },
+    {
+      "id": "paush",
+      "category": "calendar-month",
+      "en": "Pausha",
+      "hi": "पौष",
+      "bho": "पूस",
+      "evidence": "FACT",
+      "source": "SV-ENGINE lunarMonthNames (binding reuse)"
+    },
+    {
+      "id": "magh",
+      "category": "calendar-month",
+      "en": "Magha",
+      "hi": "माघ",
+      "bho": "माघ",
+      "evidence": "FACT",
+      "source": "SV-ENGINE lunarMonthNames (binding reuse)"
+    },
+    {
+      "id": "phalgun",
+      "category": "calendar-month",
+      "en": "Phalguna",
+      "hi": "फाल्गुन",
+      "bho": "फागुन",
+      "evidence": "FACT",
+      "source": "SV-ENGINE lunarMonthNames (binding reuse)"
+    },
+    {
+      "id": "pratipada",
+      "category": "calendar-tithi",
+      "en": "Pratipada (1st tithi)",
+      "hi": "प्रतिपदा",
+      "bho": "प्रतिपदा",
+      "hiAlt": [
+        "परिवा"
+      ],
+      "bhoFolk": [
+        "एक्कम"
+      ],
+      "evidence": "FACT",
+      "source": "SV-ENGINE tithiNames; folk form BHWP:तिथि table",
+      "ownerQuestion": 5
+    },
+    {
+      "id": "dwitiya",
+      "category": "calendar-tithi",
+      "en": "Dwitiya (2nd)",
+      "hi": "द्वितीया",
+      "bho": "द्वितीया",
+      "hiAlt": [
+        "दूज"
+      ],
+      "bhoFolk": [
+        "दूइज"
+      ],
+      "evidence": "FACT",
+      "source": "SV-ENGINE tithiNames; folk form BHWP:तिथि table",
+      "ownerQuestion": 5
+    },
+    {
+      "id": "tritiya",
+      "category": "calendar-tithi",
+      "en": "Tritiya (3rd)",
+      "hi": "तृतीया",
+      "bho": "तृतीया",
+      "hiAlt": [
+        "तीज"
+      ],
+      "bhoFolk": [
+        "तीजि"
+      ],
+      "evidence": "FACT",
+      "source": "SV-ENGINE tithiNames; folk form BHWP:तिथि table",
+      "ownerQuestion": 5
+    },
+    {
+      "id": "chaturthi",
+      "category": "calendar-tithi",
+      "en": "Chaturthi (4th)",
+      "hi": "चतुर्थी",
+      "bho": "चतुर्थी",
+      "hiAlt": [
+        "चौथ"
+      ],
+      "bhoAlt": [
+        "चउथ"
+      ],
+      "bhoFolk": [
+        "चउथि"
+      ],
+      "evidence": "FACT",
+      "source": "SV-ENGINE tithiNames; SV-UI vrat.family.sankashti bho (\"संकष्टी चउथ\"); folk BHWP:तिथि",
+      "ownerQuestion": 5
+    },
+    {
+      "id": "panchami",
+      "category": "calendar-tithi",
+      "en": "Panchami (5th)",
+      "hi": "पंचमी",
+      "bho": "पंचमी",
+      "bhoFolk": [
+        "पंचिमी"
+      ],
+      "evidence": "FACT",
+      "source": "SV-ENGINE tithiNames; folk form BHWP:तिथि table",
+      "ownerQuestion": 5
+    },
+    {
+      "id": "shashthi",
+      "category": "calendar-tithi",
+      "en": "Shashthi (6th)",
+      "hi": "षष्ठी",
+      "bho": "षष्ठी",
+      "hiAlt": [
+        "छठ"
+      ],
+      "bhoFolk": [
+        "छठि"
+      ],
+      "evidence": "FACT",
+      "source": "SV-ENGINE tithiNames; folk form BHWP:तिथि table",
+      "ownerQuestion": 5
+    },
+    {
+      "id": "saptami",
+      "category": "calendar-tithi",
+      "en": "Saptami (7th)",
+      "hi": "सप्तमी",
+      "bho": "सप्तमी",
+      "bhoFolk": [
+        "सत्तिमी"
+      ],
+      "evidence": "FACT",
+      "source": "SV-ENGINE tithiNames; folk form BHWP:तिथि table",
+      "ownerQuestion": 5
+    },
+    {
+      "id": "ashtami",
+      "category": "calendar-tithi",
+      "en": "Ashtami (8th)",
+      "hi": "अष्टमी",
+      "bho": "अष्टमी",
+      "bhoFolk": [
+        "अष्टिमी"
+      ],
+      "evidence": "FACT",
+      "source": "SV-ENGINE tithiNames; folk form BHWP:तिथि table",
+      "ownerQuestion": 5
+    },
+    {
+      "id": "navami",
+      "category": "calendar-tithi",
+      "en": "Navami (9th)",
+      "hi": "नवमी",
+      "bho": "नवमी",
+      "bhoFolk": [
+        "नउमी"
+      ],
+      "evidence": "FACT",
+      "source": "SV-ENGINE tithiNames; folk form BHWP:तिथि table",
+      "ownerQuestion": 5
+    },
+    {
+      "id": "dashami",
+      "category": "calendar-tithi",
+      "en": "Dashami (10th)",
+      "hi": "दशमी",
+      "bho": "दशमी",
+      "bhoFolk": [
+        "दसिमी"
+      ],
+      "evidence": "FACT",
+      "source": "SV-ENGINE tithiNames; folk form BHWP:तिथि table",
+      "ownerQuestion": 5
+    },
+    {
+      "id": "ekadashi",
+      "category": "calendar-tithi",
+      "en": "Ekadashi (11th)",
+      "hi": "एकादशी",
+      "bho": "एकादशी",
+      "bhoFolk": [
+        "एकादसी"
+      ],
+      "evidence": "FACT",
+      "source": "SV-ENGINE tithiNames; folk form BHWP:तिथि table",
+      "ownerQuestion": 5
+    },
+    {
+      "id": "dwadashi",
+      "category": "calendar-tithi",
+      "en": "Dwadashi (12th)",
+      "hi": "द्वादशी",
+      "bho": "द्वादशी",
+      "bhoFolk": [
+        "दुआदसी"
+      ],
+      "evidence": "FACT",
+      "source": "SV-ENGINE tithiNames; folk form BHWP:तिथि table",
+      "ownerQuestion": 5
+    },
+    {
+      "id": "trayodashi",
+      "category": "calendar-tithi",
+      "en": "Trayodashi (13th)",
+      "hi": "त्रयोदशी",
+      "bho": "त्रयोदशी",
+      "bhoFolk": [
+        "तेरसि"
+      ],
+      "evidence": "FACT",
+      "source": "SV-ENGINE tithiNames; folk form BHWP:तिथि table",
+      "ownerQuestion": 5
+    },
+    {
+      "id": "chaturdashi",
+      "category": "calendar-tithi",
+      "en": "Chaturdashi (14th)",
+      "hi": "चतुर्दशी",
+      "bho": "चतुर्दशी",
+      "bhoFolk": [
+        "चतुर्दसी"
+      ],
+      "evidence": "FACT",
+      "source": "SV-ENGINE tithiNames; folk form BHWP:तिथि table",
+      "ownerQuestion": 5
+    },
+    {
+      "id": "purnima",
+      "category": "calendar-tithi",
+      "en": "Purnima (full moon)",
+      "hi": "पूर्णिमा",
+      "bho": "पूर्णिमा",
+      "bhoAlt": [
+        "पुर्निमा"
+      ],
+      "bhoFolk": [
+        "पुर्नवासी"
+      ],
+      "evidence": "FACT",
+      "source": "SV-ENGINE purnimaName; SV-CORPUS festivals bho (पुर्निमा); BHWP:तिथि (पुर्नवासी / पुर्ने)",
+      "ownerQuestion": 1
+    },
+    {
+      "id": "amavasya",
+      "category": "calendar-tithi",
+      "en": "Amavasya (new moon)",
+      "hi": "अमावस्या",
+      "bho": "अमावस्या",
+      "bhoAlt": [
+        "अमावस"
+      ],
+      "bhoFolk": [
+        "अमौसा"
+      ],
+      "evidence": "FACT",
+      "source": "SV-ENGINE amavasyaName; SV-CORPUS festivals bho (मौनी अमावस, पितर अमावस); BHWP:तिथि (अमौसा)",
+      "ownerQuestion": 5
+    },
+    {
+      "id": "uttar",
+      "category": "direction",
+      "en": "north",
+      "hi": "उत्तर",
+      "bho": "उत्तर",
+      "evidence": "FACT",
+      "source": "SV-UI panchang.direction.north"
+    },
+    {
+      "id": "dakshin",
+      "category": "direction",
+      "en": "south",
+      "hi": "दक्षिण",
+      "bho": "दक्खिन",
+      "evidence": "FACT",
+      "source": "SV-UI panchang.direction.south (binding reuse)"
+    },
+    {
+      "id": "purab",
+      "category": "direction",
+      "en": "east",
+      "hi": "पूर्व",
+      "bho": "पूरब",
+      "hiAlt": [
+        "पूरब"
+      ],
+      "evidence": "FACT",
+      "source": "SV-UI panchang.direction.east"
+    },
+    {
+      "id": "pashchim",
+      "category": "direction",
+      "en": "west",
+      "hi": "पश्चिम",
+      "bho": "पच्छिम",
+      "evidence": "FACT",
+      "source": "SV-UI panchang.direction.west"
+    },
+    {
+      "id": "ishan",
+      "category": "direction",
+      "en": "north-east (ishana)",
+      "hi": "ईशान",
+      "bho": "ईशान",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "agneya",
+      "category": "direction",
+      "en": "south-east (agneya)",
+      "hi": "आग्नेय",
+      "bho": "आग्नेय",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "nairitya",
+      "category": "direction",
+      "en": "south-west (nairritya)",
+      "hi": "नैऋत्य",
+      "bho": "नैऋत्य",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "vayavya",
+      "category": "direction",
+      "en": "north-west (vayavya)",
+      "hi": "वायव्य",
+      "bho": "वायव्य",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "disha",
+      "category": "direction",
+      "en": "direction",
+      "hi": "दिशा",
+      "bho": "दिशा",
+      "bhoAlt": [
+        "ओर"
+      ],
+      "evidence": "FACT",
+      "source": "SV-UI panchang.dishaShoolValue"
+    },
+    {
+      "id": "ganesh",
+      "category": "deity",
+      "en": "Ganesha",
+      "hi": "गणेश",
+      "bho": "गणेश",
+      "hiAlt": [
+        "गणपति",
+        "गणेश जी"
+      ],
+      "bhoAlt": [
+        "गणेश जी"
+      ],
+      "bhoFolk": [
+        "गनेस"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS glossary sankashti bho (\"गणेश खातिर\"); SV-CORPUS festivals bho (\"गनेस चउथ\"); BHWP:गणेश",
+      "ownerQuestion": 4
+    },
+    {
+      "id": "lakshmi",
+      "category": "deity",
+      "en": "Lakshmi",
+      "hi": "लक्ष्मी",
+      "bho": "लक्ष्मी",
+      "bhoFolk": [
+        "लच्छमी"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals diwali bho (\"लक्ष्मी पूजा\"); BHWP:दिपावली (\"लच्छमी आ गणेश के पूजा\")",
+      "ownerQuestion": 4
+    },
+    {
+      "id": "saraswati",
+      "category": "deity",
+      "en": "Saraswati",
+      "hi": "सरस्वती",
+      "bho": "सरस्वती",
+      "bhoFolk": [
+        "सरसती"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals vasant-panchami bho (\"सरसती पूजा\")",
+      "ownerQuestion": 4
+    },
+    {
+      "id": "shiv",
+      "category": "deity",
+      "en": "Shiva",
+      "hi": "शिव",
+      "bho": "शिव",
+      "hiAlt": [
+        "महादेव",
+        "शंकर"
+      ],
+      "bhoAlt": [
+        "महादेव",
+        "भोला बाबा"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS glossary masik-shivaratri bho (\"शिव खातिर\")"
+    },
+    {
+      "id": "parvati",
+      "category": "deity",
+      "en": "Parvati / Gauri",
+      "hi": "पार्वती",
+      "bho": "पार्वती",
+      "hiAlt": [
+        "गौरी"
+      ],
+      "bhoAlt": [
+        "गौरी",
+        "गौरा"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:हरियाली तीज (\"शिव आ पार्वती पूजा\")"
+    },
+    {
+      "id": "vishnu",
+      "category": "deity",
+      "en": "Vishnu",
+      "hi": "विष्णु",
+      "bho": "विष्णु",
+      "hiAlt": [
+        "नारायण"
+      ],
+      "bhoAlt": [
+        "नारायण"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS glossary satyanarayan bho (\"विष्णु खातिर\")"
+    },
+    {
+      "id": "satyanarayan",
+      "category": "deity",
+      "en": "Satyanarayan",
+      "hi": "सत्यनारायण",
+      "bho": "सत्यनारायण",
+      "bhoFolk": [
+        "सतनरायन बाबा"
+      ],
+      "evidence": "FACT",
+      "source": "SV-UI vrat.family.satyanarayan; BHWP:सत्यनारायण कथा (\"भोजपुरी में सतनरायन बाबा के कथा\")"
+    },
+    {
+      "id": "ram",
+      "category": "deity",
+      "en": "Rama",
+      "hi": "राम",
+      "bho": "राम",
+      "hiAlt": [
+        "श्रीराम"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:रामनउमी"
+    },
+    {
+      "id": "sita",
+      "category": "deity",
+      "en": "Sita",
+      "hi": "सीता",
+      "bho": "सीता",
+      "evidence": "FACT",
+      "source": "BHWP:कोहबर (\"राम सीता के बियाह\")"
+    },
+    {
+      "id": "hanuman",
+      "category": "deity",
+      "en": "Hanuman",
+      "hi": "हनुमान",
+      "bho": "हनुमान",
+      "hiAlt": [
+        "हनुमान जी",
+        "बजरंगबली"
+      ],
+      "bhoAlt": [
+        "हनुमान जी"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals hanuman-jayanti"
+    },
+    {
+      "id": "krishna",
+      "category": "deity",
+      "en": "Krishna",
+      "hi": "कृष्ण",
+      "bho": "कृष्ण",
+      "hiAlt": [
+        "श्रीकृष्ण",
+        "कन्हैया"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals krishna-janmashtami"
+    },
+    {
+      "id": "durga",
+      "category": "deity",
+      "en": "Durga",
+      "hi": "दुर्गा",
+      "bho": "दुर्गा",
+      "hiAlt": [
+        "माँ दुर्गा",
+        "देवी"
+      ],
+      "bhoAlt": [
+        "दुर्गा माई",
+        "देवी"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:दुर्गा (\"माई दुर्गा\"); SV-CORPUS festivals durga-ashtami"
+    },
+    {
+      "id": "kali",
+      "category": "deity",
+      "en": "Kali",
+      "hi": "काली",
+      "bho": "काली",
+      "evidence": "FACT",
+      "source": "BHWP:तिथि (स्वामी देवता काली)"
+    },
+    {
+      "id": "surya",
+      "category": "deity",
+      "en": "Surya (Sun god)",
+      "hi": "सूर्य",
+      "bho": "सूर्य",
+      "hiAlt": [
+        "सूर्य देव"
+      ],
+      "bhoAlt": [
+        "सूरज",
+        "सूर्य देव"
+      ],
+      "bhoFolk": [
+        "सुरुज"
+      ],
+      "evidence": "FACT",
+      "source": "SV-ENGINE planetNames; SV-CORPUS glossary arghya bho (\"सूरज\"); BHWP:छठ (\"सुरुज भगवान\")",
+      "ownerQuestion": 3
+    },
+    {
+      "id": "chhathi-maiya",
+      "category": "deity",
+      "en": "Chhathi Maiya (goddess of the sixth day)",
+      "hi": "छठी माता",
+      "bho": "छठी मइया",
+      "hiAlt": [
+        "छठी मैया"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:छठ (\"छठि मइया\", \"छठी मइया के पूजा\")"
+    },
+    {
+      "id": "agni",
+      "category": "deity",
+      "en": "Agni (fire god)",
+      "hi": "अग्नि",
+      "bho": "अग्नि",
+      "evidence": "FACT",
+      "source": "BHWP:यज्ञ (\"अग्नि देव\"); BHWP:तिथि"
+    },
+    {
+      "id": "varun",
+      "category": "deity",
+      "en": "Varuna",
+      "hi": "वरुण",
+      "bho": "वरुण",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "indra",
+      "category": "deity",
+      "en": "Indra",
+      "hi": "इंद्र",
+      "bho": "इंद्र",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "kuber",
+      "category": "deity",
+      "en": "Kubera",
+      "hi": "कुबेर",
+      "bho": "कुबेर",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "yam",
+      "category": "deity",
+      "en": "Yama",
+      "hi": "यम",
+      "bho": "यम",
+      "hiAlt": [
+        "यमराज"
+      ],
+      "bhoAlt": [
+        "यमराज"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:तिथि (स्वामी देवता यम)"
+    },
+    {
+      "id": "brahma",
+      "category": "deity",
+      "en": "Brahma",
+      "hi": "ब्रह्मा",
+      "bho": "ब्रह्मा",
+      "bhoFolk": [
+        "ब्रम्हा"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:तिथि (\"ब्रम्हा\")"
+    },
+    {
+      "id": "pitar",
+      "category": "deity",
+      "en": "ancestors (pitri)",
+      "hi": "पितर",
+      "bho": "पितर",
+      "hiAlt": [
+        "पितृ"
+      ],
+      "bhoAlt": [
+        "पुरखा"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:पितरपख (\"अपना पितर लोग\"); SV-CORPUS glossary shraddha bho (\"पुरखा लोग\")"
+    },
+    {
+      "id": "kul-devta",
+      "category": "deity",
+      "en": "family deity (kula-devata)",
+      "hi": "कुलदेवता",
+      "bho": "कुलदेवता",
+      "bhoAlt": [
+        "कुल देवता"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "ishta-devta",
+      "category": "deity",
+      "en": "chosen deity (ishta-devata)",
+      "hi": "इष्टदेव",
+      "bho": "इष्टदेव",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "gram-devta",
+      "category": "deity",
+      "en": "village deity (grama-devata / Dih Baba)",
+      "hi": "ग्राम देवता",
+      "bho": "गाँव के देवता",
+      "bhoFolk": [
+        "डीह बाबा"
+      ],
+      "evidence": "UNCERTAIN",
+      "source": "AGENT",
+      "note": "डीह बाबा is the common Bhojpuri village-shrine deity; not attested in the fetched pages"
+    },
+    {
+      "id": "matrika",
+      "category": "deity",
+      "en": "mother goddesses (matrika)",
+      "hi": "मातृका",
+      "bho": "मातृका",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "tulsi",
+      "category": "deity",
+      "en": "Tulsi (holy basil, as a goddess)",
+      "hi": "तुलसी",
+      "bho": "तुलसी",
+      "evidence": "FACT",
+      "source": "BHWP:तुलसी; SV-CORPUS festivals tulsi-vivah bho (\"तुलसी बियाह\")"
+    },
+    {
+      "id": "ganga",
+      "category": "deity",
+      "en": "Ganga",
+      "hi": "गंगा",
+      "bho": "गंगा",
+      "hiAlt": [
+        "गंगा जी",
+        "गंगा मैया"
+      ],
+      "bhoAlt": [
+        "गंगा जी",
+        "गंगा मइया"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:गंगा नदी"
+    },
+    {
+      "id": "navagraha",
+      "category": "deity",
+      "en": "nine planets (navagraha)",
+      "hi": "नवग्रह",
+      "bho": "नवग्रह",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "surya-graha",
+      "category": "deity",
+      "en": "Sun (as a graha)",
+      "hi": "सूर्य",
+      "bho": "सूर्य",
+      "evidence": "FACT",
+      "source": "SV-ENGINE planetNames (hi = bho)"
+    },
+    {
+      "id": "chandra",
+      "category": "deity",
+      "en": "Moon",
+      "hi": "चंद्र",
+      "bho": "चंद्र",
+      "evidence": "FACT",
+      "source": "SV-ENGINE planetNames (hi = bho)"
+    },
+    {
+      "id": "mangal",
+      "category": "deity",
+      "en": "Mars",
+      "hi": "मंगल",
+      "bho": "मंगल",
+      "evidence": "FACT",
+      "source": "SV-ENGINE planetNames (hi = bho)"
+    },
+    {
+      "id": "budh",
+      "category": "deity",
+      "en": "Mercury",
+      "hi": "बुध",
+      "bho": "बुध",
+      "evidence": "FACT",
+      "source": "SV-ENGINE planetNames (hi = bho)"
+    },
+    {
+      "id": "guru",
+      "category": "deity",
+      "en": "Jupiter (Guru / Brihaspati)",
+      "hi": "गुरु",
+      "bho": "गुरु",
+      "evidence": "FACT",
+      "source": "SV-ENGINE planetNames (hi = bho)"
+    },
+    {
+      "id": "shukra",
+      "category": "deity",
+      "en": "Venus",
+      "hi": "शुक्र",
+      "bho": "शुक्र",
+      "evidence": "FACT",
+      "source": "SV-ENGINE planetNames (hi = bho)"
+    },
+    {
+      "id": "shani",
+      "category": "deity",
+      "en": "Saturn",
+      "hi": "शनि",
+      "bho": "शनि",
+      "evidence": "FACT",
+      "source": "SV-ENGINE planetNames (hi = bho)"
+    },
+    {
+      "id": "rahu",
+      "category": "deity",
+      "en": "Rahu",
+      "hi": "राहु",
+      "bho": "राहु",
+      "evidence": "FACT",
+      "source": "SV-ENGINE planetNames (hi = bho)"
+    },
+    {
+      "id": "ketu",
+      "category": "deity",
+      "en": "Ketu",
+      "hi": "केतु",
+      "bho": "केतु",
+      "evidence": "FACT",
+      "source": "SV-ENGINE planetNames (hi = bho)"
+    },
+    {
+      "id": "bhagwan",
+      "category": "deity",
+      "en": "God / the Lord (bhagavan)",
+      "hi": "भगवान",
+      "bho": "भगवान",
+      "evidence": "FACT",
+      "source": "BHWP:छठ (\"सुरुज भगवान\")"
+    },
+    {
+      "id": "devi",
+      "category": "deity",
+      "en": "goddess (devi)",
+      "hi": "देवी",
+      "bho": "देवी",
+      "bhoAlt": [
+        "माई",
+        "मइया"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:छठ (\"एगो देवी प्रगट भइली\"); BHWP:दुर्गा (\"माई\")"
+    },
+    {
+      "id": "devta",
+      "category": "deity",
+      "en": "deity (devata)",
+      "hi": "देवता",
+      "bho": "देवता",
+      "evidence": "FACT",
+      "source": "BHWP:सत्यनारायण कथा (\"देवता विष्णु\")"
+    },
+    {
+      "id": "thakur-ji",
+      "category": "deity",
+      "en": "household deity image (Thakur ji / shaligram)",
+      "hi": "ठाकुर जी",
+      "bho": "ठाकुर जी",
+      "hiAlt": [
+        "शालिग्राम"
+      ],
+      "bhoAlt": [
+        "शालिग्राम"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:सत्यनारायण कथा (\"शालिग्राम (ठाकुर जी)\")"
+    },
+    {
+      "id": "pandit",
+      "category": "role",
+      "en": "pandit (family priest)",
+      "hi": "पंडित",
+      "bho": "पंडित",
+      "hiAlt": [
+        "पंडित जी"
+      ],
+      "bhoAlt": [
+        "पंडित जी"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS muhurat-griha-pravesh bho (\"पंडित ओह घरी के लग्न भी जोड़ सकेलन\"); HIWP:मड़वा मटकोर"
+    },
+    {
+      "id": "purohit",
+      "category": "role",
+      "en": "officiating priest (purohita)",
+      "hi": "पुरोहित",
+      "bho": "पुरोहित",
+      "evidence": "FACT",
+      "source": "BHWP:वेद; BHWP:जनेव (\"पुरोहित लड़िका के जनेव पहिरावत बाने\"); HIWP:मड़वा मटकोर"
+    },
+    {
+      "id": "acharya",
+      "category": "role",
+      "en": "teacher-priest (acharya)",
+      "hi": "आचार्य",
+      "bho": "आचार्य",
+      "evidence": "FACT",
+      "source": "HIWP:द्वार पूजा (\"आचार्य स्वयं ही देख-रेख\")"
+    },
+    {
+      "id": "brahman",
+      "category": "role",
+      "en": "Brahmin",
+      "hi": "ब्राह्मण",
+      "bho": "ब्राह्मण",
+      "bhoFolk": [
+        "बाभन"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:कर्मकांड (\"ब्राह्मण (पुरोहित)\"); BHWP:जनेव (\"बाभन, क्षत्री\")",
+      "ownerQuestion": 8
+    },
+    {
+      "id": "yajman",
+      "category": "role",
+      "en": "host of the rite (yajamana)",
+      "hi": "यजमान",
+      "bho": "जजमान",
+      "hiAlt": [
+        "जजमान"
+      ],
+      "bhoAlt": [
+        "यजमान"
+      ],
+      "evidence": "UNCERTAIN",
+      "source": "AGENT",
+      "ownerQuestion": 7
+    },
+    {
+      "id": "karta",
+      "category": "role",
+      "en": "chief performer / chief mourner (karta)",
+      "hi": "कर्ता",
+      "bho": "कर्ता",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "var",
+      "category": "role",
+      "en": "bridegroom (vara)",
+      "hi": "वर",
+      "bho": "दुलहा",
+      "hiAlt": [
+        "दूल्हा"
+      ],
+      "bhoAlt": [
+        "वर"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:कोहबर (\"दुलहा-दुलहिन\"); HIWP:मड़वा मटकोर (\"वर-कन्या\", \"दूल्हा-दुल्हन\")"
+    },
+    {
+      "id": "vadhu",
+      "category": "role",
+      "en": "bride (vadhu / kanya)",
+      "hi": "वधू",
+      "bho": "दुलहिन",
+      "hiAlt": [
+        "दुल्हन",
+        "कन्या"
+      ],
+      "bhoAlt": [
+        "कनिया",
+        "कन्या"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:कोहबर (\"दुलहिन के बिदाई\"); BHWP:बियाह (\"कनिया\"); BHWP:छठ"
+    },
+    {
+      "id": "kanya",
+      "category": "role",
+      "en": "unmarried girl / the bride in kanyadana (kanya)",
+      "hi": "कन्या",
+      "bho": "कन्या",
+      "bhoFolk": [
+        "लइकी"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:बियाह (\"लड़िका आ लड़की\", \"लईकी\"); BHWP:जनेव"
+    },
+    {
+      "id": "suhagin",
+      "category": "role",
+      "en": "married woman whose husband is living (suhagin)",
+      "hi": "सुहागिन",
+      "bho": "सोहागिन",
+      "bhoAlt": [
+        "सुहागिन"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "mehraru",
+      "category": "role",
+      "en": "woman / wife",
+      "hi": "स्त्री",
+      "bho": "मेहरारू",
+      "hiAlt": [
+        "महिला"
+      ],
+      "evidence": "FACT",
+      "source": "SV-UI onboarding.genderFemale (bho मेहरारू); BHWP:बियाह (\"मरद-मेहरारू\")"
+    },
+    {
+      "id": "marad",
+      "category": "role",
+      "en": "man / husband",
+      "hi": "पुरुष",
+      "bho": "मरद",
+      "evidence": "FACT",
+      "source": "SV-UI onboarding.genderMale (bho मरद); BHWP:बियाह"
+    },
+    {
+      "id": "laika",
+      "category": "role",
+      "en": "boy / son",
+      "hi": "लड़का",
+      "bho": "लइका",
+      "bhoAlt": [
+        "लड़िका"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:भोजपुरी लोकगीत (\"लइका भइला पर\"); BHWP:बियाह (\"लड़िका\")"
+    },
+    {
+      "id": "laiki",
+      "category": "role",
+      "en": "girl / daughter",
+      "hi": "लड़की",
+      "bho": "लइकी",
+      "evidence": "FACT",
+      "source": "BHWP:बियाह (\"लईका आ लईकी\"); WP-GRAMMAR (laïki)"
+    },
+    {
+      "id": "bachcha",
+      "category": "role",
+      "en": "child",
+      "hi": "बच्चा",
+      "bho": "बच्चा",
+      "bhoAlt": [
+        "लरिका"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS muhurat-mundan bho (\"बच्चा के उमिर\")"
+    },
+    {
+      "id": "mahtari",
+      "category": "role",
+      "en": "mother",
+      "hi": "माता",
+      "bho": "महतारी",
+      "hiAlt": [
+        "माँ"
+      ],
+      "bhoAlt": [
+        "माई"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:टाइटैनिक (1997 फिलिम) (\"अपना महतारी\")"
+    },
+    {
+      "id": "babuji",
+      "category": "role",
+      "en": "father",
+      "hi": "पिता",
+      "bho": "बाबूजी",
+      "hiAlt": [
+        "पिताजी"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:रबींद्रनाथ ठाकुर (\"अपना बाबूजी के साथे\")"
+    },
+    {
+      "id": "bhai",
+      "category": "role",
+      "en": "brother",
+      "hi": "भाई",
+      "bho": "भाई",
+      "bhoAlt": [
+        "भइया"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals bhai-dooj bho (\"भइया दूज\"); BHWP:रक्षाबंधन"
+    },
+    {
+      "id": "bahin",
+      "category": "role",
+      "en": "sister",
+      "hi": "बहन",
+      "bho": "बहिन",
+      "evidence": "FACT",
+      "source": "BHWP:रक्षाबंधन (\"बहिन लोग\")"
+    },
+    {
+      "id": "bua",
+      "category": "role",
+      "en": "father's sister (who digs the earth at matkor)",
+      "hi": "बुआ",
+      "bho": "फुआ",
+      "bhoAlt": [
+        "बुआ"
+      ],
+      "evidence": "INFERENCE",
+      "source": "HIWP:मड़वा मटकोर (\"वर या वधू की बुआ\")",
+      "note": "फुआ is the usual Bhojpuri form; not attested in the fetched pages"
+    },
+    {
+      "id": "samdhi",
+      "category": "role",
+      "en": "the other family's parent (samdhi)",
+      "hi": "समधी",
+      "bho": "समधी",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "sasural",
+      "category": "role",
+      "en": "husband's home",
+      "hi": "ससुराल",
+      "bho": "ससुरा",
+      "evidence": "FACT",
+      "source": "BHWP:कोहबर (\"ससुरें आवे पर\")"
+    },
+    {
+      "id": "naihar",
+      "category": "role",
+      "en": "bride's parental home",
+      "hi": "मायका",
+      "bho": "नइहर",
+      "hiAlt": [
+        "नैहर"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "parivar",
+      "category": "role",
+      "en": "family",
+      "hi": "परिवार",
+      "bho": "परिवार",
+      "evidence": "FACT",
+      "source": "SV-UI tabs.family"
+    },
+    {
+      "id": "kul",
+      "category": "role",
+      "en": "lineage / clan (kula)",
+      "hi": "कुल",
+      "bho": "कुल",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "guru-teacher",
+      "category": "role",
+      "en": "teacher (guru)",
+      "hi": "गुरु",
+      "bho": "गुरु",
+      "evidence": "FACT",
+      "source": "BHWP:जनेव (\"गुरु के लगे\")"
+    },
+    {
+      "id": "shishya",
+      "category": "role",
+      "en": "student (shishya)",
+      "hi": "शिष्य",
+      "bho": "शिष्य",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "dwij",
+      "category": "role",
+      "en": "twice-born (dvija)",
+      "hi": "द्विज",
+      "bho": "द्विज",
+      "evidence": "FACT",
+      "source": "BHWP:जनेव (\"द्विज कहल जाला\")"
+    },
+    {
+      "id": "grihasth",
+      "category": "role",
+      "en": "householder (grihastha)",
+      "hi": "गृहस्थ",
+      "bho": "गृहस्थ",
+      "evidence": "FACT",
+      "source": "BHWP:संन्यास (\"ब्रह्मचर्य, गृहस्थ आ वानप्रस्थ\")"
+    },
+    {
+      "id": "bhakt",
+      "category": "role",
+      "en": "devotee (bhakta)",
+      "hi": "भक्त",
+      "bho": "भक्त",
+      "evidence": "FACT",
+      "source": "BHWP:सत्यनारायण कथा (\"अपना भक्तन के\")"
+    },
+    {
+      "id": "vrati",
+      "category": "role",
+      "en": "one who keeps the vrat (vrati)",
+      "hi": "व्रती",
+      "bho": "बरती",
+      "bhoAlt": [
+        "ब्रती"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:छठ (\"एगो ब्रती\")",
+      "note": "Shubhvela writes बरत for the noun; बरती follows it, ब्रती is the bh.wikipedia spelling"
+    },
+    {
+      "id": "kumari",
+      "category": "role",
+      "en": "young girl worshipped at kanya pujan (kumari)",
+      "hi": "कुमारी",
+      "bho": "कुमारी",
+      "bhoFolk": [
+        "कन्या"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "dom",
+      "category": "role",
+      "en": "keeper of the cremation fire (Dom)",
+      "hi": "डोम",
+      "bho": "डोम",
+      "evidence": "FACT",
+      "source": "BHWP:डोम (\"इनहन लोग से आगी लिहल जाला\")",
+      "note": "name a role factually and respectfully; never as an insult (brief R4 sensitivity)"
+    },
+    {
+      "id": "mahapatra",
+      "category": "role",
+      "en": "funeral priest (mahapatra / mahabrahman)",
+      "hi": "महापात्र",
+      "bho": "महापात्र",
+      "hiAlt": [
+        "महाब्राह्मण"
+      ],
+      "bhoAlt": [
+        "महाब्राह्मण"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "shodash-sanskar",
+      "category": "samskara",
+      "en": "the sixteen samskaras",
+      "hi": "षोडश संस्कार",
+      "bho": "सोलह संस्कार",
+      "hiAlt": [
+        "सोलह संस्कार"
+      ],
+      "bhoAlt": [
+        "षोडश संस्कार"
+      ],
+      "evidence": "INFERENCE",
+      "source": "BHWP:पितरपख (\"सोरह\") for the numeral; AGENT for the phrase"
+    },
+    {
+      "id": "garbhadhan",
+      "category": "samskara",
+      "en": "conception rite (garbhadhana)",
+      "hi": "गर्भाधान",
+      "bho": "गर्भाधान",
+      "evidence": "FACT",
+      "source": "BHWP:हिंदू धर्म navbox (संस्कार list: गर्भाधान पुंसवन सीमान्तोन्नयन जातकर्म नामकरण निष्क्रमण अन्नप्राशन चूड़ाकरण कर्णवेध विद्यारंभ उपनयन … विवाह अंत्येष्टि)"
+    },
+    {
+      "id": "punsavan",
+      "category": "samskara",
+      "en": "rite in early pregnancy (pumsavana)",
+      "hi": "पुंसवन",
+      "bho": "पुंसवन",
+      "evidence": "FACT",
+      "source": "BHWP:हिंदू धर्म navbox (संस्कार list: गर्भाधान पुंसवन सीमान्तोन्नयन जातकर्म नामकरण निष्क्रमण अन्नप्राशन चूड़ाकरण कर्णवेध विद्यारंभ उपनयन … विवाह अंत्येष्टि)"
+    },
+    {
+      "id": "simantonnayan",
+      "category": "samskara",
+      "en": "hair-parting rite in pregnancy (simantonnayana)",
+      "hi": "सीमंतोन्नयन",
+      "bho": "सीमंतोन्नयन",
+      "bhoFolk": [
+        "गोदभराई"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:हिंदू धर्म navbox (संस्कार list: गर्भाधान पुंसवन सीमान्तोन्नयन जातकर्म नामकरण निष्क्रमण अन्नप्राशन चूड़ाकरण कर्णवेध विद्यारंभ उपनयन … विवाह अंत्येष्टि) (spelt सीमान्तोन्नयन there; IS 16500 anusvara form used here)"
+    },
+    {
+      "id": "godbharai",
+      "category": "samskara",
+      "en": "baby-shower (godbharai, folk form of simantonnayana)",
+      "hi": "गोदभराई",
+      "bho": "गोदभराई",
+      "bhoAlt": [
+        "गोद भराई"
+      ],
+      "evidence": "UNCERTAIN",
+      "source": "AGENT",
+      "note": "no Bhojpuri attestation fetched; the custom is pan-Hindi-belt"
+    },
+    {
+      "id": "jatakarma",
+      "category": "samskara",
+      "en": "birth rite (jatakarma)",
+      "hi": "जातकर्म",
+      "bho": "जातकर्म",
+      "evidence": "FACT",
+      "source": "BHWP:हिंदू धर्म navbox (संस्कार list: गर्भाधान पुंसवन सीमान्तोन्नयन जातकर्म नामकरण निष्क्रमण अन्नप्राशन चूड़ाकरण कर्णवेध विद्यारंभ उपनयन … विवाह अंत्येष्टि)"
+    },
+    {
+      "id": "namkaran",
+      "category": "samskara",
+      "en": "naming (namakarana)",
+      "hi": "नामकरण",
+      "bho": "नामकरण",
+      "evidence": "FACT",
+      "source": "SV-CORPUS muhurat-naamkaran bho (\"नामकरण संस्कार\"); SV-UI naamkaran.title"
+    },
+    {
+      "id": "nishkraman",
+      "category": "samskara",
+      "en": "first outing (nishkramana)",
+      "hi": "निष्क्रमण",
+      "bho": "निष्क्रमण",
+      "evidence": "FACT",
+      "source": "BHWP:हिंदू धर्म navbox (संस्कार list: गर्भाधान पुंसवन सीमान्तोन्नयन जातकर्म नामकरण निष्क्रमण अन्नप्राशन चूड़ाकरण कर्णवेध विद्यारंभ उपनयन … विवाह अंत्येष्टि)"
+    },
+    {
+      "id": "annaprashan",
+      "category": "samskara",
+      "en": "first solid food (annaprashana)",
+      "hi": "अन्नप्राशन",
+      "bho": "अन्नप्राशन",
+      "bhoFolk": [
+        "पसनी"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:हिंदू धर्म navbox (संस्कार list: गर्भाधान पुंसवन सीमान्तोन्नयन जातकर्म नामकरण निष्क्रमण अन्नप्राशन चूड़ाकरण कर्णवेध विद्यारंभ उपनयन … विवाह अंत्येष्टि)",
+      "ownerQuestion": 24
+    },
+    {
+      "id": "chudakaran",
+      "category": "samskara",
+      "en": "first tonsure (chudakarana / mundan)",
+      "hi": "चूड़ाकरण",
+      "bho": "चूड़ाकरण",
+      "hiAlt": [
+        "मुंडन"
+      ],
+      "bhoAlt": [
+        "मुंडन"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS muhurat-mundan bho (\"मुंडन, माने पहिला बेर केश कटावल (चूड़ाकरण)\")"
+    },
+    {
+      "id": "mundan",
+      "category": "childhood",
+      "en": "tonsure (mundan)",
+      "hi": "मुंडन",
+      "bho": "मुंडन",
+      "bhoFolk": [
+        "मूड़न"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS muhurat-mundan (hi and bho मुंडन)"
+    },
+    {
+      "id": "karnavedh",
+      "category": "samskara",
+      "en": "ear-piercing (karnavedha)",
+      "hi": "कर्णवेध",
+      "bho": "कर्णवेध",
+      "hiAlt": [
+        "कनछेदन"
+      ],
+      "bhoAlt": [
+        "कनछेदन"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:हिंदू धर्म navbox (संस्कार list: गर्भाधान पुंसवन सीमान्तोन्नयन जातकर्म नामकरण निष्क्रमण अन्नप्राशन चूड़ाकरण कर्णवेध विद्यारंभ उपनयन … विवाह अंत्येष्टि)"
+    },
+    {
+      "id": "vidyarambh",
+      "category": "samskara",
+      "en": "beginning of learning (vidyarambha)",
+      "hi": "विद्यारंभ",
+      "bho": "विद्यारंभ",
+      "hiAlt": [
+        "अक्षरारंभ"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS muhurat-education-start bho (\"(विद्यारंभ)\")"
+    },
+    {
+      "id": "upanayan",
+      "category": "samskara",
+      "en": "sacred-thread initiation (upanayana / janeu)",
+      "hi": "उपनयन",
+      "bho": "उपनयन",
+      "hiAlt": [
+        "जनेऊ संस्कार",
+        "यज्ञोपवीत"
+      ],
+      "bhoAlt": [
+        "जनेऊ",
+        "जनेव"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:जनेव (\"जनेव, जनेऊ, यज्ञोपवीत भा उपनयन\")",
+      "ownerQuestion": 15
+    },
+    {
+      "id": "janeu",
+      "category": "samskara",
+      "en": "the sacred thread / its ceremony (janeu)",
+      "hi": "जनेऊ",
+      "bho": "जनेऊ",
+      "bhoAlt": [
+        "जनेव"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:जनेव; BHWP:भोजपुरी लोकगीत (\"संस्कार गीत सोहर जनेऊ बियाह\")",
+      "ownerQuestion": 15
+    },
+    {
+      "id": "gayatri-upadesh",
+      "category": "samskara",
+      "en": "imparting the Gayatri (gayatri-upadesha)",
+      "hi": "गायत्री उपदेश",
+      "bho": "गायत्री उपदेश",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "bhiksha",
+      "category": "samskara",
+      "en": "alms-round of the new initiate (bhiksha)",
+      "hi": "भिक्षा",
+      "bho": "भिक्षा",
+      "bhoFolk": [
+        "भीख"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "vedarambh",
+      "category": "samskara",
+      "en": "beginning Vedic study (vedarambha)",
+      "hi": "वेदारंभ",
+      "bho": "वेदारंभ",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "keshant",
+      "category": "samskara",
+      "en": "first shave (keshanta / godana)",
+      "hi": "केशांत",
+      "bho": "केशांत",
+      "hiAlt": [
+        "गोदान"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:हिंदू धर्म navbox (संस्कार list: गर्भाधान पुंसवन सीमान्तोन्नयन जातकर्म नामकरण निष्क्रमण अन्नप्राशन चूड़ाकरण कर्णवेध विद्यारंभ उपनयन … विवाह अंत्येष्टि) (केशान्त)"
+    },
+    {
+      "id": "samavartan",
+      "category": "samskara",
+      "en": "return from studies (samavartana)",
+      "hi": "समावर्तन",
+      "bho": "समावर्तन",
+      "evidence": "INFERENCE",
+      "source": "BHWP:हिंदू धर्म navbox (संस्कार list: गर्भाधान पुंसवन सीमान्तोन्नयन जातकर्म नामकरण निष्क्रमण अन्नप्राशन चूड़ाकरण कर्णवेध विद्यारंभ उपनयन … विवाह अंत्येष्टि) (संवर्तन there)"
+    },
+    {
+      "id": "vivah-sanskar",
+      "category": "samskara",
+      "en": "marriage samskara (vivaha)",
+      "hi": "विवाह संस्कार",
+      "bho": "बियाह संस्कार",
+      "evidence": "FACT",
+      "source": "BHWP:बियाह (\"बियाह एगो संस्कार हवे\")"
+    },
+    {
+      "id": "antyeshti",
+      "category": "samskara",
+      "en": "last rites (antyeshti)",
+      "hi": "अंत्येष्टि",
+      "bho": "अंत्येष्टि",
+      "hiAlt": [
+        "अंतिम संस्कार"
+      ],
+      "bhoAlt": [
+        "अंतिम संस्कार"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:हिंदू धर्म navbox (संस्कार list: गर्भाधान पुंसवन सीमान्तोन्नयन जातकर्म नामकरण निष्क्रमण अन्नप्राशन चूड़ाकरण कर्णवेध विद्यारंभ उपनयन … विवाह अंत्येष्टि) (अंत्येष्टि); BHWP:कुशीनगर (\"अंतिम संस्कार भइल\")"
+    },
+    {
+      "id": "chhathi",
+      "category": "childhood",
+      "en": "sixth-day rite after birth (chhathi)",
+      "hi": "छठी",
+      "bho": "छठी",
+      "bhoAlt": [
+        "छट्ठी"
+      ],
+      "bhoFolk": [
+        "छठियार"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:भोजपुरी लोकगीत (\"छट्ठी, बरही, जनम दिन\"); BRIEF seed छठी",
+      "ownerQuestion": 18
+    },
+    {
+      "id": "barahi",
+      "category": "childhood",
+      "en": "twelfth-day rite after birth (barahi)",
+      "hi": "बरही",
+      "bho": "बरही",
+      "evidence": "FACT",
+      "source": "BHWP:भोजपुरी लोकगीत (\"छट्ठी, बरही\")"
+    },
+    {
+      "id": "sohar",
+      "category": "childhood",
+      "en": "birth song (sohar)",
+      "hi": "सोहर",
+      "bho": "सोहर",
+      "evidence": "FACT",
+      "source": "BHWP:भोजपुरी लोकगीत (\"सोहर: लइका भइला पर … गावल जाये वाला गीत\")"
+    },
+    {
+      "id": "janamdin",
+      "category": "childhood",
+      "en": "birthday",
+      "hi": "जन्मदिन",
+      "bho": "जनमदिन",
+      "evidence": "FACT",
+      "source": "SV-CORPUS glossary janma-tithi bho (\"परंपरा वाला जनमदिन\"); BHWP:भोजपुरी लोकगीत"
+    },
+    {
+      "id": "janma-tithi",
+      "category": "childhood",
+      "en": "birth tithi (lunar birthday)",
+      "hi": "जन्म-तिथि",
+      "bho": "जनम-तिथि",
+      "evidence": "FACT",
+      "source": "SV-UI today.janmaTithiToday"
+    },
+    {
+      "id": "janma-nakshatra",
+      "category": "childhood",
+      "en": "birth nakshatra",
+      "hi": "जन्म नक्षत्र",
+      "bho": "जनम नक्षत्र",
+      "evidence": "INFERENCE",
+      "source": "SV-UI naamkaran (जनम, नक्षत्र)"
+    },
+    {
+      "id": "naam-akshar",
+      "category": "childhood",
+      "en": "name syllable by nakshatra",
+      "hi": "नाम अक्षर",
+      "bho": "नाम अक्षर",
+      "evidence": "FACT",
+      "source": "SV-UI naamkaran.title (hi = bho नाम अक्षर)"
+    },
+    {
+      "id": "sutak-janma",
+      "category": "childhood",
+      "en": "birth impurity period (sutaka)",
+      "hi": "सूतक",
+      "bho": "सूतक",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "kanchhedan",
+      "category": "childhood",
+      "en": "ear piercing (folk)",
+      "hi": "कनछेदन",
+      "bho": "कनछेदन",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "annaprashan-folk",
+      "category": "childhood",
+      "en": "first-rice ceremony (folk)",
+      "hi": "अन्नप्राशन (पहला अन्न)",
+      "bho": "अन्नप्राशन (पहिला अन्न)",
+      "evidence": "INFERENCE",
+      "source": "AGENT",
+      "ownerQuestion": 24
+    },
+    {
+      "id": "vivah",
+      "category": "marriage",
+      "en": "wedding (vivaha)",
+      "hi": "विवाह",
+      "bho": "बियाह",
+      "hiAlt": [
+        "शादी",
+        "ब्याह"
+      ],
+      "bhoAlt": [
+        "बिआह"
+      ],
+      "evidence": "FACT",
+      "source": "SV-UI onboarding.marriage_chip bho (\"बियाह\") binding reuse; BHWP:बियाह (title बियाह, body बिआह); en.wiktionary बिआह / बियाह"
+    },
+    {
+      "id": "lagan-patrika",
+      "category": "marriage",
+      "en": "wedding date letter (lagna-patrika)",
+      "hi": "लग्न पत्रिका",
+      "bho": "लगन पतरी",
+      "hiAlt": [
+        "लगन"
+      ],
+      "bhoAlt": [
+        "लग्न पत्रिका"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "tilak-ceremony",
+      "category": "marriage",
+      "en": "tilak (pre-wedding gift ceremony at the groom's home)",
+      "hi": "तिलक",
+      "bho": "तिलक",
+      "evidence": "INFERENCE",
+      "source": "AGENT",
+      "note": "ceremony name; the forehead mark is tilak / टीका"
+    },
+    {
+      "id": "sagai",
+      "category": "marriage",
+      "en": "engagement (sagai / roka / vagdana)",
+      "hi": "सगाई",
+      "bho": "सगाई",
+      "hiAlt": [
+        "रोका",
+        "वाग्दान"
+      ],
+      "bhoAlt": [
+        "रोका"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS muhurat-engagement bho (\"सगाई भा रोका (वाग्दान, माने वचन दिहल)\")"
+    },
+    {
+      "id": "vagdan",
+      "category": "marriage",
+      "en": "giving of word (vagdana)",
+      "hi": "वाग्दान",
+      "bho": "वाग्दान",
+      "evidence": "FACT",
+      "source": "SV-CORPUS muhurat-engagement"
+    },
+    {
+      "id": "haldi-ceremony",
+      "category": "marriage",
+      "en": "turmeric ceremony (haldi)",
+      "hi": "हल्दी",
+      "bho": "हरदी",
+      "evidence": "FACT",
+      "source": "BHWP:कोहबर (हरदी); HIWP:मड़वा मटकोर (\"दूल्हा-दुल्हन की हल्दी\")"
+    },
+    {
+      "id": "ubtan",
+      "category": "marriage",
+      "en": "turmeric-gram paste (ubtan)",
+      "hi": "उबटन",
+      "bho": "उबटन",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "matkor",
+      "category": "marriage",
+      "en": "earth-digging rite before the wedding (matkor)",
+      "hi": "मटकोर",
+      "bho": "मटकोर",
+      "hiAlt": [
+        "मड़वा मटकोर",
+        "मटकोरा"
+      ],
+      "bhoFolk": [
+        "मटकोड़वा"
+      ],
+      "evidence": "FACT",
+      "source": "HIWP:मड़वा मटकोर (\"'मटकोर' का अर्थ 'मिट्टी खोदना'\"; \"मटकोरा रस्म\"); BRIEF seed",
+      "ownerQuestion": 11
+    },
+    {
+      "id": "marwa",
+      "category": "marriage",
+      "en": "wedding pavilion (marwa / mandap)",
+      "hi": "मड़वा",
+      "bho": "मड़वा",
+      "hiAlt": [
+        "मंडप",
+        "माँड़ो"
+      ],
+      "bhoAlt": [
+        "मंडप"
+      ],
+      "evidence": "FACT",
+      "source": "HIWP:मड़वा मटकोर"
+    },
+    {
+      "id": "kangan",
+      "category": "marriage",
+      "en": "protective wrist-string with iron ring (kangan / kakan)",
+      "hi": "कंगन",
+      "bho": "कंगन",
+      "hiAlt": [
+        "ककन"
+      ],
+      "bhoAlt": [
+        "ककन"
+      ],
+      "evidence": "FACT",
+      "source": "HIWP:मड़वा मटकोर (\"जिसे कंगन/ककन कहते हैं\")"
+    },
+    {
+      "id": "khoincha",
+      "category": "marriage",
+      "en": "lap-gift of rice, turmeric and money (khoincha)",
+      "hi": "खोंइछा",
+      "bho": "खोंइछा",
+      "hiAlt": [
+        "खोईंछा"
+      ],
+      "evidence": "FACT",
+      "source": "HIWP:मड़वा मटकोर (\"खोईंछा भरा जाता है\")"
+    },
+    {
+      "id": "dwar-puja",
+      "category": "marriage",
+      "en": "welcome of the groom at the door (dvara-puja / dvarachara)",
+      "hi": "द्वार पूजा",
+      "bho": "द्वारपूजा",
+      "hiAlt": [
+        "द्वारचार"
+      ],
+      "bhoFolk": [
+        "दुआर पूजा"
+      ],
+      "evidence": "FACT",
+      "source": "HIWP:द्वार पूजा; HIWP:विशेष विवाह कर्मकांड (\"द्वारचार (द्वार पूजा)\"); BRIEF seed द्वारपूजा",
+      "ownerQuestion": 12
+    },
+    {
+      "id": "barat",
+      "category": "marriage",
+      "en": "groom's procession (barat)",
+      "hi": "बारात",
+      "bho": "बरात",
+      "hiAlt": [
+        "बरात"
+      ],
+      "bhoFolk": [
+        "बरियात"
+      ],
+      "evidence": "FACT",
+      "source": "HIWP:द्वार पूजा (\"बारात जब द्वार पर आती है\")",
+      "ownerQuestion": 22
+    },
+    {
+      "id": "jaimala",
+      "category": "marriage",
+      "en": "garland exchange (jayamala / varamala)",
+      "hi": "जयमाला",
+      "bho": "जयमाला",
+      "hiAlt": [
+        "वरमाला"
+      ],
+      "bhoAlt": [
+        "वरमाला"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "madhuparka",
+      "category": "marriage",
+      "en": "honey-curd welcome (madhuparka)",
+      "hi": "मधुपर्क",
+      "bho": "मधुपर्क",
+      "evidence": "FACT",
+      "source": "HIWP:द्वार पूजा (\"मधुपर्क पान के बाद\")"
+    },
+    {
+      "id": "var-pujan",
+      "category": "marriage",
+      "en": "honouring the groom (vara-pujana / varana)",
+      "hi": "वर पूजन",
+      "bho": "वर पूजन",
+      "hiAlt": [
+        "वरण"
+      ],
+      "evidence": "INFERENCE",
+      "source": "HIWP:द्वार पूजा (\"वर सत्कार\")"
+    },
+    {
+      "id": "gau-daan",
+      "category": "marriage",
+      "en": "gift of a cow (go-dana)",
+      "hi": "गोदान",
+      "bho": "गोदान",
+      "hiAlt": [
+        "गौदान"
+      ],
+      "evidence": "FACT",
+      "source": "HIWP:विवाह गोदान (page title)"
+    },
+    {
+      "id": "kanyadaan",
+      "category": "marriage",
+      "en": "giving away of the bride (kanyadana)",
+      "hi": "कन्यादान",
+      "bho": "कन्यादान",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "panigrahan",
+      "category": "marriage",
+      "en": "taking of the hand (panigrahana)",
+      "hi": "पाणिग्रहण",
+      "bho": "पाणिग्रहण",
+      "bhoFolk": [
+        "हथलेवा"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "granthi-bandhan",
+      "category": "marriage",
+      "en": "knot-tying (granthi-bandhana / gathbandhan)",
+      "hi": "ग्रंथि बंधन",
+      "bho": "गठबंधन",
+      "hiAlt": [
+        "गठबंधन"
+      ],
+      "bhoAlt": [
+        "ग्रंथि बंधन",
+        "गठजोड़"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "laja-hom",
+      "category": "marriage",
+      "en": "parched-grain offering (laja-homa / lava)",
+      "hi": "लाजा होम",
+      "bho": "लावा होम",
+      "hiAlt": [
+        "लावा"
+      ],
+      "bhoAlt": [
+        "लाजा होम"
+      ],
+      "bhoFolk": [
+        "लावा भूँजाई"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "saptapadi",
+      "category": "marriage",
+      "en": "seven steps (saptapadi)",
+      "hi": "सप्तपदी",
+      "bho": "सप्तपदी",
+      "bhoFolk": [
+        "सात कदम"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "bhanwar",
+      "category": "marriage",
+      "en": "circling the fire (bhanwar / phere)",
+      "hi": "भाँवर",
+      "bho": "भाँवर",
+      "hiAlt": [
+        "फेरे",
+        "परिक्रमा"
+      ],
+      "bhoAlt": [
+        "भँवरी"
+      ],
+      "evidence": "UNCERTAIN",
+      "source": "AGENT",
+      "note": "no Bhojpuri attestation fetched; भाँवर / भँवरी are the usual UP-Bihar words"
+    },
+    {
+      "id": "sindoor-daan",
+      "category": "marriage",
+      "en": "applying vermilion to the bride (sindura-dana)",
+      "hi": "सिंदूरदान",
+      "bho": "सिंदूरदान",
+      "bhoFolk": [
+        "सेनुरदान"
+      ],
+      "evidence": "INFERENCE",
+      "source": "BHWP:पवन सिंह (film title \"सिंदूर दान\", 2012) — attests the compound only",
+      "ownerQuestion": 23
+    },
+    {
+      "id": "mangalsutra",
+      "category": "marriage",
+      "en": "marriage necklace (mangalasutra; regional, non-Vedic)",
+      "hi": "मंगलसूत्र",
+      "bho": "मंगलसूत्र",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "dhruva-darshan",
+      "category": "marriage",
+      "en": "sighting the pole star (dhruva-darshana)",
+      "hi": "ध्रुव दर्शन",
+      "bho": "ध्रुव दर्शन",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "arundhati-darshan",
+      "category": "marriage",
+      "en": "sighting Arundhati",
+      "hi": "अरुंधती दर्शन",
+      "bho": "अरुंधती दर्शन",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "hriday-sparsh",
+      "category": "marriage",
+      "en": "touching the heart (hridaya-sparsha)",
+      "hi": "हृदय स्पर्श",
+      "bho": "हृदय स्पर्श",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "ashmarohan",
+      "category": "marriage",
+      "en": "stepping on the stone (ashmarohana)",
+      "hi": "अश्मारोहण",
+      "bho": "अश्मारोहण",
+      "bhoFolk": [
+        "सिल पर गोड़"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "surya-darshan",
+      "category": "marriage",
+      "en": "showing the Sun (surya-darshana)",
+      "hi": "सूर्य दर्शन",
+      "bho": "सूर्य दर्शन",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "kohbar",
+      "category": "marriage",
+      "en": "nuptial chamber and its wall painting (kohbar)",
+      "hi": "कोहबर",
+      "bho": "कोहबर",
+      "evidence": "FACT",
+      "source": "BHWP:कोहबर (\"कोहबर (कौतुकगृह, कोष्ठवर)\")"
+    },
+    {
+      "id": "kohbar-pujai",
+      "category": "marriage",
+      "en": "worship of the kohbar painting",
+      "hi": "कोहबर पूजा",
+      "bho": "कोहबर पुजाई",
+      "evidence": "FACT",
+      "source": "BHWP:कोहबर (\"कोहबर पुजाई\")"
+    },
+    {
+      "id": "vidai",
+      "category": "marriage",
+      "en": "bride's departure (vidai)",
+      "hi": "विदाई",
+      "bho": "बिदाई",
+      "evidence": "FACT",
+      "source": "BHWP:कोहबर (\"दुलहिन के बिदाई\")"
+    },
+    {
+      "id": "grih-pravesh-vadhu",
+      "category": "marriage",
+      "en": "bride's entry into her new home",
+      "hi": "वधू गृह प्रवेश",
+      "bho": "दुलहिन के गृह प्रवेश",
+      "evidence": "INFERENCE",
+      "source": "SV-CORPUS muhurat-griha-pravesh (गृह प्रवेश)"
+    },
+    {
+      "id": "chaturthi-karma",
+      "category": "marriage",
+      "en": "fourth-day rite (chaturthi-karma)",
+      "hi": "चतुर्थी कर्म",
+      "bho": "चतुर्थी कर्म",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "gauna",
+      "category": "marriage",
+      "en": "bride's second coming (gauna / dviragamana)",
+      "hi": "गौना",
+      "bho": "गवना",
+      "hiAlt": [
+        "द्विरागमन"
+      ],
+      "evidence": "INFERENCE",
+      "source": "HIWP:थारू (\"गौने की रस्म\")"
+    },
+    {
+      "id": "chumawan",
+      "category": "marriage",
+      "en": "blessing by touching rice and grass to the forehead (chumawan)",
+      "hi": "चुमावन",
+      "bho": "चुमावन",
+      "evidence": "UNCERTAIN",
+      "source": "AGENT",
+      "note": "common Bhojpuri wedding term; no attestation fetched"
+    },
+    {
+      "id": "parichhan",
+      "category": "marriage",
+      "en": "welcome-wave of the groom with a lamp (parichhan)",
+      "hi": "परिछन",
+      "bho": "परिछन",
+      "hiAlt": [
+        "परछन"
+      ],
+      "evidence": "UNCERTAIN",
+      "source": "AGENT"
+    },
+    {
+      "id": "imli-ghontai",
+      "category": "marriage",
+      "en": "tamarind-leaf rite before the groom leaves (imli ghontai)",
+      "hi": "इमली घोंटाई",
+      "bho": "इमली घोंटाई",
+      "evidence": "UNCERTAIN",
+      "source": "AGENT"
+    },
+    {
+      "id": "var-paksha",
+      "category": "marriage",
+      "en": "groom's side",
+      "hi": "वर पक्ष",
+      "bho": "दुलहा पक्ष",
+      "bhoAlt": [
+        "वर पक्ष"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "kanya-paksha",
+      "category": "marriage",
+      "en": "bride's side",
+      "hi": "कन्या पक्ष",
+      "bho": "दुलहिन पक्ष",
+      "bhoAlt": [
+        "कन्या पक्ष"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "vivah-muhurat",
+      "category": "marriage",
+      "en": "wedding muhurta",
+      "hi": "विवाह मुहूर्त",
+      "bho": "बियाह के मुहूर्त",
+      "evidence": "FACT",
+      "source": "SV-CORPUS muhurat-marriage bho (\"बियाह (सामान्य) के समय-खिड़की\")"
+    },
+    {
+      "id": "vivah-nakshatra",
+      "category": "marriage",
+      "en": "the eleven marriage nakshatras",
+      "hi": "विवाह के नक्षत्र",
+      "bho": "बियाह के नक्षत्र",
+      "evidence": "FACT",
+      "source": "SV-CORPUS muhurat-engagement bho (\"बियाह के नक्षत्र\")"
+    },
+    {
+      "id": "tulsi-vivah",
+      "category": "marriage",
+      "en": "Tulsi's wedding (Tulsi vivaha)",
+      "hi": "तुलसी विवाह",
+      "bho": "तुलसी बियाह",
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals tulsi-vivah"
+    },
+    {
+      "id": "vivah-panchami",
+      "category": "marriage",
+      "en": "Vivah Panchami (Rama-Sita wedding day)",
+      "hi": "विवाह पंचमी",
+      "bho": "बियाह पंचमी",
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals vivah-panchami"
+    },
+    {
+      "id": "shaadi",
+      "category": "marriage",
+      "en": "wedding (colloquial)",
+      "hi": "शादी",
+      "bho": "बियाह",
+      "evidence": "FACT",
+      "source": "SV-UI onboarding.marriage_chip",
+      "note": "bho never uses शादी; hi uses शादी only in friendly prose, विवाह in headings"
+    },
+    {
+      "id": "antim-sanskar",
+      "category": "death",
+      "en": "last rites (antima samskara)",
+      "hi": "अंतिम संस्कार",
+      "bho": "अंतिम संस्कार",
+      "evidence": "FACT",
+      "source": "BHWP:कुशीनगर; BHWP:मास्टर अजीज (\"अंतिम संस्कार\")"
+    },
+    {
+      "id": "dah-sanskar",
+      "category": "death",
+      "en": "cremation (daha-samskara)",
+      "hi": "दाह संस्कार",
+      "bho": "दाह संस्कार",
+      "evidence": "FACT",
+      "source": "BHWP:गुरु तेग बहादुर; BHWP:बिपिन रावत (\"दाह संस्कार कइल गइल\")"
+    },
+    {
+      "id": "shav",
+      "category": "death",
+      "en": "the body (shava / parthiva sharira)",
+      "hi": "पार्थिव शरीर",
+      "bho": "देह",
+      "hiAlt": [
+        "शव",
+        "देह"
+      ],
+      "bhoAlt": [
+        "पार्थिव शरीर"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT",
+      "note": "avoid लाश in both languages (brief R4 sensitivity)"
+    },
+    {
+      "id": "arthi",
+      "category": "death",
+      "en": "bier (arthi)",
+      "hi": "अर्थी",
+      "bho": "अरथी",
+      "bhoAlt": [
+        "अर्थी"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "shamshan",
+      "category": "death",
+      "en": "cremation ground (shmashana / ghat)",
+      "hi": "श्मशान",
+      "bho": "घाट",
+      "hiAlt": [
+        "घाट",
+        "श्मशान घाट"
+      ],
+      "bhoAlt": [
+        "श्मशान",
+        "मसान"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:महाकाल (\"दाह संस्कार स्थल (श्मशान)\"); BHWP:डोम (\"मणिकर्णिका घाट\")"
+    },
+    {
+      "id": "chita",
+      "category": "death",
+      "en": "pyre (chita)",
+      "hi": "चिता",
+      "bho": "चिता",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "mukhagni",
+      "category": "death",
+      "en": "lighting the pyre (mukhagni)",
+      "hi": "मुखाग्नि",
+      "bho": "मुखाग्नि",
+      "bhoFolk": [
+        "आगि दिहल"
+      ],
+      "evidence": "INFERENCE",
+      "source": "BHWP:डोम (\"लाश जरावे के समय इनहन लोग से आगी लिहल जाला\")"
+    },
+    {
+      "id": "kapal-kriya",
+      "category": "death",
+      "en": "skull rite (kapala-kriya)",
+      "hi": "कपाल क्रिया",
+      "bho": "कपाल क्रिया",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "asthi",
+      "category": "death",
+      "en": "bone relics (asthi, \"phool\")",
+      "hi": "अस्थि",
+      "bho": "फूल",
+      "hiAlt": [
+        "फूल"
+      ],
+      "bhoAlt": [
+        "अस्थि"
+      ],
+      "evidence": "INFERENCE",
+      "source": "BHWP:गौतम बुद्ध (\"अस्थि अवशेष\")",
+      "note": "फूल is the family word for the collected bones in both languages"
+    },
+    {
+      "id": "asthi-sanchay",
+      "category": "death",
+      "en": "collecting the bones (asthi-sanchaya)",
+      "hi": "अस्थि संचय",
+      "bho": "फूल चुनल",
+      "bhoAlt": [
+        "अस्थि संचय"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "asthi-visarjan",
+      "category": "death",
+      "en": "immersing the bones (asthi-visarjana)",
+      "hi": "अस्थि विसर्जन",
+      "bho": "अस्थि विसर्जन",
+      "bhoFolk": [
+        "फूल गंगा में छोड़ल"
+      ],
+      "evidence": "INFERENCE",
+      "source": "BHWP:गंगा नदी"
+    },
+    {
+      "id": "dashgatra",
+      "category": "death",
+      "en": "ten-day pinda rites (dashagatra / daskarma)",
+      "hi": "दशगात्र",
+      "bho": "दशगात्र",
+      "hiAlt": [
+        "दसकर्म"
+      ],
+      "bhoFolk": [
+        "दसकरम"
+      ],
+      "evidence": "UNCERTAIN",
+      "source": "AGENT"
+    },
+    {
+      "id": "pind",
+      "category": "death",
+      "en": "rice ball offering (pinda)",
+      "hi": "पिंड",
+      "bho": "पिंडा",
+      "bhoAlt": [
+        "पिंड"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:गंगा नदी (\"चाउर के आटा आ तिल के बनल पिंडा\")"
+    },
+    {
+      "id": "pind-daan",
+      "category": "death",
+      "en": "offering of pindas (pinda-dana)",
+      "hi": "पिंडदान",
+      "bho": "पिंडदान",
+      "evidence": "FACT",
+      "source": "BHWP:गंगा नदी (\"पुरखा लोग के नाँव ले के पिंडदान\")"
+    },
+    {
+      "id": "ekadashah",
+      "category": "death",
+      "en": "eleventh-day rite (ekadashaha)",
+      "hi": "एकादशाह",
+      "bho": "एकादशाह",
+      "bhoFolk": [
+        "एगारहवाँ"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "vrishotsarga",
+      "category": "death",
+      "en": "bull-release rite (vrishotsarga)",
+      "hi": "वृषोत्सर्ग",
+      "bho": "वृषोत्सर्ग",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "dwadashah",
+      "category": "death",
+      "en": "twelfth-day rite (dvadashaha)",
+      "hi": "द्वादशाह",
+      "bho": "द्वादशाह",
+      "bhoFolk": [
+        "बारहवाँ"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "sapindikaran",
+      "category": "death",
+      "en": "joining the departed to the ancestors (sapindikarana)",
+      "hi": "सपिंडीकरण",
+      "bho": "सपिंडीकरण",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "terahvi",
+      "category": "death",
+      "en": "thirteenth-day rite (trayodashaha / terahvi)",
+      "hi": "तेरहवीं",
+      "bho": "तेरही",
+      "hiAlt": [
+        "तेरही",
+        "त्रयोदशाह"
+      ],
+      "bhoAlt": [
+        "तेरहिया"
+      ],
+      "evidence": "FACT",
+      "source": "HIWP:तेरहवीं (\"तेरहवीँ क्रिया मृत्यु से तेरहवेँ दिन\"); BRIEF seed तेरही",
+      "note": "bho spelling UNCERTAIN",
+      "ownerQuestion": 9
+    },
+    {
+      "id": "brahma-bhoj",
+      "category": "death",
+      "en": "feast for Brahmins and community after death rites (brahma-bhoja)",
+      "hi": "ब्रह्मभोज",
+      "bho": "ब्रह्मभोज",
+      "bhoFolk": [
+        "भोज"
+      ],
+      "evidence": "INFERENCE",
+      "source": "BHWP:डोम (\"श्राद्ध में अंतिम भोज\")"
+    },
+    {
+      "id": "pagdi-rasm",
+      "category": "death",
+      "en": "turban ceremony for the heir (pagri rasm)",
+      "hi": "पगड़ी रस्म",
+      "bho": "पगड़ी",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "masik-shraddha",
+      "category": "death",
+      "en": "monthly shraddha in the first year",
+      "hi": "मासिक श्राद्ध",
+      "bho": "मासिक श्राद्ध",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "barsi",
+      "category": "death",
+      "en": "first death anniversary / yearly tithi (varshi / barsi)",
+      "hi": "बरसी",
+      "bho": "बरसी",
+      "hiAlt": [
+        "वर्षी",
+        "पुण्यतिथि"
+      ],
+      "evidence": "FACT",
+      "source": "SV-UI today.barsiToday (hi and bho बरसी)"
+    },
+    {
+      "id": "sutak",
+      "category": "death",
+      "en": "impurity period (sutaka / patak)",
+      "hi": "सूतक",
+      "bho": "सूतक",
+      "hiAlt": [
+        "पातक"
+      ],
+      "bhoAlt": [
+        "पातक"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "kriya-karm",
+      "category": "death",
+      "en": "funeral rites (kriya-karma)",
+      "hi": "क्रिया कर्म",
+      "bho": "क्रिया कर्म",
+      "bhoFolk": [
+        "किरिया-करम"
+      ],
+      "evidence": "UNCERTAIN",
+      "source": "AGENT"
+    },
+    {
+      "id": "garud-puran-path",
+      "category": "death",
+      "en": "reading of the Garuda Purana",
+      "hi": "गरुड़ पुराण पाठ",
+      "bho": "गरुड़ पुराण पाठ",
+      "evidence": "INFERENCE",
+      "source": "HIWP:तेरहवीं (\"गरूड़ पुराण के अनुसार\")"
+    },
+    {
+      "id": "shraddha",
+      "category": "death",
+      "en": "ancestral rite (shraddha)",
+      "hi": "श्राद्ध",
+      "bho": "श्राद्ध",
+      "bhoFolk": [
+        "सराध"
+      ],
+      "evidence": "FACT",
+      "source": "SV-UI events.shraddha; BHWP:पितरपख (\"सालाना श्राद्ध\")",
+      "ownerQuestion": 10
+    },
+    {
+      "id": "pitru-paksha",
+      "category": "death",
+      "en": "fortnight of the ancestors (pitri-paksha)",
+      "hi": "पितृ पक्ष",
+      "bho": "पितृ पक्ष",
+      "bhoAlt": [
+        "पितर पख"
+      ],
+      "bhoFolk": [
+        "पितरपख"
+      ],
+      "evidence": "FACT",
+      "source": "SV-UI events.pitruPaksha (bho पितृ पक्ष); SV-CORPUS festivals bho (\"पितर पख\"); BHWP:पितरपख"
+    },
+    {
+      "id": "solah-shraddha",
+      "category": "death",
+      "en": "the sixteen shraddhas",
+      "hi": "सोलह श्राद्ध",
+      "bho": "सोरह श्राद्ध",
+      "evidence": "FACT",
+      "source": "BHWP:पितरपख (\"सोरह श्राद्ध\")"
+    },
+    {
+      "id": "matri-navami",
+      "category": "death",
+      "en": "Matri Navami (shraddha for mothers)",
+      "hi": "मातृ नवमी",
+      "bho": "मातृ नवमी",
+      "evidence": "FACT",
+      "source": "BHWP:कुआर (\"मातृ नवमी\")"
+    },
+    {
+      "id": "sarvapitri-amavasya",
+      "category": "death",
+      "en": "Sarva Pitru Amavasya (Mahalaya)",
+      "hi": "सर्वपितृ अमावस्या",
+      "bho": "पितर अमावस",
+      "hiAlt": [
+        "महालया"
+      ],
+      "bhoAlt": [
+        "सर्वपितृ अमावस्या"
+      ],
+      "bhoFolk": [
+        "पितरसउनन"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals sarva-pitru-amavasya bho (\"पितर अमावस\"); BHWP:पितरपख (\"पितरसउनन (पितृ विसर्जन)\")"
+    },
+    {
+      "id": "til-jal",
+      "category": "death",
+      "en": "sesame water offering",
+      "hi": "तिल-जल",
+      "bho": "तिल-पानी",
+      "bhoAlt": [
+        "तिल-जल"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "gaya-pind-daan",
+      "category": "death",
+      "en": "pinda-dana at Gaya",
+      "hi": "गया पिंडदान",
+      "bho": "गया पिंडदान",
+      "evidence": "INFERENCE",
+      "source": "AGENT",
+      "note": "गया here is the city; the bho gate must allow it"
+    },
+    {
+      "id": "pret",
+      "category": "death",
+      "en": "departed spirit before the rites are complete (preta)",
+      "hi": "प्रेत",
+      "bho": "प्रेत",
+      "evidence": "FACT",
+      "source": "HIWP:तेरहवीं (\"प्रेतत्व मुक्ति\")"
+    },
+    {
+      "id": "moksha",
+      "category": "death",
+      "en": "liberation (moksha)",
+      "hi": "मोक्ष",
+      "bho": "मोक्ष",
+      "bhoFolk": [
+        "मुक्ति"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:कर्मकांड (\"सुख-संपति आ मुक्ति\")"
+    },
+    {
+      "id": "mrityu",
+      "category": "death",
+      "en": "death",
+      "hi": "मृत्यु",
+      "bho": "मौत",
+      "hiAlt": [
+        "देहांत",
+        "निधन"
+      ],
+      "bhoAlt": [
+        "मृत्यु",
+        "निधन",
+        "देहांत"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:पितरपख (\"मौत आ मर चुकल लोग\"); BHWP:कुशीनगर (\"निधन\"); SV-CORPUS glossary shraddha bho (\"देहांत के तिथि\")"
+    },
+    {
+      "id": "pitra-tarpan",
+      "category": "death",
+      "en": "tarpana for the ancestors",
+      "hi": "पितृ तर्पण",
+      "bho": "पितर तर्पण",
+      "evidence": "INFERENCE",
+      "source": "BHWP:पितरपख"
+    },
+    {
+      "id": "gajendra-moksha",
+      "category": "death",
+      "en": "Gajendra Moksha (recited at death rites)",
+      "hi": "गजेंद्र मोक्ष",
+      "bho": "गजेंद्र मोक्ष",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "grih-pravesh",
+      "category": "home",
+      "en": "house-warming (griha-pravesha)",
+      "hi": "गृह प्रवेश",
+      "bho": "गृह प्रवेश",
+      "evidence": "FACT",
+      "source": "SV-CORPUS muhurat-griha-pravesh (hi and bho गृह प्रवेश)"
+    },
+    {
+      "id": "vastu-shanti",
+      "category": "home",
+      "en": "pacification of the house (vastu-shanti)",
+      "hi": "वास्तु शांति",
+      "bho": "वास्तु शांति",
+      "evidence": "INFERENCE",
+      "source": "SV-CORPUS muhurat-griha-pravesh (\"वास्तु प्रकरण\")"
+    },
+    {
+      "id": "vastu-purush",
+      "category": "home",
+      "en": "Vastu Purusha",
+      "hi": "वास्तु पुरुष",
+      "bho": "वास्तु पुरुष",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "bhumi-pujan",
+      "category": "home",
+      "en": "ground-breaking worship (bhumi-pujana)",
+      "hi": "भूमि पूजन",
+      "bho": "भूमि पूजन",
+      "bhoFolk": [
+        "माटी पूजा"
+      ],
+      "evidence": "INFERENCE",
+      "source": "SV-CORPUS muhurat-property-registration (\"भूमि-क्रय\")"
+    },
+    {
+      "id": "shilanyas",
+      "category": "home",
+      "en": "foundation-laying (shilanyasa)",
+      "hi": "शिलान्यास",
+      "bho": "शिलान्यास",
+      "bhoFolk": [
+        "नेंव धरल"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "kuan-pujan",
+      "category": "home",
+      "en": "well worship (kupa-pujana)",
+      "hi": "कुआँ पूजन",
+      "bho": "इनार पूजा",
+      "bhoAlt": [
+        "कुआँ पूजन"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT",
+      "note": "इनार = well in Bhojpuri; not attested in the fetched pages"
+    },
+    {
+      "id": "vahan-pujan",
+      "category": "home",
+      "en": "vehicle worship",
+      "hi": "वाहन पूजन",
+      "bho": "गाड़ी पूजा",
+      "bhoAlt": [
+        "वाहन पूजन"
+      ],
+      "evidence": "INFERENCE",
+      "source": "SV-CORPUS muhurat-vehicle-purchase bho (\"गाड़ी खरीद\")"
+    },
+    {
+      "id": "dukan",
+      "category": "home",
+      "en": "shop",
+      "hi": "दुकान",
+      "bho": "दोकान",
+      "bhoAlt": [
+        "दुकान"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS muhurat-business-start bho (\"व्यापार भा दोकान खोलल\"); BHWP:दीया (\"घर-दुआर-दुकान\")"
+    },
+    {
+      "id": "bahi-khata",
+      "category": "home",
+      "en": "account books (bahi-khata, Diwali puja)",
+      "hi": "बही-खाता",
+      "bho": "बही-खाता",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "go-puja",
+      "category": "home",
+      "en": "cow worship (go-puja)",
+      "hi": "गो पूजा",
+      "bho": "गाय पूजा",
+      "hiAlt": [
+        "गौ पूजा"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "deepdaan",
+      "category": "home",
+      "en": "lamp offering (dipa-dana)",
+      "hi": "दीपदान",
+      "bho": "दीपदान",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "rangoli",
+      "category": "home",
+      "en": "floor painting (rangoli / alpana / chaukpuran)",
+      "hi": "रंगोली",
+      "bho": "चउकपूरन",
+      "hiAlt": [
+        "अल्पना",
+        "चौक पूरना"
+      ],
+      "bhoAlt": [
+        "रंगोली",
+        "अल्पना"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:रंगोली (\"चउकपूरन भा चउका पूरल कोहबर अल्पना\")"
+    },
+    {
+      "id": "ghar",
+      "category": "home",
+      "en": "house / home",
+      "hi": "घर",
+      "bho": "घर",
+      "evidence": "FACT",
+      "source": "SV-UI (bho घर for the bhava); BHWP:दीया"
+    },
+    {
+      "id": "dwar",
+      "category": "home",
+      "en": "door / threshold",
+      "hi": "द्वार",
+      "bho": "दुआर",
+      "hiAlt": [
+        "दरवाज़ा"
+      ],
+      "bhoAlt": [
+        "द्वार"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:दीया (\"घर-दुआर-दुकान\"); BHWP:तुलसी (\"आँगन भा दुआर\")"
+    },
+    {
+      "id": "aangan",
+      "category": "home",
+      "en": "courtyard",
+      "hi": "आँगन",
+      "bho": "अँगना",
+      "bhoAlt": [
+        "आँगन"
+      ],
+      "evidence": "INFERENCE",
+      "source": "BHWP:तुलसी (\"आँगन\"); IS16500 2.6.2.3 (अँगना)"
+    },
+    {
+      "id": "chulha",
+      "category": "home",
+      "en": "hearth",
+      "hi": "चूल्हा",
+      "bho": "चूल्हा",
+      "evidence": "FACT",
+      "source": "BHWP:छठ (\"माटी के चूल्हा\")"
+    },
+    {
+      "id": "tulsi-chaura",
+      "category": "home",
+      "en": "tulsi pedestal (tulsi-chaura)",
+      "hi": "तुलसी चौरा",
+      "bho": "तुलसी चउरा",
+      "bhoAlt": [
+        "तुलसी चौरा"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "bhoomi",
+      "category": "home",
+      "en": "land / earth",
+      "hi": "भूमि",
+      "bho": "जमीन",
+      "hiAlt": [
+        "ज़मीन"
+      ],
+      "bhoAlt": [
+        "भूमि",
+        "माटी"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS muhurat-property-registration bho (\"जमीन-जायदाद\"); BHWP:कोहबर (\"जमीन पर गोबर से लीप\")"
+    },
+    {
+      "id": "gobar-lepan",
+      "category": "home",
+      "en": "smearing with cow dung (ritual cleaning)",
+      "hi": "गोबर से लिपाई",
+      "bho": "गोबर से लीपल",
+      "evidence": "FACT",
+      "source": "BHWP:कोहबर (\"गोबर से लीप के\")"
+    },
+    {
+      "id": "navanna",
+      "category": "home",
+      "en": "first-harvest offering (navanna)",
+      "hi": "नवान्न",
+      "bho": "नवान्न",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "katha",
+      "category": "texts",
+      "en": "sacred story (katha)",
+      "hi": "कथा",
+      "bho": "कथा",
+      "evidence": "FACT",
+      "source": "BHWP:हिंदू कथा; BHWP:सत्यनारायण कथा"
+    },
+    {
+      "id": "satyanarayan-katha",
+      "category": "texts",
+      "en": "Satyanarayan vrat katha",
+      "hi": "सत्यनारायण व्रत कथा",
+      "bho": "सत्यनारायण कथा",
+      "bhoFolk": [
+        "सतनरायन बाबा के कथा"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:सत्यनारायण कथा; SV-UI vrat.name.satyanarayan bho (\"सत्यनारायण बरत\")"
+    },
+    {
+      "id": "adhyay",
+      "category": "texts",
+      "en": "chapter (adhyaya)",
+      "hi": "अध्याय",
+      "bho": "अध्याय",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "path",
+      "category": "texts",
+      "en": "recitation / reading (patha)",
+      "hi": "पाठ",
+      "bho": "पाठ",
+      "evidence": "FACT",
+      "source": "SV-UI learn.lessonsTitle (hi and bho पाठ for lesson); BHWP:सत्यनारायण कथा",
+      "note": "पाठ doubles as \"lesson\" in the Learn section; headings disambiguate with context"
+    },
+    {
+      "id": "stotra",
+      "category": "texts",
+      "en": "hymn of praise (stotra)",
+      "hi": "स्तोत्र",
+      "bho": "स्तोत्र",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "sukta",
+      "category": "texts",
+      "en": "Vedic hymn (sukta)",
+      "hi": "सूक्त",
+      "bho": "सूक्त",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "chalisa",
+      "category": "texts",
+      "en": "forty-verse hymn (chalisa)",
+      "hi": "चालीसा",
+      "bho": "चालीसा",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "bhajan",
+      "category": "texts",
+      "en": "devotional song (bhajan)",
+      "hi": "भजन",
+      "bho": "भजन",
+      "evidence": "FACT",
+      "source": "BHWP:भोजपुरी साहित्य (\"भजन निरगुन\")"
+    },
+    {
+      "id": "kirtan",
+      "category": "texts",
+      "en": "congregational singing (kirtana)",
+      "hi": "कीर्तन",
+      "bho": "कीर्तन",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "sundarkand",
+      "category": "texts",
+      "en": "Sundarkand (Ramcharitmanas)",
+      "hi": "सुंदरकांड",
+      "bho": "सुंदरकांड",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "ramcharitmanas",
+      "category": "texts",
+      "en": "Ramcharitmanas (Tulsidas)",
+      "hi": "रामचरितमानस",
+      "bho": "रामचरितमानस",
+      "evidence": "FACT",
+      "source": "BHWP:कोहबर (\"तुलसीदास के रामचरितमानस\")"
+    },
+    {
+      "id": "hanuman-chalisa",
+      "category": "texts",
+      "en": "Hanuman Chalisa",
+      "hi": "हनुमान चालीसा",
+      "bho": "हनुमान चालीसा",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "durga-saptashati",
+      "category": "texts",
+      "en": "Durga Saptashati (Chandi Path)",
+      "hi": "दुर्गा सप्तशती",
+      "bho": "दुर्गा सप्तशती",
+      "hiAlt": [
+        "चंडी पाठ"
+      ],
+      "bhoAlt": [
+        "चंडी पाठ"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "rudrashtadhyayi",
+      "category": "texts",
+      "en": "Rudrashtadhyayi (Shukla Yajurveda)",
+      "hi": "रुद्राष्टाध्यायी",
+      "bho": "रुद्राष्टाध्यायी",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "vishnu-sahasranam",
+      "category": "texts",
+      "en": "Vishnu Sahasranama",
+      "hi": "विष्णु सहस्रनाम",
+      "bho": "विष्णु सहस्रनाम",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "gita",
+      "category": "texts",
+      "en": "Bhagavad Gita",
+      "hi": "भगवद्गीता",
+      "bho": "भगवद्गीता",
+      "hiAlt": [
+        "गीता"
+      ],
+      "bhoAlt": [
+        "गीता"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:श्लोक (\"श्रीमद्भगवद्गीता\")"
+    },
+    {
+      "id": "garud-puran",
+      "category": "texts",
+      "en": "Garuda Purana",
+      "hi": "गरुड़ पुराण",
+      "bho": "गरुड़ पुराण",
+      "evidence": "INFERENCE",
+      "source": "HIWP:तेरहवीं"
+    },
+    {
+      "id": "bhagwat-saptah",
+      "category": "texts",
+      "en": "seven-day Bhagavata recitation",
+      "hi": "भागवत सप्ताह",
+      "bho": "भागवत सप्ताह",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "akhand-ramayan",
+      "category": "texts",
+      "en": "unbroken Ramayana recitation",
+      "hi": "अखंड रामायण",
+      "bho": "अखंड रामायण",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "puran",
+      "category": "texts",
+      "en": "Purana",
+      "hi": "पुराण",
+      "bho": "पुराण",
+      "evidence": "FACT",
+      "source": "BHWP:पुराण; BHWP:सत्यनारायण कथा (\"स्कंद पुराण\")"
+    },
+    {
+      "id": "ved",
+      "category": "texts",
+      "en": "Veda",
+      "hi": "वेद",
+      "bho": "वेद",
+      "evidence": "FACT",
+      "source": "BHWP:वेद"
+    },
+    {
+      "id": "yajurved",
+      "category": "texts",
+      "en": "Yajurveda",
+      "hi": "यजुर्वेद",
+      "bho": "यजुर्वेद",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "grihya-sutra",
+      "category": "texts",
+      "en": "domestic ritual manual (grihya-sutra)",
+      "hi": "गृह्यसूत्र",
+      "bho": "गृह्यसूत्र",
+      "evidence": "FACT",
+      "source": "BHWP:जनेव (\"बौधायन के गृह्यसूत्र\")"
+    },
+    {
+      "id": "paddhati",
+      "category": "texts",
+      "en": "ritual handbook (paddhati)",
+      "hi": "पद्धति",
+      "bho": "पद्धति",
+      "evidence": "FACT",
+      "source": "BHWP:बियाह (\"हिन्दू बिबाह पद्धति\")"
+    },
+    {
+      "id": "pothi",
+      "category": "texts",
+      "en": "the priest's manuscript / book (pothi)",
+      "hi": "पोथी",
+      "bho": "पोथी",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "kavach",
+      "category": "texts",
+      "en": "protective hymn (kavacha)",
+      "hi": "कवच",
+      "bho": "कवच",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "argala",
+      "category": "texts",
+      "en": "Argala stotra",
+      "hi": "अर्गला",
+      "bho": "अर्गला",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "kilak",
+      "category": "texts",
+      "en": "Kilaka stotra",
+      "hi": "कीलक",
+      "bho": "कीलक",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "kunjika",
+      "category": "texts",
+      "en": "Siddha Kunjika stotra",
+      "hi": "सिद्ध कुंजिका",
+      "bho": "सिद्ध कुंजिका",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "mahatmya",
+      "category": "texts",
+      "en": "glorification text (mahatmya)",
+      "hi": "महात्म्य",
+      "bho": "महात्म्य",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "phalashruti",
+      "category": "texts",
+      "en": "statement of fruits (phalashruti)",
+      "hi": "फलश्रुति",
+      "bho": "फलश्रुति",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "mangalacharan",
+      "category": "texts",
+      "en": "opening benediction (mangalacharana)",
+      "hi": "मंगलाचरण",
+      "bho": "मंगलाचरण",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "sanskrit",
+      "category": "texts",
+      "en": "Sanskrit",
+      "hi": "संस्कृत",
+      "bho": "संस्कृत",
+      "evidence": "FACT",
+      "source": "BHWP:टीका (\"संस्कृत में\")"
+    },
+    {
+      "id": "devanagari",
+      "category": "texts",
+      "en": "Devanagari script",
+      "hi": "देवनागरी",
+      "bho": "देवनागरी",
+      "evidence": "FACT",
+      "source": "SV-UI learn.glossaryRowBody"
+    },
+    {
+      "id": "arth",
+      "category": "texts",
+      "en": "meaning",
+      "hi": "अर्थ",
+      "bho": "अर्थ",
+      "bhoAlt": [
+        "अरथ",
+        "मतलब"
+      ],
+      "evidence": "FACT",
+      "source": "SV-UI glossary.meaning (bho अर्थ); SV-UI naamkaran.noMeaning bho (\"अरथ\"); BHWP:छठ",
+      "ownerQuestion": 21
+    },
+    {
+      "id": "vyakhya",
+      "category": "texts",
+      "en": "explanation",
+      "hi": "व्याख्या",
+      "bho": "व्याख्या",
+      "evidence": "FACT",
+      "source": "SV-UI common.explanation"
+    },
+    {
+      "id": "lipyantaran",
+      "category": "texts",
+      "en": "transliteration (Roman)",
+      "hi": "लिप्यंतरण",
+      "bho": "रोमन में",
+      "hiAlt": [
+        "रोमन में"
+      ],
+      "bhoAlt": [
+        "लिप्यंतरन"
+      ],
+      "evidence": "INFERENCE",
+      "source": "SV-UI glossary.searchPlaceholder (\"देवनागरी भा रोमन में\")"
+    },
+    {
+      "id": "svara",
+      "category": "texts",
+      "en": "Vedic accent marks (svara)",
+      "hi": "स्वर चिह्न",
+      "bho": "स्वर चिह्न",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "uchcharan",
+      "category": "texts",
+      "en": "pronunciation",
+      "hi": "उच्चारण",
+      "bho": "उच्चारन",
+      "bhoAlt": [
+        "उच्चारण"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT",
+      "note": "ण→न in an everyday word (Shubhvela convention: परिनाम, कारन)"
+    },
+    {
+      "id": "vrat",
+      "category": "vrat-festival",
+      "en": "vow / fast (vrata)",
+      "hi": "व्रत",
+      "bho": "बरत",
+      "evidence": "FACT",
+      "source": "SV-UI vrat.title (binding reuse)"
+    },
+    {
+      "id": "upvas",
+      "category": "vrat-festival",
+      "en": "fasting (upavasa)",
+      "hi": "उपवास",
+      "bho": "उपास",
+      "bhoAlt": [
+        "उपवास"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS glossary vrat bho (\"संकल्प भा उपास\"); BHWP:रामनउमी (\"उपासो\")"
+    },
+    {
+      "id": "paran",
+      "category": "vrat-festival",
+      "en": "breaking the fast (parana)",
+      "hi": "पारण",
+      "bho": "पारन",
+      "evidence": "FACT",
+      "source": "SV-UI today.paranaTomorrow (hi पारण, bho पारन)"
+    },
+    {
+      "id": "nirjala",
+      "category": "vrat-festival",
+      "en": "waterless fast (nirjala)",
+      "hi": "निर्जला",
+      "bho": "निर्जला",
+      "evidence": "FACT",
+      "source": "SV-UI vrat.name.ekadashi-nirjala"
+    },
+    {
+      "id": "phalahar",
+      "category": "vrat-festival",
+      "en": "fruit-only diet (phalahara)",
+      "hi": "फलाहार",
+      "bho": "फलाहार",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "parv",
+      "category": "vrat-festival",
+      "en": "festival (parva)",
+      "hi": "पर्व",
+      "bho": "पर्व",
+      "bhoAlt": [
+        "परब",
+        "तिहुआर"
+      ],
+      "evidence": "FACT",
+      "source": "SV-UI calendar.festival (bho पर्व); BHWP:छठ (\"परब\", \"तिहुआर\")"
+    },
+    {
+      "id": "tyohar",
+      "category": "vrat-festival",
+      "en": "festival (colloquial)",
+      "hi": "त्योहार",
+      "bho": "तिहुआर",
+      "bhoAlt": [
+        "तिहवार",
+        "तेहवार"
+      ],
+      "evidence": "FACT",
+      "source": "BHWP:छठ (\"तिहुआर\"); BHWP:जिउतिया (\"तेहवार\")"
+    },
+    {
+      "id": "ekadashi-vrat",
+      "category": "vrat-festival",
+      "en": "Ekadashi fast",
+      "hi": "एकादशी व्रत",
+      "bho": "एकादशी बरत",
+      "evidence": "FACT",
+      "source": "SV-UI vrat.family.ekadashi"
+    },
+    {
+      "id": "pradosh-vrat",
+      "category": "vrat-festival",
+      "en": "Pradosh vrat",
+      "hi": "प्रदोष व्रत",
+      "bho": "प्रदोष बरत",
+      "evidence": "FACT",
+      "source": "SV-UI vrat.family.pradosh"
+    },
+    {
+      "id": "purnima-vrat",
+      "category": "vrat-festival",
+      "en": "Purnima vrat",
+      "hi": "पूर्णिमा व्रत",
+      "bho": "पूर्णिमा बरत",
+      "evidence": "FACT",
+      "source": "SV-UI vrat.name.purnima",
+      "ownerQuestion": 1
+    },
+    {
+      "id": "sankashti",
+      "category": "vrat-festival",
+      "en": "Sankashti Chaturthi",
+      "hi": "संकष्टी चतुर्थी",
+      "bho": "संकष्टी चउथ",
+      "evidence": "FACT",
+      "source": "SV-UI vrat.family.sankashti"
+    },
+    {
+      "id": "sakat-chauth",
+      "category": "vrat-festival",
+      "en": "Sakat Chauth (Magha Krishna Chaturthi)",
+      "hi": "सकट चौथ",
+      "bho": "सकट चउथ",
+      "evidence": "INFERENCE",
+      "source": "SV-UI chauth pattern (चौथ → चउथ)"
+    },
+    {
+      "id": "karwa-chauth",
+      "category": "vrat-festival",
+      "en": "Karwa Chauth",
+      "hi": "करवा चौथ",
+      "bho": "करवा चउथ",
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")"
+    },
+    {
+      "id": "chhath",
+      "category": "vrat-festival",
+      "en": "Chhath",
+      "hi": "छठ",
+      "bho": "छठ",
+      "hiAlt": [
+        "छठ पूजा",
+        "डाला छठ"
+      ],
+      "bhoAlt": [
+        "छठ पूजा",
+        "डाला छठ"
+      ],
+      "evidence": "FACT",
+      "source": "SV-UI vrat.family.chhath; BHWP:छठ"
+    },
+    {
+      "id": "nahay-khay",
+      "category": "vrat-festival",
+      "en": "Nahay Khay (Chhath day 1)",
+      "hi": "नहाय खाय",
+      "bho": "नहाय खाय",
+      "evidence": "FACT",
+      "source": "SV-UI vrat.chhath.nahayKhay"
+    },
+    {
+      "id": "kharna",
+      "category": "vrat-festival",
+      "en": "Kharna (Chhath day 2)",
+      "hi": "खरना",
+      "bho": "खरना",
+      "evidence": "FACT",
+      "source": "SV-UI vrat.chhath.kharna"
+    },
+    {
+      "id": "sandhya-arghya",
+      "category": "vrat-festival",
+      "en": "evening arghya (Chhath day 3)",
+      "hi": "संध्या अर्घ्य",
+      "bho": "संझा अरघ",
+      "evidence": "FACT",
+      "source": "SV-UI vrat.chhath.sandhyaArghya"
+    },
+    {
+      "id": "usha-arghya",
+      "category": "vrat-festival",
+      "en": "dawn arghya (Chhath day 4)",
+      "hi": "उषा अर्घ्य",
+      "bho": "भोर के अरघ",
+      "evidence": "FACT",
+      "source": "SV-UI vrat.chhath.ushaArghya"
+    },
+    {
+      "id": "teej",
+      "category": "vrat-festival",
+      "en": "Teej",
+      "hi": "तीज",
+      "bho": "तीज",
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")"
+    },
+    {
+      "id": "hartalika-teej",
+      "category": "vrat-festival",
+      "en": "Hartalika Teej",
+      "hi": "हरतालिका तीज",
+      "bho": "हरतालिका तीज",
+      "bhoFolk": [
+        "बड़की तीज"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals; BHWP:हरतालिका तीज (\"बड़की तीज\")"
+    },
+    {
+      "id": "kajari-teej",
+      "category": "vrat-festival",
+      "en": "Kajari Teej",
+      "hi": "कजरी तीज",
+      "bho": "कजरी तीज",
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")"
+    },
+    {
+      "id": "hariyali-teej",
+      "category": "vrat-festival",
+      "en": "Hariyali Teej",
+      "hi": "हरियाली तीज",
+      "bho": "हरियाली तीज",
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")"
+    },
+    {
+      "id": "vat-savitri",
+      "category": "vrat-festival",
+      "en": "Vat Savitri",
+      "hi": "वट सावित्री",
+      "bho": "बरसाइत",
+      "bhoAlt": [
+        "वट सावित्री"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")"
+    },
+    {
+      "id": "jitiya",
+      "category": "vrat-festival",
+      "en": "Jivitputrika (Jitiya)",
+      "hi": "जितिया",
+      "bho": "जिउतिया",
+      "hiAlt": [
+        "जीवित्पुत्रिका"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals; BHWP:जिउतिया"
+    },
+    {
+      "id": "ahoi-ashtami",
+      "category": "vrat-festival",
+      "en": "Ahoi Ashtami",
+      "hi": "अहोई अष्टमी",
+      "bho": "अहोई अष्टमी",
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")"
+    },
+    {
+      "id": "navratri",
+      "category": "vrat-festival",
+      "en": "Navratri",
+      "hi": "नवरात्रि",
+      "bho": "नवरात्र",
+      "bhoAlt": [
+        "नवरात"
+      ],
+      "bhoFolk": [
+        "नवरातर"
+      ],
+      "evidence": "FACT",
+      "source": "SV-UI vrat.family.navratri (bho नवरात्र); SV-CORPUS festivals (bho नवरात); BHWP:पितरपख (नवरातर)",
+      "ownerQuestion": 2
+    },
+    {
+      "id": "kanya-pujan",
+      "category": "vrat-festival",
+      "en": "worship of young girls (kanya-pujana)",
+      "hi": "कन्या पूजन",
+      "bho": "कन्या पूजन",
+      "bhoFolk": [
+        "कुमारी भोजन"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "akhand-jyoti",
+      "category": "vrat-festival",
+      "en": "unbroken lamp (akhanda-jyoti)",
+      "hi": "अखंड ज्योति",
+      "bho": "अखंड ज्योति",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "dussehra",
+      "category": "vrat-festival",
+      "en": "Dussehra (Vijaya Dashami)",
+      "hi": "दशहरा",
+      "bho": "दसहरा",
+      "hiAlt": [
+        "विजयादशमी"
+      ],
+      "bhoAlt": [
+        "विजयादशमी"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")"
+    },
+    {
+      "id": "dhanteras",
+      "category": "vrat-festival",
+      "en": "Dhanteras",
+      "hi": "धनतेरस",
+      "bho": "धनतेरस",
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")"
+    },
+    {
+      "id": "diwali",
+      "category": "vrat-festival",
+      "en": "Diwali (Lakshmi Puja)",
+      "hi": "दीपावली",
+      "bho": "दियरी",
+      "hiAlt": [
+        "दिवाली"
+      ],
+      "bhoAlt": [
+        "दिवाली",
+        "दीपावली"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals diwali bho (\"दियरी (दिवाली, लक्ष्मी पूजा)\")"
+    },
+    {
+      "id": "lakshmi-puja",
+      "category": "vrat-festival",
+      "en": "Lakshmi puja (Diwali night)",
+      "hi": "लक्ष्मी पूजा",
+      "bho": "लक्ष्मी पूजा",
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals diwali"
+    },
+    {
+      "id": "govardhan",
+      "category": "vrat-festival",
+      "en": "Govardhan Puja (Annakut)",
+      "hi": "गोवर्धन पूजा",
+      "bho": "गोवर्धन पूजा",
+      "hiAlt": [
+        "अन्नकूट"
+      ],
+      "bhoFolk": [
+        "गोधन"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals; BHWP:छठ (\"गोधना कुटाला\")"
+    },
+    {
+      "id": "bhai-dooj",
+      "category": "vrat-festival",
+      "en": "Bhai Dooj",
+      "hi": "भाई दूज",
+      "bho": "भइया दूज",
+      "bhoFolk": [
+        "भाई दुइज"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals; BHWP:छठ (\"भाई दुइज\")"
+    },
+    {
+      "id": "dev-deepawali",
+      "category": "vrat-festival",
+      "en": "Dev Deepawali (Kartik Purnima)",
+      "hi": "देव दीपावली",
+      "bho": "देव दीपावली",
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")"
+    },
+    {
+      "id": "kartik-snan",
+      "category": "vrat-festival",
+      "en": "Kartik month bathing vow",
+      "hi": "कार्तिक स्नान",
+      "bho": "कातिक नहान",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "makar-sankranti",
+      "category": "vrat-festival",
+      "en": "Makar Sankranti (Khichdi)",
+      "hi": "मकर संक्रांति",
+      "bho": "खिचड़ी",
+      "hiAlt": [
+        "खिचड़ी"
+      ],
+      "bhoAlt": [
+        "मकर संक्रांति"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")"
+    },
+    {
+      "id": "vasant-panchami",
+      "category": "vrat-festival",
+      "en": "Vasant Panchami (Saraswati Puja)",
+      "hi": "वसंत पंचमी",
+      "bho": "बसंत पंचमी",
+      "hiAlt": [
+        "सरस्वती पूजा"
+      ],
+      "bhoAlt": [
+        "सरसती पूजा"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")"
+    },
+    {
+      "id": "maha-shivaratri",
+      "category": "vrat-festival",
+      "en": "Maha Shivaratri",
+      "hi": "महाशिवरात्रि",
+      "bho": "महाशिवरात्रि",
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")"
+    },
+    {
+      "id": "holika-dahan",
+      "category": "vrat-festival",
+      "en": "Holika Dahan",
+      "hi": "होलिका दहन",
+      "bho": "सम्मत",
+      "bhoAlt": [
+        "होलिका दहन"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")"
+    },
+    {
+      "id": "holi",
+      "category": "vrat-festival",
+      "en": "Holi",
+      "hi": "होली",
+      "bho": "होली",
+      "bhoFolk": [
+        "फगुआ"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals; BHWP:लोक संगीत (\"होली (फगुआ)\")"
+    },
+    {
+      "id": "ram-navami",
+      "category": "vrat-festival",
+      "en": "Rama Navami",
+      "hi": "राम नवमी",
+      "bho": "रामनवमी",
+      "bhoFolk": [
+        "रामनउमी"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (bho रामनवमी); BHWP:रामनउमी"
+    },
+    {
+      "id": "akshaya-tritiya",
+      "category": "vrat-festival",
+      "en": "Akshaya Tritiya",
+      "hi": "अक्षय तृतीया",
+      "bho": "अखतीज",
+      "bhoAlt": [
+        "अक्षय तृतीया"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")"
+    },
+    {
+      "id": "ganga-dussehra",
+      "category": "vrat-festival",
+      "en": "Ganga Dussehra",
+      "hi": "गंगा दशहरा",
+      "bho": "गंगा दसहरा",
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")"
+    },
+    {
+      "id": "nirjala-ekadashi",
+      "category": "vrat-festival",
+      "en": "Nirjala Ekadashi",
+      "hi": "निर्जला एकादशी",
+      "bho": "निर्जला एकादशी",
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")"
+    },
+    {
+      "id": "guru-purnima",
+      "category": "vrat-festival",
+      "en": "Guru Purnima",
+      "hi": "गुरु पूर्णिमा",
+      "bho": "गुरु पूर्णिमा",
+      "bhoAlt": [
+        "गुरु पुर्निमा"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")",
+      "ownerQuestion": 1
+    },
+    {
+      "id": "shravan-somvar",
+      "category": "vrat-festival",
+      "en": "Shravan Somvar",
+      "hi": "श्रावण सोमवार",
+      "bho": "सावन सोमारी",
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")"
+    },
+    {
+      "id": "nag-panchami",
+      "category": "vrat-festival",
+      "en": "Nag Panchami",
+      "hi": "नाग पंचमी",
+      "bho": "नाग पंचमी",
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")"
+    },
+    {
+      "id": "raksha-bandhan",
+      "category": "vrat-festival",
+      "en": "Raksha Bandhan",
+      "hi": "रक्षाबंधन",
+      "bho": "राखी",
+      "hiAlt": [
+        "राखी"
+      ],
+      "bhoAlt": [
+        "रक्षाबंधन"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")"
+    },
+    {
+      "id": "janmashtami",
+      "category": "vrat-festival",
+      "en": "Krishna Janmashtami",
+      "hi": "कृष्ण जन्माष्टमी",
+      "bho": "कृष्ण जन्माष्टमी",
+      "hiAlt": [
+        "जन्माष्टमी"
+      ],
+      "bhoAlt": [
+        "जन्माष्टमी"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")"
+    },
+    {
+      "id": "ganesh-chaturthi",
+      "category": "vrat-festival",
+      "en": "Ganesh Chaturthi",
+      "hi": "गणेश चतुर्थी",
+      "bho": "गनेस चउथ",
+      "bhoAlt": [
+        "गणेश चतुर्थी"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")",
+      "ownerQuestion": 4
+    },
+    {
+      "id": "rishi-panchami",
+      "category": "vrat-festival",
+      "en": "Rishi Panchami",
+      "hi": "ऋषि पंचमी",
+      "bho": "ऋषि पंचमी",
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")"
+    },
+    {
+      "id": "anant-chaturdashi",
+      "category": "vrat-festival",
+      "en": "Anant Chaturdashi",
+      "hi": "अनंत चतुर्दशी",
+      "bho": "अनंत चतुर्दशी",
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")"
+    },
+    {
+      "id": "sharad-purnima",
+      "category": "vrat-festival",
+      "en": "Sharad Purnima (Kojagari)",
+      "hi": "शरद पूर्णिमा",
+      "bho": "सरद पुर्निमा",
+      "hiAlt": [
+        "कोजागरी"
+      ],
+      "bhoAlt": [
+        "शरद पूर्णिमा"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")",
+      "ownerQuestion": 1
+    },
+    {
+      "id": "solah-somvar",
+      "category": "vrat-festival",
+      "en": "sixteen-Monday vrat",
+      "hi": "सोलह सोमवार",
+      "bho": "सोरह सोमार",
+      "evidence": "INFERENCE",
+      "source": "BHWP:पितरपख (सोरह); SV-ENGINE सोमार"
+    },
+    {
+      "id": "mangalvar-vrat",
+      "category": "vrat-festival",
+      "en": "Tuesday vrat (Hanuman)",
+      "hi": "मंगलवार व्रत",
+      "bho": "मंगर के बरत",
+      "evidence": "INFERENCE",
+      "source": "SV-ENGINE weekday; SV-UI vrat"
+    },
+    {
+      "id": "brihaspativar-vrat",
+      "category": "vrat-festival",
+      "en": "Thursday vrat (Brihaspati)",
+      "hi": "बृहस्पतिवार व्रत",
+      "bho": "बियफे के बरत",
+      "hiAlt": [
+        "गुरुवार व्रत"
+      ],
+      "evidence": "INFERENCE",
+      "source": "SV-ENGINE weekday"
+    },
+    {
+      "id": "shanivar-vrat",
+      "category": "vrat-festival",
+      "en": "Saturday vrat (Shani)",
+      "hi": "शनिवार व्रत",
+      "bho": "सनिचर के बरत",
+      "evidence": "INFERENCE",
+      "source": "SV-ENGINE weekday"
+    },
+    {
+      "id": "santoshi-mata-vrat",
+      "category": "vrat-festival",
+      "en": "Santoshi Mata Friday vrat",
+      "hi": "संतोषी माता व्रत",
+      "bho": "संतोषी माता बरत",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "somvati-amavasya",
+      "category": "vrat-festival",
+      "en": "Somvati Amavasya",
+      "hi": "सोमवती अमावस्या",
+      "bho": "सोमवती अमावस",
+      "bhoAlt": [
+        "सोमवती अमावस्या"
+      ],
+      "evidence": "INFERENCE",
+      "source": "SV-CORPUS festivals pattern (मौनी अमावस); AGENT"
+    },
+    {
+      "id": "sheetala-ashtami",
+      "category": "vrat-festival",
+      "en": "Sheetala Ashtami (Basoda)",
+      "hi": "शीतला अष्टमी",
+      "bho": "शीतला अष्टमी",
+      "hiAlt": [
+        "बसौड़ा"
+      ],
+      "bhoAlt": [
+        "बसिऔरा"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")"
+    },
+    {
+      "id": "gangaur",
+      "category": "vrat-festival",
+      "en": "Gangaur",
+      "hi": "गणगौर",
+      "bho": "गणगौर",
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")"
+    },
+    {
+      "id": "vishwakarma-puja",
+      "category": "vrat-festival",
+      "en": "Vishwakarma Puja",
+      "hi": "विश्वकर्मा पूजा",
+      "bho": "विश्वकर्मा पूजा",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "chitragupta-puja",
+      "category": "vrat-festival",
+      "en": "Chitragupta Puja",
+      "hi": "चित्रगुप्त पूजा",
+      "bho": "चित्रगुप्त पूजा",
+      "bhoFolk": [
+        "दवात पूजा"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "lalahi-chhath",
+      "category": "vrat-festival",
+      "en": "Hal Shashthi (Lalahi Chhath)",
+      "hi": "हल षष्ठी",
+      "bho": "ललही छठ",
+      "hiAlt": [
+        "ललही छठ"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")"
+    },
+    {
+      "id": "satuan",
+      "category": "vrat-festival",
+      "en": "Satuan (Mesha Sankranti)",
+      "hi": "सतुआन",
+      "bho": "सतुआन",
+      "evidence": "FACT",
+      "source": "BHWP:तिथि (\"खिचड़ी, सतुआन आ बहुरा\")"
+    },
+    {
+      "id": "mauni-amavasya",
+      "category": "vrat-festival",
+      "en": "Mauni Amavasya",
+      "hi": "मौनी अमावस्या",
+      "bho": "मौनी अमावस",
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")"
+    },
+    {
+      "id": "dev-uthani-ekadashi",
+      "category": "vrat-festival",
+      "en": "Dev Uthani Ekadashi (Prabodhini)",
+      "hi": "देवउठनी एकादशी",
+      "bho": "देवउठान एकादशी",
+      "bhoAlt": [
+        "देवउठनी एकादशी"
+      ],
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (bho देवउठान); SV-UI vrat.name.ekadashi-devutthana (bho देवउठनी)"
+    },
+    {
+      "id": "devshayani-ekadashi",
+      "category": "vrat-festival",
+      "en": "Devshayani Ekadashi",
+      "hi": "देवशयनी एकादशी",
+      "bho": "देवशयनी एकादशी",
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")"
+    },
+    {
+      "id": "mokshada-ekadashi",
+      "category": "vrat-festival",
+      "en": "Mokshada Ekadashi (Gita Jayanti)",
+      "hi": "मोक्षदा एकादशी",
+      "bho": "मोक्षदा एकादशी",
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals (hi, bho names; review:\"draft\")"
+    },
+    {
+      "id": "pitru-paksha-shraddha",
+      "category": "vrat-festival",
+      "en": "Pitru Paksha shraddha days",
+      "hi": "पितृ पक्ष श्राद्ध",
+      "bho": "पितर पख श्राद्ध",
+      "evidence": "FACT",
+      "source": "SV-CORPUS festivals pitru-paksha bho (\"पितर पख सुरुआत\")"
+    },
+    {
+      "id": "rudrabhishek",
+      "category": "shanti",
+      "en": "Rudrabhisheka",
+      "hi": "रुद्राभिषेक",
+      "bho": "रुद्राभिषेक",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "mahamrityunjay-jaap",
+      "category": "shanti",
+      "en": "Mahamrityunjaya japa",
+      "hi": "महामृत्युंजय जाप",
+      "bho": "महामृत्युंजय जाप",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "navagraha-shanti",
+      "category": "shanti",
+      "en": "pacification of the nine planets",
+      "hi": "नवग्रह शांति",
+      "bho": "नवग्रह शांति",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "mool-shanti",
+      "category": "shanti",
+      "en": "Mula / Gandamula shanti",
+      "hi": "मूल शांति",
+      "bho": "मूल शांति",
+      "hiAlt": [
+        "गंडमूल शांति"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "shanti",
+      "category": "shanti",
+      "en": "pacificatory rite (shanti)",
+      "hi": "शांति",
+      "bho": "शांति",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "dosh",
+      "category": "shanti",
+      "en": "astrological affliction (dosha; described as tradition, no outcome claims)",
+      "hi": "दोष",
+      "bho": "दोष",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "parthiv-shivling",
+      "category": "shanti",
+      "en": "clay Shiva linga (parthiva)",
+      "hi": "पार्थिव शिवलिंग",
+      "bho": "पार्थिव शिवलिंग",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "dravya",
+      "category": "shanti",
+      "en": "abhisheka substance (dravya)",
+      "hi": "द्रव्य",
+      "bho": "द्रव्य",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "akhand-path",
+      "category": "shanti",
+      "en": "unbroken recitation (akhanda-patha)",
+      "hi": "अखंड पाठ",
+      "bho": "अखंड पाठ",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "varshaganth-havan",
+      "category": "shanti",
+      "en": "birthday havan (varsha-granthi)",
+      "hi": "वर्षगांठ हवन",
+      "bho": "जनमदिन के हवन",
+      "hiAlt": [
+        "वर्षग्रंथि"
+      ],
+      "bhoAlt": [
+        "वर्षगांठ हवन"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "shashti-purti",
+      "category": "shanti",
+      "en": "sixtieth-year rite (shashti-purti)",
+      "hi": "षष्टिपूर्ति",
+      "bho": "षष्टिपूर्ति",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "mala-108",
+      "category": "shanti",
+      "en": "one round of 108 (mala)",
+      "hi": "एक माला (108)",
+      "bho": "एक माला (108)",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "sankalp-shanti",
+      "category": "shanti",
+      "en": "sankalpa for a shanti rite",
+      "hi": "शांति संकल्प",
+      "bho": "शांति संकल्प",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "site-name",
+      "category": "ui",
+      "en": "Pandit Bano",
+      "hi": "पंडित बनो",
+      "bho": "पंडित बनीं",
+      "evidence": "FACT",
+      "source": "BRIEF 1 (binding); imperative form confirmed by WP-GRAMMAR politeness table ([rau'ā] āīñ / bōlīñ) and the -ीं imperatives of bh.wikipedia UI (करीं, देखीं, खोजीं, बनाईं) and Shubhvela UI (करीं, सीखीं, खोजीं)",
+      "note": "Roman: \"Pandit Banin\"",
+      "ownerQuestion": 13
+    },
+    {
+      "id": "tagline",
+      "category": "ui",
+      "en": "Mantras, procedures and kathas for every family occasion",
+      "hi": "हर अवसर के मंत्र, विधि और कथा",
+      "bho": "हर अवसर के मंत्र, विधि आ कथा",
+      "evidence": "INFERENCE",
+      "source": "AGENT",
+      "ownerQuestion": 27
+    },
+    {
+      "id": "nav-learn",
+      "category": "ui",
+      "en": "Learn",
+      "hi": "सीखें",
+      "bho": "सीखीं",
+      "evidence": "FACT",
+      "source": "SV-UI learn.title / tabs.learn"
+    },
+    {
+      "id": "nav-occasions",
+      "category": "ui",
+      "en": "Occasions",
+      "hi": "अवसर",
+      "bho": "अवसर",
+      "bhoAlt": [
+        "मौका"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT",
+      "ownerQuestion": 25
+    },
+    {
+      "id": "nav-texts",
+      "category": "ui",
+      "en": "Mantras & texts",
+      "hi": "मंत्र और पाठ",
+      "bho": "मंत्र आ पाठ",
+      "evidence": "INFERENCE",
+      "source": "SV-UI pattern (और → आ)"
+    },
+    {
+      "id": "nav-kathas",
+      "category": "ui",
+      "en": "Kathas",
+      "hi": "कथाएँ",
+      "bho": "कथा",
+      "evidence": "INFERENCE",
+      "source": "AGENT",
+      "note": "Bhojpuri plural stays unmarked or takes सभ: कथा सभ"
+    },
+    {
+      "id": "nav-glossary",
+      "category": "ui",
+      "en": "Glossary",
+      "hi": "शब्दावली",
+      "bho": "शब्दावली",
+      "hiAlt": [
+        "शब्दकोश"
+      ],
+      "bhoAlt": [
+        "शब्दकोश"
+      ],
+      "evidence": "FACT",
+      "source": "SV-UI glossary.title / common.glossary"
+    },
+    {
+      "id": "nav-search",
+      "category": "ui",
+      "en": "Search",
+      "hi": "खोजें",
+      "bho": "खोजीं",
+      "evidence": "FACT",
+      "source": "SV-UI common.search"
+    },
+    {
+      "id": "nav-sources",
+      "category": "ui",
+      "en": "Sources",
+      "hi": "स्रोत",
+      "bho": "स्रोत",
+      "evidence": "FACT",
+      "source": "SV-UI common.source / muhurat.sources"
+    },
+    {
+      "id": "nav-about",
+      "category": "ui",
+      "en": "About",
+      "hi": "इस साइट के बारे में",
+      "bho": "एह साइट के बारे में",
+      "evidence": "FACT",
+      "source": "SV-UI about.title (\"ऐप के बारे में\")"
+    },
+    {
+      "id": "nav-home",
+      "category": "ui",
+      "en": "Home",
+      "hi": "मुखपृष्ठ",
+      "bho": "पहिला पन्ना",
+      "bhoAlt": [
+        "मुख पन्ना"
+      ],
+      "evidence": "INFERENCE",
+      "source": "BHWP site UI uses पन्ना for page (\"एह पन्ना पर\")"
+    },
+    {
+      "id": "pothi-mode",
+      "category": "ui",
+      "en": "Pothi mode (clean large-type sequence)",
+      "hi": "पोथी रूप",
+      "bho": "पोथी रूप",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "listen",
+      "category": "ui",
+      "en": "Listen",
+      "hi": "सुनें",
+      "bho": "सुनीं",
+      "evidence": "FACT",
+      "source": "SV-UI tts.listen"
+    },
+    {
+      "id": "stop",
+      "category": "ui",
+      "en": "Stop",
+      "hi": "रोकें",
+      "bho": "रोकीं",
+      "evidence": "FACT",
+      "source": "SV-UI tts.stop"
+    },
+    {
+      "id": "machine-voice-note",
+      "category": "honesty",
+      "en": "approximate machine voice — Vedic svara not reproduced",
+      "hi": "मशीन की आवाज़ (लगभग) — वैदिक स्वर नहीं",
+      "bho": "मशीन के आवाज (लगभग) — वैदिक स्वर नइखे",
+      "evidence": "INFERENCE",
+      "source": "SV-UI tts.hindiVoice (आवाज़ / आवाज), common.approx (लगभग)"
+    },
+    {
+      "id": "no-hindi-voice",
+      "category": "honesty",
+      "en": "This browser has no Hindi voice",
+      "hi": "इस ब्राउज़र में हिंदी आवाज़ नहीं है",
+      "bho": "एह ब्राउजर में हिंदी आवाज नइखे",
+      "evidence": "INFERENCE",
+      "source": "SV-UI tts.noVoice pattern"
+    },
+    {
+      "id": "tradition-holds",
+      "category": "honesty",
+      "en": "tradition holds",
+      "hi": "परंपरा में माना जाता है",
+      "bho": "परंपरा में मानल जाला",
+      "evidence": "FACT",
+      "source": "BRIEF 1 (binding wording)"
+    },
+    {
+      "id": "scripture-says",
+      "category": "honesty",
+      "en": "the text says",
+      "hi": "शास्त्रों में कहा गया है",
+      "bho": "शास्त्र में कहल गइल बा",
+      "evidence": "FACT",
+      "source": "SV-DOC 4 (शास्त्रों में / शास्त्र में)"
+    },
+    {
+      "id": "translation-note-bho",
+      "category": "honesty",
+      "en": "This translation was written by the site's authors and is awaiting native review — corrections via GitHub",
+      "hi": "यह अनुवाद साइट के लेखकों ने लिखा है और मूल-भाषी समीक्षा की प्रतीक्षा में है — सुधार GitHub पर",
+      "bho": "ई अनुवाद साइट के लेखक लोग लिखले बाड़न; ई भोजपुरी जाने वाला लोग के समीक्षा के बाट जोहत बा — सुधार GitHub पर",
+      "evidence": "INFERENCE",
+      "source": "BRIEF 6.5 wording; SV pattern \"बाट जोहे\" (muhurat-medical-procedure bho); respectful plural बाड़न (brief 6.4)"
+    },
+    {
+      "id": "written-by-authors",
+      "category": "honesty",
+      "en": "Written by the site's authors from the sources listed below",
+      "hi": "साइट के लेखकों ने नीचे दिए स्रोतों से लिखा",
+      "bho": "साइट के लेखक लोग नीचे दिहल स्रोत से लिखले बाड़न",
+      "evidence": "INFERENCE",
+      "source": "BRIEF 6.5"
+    },
+    {
+      "id": "stored-locally",
+      "category": "honesty",
+      "en": "stored in this browser only",
+      "hi": "केवल इसी ब्राउज़र में सहेजा गया",
+      "bho": "खाली एही ब्राउजर में सहेजल",
+      "evidence": "INFERENCE",
+      "source": "SV-UI common.save (सहेजें / सहेजीं), muhurat.dayOnly (केवल / खाली)"
+    },
+    {
+      "id": "no-data-collected",
+      "category": "honesty",
+      "en": "No data is collected",
+      "hi": "कोई डेटा नहीं लिया जाता",
+      "bho": "कवनो डेटा ना लिहल जाला",
+      "evidence": "INFERENCE",
+      "source": "SV-UI pattern (कोई नहीं / कवनो ना)"
+    },
+    {
+      "id": "svara-not-shown",
+      "category": "honesty",
+      "en": "svara marks not shown",
+      "hi": "स्वर चिह्न नहीं दिखाए गए",
+      "bho": "स्वर चिह्न ना देखावल गइल",
+      "evidence": "INFERENCE",
+      "source": "SV-UI pattern (दिखाया गया / देखावल)"
+    },
+    {
+      "id": "approx",
+      "category": "ui",
+      "en": "approx.",
+      "hi": "लगभग",
+      "bho": "लगभग",
+      "evidence": "FACT",
+      "source": "SV-UI common.approx"
+    },
+    {
+      "id": "why",
+      "category": "ui",
+      "en": "Why?",
+      "hi": "क्यों?",
+      "bho": "काहे?",
+      "evidence": "FACT",
+      "source": "SV-UI common.why"
+    },
+    {
+      "id": "next",
+      "category": "ui",
+      "en": "Next",
+      "hi": "आगे",
+      "bho": "आगे",
+      "evidence": "FACT",
+      "source": "SV-UI common.next"
+    },
+    {
+      "id": "back",
+      "category": "ui",
+      "en": "Back",
+      "hi": "पीछे",
+      "bho": "पाछे",
+      "evidence": "FACT",
+      "source": "SV-UI common.back"
+    },
+    {
+      "id": "close",
+      "category": "ui",
+      "en": "Close",
+      "hi": "बंद करें",
+      "bho": "बंद करीं",
+      "evidence": "FACT",
+      "source": "SV-UI common.close"
+    },
+    {
+      "id": "save",
+      "category": "ui",
+      "en": "Save",
+      "hi": "सहेजें",
+      "bho": "सहेजीं",
+      "evidence": "FACT",
+      "source": "SV-UI common.save"
+    },
+    {
+      "id": "print",
+      "category": "ui",
+      "en": "Print",
+      "hi": "छापें",
+      "bho": "छापीं",
+      "evidence": "FACT",
+      "source": "BHWP site UI (\"छापीं/निर्यात करीं\"); SV imperative pattern"
+    },
+    {
+      "id": "save-offline",
+      "category": "ui",
+      "en": "Save this occasion offline",
+      "hi": "यह अवसर ऑफ़लाइन सहेजें",
+      "bho": "ई अवसर ऑफलाइन सहेजीं",
+      "evidence": "INFERENCE",
+      "source": "SV-UI onboarding.welcomeBody (ऑफलाइन, no nukta in bho)"
+    },
+    {
+      "id": "language",
+      "category": "ui",
+      "en": "Language",
+      "hi": "भाषा",
+      "bho": "भाषा",
+      "evidence": "FACT",
+      "source": "SV-UI settings"
+    },
+    {
+      "id": "hindi",
+      "category": "ui",
+      "en": "Hindi",
+      "hi": "हिंदी",
+      "bho": "हिंदी",
+      "evidence": "FACT",
+      "source": "SV-UI tts.language.hi"
+    },
+    {
+      "id": "english",
+      "category": "ui",
+      "en": "English",
+      "hi": "अंग्रेज़ी",
+      "bho": "अंगरेजी",
+      "evidence": "FACT",
+      "source": "SV-UI tts.language.en"
+    },
+    {
+      "id": "bhojpuri",
+      "category": "ui",
+      "en": "Bhojpuri",
+      "hi": "भोजपुरी",
+      "bho": "भोजपुरी",
+      "evidence": "FACT",
+      "source": "SV-UI tts.language.bho"
+    },
+    {
+      "id": "theme",
+      "category": "ui",
+      "en": "Theme",
+      "hi": "थीम",
+      "bho": "थीम",
+      "evidence": "FACT",
+      "source": "SV-UI settings.theme (binding reuse)"
+    },
+    {
+      "id": "theme-system",
+      "category": "ui",
+      "en": "System",
+      "hi": "सिस्टम",
+      "bho": "सिस्टम",
+      "evidence": "FACT",
+      "source": "SV-UI settings.theme.system"
+    },
+    {
+      "id": "theme-light",
+      "category": "ui",
+      "en": "Light",
+      "hi": "हल्की",
+      "bho": "हलुक",
+      "evidence": "FACT",
+      "source": "SV-UI settings.theme.light (hi feminine, agreeing with थीम)"
+    },
+    {
+      "id": "theme-dark",
+      "category": "ui",
+      "en": "Dark",
+      "hi": "गहरी",
+      "bho": "गहिर",
+      "evidence": "FACT",
+      "source": "SV-UI settings.theme.dark"
+    },
+    {
+      "id": "transliteration-toggle",
+      "category": "ui",
+      "en": "Roman / IAST",
+      "hi": "रोमन / IAST",
+      "bho": "रोमन / IAST",
+      "evidence": "INFERENCE",
+      "source": "SV-UI glossary.searchPlaceholder"
+    },
+    {
+      "id": "word-split",
+      "category": "ui",
+      "en": "Word split",
+      "hi": "पदच्छेद",
+      "bho": "पदच्छेद",
+      "hiAlt": [
+        "शब्द-शब्द अर्थ"
+      ],
+      "bhoAlt": [
+        "शब्द-शब्द अरथ"
+      ],
+      "evidence": "INFERENCE",
+      "source": "AGENT",
+      "ownerQuestion": 21
+    },
+    {
+      "id": "steps",
+      "category": "ui",
+      "en": "Steps",
+      "hi": "चरण",
+      "bho": "चरन",
+      "evidence": "FACT",
+      "source": "SV-UI onboarding.step (hi चरण, bho चरन)"
+    },
+    {
+      "id": "step-n",
+      "category": "ui",
+      "en": "Step {n} of {total}",
+      "hi": "चरण {n} / {total}",
+      "bho": "चरन {n} / {total}",
+      "evidence": "FACT",
+      "source": "SV-UI onboarding.step"
+    },
+    {
+      "id": "checklist",
+      "category": "ui",
+      "en": "Samagri checklist",
+      "hi": "सामग्री सूची",
+      "bho": "सामग्री के सूची",
+      "evidence": "INFERENCE",
+      "source": "SV-UI vrat.unknown (\"सूची\")"
+    },
+    {
+      "id": "tick",
+      "category": "ui",
+      "en": "Done",
+      "hi": "हो गया",
+      "bho": "हो गइल",
+      "evidence": "FACT",
+      "source": "SV-UI common.done"
+    },
+    {
+      "id": "quiz",
+      "category": "ui",
+      "en": "Self-check quiz",
+      "hi": "स्व-जाँच प्रश्न",
+      "bho": "आपन जाँच (सवाल)",
+      "hiAlt": [
+        "प्रश्नोत्तरी"
+      ],
+      "evidence": "INFERENCE",
+      "source": "SV-UI pattern (जाँच, सवाल)"
+    },
+    {
+      "id": "lesson",
+      "category": "ui",
+      "en": "Lesson",
+      "hi": "पाठ",
+      "bho": "पाठ",
+      "evidence": "FACT",
+      "source": "SV-UI learn.lessonNumber"
+    },
+    {
+      "id": "level",
+      "category": "ui",
+      "en": "Level",
+      "hi": "स्तर",
+      "bho": "स्तर",
+      "evidence": "FACT",
+      "source": "SV-UI lesson.unlocksLevel"
+    },
+    {
+      "id": "progress",
+      "category": "ui",
+      "en": "{done} of {total} done",
+      "hi": "{total} में से {done} पूरे",
+      "bho": "{total} में से {done} पूरा",
+      "evidence": "FACT",
+      "source": "SV-UI learn.progress"
+    },
+    {
+      "id": "pandit-says",
+      "category": "ui",
+      "en": "The pandit says",
+      "hi": "पंडित जी कहते हैं",
+      "bho": "पंडित जी कहेलन",
+      "evidence": "INFERENCE",
+      "source": "AGENT (register: respectful plural)"
+    },
+    {
+      "id": "action",
+      "category": "ui",
+      "en": "Action",
+      "hi": "क्रिया",
+      "bho": "काम",
+      "hiAlt": [
+        "कार्य"
+      ],
+      "bhoAlt": [
+        "क्रिया"
+      ],
+      "evidence": "INFERENCE",
+      "source": "SV-UI muhurat.activity (hi कार्य, bho काम)"
+    },
+    {
+      "id": "who-does-what",
+      "category": "ui",
+      "en": "Who does what",
+      "hi": "कौन क्या करता है",
+      "bho": "के का करेला",
+      "evidence": "INFERENCE",
+      "source": "SV-UI today.whatToDo (क्या करें / का करीं)"
+    },
+    {
+      "id": "when",
+      "category": "ui",
+      "en": "When (muhurat rules)",
+      "hi": "कब (मुहूर्त)",
+      "bho": "कब (मुहूर्त)",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "regional-variants",
+      "category": "ui",
+      "en": "Regional variants",
+      "hi": "क्षेत्रीय भेद",
+      "bho": "इलाका के भेद",
+      "bhoAlt": [
+        "क्षेत्रीय भेद"
+      ],
+      "evidence": "INFERENCE",
+      "source": "BHWP:छठ (\"इलाका\")"
+    },
+    {
+      "id": "faq",
+      "category": "ui",
+      "en": "Questions people ask",
+      "hi": "अक्सर पूछे जाने वाले प्रश्न",
+      "bho": "अक्सर पूछल जाए वाला सवाल",
+      "evidence": "INFERENCE",
+      "source": "SV-UI pattern (अक्सर; पूछल)"
+    },
+    {
+      "id": "overview",
+      "category": "ui",
+      "en": "Overview",
+      "hi": "परिचय",
+      "bho": "परिचय",
+      "evidence": "FACT",
+      "source": "BHWP:बियाह (\"परिचय\" section heading)"
+    },
+    {
+      "id": "corrections",
+      "category": "ui",
+      "en": "Corrections (GitHub issue)",
+      "hi": "सुधार भेजें (GitHub)",
+      "bho": "सुधार भेजीं (GitHub)",
+      "evidence": "INFERENCE",
+      "source": "AGENT"
+    },
+    {
+      "id": "privacy",
+      "category": "ui",
+      "en": "Privacy",
+      "hi": "गोपनीयता",
+      "bho": "गोपनीयता",
+      "evidence": "FACT",
+      "source": "BHWP site UI (\"गोपनीयता नीति\")"
+    },
+    {
+      "id": "external-link",
+      "category": "ui",
+      "en": "external link",
+      "hi": "बाहरी कड़ी",
+      "bho": "बाहरी कड़ी",
+      "evidence": "INFERENCE",
+      "source": "BHWP site UI (\"कड़ी संपादित करीं\")"
+    },
+    {
+      "id": "shubhvela-link",
+      "category": "ui",
+      "en": "Dates and muhurat on Shubhvela",
+      "hi": "तिथि और मुहूर्त शुभवेला पर",
+      "bho": "तिथि आ मुहूर्त शुभवेला पर",
+      "evidence": "FACT",
+      "source": "SV-UI common.appName (शुभवेला)"
+    },
+    {
+      "id": "count-terms",
+      "category": "ui",
+      "en": "{count} terms",
+      "hi": "{count} शब्द",
+      "bho": "{count} शब्द",
+      "evidence": "FACT",
+      "source": "SV-UI glossary.count"
+    },
+    {
+      "id": "no-results",
+      "category": "ui",
+      "en": "No term matches \"{query}\"",
+      "hi": "“{query}” से कोई शब्द नहीं मिला",
+      "bho": "“{query}” से कवनो शब्द ना मिलल",
+      "evidence": "FACT",
+      "source": "SV-UI glossary.noResults"
+    },
+    {
+      "id": "loading",
+      "category": "ui",
+      "en": "Loading…",
+      "hi": "लोड हो रहा है…",
+      "bho": "लोड हो रहल बा…",
+      "evidence": "INFERENCE",
+      "source": "SV-UI common.computing pattern"
+    },
+    {
+      "id": "update-available",
+      "category": "ui",
+      "en": "A new version is ready — reload",
+      "hi": "नया संस्करण तैयार है — फिर से लोड करें",
+      "bho": "नया संस्करन तइयार बा — फेर लोड करीं",
+      "evidence": "INFERENCE",
+      "source": "SV-UI about.version (संस्करण / संस्करन); SV फेर"
+    },
+    {
+      "id": "offline-ready",
+      "category": "ui",
+      "en": "Saved for offline use",
+      "hi": "ऑफ़लाइन के लिए सहेजा गया",
+      "bho": "ऑफलाइन खातिर सहेजल गइल",
+      "evidence": "INFERENCE",
+      "source": "SV-UI muhurat.saved pattern"
+    }
+  ]
+}

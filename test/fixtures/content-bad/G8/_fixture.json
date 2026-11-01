@@ -1,0 +1,5 @@
+{
+  "base": "../../content-sample",
+  "expect": "G8",
+  "note": "Latin tokens in Hindi prose (and an unlinked source title) → FAIL"
+}

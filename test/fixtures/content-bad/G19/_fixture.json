@@ -1,0 +1,5 @@
+{
+  "base": "../../content-sample",
+  "expect": "G19",
+  "note": "reproduce:false → FAIL (owner decision §14)"
+}

@@ -1,0 +1,5 @@
+{
+  "base": "../../content-sample",
+  "expect": "G1",
+  "note": "authored iast key → unknown key FAIL"
+}

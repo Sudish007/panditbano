@@ -1,0 +1,15 @@
+{
+  "id": "vivah",
+  "definition": {
+    "hi": "सोलह संस्कारों में पंद्रहवाँ; वर-वधू का वैदिक विधि से मिलन, जिसका केंद्र सप्तपदी है।",
+    "en": "The fifteenth of the sixteen samskaras; the union of bride and groom by the Vedic procedure, centred on the saptapadi.",
+    "bho": "सोलह संस्कार में पंद्रहवाँ; दुलहा-दुलहिन के वैदिक विधि से मिलन, जेकर केंद्र सप्तपदी बा।"
+  },
+  "related": [
+    "saptapadi",
+    "kanyadaan"
+  ],
+  "occasions": [
+    "vivah"
+  ]
+}

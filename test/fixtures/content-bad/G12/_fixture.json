@@ -1,0 +1,5 @@
+{
+  "base": "../../content-sample",
+  "expect": "G12",
+  "note": "internal link to a page that does not exist → FAIL"
+}
