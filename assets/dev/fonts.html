@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="hi" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Devanagari rendering test — Pandit Bano fonts</title>
+<meta name="robots" content="noindex">
+<!--
+  design.md §6.5 test page. FEAT-102 copies this file to dist/_dev/fonts.html and rewrites the font
+  paths to the hashed dist URLs; tools/audit.py (FEAT-103) shoots it in both themes at 390 and 1440 and
+  checks document.fonts.check() per string. Each test string is rendered in BOTH faces at 17 px and 23 px;
+  every rendered <p> carries data-font="tiro|noto" and data-size="17|23" and data-test="<id>".
+  Colour literals here are the light/dark tokens of design.md §5.1 (this page is not shipped as site CSS).
+-->
+<style>
+  @font-face { font-family: "Tiro Devanagari Sanskrit"; src: url("../../fonts/tiro-devanagari-sanskrit/TiroDevanagariSanskrit-Regular.woff2") format("woff2"); font-weight: 400; font-display: block; }
+  @font-face { font-family: "Noto Sans Devanagari"; src: url("../../fonts/noto-sans-devanagari/NotoSansDevanagari-Regular.woff2") format("woff2"); font-weight: 400; font-display: block; }
+  @font-face { font-family: "Noto Sans Devanagari"; src: url("../../fonts/noto-sans-devanagari/NotoSansDevanagari-SemiBold.woff2") format("woff2"); font-weight: 600; font-display: block; }
+  @font-face { font-family: "Noto Sans"; src: url("../../fonts/noto-sans/NotoSans-Regular.woff2") format("woff2"); font-weight: 400; font-display: block; }
+  @font-face { font-family: "Noto Sans"; src: url("../../fonts/noto-sans/NotoSans-SemiBold.woff2") format("woff2"); font-weight: 600; font-display: block; }
+  :root { --paper:#F8ECD4; --surface:#FFFBF3; --ink:#3A2812; --ink-2:#75603F; --accent:#A65310; --hair:#DDCCA2; color-scheme: light; }
+  :root[data-theme="dark"] { --paper:#171209; --surface:#231B10; --ink:#F5ECDC; --ink-2:#C0B097; --accent:#E89A4A; --hair:#3D3222; color-scheme: dark; }
+  html { background: var(--paper); color: var(--ink); }
+  body { margin: 0; padding: clamp(16px, 3.5vw, 96px); font-family: "Noto Sans Devanagari", "Noto Sans", system-ui, sans-serif; font-size: 17px; line-height: 1.65; }
+  h1 { font-family: "Noto Sans Devanagari", "Noto Sans", sans-serif; font-weight: 600; font-size: 1.6em; margin: 0 0 .25em; }
+  h2 { font-weight: 600; font-size: 1.15em; margin: 1.6em 0 .4em; color: var(--ink-2); }
+  .note { color: var(--ink-2); font-size: 14px; max-width: 72ch; }
+  .grid { display: grid; grid-template-columns: 1fr; gap: 12px; }
+  @media (min-width: 820px) { .grid { grid-template-columns: 1fr 1fr; } }
+  .card { background: var(--surface); border: 1px solid var(--hair); border-radius: 8px; padding: 12px 16px; }
+  .card h3 { margin: 0 0 6px; font-size: 13px; font-weight: 600; color: var(--ink-2); letter-spacing: .02em; text-transform: uppercase; }
+  p.t { margin: 0 0 .35em; line-height: 2; }
+  p.t[data-font="tiro"] { font-family: "Tiro Devanagari Sanskrit", serif; }
+  p.t[data-font="noto"] { font-family: "Noto Sans Devanagari", sans-serif; }
+  p.t[data-size="17"] { font-size: 17px; }
+  p.t[data-size="23"] { font-size: 23px; }
+  .lbl { display: inline-block; min-width: 4.5em; font-family: "Noto Sans", sans-serif; font-size: 11px; color: var(--ink-2); vertical-align: middle; margin-right: .5em; }
+  .toolbar { display: flex; gap: 8px; margin: 12px 0 20px; }
+  button { font: inherit; min-height: 40px; padding: 0 14px; border: 1px solid var(--accent); border-radius: 8px; background: var(--surface); color: var(--ink); cursor: pointer; }
+</style>
+</head>
+<body>
+<h1>देवनागरी रेंडरिंग परीक्षण — Pandit Bano fonts</h1>
+<p class="note">Each string below is set in the mantra face (Tiro Devanagari Sanskrit 400) and the body face (Noto Sans Devanagari 400) at 17 px and 23 px, line-height 2.0. Expected: conjuncts form as single ligatures, svara marks sit above/below without colliding, no tofu. Known gaps: Tiro lacks U+0953/U+0954 (falls back to Noto Sans Devanagari) and ḹ U+1E39 (falls back to Noto Sans).</p>
+<div class="toolbar"><button type="button" id="theme">Toggle theme</button><output id="status" aria-live="polite"></output></div>
+
+<div class="grid" id="tests"></div>
+
+<script>
+  var TESTS = [
+    ["conjuncts", "संयुक्ताक्षर", "क्ष त्र ज्ञ द्ध ह्म ङ्क श्र द्य ट्ट ण्ड क्त द्व रु रू हृ क्ष्म स्त्र"],
+    ["nukta", "नुक़्ता", "ज़ फ़ ड़ ढ़ — ज़रूरी फ़ायदा पढ़ना बड़ा"],
+    ["chandrabindu", "चन्द्रबिन्दु", "हँ अँ चाँद हँसना साँस"],
+    ["avagraha", "अवग्रह", "सोऽहम् · तेऽपि · कोऽपि"],
+    ["danda", "दण्ड", "। ॥ — ॐ शान्तिः शान्तिः शान्तिः ॥"],
+    ["digits", "अंक", "० १ २ ३ ४ ५ ६ ७ ८ ९ · ॥ ३६ ॥"],
+    ["gayatri", "गायत्री (VS 36.3) U+0951/U+0952", "भूर्भुवः॒ स्वः॒ तत्स॑वि॒तुर्वरे॑ण्यं॒ भर्गो॑ दे॒वस्य॑ धीमहि । धियो॒ यो नः॑ प्रचो॒दया॑त् ॥ ३ ॥"],
+    ["rudri", "रुद्राष्टाध्यायी अध्याय १ मन्त्र १", "ग॒णानां॑ त्वा ग॒णप॑तिँ हवामहे प्रि॒याणां॑ त्वा प्रि॒यप॑तिँ हवामहे नि॒धीनां॑ त्वा निधि॒पतिँ॑ हवामहे वसो मम । आहम॑जानि गर्भ॒धमा त्वम॑जासि गर्भ॒धम् ॥ १ ॥"],
+    ["vedicext", "वैदिक चिह्न U+1CDA U+1CEA U+1CED", "अ\u1CDA ग्निम्\u1CEA ई\u1CEDळे पुरोहितम्"],
+    ["gum", "ꣳ U+A8F3 sequences", "यजुर्वेदस्य ग्रन्थेषु सꣳहिता · सꣳस्कृतम् · पुरुषꣳ"],
+    ["fallback", "U+0953 / U+0954 (Tiro lacks → Noto fallback)", "अ\u0953ग्ने॒ नय॑ · अ\u0954ग्ने॒ नय॑ · अꣿ (U+A8FF)"],
+    ["iast", "IAST (Tiro Latin) incl. ḹ fallback", "oṃ bhūr bhuvaḥ svaḥ · tat savitur vareṇyaṃ · ṛ ṝ ḷ ḹ ṅ ñ ṭ ḍ ṇ ś ṣ ḥ ṃ · ‘quote’ ʼ"]
+  ];
+  var grid = document.getElementById("tests");
+  TESTS.forEach(function (t) {
+    var card = document.createElement("section");
+    card.className = "card";
+    card.innerHTML = "<h3>" + t[1] + " <code>" + t[0] + "</code></h3>";
+    ["tiro", "noto"].forEach(function (font) {
+      ["17", "23"].forEach(function (size) {
+        var p = document.createElement("p");
+        p.className = "t";
+        p.setAttribute("data-font", font);
+        p.setAttribute("data-size", size);
+        p.setAttribute("data-test", t[0]);
+        p.setAttribute("lang", t[0] === "iast" ? "sa-Latn" : "sa");
+        var l = document.createElement("span");
+        l.className = "lbl";
+        l.textContent = (font === "tiro" ? "Tiro" : "Noto") + " " + size;
+        p.appendChild(l);
+        p.appendChild(document.createTextNode(t[2]));
+        card.appendChild(p);
+      });
+    });
+    grid.appendChild(card);
+  });
+  document.getElementById("theme").addEventListener("click", function () {
+    var h = document.documentElement;
+    h.setAttribute("data-theme", h.getAttribute("data-theme") === "dark" ? "light" : "dark");
+  });
+  if (document.fonts && document.fonts.ready) {
+    document.fonts.ready.then(function () {
+      var ok = ["Tiro Devanagari Sanskrit", "Noto Sans Devanagari", "Noto Sans"].map(function (f) {
+        return f + ": " + (document.fonts.check("17px \"" + f + "\"", "क्ष") ? "loaded" : "NOT loaded");
+      });
+      document.getElementById("status").textContent = ok.join(" · ");
+    });
+  }
+</script>
+</body>
+</html>

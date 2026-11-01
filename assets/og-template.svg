@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!--
+    OG image geometry template (design.md 11.7). Geometry only: paper field, a 3-px kumkum rule,
+    a diya mark area and a hairline frame. NO text here -- the title, site name and language
+    label are composited as text layers by sharp in FEAT-109 (build/og.mjs) into the boxes
+    marked below. No deity figure (brief 1; R4 8.2).
+    Colours are the light-theme tokens: paper #F8ECD4, surface #FFFBF3, accent #A65310,
+    accent-2 (kumkum) #AA381E, hair #DDCCA2, hair-strong #98873F.
+    Text boxes for the compositor (CSS px of the 1200x630 canvas):
+      title  : x=72  y=168 w=760 h=300  (Noto Sans Devanagari 600 / Noto Sans 600, <= 70 chars, 2-3 lines)
+      site   : x=72  y=508 w=600 h=56   (site name in the page language)
+      lang   : x=1040 y=508 w=88 h=40   (hi / en / bho chip label)
+  -->
+  <rect width="1200" height="630" fill="#F8ECD4"/>
+  <rect x="24" y="24" width="1152" height="582" fill="none" stroke="#DDCCA2" stroke-width="2"/>
+  <!-- kumkum rule (3 px) above the title box -->
+  <rect x="72" y="132" width="200" height="3" fill="#AA381E"/>
+  <!-- jaali hairline strip along the top edge of the frame -->
+  <g fill="none" stroke="#98873F" stroke-width="1" opacity="0.7">
+    <path d="M24 24 l18 18 l-18 18 M60 24 l18 18 l-18 18 M96 24 l18 18 l-18 18 M132 24 l18 18 l-18 18 M168 24 l18 18 l-18 18 M204 24 l18 18 l-18 18 M240 24 l18 18 l-18 18 M276 24 l18 18 l-18 18"/>
+  </g>
+  <!-- diya mark panel (right) -->
+  <rect x="872" y="132" width="256" height="336" rx="8" fill="#FFFBF3" stroke="#DDCCA2" stroke-width="2"/>
+  <g transform="translate(900 200) scale(1.667)" fill="none" stroke="#A65310" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 56c16 34 80 34 96 0"/>
+    <path d="M12 56q48-10 96 0"/>
+    <path d="M60 50c-10-14-8-26 0-36 8 10 10 22 0 36z"/>
+    <path d="M60 44c-4-7-3-13 0-18"/>
+    <path d="M40 82q20 6 40 0"/>
+    <path d="M34 72h52"/>
+  </g>
+  <!-- language chip outline (label composited by sharp) -->
+  <rect x="1040" y="508" width="88" height="40" rx="8" fill="none" stroke="#98873F" stroke-width="2"/>
+  <!-- bottom hairline above the site-name row -->
+  <rect x="72" y="492" width="760" height="1" fill="#DDCCA2"/>
+</svg>

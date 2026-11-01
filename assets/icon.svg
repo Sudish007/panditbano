@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100" width="120" height="100" role="img" aria-label="Pandit Bano">
+  <!-- Diya (oil lamp) brand mark: thin line, one colour, objects only, no deity figure. Derived from design-mocks/mock_shell.py #m-diya. -->
+  <g fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 56c16 34 80 34 96 0"/>
+    <path d="M12 56q48-10 96 0"/>
+    <path d="M60 50c-10-14-8-26 0-36 8 10 10 22 0 36z"/>
+    <path d="M60 44c-4-7-3-13 0-18"/>
+    <path d="M40 82q20 6 40 0"/>
+    <path d="M34 72h52"/>
+  </g>
+</svg>
