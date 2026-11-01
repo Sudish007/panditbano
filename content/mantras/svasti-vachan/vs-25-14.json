@@ -1,0 +1,196 @@
+{
+  "id": "vs-25-14",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 25.14 (= RV 1.89.1)",
+  "title": {
+    "hi": "आ नो भद्राः (स्वस्तिवाचन 1)",
+    "en": "A no bhadrah (svasti-vachana 1)",
+    "bho": "आ नो भद्राः (स्वस्तिवाचन 1)"
+  },
+  "devanagari": "आ नो॑ भ॒द्राः क्रत॑वो यन्तु वि॒श्वतोऽद॑ब्धासो॒ अप॑रीतास उ॒द्भिदः॑ । दे॒वा नो॒ यथा॒ सद॒मिद् वृ॒धे अस॒न्नप्रा॑युवो रक्षि॒तारो॑ दि॒वेदि॑वे ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "आ",
+      "gloss": {
+        "hi": "(हमारी) ओर",
+        "en": "towards (us)",
+        "bho": "(हमनी) ओर"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमारे पास",
+        "en": "to us",
+        "bho": "हमनी लगे"
+      }
+    },
+    {
+      "sa": "भद्राः",
+      "gloss": {
+        "hi": "कल्याणकारी",
+        "en": "auspicious",
+        "bho": "कल्यानकारी"
+      }
+    },
+    {
+      "sa": "क्रतवः",
+      "gloss": {
+        "hi": "संकल्प, सद्बुद्धियाँ",
+        "en": "resolves, good intentions",
+        "bho": "संकल्प, नीक बुद्धि"
+      }
+    },
+    {
+      "sa": "यन्तु",
+      "gloss": {
+        "hi": "आएँ",
+        "en": "may come",
+        "bho": "आवसु"
+      }
+    },
+    {
+      "sa": "विश्वतः",
+      "gloss": {
+        "hi": "सब ओर से",
+        "en": "from every side",
+        "bho": "सब ओर से"
+      }
+    },
+    {
+      "sa": "अदब्धासः",
+      "gloss": {
+        "hi": "जिन्हें कोई दबा न सके",
+        "en": "undeceived, unharmed",
+        "bho": "जेकरा केहू दाब ना सके"
+      }
+    },
+    {
+      "sa": "अपरीतासः",
+      "gloss": {
+        "hi": "जिन्हें कोई रोक न सके",
+        "en": "unobstructed",
+        "bho": "जेकरा केहू रोक ना सके"
+      }
+    },
+    {
+      "sa": "उद्भिदः",
+      "gloss": {
+        "hi": "विजयी, फूट निकलने वाले",
+        "en": "breaking forth, victorious",
+        "bho": "जीते वाला"
+      }
+    },
+    {
+      "sa": "देवाः",
+      "gloss": {
+        "hi": "देवता",
+        "en": "the gods",
+        "bho": "देवता लोग"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमारे",
+        "en": "our",
+        "bho": "हमनी के"
+      }
+    },
+    {
+      "sa": "यथा",
+      "gloss": {
+        "hi": "जिससे",
+        "en": "so that",
+        "bho": "जेसे"
+      }
+    },
+    {
+      "sa": "सदम् इत्",
+      "gloss": {
+        "hi": "सदा ही",
+        "en": "always",
+        "bho": "हमेसा"
+      }
+    },
+    {
+      "sa": "वृधे",
+      "gloss": {
+        "hi": "वृद्धि के लिए",
+        "en": "for growth",
+        "bho": "बढ़ती खातिर"
+      }
+    },
+    {
+      "sa": "असन्",
+      "gloss": {
+        "hi": "हों",
+        "en": "may be",
+        "bho": "होखसु"
+      }
+    },
+    {
+      "sa": "अप्रायुवः",
+      "gloss": {
+        "hi": "कभी प्रमाद न करने वाले",
+        "en": "never remiss",
+        "bho": "कबो ढिलाई ना करे वाला"
+      }
+    },
+    {
+      "sa": "रक्षितारः",
+      "gloss": {
+        "hi": "रक्षक",
+        "en": "protectors",
+        "bho": "रच्छक"
+      }
+    },
+    {
+      "sa": "दिवेदिवे",
+      "gloss": {
+        "hi": "प्रतिदिन",
+        "en": "day after day",
+        "bho": "रोज-रोज"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "सब ओर से कल्याणकारी संकल्प हमारे पास आएँ — ऐसे जिन्हें कोई दबा न सके, रोक न सके, जो विजयी हों; जिससे देवता सदा हमारी वृद्धि के लिए हों और दिन-दिन हमारे अप्रमत्त रक्षक रहें।",
+    "en": "May auspicious resolves come to us from every side — undeceived, unobstructed, victorious — so that the gods may ever be for our growth and remain our unfailing protectors day after day.",
+    "bho": "सब ओर से कल्यानकारी संकल्प हमनी लगे आवसु — अइसन जेकरा केहू दाब ना सके, रोक ना सके, जे जीते वाला होखे; जेसे देवता लोग हमेसा हमनी के बढ़ती खातिर रहसु आ रोज-रोज हमनी के बिना ढिलाई रच्छक रहसु।"
+  },
+  "explanation": {
+    "hi": "[[swasti-vachan]] की पहली ऋचा। यह ऋग्वेद के सूक्त 1.89 (ऋषि गोतम राहूगण) की पहली ऋचा है, जो शुक्ल यजुर्वेद के पच्चीसवें अध्याय में 25.14 के रूप में आई है; पोथियों का स्वस्तिवाचन VS 25.14–23 की इन्हीं दस ऋचाओं से बनता है। [[purohit]] इन्हें पढ़ता है और [[yajman]] हाथ में [[akshat]]-[[pushp]] लेकर सुनता है।",
+    "en": "First ṛk of the svasti-vachana. It opens Rigveda hymn 1.89 (seer Gotama Rahugana), which the Shukla Yajurveda carries as 25.14–23; the handbooks' svasti-vachana is built from these ten ṛks. The purohit recites them while the host listens with rice and flowers in his hands.",
+    "bho": "[[swasti-vachan]] के पहिला ऋचा। ई ऋग्वेद के सूक्त 1.89 (ऋषि गोतम राहूगन) के पहिला ऋचा बा, जे शुक्ल यजुर्वेद के पचीसवाँ अध्याय में 25.14 के रूप में आइल बा; पोथी के स्वस्तिवाचन VS 25.14–23 के एही दस ऋचा से बनेला। [[purohit]] एकरा पढ़ेलन आ [[yajman]] हाथ में [[akshat]]-[[pushp]] लेके सुनेला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-25",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "sd-svastivachanam",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "svasti-vachan",
+    "rv-1-89"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

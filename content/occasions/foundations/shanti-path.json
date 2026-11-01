@@ -1,0 +1,268 @@
+{
+  "id": "shanti-path",
+  "code": "F03",
+  "group": "foundations",
+  "phase": 1,
+  "title": {
+    "hi": "शांतिपाठ",
+    "en": "Shanti-patha",
+    "bho": "शांतिपाठ"
+  },
+  "lede": {
+    "hi": "हर पूजा, हवन और कथा का समापन — 'द्यौः शांतिः' से 'ॐ शांतिः शांतिः शांतिः' तक; छोटा रूप दो मंत्रों का, बड़ा रूप शुक्ल यजुर्वेद के छत्तीसवें अध्याय की शांति-ऋचाओं का।",
+    "en": "The close of every puja, havan and katha — from 'dyauh shantih' to 'om shantih shantih shantih'; the short form has two mantras, the long form the peace ṛks of the thirty-sixth adhyaya of the Shukla Yajurveda.",
+    "bho": "हर पूजा, हवन आ कथा के समापन — 'द्यौः शांतिः' से 'ॐ शांतिः शांतिः शांतिः' तक; छोट रूप दू मंत्र के, बड़ रूप शुक्ल यजुर्वेद के छत्तीसवाँ अध्याय के शांति-ऋचा के।"
+  },
+  "overview": {
+    "hi": "[[shanti-path]] पूजा का अंतिम शब्द है। जो कुछ माँगा गया, जो कुछ हुआ, उसके बाद [[purohit]] आकाश से पृथिवी तक, जल से वनस्पति तक, देवताओं से ब्रह्म तक — सबसे शांति की प्रार्थना करता है और परिवार हाथ जोड़े सुनता है। उत्तर भारत में इसका मूल मंत्र शुक्ल [[yajurved]] का 'द्यौः शांतिरंतरिक्षं शांतिः' (VS 36.17) है; पोथियों में इसके साथ 'यतो यतः समीहसे' (VS 36.22) और 'ॐ सुशांतिर्भवतु' आता है — यही क्रम [[swasti-vachan]] के अंत में भी है। बड़ी पूजा, [[havan]] और [[rudrabhishek]] में पूरा छत्तीसवाँ अध्याय पढ़ा जाता है, जो [रुद्राष्टाध्यायी](https://sa.wikisource.org/wiki/रुद्राष्टाध्यायी) का 'शांत्याध्याय' है; उसकी 'शं नो' ऋचाएँ (VS 36.8–13) और 'पश्येम शरदः शतम्' (VS 36.24) यहाँ दी गई हैं। अंत में 'ॐ शांतिः शांतिः शांतिः' — तीन बार, तीन तापों (दैहिक, दैविक, भौतिक) की शांति के लिए, ऐसा परंपरा में माना जाता है। 'सह नाववतु', 'पूर्णमदः' जैसे प्रसिद्ध शांति-मंत्र उपनिषदों के हैं; 'पूर्णमदः' शुक्ल यजुर्वेद का ही है और हवन की पूर्णाहुति के साथ आता है।",
+    "en": "The shanti-patha is the last word of a puja. After all that was asked and all that was done, the purohit prays for peace from everything — sky to earth, waters to trees, gods to Brahman — and the family listens with folded hands. In North India its core mantra is 'dyauh shantir antariksham shantih' of the Shukla Yajurveda (VS 36.17); the handbooks join to it 'yato yatah samihase' (VS 36.22) and 'om sushantir bhavatu' — the same sequence that closes the svasti-vachana. In large pujas, havans and the Rudrabhisheka the whole adhyaya 36 is read as the 'Shantyadhyaya' of the [Rudrashtadhyayi](https://sa.wikisource.org/wiki/रुद्राष्टाध्यायी); its 'sham nah' ṛks (VS 36.8–13) and 'pashyema sharadah shatam' (VS 36.24) are given here. At the very end comes 'om shantih shantih shantih' — three times, tradition holds, for peace from the three kinds of affliction (of the body, of fate, of the world). Famous shanti mantras such as 'saha navavatu' and 'purnam adah' belong to the Upanishads; 'purnam adah' is itself Shukla-Yajurvedic and comes with the purnahuti of the havan.",
+    "bho": "[[shanti-path]] पूजा के आखिरी सब्द बा। जे कुछ माँगल गइल, जे कुछ भइल, ओकरा बाद [[purohit]] अकास से धरती तक, जल से गाछ-बिरिछ तक, देवता लोग से ब्रह्म तक — सब से शांति के प्रार्थना करेलन आ परिवार हाथ जोड़ले सुनेला। उत्तर भारत में एकर मूल मंत्र शुक्ल [[yajurved]] के 'द्यौः शांतिरंतरिक्षं शांतिः' (VS 36.17) बा; पोथी में एकरा संगे 'यतो यतः समीहसे' (VS 36.22) आ 'ॐ सुशांतिर्भवतु' आवेला — इहे क्रम [[swasti-vachan]] के अंत में भी बा। बड़ पूजा, [[havan]] आ [[rudrabhishek]] में पूरा छत्तीसवाँ अध्याय पढ़ल जाला, जे [रुद्राष्टाध्यायी](https://sa.wikisource.org/wiki/रुद्राष्टाध्यायी) के 'शांत्याध्याय' बा; ओकर 'शं नो' ऋचा (VS 36.8–13) आ 'पश्येम शरदः शतम्' (VS 36.24) इहाँ दिहल गइल बा। अंत में 'ॐ शांतिः शांतिः शांतिः' — तीन बेर, तीन ताप (दैहिक, दैविक, भौतिक) के शांति खातिर, अइसन परंपरा में मानल जाला। 'सह नाववतु', 'पूर्णमदः' जइसन मसहूर शांति-मंत्र उपनिषद के बा; 'पूर्णमदः' शुक्ल यजुर्वेद के ही बा आ हवन के पूर्णाहुति संगे आवेला।"
+  },
+  "when": {
+    "rules": {
+      "hi": "हर पूजा, हवन, कथा और संस्कार के अंत में — आरती, पुष्पांजलि और क्षमा-प्रार्थना के बाद, विसर्जन से पहले; नित्य पाठ में भी अकेले पढ़ा जा सकता है। कोई अलग मुहूर्त नहीं।",
+      "en": "At the end of every puja, havan, katha and samskara — after the aarti, the pushpanjali and the prayer for forgiveness, before the visarjana; it may also be recited on its own as a daily reading. No separate muhurat.",
+      "bho": "हर पूजा, हवन, कथा आ संस्कार के अंत में — आरती, पुष्पांजलि आ क्षमा-प्रार्थना के बाद, विसर्जन से पहिले; नित्य पाठ में भी अकेले पढ़ल जा सकेला। कवनो अलगा मुहूरत ना।"
+    },
+    "shubhvela": {
+      "muhurat": null,
+      "festival": null,
+      "vrat": null
+    }
+  },
+  "roles": [
+    {
+      "role": {
+        "hi": "पुरोहित",
+        "en": "Purohit",
+        "bho": "पुरोहित"
+      },
+      "does": {
+        "hi": "स्वर के साथ मंत्र पढ़ना; 'ॐ शांतिः' तीन बार बोलकर पूजा समाप्त करना; चाहें तो शांति-जल सब पर छिड़कना।",
+        "en": "Recites the mantras with their accents; closes the rite with 'om shantih' three times; sprinkles the shanti water on all if that is the custom.",
+        "bho": "सुर के संगे मंत्र पढ़ल; 'ॐ शांतिः' तीन बेर बोल के पूजा समाप्त कइल; चाहे त शांति-जल सब पर छींटल।"
+      }
+    },
+    {
+      "role": {
+        "hi": "यजमान और परिवार",
+        "en": "The host and the family",
+        "bho": "जजमान आ परिवार"
+      },
+      "does": {
+        "hi": "हाथ जोड़कर बैठे रहना; अंतिम 'ॐ शांतिः शांतिः शांतिः' साथ में बोलना।",
+        "en": "Sit with folded hands; join in the final 'om shantih shantih shantih'.",
+        "bho": "हाथ जोड़ के बइठल रहल; आखिरी 'ॐ शांतिः शांतिः शांतिः' संगे बोलल।"
+      }
+    }
+  ],
+  "samagri": [
+    {
+      "id": "jal-patra",
+      "item": {
+        "hi": "जल-पात्र (कलश या लोटे का जल — शांति-जल)",
+        "en": "Water vessel (water of the kalasha or a lota — the shanti water)",
+        "bho": "जल-बरतन (कलश भा लोटा के जल — एही के शांति-जल कहल जाला)"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "kush",
+      "item": {
+        "hi": "कुश या फूल — जल छिड़कने के लिए",
+        "en": "Kusha grass or a flower for sprinkling",
+        "bho": "कुश भा फूल — जल छींटे खातिर"
+      },
+      "qty": "3–5 तिनके",
+      "must": false
+    },
+    {
+      "id": "pushp",
+      "item": {
+        "hi": "पुष्प — अंत में देवता पर अर्पण के लिए",
+        "en": "Flowers, to offer to the deity at the end",
+        "bho": "फूल — अंत में देवता पर चढ़ावे खातिर"
+      },
+      "qty": "एक मुट्ठी",
+      "must": false
+    }
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "layer": "vedic",
+      "minutes": 1,
+      "important": true,
+      "action": {
+        "hi": "मुख्य मंत्र: 'द्यौः शांतिः…' (VS 36.17) — पंडित पढ़ता है, सब हाथ जोड़े सुनते हैं।",
+        "en": "The main mantra: 'dyauh shantih …' (VS 36.17) — the pandit recites, everyone listens with folded hands.",
+        "bho": "मुख्य मंत्र: 'द्यौः शांतिः…' (VS 36.17) — पंडित पढ़ेलन, सभे हाथ जोड़ले सुनेला।"
+      },
+      "mantraIds": [
+        "vs-36-17"
+      ],
+      "panditSays": {
+        "hi": "अब शांतिपाठ — सब लोग हाथ जोड़ लें।",
+        "en": "Now the shanti-patha — everyone fold your hands.",
+        "bho": "अब शांतिपाठ — सभे हाथ जोड़ लीं।"
+      }
+    },
+    {
+      "n": 2,
+      "layer": "vedic",
+      "minutes": 1,
+      "action": {
+        "hi": "अभय-प्रार्थना 'यतो यतः समीहसे' (VS 36.22) — फिर 'ॐ सुशांतिर्भवतु'।",
+        "en": "The prayer for fearlessness 'yato yatah samihase' (VS 36.22) — then 'om sushantir bhavatu'.",
+        "bho": "अभय-प्रार्थना 'यतो यतः समीहसे' (VS 36.22) — फेर 'ॐ सुशांतिर्भवतु'।"
+      },
+      "mantraIds": [
+        "vs-36-22"
+      ],
+      "panditSays": {
+        "sa": "ॐ सुशान्तिर्भवतु ।",
+        "hi": "ॐ सुशांतिर्भवतु — अच्छी शांति हो।",
+        "en": "Om sushantir bhavatu — may there be good peace.",
+        "bho": "ॐ सुशांतिर्भवतु — नीक शांति होखे।"
+      },
+      "note": {
+        "hi": "छोटे रूप में यहीं चरण 5 पर चले जाएँ। बड़ी पूजा, हवन और रुद्राभिषेक में चरण 3–4 भी।",
+        "en": "In the short form go straight to step 5 from here. In large pujas, havans and the Rudrabhisheka steps 3–4 are added.",
+        "bho": "छोट रूप में इहँवे से चरन 5 पर चल जाईं। बड़ पूजा, हवन आ रुद्राभिषेक में चरन 3–4 भी।"
+      }
+    },
+    {
+      "n": 3,
+      "layer": "vedic",
+      "minutes": 3,
+      "action": {
+        "hi": "विस्तृत शांतिपाठ: छत्तीसवें अध्याय की 'शं नो' ऋचाएँ (VS 36.8–13) — इंद्र, मित्र-वरुण, वायु-सूर्य-पर्जन्य, दिन-रात, जल और पृथिवी से शांति। रुद्राभिषेक में इनके साथ पूरा शांत्याध्याय पढ़ा जाता है।",
+        "en": "The longer shanti-patha: the 'sham nah' ṛks of adhyaya 36 (VS 36.8–13) — peace from Indra, Mitra and Varuna, wind, sun and rain, day and night, the waters and the earth. In the Rudrabhisheka the whole Shantyadhyaya is read with them.",
+        "bho": "बिस्तार वाला शांतिपाठ: छत्तीसवाँ अध्याय के 'शं नो' ऋचा (VS 36.8–13) — इंद्र, मित्र-वरुण, बतास-सुरुज-पर्जन्य, दिन-रात, जल आ धरती से शांति। रुद्राभिषेक में एकरा संगे पूरा शांत्याध्याय पढ़ल जाला।"
+      },
+      "mantraIds": [
+        "vs-36-8",
+        "vs-36-9",
+        "vs-36-10",
+        "vs-36-11",
+        "vs-36-12",
+        "vs-36-13"
+      ]
+    },
+    {
+      "n": 4,
+      "layer": "vedic",
+      "minutes": 1,
+      "action": {
+        "hi": "आयुष्य-कामना 'पश्येम शरदः शतम्' (VS 36.24) — सौ वर्ष देखने, जीने, सुनने, बोलने की प्रार्थना।",
+        "en": "The wish for a full life, 'pashyema sharadah shatam' (VS 36.24) — to see, live, hear and speak for a hundred years.",
+        "bho": "आयुष्य-कामना 'पश्येम शरदः शतम्' (VS 36.24) — सौ बरिस देखे, जिए, सुने, बोले के प्रार्थना।"
+      },
+      "mantraIds": [
+        "vs-36-24"
+      ]
+    },
+    {
+      "n": 5,
+      "layer": "paddhati",
+      "minutes": 1,
+      "important": true,
+      "action": {
+        "hi": "समापन: 'ॐ शांतिः शांतिः शांतिः' — तीन बार, सब साथ में; पंडित चाहे तो कुश से शांति-जल सब पर छिड़कता है और हाथ के फूल देवता पर चढ़ाए जाते हैं।",
+        "en": "Closing: 'om shantih shantih shantih' — three times, all together; the pandit may sprinkle the shanti water on everyone with kusha, and the flowers in hand are offered to the deity.",
+        "bho": "समापन: 'ॐ शांतिः शांतिः शांतिः' — तीन बेर, सभे संगे; पंडित चाहे त कुश से शांति-जल सब पर छींटेलन आ हाथ के फूल देवता पर चढ़ावल जाला।"
+      },
+      "samagriIds": [
+        "jal-patra",
+        "kush",
+        "pushp"
+      ],
+      "panditSays": {
+        "sa": "ॐ शान्तिः शान्तिः शान्तिः ।",
+        "hi": "सब मिलकर — ॐ शांतिः, शांतिः, शांतिः।",
+        "en": "All together — om shantih, shantih, shantih.",
+        "bho": "सभे मिल के — ॐ शांतिः, शांतिः, शांतिः।"
+      },
+      "note": {
+        "hi": "इसके बाद विसर्जन (देवताओं को विदा) होता है, जिसका मंत्र 'यांतु देवगणाः' उस पृष्ठ पर मिलेगा।",
+        "en": "The visarjana (the farewell to the deities) follows, with its mantra 'yantu devaganah' on its own page.",
+        "bho": "एकरा बाद विसर्जन (देवता लोग के बिदाई) होला, जेकर मंत्र 'यांतु देवगणाः' ओह पन्ना पर मिली।"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "region": "rudrabhishek / bada anushthan",
+      "what": {
+        "hi": "रुद्राभिषेक और बड़े अनुष्ठानों में शांतिपाठ के रूप में शुक्ल यजुर्वेद का पूरा छत्तीसवाँ अध्याय (चौबीस मंत्र) पढ़ा जाता है — यही [रुद्राष्टाध्यायी](https://sa.wikisource.org/wiki/रुद्राष्टाध्यायी) का शांत्याध्याय है।",
+        "en": "In the Rudrabhisheka and in large rites the whole adhyaya 36 of the Shukla Yajurveda (twenty-four mantras) is read as the shanti-patha — this is the Shantyadhyaya of the [Rudrashtadhyayi](https://sa.wikisource.org/wiki/रुद्राष्टाध्यायी).",
+        "bho": "रुद्राभिषेक आ बड़ अनुष्ठान में शांतिपाठ के रूप में शुक्ल यजुर्वेद के पूरा छत्तीसवाँ अध्याय (चौबीस मंत्र) पढ़ल जाला — इहे [रुद्राष्टाध्यायी](https://sa.wikisource.org/wiki/रुद्राष्टाध्यायी) के शांत्याध्याय बा।"
+      },
+      "source": "ws-rudrashtadhyayi"
+    },
+    {
+      "region": "anya shakha",
+      "what": {
+        "hi": "'सह नाववतु' (कृष्ण यजुर्वेद), 'भद्रं कर्णेभिः' (अथर्ववेद की उपनिषदें), 'आप्यायंतु ममांगानि' (सामवेद) जैसे शांति-मंत्र दूसरी शाखाओं के उपनिषद्-पाठ हैं; उत्तर भारत के पंडित इन्हें भी जानते हैं, पर पूजा का शांतिपाठ VS 36 का ही होता है। सभी का स्वर-सहित संकलन [sanskritdocuments की शांतिपाठ फ़ाइल](https://sanskritdocuments.org/doc_veda/shaantipaatha.html) में है।",
+        "en": "Shanti mantras such as 'saha navavatu' (Krishna Yajurveda), 'bhadram karnebhih' (the Atharvaveda Upanishads) and 'apyayantu mamangani' (Samaveda) belong to the Upanishad recitations of other shakhas; North Indian pandits know them too, but the shanti-patha of a puja is from VS 36. All of them are collected with accents in the [sanskritdocuments shanti-patha file](https://sanskritdocuments.org/doc_veda/shaantipaatha.html).",
+        "bho": "'सह नाववतु' (कृष्ण यजुर्वेद), 'भद्रं कर्णेभिः' (अथर्ववेद के उपनिषद), 'आप्यायंतु ममांगानि' (सामवेद) जइसन शांति-मंत्र दोसरा शाखा के उपनिषद-पाठ बा; उत्तर भारत के पंडित लोग एकरा भी जानेलन, बाकिर पूजा के शांतिपाठ VS 36 के ही होला। सभ के सुर-सहित संकलन [sanskritdocuments के शांतिपाठ फाइल](https://sanskritdocuments.org/doc_veda/shaantipaatha.html) में बा।"
+      },
+      "source": "sd-shantipatha"
+    }
+  ],
+  "faq": [
+    {
+      "q": {
+        "hi": "'शं' और 'शांति' का क्या अर्थ है?",
+        "en": "What do 'sham' and 'shanti' mean?",
+        "bho": "'शं' आ 'शांति' के का अरथ बा?"
+      },
+      "a": {
+        "hi": "'शम्' का अर्थ है कल्याण, सुख, अनुकूलता — 'शं नो' = हमारे लिए कल्याणकारी हो। 'शांति' उसी धातु से — शमन, स्थिरता, निरुपद्रवता। उवट और महीधर 'शं योः' को 'रोगों का शमन और भयों का दूर होना' समझाते हैं — यह ग्रंथ का अपना कथन है।",
+        "en": "'Sham' means well-being, happiness, favourableness — 'sham nah' = may it be well-being for us. 'Shanti' comes from the same root — calming, steadiness, freedom from disturbance. Uvata and Mahidhara explain 'sham yoh' as 'the calming of ills and the removal of fears' — the text's own statement.",
+        "bho": "'शम्' के अरथ बा कल्यान, सुख, अनुकूलता — 'शं नो' = हमनी खातिर कल्यानकारी होखे। 'शांति' ओही धातु से — सांत होखल, थिरता, बिना उपद्रव। उवट आ महीधर 'शं योः' के 'कष्ट के सांत होखल आ भय के दूर होखल' समझावेलन — ई ग्रंथ के आपन कथन बा।"
+      }
+    },
+    {
+      "q": {
+        "hi": "शांतिपाठ कितना लंबा होना चाहिए?",
+        "en": "How long should the shanti-patha be?",
+        "bho": "शांतिपाठ केतना लमहर होखे के चाहीं?"
+      },
+      "a": {
+        "hi": "घर की साधारण पूजा में दो मंत्र (चरण 1–2) और 'ॐ शांतिः' तीन बार — दो मिनट। हवन, कथा और रुद्राभिषेक में 'शं नो' ऋचाएँ और 'पश्येम शरदः शतम्' भी, या पूरा छत्तीसवाँ अध्याय — आठ-दस मिनट।",
+        "en": "In an ordinary home puja, the two mantras (steps 1–2) and 'om shantih' three times — two minutes. In a havan, a katha or the Rudrabhisheka the 'sham nah' ṛks and 'pashyema sharadah shatam' as well, or the whole adhyaya 36 — eight to ten minutes.",
+        "bho": "घर के साधारन पूजा में दू मंत्र (चरन 1–2) आ 'ॐ शांतिः' तीन बेर — दू मिनट। हवन, कथा आ रुद्राभिषेक में 'शं नो' ऋचा आ 'पश्येम शरदः शतम्' भी, भा पूरा छत्तीसवाँ अध्याय — आठ-दस मिनट।"
+      }
+    },
+    {
+      "q": {
+        "hi": "क्या शांतिपाठ बिना पंडित के भी पढ़ा जा सकता है?",
+        "en": "Can the shanti-patha be recited without a pandit?",
+        "bho": "का शांतिपाठ बिना पंडित के भी पढ़ल जा सकेला?"
+      },
+      "a": {
+        "hi": "हाँ — नित्य पाठ के रूप में कोई भी इसे पढ़ सकता है; इस पृष्ठ के मंत्रों पर स्वर, पदच्छेद और अर्थ इसी के लिए हैं। पूजा के अंत में इसे पढ़ने की परंपरा पुरोहित की है।",
+        "en": "Yes — anyone may recite it as a daily reading; the accents, word splits and meanings on this page are there for that. Reciting it at the end of a puja is the purohit's traditional part.",
+        "bho": "हाँ — नित्य पाठ के रूप में केहू एकरा पढ़ सकेला; एह पन्ना के मंत्र पर सुर, पदच्छेद आ अरथ एही खातिर बा। पूजा के अंत में एकरा पढ़े के परंपरा पुरोहित के बा।"
+      }
+    }
+  ],
+  "sources": [
+    "ws-syv-36",
+    "sd-svastivachanam",
+    "ws-rudrashtadhyayi",
+    "sd-shantipatha",
+    "titus-vs"
+  ],
+  "tags": [
+    "foundations",
+    "shanti-path",
+    "shanti"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

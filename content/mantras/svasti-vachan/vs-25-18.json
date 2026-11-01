@@ -1,0 +1,204 @@
+{
+  "id": "vs-25-18",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 25.18 (= RV 1.89.5)",
+  "title": {
+    "hi": "तमीशानं जगतः (स्वस्तिवाचन 5)",
+    "en": "Tam ishanam jagatah (svasti-vachana 5)",
+    "bho": "तमीशानं जगतः (स्वस्तिवाचन 5)"
+  },
+  "devanagari": "तमीशा॑नं॒ जग॑तस्त॒स्थुष॒स्पतिं॑ धियञ्जि॒न्वमव॑से हूमहे व॒यम् । पू॒षा नो॒ यथा॒ वेद॑सा॒मस॑द् वृ॒धे र॑क्षि॒ता पा॒युरद॑ब्धः स्व॒स्तये॑ ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "तम्",
+      "gloss": {
+        "hi": "उस",
+        "en": "him",
+        "bho": "ऊ"
+      }
+    },
+    {
+      "sa": "ईशानम्",
+      "gloss": {
+        "hi": "स्वामी को",
+        "en": "the ruler",
+        "bho": "मालिक के"
+      }
+    },
+    {
+      "sa": "जगतः",
+      "gloss": {
+        "hi": "चलने वालों के",
+        "en": "of the moving",
+        "bho": "चलत चीज के"
+      }
+    },
+    {
+      "sa": "तस्थुषः",
+      "gloss": {
+        "hi": "स्थिर रहने वालों के",
+        "en": "of the still",
+        "bho": "ठहरल चीज के"
+      }
+    },
+    {
+      "sa": "पतिम्",
+      "gloss": {
+        "hi": "पालक को",
+        "en": "the lord",
+        "bho": "पालक के"
+      }
+    },
+    {
+      "sa": "धियंजिन्वम्",
+      "gloss": {
+        "hi": "बुद्धि को प्रेरित करने वाले को",
+        "en": "who quickens thought",
+        "bho": "बुद्धि के प्रेरित करे वाला के"
+      }
+    },
+    {
+      "sa": "अवसे",
+      "gloss": {
+        "hi": "रक्षा के लिए",
+        "en": "for help, protection",
+        "bho": "रच्छा खातिर"
+      }
+    },
+    {
+      "sa": "हूमहे",
+      "gloss": {
+        "hi": "हम बुलाते हैं",
+        "en": "we invoke",
+        "bho": "हमनी बोलावत बानी"
+      }
+    },
+    {
+      "sa": "वयम्",
+      "gloss": {
+        "hi": "हम",
+        "en": "we",
+        "bho": "हमनी"
+      }
+    },
+    {
+      "sa": "पूषा",
+      "gloss": {
+        "hi": "पूषा (पोषक देव)",
+        "en": "Pushan (the nourisher)",
+        "bho": "पूषा (पोसे वाला देव)"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमारे",
+        "en": "our",
+        "bho": "हमनी के"
+      }
+    },
+    {
+      "sa": "यथा",
+      "gloss": {
+        "hi": "जिससे",
+        "en": "so that",
+        "bho": "जेसे"
+      }
+    },
+    {
+      "sa": "वेदसाम्",
+      "gloss": {
+        "hi": "धन-संपत्ति की",
+        "en": "of our possessions",
+        "bho": "धन-दौलत के"
+      }
+    },
+    {
+      "sa": "असत्",
+      "gloss": {
+        "hi": "हो",
+        "en": "may be",
+        "bho": "होखे"
+      }
+    },
+    {
+      "sa": "वृधे",
+      "gloss": {
+        "hi": "वृद्धि के लिए",
+        "en": "for increase",
+        "bho": "बढ़ती खातिर"
+      }
+    },
+    {
+      "sa": "रक्षिता",
+      "gloss": {
+        "hi": "रक्षक",
+        "en": "protector",
+        "bho": "रच्छक"
+      }
+    },
+    {
+      "sa": "पायुः",
+      "gloss": {
+        "hi": "पालक",
+        "en": "guardian",
+        "bho": "पालक"
+      }
+    },
+    {
+      "sa": "अदब्धः",
+      "gloss": {
+        "hi": "जिसे कोई दबा न सके",
+        "en": "undeceived",
+        "bho": "जेकरा केहू दाब ना सके"
+      }
+    },
+    {
+      "sa": "स्वस्तये",
+      "gloss": {
+        "hi": "कल्याण के लिए",
+        "en": "for well-being",
+        "bho": "कल्यान खातिर"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "चर और अचर जगत् के उस स्वामी को, जो बुद्धि को प्रेरित करता है, हम रक्षा के लिए बुलाते हैं; जिससे पूषा हमारी संपत्ति की वृद्धि के लिए हो — हमारा अजेय रक्षक और पालक, हमारे कल्याण के लिए।",
+    "en": "That ruler of all that moves and all that stands, who quickens thought, we invoke for protection; so that Pushan may be for the increase of our possessions — our undeceived protector and guardian, for our well-being.",
+    "bho": "चलत आ ठहरल जगत के ऊ मालिक के, जे बुद्धि के प्रेरित करेलन, हमनी रच्छा खातिर बोलावत बानी; जेसे पूषा हमनी के धन-दौलत के बढ़ती खातिर रहसु — हमनी के अजेय रच्छक आ पालक, हमनी के कल्यान खातिर।"
+  },
+  "explanation": {
+    "hi": "पाँचवीं ऋचा (ऋग्वेद 1.89.5)। 'जगतस्तस्थुषस्पति' — चलते और ठहरे हुए, यानी समस्त जगत् का स्वामी; यहाँ पूषा को रक्षक और पोषक रूप में बुलाया गया है।",
+    "en": "Fifth ṛk (Rigveda 1.89.5). 'Lord of what moves and what stands' means lord of the whole world; Pushan is invoked here as protector and nourisher.",
+    "bho": "पाँचवाँ ऋचा (ऋग्वेद 1.89.5)। 'जगतस्तस्थुषस्पति' — चलत आ ठहरल, माने पूरा जगत के मालिक; इहाँ पूषा के रच्छक आ पोसे वाला रूप में बोलावल गइल बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-25",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "sd-svastivachanam",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "svasti-vachan",
+    "rv-1-89"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

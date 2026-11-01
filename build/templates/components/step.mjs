@@ -10,20 +10,27 @@ export const LAYER_CHIP = { vedic: "chip-vedic", paddhati: "chip-paddhati", lok:
 
 /**
  * Split an action into a short head (the step title) and the remaining prose: "पवित्रीकरण — पंडित…" → head "पवित्रीकरण",
- * tail "पंडित…". Without a dash a short action is the title alone; a long one gets a ≤ 72-char head and keeps the full text.
+ * tail "पंडित…". A label before a colon works the same way ("मार्जन: पंडित…" → head "मार्जन") when the label is ≤ 60
+ * characters and holds no sentence boundary (the corpus authors wrote 448 of the 1a steps this way — C1A-01 integrate).
+ * Without a dash or label a short action is the title alone; a long one gets a ≤ 72-char head and keeps the full text.
  */
 export function splitAction(action) {
   const s = String(action ?? "").trim();
-  const m = /^(.{2,80}?)\s+[—–]\s+([\s\S]+)$/.exec(s) || /^(.{2,80}?)\s+-\s+([\s\S]+)$/.exec(s);
+  const m = /^(.{2,80}?)\s+[—–]\s+([\s\S]+)$/.exec(s) || /^(.{2,80}?)\s+-\s+([\s\S]+)$/.exec(s) || /^((?:(?!\. |। |; |\? |! ).){2,60}?):\s+(\S[\s\S]*)$/.exec(s);
   if (m) return { head: m[1].trim(), tail: m[2].trim() };
   if (s.length <= 80) return { head: s, tail: "" };
   const cut = s.slice(0, 72);
   const i = Math.max(cut.lastIndexOf(" "), 30);
   return { head: cut.slice(0, i).trim() + "…", tail: s };
 }
-/** Plain-text step title (rail, pothi locator, <title>): the head with Markdown links/marks removed. */
-export function stepTitle(step, lang) {
-  return proseOnly(splitAction(step.action && step.action[lang]).head).replace(/\s+/g, " ").trim();
+/**
+ * Plain-text step title (rail, pothi locator, <title>): the head with Markdown links/marks removed. With a mdCtx the
+ * [[term]] marks become the term's display form first, so a head that is only a mark ("[[pranayam]]: …") keeps a label.
+ */
+export function stepTitle(step, lang, mdCtx = null) {
+  let head = splitAction(step.action && step.action[lang]).head;
+  if (mdCtx) head = head.replace(/\[\[([a-z0-9-]+)\]\]/g, (m, id) => (mdCtx.term(id) || {}).display || m);
+  return proseOnly(head).replace(/\s+/g, " ").trim();
 }
 
 export function layerChip(step, lang) {

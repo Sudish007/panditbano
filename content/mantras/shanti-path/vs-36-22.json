@@ -1,0 +1,124 @@
+{
+  "id": "vs-36-22",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 36.22",
+  "title": {
+    "hi": "यतो यतः समीहसे (अभय-प्रार्थना)",
+    "en": "Yato yatah samihase (prayer for fearlessness)",
+    "bho": "यतो यतः समीहसे (अभय-प्रार्थना)"
+  },
+  "devanagari": "यतो॑यतः स॒मीह॑से॒ ततो॑ नो॒ अभ॑यं कुरु । शं नः॑ कुरु प्र॒जाभ्योऽभ॑यं नः प॒शुभ्यः॑ ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "यतः यतः",
+      "gloss": {
+        "hi": "जहाँ-जहाँ से",
+        "en": "from wherever",
+        "bho": "जहँवा-जहँवा से"
+      }
+    },
+    {
+      "sa": "समीहसे",
+      "gloss": {
+        "hi": "तू सक्रिय होता है, गति करता है",
+        "en": "you stir, move",
+        "bho": "तू गति करेल"
+      }
+    },
+    {
+      "sa": "ततः",
+      "gloss": {
+        "hi": "वहाँ-वहाँ से",
+        "en": "from there",
+        "bho": "उहँवा से"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमें",
+        "en": "us",
+        "bho": "हमनी के"
+      }
+    },
+    {
+      "sa": "अभयम्",
+      "gloss": {
+        "hi": "निर्भय",
+        "en": "free from fear",
+        "bho": "निडर"
+      }
+    },
+    {
+      "sa": "कुरु",
+      "gloss": {
+        "hi": "कर",
+        "en": "make",
+        "bho": "कर"
+      }
+    },
+    {
+      "sa": "शम्",
+      "gloss": {
+        "hi": "कल्याण",
+        "en": "well-being",
+        "bho": "कल्यान"
+      }
+    },
+    {
+      "sa": "प्रजाभ्यः",
+      "gloss": {
+        "hi": "संतान और प्रजा के लिए",
+        "en": "for our offspring and people",
+        "bho": "संतान आ परजा खातिर"
+      }
+    },
+    {
+      "sa": "पशुभ्यः",
+      "gloss": {
+        "hi": "पशुओं के लिए",
+        "en": "for our cattle",
+        "bho": "पसु खातिर"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "जहाँ-जहाँ से तू सक्रिय होता है, वहाँ-वहाँ से हमें निर्भय कर; हमारी संतान के लिए कल्याण कर, हमारे पशुओं के लिए अभय कर।",
+    "en": "From wherever you move, from there make us free from fear; grant well-being to our offspring and fearlessness to our cattle.",
+    "bho": "जहँवा-जहँवा से तू गति करेल, उहँवा से हमनी के निडर कर; हमनी के संतान खातिर कल्यान कर, हमनी के पसु खातिर अभय कर।"
+  },
+  "explanation": {
+    "hi": "VS 36.22; शांतिपाठ के मुख्य मंत्र के बाद पढ़ा जाता है और फिर [[purohit]] 'ॐ सुशांतिर्भवतु' कहता है — यही क्रम [[swasti-vachan]] के अंत में भी है। वेद में यह अग्नि (महावीर) से प्रार्थना है कि उसकी गति जहाँ से भी हो, वह हमें, हमारी संतान और पशुओं को भय से मुक्त रखे।",
+    "en": "VS 36.22; recited after the main shanti mantra, after which the purohit says 'om sushantir bhavatu' — the same order closes the svasti-vachana. In the Veda it addresses Agni (the mahavira pot): wherever his force moves from, may he keep us, our children and our cattle free from fear.",
+    "bho": "VS 36.22; शांतिपाठ के मुख्य मंत्र के बाद पढ़ल जाला आ फेर [[purohit]] 'ॐ सुशांतिर्भवतु' कहेलन — इहे क्रम [[swasti-vachan]] के अंत में भी बा। वेद में ई अग्नि (महावीर) से प्रार्थना बा कि ओकर गति जहँवा से भी होखे, ऊ हमनी के, हमनी के संतान आ पसु के भय से मुक्त राखसु।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-36",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "sd-svastivachanam",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "shanti-path",
+    "abhaya"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

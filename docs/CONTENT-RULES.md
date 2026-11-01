@@ -100,6 +100,12 @@ textRefs[{text, chapter | [chapters]}]?, panditSays{sa?, hi, en, bho}?, note{}?,
 `grief health pregnancy astrology` (the renderer adds the R4 §5.3 rule 4/6 notes — G15 checks the UI strings exist),
 `kathaId?`, `textIds[]?`, `tags[]?`, `review`.
 
+Step `action` shape: write it as `<short title> — <prose>` or `<short title>: <prose>` (title ≤ 60 characters, no sentence
+inside it). The renderer takes the title as the step heading (h3, step rail, pothi) and shows only the prose under it; an
+action without such a title is cut at 72 characters for the heading and then repeated in full. Label fields are plain text
+(no `[[term]]`, no links, no Markdown): `samagri[].item`, `roles[].role`, `faq[].q`, `panditSays`, every `title`; a
+`[[term]]` mark alone as the step title is allowed (the rail shows the term's display form).
+
 ### 2.3 Text + chapter — `texts/rudrashtadhyayi/text.json`, `1.json`
 
 text.json required: `id title intro source chapters phase copyright reproduce copyrightBasis`; optional `lang kind deity

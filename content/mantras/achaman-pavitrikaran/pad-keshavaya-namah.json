@@ -1,0 +1,98 @@
+{
+  "id": "pad-keshavaya-namah",
+  "kind": "paddhati",
+  "locator": "s.v. आचमन (the smriti rule quoted in the lexicon entry); recited form as in the Shukla YV sandhya",
+  "title": {
+    "hi": "आचमन के नाम-मंत्र",
+    "en": "Achamana name-formula",
+    "bho": "आचमन के नाँव-मंत्र"
+  },
+  "devanagari": "ॐ केशवाय नमः । ॐ नारायणाय नमः । ॐ माधवाय नमः । ॐ गोविन्दाय नमः ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "केशवाय",
+      "gloss": {
+        "hi": "केशव (विष्णु; सुंदर केशों वाले, केशी दैत्य के संहारक) को",
+        "en": "to Keshava (Vishnu — 'of the fine hair', slayer of the demon Keshi)",
+        "bho": "केशव (विष्णु; सुंदर केस वाला, केशी दैत्य के मारे वाला) के"
+      }
+    },
+    {
+      "sa": "नमः",
+      "gloss": {
+        "hi": "नमन",
+        "en": "salutation",
+        "bho": "परनाम"
+      }
+    },
+    {
+      "sa": "नारायणाय",
+      "gloss": {
+        "hi": "नारायण (जल में शयन करने वाले, सब जीवों के आश्रय) को",
+        "en": "to Narayana (he who rests on the waters, the refuge of all beings)",
+        "bho": "नारायण (जल पर सुतल रहे वाला, सब जीव के आसरा) के"
+      }
+    },
+    {
+      "sa": "माधवाय",
+      "gloss": {
+        "hi": "माधव (लक्ष्मी-पति; मधु-वंश के) को",
+        "en": "to Madhava (Lakshmi's lord; of the Madhu line)",
+        "bho": "माधव (लक्ष्मी के पति; मधु-वंस के) के"
+      }
+    },
+    {
+      "sa": "गोविन्दाय",
+      "gloss": {
+        "hi": "गोविंद (गौओं और पृथ्वी के रक्षक) को",
+        "en": "to Govinda (protector of cows and of the earth)",
+        "bho": "गोविंद (गाय आ धरती के रच्छक) के"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "केशव को नमन है। नारायण को नमन है। माधव को नमन है। गोविंद को नमन है।",
+    "en": "Salutation to Keshava. Salutation to Narayana. Salutation to Madhava. Salutation to Govinda.",
+    "bho": "केशव के परनाम। नारायण के परनाम। माधव के परनाम। गोविंद के परनाम।"
+  },
+  "explanation": {
+    "hi": "[[achaman]] हर पूजा का पहला काम है: दाहिनी हथेली में थोड़ा जल लेकर अँगूठे की जड़ (ब्रह्मतीर्थ) से तीन बार पीना। पहले तीन नामों पर एक-एक आचमन होता है और चौथे नाम (गोविंदाय नमः) पर हाथ धोया जाता है — पोथी-पोथी में यह चौथा नाम अलग मिलता है। ये विष्णु के चौबीस नामों में पहले चार हैं; [वाचस्पत्यम्](https://sa.wikisource.org/wiki/वाचस्पत्यम्/आघार) कोश में स्मृति का यही नियम उद्धृत है। दक्षिण की परंपरा में नमः के बाद स्वाहा भी जोड़ा जाता है। यह वेद का [[mantra]] नहीं, [[paddhati]] का नाम-मंत्र है।",
+    "en": "[[achaman]] opens every puja: a little water is taken in the right palm and sipped three times from the base of the thumb (the brahma-tirtha). One sip goes with each of the first three names; at the fourth name (Govindaya namah) the hands are washed — handbooks differ on this fourth name. These are the first four of Vishnu's twenty-four names, and the [Vachaspatyam](https://sa.wikisource.org/wiki/वाचस्पत्यम्/आघार) lexicon quotes exactly this smriti rule. Southern traditions add svaha after namah. This is a handbook name-formula, not a Vedic mantra.",
+    "bho": "[[achaman]] हर पूजा के पहिला काम बा: दाहिना हथेली में तनी जल लेके अँगूठा के जड़ (ब्रह्मतीर्थ) से तीन बेर पियल जाला। पहिला तीन नाँव पर एक-एक आचमन होला आ चउथा नाँव (गोविंदाय नमः) पर हाथ धोवल जाला — पोथी-पोथी में ई चउथा नाँव अलगा मिलेला। ई विष्णु के चौबीस नाँव में पहिला चार बा; [वाचस्पत्यम्](https://sa.wikisource.org/wiki/वाचस्पत्यम्/आघार) कोस में स्मृति के इहे नियम लिखल बा। दक्खिन के परंपरा में नमः के बाद स्वाहा भी जोड़ल जाला। ई वेद के [[mantra]] ना, [[paddhati]] के नाँव-मंत्र बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-vachaspatyam-achamana",
+    "retrieved": "2026-11-01",
+    "modified": "the lexicon quotes the rule as ॐ केशवाय नमः इत्यादि नामभिः आचमनम् and lists the names in order; the four lines are spelt out in that order as recited in the Shukla YV sandhya (checked against sd-syv-sandhya, which adds स्वाहा after the first three)"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "sd-syv-sandhya",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "variants": [
+    {
+      "reading": "ॐ केशवाय नमः स्वाहा । ॐ नारायणाय नमः स्वाहा । ॐ माधवाय नमः स्वाहा । ॐ गोविन्दाय नमः ।",
+      "note": {
+        "hi": "संध्या-प्रयोग की फ़ाइल में पहले तीन नामों के बाद स्वाहा जुड़ा है।",
+        "en": "The sandhya-prayoga file adds svaha after the first three names.",
+        "bho": "संध्या-प्रयोग के फाइल में पहिला तीन नाँव के बाद स्वाहा जुड़ल बा।"
+      },
+      "source": "sd-syv-sandhya"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional name-formula (smriti rule quoted in a public-domain lexicon, 1873–1884); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "achaman",
+    "vishnu-nama"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

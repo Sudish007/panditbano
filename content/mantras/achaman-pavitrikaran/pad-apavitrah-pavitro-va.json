@@ -1,0 +1,127 @@
+{
+  "id": "pad-apavitrah-pavitro-va",
+  "kind": "paddhati",
+  "locator": "Garuda Purana, Acharakanda 217.1–2 (the paddhati pavitrikarana verse)",
+  "title": {
+    "hi": "पवित्रीकरण मंत्र",
+    "en": "Pavitrikarana verse",
+    "bho": "पवित्रीकरण मंत्र"
+  },
+  "devanagari": "अपवित्रः पवित्रो वा सर्वावस्थां गतोऽपि वा । यः स्मरेत्पुण्डरीकाक्षं स बाह्याभ्यन्तरः शुचिः ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "अपवित्रः",
+      "gloss": {
+        "hi": "अशुद्ध",
+        "en": "impure",
+        "bho": "असुद्ध"
+      }
+    },
+    {
+      "sa": "पवित्रो वा",
+      "gloss": {
+        "hi": "या शुद्ध",
+        "en": "or pure",
+        "bho": "भा सुद्ध"
+      }
+    },
+    {
+      "sa": "सर्वावस्थाम्",
+      "gloss": {
+        "hi": "किसी भी अवस्था में",
+        "en": "into any state whatever",
+        "bho": "कवनो हाल में"
+      }
+    },
+    {
+      "sa": "गतोऽपि वा",
+      "gloss": {
+        "hi": "पहुँचा हुआ भी",
+        "en": "even having gone",
+        "bho": "पहुँचल भी"
+      }
+    },
+    {
+      "sa": "यः",
+      "gloss": {
+        "hi": "जो",
+        "en": "whoever",
+        "bho": "जे"
+      }
+    },
+    {
+      "sa": "स्मरेत्",
+      "gloss": {
+        "hi": "स्मरण करे",
+        "en": "remembers",
+        "bho": "सुमिरन करे"
+      }
+    },
+    {
+      "sa": "पुण्डरीकाक्षम्",
+      "gloss": {
+        "hi": "कमलनयन (विष्णु) को",
+        "en": "the lotus-eyed one (Vishnu)",
+        "bho": "कमलनयन (विष्णु) के"
+      }
+    },
+    {
+      "sa": "स",
+      "gloss": {
+        "hi": "वह",
+        "en": "he",
+        "bho": "ऊ"
+      }
+    },
+    {
+      "sa": "बाह्याभ्यन्तरः",
+      "gloss": {
+        "hi": "बाहर और भीतर से",
+        "en": "outwardly and inwardly",
+        "bho": "बाहर आ भीतर से"
+      }
+    },
+    {
+      "sa": "शुचिः",
+      "gloss": {
+        "hi": "शुद्ध (हो जाता है)",
+        "en": "(becomes) pure",
+        "bho": "सुद्ध (हो जाला)"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "अशुद्ध हो या शुद्ध, किसी भी अवस्था में पहुँचा हुआ हो — जो कमलनयन विष्णु का स्मरण करता है, वह बाहर और भीतर से शुद्ध हो जाता है।",
+    "en": "Impure or pure, in whatever state one may be — whoever remembers the lotus-eyed Vishnu becomes pure outside and within.",
+    "bho": "असुद्ध होखे भा सुद्ध, कवनो हाल में पहुँचल होखे — जे कमलनयन विष्णु के सुमिरन करेला, ऊ बाहर आ भीतर से सुद्ध हो जाला।"
+  },
+  "explanation": {
+    "hi": "यह [[paddhati]] का श्लोक है, वेद का मंत्र नहीं; [गरुड़ पुराण](https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%B0%E0%A5%81%E0%A4%A1%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A8%E0%A5%A7%E0%A5%AD) के आचारकांड में संध्या-विधि इसी से शुरू होती है। हर पूजा के आरंभ में [[purohit]] इसे पढ़ते हुए बाएँ हाथ के पात्र से दाहिने हाथ से (या कुश/फूल से) [[yajman]], परिवार और सामग्री पर जल छिड़कता है — इसे [[pavitrikaran]] कहते हैं। पोथी में इसके आगे ॐ जोड़ा जाता है। श्लोक का भाव यह है कि बाहरी शुद्धि के साथ भगवान का स्मरण ही भीतर की शुद्धि देता है।",
+    "en": "This is a handbook verse, not a Vedic mantra; in the [Garuda Purana](https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%B0%E0%A5%81%E0%A4%A1%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A8%E0%A5%A7%E0%A5%AD) (Acharakanda) the rule of the sandhya opens with it. At the start of every puja the purohit recites it while sprinkling water from the vessel in his left hand, with the right hand or with kusha or a flower, over the host, the family and the materials — this is the pavitrikarana. The handbooks prefix Om. The verse says that outward cleansing is completed by remembering God, which is the cleansing within.",
+    "bho": "ई [[paddhati]] के श्लोक बा, वेद के मंत्र ना; [गरुड़ पुराण](https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%B0%E0%A5%81%E0%A4%A1%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A8%E0%A5%A7%E0%A5%AD) के आचारकांड में संध्या-विधि एही से सुरू होला। हर पूजा के सुरुआत में [[purohit]] एकरा पढ़त-पढ़त बाईं हाथ के बरतन से दाहिना हाथ से (भा कुश/फूल से) [[yajman]], परिवार आ सामग्री पर जल छींटेलन — एकरा [[pavitrikaran]] कहल जाला। पोथी में एकरा आगे ॐ जोड़ल जाला। श्लोक के भाव ई बा कि बाहरी सुद्धि के संगे भगवान के सुमिरन ही भीतर के सुद्धि देला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-garuda-acharakanda-217",
+    "retrieved": "2026-11-01",
+    "modified": "the two half-verses printed as 1,217.1 and 1,217.2 are joined into one shloka; the number markers are removed; the handbooks' leading ॐ is not added"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "sd-syv-sandhya",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Puranic verse (Garuda Purana 1.217.1–2); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "pavitrikaran",
+    "garuda-purana"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

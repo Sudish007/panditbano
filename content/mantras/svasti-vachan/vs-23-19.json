@@ -1,0 +1,157 @@
+{
+  "id": "vs-23-19",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 23.19",
+  "title": {
+    "hi": "गणानां त्वा गणपतिं हवामहे",
+    "en": "Gananam tva ganapatim havamahe",
+    "bho": "गणानां त्वा गणपतिं हवामहे"
+  },
+  "devanagari": "ग॒णानां॑ त्वा ग॒णप॑तिᳪं᳭ हवामहे प्रि॒याणां॑ त्वा प्रि॒यप॑तिᳪं᳭ हवामहे नि॒धीनां॑ त्वा॑ निधि॒पति॑ᳪं᳭ हवामहे वसो मम । आहम॑जानि गर्भ॒धमा त्वम॑जासि गर्भ॒धम् ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "गणानाम्",
+      "gloss": {
+        "hi": "गणों (समूहों) में",
+        "en": "among the hosts",
+        "bho": "गन (समूह) में"
+      }
+    },
+    {
+      "sa": "त्वा",
+      "gloss": {
+        "hi": "तुझे",
+        "en": "you",
+        "bho": "तोहरा"
+      }
+    },
+    {
+      "sa": "गणपतिम्",
+      "gloss": {
+        "hi": "गणों के पति को",
+        "en": "the lord of hosts",
+        "bho": "गन के मालिक के"
+      }
+    },
+    {
+      "sa": "हवामहे",
+      "gloss": {
+        "hi": "हम बुलाते हैं",
+        "en": "we invoke",
+        "bho": "हमनी बोलावत बानी"
+      }
+    },
+    {
+      "sa": "प्रियाणाम्",
+      "gloss": {
+        "hi": "प्रियों में",
+        "en": "among the dear",
+        "bho": "प्रिय लोग में"
+      }
+    },
+    {
+      "sa": "प्रियपतिम्",
+      "gloss": {
+        "hi": "प्रियों के पति को",
+        "en": "the lord of the dear",
+        "bho": "प्रिय लोग के मालिक के"
+      }
+    },
+    {
+      "sa": "निधीनाम्",
+      "gloss": {
+        "hi": "निधियों में",
+        "en": "among the treasures",
+        "bho": "निधि में"
+      }
+    },
+    {
+      "sa": "निधिपतिम्",
+      "gloss": {
+        "hi": "निधियों के पति को",
+        "en": "the lord of treasures",
+        "bho": "निधि के मालिक के"
+      }
+    },
+    {
+      "sa": "वसो",
+      "gloss": {
+        "hi": "हे वसु (निवास कराने वाले)",
+        "en": "O Vasu (good one)",
+        "bho": "हे वसु"
+      }
+    },
+    {
+      "sa": "मम",
+      "gloss": {
+        "hi": "मेरे",
+        "en": "my",
+        "bho": "हमार"
+      }
+    },
+    {
+      "sa": "आ अहम् अजानि",
+      "gloss": {
+        "hi": "मैं (गर्भ को) जन्म दूँ",
+        "en": "may I bring forth",
+        "bho": "हम (गरभ के) जनम दीं"
+      }
+    },
+    {
+      "sa": "गर्भधम्",
+      "gloss": {
+        "hi": "गर्भ धारण करने वाले (फल) को",
+        "en": "the embryo-bearer (the fruit)",
+        "bho": "गरभ धरे वाला (फल) के"
+      }
+    },
+    {
+      "sa": "आ त्वम् अजासि",
+      "gloss": {
+        "hi": "तू जन्म दे",
+        "en": "may you bring forth",
+        "bho": "तू जनम दे"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "गणों में गणपति तुझे हम बुलाते हैं; प्रियों में प्रियपति तुझे हम बुलाते हैं; निधियों में निधिपति तुझे हम बुलाते हैं, हे मेरे वसु। मैं गर्भधारी (फल) को जन्म दूँ, तू भी गर्भधारी को जन्म दे।",
+    "en": "We invoke you, lord of hosts among the hosts; we invoke you, lord of the dear among the dear; we invoke you, lord of treasures among the treasures, O my Vasu. May I bring forth the embryo-bearer; may you too bring it forth.",
+    "bho": "गन में गनपति तोहरा हमनी बोलावत बानी; प्रिय लोग में प्रियपति तोहरा हमनी बोलावत बानी; निधि में निधिपति तोहरा हमनी बोलावत बानी, हे हमार वसु। हम गरभधारी (फल) के जनम दीं, तू भी गरभधारी के जनम दे।"
+  },
+  "explanation": {
+    "hi": "वेद में यह अश्वमेध प्रकरण (VS 23) का मंत्र है, जहाँ 'गणपति' का अर्थ महीधर 'गणों का स्वामी' करते हैं; पोथियाँ इसे [[ganesh]] के आवाहन का मुख्य मंत्र मानती हैं और [[swasti-vachan]] के अंत में तथा [[ganesh-ambika-pujan]] में पढ़ती हैं — यह पद्धति-परंपरा का प्रयोग है, साइट इसे वैसा ही बताती है। दूसरा अर्धांश अश्वमेध के प्रसंग का है और पोथी में पूरा मंत्र ही पढ़ा जाता है।",
+    "en": "In the Veda this mantra belongs to the ashvamedha section (VS 23), where Mahidhara explains 'ganapati' as 'lord of the hosts'; the handbooks take it as the principal invocation of [[ganesh]] and recite it at the close of the svasti-vachana and in the Ganesha-Ambika puja — a usage of the handbook tradition, which this site states as such. The second half belongs to the ashvamedha context; the handbooks recite the whole mantra.",
+    "bho": "वेद में ई अश्वमेध प्रकरन (VS 23) के मंत्र बा, जहाँ 'गणपति' के अरथ महीधर 'गन के मालिक' करेलन; पोथी एकरा [[ganesh]] के आवाहन के मुख्य मंत्र मानेला आ [[swasti-vachan]] के अंत में तथा [[ganesh-ambika-pujan]] में पढ़ेला — ई पद्धति-परंपरा के प्रयोग बा, साइट एकरा ओइसहीं बतावेले। दोसरा अरधांस अश्वमेध के प्रसंग के बा आ पोथी में पूरा मंत्र ही पढ़ल जाला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-23",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "sd-svastivachanam",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "ganesh",
+    "svasti-vachan",
+    "avahan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

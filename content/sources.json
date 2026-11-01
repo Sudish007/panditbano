@@ -1343,6 +1343,90 @@
         "jnanaprabodhini.org"
       ],
       "note": "Open-access precedent cited on Level 0 (R4 section 8.3 rule 2)."
+    },
+    {
+      "id": "ws-garuda-acharakanda-217",
+      "project": "wikisource",
+      "title": "गरुडपुराणम्/आचारकाण्डः/अध्यायः २१७",
+      "url": "https://sa.wikisource.org/wiki/गरुडपुराणम्/आचारकाण्डः/अध्यायः_२१७",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "गरुडपुराण आचारकाण्ड अध्याय 217",
+        "Garuda Purana Acharakanda 217"
+      ],
+      "note": "Sandhya-vidhi chapter of the Purva/Achara-kanda: 1,217.1–2 अपवित्रः पवित्रो वा (the paddhati pavitrikarana verse), 1,217.4 the seven vyahritis with ॐ and the Gayatri-shiras in the स्वः/स्वरोम् form recited in the Hindi belt. The page prints ओं for ॐ and ज्योऽती for ज्योती (normalised, recorded in source.modified). Second source: sd-syv-sandhya (same verses in the Shukla YV sandhya).",
+      "wikisourceLang": "sa",
+      "locator": "GP 1.217"
+    },
+    {
+      "id": "ws-mahanarayana",
+      "project": "wikisource",
+      "title": "महानारायणोपनिषत्",
+      "url": "https://sa.wikisource.org/wiki/महानारायणोपनिषत्",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "verify",
+      "secondSourceAvailable": false,
+      "titles": [
+        "महानारायणोपनिषत्",
+        "Mahanarayana Upanishad"
+      ],
+      "note": "Taittiriya Aranyaka 10 (Mahanarayana Upanishad). Anuvaka 35.2 gives the pranayama unit (seven vyahritis + Gayatri + शिरस् आपो ज्योती रसोऽमृतं) in the Taittiriya reading सुवः/सुवरोम्; 15.2, 37.1, 68.2 repeat the shiras. Used to verify the Garuda-Purana reading of the vyahritis and the shiras; the Taittiriya reading is recorded as a variant.",
+      "wikisourceLang": "sa",
+      "locator": "MNU 35.2 (TA 10.27 in the Dravida numbering)"
+    },
+    {
+      "id": "ws-vachaspatyam-achamana",
+      "project": "wikisource",
+      "title": "वाचस्पत्यम्/आघार",
+      "url": "https://sa.wikisource.org/wiki/वाचस्पत्यम्/आघार",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain (Taranatha Tarkavachaspati, 1873–1884)",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "वाचस्पत्यम्",
+        "Vachaspatyam"
+      ],
+      "note": "Sanskrit lexicon; the entry आचमन quotes the smriti rule of the Vaishnava achamana — three sips with the names beginning केशव (ॐ केशवाय नमः इत्यादि नामभिः आचमनम्), the next names for washing the hands — and lists the twenty-four names in order (केशव, नारायण, माधव, गोविन्द, विष्णु …). Copy source for the achamana name-formula; order and recited form checked against sd-syv-sandhya.",
+      "wikisourceLang": "sa",
+      "locator": "s.v. आचमन"
+    },
+    {
+      "id": "ws-laugakshi-gs-1-10",
+      "project": "wikisource",
+      "title": "लौगाक्षि गृह्य सूत्राणि/कण्डिका ०१-१०",
+      "url": "https://sa.wikisource.org/wiki/लौगाक्षि_गृह्य_सूत्राणि/कण्डिका_०१-१०",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "verify",
+      "secondSourceAvailable": false,
+      "titles": [
+        "लौगाक्षिगृह्यसूत्र",
+        "Laugakshi Grihya Sutra"
+      ],
+      "note": "Kathaka Grihya Sutra with Devapala's commentary; the pranayama passage spells out ओं भूः … ओं सत्यम् । ओं तत्सवितुः … ओं आपो ज्योती रसोऽमृतं ब्रह्म भूर्भुवः स्वरोम् in the northern स्वः/स्वरोम् reading and prescribes three repetitions. Verification only.",
+      "wikisourceLang": "sa",
+      "locator": "kandika 1–10, pranayama"
+    },
+    {
+      "id": "sd-shantipatha",
+      "project": "sanskritdocuments",
+      "title": "शान्तिपाठः (शान्तयः सस्वराः निस्श्वराः च)",
+      "url": "https://sanskritdocuments.org/doc_veda/shaantipaatha.html",
+      "retrieved": "2026-11-01",
+      "licence": "sanskritdocuments.org terms: personal study; not to be copied without permission (brief §14 applies)",
+      "kind": "verify",
+      "secondSourceAvailable": false,
+      "titles": [
+        "शान्तिपाठः (sanskritdocuments)",
+        "Shantipatha (sanskritdocuments)"
+      ],
+      "note": "Collection of the Upanishadic shanti mantras of all four Vedas with svara (सह नाववतु, शं नो मित्रः, भद्रं कर्णेभिः, पूर्णमदः, the Taittiriya ghosha-shanti …). Used to verify the shanti ṛks shared with VS 36 (शं नो मित्रः, शं नो वातः, अहानि शं, शं नो देवीः, आपो हि ष्ठा — Taittiriya variants noted) and to state which shanti mantras are not Shukla-Yajurvedic.",
+      "locator": "whole file"
     }
   ]
 }

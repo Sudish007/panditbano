@@ -1,0 +1,132 @@
+{
+  "id": "vs-25-19",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 25.19 (= RV 1.89.6)",
+  "title": {
+    "hi": "स्वस्ति नः (स्वस्तिवाचन 6)",
+    "en": "Svasti nah (svasti-vachana 6)",
+    "bho": "स्वस्ति नः (स्वस्तिवाचन 6)"
+  },
+  "devanagari": "स्व॒स्ति न॒ इन्द्रो॑ वृ॒द्धश्र॑वाः स्व॒स्ति नः॑ पू॒षा वि॒श्ववे॑दाः । स्व॒स्ति न॒स्तार्क्ष्यो॒ अरि॑ष्टनेमिः स्व॒स्ति नो॒ बृह॒स्पति॑र्दधातु ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "स्वस्ति",
+      "gloss": {
+        "hi": "कल्याण",
+        "en": "well-being",
+        "bho": "कल्यान"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमारा (करें)",
+        "en": "(grant) us",
+        "bho": "हमनी के"
+      }
+    },
+    {
+      "sa": "इन्द्रः",
+      "gloss": {
+        "hi": "इंद्र",
+        "en": "Indra",
+        "bho": "इंद्र"
+      }
+    },
+    {
+      "sa": "वृद्धश्रवाः",
+      "gloss": {
+        "hi": "महान् यश वाले",
+        "en": "of great renown",
+        "bho": "बड़ जस वाला"
+      }
+    },
+    {
+      "sa": "पूषा",
+      "gloss": {
+        "hi": "पूषा",
+        "en": "Pushan",
+        "bho": "पूषा"
+      }
+    },
+    {
+      "sa": "विश्ववेदाः",
+      "gloss": {
+        "hi": "सब कुछ जानने वाले",
+        "en": "all-knowing",
+        "bho": "सब कुछ जाने वाला"
+      }
+    },
+    {
+      "sa": "तार्क्ष्यः",
+      "gloss": {
+        "hi": "तार्क्ष्य (गरुड़)",
+        "en": "Tarkshya (Garuda)",
+        "bho": "तार्क्ष्य (गरुड़)"
+      }
+    },
+    {
+      "sa": "अरिष्टनेमिः",
+      "gloss": {
+        "hi": "जिसके रथ-चक्र की नेमि अटूट है",
+        "en": "whose wheel-rim is unbroken",
+        "bho": "जेकर रथ के चक्का के नेमि अटूट बा"
+      }
+    },
+    {
+      "sa": "बृहस्पतिः",
+      "gloss": {
+        "hi": "बृहस्पति",
+        "en": "Brihaspati",
+        "bho": "बृहस्पति"
+      }
+    },
+    {
+      "sa": "दधातु",
+      "gloss": {
+        "hi": "दें, धारण कराएँ",
+        "en": "may grant",
+        "bho": "देसु"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "महान् यश वाले इंद्र हमारा कल्याण करें; सब कुछ जानने वाले पूषा हमारा कल्याण करें; अटूट नेमि वाले तार्क्ष्य (गरुड़) हमारा कल्याण करें; बृहस्पति हमें कल्याण दें।",
+    "en": "May Indra of great renown grant us well-being; may all-knowing Pushan grant us well-being; may Tarkshya (Garuda) of the unbroken wheel-rim grant us well-being; may Brihaspati grant us well-being.",
+    "bho": "बड़ जस वाला इंद्र हमनी के कल्यान करसु; सब कुछ जाने वाला पूषा हमनी के कल्यान करसु; अटूट नेमि वाला तार्क्ष्य (गरुड़) हमनी के कल्यान करसु; बृहस्पति हमनी के कल्यान देसु।"
+  },
+  "explanation": {
+    "hi": "यह स्वस्तिवाचन की सबसे प्रसिद्ध ऋचा है (ऋग्वेद 1.89.6) — 'स्वस्ति' शब्द से ही पूरे पाठ का नाम पड़ा। चार बार 'स्वस्ति नः' — इंद्र, पूषा, तार्क्ष्य और बृहस्पति से कल्याण की याचना। मुंडकोपनिषद् के आरंभ में भी यह शांति-मंत्र के रूप में पढ़ी जाती है।",
+    "en": "The best-known ṛk of the svasti-vachana (Rigveda 1.89.6) — the whole recitation takes its name from its word 'svasti'. Four times 'svasti nah': well-being is asked of Indra, Pushan, Tarkshya and Brihaspati. It also opens the Mundaka Upanishad as a shanti mantra.",
+    "bho": "ई स्वस्तिवाचन के सबसे मसहूर ऋचा बा (ऋग्वेद 1.89.6) — 'स्वस्ति' सब्द से ही पूरा पाठ के नाँव पड़ल। चार बेर 'स्वस्ति नः' — इंद्र, पूषा, तार्क्ष्य आ बृहस्पति से कल्यान के याचना। मुंडकोपनिषद् के सुरुआत में भी ई शांति-मंत्र के रूप में पढ़ल जाला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-25",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "sd-svastivachanam",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "svasti-vachan",
+    "rv-1-89"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

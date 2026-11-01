@@ -1,0 +1,196 @@
+{
+  "id": "vs-25-16",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 25.16 (= RV 1.89.3)",
+  "title": {
+    "hi": "तान् पूर्वया निविदा (स्वस्तिवाचन 3)",
+    "en": "Tan purvaya nivida (svasti-vachana 3)",
+    "bho": "तान् पूर्वया निविदा (स्वस्तिवाचन 3)"
+  },
+  "devanagari": "तान्पूर्व॑या नि॒विदा॑ हूमहे व॒यं भगं॑ मि॒त्रमदि॑तिं॒ दक्ष॑म॒स्रिध॑म् । अ॒र्य॒मणं॒ वरु॑ण॒ᳪं᳭ सोम॑म॒श्विना॒ सर॑स्वती नः सु॒भगा॒ मय॑स्करत् ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "तान्",
+      "gloss": {
+        "hi": "उन (देवताओं) को",
+        "en": "them (the gods)",
+        "bho": "ओह (देवता लोग) के"
+      }
+    },
+    {
+      "sa": "पूर्वया",
+      "gloss": {
+        "hi": "प्राचीन",
+        "en": "ancient",
+        "bho": "पुरान"
+      }
+    },
+    {
+      "sa": "निविदा",
+      "gloss": {
+        "hi": "निविद् (आह्वान-वाक्य) से",
+        "en": "with the nivid (formula of invocation)",
+        "bho": "निविद् (बोलावे के वाक्य) से"
+      }
+    },
+    {
+      "sa": "हूमहे",
+      "gloss": {
+        "hi": "हम बुलाते हैं",
+        "en": "we invoke",
+        "bho": "हमनी बोलावत बानी"
+      }
+    },
+    {
+      "sa": "वयम्",
+      "gloss": {
+        "hi": "हम",
+        "en": "we",
+        "bho": "हमनी"
+      }
+    },
+    {
+      "sa": "भगम्",
+      "gloss": {
+        "hi": "भग को",
+        "en": "Bhaga",
+        "bho": "भग के"
+      }
+    },
+    {
+      "sa": "मित्रम्",
+      "gloss": {
+        "hi": "मित्र को",
+        "en": "Mitra",
+        "bho": "मित्र के"
+      }
+    },
+    {
+      "sa": "अदितिम्",
+      "gloss": {
+        "hi": "अदिति को",
+        "en": "Aditi",
+        "bho": "अदिति के"
+      }
+    },
+    {
+      "sa": "दक्षम्",
+      "gloss": {
+        "hi": "दक्ष को",
+        "en": "Daksha",
+        "bho": "दक्ष के"
+      }
+    },
+    {
+      "sa": "अस्रिधम्",
+      "gloss": {
+        "hi": "कभी न चूकने वाले",
+        "en": "the unfailing",
+        "bho": "कबो ना चूके वाला"
+      }
+    },
+    {
+      "sa": "अर्यमणम्",
+      "gloss": {
+        "hi": "अर्यमा को",
+        "en": "Aryaman",
+        "bho": "अर्यमा के"
+      }
+    },
+    {
+      "sa": "वरुणम्",
+      "gloss": {
+        "hi": "वरुण को",
+        "en": "Varuna",
+        "bho": "वरुण के"
+      }
+    },
+    {
+      "sa": "सोमम्",
+      "gloss": {
+        "hi": "सोम को",
+        "en": "Soma",
+        "bho": "सोम के"
+      }
+    },
+    {
+      "sa": "अश्विना",
+      "gloss": {
+        "hi": "दोनों अश्विनीकुमारों को",
+        "en": "the two Ashvins",
+        "bho": "दुनो अश्विनीकुमार के"
+      }
+    },
+    {
+      "sa": "सरस्वती",
+      "gloss": {
+        "hi": "सरस्वती",
+        "en": "Sarasvati",
+        "bho": "सरस्वती"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमारे लिए",
+        "en": "for us",
+        "bho": "हमनी खातिर"
+      }
+    },
+    {
+      "sa": "सुभगा",
+      "gloss": {
+        "hi": "सौभाग्यमयी",
+        "en": "gracious, of good fortune",
+        "bho": "सौभाग्य वाली"
+      }
+    },
+    {
+      "sa": "मयः करत्",
+      "gloss": {
+        "hi": "सुख करे",
+        "en": "may bring happiness",
+        "bho": "सुख करसु"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "उन देवताओं को हम प्राचीन आह्वान-वाक्य से बुलाते हैं — भग, मित्र, अदिति, कभी न चूकने वाले दक्ष, अर्यमा, वरुण, सोम, दोनों अश्विनीकुमारों को; सौभाग्यमयी सरस्वती हमारे लिए सुख करें।",
+    "en": "Them we invoke with the ancient formula of invocation — Bhaga, Mitra, Aditi, Daksha the unfailing, Aryaman, Varuna, Soma, the two Ashvins; may gracious Sarasvati bring us happiness.",
+    "bho": "ओह देवता लोग के हमनी पुरान बोलावे वाला वाक्य से बोलावत बानी — भग, मित्र, अदिति, कबो ना चूके वाला दक्ष, अर्यमा, वरुण, सोम, दुनो अश्विनीकुमार के; सौभाग्य वाली सरस्वती हमनी खातिर सुख करसु।"
+  },
+  "explanation": {
+    "hi": "तीसरी ऋचा (ऋग्वेद 1.89.3)। यहाँ देवताओं के नाम गिनाए गए हैं — भग (भाग्य), मित्र (दिन), अदिति (माता), दक्ष (सामर्थ्य), अर्यमा, वरुण, सोम, अश्विनीकुमार और सरस्वती। 'निविद्' वैदिक यज्ञ का प्राचीन आह्वान-वाक्य है।",
+    "en": "Third ṛk (Rigveda 1.89.3), which names the gods — Bhaga (fortune), Mitra (the day), Aditi (the mother), Daksha (ability), Aryaman, Varuna, Soma, the Ashvins and Sarasvati. The 'nivid' is the ancient formula of invocation of the Vedic sacrifice.",
+    "bho": "तीसरा ऋचा (ऋग्वेद 1.89.3)। इहाँ देवता लोग के नाँव गिनावल गइल बा — भग (भाग), मित्र (दिन), अदिति (माई), दक्ष (सामरथ), अर्यमा, वरुण, सोम, अश्विनीकुमार आ सरस्वती। 'निविद्' वैदिक जग्य के पुरान बोलावे वाला वाक्य बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-25",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "sd-svastivachanam",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "svasti-vachan",
+    "rv-1-89"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

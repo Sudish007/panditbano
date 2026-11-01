@@ -1,0 +1,172 @@
+{
+  "id": "vs-36-11",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 36.11",
+  "title": {
+    "hi": "अहानि शं (शांति 4)",
+    "en": "Ahani sham bhavantu nah (shanti 4)",
+    "bho": "अहानि शं (शांति 4)"
+  },
+  "devanagari": "अहा॑नि॒ शं भव॑न्तु नः॒ शᳪं᳭ रात्रीः॒ प्रति॑ धीयताम् । शं न॑ इन्द्रा॒ग्नी भ॑वता॒मवो॑भिः॒ शं न॒ इन्द्रा॒वरु॑णा रा॒तह॑व्या । शं न॑ इन्द्रापू॒षणा॒ वाज॑सातौ॒ शमिन्द्रा॒सोमा॑ सुवि॒ताय॒ शं योः ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "अहानि",
+      "gloss": {
+        "hi": "दिन",
+        "en": "the days",
+        "bho": "दिन"
+      }
+    },
+    {
+      "sa": "शम्",
+      "gloss": {
+        "hi": "कल्याणकारी",
+        "en": "well-being",
+        "bho": "कल्यानकारी"
+      }
+    },
+    {
+      "sa": "भवन्तु",
+      "gloss": {
+        "hi": "हों",
+        "en": "may be",
+        "bho": "होखसु"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमारे लिए",
+        "en": "for us",
+        "bho": "हमनी खातिर"
+      }
+    },
+    {
+      "sa": "रात्रीः",
+      "gloss": {
+        "hi": "रातें",
+        "en": "the nights",
+        "bho": "रात"
+      }
+    },
+    {
+      "sa": "प्रति धीयताम्",
+      "gloss": {
+        "hi": "रखी जाएँ, स्थापित हों",
+        "en": "be set, be ordained",
+        "bho": "राखल जाव"
+      }
+    },
+    {
+      "sa": "इन्द्राग्नी",
+      "gloss": {
+        "hi": "इंद्र और अग्नि",
+        "en": "Indra and Agni",
+        "bho": "इंद्र आ अग्नि"
+      }
+    },
+    {
+      "sa": "अवोभिः",
+      "gloss": {
+        "hi": "अपनी रक्षाओं से",
+        "en": "with their protections",
+        "bho": "आपन रच्छा से"
+      }
+    },
+    {
+      "sa": "इन्द्रावरुणा",
+      "gloss": {
+        "hi": "इंद्र और वरुण",
+        "en": "Indra and Varuna",
+        "bho": "इंद्र आ वरुण"
+      }
+    },
+    {
+      "sa": "रातहव्या",
+      "gloss": {
+        "hi": "जिन्हें हवि दी गई है",
+        "en": "to whom the offering is given",
+        "bho": "जेकरा हवि दिहल गइल"
+      }
+    },
+    {
+      "sa": "इन्द्रापूषणा",
+      "gloss": {
+        "hi": "इंद्र और पूषा",
+        "en": "Indra and Pushan",
+        "bho": "इंद्र आ पूषा"
+      }
+    },
+    {
+      "sa": "वाजसातौ",
+      "gloss": {
+        "hi": "अन्न और बल पाने में",
+        "en": "in the winning of food and strength",
+        "bho": "अन्न आ बल पावे में"
+      }
+    },
+    {
+      "sa": "इन्द्रासोमा",
+      "gloss": {
+        "hi": "इंद्र और सोम",
+        "en": "Indra and Soma",
+        "bho": "इंद्र आ सोम"
+      }
+    },
+    {
+      "sa": "सुविताय",
+      "gloss": {
+        "hi": "सुख से चलने (कल्याण) के लिए",
+        "en": "for good going, for welfare",
+        "bho": "नीक चाल खातिर"
+      }
+    },
+    {
+      "sa": "शं योः",
+      "gloss": {
+        "hi": "रोग-शमन और भय-निवारण",
+        "en": "well-being and freedom from harm",
+        "bho": "कल्यान आ भय से छुटकारा"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "दिन हमारे लिए कल्याणकारी हों, रातें कल्याणकारी रखी जाएँ; इंद्र और अग्नि अपनी रक्षाओं के साथ हमारे लिए कल्याणकारी हों; हवि पाए इंद्र और वरुण हमारे लिए कल्याणकारी हों; इंद्र और पूषा अन्न-बल पाने में हमारे लिए कल्याणकारी हों; इंद्र और सोम हमारे सुख से चलने के लिए कल्याणकारी हों — शं और योः।",
+    "en": "May the days be well-being for us, may the nights be set in well-being; may Indra and Agni with their protections be well-being for us; may Indra and Varuna, who have received the offering, be well-being for us; may Indra and Pushan be well-being for us in the winning of food and strength; may Indra and Soma be well-being for our good going — sham and yoh.",
+    "bho": "दिन हमनी खातिर कल्यानकारी होखसु, रात कल्यानकारी राखल जाव; इंद्र आ अग्नि आपन रच्छा संगे हमनी खातिर कल्यानकारी होखसु; हवि पावल इंद्र आ वरुण हमनी खातिर कल्यानकारी होखसु; इंद्र आ पूषा अन्न-बल पावे में हमनी खातिर कल्यानकारी होखसु; इंद्र आ सोम हमनी के नीक चाल खातिर कल्यानकारी होखसु — शं आ योः।"
+  },
+  "explanation": {
+    "hi": "VS 36.11 — दिन-रात और इंद्र के साथ जोड़े गए देवताओं से शांति। 'शं योः' वैदिक प्रार्थनाओं का पुराना जोड़ा है: उवट-महीधर इसे 'रोगों का शमन और भयों का दूर होना' समझाते हैं — यह ग्रंथ का अपना कथन है।",
+    "en": "VS 36.11 — peace through day and night and through the gods paired with Indra. 'Sham yoh' is an old pair of Vedic prayer; Uvata and Mahidhara explain it as 'the calming of ills and the removal of fears' — the text's own statement.",
+    "bho": "VS 36.11 — दिन-रात आ इंद्र संगे जोड़ल देवता लोग से शांति। 'शं योः' वैदिक प्रार्थना के पुरान जोड़ा बा: उवट-महीधर एकरा 'कष्ट के सांत होखल आ भय के दूर होखल' समझावेलन — ई ग्रंथ के आपन कथन बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-36",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "sd-shantipatha",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "shanti-path",
+    "sham-nah"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

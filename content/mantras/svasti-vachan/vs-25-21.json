@@ -1,0 +1,167 @@
+{
+  "id": "vs-25-21",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 25.21 (= RV 1.89.8)",
+  "title": {
+    "hi": "भद्रं कर्णेभिः शृणुयाम (स्वस्तिवाचन 8)",
+    "en": "Bhadram karnebhih shrinuyama (svasti-vachana 8)",
+    "bho": "भद्रं कर्णेभिः शृणुयाम (स्वस्तिवाचन 8)"
+  },
+  "devanagari": "भ॒द्रं कर्णे॑भिः शृणुयाम देवा भ॒द्रं प॑श्येमा॒क्षभि॑र्यजत्राः । स्थि॒रैरङ्गै॑स्तुष्टु॒वाᳪं᳭स॑स्त॒नूभि॒र्व्य॒शेमहि दे॒वहि॑तं॒ यदायुः॑ ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "भद्रम्",
+      "gloss": {
+        "hi": "शुभ, कल्याणकारी",
+        "en": "what is good",
+        "bho": "सुभ"
+      }
+    },
+    {
+      "sa": "कर्णेभिः",
+      "gloss": {
+        "hi": "कानों से",
+        "en": "with our ears",
+        "bho": "कान से"
+      }
+    },
+    {
+      "sa": "शृणुयाम",
+      "gloss": {
+        "hi": "हम सुनें",
+        "en": "may we hear",
+        "bho": "हमनी सुनीं"
+      }
+    },
+    {
+      "sa": "देवाः",
+      "gloss": {
+        "hi": "हे देवताओं",
+        "en": "O gods",
+        "bho": "हे देवता लोग"
+      }
+    },
+    {
+      "sa": "पश्येम",
+      "gloss": {
+        "hi": "हम देखें",
+        "en": "may we see",
+        "bho": "हमनी देखीं"
+      }
+    },
+    {
+      "sa": "अक्षभिः",
+      "gloss": {
+        "hi": "आँखों से",
+        "en": "with our eyes",
+        "bho": "आँख से"
+      }
+    },
+    {
+      "sa": "यजत्राः",
+      "gloss": {
+        "hi": "हे पूजनीय",
+        "en": "O worshipful ones",
+        "bho": "हे पूजे जोग"
+      }
+    },
+    {
+      "sa": "स्थिरैः अङ्गैः",
+      "gloss": {
+        "hi": "दृढ़ अंगों से",
+        "en": "with firm limbs",
+        "bho": "मजबूत अंग से"
+      }
+    },
+    {
+      "sa": "तुष्टुवांसः",
+      "gloss": {
+        "hi": "स्तुति करते हुए",
+        "en": "praising",
+        "bho": "अस्तुति करत"
+      }
+    },
+    {
+      "sa": "तनूभिः",
+      "gloss": {
+        "hi": "शरीरों से",
+        "en": "with our bodies",
+        "bho": "देह से"
+      }
+    },
+    {
+      "sa": "व्यशेमहि",
+      "gloss": {
+        "hi": "हम भोगें, पाएँ",
+        "en": "may we attain",
+        "bho": "हमनी पाईं"
+      }
+    },
+    {
+      "sa": "देवहितम्",
+      "gloss": {
+        "hi": "देवताओं द्वारा नियत",
+        "en": "appointed by the gods",
+        "bho": "देवता लोग के नियत कइल"
+      }
+    },
+    {
+      "sa": "यत् आयुः",
+      "gloss": {
+        "hi": "जो आयु",
+        "en": "the life-span which",
+        "bho": "जे उमिर"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे देवताओं! हम कानों से शुभ सुनें; हे पूजनीय! हम आँखों से शुभ देखें; दृढ़ अंगों और शरीरों से तुम्हारी स्तुति करते हुए हम देवताओं द्वारा नियत आयु को पाएँ।",
+    "en": "O gods, may we hear what is good with our ears; O worshipful ones, may we see what is good with our eyes; praising you with firm limbs and bodies, may we attain the life-span the gods have appointed.",
+    "bho": "हे देवता लोग! हमनी कान से सुभ सुनीं; हे पूजे जोग! हमनी आँख से सुभ देखीं; मजबूत अंग आ देह से राउर अस्तुति करत हमनी देवता लोग के नियत कइल उमिर पाईं।"
+  },
+  "explanation": {
+    "hi": "आठवीं ऋचा (ऋग्वेद 1.89.8) — स्वस्तिवाचन की दूसरी अति-प्रसिद्ध ऋचा; 'भद्रं कर्णेभिः' अथर्ववेद की उपनिषदों का शांति-मंत्र भी है। यजुर्वेद का पाठ 'व्यशेमहि' है, ऋग्वेद का 'व्यशेम' — यह पाठ-भेद नीचे दिया है।",
+    "en": "Eighth ṛk (Rigveda 1.89.8), the other very famous ṛk of the svasti-vachana; 'bhadram karnebhih' is also the shanti mantra of the Atharvaveda Upanishads. The Yajurveda reads 'vyashemahi', the Rigveda 'vyashema' — the variant is listed below.",
+    "bho": "आठवाँ ऋचा (ऋग्वेद 1.89.8) — स्वस्तिवाचन के दोसरा बहुते मसहूर ऋचा; 'भद्रं कर्णेभिः' अथर्ववेद के उपनिषद के शांति-मंत्र भी बा। यजुर्वेद के पाठ 'व्यशेमहि' बा, ऋग्वेद के 'व्यशेम' — ई पाठ-भेद नीचे दिहल बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-25",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "sd-svastivachanam",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "svasti-vachan",
+    "rv-1-89"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "variants": [
+    {
+      "reading": "भ॒द्रं कर्णे᳚भिः श‍ृणुयाम देवा भ॒द्रं प॑श्येमा॒क्षभि॑र्यजत्राः । स्थि॒रैरङ्गै᳚स्तुष्टु॒वांस॑स्त॒नूभि॒र्व्य॑शेम दे॒वहि॑तं॒ यदायुः॑ ॥",
+      "note": {
+        "hi": "ऋग्वेद का पाठ 'व्यशेम' (संकलित स्वस्तिवाचन फ़ाइल में यही); माध्यंदिन संहिता में 'व्यशेमहि'।",
+        "en": "The Rigveda reading 'vyashema' (so the composite svasti-vachana file); the Madhyandina Samhita reads 'vyashemahi'.",
+        "bho": "ऋग्वेद के पाठ 'व्यशेम' (संकलित स्वस्तिवाचन फाइल में इहे); माध्यंदिन संहिता में 'व्यशेमहि'।"
+      },
+      "source": "sd-svastivachanam"
+    }
+  ]
+}

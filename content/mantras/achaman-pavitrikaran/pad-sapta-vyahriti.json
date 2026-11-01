@@ -1,0 +1,131 @@
+{
+  "id": "pad-sapta-vyahriti",
+  "kind": "vedic",
+  "locator": "Garuda Purana 1.217.4 (seven vyahritis with ॐ); Taittiriya Aranyaka 10, 35.2 as variant",
+  "title": {
+    "hi": "सप्त व्याहृति",
+    "en": "The seven vyahritis",
+    "bho": "सप्त व्याहृति"
+  },
+  "devanagari": "ॐ भूः ॐ भुवः ॐ स्वः ॐ महः ॐ जनः ॐ तपः ॐ सत्यम् ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "ॐ",
+      "gloss": {
+        "hi": "प्रणव",
+        "en": "the pranava, Om",
+        "bho": "प्रनव"
+      }
+    },
+    {
+      "sa": "भूः",
+      "gloss": {
+        "hi": "भूलोक, पृथ्वी",
+        "en": "the earth-world",
+        "bho": "भूलोक, धरती"
+      }
+    },
+    {
+      "sa": "भुवः",
+      "gloss": {
+        "hi": "भुवर्लोक, अंतरिक्ष",
+        "en": "the mid-world",
+        "bho": "भुवर्लोक, अंतरिक्ष"
+      }
+    },
+    {
+      "sa": "स्वः",
+      "gloss": {
+        "hi": "स्वर्लोक",
+        "en": "the heaven-world",
+        "bho": "सरग"
+      }
+    },
+    {
+      "sa": "महः",
+      "gloss": {
+        "hi": "महर्लोक",
+        "en": "the world of greatness (mahar)",
+        "bho": "महर्लोक"
+      }
+    },
+    {
+      "sa": "जनः",
+      "gloss": {
+        "hi": "जनलोक",
+        "en": "the world of jana",
+        "bho": "जनलोक"
+      }
+    },
+    {
+      "sa": "तपः",
+      "gloss": {
+        "hi": "तपोलोक",
+        "en": "the world of tapas",
+        "bho": "तपोलोक"
+      }
+    },
+    {
+      "sa": "सत्यम्",
+      "gloss": {
+        "hi": "सत्यलोक",
+        "en": "the world of truth (satya)",
+        "bho": "सत्यलोक"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "ॐ — भूलोक, भुवर्लोक, स्वर्लोक, महर्लोक, जनलोक, तपोलोक, सत्यलोक: सातों लोकों के नाम, हर नाम से पहले ॐ।",
+    "en": "Om — earth, mid-space, heaven, mahar, jana, tapas, satya: the names of the seven worlds, each preceded by Om.",
+    "bho": "ॐ — भूलोक, भुवर्लोक, सरग, महर्लोक, जनलोक, तपोलोक, सत्यलोक: सातो लोक के नाँव, हर नाँव से पहिले ॐ।"
+  },
+  "explanation": {
+    "hi": "व्याहृति का अर्थ है 'उच्चारण'; भूः, भुवः, स्वः — ये तीन महाव्याहृतियाँ गायत्री के आगे हर जगह लगती हैं, और [[pranayam]] में सातों लोकों के नाम ॐ के साथ पढ़े जाते हैं। इसके बाद गायत्री और फिर गायत्री-शिरस् (आपो ज्योती…) — यही पूरा प्राणायाम-मंत्र है, जिसे श्वास रोककर तीन बार पढ़ा जाता है। यह रूप [गरुड़ पुराण](https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%B0%E0%A5%81%E0%A4%A1%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A8%E0%A5%A7%E0%A5%AD) की संध्या-विधि और [महानारायण उपनिषद्](https://sa.wikisource.org/wiki/महानारायणोपनिषत्) दोनों में है; तैत्तिरीय पाठ में स्वः की जगह सुवः बोला जाता है।",
+    "en": "A vyahriti is an 'utterance': bhuh, bhuvah, svah — the three great vyahritis — precede the Gayatri everywhere, and in pranayama all seven world-names are recited with Om. Then follow the Gayatri and the Gayatri-shiras (apo jyoti …): together they form the pranayama mantra, recited three times with the breath held. This form appears both in the sandhya rule of the [Garuda Purana](https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%B0%E0%A5%81%E0%A4%A1%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A8%E0%A5%A7%E0%A5%AD) and in the [Mahanarayana Upanishad](https://sa.wikisource.org/wiki/महानारायणोपनिषत्); the Taittiriya recitation says suvah for svah.",
+    "bho": "व्याहृति के अरथ बा 'उचारन'; भूः, भुवः, स्वः — ई तीन महाव्याहृति गायत्री के आगे हर जगह लागेला, आ [[pranayam]] में सातो लोक के नाँव ॐ के संगे पढ़ल जाला। एकरा बाद गायत्री आ फेर गायत्री-शिरस् (आपो ज्योती…) — इहे पूरा प्राणायाम-मंत्र बा, जे साँस रोक के तीन बेर पढ़ल जाला। ई रूप [गरुड़ पुराण](https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%B0%E0%A5%81%E0%A4%A1%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A8%E0%A5%A7%E0%A5%AD) के संध्या-विधि आ [महानारायण उपनिषद्](https://sa.wikisource.org/wiki/महानारायणोपनिषत्) दुनो में बा; तैत्तिरीय पाठ में स्वः के जगह सुवः बोलल जाला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-garuda-acharakanda-217",
+    "retrieved": "2026-11-01",
+    "modified": "ओं → ॐ; final सत्यं → सत्यम् before the closing ॥ (added); the page's following words तत्स्त्रिपदा (= 'then the three-footed Gayatri') belong to the rubric and are not part of the formula"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ws-mahanarayana",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ws-laugakshi-gs-1-10",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "sd-syv-sandhya",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "variants": [
+    {
+      "reading": "ॐ भूः । ॐ भुवः । ओꣳ सुवः । ॐ महः । ॐ जनः । ॐ तपः । ओꣳ सत्यम् ।",
+      "note": {
+        "hi": "तैत्तिरीय आरण्यक का पाठ ([महानारायण उपनिषद्](https://sa.wikisource.org/wiki/महानारायणोपनिषत्) 35.2): स्वः के स्थान पर सुवः बोला जाता है।",
+        "en": "Taittiriya reading ([Mahanarayana Upanishad](https://sa.wikisource.org/wiki/महानारायणोपनिषत्) 35.2): suvah for svah.",
+        "bho": "तैत्तिरीय आरण्यक के पाठ ([महानारायण उपनिषद्](https://sa.wikisource.org/wiki/महानारायणोपनिषत्) 35.2) में स्वः के जगह सुवः बोलल जाला।"
+      },
+      "source": "ws-mahanarayana"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Vedic formula (Taittiriya Aranyaka 10) as given in Garuda Purana 1.217; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "pranayam",
+    "vyahriti",
+    "sandhya"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

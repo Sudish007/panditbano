@@ -1,0 +1,120 @@
+{
+  "id": "vs-36-13",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 36.13 (= RV 1.22.15; also VS 35.21)",
+  "title": {
+    "hi": "स्योना पृथिवि (शांति 6)",
+    "en": "Syona prithivi (shanti 6)",
+    "bho": "स्योना पृथिवि (शांति 6)"
+  },
+  "devanagari": "स्यो॒ना पृ॑थिवि नो भवानृक्ष॒रा नि॒वेश॑नी । यच्छा॑ नः॒ शर्म॑ स॒प्रथाः॑ ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "स्योना",
+      "gloss": {
+        "hi": "सुखदायिनी",
+        "en": "gentle, pleasant",
+        "bho": "सुख देवे वाली"
+      }
+    },
+    {
+      "sa": "पृथिवि",
+      "gloss": {
+        "hi": "हे पृथिवी",
+        "en": "O Earth",
+        "bho": "हे धरती"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमारे लिए",
+        "en": "for us",
+        "bho": "हमनी खातिर"
+      }
+    },
+    {
+      "sa": "भव",
+      "gloss": {
+        "hi": "हो",
+        "en": "be",
+        "bho": "होखीं"
+      }
+    },
+    {
+      "sa": "अनृक्षरा",
+      "gloss": {
+        "hi": "कंटकरहित",
+        "en": "thornless",
+        "bho": "बिना काँट के"
+      }
+    },
+    {
+      "sa": "निवेशनी",
+      "gloss": {
+        "hi": "निवास देने वाली",
+        "en": "giving us a dwelling",
+        "bho": "रहे के ठौर देवे वाली"
+      }
+    },
+    {
+      "sa": "यच्छ",
+      "gloss": {
+        "hi": "दो",
+        "en": "grant",
+        "bho": "दीं"
+      }
+    },
+    {
+      "sa": "शर्म",
+      "gloss": {
+        "hi": "सुख, आश्रय",
+        "en": "shelter, happiness",
+        "bho": "सुख, आसरा"
+      }
+    },
+    {
+      "sa": "सप्रथाः",
+      "gloss": {
+        "hi": "विस्तृत",
+        "en": "wide-spreading",
+        "bho": "चाकर"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे पृथिवी! तू हमारे लिए सुखदायिनी, कंटकरहित और निवास देने वाली हो; हमें विस्तृत आश्रय दे।",
+    "en": "O Earth, be gentle to us, thornless, a place of rest; grant us wide shelter.",
+    "bho": "हे धरती! तू हमनी खातिर सुख देवे वाली, बिना काँट के आ रहे के ठौर देवे वाली होखीं; हमनी के चाकर आसरा दीं।"
+  },
+  "explanation": {
+    "hi": "VS 36.13 (ऋग्वेद 1.22.15 भी) — पृथिवी से शांति; महीधर इसे 35.21 की व्याख्या से जोड़ते हैं, जहाँ यह अंत्येष्टि के प्रसंग में आती है। [[shanti-path]] के विस्तृत रूप में यह 'शं नो' ऋचाओं के बाद पढ़ी जाती है।",
+    "en": "VS 36.13 (also Rigveda 1.22.15) — peace from the Earth; Mahidhara refers to his gloss at 35.21, where the same mantra appears in the funeral context. In the longer shanti-patha it follows the 'sham nah' ṛks.",
+    "bho": "VS 36.13 (ऋग्वेद 1.22.15 भी) — धरती से शांति; महीधर एकरा 35.21 के व्याख्या से जोड़ेलन, जहाँ इहे मंत्र अंत्येष्टि के प्रसंग में आवेला। [[shanti-path]] के बिस्तार वाला रूप में ई 'शं नो' ऋचा के बाद पढ़ल जाला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-36",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "shanti-path",
+    "prithivi"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

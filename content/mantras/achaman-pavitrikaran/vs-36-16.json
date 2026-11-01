@@ -1,0 +1,141 @@
+{
+  "id": "vs-36-16",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 36.16 (= RV 10.9.3; also VS 11.52)",
+  "title": {
+    "hi": "तस्मा अरं गमाम वः (मार्जन 3)",
+    "en": "Tasma aram gamama vah (marjana 3)",
+    "bho": "तस्मा अरं गमाम वः (मार्जन 3)"
+  },
+  "devanagari": "तस्मा॒ अरं॑ गमाम वो॒ यस्य॒ क्षया॑य॒ जिन्व॑थ । आपो॑ ज॒नय॑था च नः ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "तस्मै",
+      "gloss": {
+        "hi": "उस (धाम) के लिए",
+        "en": "to that (abode)",
+        "bho": "ओह (धाम) खातिर"
+      }
+    },
+    {
+      "sa": "अरम्",
+      "gloss": {
+        "hi": "पूरी तरह, तत्परता से",
+        "en": "fully, readily",
+        "bho": "पूरा तरह"
+      }
+    },
+    {
+      "sa": "गमाम",
+      "gloss": {
+        "hi": "हम जाएँ",
+        "en": "may we go",
+        "bho": "हमनी के जाईं"
+      }
+    },
+    {
+      "sa": "वः",
+      "gloss": {
+        "hi": "तुम (के द्वारा)",
+        "en": "(by) you",
+        "bho": "रउआ (से)"
+      }
+    },
+    {
+      "sa": "यस्य",
+      "gloss": {
+        "hi": "जिसके",
+        "en": "whose",
+        "bho": "जेकर"
+      }
+    },
+    {
+      "sa": "क्षयाय",
+      "gloss": {
+        "hi": "निवास के लिए",
+        "en": "for the dwelling",
+        "bho": "घर खातिर"
+      }
+    },
+    {
+      "sa": "जिन्वथ",
+      "gloss": {
+        "hi": "प्रेरित करते हो",
+        "en": "you quicken",
+        "bho": "प्रेरित करत बाड़ू"
+      }
+    },
+    {
+      "sa": "आपः",
+      "gloss": {
+        "hi": "हे जल",
+        "en": "O Waters",
+        "bho": "हे जल"
+      }
+    },
+    {
+      "sa": "जनयथ",
+      "gloss": {
+        "hi": "उत्पन्न करो, नया जीवन दो",
+        "en": "give birth, renew",
+        "bho": "जनम दीं, नवका जीवन दीं"
+      }
+    },
+    {
+      "sa": "च",
+      "gloss": {
+        "hi": "और",
+        "en": "and",
+        "bho": "आ"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमें",
+        "en": "us",
+        "bho": "हमनी के"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे जल! जिस धाम के लिए तुम हमें प्रेरित करते हो, उसे हम पूरी तरह प्राप्त करें; और हमें नया जीवन दो।",
+    "en": "May we reach fully that abode for which you quicken us; and, O Waters, give us new life.",
+    "bho": "हे जल! जे धाम खातिर रउआ हमनी के प्रेरित करत बाड़ू, ओकरा हमनी के पूरा तरह पाईं; आ हमनी के नवका जीवन दीं।"
+  },
+  "explanation": {
+    "hi": "तृच की तीसरी ऋचा; इस पर मार्जन का तीसरा छिड़काव होता है। 'जनयथा च नः' — जल से नया जन्म पाने की प्रार्थना — इसलिए परंपरा में माना जाता है कि मार्जन स्नान का ही संक्षिप्त रूप है। तीनों ऋचाएँ संध्या के अलावा कलश-जल के अभिमंत्रण और [[snan]] के मंत्रों में भी आती हैं।",
+    "en": "Third ṛk of the trio, with the third sprinkling. 'Give us new life' — a prayer to be reborn through water — which is why tradition holds that the marjana is a shortened bath. Besides the sandhya, the three ṛks also serve to consecrate the kalasha water and among the bathing mantras.",
+    "bho": "तृच के तीसरा ऋचा; एह पर मार्जन के तीसरा छिड़काव होला। 'जनयथा च नः' — जल से नवका जनम पावे के प्रार्थना — एही से परंपरा में मानल जाला कि मार्जन [[snan]] के ही छोट रूप बा। तीनो ऋचा संध्या के अलावा कलश-जल के अभिमंत्रन आ नहान के मंत्र में भी आवेला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-36",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "sd-syv-sandhya",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "marjan",
+    "apo-hi-shtha",
+    "sandhya"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

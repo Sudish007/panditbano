@@ -1,0 +1,156 @@
+{
+  "id": "vs-36-17",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 36.17",
+  "title": {
+    "hi": "शांतिपाठ — मुख्य मंत्र",
+    "en": "Dyauh shantih (the shanti-patha)",
+    "bho": "शांतिपाठ — मुख्य मंत्र"
+  },
+  "devanagari": "द्यौः शान्ति॑र॒न्तरि॑क्ष॒ᳪं᳭ शान्तिः॑ पृथि॒वी शान्ति॒रापः॒ शान्ति॒रोष॑धयः॒ शान्तिः॑ । वन॒स्पत॑यः॒ शान्ति॒र्विश्वे॑ दे॒वाः शान्ति॒र्ब्रह्म॒ शान्तिः॒ सर्व॒ᳪं᳭ शान्तिः॒ शान्ति॑रे॒व शान्तिः॒ सा मा॒ शान्ति॑रेधि ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "द्यौः",
+      "gloss": {
+        "hi": "आकाश (द्युलोक)",
+        "en": "the sky",
+        "bho": "अकास"
+      }
+    },
+    {
+      "sa": "शान्तिः",
+      "gloss": {
+        "hi": "शांति (हो)",
+        "en": "(be) peace",
+        "bho": "शांति (होखे)"
+      }
+    },
+    {
+      "sa": "अन्तरिक्षम्",
+      "gloss": {
+        "hi": "अंतरिक्ष",
+        "en": "the mid-space",
+        "bho": "अंतरिक्ष"
+      }
+    },
+    {
+      "sa": "पृथिवी",
+      "gloss": {
+        "hi": "पृथिवी",
+        "en": "the earth",
+        "bho": "धरती"
+      }
+    },
+    {
+      "sa": "आपः",
+      "gloss": {
+        "hi": "जल",
+        "en": "the waters",
+        "bho": "जल"
+      }
+    },
+    {
+      "sa": "ओषधयः",
+      "gloss": {
+        "hi": "ओषधियाँ (वनस्पतियाँ)",
+        "en": "the plants and herbs",
+        "bho": "ओखद-बनस्पति"
+      }
+    },
+    {
+      "sa": "वनस्पतयः",
+      "gloss": {
+        "hi": "वृक्ष",
+        "en": "the trees",
+        "bho": "गाछ-बिरिछ"
+      }
+    },
+    {
+      "sa": "विश्वे देवाः",
+      "gloss": {
+        "hi": "सब देवता",
+        "en": "all the gods",
+        "bho": "सब देवता"
+      }
+    },
+    {
+      "sa": "ब्रह्म",
+      "gloss": {
+        "hi": "ब्रह्म (वेद और परब्रह्म)",
+        "en": "Brahman (the Veda and the Absolute)",
+        "bho": "ब्रह्म (वेद आ परब्रह्म)"
+      }
+    },
+    {
+      "sa": "सर्वम्",
+      "gloss": {
+        "hi": "सब कुछ",
+        "en": "everything",
+        "bho": "सब कुछ"
+      }
+    },
+    {
+      "sa": "शान्तिरेव शान्तिः",
+      "gloss": {
+        "hi": "शांति ही शांति",
+        "en": "peace itself (be) peace",
+        "bho": "शांति ही शांति"
+      }
+    },
+    {
+      "sa": "सा मा",
+      "gloss": {
+        "hi": "वह मुझे",
+        "en": "may that (peace) to me",
+        "bho": "ऊ हमरा"
+      }
+    },
+    {
+      "sa": "शान्तिरेधि",
+      "gloss": {
+        "hi": "शांति होकर प्राप्त हो",
+        "en": "come as peace",
+        "bho": "शांति बन के मिले"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "आकाश शांति हो, अंतरिक्ष शांति, पृथिवी शांति, जल शांति, ओषधियाँ शांति; वनस्पतियाँ शांति, सब देवता शांति, ब्रह्म शांति, सब कुछ शांति, शांति ही शांति — वह शांति मुझे प्राप्त हो।",
+    "en": "May the sky be peace, the mid-space peace, the earth peace, the waters peace, the plants peace; the trees peace, all the gods peace, Brahman peace, everything peace, peace itself peace — may that peace come to me.",
+    "bho": "अकास शांति होखे, अंतरिक्ष शांति, धरती शांति, जल शांति, ओखद-बनस्पति शांति; गाछ-बिरिछ शांति, सब देवता शांति, ब्रह्म शांति, सब कुछ शांति, शांति ही शांति — ऊ शांति हमरा मिले।"
+  },
+  "explanation": {
+    "hi": "उत्तर भारत का सबसे प्रचलित [[shanti-path]]। शुक्ल यजुर्वेद के छत्तीसवें अध्याय (36.17) का यह यजुस् हर पूजा, [[havan]] और कथा के अंत में पढ़ा जाता है; [[rudrabhishek]] में पूरा छत्तीसवाँ अध्याय [रुद्राष्टाध्यायी](https://sa.wikisource.org/wiki/रुद्राष्टाध्यायी) के शांत्याध्याय के रूप में आता है। पोथी में इसके आगे ॐ और अंत में 'ॐ शांतिः शांतिः शांतिः' जोड़ा जाता है। महीधर के अनुसार विभक्ति का भाव यह भी है: आकाश में, अंतरिक्ष में, पृथिवी पर … जो शांति है, वह मुझ पर हो।",
+    "en": "The most widely used shanti-patha of North India. This yajus from the thirty-sixth adhyaya of the Shukla Yajurveda (36.17) closes every puja, havan and katha; in the Rudrabhisheka the whole adhyaya 36 is read as the Shantyadhyaya of the [Rudrashtadhyayi](https://sa.wikisource.org/wiki/रुद्राष्टाध्यायी). The handbooks prefix Om and add 'om shantih shantih shantih' at the end. Mahidhara also allows the sense: the peace that is in the sky, in the mid-space, on the earth … may that be upon me.",
+    "bho": "उत्तर भारत के सबसे चलनसार [[shanti-path]]। शुक्ल यजुर्वेद के छत्तीसवाँ अध्याय (36.17) के ई यजुस् हर पूजा, [[havan]] आ कथा के अंत में पढ़ल जाला; [[rudrabhishek]] में पूरा छत्तीसवाँ अध्याय [रुद्राष्टाध्यायी](https://sa.wikisource.org/wiki/रुद्राष्टाध्यायी) के शांत्याध्याय के रूप में आवेला। पोथी में एकरा आगे ॐ आ अंत में 'ॐ शांतिः शांतिः शांतिः' जोड़ल जाला। महीधर के अनुसार विभक्ति के भाव ई भी बा: अकास में, अंतरिक्ष में, धरती पर … जे शांति बा, ऊ हमरा पर होखे।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-36",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "sd-svastivachanam",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "shanti-path",
+    "shanti"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

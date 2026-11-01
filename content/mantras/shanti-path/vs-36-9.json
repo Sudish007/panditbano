@@ -1,0 +1,132 @@
+{
+  "id": "vs-36-9",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 36.9 (= RV 1.90.9)",
+  "title": {
+    "hi": "शं नो मित्रः शं वरुणः (शांति 2)",
+    "en": "Sham no mitrah sham varunah (shanti 2)",
+    "bho": "शं नो मित्रः शं वरुणः (शांति 2)"
+  },
+  "devanagari": "शं नो॑ मि॒त्रः शं वरु॑णः॒ शं नो॑ भवत्वर्य॒मा । शं न॒ इन्द्रो॒ बृह॒स्पतिः॒ शं नो॒ विष्णु॑रुरुक्र॒मः ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "शम्",
+      "gloss": {
+        "hi": "कल्याणकारी (हों)",
+        "en": "(be) well-being",
+        "bho": "कल्यानकारी (होखसु)"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमारे लिए",
+        "en": "for us",
+        "bho": "हमनी खातिर"
+      }
+    },
+    {
+      "sa": "मित्रः",
+      "gloss": {
+        "hi": "मित्र (दिन के देव)",
+        "en": "Mitra",
+        "bho": "मित्र"
+      }
+    },
+    {
+      "sa": "वरुणः",
+      "gloss": {
+        "hi": "वरुण",
+        "en": "Varuna",
+        "bho": "वरुण"
+      }
+    },
+    {
+      "sa": "भवतु",
+      "gloss": {
+        "hi": "हो",
+        "en": "may be",
+        "bho": "होखसु"
+      }
+    },
+    {
+      "sa": "अर्यमा",
+      "gloss": {
+        "hi": "अर्यमा",
+        "en": "Aryaman",
+        "bho": "अर्यमा"
+      }
+    },
+    {
+      "sa": "इन्द्रः",
+      "gloss": {
+        "hi": "इंद्र",
+        "en": "Indra",
+        "bho": "इंद्र"
+      }
+    },
+    {
+      "sa": "बृहस्पतिः",
+      "gloss": {
+        "hi": "बृहस्पति",
+        "en": "Brihaspati",
+        "bho": "बृहस्पति"
+      }
+    },
+    {
+      "sa": "विष्णुः",
+      "gloss": {
+        "hi": "विष्णु",
+        "en": "Vishnu",
+        "bho": "विष्णु"
+      }
+    },
+    {
+      "sa": "उरुक्रमः",
+      "gloss": {
+        "hi": "विशाल पग वाले",
+        "en": "of the wide strides",
+        "bho": "बड़ डेग वाला"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "मित्र हमारे लिए कल्याणकारी हों, वरुण कल्याणकारी, अर्यमा हमारे लिए कल्याणकारी हों; इंद्र और बृहस्पति हमारे लिए कल्याणकारी हों, विशाल पग वाले विष्णु हमारे लिए कल्याणकारी हों।",
+    "en": "May Mitra be well-being for us, Varuna well-being, may Aryaman be well-being for us; may Indra and Brihaspati be well-being for us, may Vishnu of the wide strides be well-being for us.",
+    "bho": "मित्र हमनी खातिर कल्यानकारी होखसु, वरुण कल्यानकारी, अर्यमा हमनी खातिर कल्यानकारी होखसु; इंद्र आ बृहस्पति हमनी खातिर कल्यानकारी होखसु, बड़ डेग वाला विष्णु हमनी खातिर कल्यानकारी होखसु।"
+  },
+  "explanation": {
+    "hi": "VS 36.9 (ऋग्वेद 1.90.9 भी)। यह ऋचा तैत्तिरीय उपनिषद् का प्रसिद्ध शांति-मंत्र भी है, इसलिए इसे सब शाखाओं के लोग जानते हैं; यहाँ माध्यंदिन पाठ और [[svara]] दिए हैं। 'उरुक्रम' विष्णु के तीन पगों की ओर संकेत है।",
+    "en": "VS 36.9 (also Rigveda 1.90.9). The ṛk is also the famous shanti mantra of the Taittiriya Upanishad, so people of every shakha know it; the Madhyandina reading and accents are given here. 'Urukrama' points to Vishnu's three strides.",
+    "bho": "VS 36.9 (ऋग्वेद 1.90.9 भी)। ई ऋचा तैत्तिरीय उपनिषद् के मसहूर शांति-मंत्र भी बा, एही से एकरा सब शाखा के लोग जानेला; इहाँ माध्यंदिन पाठ आ [[svara]] दिहल बा। 'उरुक्रम' विष्णु के तीन डेग ओर संकेत बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-36",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "sd-shantipatha",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "shanti-path",
+    "sham-nah"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

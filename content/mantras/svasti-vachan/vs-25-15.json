@@ -1,0 +1,156 @@
+{
+  "id": "vs-25-15",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 25.15 (= RV 1.89.2)",
+  "title": {
+    "hi": "देवानां भद्रा सुमतिः (स्वस्तिवाचन 2)",
+    "en": "Devanam bhadra sumatih (svasti-vachana 2)",
+    "bho": "देवानां भद्रा सुमतिः (स्वस्तिवाचन 2)"
+  },
+  "devanagari": "दे॒वानां॑ भ॒द्रा सु॑म॒तिरृ॑जूय॒तां दे॒वाना॑ᳪं᳭ रा॒तिर॒भि नो॒ निव॑र्तताम् । दे॒वाना॑ᳪं᳭ स॒ख्यमुप॑सेदिमा व॒यं दे॒वा न॒ आयुः॒ प्रति॑रन्तु जी॒वसे॑ ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "देवानाम्",
+      "gloss": {
+        "hi": "देवताओं की",
+        "en": "of the gods",
+        "bho": "देवता लोग के"
+      }
+    },
+    {
+      "sa": "भद्रा",
+      "gloss": {
+        "hi": "कल्याणकारी",
+        "en": "auspicious",
+        "bho": "कल्यानकारी"
+      }
+    },
+    {
+      "sa": "सुमतिः",
+      "gloss": {
+        "hi": "सद्भावना, कृपा-दृष्टि",
+        "en": "goodwill, favour",
+        "bho": "सुमति, किरपा"
+      }
+    },
+    {
+      "sa": "ऋजूयताम्",
+      "gloss": {
+        "hi": "सरल-सच्चे मार्ग पर चलने वालों की",
+        "en": "of those who deal straight",
+        "bho": "सोझ-सच्चा रास्ता चले वाला लोग के"
+      }
+    },
+    {
+      "sa": "रातिः",
+      "gloss": {
+        "hi": "दान, देन",
+        "en": "gift, bounty",
+        "bho": "दान"
+      }
+    },
+    {
+      "sa": "अभि नः नि वर्तताम्",
+      "gloss": {
+        "hi": "हमारी ओर लौटे, हम पर उतरे",
+        "en": "may turn toward us",
+        "bho": "हमनी ओर घूमे"
+      }
+    },
+    {
+      "sa": "सख्यम्",
+      "gloss": {
+        "hi": "मित्रता",
+        "en": "friendship",
+        "bho": "मिताई"
+      }
+    },
+    {
+      "sa": "उप सेदिम",
+      "gloss": {
+        "hi": "हमने पाई, हम उसके पास पहुँचे",
+        "en": "we have approached, sought",
+        "bho": "हमनी के पवलीं"
+      }
+    },
+    {
+      "sa": "वयम्",
+      "gloss": {
+        "hi": "हम",
+        "en": "we",
+        "bho": "हमनी"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमारी",
+        "en": "our",
+        "bho": "हमनी के"
+      }
+    },
+    {
+      "sa": "आयुः",
+      "gloss": {
+        "hi": "आयु",
+        "en": "life-span",
+        "bho": "उमिर"
+      }
+    },
+    {
+      "sa": "प्र तिरन्तु",
+      "gloss": {
+        "hi": "बढ़ाएँ",
+        "en": "may lengthen",
+        "bho": "बढ़ावसु"
+      }
+    },
+    {
+      "sa": "जीवसे",
+      "gloss": {
+        "hi": "जीने के लिए",
+        "en": "for living",
+        "bho": "जिए खातिर"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "सच्चे मार्ग पर चलने वाले देवताओं की कल्याणकारी सद्भावना हमारी ओर हो; देवताओं का दान हम पर उतरे। हमने देवताओं की मित्रता पाई है; देवता जीने के लिए हमारी आयु बढ़ाएँ।",
+    "en": "May the auspicious goodwill of the straight-dealing gods turn toward us; may the gods' bounty come down upon us. We have sought the friendship of the gods; may the gods lengthen our life for living.",
+    "bho": "सोझ-सच्चा रास्ता चले वाला देवता लोग के कल्यानकारी सुमति हमनी ओर होखे; देवता लोग के दान हमनी पर उतरे। हमनी के देवता लोग के मिताई पवलीं; देवता लोग जिए खातिर हमनी के उमिर बढ़ावसु।"
+  },
+  "explanation": {
+    "hi": "स्वस्तिवाचन की दूसरी ऋचा (ऋग्वेद 1.89.2)। 'सुमति' देवताओं की अनुकूल दृष्टि है और 'सख्य' उनके साथ का संबंध — यजमान यहाँ देवताओं से मित्र की तरह आयु माँगता है।",
+    "en": "Second ṛk of the svasti-vachana (Rigveda 1.89.2). 'Sumati' is the gods' favourable regard and 'sakhya' a bond of friendship with them — the host here asks the gods for long life as a friend would.",
+    "bho": "स्वस्तिवाचन के दोसरा ऋचा (ऋग्वेद 1.89.2)। 'सुमति' देवता लोग के अनुकूल नजर बा आ 'सख्य' उनका संगे के नाता — जजमान इहाँ देवता लोग से मीत जइसन उमिर माँगेला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-25",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "sd-svastivachanam",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "svasti-vachan",
+    "rv-1-89"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "id": "pad-gayatri-shiras",
+  "kind": "vedic",
+  "locator": "Garuda Purana 1.217.4 (Gayatri-shiras); Taittiriya Aranyaka 10, 35.2 / 15.2 as variant",
+  "title": {
+    "hi": "गायत्री-शिरस् (आपो ज्योती)",
+    "en": "Gayatri-shiras (apo jyoti)",
+    "bho": "गायत्री-शिरस् (आपो ज्योती)"
+  },
+  "devanagari": "ॐ आपो ज्योती रसोऽमृतं ब्रह्म भूर्भुवः स्वरोम् ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "आपः",
+      "gloss": {
+        "hi": "जल",
+        "en": "the waters",
+        "bho": "जल"
+      }
+    },
+    {
+      "sa": "ज्योतिः",
+      "gloss": {
+        "hi": "प्रकाश",
+        "en": "light",
+        "bho": "अँजोर"
+      }
+    },
+    {
+      "sa": "रसः",
+      "gloss": {
+        "hi": "रस, सार",
+        "en": "essence",
+        "bho": "रस"
+      }
+    },
+    {
+      "sa": "अमृतम्",
+      "gloss": {
+        "hi": "अमृत",
+        "en": "the immortal",
+        "bho": "अमरित"
+      }
+    },
+    {
+      "sa": "ब्रह्म",
+      "gloss": {
+        "hi": "ब्रह्म (हैं)",
+        "en": "(are) Brahman",
+        "bho": "ब्रह्म (बा)"
+      }
+    },
+    {
+      "sa": "भूः भुवः स्वः",
+      "gloss": {
+        "hi": "तीनों लोक",
+        "en": "the three worlds",
+        "bho": "तीनो लोक"
+      }
+    },
+    {
+      "sa": "ओम्",
+      "gloss": {
+        "hi": "ॐ",
+        "en": "Om",
+        "bho": "ॐ"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "जल, प्रकाश, रस, अमृत — सब ब्रह्म हैं; भूः, भुवः, स्वः — तीनों लोक भी — ॐ।",
+    "en": "The waters, light, essence, the immortal — all are Brahman; bhuh, bhuvah, svah — the three worlds too — Om.",
+    "bho": "जल, अँजोर, रस, अमरित — सब ब्रह्म बा; भूः, भुवः, स्वः — तीनो लोक भी — ॐ।"
+  },
+  "explanation": {
+    "hi": "गायत्री का 'शिर' (शिरस्) — [[pranayam]] में गायत्री के बाद पढ़ा जाने वाला वाक्य। यह तैत्तिरीय आरण्यक के दसवें प्रपाठक ([महानारायण उपनिषद्](https://sa.wikisource.org/wiki/महानारायणोपनिषत्)) का है; उत्तर भारत की पोथियों में और [गरुड़ पुराण](https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%B0%E0%A5%81%E0%A4%A1%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A8%E0%A5%A7%E0%A5%AD) की संध्या-विधि में अंत 'स्वरोम्' है, तैत्तिरीय पाठ में 'सुवरोम्'। भाव: जो कुछ जीवन देता है — जल, प्रकाश, रस — वह सब एक ब्रह्म है, और तीनों लोक उसी में हैं।",
+    "en": "The 'head' (shiras) of the Gayatri — the sentence recited after the Gayatri in pranayama. It belongs to the tenth prapathaka of the Taittiriya Aranyaka (the [Mahanarayana Upanishad](https://sa.wikisource.org/wiki/महानारायणोपनिषत्)); the northern handbooks and the sandhya rule of the [Garuda Purana](https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%B0%E0%A5%81%E0%A4%A1%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A8%E0%A5%A7%E0%A5%AD) end it 'svarom', the Taittiriya recitation 'suvarom'. The sense: whatever gives life — water, light, essence — is the one Brahman, and the three worlds rest in it.",
+    "bho": "गायत्री के 'शिर' (शिरस्) — [[pranayam]] में गायत्री के बाद पढ़ल जाए वाला वाक्य। ई तैत्तिरीय आरण्यक के दसवाँ प्रपाठक ([महानारायण उपनिषद्](https://sa.wikisource.org/wiki/महानारायणोपनिषत्)) के बा; उत्तर भारत के पोथी में आ [गरुड़ पुराण](https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%B0%E0%A5%81%E0%A4%A1%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A8%E0%A5%A7%E0%A5%AD) के संध्या-विधि में अंत 'स्वरोम्' बा, तैत्तिरीय पाठ में 'सुवरोम्'। भाव: जे कुछ जीवन देला — जल, अँजोर, रस — ऊ सब एक ब्रह्म बा, आ तीनो लोक ओही में बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-garuda-acharakanda-217",
+    "retrieved": "2026-11-01",
+    "modified": "ओं → ॐ; the page's ज्योऽती (stray avagraha) read ज्योती with the Mahanarayana Upanishad; closing ॥ added"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ws-mahanarayana",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ws-laugakshi-gs-1-10",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "sd-syv-sandhya",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "variants": [
+    {
+      "reading": "ओमापो ज्योती रसोऽमृतं ब्रह्म भूर्भुवः सुवरोम् ।",
+      "note": {
+        "hi": "तैत्तिरीय आरण्यक का पाठ ([महानारायण उपनिषद्](https://sa.wikisource.org/wiki/महानारायणोपनिषत्) 35.2): अंत में स्वरोम् के स्थान पर सुवरोम्।",
+        "en": "Taittiriya reading ([Mahanarayana Upanishad](https://sa.wikisource.org/wiki/महानारायणोपनिषत्) 35.2): suvarom.",
+        "bho": "तैत्तिरीय आरण्यक के पाठ ([महानारायण उपनिषद्](https://sa.wikisource.org/wiki/महानारायणोपनिषत्) 35.2) में अंत में स्वरोम् के जगह सुवरोम् बा।"
+      },
+      "source": "ws-mahanarayana"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Vedic sentence (Taittiriya Aranyaka 10) as given in Garuda Purana 1.217; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "pranayam",
+    "gayatri",
+    "sandhya"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "id": "vs-25-23",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 25.23 (= RV 1.89.10)",
+  "title": {
+    "hi": "अदितिर्द्यौः (स्वस्तिवाचन 10)",
+    "en": "Aditir dyauh (svasti-vachana 10)",
+    "bho": "अदितिर्द्यौः (स्वस्तिवाचन 10)"
+  },
+  "devanagari": "अदि॑तिर्द्यौ॒रदि॑तिर॒न्तरि॑क्ष॒मदि॑तिर्मा॒ता स पि॒ता स पु॒त्रः । विश्वे॑ दे॒वा अदि॑तिः॒ पञ्च॒ जना॒ अदि॑तिर्जा॒तमदि॑ति॒र्जनि॑त्वम् ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "अदितिः",
+      "gloss": {
+        "hi": "अदिति (असीम, देवताओं की माता)",
+        "en": "Aditi (the boundless mother of the gods)",
+        "bho": "अदिति (असीम, देवता लोग के माई)"
+      }
+    },
+    {
+      "sa": "द्यौः",
+      "gloss": {
+        "hi": "आकाश",
+        "en": "the sky",
+        "bho": "अकास"
+      }
+    },
+    {
+      "sa": "अन्तरिक्षम्",
+      "gloss": {
+        "hi": "अंतरिक्ष",
+        "en": "mid-space",
+        "bho": "अंतरिक्ष"
+      }
+    },
+    {
+      "sa": "माता",
+      "gloss": {
+        "hi": "माता",
+        "en": "the mother",
+        "bho": "माई"
+      }
+    },
+    {
+      "sa": "स पिता",
+      "gloss": {
+        "hi": "वही पिता",
+        "en": "she is the father",
+        "bho": "उहे बाप"
+      }
+    },
+    {
+      "sa": "स पुत्रः",
+      "gloss": {
+        "hi": "वही पुत्र",
+        "en": "she is the son",
+        "bho": "उहे बेटा"
+      }
+    },
+    {
+      "sa": "विश्वे देवाः",
+      "gloss": {
+        "hi": "सब देवता",
+        "en": "all the gods",
+        "bho": "सब देवता"
+      }
+    },
+    {
+      "sa": "पञ्च जनाः",
+      "gloss": {
+        "hi": "पाँच जन (मनुष्यों के पाँच समूह)",
+        "en": "the five peoples",
+        "bho": "पाँच जन (मनई के पाँच समूह)"
+      }
+    },
+    {
+      "sa": "जातम्",
+      "gloss": {
+        "hi": "जो जन्मा है",
+        "en": "what is born",
+        "bho": "जे जनमल बा"
+      }
+    },
+    {
+      "sa": "जनित्वम्",
+      "gloss": {
+        "hi": "जो जन्मेगा",
+        "en": "what is to be born",
+        "bho": "जे जनमी"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "अदिति ही आकाश है, अदिति ही अंतरिक्ष; अदिति माता है, वही पिता, वही पुत्र; सब देवता अदिति हैं, पाँचों जन अदिति हैं; जो जन्मा है वह अदिति है और जो जन्मेगा वह भी अदिति।",
+    "en": "Aditi is the sky, Aditi the mid-space; Aditi is the mother, she the father, she the son; all the gods are Aditi, the five peoples are Aditi; Aditi is what is born and what is to be born.",
+    "bho": "अदिति ही अकास बाड़ी, अदिति ही अंतरिक्ष; अदिति माई बाड़ी, उहे बाप, उहे बेटा; सब देवता अदिति बाड़न, पाँचो जन अदिति बाड़न; जे जनमल बा ऊ अदिति आ जे जनमी ऊ भी अदिति।"
+  },
+  "explanation": {
+    "hi": "दसवीं और अंतिम ऋचा (ऋग्वेद 1.89.10)। अदिति का अर्थ 'असीम' है — देवताओं की माता; ऋचा कहती है कि यह सारा दृश्य-अदृश्य जगत् उसी असीम का रूप है। इसके बाद पोथी में शांति की ऋचाएँ (VS 36.17, 36.22) आती हैं।",
+    "en": "Tenth and last ṛk (Rigveda 1.89.10). Aditi means 'the boundless', the mother of the gods; the ṛk says that this whole world, seen and unseen, is a form of that boundlessness. The handbooks continue with the shanti ṛks (VS 36.17, 36.22).",
+    "bho": "दसवाँ आ आखिरी ऋचा (ऋग्वेद 1.89.10)। अदिति के अरथ 'असीम' बा — देवता लोग के माई; ऋचा कहेले कि ई पूरा देखल-अनदेखल जगत ओही असीम के रूप बा। एकरा बाद पोथी में शांति के ऋचा (VS 36.17, 36.22) आवेला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-25",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "sd-svastivachanam",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "svasti-vachan",
+    "rv-1-89"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

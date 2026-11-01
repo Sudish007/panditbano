@@ -1,0 +1,212 @@
+{
+  "id": "vs-25-22",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 25.22 (= RV 1.89.9)",
+  "title": {
+    "hi": "शतमिन्नु शरदः (स्वस्तिवाचन 9)",
+    "en": "Shatam in nu sharado anti (svasti-vachana 9)",
+    "bho": "शतमिन्नु शरदः (स्वस्तिवाचन 9)"
+  },
+  "devanagari": "श॒तमिन्नु श॒रदो॒ अन्ति॑ देवा॒ यत्रा॑ नश्च॒क्रा ज॒रसं॑ त॒नूना॑म् । पु॒त्रासो॒ यत्र॑ पि॒तरो॒ भव॑न्ति॒ मा नो॑ म॒ध्या री॑रिष॒तायु॒र्गन्तोः॑ ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "शतम्",
+      "gloss": {
+        "hi": "सौ",
+        "en": "a hundred",
+        "bho": "सौ"
+      }
+    },
+    {
+      "sa": "इत् नु",
+      "gloss": {
+        "hi": "निश्चय ही अब",
+        "en": "indeed now",
+        "bho": "सचहूँ अब"
+      }
+    },
+    {
+      "sa": "शरदः",
+      "gloss": {
+        "hi": "शरद् ऋतुएँ (वर्ष)",
+        "en": "autumns (years)",
+        "bho": "सरद (बरिस)"
+      }
+    },
+    {
+      "sa": "अन्ति",
+      "gloss": {
+        "hi": "सामने हैं",
+        "en": "lie before (us)",
+        "bho": "सोझा बा"
+      }
+    },
+    {
+      "sa": "देवाः",
+      "gloss": {
+        "hi": "हे देवताओं",
+        "en": "O gods",
+        "bho": "हे देवता लोग"
+      }
+    },
+    {
+      "sa": "यत्रा",
+      "gloss": {
+        "hi": "जिनमें",
+        "en": "within which",
+        "bho": "जेह में"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमारे",
+        "en": "our",
+        "bho": "हमनी के"
+      }
+    },
+    {
+      "sa": "चक्र",
+      "gloss": {
+        "hi": "तुमने रचा है",
+        "en": "you have ordained",
+        "bho": "रउआ रचले बानी"
+      }
+    },
+    {
+      "sa": "जरसम्",
+      "gloss": {
+        "hi": "वृद्धावस्था",
+        "en": "old age",
+        "bho": "बुढ़ापा"
+      }
+    },
+    {
+      "sa": "तनूनाम्",
+      "gloss": {
+        "hi": "शरीरों की",
+        "en": "of our bodies",
+        "bho": "देह के"
+      }
+    },
+    {
+      "sa": "पुत्रासः",
+      "gloss": {
+        "hi": "पुत्र",
+        "en": "sons",
+        "bho": "बेटा"
+      }
+    },
+    {
+      "sa": "यत्र",
+      "gloss": {
+        "hi": "जहाँ",
+        "en": "where",
+        "bho": "जहाँ"
+      }
+    },
+    {
+      "sa": "पितरः",
+      "gloss": {
+        "hi": "पिता",
+        "en": "fathers",
+        "bho": "बाप"
+      }
+    },
+    {
+      "sa": "भवन्ति",
+      "gloss": {
+        "hi": "बन जाते हैं",
+        "en": "become",
+        "bho": "बन जालन"
+      }
+    },
+    {
+      "sa": "मा",
+      "gloss": {
+        "hi": "मत",
+        "en": "do not",
+        "bho": "मत"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमारी",
+        "en": "our",
+        "bho": "हमनी के"
+      }
+    },
+    {
+      "sa": "मध्या",
+      "gloss": {
+        "hi": "बीच में",
+        "en": "in the middle",
+        "bho": "बीच में"
+      }
+    },
+    {
+      "sa": "रीरिषत",
+      "gloss": {
+        "hi": "क्षति करो",
+        "en": "injure",
+        "bho": "नुकसान करीं"
+      }
+    },
+    {
+      "sa": "आयुः",
+      "gloss": {
+        "hi": "आयु",
+        "en": "life",
+        "bho": "उमिर"
+      }
+    },
+    {
+      "sa": "गन्तोः",
+      "gloss": {
+        "hi": "चलते हुए, मार्ग में",
+        "en": "in its course",
+        "bho": "चलत रास्ता में"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे देवताओं! सौ शरद् ऋतुएँ (सौ वर्ष) हमारे सामने हैं, जिनमें तुमने हमारे शरीरों का बुढ़ापा रचा है, जिनमें पुत्र पिता बन जाते हैं — हमारी चलती आयु को बीच में क्षति मत पहुँचाओ।",
+    "en": "O gods, a hundred autumns lie before us, within which you have ordained the ageing of our bodies, within which sons become fathers — do not injure our life in the middle of its course.",
+    "bho": "हे देवता लोग! सौ सरद (सौ बरिस) हमनी के सोझा बा, जेह में रउआ हमनी के देह के बुढ़ापा रचले बानी, जेह में बेटा बाप बन जालन — हमनी के चलत उमिर के बीच में नुकसान मत करीं।"
+  },
+  "explanation": {
+    "hi": "नौवीं ऋचा (ऋग्वेद 1.89.9) — पूरी आयु भोगने की प्रार्थना। 'शरद्' से वर्ष गिने जाते थे, इसलिए 'सौ शरद्' = सौ वर्ष; यही कामना 'पश्येम शरदः शतम्' (VS 36.24) में भी है।",
+    "en": "Ninth ṛk (Rigveda 1.89.9), a prayer to live out the full span of life. Years were counted by autumns, so 'a hundred autumns' means a hundred years; the same wish recurs in 'pashyema sharadah shatam' (VS 36.24).",
+    "bho": "नौवाँ ऋचा (ऋग्वेद 1.89.9) — पूरा उमिर भोगे के प्रार्थना। 'सरद' से बरिस गिनल जात रहे, एही से 'सौ सरद' = सौ बरिस; इहे कामना 'पश्येम शरदः शतम्' (VS 36.24) में भी बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-25",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "sd-svastivachanam",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "svasti-vachan",
+    "rv-1-89"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

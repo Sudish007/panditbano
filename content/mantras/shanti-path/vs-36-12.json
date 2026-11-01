@@ -1,0 +1,125 @@
+{
+  "id": "vs-36-12",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 36.12 (= RV 10.9.4)",
+  "title": {
+    "hi": "शं नो देवीरभिष्टये (शांति 5)",
+    "en": "Sham no devir abhishtaye (shanti 5)",
+    "bho": "शं नो देवीरभिष्टये (शांति 5)"
+  },
+  "devanagari": "शं नो॑ दे॒वीर॒भिष्ट॑य॒ आपो॑ भवन्तु पी॒तये॑ । शं योर॒भि स्र॑वन्तु नः ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "शम्",
+      "gloss": {
+        "hi": "कल्याणकारी",
+        "en": "well-being",
+        "bho": "कल्यानकारी"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमारे लिए",
+        "en": "for us",
+        "bho": "हमनी खातिर"
+      }
+    },
+    {
+      "sa": "देवीः",
+      "gloss": {
+        "hi": "दिव्य",
+        "en": "divine",
+        "bho": "दिव्य"
+      }
+    },
+    {
+      "sa": "अभिष्टये",
+      "gloss": {
+        "hi": "सहायता (अभिषेक) के लिए",
+        "en": "for our aid (and bathing)",
+        "bho": "मदद (अभिसेक) खातिर"
+      }
+    },
+    {
+      "sa": "आपः",
+      "gloss": {
+        "hi": "जल",
+        "en": "the waters",
+        "bho": "जल"
+      }
+    },
+    {
+      "sa": "भवन्तु",
+      "gloss": {
+        "hi": "हों",
+        "en": "may be",
+        "bho": "होखसु"
+      }
+    },
+    {
+      "sa": "पीतये",
+      "gloss": {
+        "hi": "पीने के लिए",
+        "en": "for drinking",
+        "bho": "पिए खातिर"
+      }
+    },
+    {
+      "sa": "शं योः",
+      "gloss": {
+        "hi": "कल्याण और भय-निवारण",
+        "en": "well-being and freedom from harm",
+        "bho": "कल्यान आ भय से छुटकारा"
+      }
+    },
+    {
+      "sa": "अभि स्रवन्तु",
+      "gloss": {
+        "hi": "हम पर बहें",
+        "en": "may flow toward",
+        "bho": "हमनी पर बहे"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "दिव्य जल हमारी सहायता और पीने के लिए कल्याणकारी हों; वे हमारे लिए कल्याण और निर्भयता बहाएँ।",
+    "en": "May the divine waters be well-being for our aid and for our drinking; may they flow toward us with well-being and freedom from harm.",
+    "bho": "दिव्य जल हमनी के मदद आ पिए खातिर कल्यानकारी होखसु; ऊ हमनी खातिर कल्यान आ निडरता बहावसु।"
+  },
+  "explanation": {
+    "hi": "VS 36.12 (ऋग्वेद 10.9.4 भी) — जल की शांति। [[shanti-path]] में और शांति-जल छिड़कते समय पढ़ा जाता है; 'अभिष्टि' का अर्थ उवट अभिषेक और सहायता दोनों लेते हैं। आपो हि ष्ठा तृच (36.14–16) इसी के बाद है।",
+    "en": "VS 36.12 (also Rigveda 10.9.4) — the peace of the waters. Recited in the shanti-patha and while sprinkling the shanti water; Uvata takes 'abhishti' as both bathing and aid. The Apo hi shtha trio (36.14–16) follows it.",
+    "bho": "VS 36.12 (ऋग्वेद 10.9.4 भी) — जल के शांति। [[shanti-path]] में आ शांति-जल छींटत घरी पढ़ल जाला; 'अभिष्टि' के अरथ उवट अभिषेक आ मदद दुनो लेलन। आपो हि ष्ठा तृच (36.14–16) एकरा बादे बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-36",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "sd-shantipatha",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "shanti-path",
+    "sham-nah",
+    "apah"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

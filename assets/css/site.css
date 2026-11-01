@@ -201,6 +201,7 @@ details.rail-fold summary h3, details.rail-fold summary .rail-h { margin: 0; }
 .mantra .vn { color: var(--accent); }
 .iast { font-family: var(--font-mantra); font-size: calc(var(--fs-body) * 1.02); line-height: 1.7; color: var(--ink-2); text-align: var(--mantra-align); margin: 8px 0 0; font-style: normal; }
 .roman-easy { font-family: var(--font-latin); font-size: var(--fs-meta); color: var(--ink-2); text-align: var(--mantra-align); margin: 8px 0 0; }
+.iast, .roman-easy { overflow-wrap: anywhere; } /* a Vedic sandhi run transliterates to one 40-letter Latin token (VS 25.21 sthirairaṅgaistuṣṭuvāṃsastanūbhirvyaśemahi) that must wrap at 390 (UI-01, UI-27) */
 :root[data-translit="iast"] .roman-easy, :root[data-translit="easy"] .iast, :root[data-translit="off"] .iast, :root[data-translit="off"] .roman-easy { display: none; }
 .verse-tools { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; margin-top: 14px; justify-content: var(--mantra-justify); }
 .verse-tools .note { font-size: var(--fs-small); color: var(--ink-2); flex: 1 1 100%; text-align: var(--mantra-align); }

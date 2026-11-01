@@ -1,0 +1,141 @@
+{
+  "id": "vs-36-3",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 36.3 (= RV 3.62.10 with the vyahritis)",
+  "title": {
+    "hi": "गायत्री मंत्र",
+    "en": "Gayatri mantra",
+    "bho": "गायत्री मंत्र"
+  },
+  "devanagari": "भूर्भुवः॒ स्वः॒ तत्स॑वि॒तुर्वरे॑ण्यं॒ भर्गो॑ दे॒वस्य॑ धीमहि । धियो॒ यो नः॑ प्रचो॒दया॑त् ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "भूः भुवः स्वः",
+      "gloss": {
+        "hi": "तीन व्याहृतियाँ — पृथ्वी, अंतरिक्ष, स्वर्ग",
+        "en": "the three vyahritis — earth, mid-space, heaven",
+        "bho": "तीन व्याहृति — धरती, अंतरिक्ष, सरग"
+      }
+    },
+    {
+      "sa": "तत्",
+      "gloss": {
+        "hi": "उस",
+        "en": "that",
+        "bho": "ऊ"
+      }
+    },
+    {
+      "sa": "सवितुः",
+      "gloss": {
+        "hi": "सविता (सूर्य, प्रेरक देव) के",
+        "en": "of Savitr (the sun, the impeller)",
+        "bho": "सविता (सुरुज, प्रेरक देव) के"
+      }
+    },
+    {
+      "sa": "वरेण्यम्",
+      "gloss": {
+        "hi": "वरण करने योग्य, श्रेष्ठ",
+        "en": "worthy of choosing, supreme",
+        "bho": "चुने जोग, सबसे नीक"
+      }
+    },
+    {
+      "sa": "भर्गः",
+      "gloss": {
+        "hi": "तेज",
+        "en": "radiance",
+        "bho": "तेज"
+      }
+    },
+    {
+      "sa": "देवस्य",
+      "gloss": {
+        "hi": "देव के",
+        "en": "of the god",
+        "bho": "देव के"
+      }
+    },
+    {
+      "sa": "धीमहि",
+      "gloss": {
+        "hi": "हम ध्यान करें",
+        "en": "may we meditate on",
+        "bho": "हमनी के धियान करीं"
+      }
+    },
+    {
+      "sa": "धियः",
+      "gloss": {
+        "hi": "बुद्धियों को",
+        "en": "our intellects",
+        "bho": "बुद्धि के"
+      }
+    },
+    {
+      "sa": "यः",
+      "gloss": {
+        "hi": "जो",
+        "en": "who",
+        "bho": "जे"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमारी",
+        "en": "our",
+        "bho": "हमनी के"
+      }
+    },
+    {
+      "sa": "प्रचोदयात्",
+      "gloss": {
+        "hi": "प्रेरित करे",
+        "en": "may impel",
+        "bho": "प्रेरित करसु"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "भूः, भुवः, स्वः — उस सविता देव के वरण करने योग्य तेज का हम ध्यान करें, जो हमारी बुद्धि को (सत्पथ पर) प्रेरित करे।",
+    "en": "Bhuh, bhuvah, svah — may we meditate on the choice-worthy radiance of the god Savitr, that he may impel our intellects (on the right path).",
+    "bho": "भूः, भुवः, स्वः — ऊ सविता देव के चुने जोग तेज के हमनी के धियान करीं, जे हमनी के बुद्धि के (नीक रास्ता पर) प्रेरित करसु।"
+  },
+  "explanation": {
+    "hi": "गायत्री (सावित्री) शुक्ल [[yajurved]] के छत्तीसवें अध्याय का तीसरा मंत्र है और ऋग्वेद 3.62.10 भी; यजुर्वेद के पाठ में तीन व्याहृतियाँ इसके साथ जुड़ी हैं। यह [[sandhya-vandan]] और उपनयन का केंद्रीय मंत्र है। [[pranayam]] में इसके आगे सात व्याहृतियाँ और पीछे गायत्री-शिरस् जोड़कर पूरा मंत्र तीन बार पढ़ा जाता है। परंपरा में माना जाता है कि यह वेदों का सार है और 'वेदमाता' कहलाती है। [[svara]] चिह्न माध्यंदिन संहिता के हैं।",
+    "en": "The Gayatri (Savitri) is the third mantra of the thirty-sixth adhyaya of the Shukla [[yajurved]] and also Rigveda 3.62.10; in the Yajurveda recitation the three vyahritis are joined to it. It is the central mantra of the sandhya and the upanayana. In pranayama the seven vyahritis are prefixed and the Gayatri-shiras appended, and the whole is recited three times. Tradition holds it to be the essence of the Vedas and calls it the 'mother of the Vedas'. The accent marks are those of the Madhyandina Samhita.",
+    "bho": "गायत्री (सावित्री) शुक्ल [[yajurved]] के छत्तीसवाँ अध्याय के तीसरा मंत्र बा आ ऋग्वेद 3.62.10 भी; यजुर्वेद के पाठ में तीन व्याहृति एकरा संगे जुड़ल बा। ई [[sandhya-vandan]] आ उपनयन के केंद्रीय मंत्र बा। [[pranayam]] में एकरा आगे सात व्याहृति आ पीछे गायत्री-शिरस् जोड़ के पूरा मंत्र तीन बेर पढ़ल जाला। परंपरा में मानल जाला कि ई वेद के सार बा आ 'वेदमाता' कहल जाला। [[svara]] चिह्न माध्यंदिन संहिता के बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-36",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "sd-syv-sandhya",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "gayatri",
+    "sandhya",
+    "pranayam"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

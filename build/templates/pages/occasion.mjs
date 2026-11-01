@@ -67,7 +67,7 @@ export function trackerFold(env, { part = null, onPage }) {
     const here = onPage.has(s.n);
     const p = occ.parts.find((x) => x.id === s.part);
     const href = here ? `#step-${s.n}` : `${occHref(ctx, lang, occ, p)}#step-${s.n}`;
-    return html`<li><a href="${href}" data-step="${s.n}"><span class="n">${num(s.n)}</span><span class="t">${stepTitle(s, lang)}</span></a></li>`;
+    return html`<li><a href="${href}" data-step="${s.n}"><span class="n">${num(s.n)}</span><span class="t">${stepTitle(s, lang, env.mdCtx)}</span></a></li>`;
   };
   const body = occ.parts.length
     ? html`<ol class="parts">${occ.parts.map((p, i) => {

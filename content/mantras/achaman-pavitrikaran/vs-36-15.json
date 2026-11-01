@@ -1,0 +1,125 @@
+{
+  "id": "vs-36-15",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 36.15 (= RV 10.9.2; also VS 11.51)",
+  "title": {
+    "hi": "यो वः शिवतमो रसः (मार्जन 2)",
+    "en": "Yo vah shivatamo rasah (marjana 2)",
+    "bho": "यो वः शिवतमो रसः (मार्जन 2)"
+  },
+  "devanagari": "यो वः॑ शि॒वत॑मो॒ रस॒स्तस्य॑ भाजयते॒ह नः॑ । उ॒श॒तीरि॑व मा॒तरः॑ ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "यः",
+      "gloss": {
+        "hi": "जो",
+        "en": "which",
+        "bho": "जे"
+      }
+    },
+    {
+      "sa": "वः",
+      "gloss": {
+        "hi": "तुम्हारा",
+        "en": "your",
+        "bho": "राउर"
+      }
+    },
+    {
+      "sa": "शिवतमः",
+      "gloss": {
+        "hi": "सबसे कल्याणकारी",
+        "en": "most auspicious",
+        "bho": "सबसे कल्यानकारी"
+      }
+    },
+    {
+      "sa": "रसः",
+      "gloss": {
+        "hi": "रस, सार",
+        "en": "essence",
+        "bho": "रस"
+      }
+    },
+    {
+      "sa": "तस्य",
+      "gloss": {
+        "hi": "उसका",
+        "en": "of that",
+        "bho": "ओकर"
+      }
+    },
+    {
+      "sa": "भाजयत",
+      "gloss": {
+        "hi": "भागी बनाओ",
+        "en": "make (us) share",
+        "bho": "भागी बनाईं"
+      }
+    },
+    {
+      "sa": "इह",
+      "gloss": {
+        "hi": "यहाँ",
+        "en": "here",
+        "bho": "इहाँ"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमें",
+        "en": "us",
+        "bho": "हमनी के"
+      }
+    },
+    {
+      "sa": "उशतीः इव मातरः",
+      "gloss": {
+        "hi": "स्नेहमयी माताओं के समान",
+        "en": "like loving mothers",
+        "bho": "नेह करे वाली माई लोग जइसन"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "तुम्हारा जो सबसे कल्याणकारी रस है, उसका हमें यहाँ भागी बनाओ — जैसे स्नेहमयी माताएँ अपने बच्चों को (दूध) देती हैं।",
+    "en": "Of that most auspicious essence of yours let us partake here — as loving mothers give (their milk) to their children.",
+    "bho": "राउर जे सबसे कल्यानकारी रस बा, ओकर हमनी के इहाँ भागी बनाईं — जइसे नेह करे वाली माई लोग आपन लरिका के (दूध) देली।"
+  },
+  "explanation": {
+    "hi": "तृच की दूसरी ऋचा। 'रस' यहाँ जल का जीवन देने वाला सार है; माताओं की उपमा से जल को पोषण देने वाला माना गया है। मार्जन में इस ऋचा पर दूसरी बार जल छिड़का जाता है।",
+    "en": "Second ṛk of the trio. 'Rasa' is the life-giving essence of water; the simile of mothers presents the waters as nourishers. At this ṛk the second sprinkling of the marjana is done.",
+    "bho": "तृच के दोसरा ऋचा। 'रस' इहाँ जल के जीवन देवे वाला सार बा; माई लोग के उपमा से जल के पोसन देवे वाला मानल गइल बा। मार्जन में एह ऋचा पर दोसरा बेर जल छींटल जाला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-36",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "sd-syv-sandhya",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "marjan",
+    "apo-hi-shtha",
+    "sandhya"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

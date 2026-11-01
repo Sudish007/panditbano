@@ -1,0 +1,124 @@
+{
+  "id": "vs-36-10",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 36.10",
+  "title": {
+    "hi": "शं नो वातः पवताम् (शांति 3)",
+    "en": "Sham no vatah pavatam (shanti 3)",
+    "bho": "शं नो वातः पवताम् (शांति 3)"
+  },
+  "devanagari": "शं नो॒ वातः॑ पवता॒ᳪं᳭ शं न॑स्तपतु॒ सूर्यः॑ । शं नः॒ कनि॑क्रदद्दे॒वः प॒र्जन्यो॑ अ॒भि व॑र्षतु ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "शम्",
+      "gloss": {
+        "hi": "कल्याण के लिए",
+        "en": "for well-being",
+        "bho": "कल्यान खातिर"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमारे",
+        "en": "our",
+        "bho": "हमनी के"
+      }
+    },
+    {
+      "sa": "वातः",
+      "gloss": {
+        "hi": "वायु",
+        "en": "the wind",
+        "bho": "बतास"
+      }
+    },
+    {
+      "sa": "पवताम्",
+      "gloss": {
+        "hi": "बहे",
+        "en": "may blow",
+        "bho": "बहे"
+      }
+    },
+    {
+      "sa": "तपतु",
+      "gloss": {
+        "hi": "तपे",
+        "en": "may shine",
+        "bho": "तपे"
+      }
+    },
+    {
+      "sa": "सूर्यः",
+      "gloss": {
+        "hi": "सूर्य",
+        "en": "the sun",
+        "bho": "सुरुज"
+      }
+    },
+    {
+      "sa": "कनिक्रदत्",
+      "gloss": {
+        "hi": "गरजता हुआ",
+        "en": "thundering",
+        "bho": "गरजत"
+      }
+    },
+    {
+      "sa": "देवः पर्जन्यः",
+      "gloss": {
+        "hi": "पर्जन्य देव (मेघ)",
+        "en": "the god Parjanya (the rain-cloud)",
+        "bho": "पर्जन्य देव (बदरी)"
+      }
+    },
+    {
+      "sa": "अभि वर्षतु",
+      "gloss": {
+        "hi": "हम पर बरसे",
+        "en": "may rain upon (us)",
+        "bho": "हमनी पर बरसे"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "वायु हमारे कल्याण के लिए बहे, सूर्य हमारे कल्याण के लिए तपे; गरजते हुए पर्जन्य देव हमारे कल्याण के लिए हम पर बरसें।",
+    "en": "May the wind blow for our well-being, may the sun shine for our well-being; may the thundering god Parjanya rain upon us for our well-being.",
+    "bho": "बतास हमनी के कल्यान खातिर बहे, सुरुज हमनी के कल्यान खातिर तपे; गरजत पर्जन्य देव हमनी के कल्यान खातिर हमनी पर बरससु।"
+  },
+  "explanation": {
+    "hi": "VS 36.10 — ऋतु और जलवायु की शांति: हवा, धूप और वर्षा तीनों अनुकूल रहें। उवट कहते हैं — 'ऐसी हवा जो न चुभे, ऐसा सूर्य जो न जलाए, ऐसी वर्षा जो खारी न हो'।",
+    "en": "VS 36.10 — peace of the seasons and the weather: may wind, sunshine and rain all be favourable. Uvata glosses: 'a wind that does not sting, a sun that does not scorch, rain that is not brackish'.",
+    "bho": "VS 36.10 — ऋतु आ मौसम के शांति: बतास, घाम आ बरखा तीनो अनुकूल रहे। उवट कहेलन — 'अइसन बतास जे ना चुभे, अइसन सुरुज जे ना जराए, अइसन बरखा जे खारी ना होखे'।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-36",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "sd-shantipatha",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "shanti-path",
+    "sham-nah"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

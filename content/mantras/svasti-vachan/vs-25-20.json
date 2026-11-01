@@ -1,0 +1,164 @@
+{
+  "id": "vs-25-20",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 25.20 (= RV 1.89.7)",
+  "title": {
+    "hi": "पृषदश्वा मरुतः (स्वस्तिवाचन 7)",
+    "en": "Prishadashva marutah (svasti-vachana 7)",
+    "bho": "पृषदश्वा मरुतः (स्वस्तिवाचन 7)"
+  },
+  "devanagari": "पृष॑दश्वा म॒रुतः॒ पृश्नि॑मातरः शुभं॒यावा॑नो वि॒दथे॑षु॒ जग्म॑यः । अ॒ग्नि॒जि॒ह्वा मन॑वः॒ सूर॑चक्षसो॒ विश्वे॑ नो दे॒वा अव॒सा ग॑मन्नि॒ह ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "पृषदश्वाः",
+      "gloss": {
+        "hi": "चितकबरे घोड़ों वाले",
+        "en": "with dappled horses",
+        "bho": "चितकबरा घोड़ा वाला"
+      }
+    },
+    {
+      "sa": "मरुतः",
+      "gloss": {
+        "hi": "मरुत् (वायु-देव)",
+        "en": "the Maruts (storm gods)",
+        "bho": "मरुत (बतास-देव)"
+      }
+    },
+    {
+      "sa": "पृश्निमातरः",
+      "gloss": {
+        "hi": "पृश्नि के पुत्र",
+        "en": "sons of Prishni",
+        "bho": "पृश्नि के बेटा"
+      }
+    },
+    {
+      "sa": "शुभंयावानः",
+      "gloss": {
+        "hi": "शोभा से चलने वाले",
+        "en": "moving in splendour",
+        "bho": "सोभा से चले वाला"
+      }
+    },
+    {
+      "sa": "विदथेषु",
+      "gloss": {
+        "hi": "यज्ञों में",
+        "en": "to the rites",
+        "bho": "जग्य में"
+      }
+    },
+    {
+      "sa": "जग्मयः",
+      "gloss": {
+        "hi": "आने वाले",
+        "en": "who come",
+        "bho": "आवे वाला"
+      }
+    },
+    {
+      "sa": "अग्निजिह्वाः",
+      "gloss": {
+        "hi": "अग्नि जिनकी जीभ है",
+        "en": "fire-tongued",
+        "bho": "आगि जेकर जीभ बा"
+      }
+    },
+    {
+      "sa": "मनवः",
+      "gloss": {
+        "hi": "मनु की तरह मननशील",
+        "en": "thoughtful like Manu",
+        "bho": "मनु जइसन बिचार करे वाला"
+      }
+    },
+    {
+      "sa": "सूरचक्षसः",
+      "gloss": {
+        "hi": "सूर्य जिनकी आँख है",
+        "en": "with the sun as their eye",
+        "bho": "सुरुज जेकर आँख बा"
+      }
+    },
+    {
+      "sa": "विश्वे देवाः",
+      "gloss": {
+        "hi": "सब देवता",
+        "en": "all the gods",
+        "bho": "सब देवता"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमारे पास",
+        "en": "to us",
+        "bho": "हमनी लगे"
+      }
+    },
+    {
+      "sa": "अवसा",
+      "gloss": {
+        "hi": "रक्षा के साथ",
+        "en": "with help",
+        "bho": "रच्छा संगे"
+      }
+    },
+    {
+      "sa": "गमन्",
+      "gloss": {
+        "hi": "आएँ",
+        "en": "may come",
+        "bho": "आवसु"
+      }
+    },
+    {
+      "sa": "इह",
+      "gloss": {
+        "hi": "यहाँ",
+        "en": "here",
+        "bho": "इहाँ"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "चितकबरे घोड़ों वाले, पृश्नि के पुत्र, शोभा से चलने वाले, यज्ञों में आने वाले मरुत्; अग्नि जिनकी जीभ है, जो मननशील हैं, सूर्य जिनकी आँख है — ऐसे सब देवता रक्षा के साथ यहाँ हमारे पास आएँ।",
+    "en": "The Maruts with their dappled horses, sons of Prishni, moving in splendour, who come to the rites; fire-tongued, thoughtful, with the sun as their eye — may all the gods come here to us with their help.",
+    "bho": "चितकबरा घोड़ा वाला, पृश्नि के बेटा, सोभा से चले वाला, जग्य में आवे वाला मरुत; आगि जेकर जीभ बा, जे बिचार करे वाला बाड़न, सुरुज जेकर आँख बा — अइसन सब देवता रच्छा संगे इहाँ हमनी लगे आवसु।"
+  },
+  "explanation": {
+    "hi": "सातवीं ऋचा (ऋग्वेद 1.89.7)। मरुत् वायु और आँधी के देव हैं, पृश्नि (गाय-रूपा आकाश-माता) के पुत्र; 'विश्वे देवाः' — सभी देवताओं — को यज्ञ में आने का निमंत्रण है।",
+    "en": "Seventh ṛk (Rigveda 1.89.7). The Maruts are the gods of wind and storm, sons of Prishni (the cow-shaped sky-mother); 'vishve devah', all the gods, are invited to the rite.",
+    "bho": "सातवाँ ऋचा (ऋग्वेद 1.89.7)। मरुत बतास आ आँधी के देव बाड़न, पृश्नि (गाय-रूप अकास-माई) के बेटा; 'विश्वे देवाः' — सब देवता — के जग्य में आवे के नेवता बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-25",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "sd-svastivachanam",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "svasti-vachan",
+    "rv-1-89"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

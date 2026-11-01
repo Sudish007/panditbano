@@ -1,0 +1,149 @@
+{
+  "id": "vs-36-24",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 36.24 (expands RV 7.66.16)",
+  "title": {
+    "hi": "पश्येम शरदः शतम् (आयुष्य-कामना)",
+    "en": "Pashyema sharadah shatam (wish for a full life)",
+    "bho": "पश्येम शरदः शतम् (आयुष्य-कामना)"
+  },
+  "devanagari": "तच्चक्षु॑र्दे॒वहि॑तं पु॒रस्ता॑च्छु॒क्रमुच्च॑रत् । पश्ये॑म श॒रदः॑ श॒तं जीवे॑म श॒रदः॑ श॒तᳪं᳭ शृणु॑याम श॒रदः॑ श॒तं प्र ब्र॑वाम श॒रदः॑ श॒तमदी॑नाः स्याम श॒रदः॑ श॒तं भूय॑श्च श॒रदः॑ श॒तात् ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "तत् चक्षुः",
+      "gloss": {
+        "hi": "वह नेत्र (सूर्य)",
+        "en": "that eye (the sun)",
+        "bho": "ऊ आँख (सुरुज)"
+      }
+    },
+    {
+      "sa": "देवहितम्",
+      "gloss": {
+        "hi": "देवताओं द्वारा स्थापित",
+        "en": "set by the gods",
+        "bho": "देवता लोग के बइठावल"
+      }
+    },
+    {
+      "sa": "पुरस्तात्",
+      "gloss": {
+        "hi": "पूर्व में",
+        "en": "in the east",
+        "bho": "पूरब में"
+      }
+    },
+    {
+      "sa": "शुक्रम्",
+      "gloss": {
+        "hi": "शुभ्र, तेजोमय",
+        "en": "bright",
+        "bho": "उज्जर, तेज वाला"
+      }
+    },
+    {
+      "sa": "उच्चरत्",
+      "gloss": {
+        "hi": "उदित होता है",
+        "en": "rises",
+        "bho": "उगेला"
+      }
+    },
+    {
+      "sa": "पश्येम",
+      "gloss": {
+        "hi": "हम देखें",
+        "en": "may we see",
+        "bho": "हमनी देखीं"
+      }
+    },
+    {
+      "sa": "शरदः शतम्",
+      "gloss": {
+        "hi": "सौ शरद् (सौ वर्ष)",
+        "en": "a hundred autumns",
+        "bho": "सौ सरद (सौ बरिस)"
+      }
+    },
+    {
+      "sa": "जीवेम",
+      "gloss": {
+        "hi": "हम जीएँ",
+        "en": "may we live",
+        "bho": "हमनी जिअत रहीं"
+      }
+    },
+    {
+      "sa": "शृणुयाम",
+      "gloss": {
+        "hi": "हम सुनें",
+        "en": "may we hear",
+        "bho": "हमनी सुनीं"
+      }
+    },
+    {
+      "sa": "प्र ब्रवाम",
+      "gloss": {
+        "hi": "हम बोलें",
+        "en": "may we speak",
+        "bho": "हमनी बोलीं"
+      }
+    },
+    {
+      "sa": "अदीनाः स्याम",
+      "gloss": {
+        "hi": "हम दीन न हों",
+        "en": "may we be undejected",
+        "bho": "हमनी दीन ना होखीं"
+      }
+    },
+    {
+      "sa": "भूयश्च शरदः शतात्",
+      "gloss": {
+        "hi": "और सौ शरद् से भी अधिक",
+        "en": "and beyond a hundred autumns",
+        "bho": "आ सौ सरद से भी बेसी"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "देवताओं द्वारा स्थापित वह तेजोमय नेत्र (सूर्य) पूर्व में उदित होता है। हम सौ शरद् देखें, सौ शरद् जीएँ, सौ शरद् सुनें, सौ शरद् बोलें, सौ शरद् दीन न हों — और सौ शरद् से भी अधिक।",
+    "en": "That bright eye set by the gods rises in the east. May we see a hundred autumns, live a hundred autumns, hear a hundred autumns, speak a hundred autumns, be undejected a hundred autumns — and beyond a hundred autumns.",
+    "bho": "देवता लोग के बइठावल ऊ तेज वाला आँख (सुरुज) पूरब में उगेला। हमनी सौ सरद देखीं, सौ सरद जिअत रहीं, सौ सरद सुनीं, सौ सरद बोलीं, सौ सरद दीन ना होखीं — आ सौ सरद से भी बेसी।"
+  },
+  "explanation": {
+    "hi": "VS 36.24 — छत्तीसवें अध्याय का अंतिम मंत्र (ऋग्वेद 7.66.16 का विस्तार)। [[sandhya-vandan]] में सूर्य-उपस्थान का मंत्र है और [[shanti-path]] के अंत में दीर्घायु की कामना के रूप में पढ़ा जाता है; महीधर के अनुसार इसका देवता सूर्य है। 'अदीनाः' — किसी के सामने दीन न होना — पूरी आयु स्वाभिमान से जीने की प्रार्थना है।",
+    "en": "VS 36.24, the last mantra of adhyaya 36 (an expansion of Rigveda 7.66.16). In the sandhya it is the mantra of the surya-upasthana, and at the end of the shanti-patha it is recited as the wish for a long life; Mahidhara names the sun as its deity. 'Adinah' — never to be abject before anyone — is a prayer to live the whole life with self-respect.",
+    "bho": "VS 36.24 — छत्तीसवाँ अध्याय के आखिरी मंत्र (ऋग्वेद 7.66.16 के बिस्तार)। [[sandhya-vandan]] में सूर्य-उपस्थान के मंत्र बा आ [[shanti-path]] के अंत में लमहर उमिर के कामना के रूप में पढ़ल जाला; महीधर के अनुसार एकर देवता सूर्य बाड़न। 'अदीनाः' — केहू के सोझा दीन ना होखल — पूरा उमिर स्वाभिमान से जिए के प्रार्थना बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-36",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "sd-syv-sandhya",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "shanti-path",
+    "ayushya",
+    "surya"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

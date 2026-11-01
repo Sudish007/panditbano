@@ -1,0 +1,345 @@
+{
+  "id": "achaman-pavitrikaran",
+  "code": "F01",
+  "group": "foundations",
+  "phase": 1,
+  "title": {
+    "hi": "आचमन, पवित्रीकरण और प्राणायाम",
+    "en": "Achamana, pavitrikarana and pranayama",
+    "bho": "आचमन, पवित्रीकरण आ प्राणायाम"
+  },
+  "lede": {
+    "hi": "हर पूजा के पहले तीन काम — तीन बार जल पीना, जल छिड़कना और श्वास रोककर गायत्री पढ़ना — जिनसे करने वाला पूजा के योग्य बनता है।",
+    "en": "The three opening acts of every puja — sipping water thrice, sprinkling water, and reciting the Gayatri with the breath held — which make the performer ready for the rite.",
+    "bho": "हर पूजा के पहिला तीन काम — तीन बेर जल पियल, जल छींटल आ साँस रोक के गायत्री पढ़ल — जेसे करे वाला पूजा के जोग बनेला।"
+  },
+  "overview": {
+    "hi": "कोई भी [[puja]], [[havan]] या [[sanskar]] हो, [[purohit]] की पहली पंक्तियाँ यही होती हैं। [[achaman]] में [[yajman]] दाहिनी हथेली से तीन बार जल पीता है; [[pavitrikaran]] में पंडित मंत्र पढ़कर सब पर जल छिड़कता है; फिर आपो हि ष्ठा की तीन ऋचाओं से मार्जन और [[pranayam]] — सात व्याहृतियों, गायत्री और गायत्री-शिरस् को श्वास रोककर तीन बार पढ़ना। इसके बाद ही [[sankalp]] बोला जाता है। आचमन और पवित्रीकरण [[paddhati]] (पोथी-परंपरा) की विधि हैं; मार्जन और प्राणायाम के मंत्र शुक्ल [[yajurved]] और तैत्तिरीय आरण्यक के हैं। परंपरा में माना जाता है कि इन तीनों से शरीर, वाणी और मन पूजा के लिए शुद्ध होते हैं। यह पृष्ठ हर दूसरे अवसर-पृष्ठ का पहला चरण है, इसलिए यहाँ पूरा विवरण एक बार दिया गया है।",
+    "en": "Whatever the puja, havan or samskara, the purohit's first lines are these. In the achamana the host sips water three times from the right palm; in the pavitrikarana the pandit recites a verse and sprinkles water on everyone; then come the marjana with the three Apo hi shtha ṛks and the pranayama — the seven vyahritis, the Gayatri and the Gayatri-shiras recited three times with the breath held. Only then is the sankalpa spoken. Achamana and pavitrikarana are handbook (paddhati) procedure; the marjana and pranayama mantras come from the Shukla Yajurveda and the Taittiriya Aranyaka. Tradition holds that these three acts prepare body, speech and mind for the rite. This page is the first step of every other occasion page, so the full detail is given once, here.",
+    "bho": "कवनो [[puja]], [[havan]] भा [[sanskar]] होखे, [[purohit]] के पहिला लाइन इहे होला। [[achaman]] में [[yajman]] दाहिना हथेली से तीन बेर जल पियेला; [[pavitrikaran]] में पंडित मंत्र पढ़ के सब पर जल छींटेलन; फेर आपो हि ष्ठा के तीन ऋचा से मार्जन आ [[pranayam]] — सात व्याहृति, गायत्री आ गायत्री-शिरस् के साँस रोक के तीन बेर पढ़ल। एकरा बादे [[sankalp]] बोलल जाला। आचमन आ पवित्रीकरण [[paddhati]] (पोथी-परंपरा) के विधि बा; मार्जन आ प्राणायाम के मंत्र शुक्ल [[yajurved]] आ तैत्तिरीय आरण्यक के बा। परंपरा में मानल जाला कि एह तीनो से देह, बोली आ मन पूजा खातिर सुद्ध होला। ई पन्ना हर दोसरा अवसर-पन्ना के पहिला चरन बा, एही से इहाँ पूरा बिवरन एक बेर दिहल गइल बा।"
+  },
+  "when": {
+    "rules": {
+      "hi": "हर पूजा, हवन, संस्कार और संध्या के आरंभ में, संकल्प से पहले। इसके लिए अलग [[muhurat]] नहीं देखा जाता — जिस पूजा का यह अंग है, उसकी तिथि और मुहूर्त उस पूजा के पृष्ठ पर हैं। बीच में पूजा टूटे (छींक, बातचीत, उठना) तो आचमन फिर से किया जाता है।",
+      "en": "At the start of every puja, havan, samskara and sandhya, before the sankalpa. No separate muhurat is needed — the date and muhurat belong to the puja this opens, and are given on that puja's page. If the puja is interrupted (a sneeze, talk, getting up), the achamana is repeated.",
+      "bho": "हर पूजा, हवन, संस्कार आ संझा के सुरुआत में, संकल्प से पहिले। एकरा खातिर अलगा [[muhurat]] ना देखल जाला — जे पूजा के ई अंग बा, ओकर तिथि आ मुहूरत ओह पूजा के पन्ना पर बा। बीच में पूजा टूटे (छींक, बातचीत, उठल) त आचमन फेर से कइल जाला।"
+    },
+    "shubhvela": {
+      "muhurat": null,
+      "festival": null,
+      "vrat": null
+    }
+  },
+  "roles": [
+    {
+      "role": {
+        "hi": "पुरोहित",
+        "en": "Purohit",
+        "bho": "पुरोहित"
+      },
+      "does": {
+        "hi": "मंत्र पढ़ना, जल छिड़कना, यजमान को हर क्रिया बताना; प्राणायाम में श्वास की गिनती रखना।",
+        "en": "Recites the mantras, sprinkles the water, tells the host what to do at each act; keeps the count of breaths in the pranayama.",
+        "bho": "मंत्र पढ़ल, जल छींटल, जजमान के हर काम बतावल; प्राणायाम में साँस के गिनती राखल।"
+      }
+    },
+    {
+      "role": {
+        "hi": "यजमान (और पत्नी)",
+        "en": "The host (and his wife)",
+        "bho": "जजमान (आ घरवाली)"
+      },
+      "does": {
+        "hi": "पूर्व या उत्तर मुख बैठकर आचमन, मार्जन में जल ग्रहण और प्राणायाम; पत्नी साथ बैठती है और वही करती है।",
+        "en": "Sits facing east or north; does the achamana, receives the water in the marjana and does the pranayama; the wife sits beside him and does the same.",
+        "bho": "पूरब भा उत्तर मुँह बइठ के आचमन, मार्जन में जल लेवल आ प्राणायाम; घरवाली संगे बइठेली आ उहे करेली।"
+      }
+    },
+    {
+      "role": {
+        "hi": "परिवार",
+        "en": "The family",
+        "bho": "परिवार"
+      },
+      "does": {
+        "hi": "बैठकर हाथ जोड़े रहना; पवित्रीकरण का जल सब पर पड़ता है।",
+        "en": "Sits with folded hands; the pavitrikarana water falls on everyone.",
+        "bho": "बइठ के हाथ जोड़ल रहल; पवित्रीकरण के जल सब पर पड़ेला।"
+      }
+    }
+  ],
+  "samagri": [
+    {
+      "id": "jal-patra",
+      "item": {
+        "hi": "जल का पात्र — पंचपात्र या लोटा (तांबे का), जल से भरा",
+        "en": "Water vessel — a panchapatra or small lota (copper), filled with water",
+        "bho": "जल के बरतन — पंचपात्र भा लोटा (तामा के), जल से भरल"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "achamani",
+      "item": {
+        "hi": "आचमनी (छोटी चम्मच)",
+        "en": "Achamani (small spoon)",
+        "bho": "आचमनी (छोट चमचा)"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "kush",
+      "item": {
+        "hi": "कुश या फूल — जल छिड़कने के लिए",
+        "en": "Kusha grass or a flower, for sprinkling",
+        "bho": "कुश भा फूल — जल छींटे खातिर"
+      },
+      "qty": "3–5 तिनके",
+      "must": false
+    },
+    {
+      "id": "asan",
+      "item": {
+        "hi": "आसन — कुशासन या ऊनी आसन, यजमान और पंडित के लिए",
+        "en": "Seats (asana) — kusha or wool, for the host and the pandit",
+        "bho": "आसन — कुशासन भा ऊन के आसन, जजमान आ पंडित खातिर"
+      },
+      "qty": "2",
+      "must": true
+    },
+    {
+      "id": "gangajal",
+      "item": {
+        "hi": "गंगाजल — पात्र के जल में कुछ बूँदें",
+        "en": "Ganga water — a few drops in the vessel",
+        "bho": "गंगाजल — बरतन के जल में कुछ बूँद"
+      },
+      "qty": "थोड़ा",
+      "must": false,
+      "note": {
+        "hi": "न हो तो साफ़ जल ही पर्याप्त है।",
+        "en": "Plain clean water suffices if none is at hand.",
+        "bho": "ना होखे त साफ जल से ही काम चल जाला।"
+      }
+    }
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "layer": "paddhati",
+      "minutes": 1,
+      "action": {
+        "hi": "आसन और आचमन — आसन पर पूर्व या उत्तर मुख बैठें। [[achaman]]: दाहिनी हथेली में आचमनी से थोड़ा जल लें और अँगूठे की जड़ से तीन बार पिएँ — हर नाम पर एक बार; चौथे नाम पर हाथ धो लें।",
+        "en": "Seat and achamana — Sit on the seat facing east or north. Achamana: take a little water in the right palm with the spoon and sip three times from the base of the thumb — once at each name; at the fourth name wash the hands.",
+        "bho": "आसन आ आचमन — आसन पर पूरब भा उत्तर मुँह बइठीं। [[achaman]]: दाहिना हथेली में आचमनी से तनी जल लीं आ अँगूठा के जड़ से तीन बेर पियीं — हर नाँव पर एक बेर; चउथा नाँव पर हाथ धो लीं।"
+      },
+      "mantraIds": [
+        "pad-keshavaya-namah"
+      ],
+      "samagriIds": [
+        "jal-patra",
+        "achamani",
+        "asan"
+      ],
+      "panditSays": {
+        "sa": "ॐ केशवाय नमः । ॐ नारायणाय नमः । ॐ माधवाय नमः ।",
+        "hi": "हथेली में जल लीजिए — केशवाय नमः, पिएँ; नारायणाय नमः, पिएँ; माधवाय नमः, पिएँ। अब गोविंदाय नमः — हाथ धो लें।",
+        "en": "Take water in the palm — Keshavaya namah, sip; Narayanaya namah, sip; Madhavaya namah, sip. Now Govindaya namah — wash the hands.",
+        "bho": "हथेली में जल लीं — केशवाय नमः, पियीं; नारायणाय नमः, पियीं; माधवाय नमः, पियीं। अब गोविंदाय नमः — हाथ धो लीं।"
+      },
+      "note": {
+        "hi": "जल इतना ही कि एक उड़द का दाना डूबे — बहुत कम। यजमान की पत्नी भी साथ आचमन करती है।",
+        "en": "Only enough water to cover a single lentil — very little. The host's wife does the achamana alongside.",
+        "bho": "जल एतने कि एक उरद के दाना डूबे — बहुते कम। जजमान के घरवाली भी संगे आचमन करेली।"
+      }
+    },
+    {
+      "n": 2,
+      "layer": "paddhati",
+      "minutes": 1,
+      "important": true,
+      "action": {
+        "hi": "[[pavitrikaran]]: पंडित बाएँ हाथ में जल-पात्र लेकर दाहिने हाथ (या कुश/फूल) से मंत्र पढ़ते हुए यजमान, परिवार और सारी सामग्री पर जल छिड़कता है; अंत में अपने ऊपर।",
+        "en": "Pavitrikarana: holding the water vessel in the left hand, the pandit recites the verse and sprinkles water with the right hand (or with kusha or a flower) on the host, the family and all the materials; last on himself.",
+        "bho": "[[pavitrikaran]]: पंडित बाईं हाथ में जल-बरतन लेके दाहिना हाथ (भा कुश/फूल) से मंत्र पढ़त जजमान, परिवार आ सगरी सामग्री पर जल छींटेलन; अंत में आपन ऊपर।"
+      },
+      "mantraIds": [
+        "pad-apavitrah-pavitro-va"
+      ],
+      "samagriIds": [
+        "jal-patra",
+        "kush"
+      ],
+      "panditSays": {
+        "sa": "ॐ अपवित्रः पवित्रो वा सर्वावस्थां गतोऽपि वा ।",
+        "hi": "सब लोग हाथ जोड़ लें — मैं जल छिड़क रहा हूँ; यह पवित्रीकरण है।",
+        "en": "Everyone fold your hands — I am sprinkling the water; this is the pavitrikarana.",
+        "bho": "सभे हाथ जोड़ लीं — हम जल छींटत बानी; ई पवित्रीकरण बा।"
+      }
+    },
+    {
+      "n": 3,
+      "layer": "vedic",
+      "minutes": 2,
+      "action": {
+        "hi": "मार्जन: पंडित आपो हि ष्ठा की तीन ऋचाएँ पढ़ता है और हर ऋचा पर कुश या फूल से यजमान के सिर पर जल छिड़कता है (या यजमान स्वयं अपने सिर पर)।",
+        "en": "Marjana: the pandit recites the three Apo hi shtha ṛks and at each sprinkles water on the host's head with kusha or a flower (or the host sprinkles his own head).",
+        "bho": "मार्जन: पंडित आपो हि ष्ठा के तीन ऋचा पढ़ेलन आ हर ऋचा पर कुश भा फूल से जजमान के माथा पर जल छींटेलन (भा जजमान खुदे आपन माथा पर)।"
+      },
+      "mantraIds": [
+        "vs-36-14",
+        "vs-36-15",
+        "vs-36-16"
+      ],
+      "samagriIds": [
+        "jal-patra",
+        "kush"
+      ],
+      "panditSays": {
+        "hi": "सिर झुकाइए — तीन बार जल पड़ेगा।",
+        "en": "Bow the head — the water will fall three times.",
+        "bho": "माथा झुकाईं — तीन बेर जल पड़ी।"
+      },
+      "note": {
+        "hi": "संध्या में यही मार्जन सात व्याहृतियों (ॐ भूः पुनातु शिरसि …) के साथ भी होता है; पूजा के आरंभ में तीन ऋचाएँ पर्याप्त हैं।",
+        "en": "In the sandhya the same marjana is also done with the seven vyahritis (om bhuh punatu shirasi …); at the start of a puja the three ṛks suffice.",
+        "bho": "संझा में इहे मार्जन सात व्याहृति (ॐ भूः पुनातु शिरसि …) संगे भी होला; पूजा के सुरुआत में तीन ऋचा काफी बा।"
+      }
+    },
+    {
+      "n": 4,
+      "layer": "vedic",
+      "minutes": 3,
+      "important": true,
+      "action": {
+        "hi": "[[pranayam]]: यजमान दाहिने हाथ के अँगूठे और अनामिका-कनिष्ठिका से नाक पकड़कर श्वास रोकता है; पंडित (या यजमान मन में) सात व्याहृतियाँ, गायत्री और गायत्री-शिरस् पढ़ता है। यह तीन बार — पूरक, कुंभक, रेचक के साथ।",
+        "en": "Pranayama: the host closes the nostrils with the thumb and the ring and little fingers of the right hand and holds the breath; the pandit (or the host silently) recites the seven vyahritis, the Gayatri and the Gayatri-shiras. Three times — with inhalation, retention and exhalation.",
+        "bho": "[[pranayam]]: जजमान दाहिना हाथ के अँगूठा आ अनामिका-कनिष्ठिका से नाक धर के साँस रोकेला; पंडित (भा जजमान मन में) सात व्याहृति, गायत्री आ गायत्री-शिरस् पढ़ेलन। ई तीन बेर — पूरक, कुंभक, रेचक संगे।"
+      },
+      "mantraIds": [
+        "pad-sapta-vyahriti",
+        "vs-36-3",
+        "pad-gayatri-shiras"
+      ],
+      "panditSays": {
+        "sa": "ॐ भूः ॐ भुवः ॐ स्वः ॐ महः ॐ जनः ॐ तपः ॐ सत्यम् । ॐ तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि धियो यो नः प्रचोदयात् । ॐ आपो ज्योती रसोऽमृतं ब्रह्म भूर्भुवः स्वरोम् ॥",
+        "hi": "नाक पकड़िए, श्वास भीतर रोकिए — मैं मंत्र पढ़ूँगा; मंत्र पूरा होने पर धीरे से छोड़िए। ऐसा तीन बार।",
+        "en": "Close the nostrils, hold the breath in — I will recite the mantra; release slowly when it ends. Three times like this.",
+        "bho": "नाक धरीं, साँस भीतर रोकीं — हम मंत्र पढ़ब; मंत्र पूरा भइला पर धीरे से छोड़ीं। अइसे तीन बेर।"
+      },
+      "note": {
+        "hi": "जो श्वास न रोक सकें (वृद्ध, अस्वस्थ), वे मंत्र सुनते हुए सामान्य श्वास लें — यह पोथियों की सामान्य छूट है।",
+        "en": "Those who cannot hold the breath (the elderly, the unwell) breathe normally while listening to the mantra — the handbooks' usual allowance.",
+        "bho": "जे साँस ना रोक सके (बुजुर्ग, अस्वस्थ), ऊ मंत्र सुनत सामान्य साँस लेसु — ई पोथी के आम छूट बा।"
+      }
+    },
+    {
+      "n": 5,
+      "layer": "paddhati",
+      "minutes": 1,
+      "action": {
+        "hi": "पुनः आचमन और संकल्प — फिर एक बार आचमन (पहले की तरह); अब [[sankalp]] के लिए हाथ में जल, अक्षत और द्रव्य लिया जाता है — आगे का क्रम उस पूजा के पृष्ठ पर।",
+        "en": "Achamana again, then the sankalpa — One more achamana (as before); now water, rice and a coin are taken in hand for the sankalpa — the sequence continues on the page of the puja being performed.",
+        "bho": "फेर आचमन आ संकल्प — फेर एक बेर आचमन (पहिले जइसन); अब [[sankalp]] खातिर हाथ में जल, अछत आ द्रव्य लिहल जाला — आगे के क्रम ओह पूजा के पन्ना पर।"
+      },
+      "mantraIds": [
+        "pad-keshavaya-namah"
+      ],
+      "panditSays": {
+        "hi": "एक बार फिर आचमन। अब संकल्प के लिए जल लीजिए।",
+        "en": "Achamana once more. Now take water for the sankalpa.",
+        "bho": "एक बेर फेर आचमन। अब संकल्प खातिर जल लीं।"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "region": "dakshin-bharat / taittiriya",
+      "what": {
+        "hi": "दक्षिण की संध्या-पोथियों में आचमन के नामों के बाद 'स्वाहा' जोड़ा जाता है और प्राणायाम में स्वः के स्थान पर 'सुवः', 'स्वरोम्' के स्थान पर 'सुवरोम्' बोला जाता है (तैत्तिरीय पाठ)।",
+        "en": "Southern sandhya handbooks add 'svaha' after the achamana names, and in the pranayama say 'suvah' for svah and 'suvarom' for svarom (the Taittiriya recitation).",
+        "bho": "दक्खिन के संझा-पोथी में आचमन के नाँव के बाद 'स्वाहा' जोड़ल जाला आ प्राणायाम में स्वः के जगह 'सुवः', 'स्वरोम्' के जगह 'सुवरोम्' बोलल जाला (तैत्तिरीय पाठ)।"
+      },
+      "source": "sd-syv-sandhya"
+    },
+    {
+      "region": "pothi-bhed",
+      "what": {
+        "hi": "हाथ धोने का चौथा नाम पोथी-पोथी में अलग मिलता है — यहाँ दी गई संध्या-फ़ाइल में गोविंदाय नमः है; व्यवहार में हृषीकेशाय नमः भी सुनाई देता है। जो नाम आपके पंडित कहें, वही चलेगा।",
+        "en": "The fourth name, for washing the hands, differs between handbooks — the sandhya file used here has Govindaya namah; in practice Hrishikeshaya namah is also heard. Whatever your pandit says is fine.",
+        "bho": "हाथ धोवे के चउथा नाँव पोथी-पोथी में अलगा मिलेला — इहाँ दिहल संझा-फाइल में गोविंदाय नमः बा; व्यवहार में हृषीकेशाय नमः भी सुनाई देला। जे नाँव राउर पंडित कहसु, उहे चली।"
+      },
+      "source": "sd-syv-sandhya"
+    }
+  ],
+  "faq": [
+    {
+      "q": {
+        "hi": "आचमन तीन बार ही क्यों?",
+        "en": "Why exactly three sips in the achamana?",
+        "bho": "आचमन तीन बेर ही काहे?"
+      },
+      "a": {
+        "hi": "परंपरा में माना जाता है कि तीन आचमन से ऋक्, यजुः और साम — तीनों वेद — प्रसन्न होते हैं, और शरीर-वाणी-मन तीनों शुद्ध होते हैं; स्मृतियों में इसी कारण तीन का विधान है।",
+        "en": "Tradition holds that the three sips honour the three Vedas — Rik, Yajus and Saman — and purify body, speech and mind; the smritis prescribe three for this reason.",
+        "bho": "परंपरा में मानल जाला कि तीन आचमन से ऋक्, यजुः आ साम — तीनो वेद — खुस होलन, आ देह-बोली-मन तीनो सुद्ध होला; स्मृति में एही कारन तीन के विधान बा।"
+      }
+    },
+    {
+      "q": {
+        "hi": "क्या पवित्रीकरण का मंत्र वेद का है?",
+        "en": "Is the pavitrikarana verse from the Veda?",
+        "bho": "का पवित्रीकरण के मंत्र वेद के बा?"
+      },
+      "a": {
+        "hi": "नहीं — 'अपवित्रः पवित्रो वा' [गरुड़ पुराण](https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%B0%E0%A5%81%E0%A4%A1%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A8%E0%A5%A7%E0%A5%AD) (आचारकांड 217) का श्लोक है, जहाँ संध्या-विधि इसी से शुरू होती है; पोथियों में यह हर पूजा का पहला श्लोक बन गया है। इसीलिए इसे यहाँ 'पद्धति' चिह्न दिया गया है।",
+        "en": "No — 'apavitrah pavitro va' is a verse of the [Garuda Purana](https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%B0%E0%A5%81%E0%A4%A1%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A8%E0%A5%A7%E0%A5%AD) (Acharakanda 217), where the rule of the sandhya opens with it; in the handbooks it has become the first verse of every puja. That is why it carries the 'paddhati' label here.",
+        "bho": "ना — 'अपवित्रः पवित्रो वा' [गरुड़ पुराण](https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%B0%E0%A5%81%E0%A4%A1%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A8%E0%A5%A7%E0%A5%AD) (आचारकांड 217) के श्लोक बा, जहाँ संझा-विधि एही से सुरू होला; पोथी में ई हर पूजा के पहिला श्लोक बन गइल बा। एही से एकरा इहाँ 'पद्धति' चिह्न दिहल गइल बा।"
+      }
+    },
+    {
+      "q": {
+        "hi": "जिन्हें गायत्री का उपदेश नहीं हुआ, वे प्राणायाम में क्या पढ़ें?",
+        "en": "What do those who have not received the Gayatri recite in the pranayama?",
+        "bho": "जेकरा गायत्री के उपदेश नइखे भइल, ऊ प्राणायाम में का पढ़सु?"
+      },
+      "a": {
+        "hi": "परंपरा में गायत्री उपनयन में दिया जाने वाला मंत्र है। पोथियों के व्यवहार में जिन्हें यह उपदेश नहीं मिला है — स्त्रियाँ और बिना जनेऊ वाले — वे पंडित के मंत्र पढ़ते समय ॐ या अपने इष्ट के नाम का जप करते हुए श्वास रोकते हैं; परिवार की परंपरा जो कहे, वही मान्य है। यह साइट विधि बताती है, नियम नहीं बनाती।",
+        "en": "Tradition gives the Gayatri at the upanayana. In handbook practice those who have not received it — women and those without the sacred thread — hold the breath while repeating Om or the name of their chosen deity as the pandit recites; the family's own custom decides. This site describes the procedure; it does not make rules.",
+        "bho": "परंपरा में गायत्री उपनयन में दिहल जाए वाला मंत्र बा। पोथी के व्यवहार में जेकरा ई उपदेश नइखे मिलल — मेहरारू आ बिना जनेऊ वाला — ऊ पंडित के मंत्र पढ़त घरी ॐ भा आपन इष्ट के नाँव जपत साँस रोकेलन; परिवार के परंपरा जे कहे, उहे मान्य बा। ई साइट विधि बतावेले, नियम ना बनावे।"
+      }
+    },
+    {
+      "q": {
+        "hi": "इन तीनों में कुल कितना समय लगता है?",
+        "en": "How long do the three take altogether?",
+        "bho": "एह तीनो में कुल केतना समय लागेला?"
+      },
+      "a": {
+        "hi": "पाँच से सात मिनट — आचमन एक मिनट, पवित्रीकरण और मार्जन दो-तीन मिनट, प्राणायाम तीन बार में तीन मिनट।",
+        "en": "Five to seven minutes — about one for the achamana, two or three for the pavitrikarana and marjana, three for the pranayama done three times.",
+        "bho": "पाँच से सात मिनट — आचमन एक मिनट, पवित्रीकरण आ मार्जन दू-तीन मिनट, प्राणायाम तीन बेर में तीन मिनट।"
+      }
+    }
+  ],
+  "sources": [
+    "ws-garuda-acharakanda-217",
+    "ws-syv-36",
+    "ws-vachaspatyam-achamana",
+    "ws-mahanarayana",
+    "sd-syv-sandhya",
+    "titus-vs"
+  ],
+  "tags": [
+    "foundations",
+    "achaman",
+    "pavitrikaran",
+    "pranayam"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

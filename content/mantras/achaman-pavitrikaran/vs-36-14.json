@@ -1,0 +1,141 @@
+{
+  "id": "vs-36-14",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 36.14 (= RV 10.9.1; also VS 11.50)",
+  "title": {
+    "hi": "आपो हि ष्ठा (मार्जन 1)",
+    "en": "Apo hi shtha (marjana 1)",
+    "bho": "आपो हि ष्ठा (मार्जन 1)"
+  },
+  "devanagari": "आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन । म॒हे रणा॑य॒ चक्ष॑से ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "आपः",
+      "gloss": {
+        "hi": "हे जल",
+        "en": "O Waters",
+        "bho": "हे जल"
+      }
+    },
+    {
+      "sa": "हि",
+      "gloss": {
+        "hi": "निश्चय ही",
+        "en": "indeed",
+        "bho": "सचहूँ"
+      }
+    },
+    {
+      "sa": "स्थ",
+      "gloss": {
+        "hi": "हो",
+        "en": "you are",
+        "bho": "बाड़ू"
+      }
+    },
+    {
+      "sa": "मयोभुवः",
+      "gloss": {
+        "hi": "सुख देने वाले",
+        "en": "bringers of joy",
+        "bho": "सुख देवे वाला"
+      }
+    },
+    {
+      "sa": "ताः",
+      "gloss": {
+        "hi": "वे (तुम)",
+        "en": "such (you)",
+        "bho": "ऊ (रउआ)"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमें",
+        "en": "us",
+        "bho": "हमनी के"
+      }
+    },
+    {
+      "sa": "ऊर्जे",
+      "gloss": {
+        "hi": "अन्न और बल के लिए",
+        "en": "for nourishment and strength",
+        "bho": "अन्न आ बल खातिर"
+      }
+    },
+    {
+      "sa": "दधातन",
+      "gloss": {
+        "hi": "स्थापित करो, पुष्ट करो",
+        "en": "establish, sustain",
+        "bho": "पुष्ट करीं"
+      }
+    },
+    {
+      "sa": "महे",
+      "gloss": {
+        "hi": "महान्",
+        "en": "great",
+        "bho": "बड़"
+      }
+    },
+    {
+      "sa": "रणाय",
+      "gloss": {
+        "hi": "आनंददायक",
+        "en": "delightful",
+        "bho": "आनंद देवे वाला"
+      }
+    },
+    {
+      "sa": "चक्षसे",
+      "gloss": {
+        "hi": "दर्शन के लिए",
+        "en": "for the seeing",
+        "bho": "देखे खातिर"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे जल! तुम निश्चय ही सुख देने वाले हो; हमें अन्न और बल के लिए पुष्ट करो, और महान् आनंददायक दर्शन के योग्य बनाओ।",
+    "en": "O Waters, you are indeed the bringers of joy; so sustain us for nourishment and strength, and for the great and delightful seeing.",
+    "bho": "हे जल! रउआ सभे सचहूँ सुख देवे वाला बाड़ू; हमनी के अन्न आ बल खातिर पुष्ट करीं, आ बड़ आनंद देवे वाला दरसन जोग बनाईं।"
+  },
+  "explanation": {
+    "hi": "यह आपो हि ष्ठा तृच (तीन ऋचाओं का समूह, VS 36.14–16; ऋग्वेद 10.9.1–3 भी) की पहली ऋचा है। [[sandhya-vandan]] में और हर पूजा के आरंभ में [[purohit]] इन तीनों से मार्जन करता है — हर ऋचा पर कुश या फूल से सिर और शरीर पर जल छिड़का जाता है। जल को यहाँ सुख देने वाली माताओं की तरह संबोधित किया गया है।",
+    "en": "First of the Apo hi shtha trio (VS 36.14–16; also Rigveda 10.9.1–3). In the sandhya and at the start of every puja the purohit performs marjana with these three: at each ṛk water is sprinkled on the head and body with kusha or a flower. The waters are addressed here as joy-giving mothers.",
+    "bho": "ई आपो हि ष्ठा तृच (तीन ऋचा के समूह, VS 36.14–16; ऋग्वेद 10.9.1–3 भी) के पहिला ऋचा बा। [[sandhya-vandan]] में आ हर पूजा के सुरुआत में [[purohit]] एह तीनो से मार्जन करेलन — हर ऋचा पर कुश भा फूल से माथा आ देह पर जल छींटल जाला। जल के इहाँ सुख देवे वाली माई लोग जइसन बोलावल गइल बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-36",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "sd-syv-sandhya",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "marjan",
+    "apo-hi-shtha",
+    "sandhya"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

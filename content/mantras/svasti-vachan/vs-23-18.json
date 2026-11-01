@@ -1,0 +1,153 @@
+{
+  "id": "vs-23-18",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 23.18 (latter part of the kandika)",
+  "title": {
+    "hi": "अंबिका (गौरी) का आवाहन-मंत्र",
+    "en": "Ambe ambike (Ambika invocation)",
+    "bho": "अंबिका (गौरी) के आवाहन-मंत्र"
+  },
+  "devanagari": "अम्बे॒ अम्बि॒केऽम्बा॑लिके॒ न मा॑ नयति॒ कश्च॒न । सस॑स्त्यश्व॒कः सुभ॑द्रिकां काम्पीलवा॒सिनी॑म् ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "अम्बे",
+      "gloss": {
+        "hi": "हे अंबा",
+        "en": "O Amba",
+        "bho": "हे अंबा"
+      }
+    },
+    {
+      "sa": "अम्बिके",
+      "gloss": {
+        "hi": "हे अंबिका",
+        "en": "O Ambika",
+        "bho": "हे अंबिका"
+      }
+    },
+    {
+      "sa": "अम्बालिके",
+      "gloss": {
+        "hi": "हे अंबालिका",
+        "en": "O Ambalika",
+        "bho": "हे अंबालिका"
+      }
+    },
+    {
+      "sa": "न",
+      "gloss": {
+        "hi": "नहीं",
+        "en": "not",
+        "bho": "ना"
+      }
+    },
+    {
+      "sa": "मा",
+      "gloss": {
+        "hi": "मुझे",
+        "en": "me",
+        "bho": "हमरा"
+      }
+    },
+    {
+      "sa": "नयति",
+      "gloss": {
+        "hi": "ले जाता है",
+        "en": "leads (away)",
+        "bho": "ले जाला"
+      }
+    },
+    {
+      "sa": "कश्चन",
+      "gloss": {
+        "hi": "कोई भी",
+        "en": "anyone",
+        "bho": "केहू"
+      }
+    },
+    {
+      "sa": "ससस्ति",
+      "gloss": {
+        "hi": "सोता है",
+        "en": "sleeps",
+        "bho": "सुतेला"
+      }
+    },
+    {
+      "sa": "अश्वकः",
+      "gloss": {
+        "hi": "छोटा घोड़ा",
+        "en": "the little horse",
+        "bho": "छोट घोड़ा"
+      }
+    },
+    {
+      "sa": "सुभद्रिकाम्",
+      "gloss": {
+        "hi": "सुभद्रिका (के पास)",
+        "en": "(beside) Subhadrika",
+        "bho": "सुभद्रिका (लगे)"
+      }
+    },
+    {
+      "sa": "काम्पीलवासिनीम्",
+      "gloss": {
+        "hi": "कांपील की वासिनी",
+        "en": "who dwells in Kampila",
+        "bho": "कांपील में रहे वाली"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे अंबा, हे अंबिका, हे अंबालिका! मुझे कोई नहीं ले जाता; छोटा घोड़ा कांपील-वासिनी सुभद्रिका के पास सोता है।",
+    "en": "O Amba, O Ambika, O Ambalika! No one leads me away; the little horse sleeps beside Subhadrika who dwells in Kampila.",
+    "bho": "हे अंबा, हे अंबिका, हे अंबालिका! हमरा केहू ना ले जाला; छोट घोड़ा कांपील में रहे वाली सुभद्रिका लगे सुतेला।"
+  },
+  "explanation": {
+    "hi": "वेद में यह अश्वमेध की रानियों का वाक्य है (VS 23.18 का उत्तरार्ध); पोथियों ने अंबा-अंबिका-अंबालिका के तीन माता-नामों के कारण इसे [[devi]] (गौरी/अंबिका) के आवाहन का मंत्र बना लिया है, और यह [[ganesh-ambika-pujan]] में तथा [[swasti-vachan]] के अंत में पढ़ा जाता है। यह पद्धति-परंपरा का प्रयोग है; शब्दार्थ ऊपर ज्यों का त्यों दिया है। इसी कंडिका का पूर्वार्ध 'प्राणाय स्वाहा…' पोथी में नहीं पढ़ा जाता।",
+    "en": "In the Veda this is a saying of the queens at the ashvamedha (the latter part of VS 23.18); because of the three mother-names Amba, Ambika, Ambalika the handbooks adopted it as the invocation of the Goddess (Gauri, Ambika), recited in the Ganesha-Ambika puja and at the close of the svasti-vachana. This is a usage of the handbook tradition; the word-meaning is given above as it stands. The first part of the same kandika, 'pranaya svaha …', is not recited in the handbooks.",
+    "bho": "वेद में ई अश्वमेध के रानी लोग के वाक्य बा (VS 23.18 के उत्तरारध); पोथी अंबा-अंबिका-अंबालिका के तीन माई-नाँव के कारन एकरा [[devi]] (गौरी/अंबिका) के आवाहन के मंत्र बना लिहल बा, आ ई [[ganesh-ambika-pujan]] में तथा [[swasti-vachan]] के अंत में पढ़ल जाला। ई पद्धति-परंपरा के प्रयोग बा; सब्दार्थ ऊपर जइसन के तइसन दिहल बा। एही कंडिका के पूर्वारध 'प्राणाय स्वाहा…' पोथी में ना पढ़ल जाला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-23",
+    "retrieved": "2026-11-01",
+    "modified": "only the recited portion of the kandika is given (the opening ahuti formula प्राणाय स्वाहा ऽपानाय स्वाहा व्यानाय स्वाहा is in variants); ASCII colon → visarga; ।। १८ ।। → ॥"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "sd-svastivachanam",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "ambika",
+    "gauri",
+    "svasti-vachan",
+    "avahan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "variants": [
+    {
+      "reading": "प्रा॒णाय॒ स्वाहा॑ ऽपा॒नाय॒ स्वाहा॑ व्या॒नाय॒ स्वाहा॑ । अम्बे॒ अम्बि॒केऽम्बा॑लिके॒ न मा॑ नयति॒ कश्च॒न । सस॑स्त्यश्व॒कः सुभ॑द्रिकां काम्पीलवा॒सिनी॑म् ॥",
+      "note": {
+        "hi": "पूरी कंडिका VS 23.18, जिसका पहला भाग 'प्राणाय स्वाहा…' अश्वमेध की आहुतियाँ हैं।",
+        "en": "The complete kandika VS 23.18; its opening 'pranaya svaha …' are the ashvamedha oblations.",
+        "bho": "पूरा कंडिका VS 23.18, जेकर पहिला भाग 'प्राणाय स्वाहा…' अश्वमेध के आहुति बा।"
+      },
+      "source": "ws-syv-23"
+    }
+  ]
+}

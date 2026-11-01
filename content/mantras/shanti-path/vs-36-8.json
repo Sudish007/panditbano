@@ -1,0 +1,112 @@
+{
+  "id": "vs-36-8",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 36.8",
+  "title": {
+    "hi": "शं नो अस्तु द्विपदे (शांति 1)",
+    "en": "Indro vishvasya rajati (shanti 1)",
+    "bho": "शं नो अस्तु द्विपदे (शांति 1)"
+  },
+  "devanagari": "इन्द्रो॒ विश्व॑स्य राजति । शं नो॑ अस्तु द्वि॒पदे॒ शं चतु॑ष्पदे ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "इन्द्रः",
+      "gloss": {
+        "hi": "इंद्र",
+        "en": "Indra",
+        "bho": "इंद्र"
+      }
+    },
+    {
+      "sa": "विश्वस्य",
+      "gloss": {
+        "hi": "सब पर",
+        "en": "over all",
+        "bho": "सब पर"
+      }
+    },
+    {
+      "sa": "राजति",
+      "gloss": {
+        "hi": "राज्य करता है",
+        "en": "rules",
+        "bho": "राज करेलन"
+      }
+    },
+    {
+      "sa": "शम्",
+      "gloss": {
+        "hi": "कल्याण",
+        "en": "well-being",
+        "bho": "कल्यान"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमारे",
+        "en": "our",
+        "bho": "हमनी के"
+      }
+    },
+    {
+      "sa": "अस्तु",
+      "gloss": {
+        "hi": "हो",
+        "en": "may there be",
+        "bho": "होखे"
+      }
+    },
+    {
+      "sa": "द्विपदे",
+      "gloss": {
+        "hi": "दो पैरों वालों (मनुष्यों) के लिए",
+        "en": "for the two-footed (humans)",
+        "bho": "दू गोड़ वाला (मनई) खातिर"
+      }
+    },
+    {
+      "sa": "चतुष्पदे",
+      "gloss": {
+        "hi": "चार पैरों वालों (पशुओं) के लिए",
+        "en": "for the four-footed (animals)",
+        "bho": "चार गोड़ वाला (पसु) खातिर"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "इंद्र सब पर राज्य करते हैं। हमारे दो पैरों वालों का कल्याण हो, चार पैरों वालों का कल्याण हो।",
+    "en": "Indra rules over all. May there be well-being for our two-footed and well-being for our four-footed.",
+    "bho": "इंद्र सब पर राज करेलन। हमनी के दू गोड़ वाला के कल्यान होखे, चार गोड़ वाला के कल्यान होखे।"
+  },
+  "explanation": {
+    "hi": "VS 36.8 — छत्तीसवें अध्याय की 'शं नो' ऋचाओं (8–13) की पहली; ये [रुद्राष्टाध्यायी](https://sa.wikisource.org/wiki/रुद्राष्टाध्यायी) के शांत्याध्याय में और बड़ी पूजाओं के विस्तृत शांतिपाठ में पढ़ी जाती हैं। 'द्विपद-चतुष्पद' — घर के लोग और पशु — वैदिक प्रार्थनाओं में बार-बार आने वाला जोड़ा है।",
+    "en": "VS 36.8, first of the 'sham nah' ṛks of adhyaya 36 (8–13), which are read in the Shantyadhyaya of the [Rudrashtadhyayi](https://sa.wikisource.org/wiki/रुद्राष्टाध्यायी) and in the longer shanti-patha of big pujas. 'Two-footed and four-footed' — the household's people and animals — is a pair that recurs in Vedic prayers.",
+    "bho": "VS 36.8 — छत्तीसवाँ अध्याय के 'शं नो' ऋचा (8–13) के पहिला; ई [रुद्राष्टाध्यायी](https://sa.wikisource.org/wiki/रुद्राष्टाध्यायी) के शांत्याध्याय में आ बड़ पूजा के बिस्तार वाला शांतिपाठ में पढ़ल जाला। 'द्विपद-चतुष्पद' — घर के लोग आ पसु — वैदिक प्रार्थना में बेर-बेर आवे वाला जोड़ा बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-36",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "shanti-path",
+    "sham-nah"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

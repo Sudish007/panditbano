@@ -1,0 +1,172 @@
+{
+  "id": "vs-25-17",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 25.17 (= RV 1.89.4)",
+  "title": {
+    "hi": "तन्नो वातो मयोभु (स्वस्तिवाचन 4)",
+    "en": "Tan no vato mayobhu (svasti-vachana 4)",
+    "bho": "तन्नो वातो मयोभु (स्वस्तिवाचन 4)"
+  },
+  "devanagari": "तन्नो॒ वातो॑ मयो॒भु वा॑तु भेष॒जं तन्मा॒ता पृ॑थि॒वी तत्पि॒ता द्यौः॑ । तद् ग्रावा॑णः सोम॒सुतो॑ मयो॒भुव॒स्तद॑श्विना शृणुतं धिष्ण्या यु॒वम् ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "तत्",
+      "gloss": {
+        "hi": "वह",
+        "en": "that",
+        "bho": "ऊ"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमारे लिए",
+        "en": "for us",
+        "bho": "हमनी खातिर"
+      }
+    },
+    {
+      "sa": "वातः",
+      "gloss": {
+        "hi": "वायु",
+        "en": "the wind",
+        "bho": "बतास"
+      }
+    },
+    {
+      "sa": "मयोभु",
+      "gloss": {
+        "hi": "सुखकारी",
+        "en": "joy-bringing",
+        "bho": "सुख देवे वाला"
+      }
+    },
+    {
+      "sa": "वातु",
+      "gloss": {
+        "hi": "बहाए",
+        "en": "may blow",
+        "bho": "बहावे"
+      }
+    },
+    {
+      "sa": "भेषजम्",
+      "gloss": {
+        "hi": "औषध",
+        "en": "remedy, healing balm",
+        "bho": "ओखद"
+      }
+    },
+    {
+      "sa": "माता पृथिवी",
+      "gloss": {
+        "hi": "माता पृथिवी",
+        "en": "Mother Earth",
+        "bho": "माई धरती"
+      }
+    },
+    {
+      "sa": "पिता द्यौः",
+      "gloss": {
+        "hi": "पिता आकाश",
+        "en": "Father Sky",
+        "bho": "बाप अकास"
+      }
+    },
+    {
+      "sa": "ग्रावाणः",
+      "gloss": {
+        "hi": "सोम कूटने वाले पत्थर",
+        "en": "the pressing-stones",
+        "bho": "सोम कूटे वाला पाथर"
+      }
+    },
+    {
+      "sa": "सोमसुतः",
+      "gloss": {
+        "hi": "सोम निचोड़ने वाले",
+        "en": "that press the soma",
+        "bho": "सोम निचोड़े वाला"
+      }
+    },
+    {
+      "sa": "मयोभुवः",
+      "gloss": {
+        "hi": "सुखकारी",
+        "en": "joy-bringing",
+        "bho": "सुख देवे वाला"
+      }
+    },
+    {
+      "sa": "अश्विना",
+      "gloss": {
+        "hi": "हे दोनों अश्विनीकुमार",
+        "en": "O two Ashvins",
+        "bho": "हे दुनो अश्विनीकुमार"
+      }
+    },
+    {
+      "sa": "शृणुतम्",
+      "gloss": {
+        "hi": "सुनो",
+        "en": "hear",
+        "bho": "सुनीं"
+      }
+    },
+    {
+      "sa": "धिष्ण्या",
+      "gloss": {
+        "hi": "हे बुद्धिमान्",
+        "en": "O wise ones",
+        "bho": "हे बुधिमान"
+      }
+    },
+    {
+      "sa": "युवम्",
+      "gloss": {
+        "hi": "तुम दोनों",
+        "en": "you two",
+        "bho": "रउआ दुनो"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "वह सुखकारी औषध वायु हमारे लिए बहाए; वही माता पृथिवी और पिता आकाश दें; वही सोम निचोड़ने वाले सुखकारी पत्थर दें; हे बुद्धिमान् अश्विनीकुमारों, तुम दोनों इसे सुनो।",
+    "en": "May the wind blow to us that joy-bringing remedy; may Mother Earth and Father Sky give it; may the joy-bringing stones that press the soma give it; O wise Ashvins, hear this, you two.",
+    "bho": "ऊ सुख देवे वाला ओखद बतास हमनी खातिर बहावे; उहे माई धरती आ बाप अकास देसु; उहे सोम निचोड़े वाला सुख देवे वाला पाथर देसु; हे बुधिमान अश्विनीकुमार, रउआ दुनो एकरा सुनीं।"
+  },
+  "explanation": {
+    "hi": "चौथी ऋचा (ऋग्वेद 1.89.4)। 'भेषज' का अर्थ औषध है — ऋचा वायु, पृथिवी, आकाश और यज्ञ के पत्थरों से कल्याण की माँग करती है; अश्विनीकुमार देवताओं के वैद्य माने गए हैं। यह शब्दों का अर्थ है, यहाँ कोई रोग-निवारण का दावा नहीं है।",
+    "en": "Fourth ṛk (Rigveda 1.89.4). 'Bheshaja' means remedy — the ṛk asks the wind, the earth, the sky and the stones of the sacrifice for well-being; the Ashvins are the physicians of the gods in Vedic lore. This is the sense of the words; no claim about illness is made here.",
+    "bho": "चउथा ऋचा (ऋग्वेद 1.89.4)। 'भेषज' के अरथ ओखद बा — ऋचा बतास, धरती, अकास आ जग्य के पाथर से कल्यान माँगेले; अश्विनीकुमार देवता लोग के बैद मानल गइल बाड़न। ई सब्द के अरथ बा, इहाँ कवनो बेमारी हटावे के दावा नइखे।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-25",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "sd-svastivachanam",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "svasti-vachan",
+    "rv-1-89"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

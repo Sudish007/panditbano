@@ -162,14 +162,16 @@ ${raw(`<${H} id="h-${id}">`)}${t(lang, "verse.vinyog")}${raw(`</${H}>`)}
 }
 
 /** Variant readings (record.variants[]) with their note and source title. */
-export function variantsSection(rec, lang, { sources, id = "variants", heading = "h2" } = {}) {
+export function variantsSection(rec, lang, { sources, id = "variants", heading = "h2", mdCtx = null } = {}) {
   if (!Array.isArray(rec.variants) || !rec.variants.length) return "";
   const H = heading;
+  // the variant note is a prose field like meaning/explanation/note: [[term]] and [title](url) render when a mdCtx is given
+  const note = (v) => (mdCtx ? inlineProse(v.note[lang], mdCtx) : v.note[lang]);
   return html`<section id="${id}" aria-labelledby="h-${id}">
 ${raw(`<${H} id="h-${id}">`)}${t(lang, "verse.variants")}${raw(`</${H}>`)}
 <ul>${rec.variants.map((v) => {
     const entry = sources && sources.get(v.source);
-    return html`<li><span lang="sa" class="reading">${v.reading}</span>${v.note && v.note[lang] ? html` — ${v.note[lang]}` : ""}${entry ? html` (${sourceLink(entry, lang)})` : ""}</li>`;
+    return html`<li><span lang="sa" class="reading">${v.reading}</span>${v.note && v.note[lang] ? html` — ${note(v)}` : ""}${entry ? html` (${sourceLink(entry, lang)})` : ""}</li>`;
   })}</ul>
 </section>`;
 }
@@ -293,6 +295,6 @@ export function verseFull(rec, lang, { ctx, derived, occasionsById, sources, n, 
 ${padaCard(rec, lang, { id: `pada-${p}`, heading })}
 ${meaningSection(rec, lang, mdCtx, { id: `arth-${p}`, heading })}
 ${vinyogCard(rec, lang, { ctx, occasionsById, mdCtx, id: `vinyog-${p}`, heading })}
-${variantsSection(rec, lang, { sources, id: `variants-${p}`, heading })}
+${variantsSection(rec, lang, { sources, id: `variants-${p}`, heading, mdCtx })}
 ${sourceLine(rec, lang, { sources })}`;
 }

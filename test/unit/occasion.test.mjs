@@ -202,6 +202,16 @@ test("stepTitle / splitAction: head before the dash, plain text for the rail, lo
   assert.ok(long.head.endsWith("…") && long.head.length <= 73 && long.tail.startsWith("शांति"));
   assert.equal(stepTitle(occ("vivah").steps[4], "hi"), "शांति के लिए रुद्राष्टाध्यायी के पहले अध्याय…");
   assert.equal(stepTitle(occ("vivah").steps[0], "en"), "Pavitrikarana");
+  // a label before a colon is a head too (C1A-01 integrate: 448 of the 1a step actions are written "label: prose")
+  assert.deepEqual(splitAction("पहली पाँच ऋचाएँ (VS 25.14–18): कल्याणकारी संकल्प आएँ, देवताओं की सुमति हो।"), { head: "पहली पाँच ऋचाएँ (VS 25.14–18)", tail: "कल्याणकारी संकल्प आएँ, देवताओं की सुमति हो।" });
+  assert.deepEqual(splitAction("Two shanti mantras: 'dyauh shantih' (VS 36.17) and 'yato yatah samihase' (VS 36.22); then the pandit says — om."), { head: "Two shanti mantras", tail: "'dyauh shantih' (VS 36.17) and 'yato yatah samihase' (VS 36.22); then the pandit says — om." });
+  // a colon after a sentence boundary is not a label: the long action is still cut at a word
+  const sent = splitAction("आसन पर पूर्व या उत्तर मुख बैठें। [[achaman]]: दाहिनी हथेली में आचमनी से थोड़ा जल लें और अँगूठे की जड़ से तीन बार पिएँ।");
+  assert.ok(sent.head.endsWith("…") && sent.tail.startsWith("आसन"));
+  // a head that is only a [[term]] mark keeps a rail label through the mdCtx term display form
+  const mdCtx = { term: (id) => (id === "pranayam" ? { display: "प्राणायाम", alt: null, href: "#" } : null) };
+  assert.equal(stepTitle({ action: { hi: "[[pranayam]]: यजमान श्वास रोकता है; पंडित व्याहृतियाँ पढ़ता है।" } }, "hi", mdCtx), "प्राणायाम");
+  assert.equal(stepTitle({ action: { hi: "[[pranayam]]: यजमान श्वास रोकता है; पंडित व्याहृतियाँ पढ़ता है।" } }, "hi"), "");
 });
 
 test("occasions index: ten groups in the §3.3 order, computed counts, tiles for filled groups, honest line for empty ones", () => {

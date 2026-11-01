@@ -5,6 +5,8 @@
 // pages; Article for lessons/kathas/reference/static; HowTo with HowToStep for occasions; DefinedTerm for glossary terms).
 // The page title/description/crumbs are read back from the rendered HTML, so every template stays the single source.
 import { LANGS } from "./config.mjs";
+import { renderInline } from "./lib/md.mjs";
+import { mdContext } from "./templates/components/verse.mjs";
 
 export const SITEMAP_SPLIT_AT = 45000;
 const OG_W = 1200, OG_H = 630;
@@ -30,18 +32,21 @@ export function pageMeta(html, siteName) {
 // ---------------------------------------------------------------- JSON-LD
 const ARTICLE_TYPES = new Set(["lesson", "katha", "katha-adhyaya", "reference-page", "static"]);
 
-function howTo(page, { occasions, R }, meta, lang) {
+function howTo(page, { occasions, R, ctx, derived }, meta, lang) {
   const occ = occasions.find((o) => o.slug === page.route.params.slug);
   if (!occ) return null;
   const part = page.pageType === "occasion-part" ? page.route.params.part : null;
   const steps = (occ.steps || []).filter((s) => !part || s.part === part);
+  // the action is a prose field ([[term]], [text](url), **bold**): render it like the page does, then drop the tags
+  const mdCtx = mdContext(ctx, lang, derived);
+  const plain = (s) => unesc(renderInline(String(s ?? ""), mdCtx).replace(/<[^>]+>/g, "")).replace(/\s+/g, " ").trim();
   return {
     "@type": "HowTo",
     name: meta.title,
     description: meta.description,
     inLanguage: lang,
     url: page.route.abs,
-    step: steps.map((s, i) => ({ "@type": "HowToStep", position: i + 1, text: s.action?.[lang] || "" })),
+    step: steps.map((s, i) => ({ "@type": "HowToStep", position: i + 1, text: plain(s.action?.[lang]) })),
   };
 }
 
@@ -62,7 +67,7 @@ export function jsonLd(page, meta, { R, ctx, data, derived }) {
     nodes.push({ "@type": "BreadcrumbList", itemListElement: items });
   }
   if (ARTICLE_TYPES.has(page.pageType)) nodes.push({ "@type": "Article", headline: meta.title, description: meta.description, inLanguage: lang, url: page.route.abs, publisher: { "@type": "Organization", name: site } });
-  else if (page.pageType === "occasion" || page.pageType === "occasion-part") { const h = howTo(page, { occasions: data.occasions, R }, meta, lang); if (h) nodes.push(h); }
+  else if (page.pageType === "occasion" || page.pageType === "occasion-part") { const h = howTo(page, { occasions: data.occasions, R, ctx, derived }, meta, lang); if (h) nodes.push(h); }
   else if (page.pageType === "term") {
     const term = (derived.glossaryPages || []).find((g) => g.id === page.route.params.termId);
     nodes.push({ "@type": "DefinedTerm", name: meta.title, description: meta.description, inLanguage: lang, url: page.route.abs, termCode: term ? term.id : page.route.params.termId, inDefinedTermSet: { "@type": "DefinedTermSet", name: ctx.ui[lang].nav.glossary, url: R.abs(`${lang}/glossary/`) } });

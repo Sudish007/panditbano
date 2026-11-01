@@ -1,0 +1,294 @@
+{
+  "id": "svasti-vachan",
+  "code": "F02",
+  "group": "foundations",
+  "phase": 1,
+  "title": {
+    "hi": "स्वस्तिवाचन",
+    "en": "Svasti-vachana",
+    "bho": "स्वस्तिवाचन"
+  },
+  "lede": {
+    "hi": "पूजा के आरंभ में कल्याण की याचना — शुक्ल यजुर्वेद की दस ऋचाएँ, दो शांति-मंत्र और गणेश-अंबिका की ऋचाएँ, जिन्हें सुनते हुए यजमान हाथ में अक्षत-पुष्प रखता है।",
+    "en": "The opening invocation of well-being — ten ṛks of the Shukla Yajurveda, two shanti mantras and the Ganesha and Ambika ṛks, heard by the host with rice and flowers in his hands.",
+    "bho": "पूजा के सुरुआत में कल्यान के याचना — शुक्ल यजुर्वेद के दस ऋचा, दू शांति-मंत्र आ गणेश-अंबिका के ऋचा, जेकरा सुनत जजमान हाथ में अछत-फूल राखेला।"
+  },
+  "overview": {
+    "hi": "[[swasti-vachan]] का अर्थ है 'स्वस्ति (कल्याण) का उच्चारण'। [[achaman]] और [[sankalp]] के बाद [[purohit]] ये ऋचाएँ पढ़ता है और [[yajman]] तथा परिवार हाथ में [[akshat]] और [[pushp]] लेकर सुनते हैं; अंत में वे फूल-अक्षत देवता या कलश पर चढ़ा दिए जाते हैं। मूल पाठ ऋग्वेद का सूक्त 1.89 है, जो शुक्ल [[yajurved]] के पच्चीसवें अध्याय में VS 25.14–23 के रूप में आया है — गोतम राहूगण की दस ऋचाएँ, जो देवताओं से कल्याण, आयु, स्वस्थ इंद्रियाँ और रक्षा माँगती हैं। पोथियाँ इनके बाद दो शांति-मंत्र (VS 36.17, 36.22) और [[ganesh]] तथा अंबिका की ऋचाएँ (VS 23.19, 23.18) जोड़ती हैं; यह क्रम यहाँ [संकलित स्वस्तिवाचन](https://sanskritdocuments.org/doc_veda/svastivAchanam.html) की फ़ाइल से मिलाया गया है। [[rudrabhishek]] में यही ऋचाएँ [रुद्राष्टाध्यायी](https://sa.wikisource.org/wiki/रुद्राष्टाध्यायी) की 'स्वस्तिप्रार्थना' हैं। परंपरा में माना जाता है कि स्वस्तिवाचन से कार्य निर्विघ्न आरंभ होता है; पाठ में हर ऋचा से पहले ॐ लगाया जाता है और सब [[svara]] माध्यंदिन संहिता के हैं।",
+    "en": "Svasti-vachana means 'the utterance of svasti (well-being)'. After the achamana and the sankalpa the purohit recites these ṛks while the host and the family listen with rice and flowers in their hands; at the end the flowers and rice are offered to the deity or the kalasha. The core is Rigveda hymn 1.89, carried by the Shukla Yajurveda as VS 25.14–23 — ten ṛks of Gotama Rahugana asking the gods for well-being, long life, sound senses and protection. The handbooks add two shanti mantras (VS 36.17, 36.22) and the Ganesha and Ambika ṛks (VS 23.19, 23.18); the order here follows the [composite svasti-vachana](https://sanskritdocuments.org/doc_veda/svastivAchanam.html) file. In the Rudrabhisheka the same ṛks form the 'Svastiprarthana' of the [Rudrashtadhyayi](https://sa.wikisource.org/wiki/रुद्राष्टाध्यायी). Tradition holds that the svasti-vachana lets a rite begin without obstacle; in recitation Om is prefixed to every ṛk, and all accents are those of the Madhyandina Samhita.",
+    "bho": "[[swasti-vachan]] के अरथ बा 'स्वस्ति (कल्यान) के उचारन'। [[achaman]] आ [[sankalp]] के बाद [[purohit]] ई ऋचा पढ़ेलन आ [[yajman]] तथा परिवार हाथ में [[akshat]] आ [[pushp]] लेके सुनेला; अंत में ऊ फूल-अछत देवता भा कलश पर चढ़ा दिहल जाला। मूल पाठ ऋग्वेद के सूक्त 1.89 बा, जे शुक्ल [[yajurved]] के पचीसवाँ अध्याय में VS 25.14–23 के रूप में आइल बा — गोतम राहूगन के दस ऋचा, जे देवता लोग से कल्यान, उमिर, नीक इंद्री आ रच्छा माँगेले। पोथी एकरा बाद दू शांति-मंत्र (VS 36.17, 36.22) आ [[ganesh]] तथा अंबिका के ऋचा (VS 23.19, 23.18) जोड़ेला; ई क्रम इहाँ [संकलित स्वस्तिवाचन](https://sanskritdocuments.org/doc_veda/svastivAchanam.html) के फाइल से मिलावल गइल बा। [[rudrabhishek]] में इहे ऋचा [रुद्राष्टाध्यायी](https://sa.wikisource.org/wiki/रुद्राष्टाध्यायी) के 'स्वस्तिप्रार्थना' बा। परंपरा में मानल जाला कि स्वस्तिवाचन से काम बिना बिघन सुरू होला; पाठ में हर ऋचा से पहिले ॐ लगावल जाला आ सब [[svara]] माध्यंदिन संहिता के बा।"
+  },
+  "when": {
+    "rules": {
+      "hi": "हर बड़ी पूजा, हवन, संस्कार और कथा के आरंभ में — आचमन-पवित्रीकरण और संकल्प के बाद, गणेश-पूजन से पहले। सगाई, गृहप्रवेश या किसी शुभ कार्य की शुरुआत में भी अकेले पढ़ा जाता है। अलग मुहूर्त नहीं; जिस कार्य का अंग है उसकी तिथि देखी जाती है।",
+      "en": "At the start of every major puja, havan, samskara and katha — after the achamana-pavitrikarana and the sankalpa, before the Ganesha puja. It is also recited on its own at the opening of an engagement, a house-entry or any auspicious undertaking. No separate muhurat; the date is that of the rite it opens.",
+      "bho": "हर बड़ पूजा, हवन, संस्कार आ कथा के सुरुआत में — आचमन-पवित्रीकरण आ संकल्प के बाद, गणेश-पूजन से पहिले। सगाई, गृहप्रवेश भा कवनो सुभ काम के सुरुआत में भी अकेले पढ़ल जाला। अलगा मुहूरत ना; जे काम के अंग बा ओकर तिथि देखल जाला।"
+    },
+    "shubhvela": {
+      "muhurat": null,
+      "festival": null,
+      "vrat": null
+    }
+  },
+  "roles": [
+    {
+      "role": {
+        "hi": "पुरोहित",
+        "en": "Purohit",
+        "bho": "पुरोहित"
+      },
+      "does": {
+        "hi": "सब ऋचाएँ स्वर के साथ पढ़ना; अंत में यजमान को अक्षत-पुष्प चढ़ाने को कहना।",
+        "en": "Recites all the ṛks with the accents; at the end tells the host to offer the rice and flowers.",
+        "bho": "सब ऋचा सुर के संगे पढ़ल; अंत में जजमान के अछत-फूल चढ़ावे के कहल।"
+      }
+    },
+    {
+      "role": {
+        "hi": "यजमान और परिवार",
+        "en": "The host and the family",
+        "bho": "जजमान आ परिवार"
+      },
+      "does": {
+        "hi": "दोनों हाथ जोड़कर उनमें अक्षत और फूल रखना, ऋचाएँ सुनना, अंत में उन्हें देवता या कलश पर अर्पित करना।",
+        "en": "Hold rice and flowers in their joined hands, listen to the ṛks, and offer them to the deity or the kalasha at the end.",
+        "bho": "दुनो हाथ जोड़ के ओह में अछत आ फूल राखल, ऋचा सुनल, अंत में ओकरा देवता भा कलश पर चढ़ावल।"
+      }
+    }
+  ],
+  "samagri": [
+    {
+      "id": "akshat",
+      "item": {
+        "hi": "अक्षत (बिना टूटे चावल, हल्दी या रोली से रंगे)",
+        "en": "Unbroken rice (akshata), tinted with turmeric or roli",
+        "bho": "अच्छत (बिना टूटल चाउर, हरदी भा रोरी से रंगल)"
+      },
+      "qty": "एक मुट्ठी प्रति व्यक्ति",
+      "must": true
+    },
+    {
+      "id": "pushp",
+      "item": {
+        "hi": "पुष्प — ताज़े फूल या पंखुड़ियाँ",
+        "en": "Fresh flowers or petals",
+        "bho": "फूल — ताजा फूल भा पंखुड़ी"
+      },
+      "qty": "एक मुट्ठी प्रति व्यक्ति",
+      "must": true
+    },
+    {
+      "id": "jal-patra",
+      "item": {
+        "hi": "जल-पात्र और आचमनी",
+        "en": "Water vessel and spoon",
+        "bho": "जल-बरतन आ आचमनी"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "pothi",
+      "item": {
+        "hi": "पोथी — स्वस्तिवाचन का स्वर-सहित पाठ (यह पृष्ठ पोथी रूप में भी छपता है)",
+        "en": "The pothi — the accented text of the svasti-vachana (this page prints in pothi mode)",
+        "bho": "पोथी — स्वस्तिवाचन के सुर-सहित पाठ (ई पन्ना पोथी रूप में भी छपेला)"
+      },
+      "qty": "1",
+      "must": false
+    }
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "layer": "paddhati",
+      "minutes": 1,
+      "action": {
+        "hi": "हाथ में अक्षत-पुष्प — यजमान और परिवार दोनों हाथ जोड़कर उनमें अक्षत और फूल लें; पंडित जल-पात्र पास रखे। आचमन और संकल्प पहले हो चुके हैं।",
+        "en": "Rice and flowers in hand — The host and the family take rice and flowers in their joined hands; the pandit keeps the water vessel at hand. The achamana and the sankalpa have already been done.",
+        "bho": "हाथ में अछत-फूल — जजमान आ परिवार दुनो हाथ जोड़ के ओह में अछत आ फूल लेसु; पंडित जल-बरतन लगे राखसु। आचमन आ संकल्प पहिले हो चुकल बा।"
+      },
+      "samagriIds": [
+        "akshat",
+        "pushp"
+      ],
+      "panditSays": {
+        "hi": "सब लोग हाथ में अक्षत और फूल ले लें और हाथ जोड़े रहें — स्वस्तिवाचन सुनिए।",
+        "en": "Everyone take rice and flowers in your hands and keep them folded — listen to the svasti-vachana.",
+        "bho": "सभे हाथ में अछत आ फूल ले लीं आ हाथ जोड़ले रहीं — स्वस्तिवाचन सुनीं।"
+      }
+    },
+    {
+      "n": 2,
+      "layer": "vedic",
+      "minutes": 3,
+      "important": true,
+      "action": {
+        "hi": "पहली पाँच ऋचाएँ (VS 25.14–18): कल्याणकारी संकल्प आएँ, देवताओं की सुमति हो, देवताओं का आह्वान, वायु-पृथिवी-आकाश से कल्याण, और जगत् के स्वामी से रक्षा।",
+        "en": "The first five ṛks (VS 25.14–18): may auspicious resolves come; the gods' goodwill; the invocation of the gods; well-being from wind, earth and sky; protection from the lord of the world.",
+        "bho": "पहिला पाँच ऋचा (VS 25.14–18): कल्यानकारी संकल्प आवसु, देवता लोग के सुमति होखे, देवता लोग के आवाहन, बतास-धरती-अकास से कल्यान, आ जगत के मालिक से रच्छा।"
+      },
+      "mantraIds": [
+        "vs-25-14",
+        "vs-25-15",
+        "vs-25-16",
+        "vs-25-17",
+        "vs-25-18"
+      ]
+    },
+    {
+      "n": 3,
+      "layer": "vedic",
+      "minutes": 3,
+      "important": true,
+      "action": {
+        "hi": "अगली पाँच ऋचाएँ (VS 25.19–23): 'स्वस्ति न इंद्रो', मरुतों और सब देवताओं का आगमन, 'भद्रं कर्णेभिः', सौ वर्ष की आयु, और 'अदितिर्द्यौः'।",
+        "en": "The next five ṛks (VS 25.19–23): 'svasti na indro', the coming of the Maruts and all the gods, 'bhadram karnebhih', a life of a hundred years, and 'aditir dyauh'.",
+        "bho": "अगिला पाँच ऋचा (VS 25.19–23): 'स्वस्ति न इंद्रो', मरुत आ सब देवता लोग के आगमन, 'भद्रं कर्णेभिः', सौ बरिस के उमिर, आ 'अदितिर्द्यौः'।"
+      },
+      "mantraIds": [
+        "vs-25-19",
+        "vs-25-20",
+        "vs-25-21",
+        "vs-25-22",
+        "vs-25-23"
+      ]
+    },
+    {
+      "n": 4,
+      "layer": "vedic",
+      "minutes": 1,
+      "action": {
+        "hi": "दो शांति-मंत्र: 'द्यौः शांतिः' (VS 36.17) और 'यतो यतः समीहसे' (VS 36.22); फिर पंडित कहता है — ॐ सुशांतिर्भवतु।",
+        "en": "Two shanti mantras: 'dyauh shantih' (VS 36.17) and 'yato yatah samihase' (VS 36.22); then the pandit says — om sushantir bhavatu.",
+        "bho": "दू शांति-मंत्र: 'द्यौः शांतिः' (VS 36.17) आ 'यतो यतः समीहसे' (VS 36.22); फेर पंडित कहेलन — ॐ सुशांतिर्भवतु।"
+      },
+      "mantraIds": [
+        "vs-36-17",
+        "vs-36-22"
+      ],
+      "panditSays": {
+        "sa": "ॐ सुशान्तिर्भवतु ।",
+        "hi": "ॐ सुशांतिर्भवतु — अच्छी शांति हो।",
+        "en": "Om sushantir bhavatu — may there be good peace.",
+        "bho": "ॐ सुशांतिर्भवतु — नीक शांति होखे।"
+      },
+      "note": {
+        "hi": "इन दोनों मंत्रों का पूरा विवरण [शांतिपाठ](/occasions/shanti-path/) पृष्ठ पर है।",
+        "en": "Both mantras are explained in full on the [shanti-patha](/occasions/shanti-path/) page.",
+        "bho": "एह दुनो मंत्र के पूरा बिवरन [शांतिपाठ](/occasions/shanti-path/) पन्ना पर बा।"
+      }
+    },
+    {
+      "n": 5,
+      "layer": "vedic",
+      "minutes": 1,
+      "action": {
+        "hi": "गणेश और अंबिका की ऋचाएँ: 'गणानां त्वा गणपतिं हवामहे' (VS 23.19) और 'अंबे अंबिके' (VS 23.18) — इसी से स्वस्तिवाचन [[ganesh-ambika-pujan]] में मिल जाता है।",
+        "en": "The Ganesha and Ambika ṛks: 'gananam tva ganapatim havamahe' (VS 23.19) and 'ambe ambike' (VS 23.18) — with these the svasti-vachana passes into the Ganesha-Ambika puja.",
+        "bho": "गणेश आ अंबिका के ऋचा: 'गणानां त्वा गणपतिं हवामहे' (VS 23.19) आ 'अंबे अंबिके' (VS 23.18) — एही से स्वस्तिवाचन [[ganesh-ambika-pujan]] में मिल जाला।"
+      },
+      "mantraIds": [
+        "vs-23-19",
+        "vs-23-18"
+      ]
+    },
+    {
+      "n": 6,
+      "layer": "paddhati",
+      "minutes": 1,
+      "action": {
+        "hi": "अर्पण और आचमन — हाथ के अक्षत और फूल देवता, कलश या चौकी पर अर्पित करें; फिर आचमन।",
+        "en": "Offering and achamana — Offer the rice and flowers from the hands to the deity, the kalasha or the altar; then an achamana.",
+        "bho": "अर्पण आ आचमन — हाथ के अछत आ फूल देवता, कलश भा चौकी पर चढ़ा दीं; ओकरा बाद फेर से आचमन करीं।"
+      },
+      "mantraIds": [
+        "pad-keshavaya-namah"
+      ],
+      "samagriIds": [
+        "akshat",
+        "pushp",
+        "jal-patra"
+      ],
+      "panditSays": {
+        "hi": "अब हाथ के अक्षत-पुष्प भगवान पर चढ़ा दीजिए।",
+        "en": "Now offer the rice and flowers in your hands to the Lord.",
+        "bho": "अब हाथ के अछत-फूल भगवान पर चढ़ा दीं।"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "region": "rudrabhishek",
+      "what": {
+        "hi": "रुद्राभिषेक में यही दस ऋचाएँ (VS 25.14 से) [रुद्राष्टाध्यायी](https://sa.wikisource.org/wiki/रुद्राष्टाध्यायी) के अंत में 'स्वस्तिप्रार्थना' के रूप में पढ़ी जाती हैं — आरंभ में नहीं, समापन में।",
+        "en": "In the Rudrabhisheka these same ten ṛks (from VS 25.14) are read at the end of the [Rudrashtadhyayi](https://sa.wikisource.org/wiki/रुद्राष्टाध्यायी) as the 'Svastiprarthana' — at the close, not the opening.",
+        "bho": "रुद्राभिषेक में इहे दस ऋचा (VS 25.14 से) [रुद्राष्टाध्यायी](https://sa.wikisource.org/wiki/रुद्राष्टाध्यायी) के अंत में 'स्वस्तिप्रार्थना' के रूप में पढ़ल जाला — सुरुआत में ना, समापन में।"
+      },
+      "source": "ws-rudrashtadhyayi"
+    },
+    {
+      "region": "pothi-bhed",
+      "what": {
+        "hi": "कई पोथियाँ स्वस्तिवाचन में इसके बाद और भी ऋचाएँ जोड़ती हैं (जैसे 'ॐ अग्निर्देवता' वाला पंचदेव-पूजन या लंबा मंगल-पाठ); यहाँ संकलित फ़ाइल का क्रम दिया है।",
+        "en": "Many handbooks add further ṛks after these (such as the five-deity worship beginning 'om agnir devata' or a longer auspicious recitation); the order given here is that of the composite file.",
+        "bho": "ढेर पोथी स्वस्तिवाचन में एकरा बाद अउरी ऋचा जोड़ेला (जइसे 'ॐ अग्निर्देवता' वाला पंचदेव-पूजन भा लमहर मंगल-पाठ); इहाँ संकलित फाइल के क्रम दिहल बा।"
+      },
+      "source": "sd-svastivachanam"
+    }
+  ],
+  "faq": [
+    {
+      "q": {
+        "hi": "स्वस्तिवाचन और शांतिपाठ में क्या अंतर है?",
+        "en": "How do the svasti-vachana and the shanti-patha differ?",
+        "bho": "स्वस्तिवाचन आ शांतिपाठ में का अंतर बा?"
+      },
+      "a": {
+        "hi": "स्वस्तिवाचन पूजा के आरंभ में कल्याण की याचना है (VS 25.14–23); [शांतिपाठ](/occasions/shanti-path/) पूजा के अंत में शांति की प्रार्थना है (VS 36.17 आदि)। स्वस्तिवाचन के अंत में दो शांति-मंत्र आते हैं, इसलिए दोनों में थोड़ा ओवरलैप है।",
+        "en": "The svasti-vachana asks for well-being at the start of a puja (VS 25.14–23); the [shanti-patha](/occasions/shanti-path/) prays for peace at its end (VS 36.17 and others). Two shanti mantras close the svasti-vachana, so the two overlap a little.",
+        "bho": "स्वस्तिवाचन पूजा के सुरुआत में कल्यान के याचना बा (VS 25.14–23); [शांतिपाठ](/occasions/shanti-path/) पूजा के अंत में शांति के प्रार्थना बा (VS 36.17 आदि)। स्वस्तिवाचन के अंत में दू शांति-मंत्र आवेला, एही से दुनो में तनी ओवरलैप बा।"
+      }
+    },
+    {
+      "q": {
+        "hi": "यह ऋग्वेद का सूक्त है या यजुर्वेद का?",
+        "en": "Is this a Rigveda hymn or a Yajurveda one?",
+        "bho": "ई ऋग्वेद के सूक्त बा भा यजुर्वेद के?"
+      },
+      "a": {
+        "hi": "दोनों: मूल सूक्त ऋग्वेद 1.89 है, जो पूरा का पूरा शुक्ल यजुर्वेद के पच्चीसवें अध्याय (25.14–23) में भी संकलित है। पंडित माध्यंदिन संहिता के स्वरों से पढ़ते हैं, इसलिए यहाँ वही पाठ है।",
+        "en": "Both: the original hymn is Rigveda 1.89, which is taken over whole into the twenty-fifth adhyaya of the Shukla Yajurveda (25.14–23). Pandits recite it with the accents of the Madhyandina Samhita, so that is the text given here.",
+        "bho": "दुनो: मूल सूक्त ऋग्वेद 1.89 बा, जे पूरा के पूरा शुक्ल यजुर्वेद के पचीसवाँ अध्याय (25.14–23) में भी संकलित बा। पंडित माध्यंदिन संहिता के सुर से पढ़ेलन, एही से इहाँ उहे पाठ बा।"
+      }
+    },
+    {
+      "q": {
+        "hi": "क्या यजमान को भी साथ में पढ़ना चाहिए?",
+        "en": "Should the host recite along?",
+        "bho": "का जजमान के भी संगे पढ़े के चाहीं?"
+      },
+      "a": {
+        "hi": "नहीं, स्वस्तिवाचन पंडित पढ़ता है और यजमान सुनता है — यही 'वाचन' का अर्थ है। हाथ में अक्षत-पुष्प रखकर ध्यान से सुनना ही यजमान का काम है।",
+        "en": "No — the pandit recites the svasti-vachana and the host listens; that is what 'vachana' means. The host's part is to hold the rice and flowers and listen attentively.",
+        "bho": "ना, स्वस्तिवाचन पंडित पढ़ेलन आ जजमान सुनेला — इहे 'वाचन' के अरथ बा। हाथ में अछत-फूल राख के धियान से सुनल ही जजमान के काम बा।"
+      }
+    }
+  ],
+  "sources": [
+    "ws-syv-25",
+    "ws-syv-36",
+    "ws-syv-23",
+    "sd-svastivachanam",
+    "ws-rudrashtadhyayi",
+    "titus-vs"
+  ],
+  "tags": [
+    "foundations",
+    "svasti-vachan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

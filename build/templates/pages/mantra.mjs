@@ -46,7 +46,7 @@ ${padaCard(rec, lang)}
 </div>
 ${meaningSection(rec, lang, mdCtx)}
 ${vinyogCard(rec, lang, { ctx, occasionsById, mdCtx })}
-${variantsSection(rec, lang, { sources })}
+${variantsSection(rec, lang, { sources, mdCtx })}
 ${sourcesSection([rec], lang, { sources })}
 </div>
 <aside class="rail rail-right">
