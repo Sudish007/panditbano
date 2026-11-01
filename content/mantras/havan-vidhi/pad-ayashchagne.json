@@ -1,0 +1,159 @@
+{
+  "id": "pad-ayashchagne",
+  "kind": "vedic",
+  "locator": "PGS 1.2.8 (catchword अयाश्चाग्न); havan paddhati prayashchitta homa 3",
+  "title": {
+    "hi": "प्रायश्चित्त आहुति 3 — अयाश्चाग्ने",
+    "en": "Ayashchagne (prayashchitta ahuti 3)",
+    "bho": "प्रायश्चित्त आहुति 3 — अयाश्चाग्ने"
+  },
+  "devanagari": "ॐ अयाश्चाग्नेऽस्यनभिशस्तिपाश्च सत्यमित्त्वमया असि । अया नो यज्ञं वहास्यया नो धेहि भेषजꣳ स्वाहा ॥ इदमग्नये न मम ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "अयाः",
+      "gloss": {
+        "hi": "न थकने वाले, गतिशील",
+        "en": "unwearying, ever-moving",
+        "bho": "ना थाके वाला, गतिसील"
+      }
+    },
+    {
+      "sa": "च",
+      "gloss": {
+        "hi": "और",
+        "en": "and",
+        "bho": "आ"
+      }
+    },
+    {
+      "sa": "अग्ने",
+      "gloss": {
+        "hi": "हे अग्नि",
+        "en": "O Agni",
+        "bho": "हे अग्नि"
+      }
+    },
+    {
+      "sa": "असि",
+      "gloss": {
+        "hi": "तुम हो",
+        "en": "you are",
+        "bho": "रउआ बानी"
+      }
+    },
+    {
+      "sa": "अनभिशस्तिपाः",
+      "gloss": {
+        "hi": "निंदा-अपवाद से रक्षा करने वाले",
+        "en": "protector from reproach",
+        "bho": "निंदा से रच्छा करे वाला"
+      }
+    },
+    {
+      "sa": "सत्यम् इत्",
+      "gloss": {
+        "hi": "सचमुच",
+        "en": "truly",
+        "bho": "सही में"
+      }
+    },
+    {
+      "sa": "त्वम् अयाः असि",
+      "gloss": {
+        "hi": "तुम अयास् हो",
+        "en": "you are \"ayah\"",
+        "bho": "रउआ अयास् बानी"
+      }
+    },
+    {
+      "sa": "अया",
+      "gloss": {
+        "hi": "इस (गति, रूप) से",
+        "en": "by this (way)",
+        "bho": "एह (गति, रूप) से"
+      }
+    },
+    {
+      "sa": "नः यज्ञम्",
+      "gloss": {
+        "hi": "हमारे यज्ञ को",
+        "en": "our yajna",
+        "bho": "हमनी के यज्ञ के"
+      }
+    },
+    {
+      "sa": "वहासि",
+      "gloss": {
+        "hi": "ले जाते हो (देवों तक)",
+        "en": "you carry (to the gods)",
+        "bho": "ले जात बानी (देवता लोग तक)"
+      }
+    },
+    {
+      "sa": "नः धेहि",
+      "gloss": {
+        "hi": "हमें दो",
+        "en": "give us",
+        "bho": "हमनी के दीं"
+      }
+    },
+    {
+      "sa": "भेषजम्",
+      "gloss": {
+        "hi": "भेषज — औषध, कुशलता",
+        "en": "the remedy, well-being",
+        "bho": "भेषज — ओखद, कुसलता"
+      }
+    },
+    {
+      "sa": "स्वाहा",
+      "gloss": {
+        "hi": "स्वाहा (आहुति का वचन)",
+        "en": "svaha (the word of offering)",
+        "bho": "स्वाहा (आहुति के बोली)"
+      }
+    },
+    {
+      "sa": "इदम् अग्नये न मम",
+      "gloss": {
+        "hi": "यह अग्नि के लिए है, मेरा नहीं",
+        "en": "this is for Agni, not mine",
+        "bho": "ई अग्नि खातिर बा, हमार ना"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे अग्नि! तुम अयास् (न थकने वाले) हो और निंदा से रक्षा करने वाले हो; सचमुच तुम अयास् हो। इसी रूप से हमारे यज्ञ को (देवों तक) ले जाते हो; हमें भेषज (कुशलता) दो। स्वाहा — यह अग्नि के लिए है, मेरा नहीं।",
+    "en": "O Agni, you are \"ayah\" (unwearying) and the protector from reproach; truly you are ayah. In that way you carry our yajna (to the gods); give us the remedy, well-being. Svaha — this is for Agni, not mine.",
+    "bho": "हे अग्नि! रउआ अयास् (ना थाके वाला) बानी आ निंदा से रच्छा करे वाला बानी; सही में रउआ अयास् बानी। एही रूप से हमनी के यज्ञ के (देवता लोग तक) ले जात बानी; हमनी के भेषज (कुसलता) दीं। स्वाहा — ई अग्नि खातिर बा, हमार ना।"
+  },
+  "explanation": {
+    "hi": "यह \"अयाश्चाग्ने\" मंत्र शुक्ल यजुर्वेद संहिता में नहीं है — यह ब्राह्मण-काल का प्रायश्चित्त-मंत्र है, जिसे [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.2.8 \"अयाश्चाग्न\" के संकेत से आठ अग्न्याधेय मंत्रों में गिनता है और उत्तर भारत की हर माध्यंदिन हवन-पोथी सर्वप्रायश्चित्त (पंचवारुणी) होम की तीसरी आहुति के रूप में छापती है। यहाँ का पाठ माध्यंदिन विवाह-पद्धति और [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) से लिया गया है; स्वर-चिह्न किसी स्रोत में नहीं मिले, इसलिए नहीं दिखाए गए। \"अयास्\" शब्द का अर्थ टीकाकार \"न थकने वाला / गतिशील\" करते हैं। पद्धतियाँ इस आहुति का त्याग-वाक्य \"इदमग्नये न मम\" (विवाह-पद्धति में \"इदमग्नयेऽयसे न मम\") देती हैं।",
+    "en": "This \"ayashchagne\" mantra is not in the Shukla Yajurveda Samhita — it is an expiatory mantra of the Brahmana period, which the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.2.8 counts by its catchword \"ayashchagne\" among the eight mantras of the fire-installation, and which every Madhyandina havan handbook of North India prints as the third oblation of the sarvaprayashchitta (panchavaruni) homa. The text here is taken from the Madhyandina wedding handbook and the [Vasishthi Havan Paddhati](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller); no accented source was found, so the svara marks are not shown. The commentators take \"ayah\" as \"unwearying / ever-moving\". The handbooks give \"idam agnaye na mama\" as the renunciation line of this oblation (the wedding handbook has \"idam agnaye ayase na mama\").",
+    "bho": "ई \"अयाश्चाग्ने\" मंत्र शुक्ल यजुर्वेद संहिता में नइखे — ई ब्राह्मण-काल के प्रायश्चित्त-मंत्र बा, जेकरा [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.2.8 \"अयाश्चाग्न\" के संकेत से आठ अग्न्याधेय मंत्र में गिनेला आ उत्तर भारत के हर माध्यंदिन हवन-पोथी सर्वप्रायश्चित्त (पंचवारुणी) होम के तीसरा आहुति के रूप में छापेला। इहाँ के पाठ माध्यंदिन बियाह-पद्धति आ [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) से लिहल गइल बा; स्वर-चिह्न कवनो स्रोत में ना मिलल, एही से ना देखावल गइल। \"अयास्\" सब्द के अरथ टीकाकार \"ना थाके वाला / गतिसील\" करेलन। पद्धति एह आहुति के त्याग-वाक्य \"इदमग्नये न मम\" (बियाह-पद्धति में \"इदमग्नयेऽयसे न मम\") देला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-vivah-mvf",
+    "retrieved": "2026-11-01",
+    "modified": "OCR word spacing closed up (अनभिशस्तिपाश्च, सत्यमित्त्वमया); the OCR digit ७ standing for ꣳ restored; ॐ and the renunciation line kept as printed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-vasishthi-havan-paddhati-1941",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Vedic mantra not found in the Vajasaneyi Samhita; text as printed in the public-domain Madhyandina havan paddhatis (1941) and a modern Madhyandina vivah paddhati (sequence source)",
+  "tags": [
+    "havan",
+    "prayashchitta"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

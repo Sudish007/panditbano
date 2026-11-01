@@ -1,0 +1,99 @@
+{
+  "id": "pad-mahavyahriti-homa",
+  "kind": "paddhati",
+  "locator": "PGS 1.5.3 (महाव्याहृतयः); 1941 ed., अथ होमः",
+  "title": {
+    "hi": "महाव्याहृति होम — ॐ भूः स्वाहा",
+    "en": "Mahavyahriti homa (om bhuh svaha)",
+    "bho": "महाव्याहृति होम — ॐ भूः स्वाहा"
+  },
+  "devanagari": "ॐ भूः स्वाहा । इदमग्नये न मम ॥ ॐ भुवः स्वाहा । इदं वायवे न मम ॥ ॐ स्वः स्वाहा । इदं सूर्याय न मम ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "ॐ भूः स्वाहा",
+      "gloss": {
+        "hi": "भूः (पृथिवी-लोक) — स्वाहा",
+        "en": "bhuh (the earth) — svaha",
+        "bho": "भूः (धरती-लोक) — स्वाहा"
+      }
+    },
+    {
+      "sa": "इदमग्नये न मम",
+      "gloss": {
+        "hi": "यह अग्नि का है, मेरा नहीं",
+        "en": "this is Agni's, not mine",
+        "bho": "ई अग्नि के बा, हमार ना"
+      }
+    },
+    {
+      "sa": "ॐ भुवः स्वाहा",
+      "gloss": {
+        "hi": "भुवः (अंतरिक्ष) — स्वाहा",
+        "en": "bhuvah (the mid-space) — svaha",
+        "bho": "भुवः (अंतरिक्ष) — स्वाहा"
+      }
+    },
+    {
+      "sa": "इदं वायवे न मम",
+      "gloss": {
+        "hi": "यह वायु का है, मेरा नहीं",
+        "en": "this is Vayu's, not mine",
+        "bho": "ई वायु के बा, हमार ना"
+      }
+    },
+    {
+      "sa": "ॐ स्वः स्वाहा",
+      "gloss": {
+        "hi": "स्वः (द्युलोक) — स्वाहा",
+        "en": "svah (the heaven) — svaha",
+        "bho": "स्वः (अकास-लोक) — स्वाहा"
+      }
+    },
+    {
+      "sa": "इदं सूर्याय न मम",
+      "gloss": {
+        "hi": "यह सूर्य का है, मेरा नहीं",
+        "en": "this is Surya's, not mine",
+        "bho": "ई सूर्य के बा, हमार ना"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "भूः — स्वाहा; यह अग्नि का है, मेरा नहीं। भुवः — स्वाहा; यह वायु का है, मेरा नहीं। स्वः — स्वाहा; यह सूर्य का है, मेरा नहीं।",
+    "en": "Bhuh — svaha; this is Agni's, not mine. Bhuvah — svaha; this is Vayu's, not mine. Svah — svaha; this is Surya's, not mine.",
+    "bho": "भूः — स्वाहा; ई अग्नि के बा, हमार ना। भुवः — स्वाहा; ई वायु के बा, हमार ना। स्वः — स्वाहा; ई सूर्य के बा, हमार ना।"
+  },
+  "explanation": {
+    "hi": "तीन \"महाव्याहृतियाँ\" — भूः, भुवः, स्वः — तीन लोकों के नाम हैं, जिनके देवता पद्धतियों में क्रम से अग्नि, वायु और सूर्य माने गए हैं; इसी से त्याग-वाक्य \"इदमग्नये न मम\", \"इदं वायवे न मम\", \"इदं सूर्याय न मम\" हैं। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.3 हर होम के नित्य क्रम में आघारावाज्यभागौ के बाद \"महाव्याहृतयः\" रखता है। [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) की नित्यहोम-विधि में तो यही तीन आहुतियाँ होम की शुरुआत हैं — घर का सबसे छोटा हवन इन तीन से ही पूरा हो सकता है। ये ही व्याहृतियाँ गायत्री के आगे \"ॐ भूर्भुवः स्वः\" में जुड़ी हैं और [[sankalp]] के आरंभ में \"ॐ भूर्भुवः स्वः … नमः\" में। पाठ [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) का है; तीनों पोथियाँ एक ही पाठ देती हैं।",
+    "en": "The three \"mahavyahritis\" — bhuh, bhuvah, svah — are the names of the three worlds, whose deities the handbooks take to be Agni, Vayu and Surya in that order; hence the renunciations \"idam agnaye na mama\", \"idam vayave na mama\", \"idam suryaya na mama\". The [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.3 puts the \"mahavyahritis\" after the aghara and ajyabhaga in the fixed order of every homa. In the daily-homa section of the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) these three oblations open the homa itself — the smallest household havan can be complete with just these three. The same vyahritis are joined to the Gayatri as \"om bhur bhuvah svah\" and open the sankalpa as \"om bhur bhuvah svah … namah\". The text follows the [Vasishthi Havan Paddhati](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller); all three handbooks give the same reading.",
+    "bho": "तीन \"महाव्याहृति\" — भूः, भुवः, स्वः — तीन लोक के नाँव बा, जेकर देवता पद्धति में क्रम से अग्नि, वायु आ सूर्य मानल गइल बाड़न; एही से त्याग-वाक्य \"इदमग्नये न मम\", \"इदं वायवे न मम\", \"इदं सूर्याय न मम\" बा। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.3 हर होम के नित्य क्रम में आघारावाज्यभागौ के बाद \"महाव्याहृतयः\" राखेला। [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) के नित्यहोम-विधि में त इहे तीन आहुति होम के सुरुआत बा — घर के सबसे छोट हवन एह तीन से ही पूरा हो सकेला। इहे व्याहृति गायत्री के आगे \"ॐ भूर्भुवः स्वः\" में जुड़ल बा आ [[sankalp]] के सुरुआत में \"ॐ भूर्भुवः स्वः … नमः\" में। पाठ [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) के बा; तीनो पोथी एके पाठ देला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-vasishthi-havan-paddhati-1941",
+    "retrieved": "2026-11-01",
+    "modified": "OCR \"खाँहा\" read as स्वाहा and \"सूर्य्याय\" written सूर्याय; punctuation normalised"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-nkpp-scan",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit formula of the Madhyandina havan paddhatis (public-domain 1941 edition; sequence checked in a 2020 edition)",
+  "tags": [
+    "havan",
+    "vyahriti"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

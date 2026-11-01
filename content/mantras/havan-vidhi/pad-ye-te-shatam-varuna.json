@@ -1,0 +1,176 @@
+{
+  "id": "pad-ye-te-shatam-varuna",
+  "kind": "vedic",
+  "locator": "PGS 1.2.8 (catchword ये ते शतम्); havan paddhati prayashchitta homa 4",
+  "title": {
+    "hi": "प्रायश्चित्त आहुति 4 — ये ते शतं वरुण",
+    "en": "Ye te shatam varuna (prayashchitta ahuti 4)",
+    "bho": "प्रायश्चित्त आहुति 4 — ये ते शतं वरुण"
+  },
+  "devanagari": "ॐ ये ते शतं वरुण ये सहस्रं यज्ञियाः पाशा वितता महान्तः । तेभिर्नो अद्य सवितोत विष्णुर्विश्वे मुञ्चन्तु मरुतः स्वर्काः स्वाहा ॥ इदं वरुणाय सवित्रे विष्णवे विश्वेभ्यो देवेभ्यो मरुद्भ्यः स्वर्केभ्यश्च न मम ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "ये ते",
+      "gloss": {
+        "hi": "जो तुम्हारे",
+        "en": "those which are yours",
+        "bho": "जे राउर"
+      }
+    },
+    {
+      "sa": "शतम्",
+      "gloss": {
+        "hi": "सौ",
+        "en": "a hundred",
+        "bho": "सौ"
+      }
+    },
+    {
+      "sa": "वरुण",
+      "gloss": {
+        "hi": "हे वरुण",
+        "en": "O Varuna",
+        "bho": "हे वरुण"
+      }
+    },
+    {
+      "sa": "ये सहस्रम्",
+      "gloss": {
+        "hi": "जो हज़ार",
+        "en": "those thousand",
+        "bho": "जे हजार"
+      }
+    },
+    {
+      "sa": "यज्ञियाः",
+      "gloss": {
+        "hi": "यज्ञ-संबंधी",
+        "en": "belonging to the sacrifice",
+        "bho": "यज्ञ से जुड़ल"
+      }
+    },
+    {
+      "sa": "पाशाः",
+      "gloss": {
+        "hi": "पाश (बंधन)",
+        "en": "fetters, nooses",
+        "bho": "पाश (बंधन)"
+      }
+    },
+    {
+      "sa": "वितताः",
+      "gloss": {
+        "hi": "फैले हुए",
+        "en": "spread out",
+        "bho": "पसरल"
+      }
+    },
+    {
+      "sa": "महान्तः",
+      "gloss": {
+        "hi": "बड़े",
+        "en": "great",
+        "bho": "बड़"
+      }
+    },
+    {
+      "sa": "तेभिः",
+      "gloss": {
+        "hi": "उनसे",
+        "en": "from them",
+        "bho": "ओकरा से"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमें",
+        "en": "us",
+        "bho": "हमनी के"
+      }
+    },
+    {
+      "sa": "अद्य",
+      "gloss": {
+        "hi": "आज",
+        "en": "today",
+        "bho": "आज"
+      }
+    },
+    {
+      "sa": "सविता उत विष्णुः",
+      "gloss": {
+        "hi": "सविता और विष्णु",
+        "en": "Savitar and Vishnu",
+        "bho": "सविता आ विष्णु"
+      }
+    },
+    {
+      "sa": "विश्वे",
+      "gloss": {
+        "hi": "सब (देवता)",
+        "en": "all (the gods)",
+        "bho": "सब (देवता)"
+      }
+    },
+    {
+      "sa": "मुञ्चन्तु",
+      "gloss": {
+        "hi": "छुड़ाएँ",
+        "en": "may they release",
+        "bho": "छोड़ावसु"
+      }
+    },
+    {
+      "sa": "मरुतः स्वर्काः",
+      "gloss": {
+        "hi": "सुंदर स्तुति वाले मरुत्",
+        "en": "the Maruts of fair song",
+        "bho": "सुंदर स्तुति वाला मरुत"
+      }
+    },
+    {
+      "sa": "स्वाहा",
+      "gloss": {
+        "hi": "स्वाहा",
+        "en": "svaha",
+        "bho": "स्वाहा"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे वरुण! तुम्हारे जो सौ, जो हज़ार बड़े-बड़े यज्ञ-संबंधी पाश फैले हुए हैं — उनसे आज सविता, विष्णु, सब देवता और सुंदर स्तुति वाले मरुत् हमें छुड़ाएँ। स्वाहा — यह वरुण, सविता, विष्णु, विश्वेदेव और मरुतों के लिए है, मेरा नहीं।",
+    "en": "O Varuna, your hundred, your thousand great fetters of the sacrifice that lie spread out — from them may Savitar and Vishnu, all the gods and the Maruts of fair song release us today. Svaha — this is for Varuna, Savitar, Vishnu, the All-gods and the Maruts, not mine.",
+    "bho": "हे वरुण! राउर जे सौ, जे हजार बड़-बड़ यज्ञ से जुड़ल पाश पसरल बा — ओकरा से आज सविता, विष्णु, सब देवता आ सुंदर स्तुति वाला मरुत हमनी के छोड़ावसु। स्वाहा — ई वरुण, सविता, विष्णु, विश्वेदेव आ मरुत लोग खातिर बा, हमार ना।"
+  },
+  "explanation": {
+    "hi": "वरुण के \"पाश\" (बंधन) वैदिक कल्पना का जाना-माना रूपक है — वरुण ऋत (नियम) के रक्षक हैं और भूल करने वाले को उनके पाश बाँधते हैं; प्रायश्चित्त की प्रार्थना उन्हीं से छूटने की है। यह मंत्र शुक्ल यजुर्वेद संहिता में नहीं है (यह अथर्ववेद और तैत्तिरीय परंपरा में मिलता है), पर [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.2.8 \"ये ते शतम्\" के संकेत से इसे अग्न्याधेय के आठ मंत्रों में गिनता है, और माध्यंदिन हवन-पोथियाँ इसे सर्वप्रायश्चित्त (पंचवारुणी) होम की चौथी आहुति के रूप में छापती हैं। पाठ माध्यंदिन विवाह-पद्धति से लिया गया है और [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) से मिलाया गया है; स्वर-चिह्न नहीं दिखाए गए। त्याग-वाक्य लंबा है क्योंकि मंत्र में छह देवता पुकारे गए हैं।",
+    "en": "Varuna's \"pasha\" (fetters) are a well-known Vedic image — Varuna guards the cosmic order and his nooses bind the one who errs; the prayer of expiation is for release from them. This mantra is not in the Shukla Yajurveda Samhita (it is known from the Atharvaveda and the Taittiriya tradition), but the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.2.8 counts it by the catchword \"ye te shatam\" among the eight mantras of the fire-installation, and the Madhyandina havan handbooks print it as the fourth oblation of the sarvaprayashchitta (panchavaruni) homa. The text is taken from the Madhyandina wedding handbook and compared with the [Vasishthi Havan Paddhati](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller); svara marks are not shown. The renunciation line is long because six deities are named in the mantra.",
+    "bho": "वरुण के \"पाश\" (बंधन) वैदिक कल्पना के जानल-मानल रूपक बा — वरुण ऋत (नियम) के रच्छक बाड़न आ भूल करे वाला के उनकर पाश बान्हेला; प्रायश्चित्त के प्रार्थना ओही से छूटे के बा। ई मंत्र शुक्ल यजुर्वेद संहिता में नइखे (ई अथर्ववेद आ तैत्तिरीय परंपरा में मिलेला), बाकिर [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.2.8 \"ये ते शतम्\" के संकेत से एकरा अग्न्याधेय के आठ मंत्र में गिनेला, आ माध्यंदिन हवन-पोथी एकरा सर्वप्रायश्चित्त (पंचवारुणी) होम के चउथा आहुति के रूप में छापेला। पाठ माध्यंदिन बियाह-पद्धति से लिहल गइल बा आ [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) से मिलावल गइल बा; स्वर-चिह्न ना देखावल गइल। त्याग-वाक्य लमहर बा काहे कि मंत्र में छह देवता पुकारल गइल बाड़न।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-vivah-mvf",
+    "retrieved": "2026-11-01",
+    "modified": "OCR avagraha \"तेभिर्नो ऽअद्य\" written तेभिर्नो अद्य; ॐ and the renunciation line kept as printed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-vasishthi-havan-paddhati-1941",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Vedic mantra not found in the Vajasaneyi Samhita; text as printed in the public-domain Madhyandina havan paddhatis (1941) and a modern Madhyandina vivah paddhati (sequence source)",
+  "tags": [
+    "havan",
+    "prayashchitta",
+    "varuna"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

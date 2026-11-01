@@ -1,0 +1,173 @@
+{
+  "id": "vs-21-4",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 21.4",
+  "title": {
+    "hi": "प्रायश्चित्त आहुति 2 — स त्वं नो अग्ने",
+    "en": "Sa tvam no agne (prayashchitta ahuti 2)",
+    "bho": "प्रायश्चित्त आहुति 2 — स त्वं नो अग्ने"
+  },
+  "devanagari": "स त्वं नो॑ अग्नेऽव॒मो भ॑वो॒ती नेदि॑ष्ठो अ॒स्या उ॒षसो॒ व्यु॒ष्टौ । अव॑ यक्ष्व नो॒ वरु॑ण॒ᳪं᳭ ररा॑णो वी॒हि मृ॑डी॒कᳪं᳭ सु॒हवो॑ न एधि ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "स त्वम्",
+      "gloss": {
+        "hi": "वह तुम",
+        "en": "you then",
+        "bho": "ऊ रउआ"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमारे",
+        "en": "our",
+        "bho": "हमनी के"
+      }
+    },
+    {
+      "sa": "अग्ने",
+      "gloss": {
+        "hi": "हे अग्नि",
+        "en": "O Agni",
+        "bho": "हे अग्नि"
+      }
+    },
+    {
+      "sa": "अवमः",
+      "gloss": {
+        "hi": "सबसे निकट के रक्षक",
+        "en": "nearest protector",
+        "bho": "सबसे लगे के रच्छक"
+      }
+    },
+    {
+      "sa": "भव",
+      "gloss": {
+        "hi": "हो जाओ",
+        "en": "be",
+        "bho": "होखीं"
+      }
+    },
+    {
+      "sa": "ऊती",
+      "gloss": {
+        "hi": "रक्षा से",
+        "en": "with your help",
+        "bho": "रच्छा से"
+      }
+    },
+    {
+      "sa": "नेदिष्ठः",
+      "gloss": {
+        "hi": "सबसे पास",
+        "en": "closest",
+        "bho": "सबसे लगे"
+      }
+    },
+    {
+      "sa": "अस्याः उषसः व्युष्टौ",
+      "gloss": {
+        "hi": "इस उषा के उजाले में (आज)",
+        "en": "at the dawning of this dawn (today)",
+        "bho": "एह भोर के अँजोर में (आज)"
+      }
+    },
+    {
+      "sa": "अव यक्ष्व",
+      "gloss": {
+        "hi": "यज्ञ से शांत करो",
+        "en": "appease by the offering",
+        "bho": "यज्ञ से सांत करीं"
+      }
+    },
+    {
+      "sa": "नः वरुणम्",
+      "gloss": {
+        "hi": "हमारे (प्रति) वरुण को",
+        "en": "Varuna for us",
+        "bho": "हमनी खातिर वरुण के"
+      }
+    },
+    {
+      "sa": "रराणः",
+      "gloss": {
+        "hi": "देते हुए, प्रसन्न",
+        "en": "giving, gracious",
+        "bho": "देत, खुस"
+      }
+    },
+    {
+      "sa": "वीहि",
+      "gloss": {
+        "hi": "स्वीकार करो (हवि को)",
+        "en": "enjoy (the offering)",
+        "bho": "स्वीकार करीं (हवि के)"
+      }
+    },
+    {
+      "sa": "मृडीकम्",
+      "gloss": {
+        "hi": "सुखकर, दया",
+        "en": "mercy, kindness",
+        "bho": "दया, सुख"
+      }
+    },
+    {
+      "sa": "सुहवः",
+      "gloss": {
+        "hi": "सहज में बुलाए जाने वाले",
+        "en": "easy to call",
+        "bho": "आसानी से बोलावल जाए वाला"
+      }
+    },
+    {
+      "sa": "नः एधि",
+      "gloss": {
+        "hi": "हमारे हो जाओ",
+        "en": "be ours",
+        "bho": "हमनी के होखीं"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे अग्नि! इस उषा के उजाले में तुम अपनी रक्षा से हमारे सबसे निकट के रक्षक बनो। हमारे लिए वरुण को यज्ञ से शांत करो; प्रसन्न होकर दया-भरी हवि स्वीकार करो; हमारे लिए सहज में पुकारे जाने वाले बनो।",
+    "en": "Be then, O Agni, with your help our nearest protector at the dawning of this day. Appease Varuna for us by the offering; gracious, accept the kindly offering; be easy for us to call.",
+    "bho": "हे अग्नि! एह भोर के अँजोर में रउआ आपन रच्छा से हमनी के सबसे लगे के रच्छक बनीं। हमनी खातिर वरुण के यज्ञ से सांत करीं; खुस होके दया-भरल हवि स्वीकार करीं; हमनी खातिर आसानी से बोलावल जाए वाला बनीं।"
+  },
+  "explanation": {
+    "hi": "ऋग्वेद (4.1.5) की यह ऋचा शुक्ल यजुर्वेद 21.4 में पिछली ऋचा (21.3) की जोड़ी है — दोनों अग्नि-वरुण की त्रिष्टुप् हैं और [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.2.8 की आठ मंत्रों की सूची में \"त्वन्नोऽग्ने, सत्वन्नोऽग्ने\" के रूप में पास-पास हैं। [[havan]] के सर्वप्रायश्चित्त (पंचवारुणी) होम में यह दूसरी आहुति है; \"स्वाहा\" के बाद \"इदमग्नीवरुणाभ्यां न मम\" कहा जाता है। \"अस्या उषसो व्युष्टौ\" (इस उषा के उजाले में) शब्द बताते हैं कि यह मंत्र मूलतः प्रातःकालीन यज्ञ का है — हवन भी परंपरा में सुबह ही अच्छा माना जाता है।",
+    "en": "This rik of the Rigveda (4.1.5) at Shukla Yajurveda 21.4 is the pair of the preceding one (21.3) — both are Agni–Varuna trishtubhs and stand side by side as \"tvam no agne, sa tvam no agne\" in the list of eight mantras of the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.2.8. In the sarvaprayashchitta (panchavaruni) homa of the havan it is the second oblation; after \"svaha\" the words \"idam agni-varunabhyam na mama\" follow. The phrase \"asya ushaso vyushtau\" (at the dawning of this dawn) shows the mantra belongs originally to a morning rite — and the havan too is traditionally held best in the morning.",
+    "bho": "ऋग्वेद (4.1.5) के ई ऋचा शुक्ल यजुर्वेद 21.4 में पिछला ऋचा (21.3) के जोड़ी बा — दुनो अग्नि-वरुण के त्रिष्टुप् बा आ [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.2.8 के आठ मंत्र के सूची में \"त्वन्नोऽग्ने, सत्वन्नोऽग्ने\" के रूप में लगे-लगे बा। [[havan]] के सर्वप्रायश्चित्त (पंचवारुणी) होम में ई दोसरा आहुति बा; \"स्वाहा\" के बाद \"इदमग्नीवरुणाभ्यां न मम\" कहल जाला। \"अस्या उषसो व्युष्टौ\" (एह भोर के अँजोर में) सब्द बतावेला कि ई मंत्र असल में भोर के यज्ञ के बा — हवन भी परंपरा में भोरे नीक मानल जाला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-21",
+    "retrieved": "2026-11-01",
+    "modified": "।। n ।। → ॥ and the verse number removed; line breaks removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "havan",
+    "prayashchitta",
+    "varuna"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

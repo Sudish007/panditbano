@@ -1,0 +1,1377 @@
+{
+  "id": "havan-vidhi",
+  "code": "F15",
+  "group": "foundations",
+  "phase": 1,
+  "title": {
+    "hi": "हवन विधि",
+    "en": "Havan vidhi (the fire offering)",
+    "bho": "हवन विधि"
+  },
+  "lede": {
+    "hi": "कुंड बनाने से ब्राह्मण-भोजन तक पूरा हवन — पंचभूसंस्कार, अग्नि-स्थापन, कुशकंडिका, आघार से स्विष्टकृत् तक की आहुतियाँ, पूर्णाहुति, वसोर्धारा, भस्म, दक्षिणा — गृह्यसूत्र के क्रम और उत्तर भारत की माध्यंदिन पोथियों के शब्दों में।",
+    "en": "The whole havan, kund to Brahmins' meal — five consecrations, the fire, kushakandika, oblations from aghara to svishtakrit, purnahuti, vasordhara, ash, dakshina — in the Grihya-sutra order and the words of the Madhyandina handbooks.",
+    "bho": "कुंड बनावे से ब्राह्मण-भोजन तक पूरा हवन — पंचभूसंस्कार, अग्नि-स्थापन, कुशकंडिका, आघार से स्विष्टकृत् तक के आहुति, पूर्णाहुति, वसोर्धारा, भस्म, दक्षिणा — गृह्यसूत्र के क्रम आ उत्तर भारत के माध्यंदिन पोथी के सब्द में।"
+  },
+  "overview": {
+    "hi": "[[havan]] हिंदू पूजा का वह अंग है जिसमें अग्नि में घी और हवि की [[ahuti]] दी जाती है — वैदिक विचार में अग्नि देवों के मुख हैं, जो हवि उनमें डाली जाती है वह उनके द्वारा देवों तक पहुँचती है। [[yajna]] का यही छोटा घरेलू रूप हर बड़े संस्कार का अंत है: विवाह, गृहप्रवेश, मुंडन, जनेऊ, नवरात्र, सत्यनारायण कथा, वर्षगाँठ, शांति-कर्म — सबका \"हवन\" एक ही ढाँचे पर चलता है, केवल प्रधान होम के मंत्र और आहुतियों की संख्या बदलती है। यह पृष्ठ वह ढाँचा है।\n\nढाँचे की रीढ़ [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) है। उसका पहला ही प्रकरण (1.1) बताता है कि होम की भूमि कैसे तैयार हो (परिसमूहन, उपलेपन, उल्लेखन, उद्धरण, अभ्युक्षण), ब्रह्मा कहाँ बैठे, प्रणीता-जल, पवित्री, प्रोक्षणी और घी के संस्कार कैसे हों — और 1.1.5 में कहता है \"एष एव विधिर्यत्र क्वचिद्धोमः\": जहाँ कहीं होम हो, यही विधि है। 1.5.3–4 हर होम की आहुतियों का नित्य क्रम देता है — आघारावाज्यभागौ, महाव्याहृति, सर्वप्रायश्चित्त, प्राजापत्य, स्विष्टकृत् — \"एतन्नित्यं सर्वत्र\"; और 1.5.6 बताता है कि उस कर्म की अपनी आहुतियाँ (प्रधान होम) सर्वप्रायश्चित्त और प्राजापत्य के बीच आती हैं। उत्तर भारत की पोथियाँ — [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller), [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) की नित्यहोम-विधि, माध्यंदिन विवाह-पद्धति — इसी सूत्र-क्रम को \"कुशकंडिका\" और \"होम\" के नाम से विस्तार देती हैं और उसमें अग्नि की प्रतिष्ठा-पूजन, नवग्रह-आहुति, पूर्णाहुति, वसोर्धारा, भस्म-धारण और दक्षिणा के पद्धति-अंग जोड़ती हैं। हर चरण पर उसकी परत (वैदिक / पद्धति / लोकाचार) लिखी है।\n\nहवन से पहले की पूजा — [[achaman]], [[sankalp]], [[swasti-vachan]], [[ganesh-ambika-pujan]], [[kalash-sthapana]], [[navagraha-pujan]], [[shodash-matrika]] — अपने-अपने पृष्ठों पर है; यह पृष्ठ वहाँ से शुरू होता है जहाँ कुंड की ओर मुड़ा जाता है। समय: कुशकंडिका और प्रधान होम मिलाकर 108 आहुतियों का घरेलू हवन लगभग डेढ़ घंटे का है; शांति-कर्म और विवाह के हवन लंबे होते हैं। परंपरा में माना जाता है कि हवन से वातावरण और मन दोनों पवित्र होते हैं; साइट इसे परंपरा के कथन के रूप में ही देती है, किसी फल का दावा नहीं करती।",
+    "en": "The havan (homa) is the part of Hindu worship in which ghee and offerings are poured into the fire — in the Vedic view Agni is the mouth of the gods, and what is poured into him reaches them through him. This small household form of the yajna closes every major rite: a wedding, a house-entry, a mundan, a janeu, Navratri, the Satyanarayan katha, a birthday, a shanti rite — the \"havan\" of each runs on the same frame; only the mantras of the main homa and the number of oblations change. This page is that frame.\n\nThe backbone of the frame is the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्). Its very first section (1.1) says how the ground of the homa is prepared (sweeping, smearing, drawing lines, lifting the earth, sprinkling), where the brahma sits, how the pranita water, the pavitri, the prokshani and the ghee are consecrated — and in 1.1.5 it says \"this is the procedure wherever there is a homa\". 1.5.3–4 gives the fixed order of oblations of every homa — the aghara and ajyabhaga pair, the mahavyahritis, the sarvaprayashchitta, the prajapatya, the svishtakrit — \"this is the rule everywhere\"; and 1.5.6 says that the rite's own oblations (the main homa) come between the sarvaprayashchitta and the prajapatya. The North Indian handbooks — the [Vasishthi Havan Paddhati](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller), the daily homa of the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur), the Madhyandina wedding handbook — expand this sutra order under the names \"kushakandika\" and \"homa\" and add the handbook limbs: the establishing and worship of the fire, the oblations to the nine planets, the purnahuti, the vasordhara, the ash and the dakshina. Each step is marked with its layer (Vedic / handbook / folk custom).\n\nThe worship before the havan — achamana, sankalpa, svasti-vachana, Ganesha-Ambika puja, kalasha sthapana, navagraha puja, the sixteen matrikas — has its own pages; this page begins where one turns to the kund. Time: with the kushakandika and a main homa of 108 oblations a household havan takes about an hour and a half; the havans of shanti rites and weddings are longer. Tradition holds that a havan purifies both the surroundings and the mind; the site gives this as the tradition's statement and claims no result.",
+    "bho": "[[havan]] हिंदू पूजा के ऊ अंग बा जेह में आगि में घी आ हवि के [[ahuti]] दिहल जाला — वैदिक बिचार में अग्नि देवता लोग के मुँह बाड़न, जे हवि उनका में डालल जाला ऊ उनके द्वारा देवता लोग तक पहुँचेला। [[yajna]] के इहे छोट घर वाला रूप हर बड़ संस्कार के अंत बा: बियाह, गृहप्रवेश, मुंडन, जनेऊ, नवरात्र, सत्यनारायण कथा, जनमदिन, शांति-काम — सब के \"हवन\" एके ढाँचा पर चलेला, खाली प्रधान होम के मंत्र आ आहुति के गिनती बदलेला। ई पन्ना उहे ढाँचा बा।\n\nढाँचा के रीढ़ [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) बा। ओकर पहिला ही प्रकरन (1.1) बतावेला कि होम के जमीन कइसे तइयार होखे (परिसमूहन, उपलेपन, उल्लेखन, उद्धरन, अभ्युक्षन), ब्रह्मा कहाँ बइठसु, प्रणीता-जल, पवित्री, प्रोक्षणी आ घी के संस्कार कइसे होखे — आ 1.1.5 में कहेला \"एष एव विधिर्यत्र क्वचिद्धोमः\": जहाँ कहीं होम होखे, इहे विधि बा। 1.5.3–4 हर होम के आहुति के नित्य क्रम देला — आघारावाज्यभागौ, महाव्याहृति, सर्वप्रायश्चित्त, प्राजापत्य, स्विष्टकृत् — \"एतन्नित्यं सर्वत्र\"; आ 1.5.6 बतावेला कि ओह काम के आपन आहुति (प्रधान होम) सर्वप्रायश्चित्त आ प्राजापत्य के बीच आवेला। उत्तर भारत के पोथी — [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller), [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) के नित्यहोम-विधि, माध्यंदिन बियाह-पद्धति — एही सूत्र-क्रम के \"कुशकंडिका\" आ \"होम\" के नाँव से बिस्तार देला आ ओह में अग्नि के प्रतिष्ठा-पूजन, नवग्रह-आहुति, पूर्णाहुति, वसोर्धारा, भस्म-धारन आ दक्षिणा के पद्धति-अंग जोड़ेला। हर चरन पर ओकर परत (वैदिक / पद्धति / लोकाचार) लिखल बा।\n\nहवन से पहिले के पूजा — [[achaman]], [[sankalp]], [[swasti-vachan]], [[ganesh-ambika-pujan]], [[kalash-sthapana]], [[navagraha-pujan]], [[shodash-matrika]] — आपन-आपन पन्ना पर बा; ई पन्ना उहाँ से सुरू होला जहाँ कुंड के ओर मुड़ल जाला। समय: कुशकंडिका आ प्रधान होम मिला के 108 आहुति के घर वाला हवन लगभग डेढ़ घंटा के बा; शांति-काम आ बियाह के हवन लमहर होला। परंपरा में मानल जाला कि हवन से माहौल आ मन दुनो पवित्र होला; साइट एकरा परंपरा के कथन के रूप में ही देले, कवनो फल के दावा ना करे।"
+  },
+  "when": {
+    "rules": {
+      "hi": "हवन अपने आप में कोई अलग पर्व नहीं — यह जिस पूजा या संस्कार का अंग है, उसी की तिथि और [[muhurat]] पर होता है (विवाह, गृहप्रवेश, मुंडन आदि के मुहूर्त-नियम 'मुहूर्त-नियम' पृष्ठ पर)। समय प्रातःकाल या पूर्वाह्न सबसे अच्छा माना जाता है; संध्या के बाद केवल वे होम जिनका विधान रात का है। [[sutak]]-पातक (जन्म-मरण की अशुद्धि) के दिनों में हवन नहीं किया जाता। नित्य अग्निहोत्र करने वाले घर रोज़ सुबह-शाम तीन आहुतियों का छोटा होम करते हैं — उसके लिए कोई मुहूर्त नहीं। आज की तिथि और मुहूर्त के लिए [Shubhvela](https://sudish007.github.io/shubhvela/) देखें।",
+      "en": "The havan is not a festival of its own — it is held on the date and muhurat of the puja or samskara it belongs to (the muhurat rules for a wedding, a house-entry, a mundan and so on are on the 'muhurat rules' page). Morning or forenoon is held best; after dusk only those homas whose rule is nocturnal. No havan is held in the days of sutak-patak (the impurity of birth and death). Houses that keep the daily agnihotra make a small homa of three oblations every morning and evening — that needs no muhurat. For today's tithi and muhurat see [Shubhvela](https://sudish007.github.io/shubhvela/).",
+      "bho": "हवन खुद कवनो अलगा परब ना — ई जे पूजा भा संस्कार के अंग बा, ओही के तिथि आ [[muhurat]] पर होला (बियाह, गृहप्रवेश, मुंडन आदि के मुहूरत-नियम 'मुहूरत-नियम' पन्ना पर)। समय भोर भा पूर्वाह्न सबसे नीक मानल जाला; साँझ के बाद खाली ऊ होम जेकर विधान रात के बा। [[sutak]]-पातक (जनम-मरन के असुद्धि) के दिन में हवन ना कइल जाला। नित्य अग्निहोत्र करे वाला घर रोज भोर-साँझ तीन आहुति के छोट होम करेला — ओकरा खातिर कवनो मुहूरत ना। आज के तिथि आ मुहूरत खातिर [Shubhvela](https://sudish007.github.io/shubhvela/) देखीं।"
+    },
+    "shubhvela": {
+      "muhurat": null,
+      "festival": null,
+      "vrat": null
+    }
+  },
+  "roles": [
+    {
+      "role": {
+        "hi": "आचार्य / पुरोहित",
+        "en": "Acharya / purohit",
+        "bho": "आचार्य / पुरोहित"
+      },
+      "does": {
+        "hi": "कुशकंडिका करता है, हर आहुति का मंत्र बोलता है, स्रुवा से घी की आहुतियाँ देता है, पूर्णाहुति और भस्म-धारण कराता है; यजमान को हर चरण पर बताता है कि क्या करना है।",
+        "en": "Performs the kushakandika, recites the mantra of every oblation, gives the ghee oblations with the ladle, conducts the purnahuti and the applying of the ash; tells the yajaman at each step what to do.",
+        "bho": "कुशकंडिका करेलन, हर आहुति के मंत्र बोलेलन, स्रुवा से घी के आहुति देलन, पूर्णाहुति आ भस्म-धारन करावेलन; जजमान के हर चरन पर बतावेलन कि का करे के बा।"
+      }
+    },
+    {
+      "role": {
+        "hi": "ब्रह्मा (दोसरा ब्राह्मण)",
+        "en": "Brahma (the second Brahmin)",
+        "bho": "ब्रह्मा (दोसरा ब्राह्मण)"
+      },
+      "does": {
+        "hi": "अग्नि के दक्षिण में बैठकर कर्म की देख-रेख करता है, आहुतियों में कुश से \"अन्वारंभ\" (स्पर्श) रखता है, अंत में पूर्णपात्र पाता है। छोटे हवन में यह काम भी आचार्य ही करता है।",
+        "en": "Sits south of the fire and oversees the rite, keeps the \"anvarambha\" (touch) with a kusha during the oblations, receives the purnapatra at the end. In a small havan the acharya does this too.",
+        "bho": "आगि के दक्खिन बइठ के काम के देख-रेख करेलन, आहुति में कुश से \"अन्वारंभ\" (स्पर्श) राखेलन, अंत में पूर्णपात्र पावेलन। छोट हवन में ई काम भी आचार्य ही करेलन।"
+      }
+    },
+    {
+      "role": {
+        "hi": "यजमान और यजमानी",
+        "en": "The yajaman and his wife",
+        "bho": "जजमान आ जजमानी"
+      },
+      "does": {
+        "hi": "संकल्प बोलते हैं, आचार्य-ब्रह्मा का वरण करते हैं, हर \"स्वाहा\" पर हवन-सामग्री और घी डालते हैं, पूर्णाहुति खड़े होकर देते हैं, दक्षिणा और ब्राह्मण-भोजन का संकल्प करते हैं। बीच में आसन नहीं छोड़ते।",
+        "en": "Say the sankalpa, choose the acharya and the brahma, put in the havan mixture and ghee at every \"svaha\", give the purnahuti standing, make the sankalpa of the dakshina and the Brahmins' meal. They do not leave their seats in between.",
+        "bho": "संकल्प बोलेलन, आचार्य-ब्रह्मा के वरन करेलन, हर \"स्वाहा\" पर हवन-सामान आ घी डालेलन, पूर्णाहुति ठाड़ होके देलन, दक्षिणा आ ब्राह्मण-भोजन के संकल्प करेलन। बीच में आसन ना छोड़ेलन।"
+      }
+    },
+    {
+      "role": {
+        "hi": "परिवार और उपस्थित लोग",
+        "en": "The family and those present",
+        "bho": "परिवार आ उपस्थित लोग"
+      },
+      "does": {
+        "hi": "पीछे बैठकर हर मंत्र के अंत में \"स्वाहा\" कहते हैं, चाहें तो थोड़ी सामग्री डालते हैं; पूर्णाहुति, आरती और अभिषेक में खड़े होते हैं; भस्म लगाते हैं; प्रसाद पाते हैं। धुएँ से बच्चों और बुज़ुर्गों को दूर रखें।",
+        "en": "Sit behind and say \"svaha\" at the end of every mantra, adding a little of the mixture if they wish; stand for the purnahuti, the aarti and the abhisheka; apply the ash; take the prasad. Keep children and the elderly away from the smoke.",
+        "bho": "पाछे बइठ के हर मंत्र के अंत में \"स्वाहा\" कहेलन, चाहसु त तनी सामान डालेलन; पूर्णाहुति, आरती आ अभिषेक में ठाड़ होलन; भस्म लगावेलन; परसाद पावेलन। धुआँ से लरिका आ बूढ़ लोग के दूर राखीं।"
+      }
+    },
+    {
+      "role": {
+        "hi": "सुहागिन स्त्री (अग्नि लाने वाली)",
+        "en": "A married woman (who brings the fire)",
+        "bho": "सोहागिन मेहरारू (आगि ले आवे वाली)"
+      },
+      "does": {
+        "hi": "पात्र में जलती अग्नि लाकर कुंड के पास देती है; कई घरों में हवन की लकड़ी और सामग्री की व्यवस्था भी घर की स्त्रियाँ ही देखती हैं।",
+        "en": "Brings the lit fire in a vessel to the kund; in many homes the women of the house also look after the fuel and the materials of the havan.",
+        "bho": "बरतन में जरत आगि ले आके कुंड लगे देली; ढेर घर में हवन के लकड़ी आ सामान के इंतजाम भी घर के मेहरारू लोग ही देखेली।"
+      }
+    }
+  ],
+  "samagri": [
+    {
+      "id": "havan-kund",
+      "item": {
+        "hi": "हवन कुंड — ताँबे का कुंड, या ईंटों की चौकोर वेदी / बालू का स्थंडिल",
+        "en": "Havan-kund — a copper kund, or a square altar of bricks / a sand sthandila",
+        "bho": "हवन कुंड — ताँबा के कुंड, भा ईंटा के चौकोर बेदी / बालू के स्थंडिल"
+      },
+      "qty": "1 (≈ 45 cm)",
+      "note": {
+        "hi": "नीचे ईंट या मोटी बालू की परत; फ़र्श और कुंड के बीच हवा न रुके।",
+        "en": "A layer of bricks or thick sand underneath; nothing between floor and kund that can catch.",
+        "bho": "नीचे ईंटा भा मोट बालू के परत; फरस आ कुंड के बीच कुछ जरे वाला ना।"
+      },
+      "must": true
+    },
+    {
+      "id": "balu-mitti",
+      "item": {
+        "hi": "बालू और साफ़ मिट्टी (स्थंडिल / कुंड की तली के लिए)",
+        "en": "Sand and clean earth (for the sthandila / the bed of the kund)",
+        "bho": "बालू आ साफ माटी (स्थंडिल / कुंड के तली खातिर)"
+      },
+      "qty": "2–3 kg",
+      "must": false
+    },
+    {
+      "id": "gobar",
+      "item": {
+        "hi": "गोबर (उपलेपन के लिए) — या गोबर का घोल",
+        "en": "Cow dung (for the smearing) — or a dung-and-water paste",
+        "bho": "गोबर (उपलेपन खातिर) — भा गोबर के घोल"
+      },
+      "qty": "—",
+      "must": false
+    },
+    {
+      "id": "samidha",
+      "item": {
+        "hi": "समिधा — आम, पलाश, पीपल, बेल या शमी की सूखी लकड़ी, बालिश्त-भर लंबी; तीन समिधाएँ कुशकंडिका के लिए अलग",
+        "en": "Fuel sticks (samidha) — dry wood of mango, palash, pipal, bel or shami, a span long; three set aside for the kushakandika",
+        "bho": "समिधा — आम, पलास, पीपर, बेल भा शमी के सूखल लकड़ी, बित्ता-भर लमहर; तीन समिधा कुशकंडिका खातिर अलगा"
+      },
+      "qty": "2–3 kg",
+      "note": {
+        "hi": "लकड़ी सूखी, कीड़ा-रहित और बिना छाल की हो; गीली लकड़ी धुआँ देती है। इतनी लकड़ी 108 आहुतियों के लिए पर्याप्त है।",
+        "en": "Dry, worm-free wood without bark; wet wood only smokes. This much is enough for 108 oblations.",
+        "bho": "लकड़ी सूखल, कीड़ा-रहित आ बिना छाल के होखे; भींजल लकड़ी धुआँ देला। एतना लकड़ी 108 आहुति खातिर काफी बा।"
+      },
+      "must": true
+    },
+    {
+      "id": "navagraha-samidha",
+      "item": {
+        "hi": "नवग्रह-समिधा (हो तो): अर्क, पलाश, खैर, अपामार्ग, पीपल, गूलर, शमी, दूर्वा, कुश — एक-एक",
+        "en": "Planet fuel sticks (if available): arka, palash, khadira, apamarga, pipal, gular, shami, durva, kusha — one each",
+        "bho": "नवग्रह-समिधा (होखे त): अर्क, पलास, खैर, अपामार्ग, पीपर, गूलर, शमी, दूब, कुश — एक-एक"
+      },
+      "qty": "9",
+      "must": false
+    },
+    {
+      "id": "ghee",
+      "item": {
+        "hi": "घी — गाय का घी, आहुतियों के लिए; वसोर्धारा हो तो अलग से",
+        "en": "Ghee — cow's ghee for the oblations; extra if there is a vasordhara",
+        "bho": "घी — गाय के घी, आहुति खातिर; वसोर्धारा होखे त अलगा से"
+      },
+      "qty": "250–500 g",
+      "note": {
+        "hi": "वसोर्धारा हो तो 250 ग्राम से 1 किलो घी अलग से रखें।",
+        "en": "If there is a vasordhara, keep 250 g to 1 kg more, separately.",
+        "bho": "वसोर्धारा होखे त 250 ग्राम से 1 किलो घी अलगा से राखीं।"
+      },
+      "must": true
+    },
+    {
+      "id": "havan-samagri",
+      "item": {
+        "hi": "हवन-सामग्री — तिल, जौ, चावल, सूखे मेवे, शक्कर, जड़ी-बूटियों का तैयार मिश्रण",
+        "en": "Havan mixture — the ready mix of sesame, barley, rice, dry fruits, sugar and herbs",
+        "bho": "हवन-सामान — तिल, जौ, चाउर, सुखल मेवा, चीनी, जड़ी-बूटी के तइयार मिश्रन"
+      },
+      "qty": "500 g–1 kg",
+      "must": true
+    },
+    {
+      "id": "til",
+      "item": {
+        "hi": "तिल (काले)",
+        "en": "Sesame (black)",
+        "bho": "तिल (करिया)"
+      },
+      "qty": "100 g",
+      "must": false
+    },
+    {
+      "id": "jau",
+      "item": {
+        "hi": "जौ",
+        "en": "Barley",
+        "bho": "जौ"
+      },
+      "qty": "100 g",
+      "must": false
+    },
+    {
+      "id": "chawal",
+      "item": {
+        "hi": "चावल — आहुति और पूर्णपात्र के लिए",
+        "en": "Rice — for the oblations and the purnapatra",
+        "bho": "चाउर — आहुति आ पूर्णपात्र खातिर"
+      },
+      "qty": "1 kg",
+      "must": true
+    },
+    {
+      "id": "akshat",
+      "item": {
+        "hi": "अक्षत (बिना टूटे चावल, हल्दी-रंगे) — प्रतिष्ठा, पूजन, संकल्प के लिए",
+        "en": "Akshat (unbroken rice, turmeric-tinted) — for the pratishtha, the worship and the sankalpas",
+        "bho": "अच्छत (बिना टूटल चाउर, हरदी-रंगल) — प्रतिष्ठा, पूजन, संकल्प खातिर"
+      },
+      "qty": "250 g",
+      "must": true
+    },
+    {
+      "id": "kush",
+      "item": {
+        "hi": "कुश — परिस्तरण (12–16), पवित्री (3+2), सम्मार्जन (5), उपयमन (5), ब्रह्म-ग्रंथि के लिए",
+        "en": "Kusha grass — for the paristarana (12–16 blades), the pavitri (3+2), the cleaning (5), the upayamana (5) and the brahma-granthi",
+        "bho": "कुश — परिस्तरन (12–16), पवित्री (3+2), सम्मार्जन (5), उपयमन (5), ब्रह्म-ग्रंथि खातिर"
+      },
+      "qty": "≈ 40",
+      "note": {
+        "hi": "कुश न मिले तो दूर्वा से काम चलाया जाता है — यह पोथियों की अनुमति है।",
+        "en": "If kusha is not to be had, durva is used instead — the handbooks allow it.",
+        "bho": "कुश ना मिले त दूब से काम चलावल जाला — ई पोथी के अनुमति बा।"
+      },
+      "must": true
+    },
+    {
+      "id": "durva",
+      "item": {
+        "hi": "दूर्वा और पंचपल्लव (आम, पीपल, बड़, गूलर, पाकड़ के पत्ते) — अभिषेक के लिए",
+        "en": "Durva grass and the five leaves (mango, pipal, banyan, gular, pakar) — for the abhisheka",
+        "bho": "दूब आ पंचपल्लव (आम, पीपर, बड़, गूलर, पाकड़ के पत्ता) — अभिषेक खातिर"
+      },
+      "qty": "—",
+      "must": false
+    },
+    {
+      "id": "sruva",
+      "item": {
+        "hi": "स्रुवा (हवन की लंबी चम्मच — काठ या ताँबे की) और, हो तो, स्रुची",
+        "en": "Sruva (the long havan ladle — wood or copper) and, if available, the sruchi",
+        "bho": "स्रुवा (हवन के लमहर चमचा — काठ भा ताँबा के) आ, होखे त, स्रुची"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "ajya-sthali",
+      "item": {
+        "hi": "आज्यस्थाली — घी का कटोरा (ताँबा / काँसा)",
+        "en": "Ajya-sthali — the ghee bowl (copper / bell-metal)",
+        "bho": "आज्यस्थाली — घी के कटोरी (ताँबा / काँसा)"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "prokshani-patra",
+      "item": {
+        "hi": "प्रोक्षणी-पात्र (छोटा जल-पात्र, जिसमें पवित्री रहती है)",
+        "en": "Prokshani vessel (a small water vessel in which the pavitri lie)",
+        "bho": "प्रोक्षणी-बरतन (छोट जल-बरतन, जेह में पवित्री रहेला)"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "pranita-patra",
+      "item": {
+        "hi": "प्रणीता-पात्र — जल भरा लोटा (कुंड के उत्तर में)",
+        "en": "Pranita vessel — a lota filled with water (north of the kund)",
+        "bho": "प्रणीता-बरतन — जल भरल लोटा (कुंड के उत्तर)"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "jal-patra",
+      "item": {
+        "hi": "जल-पात्र और आचमनी — यजमान के हाथ के लिए; एक बाल्टी पानी सुरक्षा के लिए अलग",
+        "en": "Water vessel and spoon — for the yajaman's hand; a bucket of water kept apart for safety",
+        "bho": "जल-बरतन आ आचमनी — जजमान के हाथ खातिर; एक बाल्टी पानी सुरच्छा खातिर अलगा"
+      },
+      "qty": "1 + 1",
+      "must": true
+    },
+    {
+      "id": "agni-patra",
+      "item": {
+        "hi": "अग्नि लाने का पात्र — काँसा, ताँबा या मिट्टी का",
+        "en": "A vessel to bring the fire — bell-metal, copper or clay",
+        "bho": "आगि ले आवे के बरतन — काँसा, ताँबा भा माटी के"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "kapur",
+      "item": {
+        "hi": "कपूर और घी की बत्ती — अग्नि जलाने और आरती के लिए",
+        "en": "Camphor and a ghee wick — to light the fire and for the aarti",
+        "bho": "कपूर आ घी के बाती — आगि जराए आ आरती खातिर"
+      },
+      "qty": "—",
+      "must": true
+    },
+    {
+      "id": "bansi-nali",
+      "item": {
+        "hi": "बाँस की नली (फूँकनी) — अग्नि प्रज्वलित करने के लिए",
+        "en": "A bamboo blow-pipe — to kindle the fire",
+        "bho": "बाँस के नली (फुकनी) — आगि जराए खातिर"
+      },
+      "qty": "1",
+      "must": false
+    },
+    {
+      "id": "purnapatra",
+      "item": {
+        "hi": "पूर्णपात्र — चावल (या जौ) से भरा पात्र, ऊपर दक्षिणा; ब्रह्मा को देने के लिए",
+        "en": "Purnapatra — a vessel filled with rice (or barley) with the dakshina on top; given to the brahma",
+        "bho": "पूर्णपात्र — चाउर (भा जौ) से भरल बरतन, ऊपर दक्षिणा; ब्रह्मा के देबे खातिर"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "nariyal",
+      "item": {
+        "hi": "नारियल (पानी वाला या गोला) — पूर्णाहुति के लिए, लाल कपड़े/कलावे में",
+        "en": "Coconut (whole or dry) — for the purnahuti, wrapped in red cloth / kalava",
+        "bho": "नरियर (पानी वाला भा गोला) — पूर्णाहुति खातिर, लाल कपड़ा/कलावा में"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "paan-supari",
+      "item": {
+        "hi": "पान और सुपारी — पूर्णाहुति के नारियल और वरण के लिए",
+        "en": "Betel leaf and nut — for the purnahuti coconut and the selection of priests",
+        "bho": "पान आ सुपारी — पूर्णाहुति के नरियर आ वरन खातिर"
+      },
+      "qty": "5 + 5",
+      "must": true
+    },
+    {
+      "id": "varan-samagri",
+      "item": {
+        "hi": "वरण-सामग्री — आचार्य और ब्रह्मा के लिए वस्त्र (धोती-गमछा / दुपट्टा), पान-सुपारी, अक्षत, फूल",
+        "en": "Materials of selection — cloth for the acharya and the brahma (dhoti and gamcha / shawl), betel, rice grains, flowers",
+        "bho": "वरन-सामान — आचार्य आ ब्रह्मा खातिर कपड़ा (धोती-गमछा / दुपट्टा), पान-सुपारी, अछत, फूल"
+      },
+      "qty": "2",
+      "must": false
+    },
+    {
+      "id": "roli",
+      "item": {
+        "hi": "रोली, चंदन, पुष्प, धूप, दीप, नैवेद्य — अग्नि के पंचोपचार पूजन के लिए",
+        "en": "Roli, sandal paste, flowers, incense, lamp and a food offering — for the five-fold worship of the fire",
+        "bho": "रोरी, चंदन, फूल, धूप, दीया, नैवेद्य — आगि के पंचोपचार पूजन खातिर"
+      },
+      "qty": "—",
+      "must": true
+    },
+    {
+      "id": "pushp",
+      "item": {
+        "hi": "फूल और फूल-माला — पूजन, पुष्पांजलि और अभिषेक के लिए",
+        "en": "Flowers and a garland — for the worship, the pushpanjali and the abhisheka",
+        "bho": "फूल आ फूल-माला — पूजन, पुष्पांजलि आ अभिषेक खातिर"
+      },
+      "qty": "1 + 1",
+      "must": true
+    },
+    {
+      "id": "dhoop",
+      "item": {
+        "hi": "धूप / अगरबत्ती",
+        "en": "Incense",
+        "bho": "धूप / अगरबत्ती"
+      },
+      "qty": "—",
+      "must": false
+    },
+    {
+      "id": "deep",
+      "item": {
+        "hi": "दीया, बत्ती और तेल/घी — पूजन और आरती",
+        "en": "Lamp, wick and oil/ghee — for the worship and the aarti",
+        "bho": "दीया, बाती आ तेल/घी — पूजन आ आरती"
+      },
+      "qty": "1–2",
+      "must": true
+    },
+    {
+      "id": "naivedya",
+      "item": {
+        "hi": "नैवेद्य — मिठाई या फल (बाद में प्रसाद)",
+        "en": "Naivedya — sweets or fruit (later the prasad)",
+        "bho": "नैवेद्य — मिठाई भा फल (बाद में परसाद)"
+      },
+      "qty": "—",
+      "must": true
+    },
+    {
+      "id": "kalash",
+      "item": {
+        "hi": "कलश — पूजा में स्थापित कलश, जिसके जल से अभिषेक होगा",
+        "en": "Kalasha — the puja's established kalasha, whose water is used for the abhisheka",
+        "bho": "कलश — पूजा में थिर भइल कलश, जेकर जल से अभिषेक होई"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "vasordhara-patra",
+      "item": {
+        "hi": "वसोर्धारा के लिए टोंटी वाला पात्र या छोटा लोटा (बड़े हवन में)",
+        "en": "A spouted vessel or small lota for the vasordhara (in a larger havan)",
+        "bho": "वसोर्धारा खातिर टोंटी वाला बरतन भा छोट लोटा (बड़ हवन में)"
+      },
+      "qty": "1",
+      "must": false
+    },
+    {
+      "id": "aasan",
+      "item": {
+        "hi": "आसन — कुश या ऊन की चटाई / कंबल, यजमान, आचार्य और ब्रह्मा के लिए",
+        "en": "Seats — kusha or woollen mats / blankets for the yajaman, the acharya and the brahma",
+        "bho": "आसन — कुश भा ऊन के चटाई / कंबल, जजमान, आचार्य आ ब्रह्मा खातिर"
+      },
+      "qty": "3–4",
+      "must": true
+    },
+    {
+      "id": "dakshina",
+      "item": {
+        "hi": "दक्षिणा — आचार्य, ब्रह्मा और ऋत्विजों के लिए, पहले से तय; पूर्णपात्र पर भी द्रव्य",
+        "en": "Dakshina — for the acharya, the brahma and the priests, settled beforehand; money on the purnapatra too",
+        "bho": "दक्षिणा — आचार्य, ब्रह्मा आ ऋत्विज लोग खातिर, पहिले से तय; पूर्णपात्र पर भी द्रव्य"
+      },
+      "qty": "—",
+      "must": true
+    },
+    {
+      "id": "prasad-samagri",
+      "item": {
+        "hi": "प्रसाद और ब्राह्मण-भोजन की व्यवस्था — उसी दिन या बाद में",
+        "en": "Prasad and the arrangements for the Brahmins' meal — the same day or later",
+        "bho": "परसाद आ ब्राह्मण-भोजन के इंतजाम — ओही दिन भा बाद में"
+      },
+      "qty": "—",
+      "must": false
+    }
+  ],
+  "parts": [
+    {
+      "id": "taiyari",
+      "title": {
+        "hi": "तैयारी — कुंड, अग्नि-स्थापन, अग्नि-पूजन",
+        "en": "Preparation — the kund, placing and worshipping the fire",
+        "bho": "तइयारी — कुंड, अग्नि-स्थापन, अग्नि-पूजन"
+      },
+      "summary": {
+        "hi": "चरण 1–4: कुंड बनाना, पंचभूसंस्कार, अग्नि लाकर स्थापित करना, प्रतिष्ठा-ध्यान-पूजन।",
+        "en": "Steps 1–4: building the kund, the five consecrations, bringing and establishing the fire, its pratishtha, meditation and worship.",
+        "bho": "चरन 1–4: कुंड बनावल, पंचभूसंस्कार, आगि ले आके थिर कइल, आगि के प्रतिष्ठा, ध्यान आ पूजन।"
+      }
+    },
+    {
+      "id": "kushakandika",
+      "title": {
+        "hi": "कुशकंडिका — वरण, परिस्तरण, पात्र और घी के संस्कार",
+        "en": "Kushakandika — selection of priests, strewing, vessels and the ghee",
+        "bho": "कुशकंडिका — वरन, परिस्तरन, बरतन आ घी के संस्कार"
+      },
+      "summary": {
+        "hi": "चरण 5–8: आचार्य-ब्रह्मा वरण, कुश बिछाना, पवित्री-प्रोक्षणी-पर्यग्निकरण, समिधा और पर्युक्षण।",
+        "en": "Steps 5–8: choosing the acharya and brahma, strewing kusha, pavitri, prokshani and paryagnikarana, the fuel sticks and the paryukshana.",
+        "bho": "चरन 5–8: आचार्य-ब्रह्मा वरन, कुश बिछावल, पवित्री-प्रोक्षणी-पर्यग्निकरन, समिधा आ पर्युक्षन।"
+      }
+    },
+    {
+      "id": "ahuti",
+      "title": {
+        "hi": "आहुतियाँ — आघार से प्रधान होम तक",
+        "en": "The oblations — from the aghara to the main homa",
+        "bho": "आहुति — आघार से प्रधान होम तक"
+      },
+      "summary": {
+        "hi": "चरण 9–13: आघारावाज्यभागौ, महाव्याहृति, पंचवारुणी प्रायश्चित्त, गणेश-नवग्रह-देवता आहुतियाँ, प्रधान होम।",
+        "en": "Steps 9–13: aghara and ajyabhaga, mahavyahriti, the five Varuna expiations, the oblations to Ganesha, the planets and the deities, the main homa.",
+        "bho": "चरन 9–13: आघारावाज्यभागौ, महाव्याहृति, पंचवारुणी प्रायश्चित्त, गणेश-नवग्रह-देवता आहुति, प्रधान होम।"
+      }
+    },
+    {
+      "id": "samapan",
+      "title": {
+        "hi": "समापन — स्विष्टकृत् से ब्राह्मण-भोजन तक",
+        "en": "The close — from the svishtakrit to the Brahmins' meal",
+        "bho": "समापन — स्विष्टकृत् से ब्राह्मण-भोजन तक"
+      },
+      "summary": {
+        "hi": "चरण 14–24: स्विष्टकृत्, मार्जन, पूर्णपात्र, पूर्णाहुति, वसोर्धारा, बर्हिहोम, भस्म, अभिषेक, आरती-पुष्पांजलि, दक्षिणा, ब्राह्मण-भोजन और विसर्जन।",
+        "en": "Steps 14–24: svishtakrit, sprinkling, purnapatra, purnahuti, vasordhara, barhir-homa, ash, abhisheka, aarti and pushpanjali, dakshina, the Brahmins' meal and the dismissal.",
+        "bho": "चरन 14–24: स्विष्टकृत्, मार्जन, पूर्णपात्र, पूर्णाहुति, वसोर्धारा, बर्हिहोम, भस्म, अभिषेक, आरती-पुष्पांजलि, दक्षिणा, ब्राह्मण-भोजन आ विसर्जन।"
+      }
+    }
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "part": "taiyari",
+      "layer": "paddhati",
+      "minutes": 10,
+      "action": {
+        "hi": "[[havan-kund]] या वेदी तैयार करें: ताँबे का कुंड, ईंटों की चौकोर वेदी या बालू-मिट्टी का स्थंडिल — साधारण घरेलू हवन के लिए एक हाथ (लगभग 45 सेमी) की चौकोर वेदी, जिसके ऊपर एक-दो \"मेखला\" (सीढ़ी-सी किनारी) हों। कुंड पूजा-स्थल के पूर्व या आग्नेय (दक्षिण-पूर्व) भाग में हो; यजमान पूर्व या उत्तर मुख बैठे, कुंड उसके सामने। ऊँची, साफ़ और सुरक्षित जगह चुनें — पंखा बंद, पास में जल का पात्र, कुंड के नीचे ईंट या बालू।",
+        "en": "Prepare the havan-kund or altar: a copper kund, a square altar of bricks or a sthandila of sand and earth — for an ordinary household havan a square of one hasta (about 45 cm) with one or two \"mekhala\" (stepped rims). The kund stands in the east or south-east part of the puja place; the yajaman sits facing east or north with the kund before him. Choose a raised, clean and safe spot — fan off, a vessel of water at hand, bricks or sand under the kund.",
+        "bho": "[[havan-kund]] भा बेदी तइयार करीं: ताँबा के कुंड, ईंटा के चौकोर बेदी भा बालू-माटी के स्थंडिल — साधारन घर के हवन खातिर एक हाथ (लगभग 45 सेमी) के चौकोर बेदी, जेकरा ऊपर एक-दू \"मेखला\" (सीढ़ी जइसन किनारी) होखे। कुंड पूजा-जगह के पूरब भा आग्नेय (दक्खिन-पूरब) भाग में होखे; जजमान पूरब भा उत्तर मुँह बइठे, कुंड ओकरा सोझा। ऊँच, साफ आ सुरच्छित जगह चुनीं — पंखा बंद, लगे जल के बरतन, कुंड के नीचे ईंटा भा बालू।"
+      },
+      "samagriIds": [
+        "havan-kund",
+        "balu-mitti",
+        "gobar",
+        "jal-patra"
+      ],
+      "note": {
+        "hi": "परंपरा में कुंड का माप आहुतियों की संख्या से बढ़ता है — सौ-डेढ़ सौ आहुति के लिए एक हाथ, हज़ार के लिए दो हाथ, और लक्ष-कोटि होम के लिए इससे बड़ा; गोल, अर्धचंद्र, त्रिकोण, योनि आदि आकार विशेष कामनाओं के साथ जोड़े जाते हैं, पर घर में चौकोर ही चलता है। स्मृति-ग्रंथों के वचन ताँबे के कुंड की भी अनुमति देते हैं।",
+        "en": "Tradition scales the kund to the number of oblations — one hasta for a hundred-odd ahutis, two for a thousand, larger for the lakh and crore homas; round, half-moon, triangular and other shapes are tied to particular intentions, but at home the square is the norm. Smriti texts also allow a copper kund.",
+        "bho": "परंपरा में कुंड के नाप आहुति के गिनती से बढ़ेला — सौ-डेढ़ सौ आहुति खातिर एक हाथ, हजार खातिर दू हाथ, आ लाख-करोड़ होम खातिर एकरा से बड़; गोल, अधचंद्र, तिकोन, योनि आदि आकार खास कामना संगे जोड़ल जाला, बाकिर घर में चौकोर ही चलेला। स्मृति के वचन ताँबा के कुंड के भी अनुमति देला।"
+      }
+    },
+    {
+      "n": 2,
+      "part": "taiyari",
+      "layer": "vedic",
+      "minutes": 5,
+      "action": {
+        "hi": "पंचभूसंस्कार (वेदी के पाँच संस्कार): (1) परिसमूहन — तीन कुशों से वेदी को दक्षिण से उत्तर की ओर झाड़ें, कुश ईशान में फेंक दें; (2) उपलेपन — गोबर-जल से लीपें; (3) उल्लेखन — स्रुवा के मूल या कुश से पश्चिम से पूर्व की ओर, दक्षिण से शुरू करके, प्रादेश-भर (लगभग दस अंगुल) की तीन रेखाएँ खींचें; (4) उद्धरण — रेखाओं की मिट्टी अनामिका-अँगूठे से उठाकर ईशान में रखें; (5) अभ्युक्षण — जल से सींचें। यही [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.1.2 का \"परिसमूह्योपलिप्योल्लिख्योद्धृत्याभ्युक्ष्य\" है।",
+        "en": "The five consecrations of the altar (pancha-bhu-samskara): (1) parisamuhana — sweep the altar from south to north with three kusha blades and throw them to the north-east; (2) upalepana — smear it with cow dung and water; (3) ullekhana — with the root of the ladle or a kusha draw three lines a span (about ten finger-widths) long from west to east, beginning at the south; (4) uddharana — lift the earth of the lines with ring finger and thumb and set it to the north-east; (5) abhyukshana — sprinkle with water. This is the \"parisamuhya upalipya ullikhya uddhritya abhyukshya\" of the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.1.2.",
+        "bho": "पंचभूसंस्कार (बेदी के पाँच संस्कार): (1) परिसमूहन — तीन कुश से बेदी के दक्खिन से उत्तर ओर झाड़ीं, कुश ईशान में फेंक दीं; (2) उपलेपन — गोबर-जल से लीपीं; (3) उल्लेखन — स्रुवा के जड़ भा कुश से पच्छिम से पूरब ओर, दक्खिन से सुरू कर के, प्रादेश-भर (लगभग दस अंगुल) के तीन रेखा खींचीं; (4) उद्धरन — रेखा के माटी अनामिका-अँगूठा से उठा के ईशान में राखीं; (5) अभ्युक्षन — जल से सींचीं। इहे [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.1.2 के \"परिसमूह्योपलिप्योल्लिख्योद्धृत्याभ्युक्ष्य\" बा।"
+      },
+      "samagriIds": [
+        "kush",
+        "gobar",
+        "jal-patra",
+        "sruva"
+      ],
+      "panditSays": {
+        "sa": "ॐ दर्भैः परिसमूह्य । ॐ गोमयेन उपलिप्य । ॐ दर्भमूलेन उल्लिख्य । ॐ अनामिकाङ्गुष्ठेन उद्धृत्य । ॐ उदकेन अभ्युक्ष्य ।",
+        "hi": "ॐ दर्भैः परिसमूह्य … (पंडित हर क्रिया का नाम बोलते हुए करता है; यजमान देखता है।)",
+        "en": "Om darbhaih parisamuhya … (the pandit names each act as he does it; the yajaman watches).",
+        "bho": "ॐ दर्भैः परिसमूह्य … (पंडित हर काम के नाँव बोलत करेलन; जजमान देखेला।)"
+      },
+      "note": {
+        "hi": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.1.5 कहता है \"एष एव विधिर्यत्र क्वचिद्धोमः\" — जहाँ कहीं होम हो, यही विधि है; इसलिए यह चरण हर हवन में है, विवाह से लेकर गृहप्रवेश तक।",
+        "en": "The [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.1.5 says \"this is the procedure wherever there is a homa\" — so this step belongs to every havan, from a wedding to a house-entry.",
+        "bho": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.1.5 कहेला \"एष एव विधिर्यत्र क्वचिद्धोमः\" — जहाँ कहीं होम होखे, इहे विधि बा; एही से ई चरन हर हवन में बा, बियाह से लेके गृहप्रवेश तक।"
+      }
+    },
+    {
+      "n": 3,
+      "part": "taiyari",
+      "layer": "paddhati",
+      "minutes": 5,
+      "important": true,
+      "action": {
+        "hi": "[[agni-sthapana]]: सुहागिन स्त्री (या यजमान) काँसे, ताँबे या मिट्टी के पात्र में जलती अग्नि लाए — कपूर या घी की बत्ती से जलाकर, माचिस की तीली सीधे कुंड में नहीं। पंडित पात्र में अक्षत छोड़े, थोड़ा अंश \"क्रव्याद\" (मांस-भक्षी) भाग मानकर नैर्ऋत्य (दक्षिण-पश्चिम) में अलग रख दे, और शेष अग्नि को अपनी ओर मुख करके \"ॐ अग्निं दूतं पुरो दधे…\" (VS 22.17) से कुंड में स्थापित करे। पद्धतियाँ अग्नि को कर्म के अनुसार नाम देती हैं — नित्य और घरेलू होम में \"पावक\", विवाह में \"योजक\" — और स्थापना का संकल्प \"… (नाम)नामाग्निस्थापनं करिष्ये\" से होता है। अग्नि को बाँस की नली से फूँककर प्रज्वलित करें, मुँह, हाथ या सूप से नहीं।",
+        "en": "Agni-sthapana: a married woman (or the yajaman) brings the lit fire in a vessel of bell-metal, copper or clay — lit from camphor or a ghee wick, never a matchstick struck in the kund. The pandit drops rice grains into the vessel, sets aside a small part towards the south-west as the \"kravyada\" (flesh-eating) portion, and establishes the rest of the fire in the kund facing himself with \"om agnim dutam puro dadhe …\" (VS 22.17). The handbooks name the fire according to the rite — \"Pavaka\" in the daily and household homa, \"Yojaka\" at a wedding — and the sankalpa of placing it runs \"… (name)-nama-agni-sthapanam karishye\". Kindle the fire with a bamboo blow-pipe, not with the mouth, the hand or a winnowing tray.",
+        "bho": "[[agni-sthapana]]: सोहागिन मेहरारू (भा जजमान) काँसा, ताँबा भा माटी के बरतन में जरत आगि ले आवे — कपूर भा घी के बाती से जरा के, माचिस के सलाई सीधे कुंड में ना। पंडित बरतन में अछत छोड़सु, तनी अंश \"क्रव्याद\" (मांस खाए वाला) भाग मान के नैर्ऋत्य (दक्खिन-पच्छिम) में अलगा राख देसु, आ बाकी आगि के आपन ओर मुँह कर के \"ॐ अग्निं दूतं पुरो दधे…\" (VS 22.17) से कुंड में थिर करसु। पद्धति आगि के काम के हिसाब से नाँव देला — नित्य आ घर के होम में \"पावक\", बियाह में \"योजक\" — आ स्थापना के संकल्प \"… (नाँव)नामाग्निस्थापनं करिष्ये\" से होला। आगि के बाँस के नली से फूँक के जराईं, मुँह, हाथ भा सूप से ना।"
+      },
+      "mantraIds": [
+        "vs-22-17"
+      ],
+      "samagriIds": [
+        "agni-patra",
+        "kapur",
+        "ghee",
+        "akshat",
+        "bansi-nali"
+      ],
+      "panditSays": {
+        "sa": "ॐ अद्य {गोत्र}गोत्रः {नाम}शर्माहं अस्मिन् {कर्म}कर्मणि पञ्चभूसंस्कारपूर्वकं {अग्निनाम}नामाग्निस्थापनं करिष्ये ।",
+        "hi": "अग्नि ले आइए — सीधे न फूँकें। मैं अब अग्नि की स्थापना करता हूँ; हाथ जोड़ लें।",
+        "en": "Bring the fire — do not blow on it directly. I now establish the fire; fold your hands.",
+        "bho": "आगि ले आईं — सीधे ना फूँकीं। हम अब आगि के स्थापना करत बानी; हाथ जोड़ लीं।"
+      },
+      "note": {
+        "hi": "\"क्रव्याद\" अंश अलग करने और नली से फूँकने की बात [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) की नित्यहोम-विधि से है; अग्नि के नाम की पूरी सूची पोथियों में भिन्न-भिन्न है, इसलिए यहाँ केवल दो सुनिश्चित नाम दिए हैं।",
+        "en": "The setting aside of the \"kravyada\" portion and the blow-pipe rule come from the daily-homa section of the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur); the full list of fire-names differs between handbooks, so only the two attested names are given here.",
+        "bho": "\"क्रव्याद\" अंश अलगा करे आ नली से फूँके के बात [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) के नित्यहोम-विधि से बा; आगि के नाँव के पूरा सूची पोथी-पोथी में अलगा बा, एही से इहाँ खाली दू तय नाँव दिहल बा।"
+      }
+    },
+    {
+      "n": 4,
+      "part": "taiyari",
+      "layer": "vedic",
+      "minutes": 5,
+      "important": true,
+      "action": {
+        "hi": "अग्नि-प्रतिष्ठा, ध्यान और पूजन: कुंड की अग्नि पर अक्षत छोड़ते हुए \"ॐ मनो जूतिर्जुषताम्…\" (VS 2.13, अंत में \"ओ३म् प्रतिष्ठ\") पढ़ें; हाथ जोड़कर \"चत्वारि शृंगा…\" (VS 17.91) से अग्नि का ध्यान करें और \"मुखं यः सर्वदेवानाम्…\" से प्रणाम; फिर \"ॐ (नाम)नाम्ने अग्नये नमः\" कहते हुए गंध, अक्षत, पुष्प, धूप, दीप और नैवेद्य से [[panchopachar]] पूजन करें — उपचारों की पूरी विधि [षोडशोपचार](/occasions/shodashopachar/) पृष्ठ पर है।",
+        "en": "Pratishtha, meditation and worship of the fire: drop rice grains on the fire in the kund with \"om mano jutir jushatam …\" (VS 2.13, ending \"o3m pratishtha\"); with folded hands meditate on Agni with \"chatvari shringa …\" (VS 17.91) and bow with \"mukham yah sarvadevanam …\"; then, saying \"om (name)-namne agnaye namah\", worship with the five upacharas — sandal paste, rice grains, flowers, incense, lamp and the food offering. The full method of the upacharas is on the [shodashopachara](/occasions/shodashopachar/) page.",
+        "bho": "अग्नि-प्रतिष्ठा, ध्यान आ पूजन: कुंड के आगि पर अछत छोड़त \"ॐ मनो जूतिर्जुषताम्…\" (VS 2.13, अंत में \"ओ३म् प्रतिष्ठ\") पढ़ीं; हाथ जोड़ के \"चत्वारि शृङ्गा…\" (VS 17.91) से अग्नि के ध्यान करीं आ \"मुखं यः सर्वदेवानाम्…\" से परनाम; फेर \"ॐ (नाँव)नाम्ने अग्नये नमः\" कहत गंध, अछत, फूल, धूप, दीया आ नैवेद्य से [[panchopachar]] पूजन करीं — उपचार के पूरा विधि [षोडशोपचार](/occasions/shodashopachar/) पन्ना पर बा।"
+      },
+      "mantraIds": [
+        "vs-2-13",
+        "vs-17-91",
+        "pad-mukham-yah-sarvadevanam"
+      ],
+      "samagriIds": [
+        "akshat",
+        "roli",
+        "pushp",
+        "dhoop",
+        "deep",
+        "naivedya"
+      ],
+      "panditSays": {
+        "sa": "ॐ {अग्निनाम}नाम्ने अग्नये सुप्रतिष्ठितो वरदो भव । ॐ भूर्भुवः स्वः {अग्निनाम}नाम्ने अग्नये नमः । सर्वोपचारार्थे गन्धाक्षतपुष्पाणि समर्पयामि ।",
+        "hi": "अग्निदेव स्थापित हुए। सब हाथ जोड़कर अग्नि का ध्यान करें — मैं पूजन करता हूँ।",
+        "en": "Agni is established. Everyone fold your hands and meditate on the fire — I perform the worship.",
+        "bho": "अग्निदेव थिर भइलन। सभे हाथ जोड़ के आगि के ध्यान करीं — हम पूजन करत बानी।"
+      }
+    },
+    {
+      "n": 5,
+      "part": "kushakandika",
+      "layer": "paddhati",
+      "minutes": 5,
+      "action": {
+        "hi": "आचार्य-वरण और ब्रह्मा-वरण: यजमान हाथ में वस्त्र, पान-सुपारी, अक्षत और दक्षिणा लेकर पंडित को \"आचार्य\" चुनता है (\"… आचार्यत्वेन त्वामहं वृणे\") — आचार्य कहता है \"स्वस्ति, वृतोऽस्मि\"; फिर दूसरे [[brahman]] को \"ब्रह्मा\" (कर्म का निरीक्षक) चुनता है। ब्रह्मा अग्नि के दक्षिण में कुश के आसन पर बैठता है और उसे कुश की \"ब्रह्म-ग्रंथि\" दी जाती है; अग्नि के उत्तर में कुशों पर जल भरा प्रणीता-पात्र रखा जाता है। छोटे हवन में एक ही पंडित दोनों काम करता है और वरण संक्षेप में या मन में हो जाता है।",
+        "en": "Choosing the acharya and the brahma: the yajaman, holding cloth, betel, rice grains and dakshina, formally chooses the pandit as \"acharya\" (\"… acharyatvena tvam aham vrine\") — the acharya answers \"svasti, vrito 'smi\"; then he chooses a second Brahmin as \"brahma\", the overseer of the rite. The brahma sits on a kusha seat south of the fire and is given the kusha \"brahma-granthi\"; north of the fire the pranita vessel, filled with water, is set on kusha. In a small havan one pandit holds both offices and the selection is brief or silent.",
+        "bho": "आचार्य-वरन आ ब्रह्मा-वरन: जजमान हाथ में कपड़ा, पान-सुपारी, अछत आ दक्षिणा लेके पंडित के \"आचार्य\" चुनेला (\"… आचार्यत्वेन त्वामहं वृणे\") — आचार्य कहेलन \"स्वस्ति, वृतोऽस्मि\"; फेर दोसरा [[brahman]] के \"ब्रह्मा\" (काम के निरीच्छक) चुनेला। ब्रह्मा आगि के दक्खिन में कुश के आसन पर बइठेलन आ उनका कुश के \"ब्रह्म-ग्रंथि\" दिहल जाला; आगि के उत्तर में कुश पर जल भरल प्रणीता-बरतन राखल जाला। छोट हवन में एके पंडित दुनो काम करेलन आ वरन संछेप में भा मन में हो जाला।"
+      },
+      "mantraIds": [
+        "pad-acharyastu-yatha-svarge",
+        "pad-yatha-chaturmukho-brahma"
+      ],
+      "samagriIds": [
+        "varan-samagri",
+        "kush",
+        "pranita-patra",
+        "aasan"
+      ],
+      "panditSays": {
+        "sa": "ॐ अद्य कर्तव्ये {कर्म}होमकर्मणि आचार्यकर्म कर्तुम् एभिः वरणद्रव्यैः {गोत्र}गोत्रं {नाम}शर्माणं ब्राह्मणम् आचार्यत्वेन त्वामहं वृणे ।",
+        "hi": "यजमान जी, यह वरण-सामग्री हाथ में लेकर मेरा वरण करें — \"आचार्यत्वेन त्वामहं वृणे\"। (आचार्य:) स्वस्ति, वृतोऽस्मि।",
+        "en": "Yajaman ji, take these materials in your hands and choose me — \"acharyatvena tvam aham vrine\". (Acharya:) Svasti, I am chosen.",
+        "bho": "जजमान जी, ई वरन-सामान हाथ में लेके हमार वरन करीं — \"आचार्यत्वेन त्वामहं वृणे\"। (आचार्य:) स्वस्ति, वृतोऽस्मि।"
+      },
+      "note": {
+        "hi": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.1.2 ब्रह्मा का आसन दक्षिण में और प्रणीता-जल हर स्थालीपाक होम का अंग बताता है; वरण के श्लोक पद्धति के हैं।",
+        "en": "The [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.1.2 makes the brahma's seat to the south and the pranita water part of every sthalipaka homa; the verses of selection are from the handbooks.",
+        "bho": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.1.2 ब्रह्मा के आसन दक्खिन में आ प्रणीता-जल हर स्थालीपाक होम के अंग बतावेला; वरन के श्लोक पद्धति के बा।"
+      }
+    },
+    {
+      "n": 6,
+      "part": "kushakandika",
+      "layer": "vedic",
+      "minutes": 5,
+      "action": {
+        "hi": "परिस्तरण और पात्रासादन: कुंड के चारों ओर कुश बिछाएँ — पूर्व में उत्तराग्र (नोक उत्तर को), दक्षिण में पूर्वाग्र, पश्चिम में उत्तराग्र, उत्तर में पूर्वाग्र, हर ओर तीन-तीन या चार-चार — फिर कुंड के पश्चिम में क्रम से पात्र रखें: पवित्र-छेदन के तीन कुश, पवित्री के दो कुश, प्रोक्षणी-पात्र, आज्यस्थाली (घी का कटोरा), चरु-स्थाली (हो तो), सम्मार्जन के पाँच कुश, उपयमन के पाँच कुश, तीन समिधाएँ, स्रुवा, घी, पूर्णपात्र (चावल भरा पात्र), हवन-सामग्री और पूर्णाहुति का नारियल — पश्चिम से पूर्व, उत्तराग्र।",
+        "en": "Paristarana and patrasadana: strew kusha around the kund — to the east with tips pointing north, to the south with tips east, to the west tips north, to the north tips east, three or four blades each side — then lay out the vessels west of the kund in order: three kusha for cutting the pavitra, two kusha for the pavitri, the prokshani vessel, the ajya-sthali (ghee bowl), the charu-sthali if any, five kusha for cleaning the ladle, five upayamana kusha, three fuel sticks, the sruva, the ghee, the purnapatra (a vessel filled with rice), the havan mixture and the coconut of the purnahuti — from west to east, tips north.",
+        "bho": "परिस्तरन आ पात्रासादन: कुंड के चारो ओर कुश बिछाईं — पूरब में उत्तराग्र (नोक उत्तर ओर), दक्खिन में पूर्वाग्र, पच्छिम में उत्तराग्र, उत्तर में पूर्वाग्र, हर ओर तीन-तीन भा चार-चार — फेर कुंड के पच्छिम में क्रम से बरतन राखीं: पवित्र-छेदन के तीन कुश, पवित्री के दू कुश, प्रोक्षणी-बरतन, आज्यस्थाली (घी के कटोरी), चरु-स्थाली (होखे त), सम्मार्जन के पाँच कुश, उपयमन के पाँच कुश, तीन समिधा, स्रुवा, घी, पूर्णपात्र (चाउर भरल बरतन), हवन-सामान आ पूर्णाहुति के नरियर — पच्छिम से पूरब, उत्तराग्र।"
+      },
+      "samagriIds": [
+        "kush",
+        "prokshani-patra",
+        "ajya-sthali",
+        "sruva",
+        "ghee",
+        "samidha",
+        "purnapatra",
+        "havan-samagri",
+        "nariyal"
+      ],
+      "panditSays": {
+        "hi": "अब कुश बिछाते हैं और पात्र सजाते हैं — यजमान जी, बस बैठे रहें।",
+        "en": "Now we strew the kusha and lay out the vessels — yajaman ji, just stay seated.",
+        "bho": "अब कुश बिछावत बानी आ बरतन सजावत बानी — जजमान जी, बस बइठल रहीं।"
+      },
+      "note": {
+        "hi": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.1.2 के \"परिस्तीर्यार्थवदासाद्य\" का यही विस्तार है; दिशाएँ और पात्रों की सूची माध्यंदिन विवाह-पद्धति से ली गई हैं।",
+        "en": "This expands \"paristirya arthavad asadya\" of the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.1.2; the directions and the list of vessels follow the Madhyandina wedding handbook.",
+        "bho": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.1.2 के \"परिस्तीर्यार्थवदासाद्य\" के इहे बिस्तार बा; दिसा आ बरतन के सूची माध्यंदिन बियाह-पद्धति से लिहल गइल बा।"
+      }
+    },
+    {
+      "n": 7,
+      "part": "kushakandika",
+      "layer": "vedic",
+      "minutes": 8,
+      "action": {
+        "hi": "कुशकंडिका का मध्य भाग: (क) पवित्रक — तीन कुशों पर दो कुश रखकर अनामिका-अँगूठे से दो कुशों के अग्र काटें; यही दो \"पवित्री\" हैं; (ख) प्रोक्षणी — प्रोक्षणी-पात्र में प्रणीता का जल लेकर पवित्रियों से तीन बार ऊपर उछालें (उत्पवन), पात्र को बाएँ हाथ पर रखें, प्रणीता के जल से प्रोक्षणी पर और प्रोक्षणी के जल से घी-पात्र व सब सामग्री पर छींटे दें; (ग) पर्यग्निकरण — घी का पात्र अग्नि के पास गरम करें और जलती समिधा घी-पात्र के चारों ओर ईशान से ईशान तक दाहिनी ओर घुमाकर अग्नि में डालें; (घ) स्रुवा-सम्मार्जन — स्रुवा को अग्नि पर तपाएँ, सम्मार्जन-कुशों के अग्र, मध्य और मूल से स्रुवा के अग्र, मध्य और मूल को पोंछें, प्रणीता-जल छिड़कें, फिर तपाएँ और रख दें; कुश अग्नि में; (ङ) घृत-उत्पवन — पवित्रियों से घी को तीन बार उछालें, देखकर कोई कचरा हो तो निकाल दें, पवित्री प्रोक्षणी में रख दें।",
+        "en": "The middle of the kushakandika: (a) pavitraka — lay two kusha on three and cut off the tips of the two with ring finger and thumb; these two are the \"pavitri\"; (b) prokshani — fill the prokshani vessel with pranita water, lift it three times with the pavitris (utpavana), hold the vessel on the left hand, sprinkle the prokshani with pranita water and then the ghee bowl and all the materials with prokshani water; (c) paryagnikarana — warm the ghee bowl near the fire and carry a burning stick around it clockwise from the north-east back to the north-east, then put the stick into the fire; (d) sruva-sammarjana — heat the ladle on the fire, wipe its tip, middle and base with the tip, middle and base of the cleaning kusha, sprinkle pranita water, heat it again and set it down; the kusha go into the fire; (e) ghrita-utpavana — lift the ghee three times with the pavitris, look it over and remove anything foreign, then lay the pavitris in the prokshani.",
+        "bho": "कुशकंडिका के बीच के भाग: (क) पवित्रक — तीन कुश पर दू कुश राख के अनामिका-अँगूठा से दू कुश के अगरा काटीं; इहे दू \"पवित्री\" बा; (ख) प्रोक्षणी — प्रोक्षणी-बरतन में प्रणीता के जल लेके पवित्री से तीन बेर ऊपर उछालीं (उत्पवन), बरतन बाईं हाथ पर राखीं, प्रणीता के जल से प्रोक्षणी पर आ प्रोक्षणी के जल से घी-बरतन आ सब सामान पर छींटा दीं; (ग) पर्यग्निकरन — घी के बरतन आगि लगे गरम करीं आ जरत समिधा घी-बरतन के चारो ओर ईशान से ईशान तक दाहिना ओर घुमा के आगि में डालीं; (घ) स्रुवा-सम्मार्जन — स्रुवा के आगि पर तपाईं, सम्मार्जन-कुश के अगरा, बीच आ जड़ से स्रुवा के अगरा, बीच आ जड़ पोंछीं, प्रणीता-जल छींटीं, फेर तपाईं आ राख दीं; कुश आगि में; (ङ) घी-उत्पवन — पवित्री से घी के तीन बेर उछालीं, देख के कवनो कचरा होखे त निकाल दीं, पवित्री प्रोक्षणी में राख दीं।"
+      },
+      "samagriIds": [
+        "kush",
+        "prokshani-patra",
+        "pranita-patra",
+        "ajya-sthali",
+        "sruva",
+        "ghee"
+      ],
+      "panditSays": {
+        "hi": "यह कुशकंडिका है — पंडित का काम। यजमान जी, घी और सामग्री को देख लें, सब पास है।",
+        "en": "This is the kushakandika — the pandit's work. Yajaman ji, check that the ghee and the materials are all at hand.",
+        "bho": "ई कुशकंडिका बा — पंडित के काम। जजमान जी, घी आ सामान देख लीं, सब लगे बा।"
+      },
+      "note": {
+        "hi": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.1.2–4 इन क्रियाओं को सूत्र-रूप में देता है — \"पवित्रे कृत्वा प्रोक्षणीः संस्कृत्य … आज्यमधिश्रित्य पर्यग्नि कुर्यात्, स्रुवं प्रतप्य सम्मृज्याभ्युक्ष्य पुनः प्रतप्य निदध्यात्, आज्यमुद्वास्योत्पूयावेक्ष्य\"; पोथियाँ इन्हीं को \"कुशकंडिका\" कहती हैं। घर के छोटे हवन में पंडित इन्हें संक्षेप में कर लेता है।",
+        "en": "The [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.1.2–4 gives these acts in sutra form — \"having made the two pavitras, having prepared the prokshani waters … having put the ghee on the fire he carries fire around it; he heats the sruva, wipes it, sprinkles it, heats it again and sets it down; he takes the ghee off, purifies it and looks at it\"; the handbooks call all this the \"kushakandika\". In a small household havan the pandit does them in brief.",
+        "bho": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.1.2–4 एह क्रिया के सूत्र-रूप में देला — \"पवित्रे कृत्वा प्रोक्षणीः संस्कृत्य … आज्यमधिश्रित्य पर्यग्नि कुर्यात्, स्रुवं प्रतप्य सम्मृज्याभ्युक्ष्य पुनः प्रतप्य निदध्यात्, आज्यमुद्वास्योत्पूयावेक्ष्य\"; पोथी एही के \"कुशकंडिका\" कहेला। घर के छोट हवन में पंडित एकरा संछेप में कर लेलन।"
+      }
+    },
+    {
+      "n": 8,
+      "part": "kushakandika",
+      "layer": "vedic",
+      "minutes": 3,
+      "action": {
+        "hi": "समिधा-आधान और पर्युक्षण: उपयमन-कुश बाएँ हाथ में लेकर खड़े हों; तीन समिधाएँ घी में डुबोकर, मन में प्रजापति का ध्यान करते हुए, अग्नि में डालें। फिर प्रोक्षणी के बचे जल से, पवित्री-सहित हाथ से, ईशान कोण से ईशान तक दाहिनी ओर घुमाते हुए अग्नि के चारों ओर जल-धारा दें (पर्युक्षण); पवित्रियाँ प्रणीता में रखें। अब दाहिना घुटना टेककर (दक्षिण-जान्वाच्य) बैठें — यहाँ से आहुतियाँ शुरू होती हैं; स्रुवा को पद्धति के बताए \"शंख-मुद्रा\" से पकड़ें और हर आहुति अग्नि के जलते भाग पर दें।",
+        "en": "Laying the fuel sticks and paryukshana: stand holding the upayamana kusha in the left hand; dip the three fuel sticks in ghee and, thinking of Prajapati, put them into the fire. Then with the water left in the prokshani, the pavitris in hand, pour a stream around the fire clockwise from the north-east back to the north-east (paryukshana); lay the pavitris in the pranita. Now sit with the right knee on the ground (dakshina-janvachya) — the oblations begin from here; hold the sruva in the \"shankha-mudra\" the handbooks describe and give every oblation onto the burning part of the fire.",
+        "bho": "समिधा-आधान आ पर्युक्षन: उपयमन-कुश बाईं हाथ में लेके ठाड़ होखीं; तीन समिधा घी में डुबा के, मन में प्रजापति के ध्यान करत, आगि में डालीं। फेर प्रोक्षणी के बाचल जल से, पवित्री-सहित हाथ से, ईशान कोन से ईशान तक दाहिना ओर घुमावत आगि के चारो ओर जल-धार दीं (पर्युक्षन); पवित्री प्रणीता में राखीं। अब दाहिना ठेहुना टेक के (दक्षिण-जान्वाच्य) बइठीं — इहाँ से आहुति सुरू होला; स्रुवा के पद्धति के बतावल \"शंख-मुद्रा\" से धरीं आ हर आहुति आगि के जरत भाग पर दीं।"
+      },
+      "samagriIds": [
+        "samidha",
+        "ghee",
+        "kush",
+        "prokshani-patra",
+        "sruva"
+      ],
+      "panditSays": {
+        "hi": "तीन समिधाएँ घी में डुबोकर अग्नि में — प्रजापति का स्मरण करें। अब जल की धारा घुमाते हैं; इसके बाद आहुतियाँ।",
+        "en": "Three fuel sticks dipped in ghee into the fire — remember Prajapati. Now the stream of water goes round; after this, the oblations.",
+        "bho": "तीन समिधा घी में डुबा के आगि में — प्रजापति के सुमिरन करीं। अब जल के धार घुमावत बानी; एकरा बाद आहुति।"
+      },
+      "note": {
+        "hi": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.1.4: \"उपयमनान्कुशानादाय समिधोऽभ्याधाय पर्युक्ष्य जुहुयात्\" — उपयमन कुश लेकर, समिधाएँ रखकर, पर्युक्षण करके होम करे। घुटना टेकने और शंख-मुद्रा का विवरण पद्धति का है।",
+        "en": "The [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.1.4: \"taking the upayamana kusha, laying on the fuel sticks and sprinkling around, he offers\". The kneeling posture and the shankha-mudra are handbook details.",
+        "bho": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.1.4: \"उपयमनान्कुशानादाय समिधोऽभ्याधाय पर्युक्ष्य जुहुयात्\" — उपयमन कुश लेके, समिधा राख के, पर्युक्षन कर के होम करे। ठेहुना टेके आ शंख-मुद्रा के बिस्तार पद्धति के बा।"
+      }
+    },
+    {
+      "n": 9,
+      "part": "ahuti",
+      "layer": "vedic",
+      "minutes": 3,
+      "important": true,
+      "action": {
+        "hi": "आघारावाज्यभागौ — पहली चार घी की आहुतियाँ: \"ॐ प्रजापतये स्वाहा । इदं प्रजापतये न मम\", \"ॐ इंद्राय स्वाहा । इदमिंद्राय न मम\" (दो आघार); \"ॐ अग्नये स्वाहा । इदमग्नये न मम\", \"ॐ सोमाय स्वाहा । इदं सोमाय न मम\" (दो आज्यभाग)। हर आहुति स्रुवा से घी की; \"स्वाहा\" पर घी अग्नि में गिरे और \"इदं … न मम\" पर स्रुवा का बचा घी प्रोक्षणी में टपका दें। आहुतियाँ ब्रह्मा से \"अन्वारब्ध\" होकर दी जाती हैं — ब्रह्मा कुश से यजमान/आचार्य का स्पर्श किए रहता है।",
+        "en": "The aghara and ajyabhaga — the first four ghee oblations: \"om prajapataye svaha, idam prajapataye na mama\", \"om indraya svaha, idam indraya na mama\" (the two agharas); \"om agnaye svaha, idam agnaye na mama\", \"om somaya svaha, idam somaya na mama\" (the two ajyabhagas). Each is a ladle of ghee; at \"svaha\" the ghee falls into the fire, at \"idam … na mama\" the ghee left in the ladle is dripped into the prokshani. The oblations are given \"anvarabdha\" with the brahma — the brahma keeps touching the yajaman or acharya with a kusha.",
+        "bho": "आघारावाज्यभागौ — पहिला चार घी के आहुति: \"ॐ प्रजापतये स्वाहा । इदं प्रजापतये न मम\", \"ॐ इन्द्राय स्वाहा । इदमिन्द्राय न मम\" (दू आघार); \"ॐ अग्नये स्वाहा । इदमग्नये न मम\", \"ॐ सोमाय स्वाहा । इदं सोमाय न मम\" (दू आज्यभाग)। हर आहुति स्रुवा से घी के; \"स्वाहा\" पर घी आगि में गिरे आ \"इदं … न मम\" पर स्रुवा के बाचल घी प्रोक्षणी में टपका दीं। आहुति ब्रह्मा से \"अन्वारब्ध\" होके दिहल जाला — ब्रह्मा कुश से जजमान/आचार्य के छूवले रहेलन।"
+      },
+      "mantraIds": [
+        "pad-aghara-ajyabhaga"
+      ],
+      "samagriIds": [
+        "ghee",
+        "sruva",
+        "prokshani-patra"
+      ],
+      "panditSays": {
+        "hi": "अब आहुतियाँ शुरू — मैं मंत्र बोलूँगा, \"स्वाहा\" पर आप भी \"स्वाहा\" कहें और घी अग्नि में जाने दें।",
+        "en": "Now the oblations begin — I will say the mantra; at \"svaha\" you too say \"svaha\" and let the ghee go into the fire.",
+        "bho": "अब आहुति सुरू — हम मंत्र बोलब, \"स्वाहा\" पर रउआ भी \"स्वाहा\" कहीं आ घी आगि में जाए दीं।"
+      },
+      "note": {
+        "hi": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.3–4: \"अन्वारब्ध आघारावाज्यभागौ महाव्याहृतयः सर्वप्रायश्चित्तं प्राजापत्यं स्विष्टकृच्च — एतन्नित्यं सर्वत्र\" (यह क्रम हर होम में नियम है)। चरण 9–11 और 14 इसी सूत्र का विस्तार हैं; बीच का प्रधान होम (चरण 12–13) 1.5.6 का \"आवाप-स्थान\" है।",
+        "en": "The [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.3–4: \"with the brahma touching: the aghara and ajyabhaga pair, the mahavyahritis, the sarvaprayashchitta, the prajapatya and the svishtakrit — this is the rule everywhere\". Steps 9–11 and 14 expand this sutra; the main homa in between (steps 12–13) is the \"place of insertion\" of 1.5.6.",
+        "bho": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.3–4: \"अन्वारब्ध आघारावाज्यभागौ महाव्याहृतयः सर्वप्रायश्चित्तं प्राजापत्यं स्विष्टकृच्च — एतन्नित्यं सर्वत्र\" (ई क्रम हर होम में नियम बा)। चरन 9–11 आ 14 एही सूत्र के बिस्तार बा; बीच के प्रधान होम (चरन 12–13) 1.5.6 के \"आवाप-स्थान\" बा।"
+      }
+    },
+    {
+      "n": 10,
+      "part": "ahuti",
+      "layer": "vedic",
+      "minutes": 2,
+      "action": {
+        "hi": "महाव्याहृति होम — तीन आहुतियाँ: \"ॐ भूः स्वाहा । इदमग्नये न मम\", \"ॐ भुवः स्वाहा । इदं वायवे न मम\", \"ॐ स्वः स्वाहा । इदं सूर्याय न मम\"। सबसे छोटे घरेलू हवन में (जैसे [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) की नित्यहोम-विधि) होम इन्हीं तीन से शुरू होता है।",
+        "en": "The mahavyahriti homa — three oblations: \"om bhuh svaha, idam agnaye na mama\", \"om bhuvah svaha, idam vayave na mama\", \"om svah svaha, idam suryaya na mama\". In the smallest household havan (such as the daily homa of the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur)) the homa begins with just these three.",
+        "bho": "महाव्याहृति होम — तीन आहुति: \"ॐ भूः स्वाहा । इदमग्नये न मम\", \"ॐ भुवः स्वाहा । इदं वायवे न मम\", \"ॐ स्वः स्वाहा । इदं सूर्याय न मम\"। सबसे छोट घर के हवन में (जइसे [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) के नित्यहोम-विधि) होम एही तीन से सुरू होला।"
+      },
+      "mantraIds": [
+        "pad-mahavyahriti-homa"
+      ],
+      "samagriIds": [
+        "ghee",
+        "sruva"
+      ],
+      "panditSays": {
+        "hi": "ॐ भूः स्वाहा … ॐ भुवः स्वाहा … ॐ स्वः स्वाहा — तीन लोकों के लिए तीन आहुतियाँ।",
+        "en": "Om bhuh svaha … om bhuvah svaha … om svah svaha — three oblations for the three worlds.",
+        "bho": "ॐ भूः स्वाहा … ॐ भुवः स्वाहा … ॐ स्वः स्वाहा — तीन लोक खातिर तीन आहुति।"
+      }
+    },
+    {
+      "n": 11,
+      "part": "ahuti",
+      "layer": "vedic",
+      "minutes": 5,
+      "action": {
+        "hi": "सर्वप्रायश्चित्त (पंचवारुणी) होम — पाँच आहुतियाँ, हर एक के बाद उसका त्याग-वाक्य: (1) \"त्वं नो अग्ने वरुणस्य विद्वान्…\" (VS 21.3) — इदमग्नीवरुणाभ्यां न मम; (2) \"स त्वं नो अग्नेऽवमो भवोती…\" (VS 21.4) — इदमग्नीवरुणाभ्यां न मम; (3) \"अयाश्चाग्नेऽस्यनभिशस्तिपाश्च…\" — इदमग्नये न मम; (4) \"ये ते शतं वरुण…\" — इदं वरुणाय सवित्रे विष्णवे विश्वेभ्यो देवेभ्यो मरुद्भ्यः स्वर्केभ्यश्च न मम; (5) \"उदुत्तमं वरुण पाशमस्मद्…\" (VS 12.12) — इदं वरुणायादित्यायादितये न मम। अंत में यजमान जल का स्पर्श करे और प्रणीता का थोड़ा जल अपने ऊपर छिड़के।",
+        "en": "The sarvaprayashchitta (panchavaruni) homa — five oblations, each followed by its renunciation: (1) \"tvam no agne varunasya vidvan …\" (VS 21.3) — idam agni-varunabhyam na mama; (2) \"sa tvam no agne avamo bhavoti …\" (VS 21.4) — idam agni-varunabhyam na mama; (3) \"ayashchagne asy anabhishastipash cha …\" — idam agnaye na mama; (4) \"ye te shatam varuna …\" — idam varunaya savitre vishnave vishvebhyo devebhyo marudbhyah svarkebhyash cha na mama; (5) \"ud uttamam varuna pasham asmad …\" (VS 12.12) — idam varunayadityayaditaye na mama. At the end the yajaman touches water and sprinkles a little pranita water on himself.",
+        "bho": "सर्वप्रायश्चित्त (पंचवारुणी) होम — पाँच आहुति, हर एक के बाद ओकर त्याग-वाक्य: (1) \"त्वं नो अग्ने वरुणस्य विद्वान्…\" (VS 21.3) — इदमग्नीवरुणाभ्यां न मम; (2) \"स त्वं नो अग्नेऽवमो भवोती…\" (VS 21.4) — इदमग्नीवरुणाभ्यां न मम; (3) \"अयाश्चाग्नेऽस्यनभिशस्तिपाश्च…\" — इदमग्नये न मम; (4) \"ये ते शतं वरुण…\" — इदं वरुणाय सवित्रे विष्णवे विश्वेभ्यो देवेभ्यो मरुद्भ्यः स्वर्केभ्यश्च न मम; (5) \"उदुत्तमं वरुण पाशमस्मद्…\" (VS 12.12) — इदं वरुणायादित्यायादितये न मम। अंत में जजमान जल के स्पर्श करे आ प्रणीता के तनी जल आपन ऊपर छींटे।"
+      },
+      "mantraIds": [
+        "vs-21-3",
+        "vs-21-4",
+        "pad-ayashchagne",
+        "pad-ye-te-shatam-varuna",
+        "vs-12-12"
+      ],
+      "samagriIds": [
+        "ghee",
+        "sruva",
+        "pranita-patra"
+      ],
+      "panditSays": {
+        "sa": "यथा बाणप्रहाराणां कवचं भवति वारणम् । तथा दैवोपघातानां शान्तिर्भवति वारिणा ॥",
+        "hi": "ये वरुण की पाँच आहुतियाँ हैं — जो भूल जाने-अनजाने हो, उसकी शांति के लिए। अंत में जल छू लें।",
+        "en": "These are the five oblations to Varuna — for the appeasing of whatever fault happens, knowingly or not. Touch water at the end.",
+        "bho": "ई वरुण के पाँच आहुति बा — जे भूल जानत-अनजानत होखे, ओकर शांति खातिर। अंत में जल छू लीं।"
+      },
+      "note": {
+        "hi": "पद्धतियाँ इसे \"पंचवारुणी\" कहती हैं क्योंकि पाँचों आहुतियाँ वरुण से जुड़ी हैं; \"यथा बाणप्रहाराणां…\" श्लोक जल छिड़कने के समय का है (वासिष्ठी और विवाह-पद्धति दोनों में)। तीसरा और चौथा मंत्र शुक्ल यजुर्वेद संहिता में नहीं हैं — उनके पृष्ठ पर यह लिखा है।",
+        "en": "The handbooks call this the \"panchavaruni\" because all five oblations concern Varuna; the shloka \"yatha banapraharanam …\" accompanies the sprinkling (in both the Vasishthi and the wedding handbook). The third and fourth mantras are not in the Shukla Yajurveda Samhita — their pages say so.",
+        "bho": "पद्धति एकरा \"पंचवारुणी\" कहेला काहे कि पाँचो आहुति वरुण से जुड़ल बा; \"यथा बाणप्रहाराणां…\" श्लोक जल छींटे घरी के बा (वासिष्ठी आ बियाह-पद्धति दुनो में)। तीसरा आ चउथा मंत्र शुक्ल यजुर्वेद संहिता में नइखे — उनका पन्ना पर ई लिखल बा।"
+      }
+    },
+    {
+      "n": 12,
+      "part": "ahuti",
+      "layer": "paddhati",
+      "minutes": 10,
+      "action": {
+        "hi": "गणपति, [[navagraha]] और आवाहित देवताओं की आहुतियाँ: पूजा में जो देवता स्थापित हुए हैं — गणेश-अंबिका, कलश के वरुण, [[shodash-matrika]], नवग्रह, [[dikpal]] आदि — उनमें से हर एक के लिए उसके मंत्र के अंत में \"स्वाहा\" जोड़कर एक-एक (या तीन-तीन) आहुति दी जाती है और फिर \"इदं (देवता) न मम\"। गणेश के लिए \"ॐ गणानां त्वा…\" (VS 23.19); नवग्रहों के लिए नौ वैदिक मंत्र — सूर्य \"आ कृष्णेन रजसा\" (VS 33.43), चंद्र \"इमं देवा असपत्नम्\" (VS 10.18), मंगल \"अग्निर्मूर्धा\" (VS 3.12), बुध \"उद्बुध्यस्वाग्ने\" (VS 15.54), गुरु \"बृहस्पते अति यदर्यः\" (VS 26.3), शुक्र \"अन्नात्परिस्रुतः\" (VS 19.75), शनि \"शं नो देवीः\" (VS 36.12), राहु \"कया नश्चित्रः\" (VS 27.39), केतु \"केतुं कृण्वन्\" (VS 29.37) — हर ग्रह की अपनी समिधा घी में डुबोकर (अर्क, पलाश, खैर, अपामार्ग, पीपल, गूलर, शमी, दूर्वा, कुश — इसी क्रम में)। पूरा विवरण [नवग्रह स्थापना-पूजन](/occasions/navagraha-sthapana-pujan/) पर।",
+        "en": "Oblations to Ganapati, the navagraha and the invoked deities: for each deity established in the puja — Ganesha and Ambika, Varuna of the kalasha, the sixteen matrikas, the nine planets, the dikpalas and so on — one (or three) oblations are given with \"svaha\" added at the end of its mantra, then \"idam (deity) na mama\". For Ganesha \"om gananam tva …\" (VS 23.19); for the nine planets the nine Vedic mantras — Surya \"a krishnena rajasa\" (VS 33.43), Chandra \"imam deva asapatnam\" (VS 10.18), Mangala \"agnir murdha\" (VS 3.12), Budha \"ud budhyasvagne\" (VS 15.54), Guru \"brihaspate ati yad aryah\" (VS 26.3), Shukra \"annat parisrutah\" (VS 19.75), Shani \"sham no devih\" (VS 36.12), Rahu \"kaya nash chitrah\" (VS 27.39), Ketu \"ketum krinvan\" (VS 29.37) — each planet with its own fuel stick dipped in ghee (arka, palasha, khadira, apamarga, pipal, gular, shami, durva, kusha, in that order). Full detail on the [navagraha sthapana-pujan](/occasions/navagraha-sthapana-pujan/) page.",
+        "bho": "गणपति, [[navagraha]] आ आवाहित देवता लोग के आहुति: पूजा में जे देवता थिर भइल बाड़न — गणेश-अंबिका, कलश के वरुण, [[shodash-matrika]], नवग्रह, [[dikpal]] आदि — ओह में हर एक खातिर उनकर मंत्र के अंत में \"स्वाहा\" जोड़ के एक-एक (भा तीन-तीन) आहुति दिहल जाला आ फेर \"इदं (देवता) न मम\"। गणेश खातिर \"ॐ गणानां त्वा…\" (VS 23.19); नवग्रह खातिर नौ वैदिक मंत्र — सूर्य \"आ कृष्णेन रजसा\" (VS 33.43), चंद्र \"इमं देवा असपत्नम्\" (VS 10.18), मंगल \"अग्निर्मूर्धा\" (VS 3.12), बुध \"उद्बुध्यस्वाग्ने\" (VS 15.54), गुरु \"बृहस्पते अति यदर्यः\" (VS 26.3), शुक्र \"अन्नात्परिस्रुतः\" (VS 19.75), शनि \"शं नो देवीः\" (VS 36.12), राहु \"कया नश्चित्रः\" (VS 27.39), केतु \"केतुं कृण्वन्\" (VS 29.37) — हर ग्रह के आपन समिधा घी में डुबा के (अर्क, पलास, खैर, अपामार्ग, पीपर, गूलर, शमी, दूब, कुश — एही क्रम में)। पूरा बिस्तार [नवग्रह स्थापना-पूजन](/occasions/navagraha-sthapana-pujan/) पर।"
+      },
+      "mantraIds": [
+        "vs-23-19",
+        "vs-33-43",
+        "vs-10-18",
+        "vs-3-12",
+        "vs-15-54",
+        "vs-26-3",
+        "vs-19-75",
+        "vs-36-12",
+        "vs-27-39",
+        "vs-29-37"
+      ],
+      "samagriIds": [
+        "ghee",
+        "sruva",
+        "navagraha-samidha",
+        "havan-samagri"
+      ],
+      "panditSays": {
+        "hi": "अब जिन देवताओं की पूजा हुई, सबको आहुति — हर मंत्र पर \"स्वाहा\"। ग्रहों की समिधा मैं दूँगा, आप घी-सामग्री डालें।",
+        "en": "Now an oblation to every deity who was worshipped — \"svaha\" at each mantra. I will put in the planets' fuel sticks; you add the ghee and the mixture.",
+        "bho": "अब जे देवता लोग के पूजा भइल, सभे के आहुति — हर मंत्र पर \"स्वाहा\"। ग्रह के समिधा हम देब, रउआ घी-सामान डालीं।"
+      },
+      "note": {
+        "hi": "नवग्रह-समिधाओं का यह क्रम [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) के श्लोक \"अर्कः पलाशः खदिरो ह्यपामार्गोऽथ पिप्पलः । उदुंबरः शमी दूर्वाः कुशाश्च समिधः क्रमात्\" से है। आवाहित देवताओं की संख्या पूजा के विस्तार पर निर्भर है — घर के छोटे हवन में गणेश और नवग्रह ही होते हैं। ग्रहों की आहुति यहाँ परंपरा का अंग है; साइट किसी फल का दावा नहीं करती।",
+        "en": "This order of the planets' fuel sticks comes from the shloka of the [Vasishthi Havan Paddhati](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller), \"arkah palashah khadiro hy apamargo 'tha pippalah, udumbarah shami durvah kushash cha samidhah kramat\". How many invoked deities there are depends on the size of the puja — a small household havan has only Ganesha and the nine planets. The oblations to the planets are described here as part of the tradition; the site claims no result from them.",
+        "bho": "नवग्रह-समिधा के ई क्रम [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) के श्लोक \"अर्कः पलाशः खदिरो ह्यपामार्गोऽथ पिप्पलः । उदुम्बरः शमी दूर्वाः कुशाश्च समिधः क्रमात्\" से बा। आवाहित देवता लोग के गिनती पूजा के बिस्तार पर टिकल बा — घर के छोट हवन में गणेश आ नवग्रह ही होलन। ग्रह के आहुति इहाँ परंपरा के अंग बा; साइट कवनो फल के दावा ना करे।"
+      }
+    },
+    {
+      "n": 13,
+      "part": "ahuti",
+      "layer": "paddhati",
+      "minutes": 30,
+      "important": true,
+      "action": {
+        "hi": "प्रधान होम — जिस देवता या जिस उद्देश्य के लिए हवन है, उसका मुख्य मंत्र: हर मंत्र के अंत में \"स्वाहा\" और आहुति — घी के साथ हवन-सामग्री, तिल, जौ और चावल (या जिस होम में जो हवि नियत हो)। परिवार का सबसे प्रचलित प्रधान मंत्र गायत्री \"ॐ भूर्भुवः स्वः तत्सवितुर्वरेण्यम्…\" (VS 36.3) है; शांति-कर्म में महामृत्युंजय, नवग्रह-शांति में उस ग्रह का मंत्र, विवाह में लाजा-होम के मंत्र, और [[sankalp]] में कहा गया इष्ट-मंत्र। आहुतियों की संख्या परंपरा से 108, 28 या 11 (बड़े अनुष्ठान में 1008 या अधिक) — यजमान पत्नी के साथ दाहिने हाथ की उँगलियों (अनामिका-मध्यमा-अँगूठा) से सामग्री डाले, परिवार के लोग पीछे से \"स्वाहा\" कहते हुए साथ दें। बीच में आसन न छोड़ें; एक ही लय रखें।",
+        "en": "The main homa — the chief mantra of the deity or purpose for which the havan is held: \"svaha\" at the end of every mantra and an oblation — the havan mixture with ghee, sesame, barley and rice (or whatever offering is prescribed for that homa). The commonest main mantra of a family is the Gayatri \"om bhur bhuvah svah tat savitur varenyam …\" (VS 36.3); the Mahamrityunjaya in a shanti rite, the planet's own mantra in a navagraha-shanti, the laja-homa mantras at a wedding, and the chosen mantra named in the sankalpa. The number of oblations by tradition is 108, 28 or 11 (1,008 or more in a large rite) — the yajaman with his wife puts in the mixture with the ring finger, middle finger and thumb of the right hand, and the family joins from behind saying \"svaha\". Do not leave the seat in between; keep one steady rhythm.",
+        "bho": "प्रधान होम — जे देवता भा जे मकसद खातिर हवन बा, ओकर मुख्य मंत्र: हर मंत्र के अंत में \"स्वाहा\" आ आहुति — घी संगे हवन-सामान, तिल, जौ आ चाउर (भा जे होम में जे हवि तय होखे)। परिवार के सबसे चलनसार प्रधान मंत्र गायत्री \"ॐ भूर्भुवः स्वः तत्सवितुर्वरेण्यम्…\" (VS 36.3) बा; शांति-काम में महामृत्युंजय, नवग्रह-शांति में ओह ग्रह के मंत्र, बियाह में लाजा-होम के मंत्र, आ [[sankalp]] में कहल इष्ट-मंत्र। आहुति के गिनती परंपरा से 108, 28 भा 11 (बड़ अनुष्ठान में 1008 भा बेसी) — जजमान मेहरारू संगे दाहिना हाथ के अँगुरी (अनामिका-मध्यमा-अँगूठा) से सामान डाले, परिवार के लोग पाछे से \"स्वाहा\" कहत संगे रहसु। बीच में आसन ना छोड़ीं; एके लय राखीं।"
+      },
+      "mantraIds": [
+        "vs-36-3"
+      ],
+      "samagriIds": [
+        "havan-samagri",
+        "til",
+        "jau",
+        "chawal",
+        "ghee",
+        "sruva"
+      ],
+      "panditSays": {
+        "hi": "अब प्रधान होम — 108 आहुतियाँ। मैं मंत्र बोलता जाऊँगा, हर \"स्वाहा\" पर सामग्री और थोड़ा घी अग्नि में डालें; \"इदं … न मम\" मैं कहूँगा।",
+        "en": "Now the main homa — 108 oblations. I will keep saying the mantra; at every \"svaha\" put the mixture and a little ghee into the fire; I will say \"idam … na mama\".",
+        "bho": "अब प्रधान होम — 108 आहुति। हम मंत्र बोलत जाइब, हर \"स्वाहा\" पर सामान आ तनी घी आगि में डालीं; \"इदं … न मम\" हम कहब।"
+      },
+      "note": {
+        "hi": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.6 कहता है कि विवाह में सर्वप्रायश्चित्त और प्राजापत्य के बीच \"आवाप-स्थान\" है — यानी उस कर्म की अपनी आहुतियाँ यहीं आती हैं; पद्धतियाँ इसी स्थान पर हर हवन का प्रधान होम रखती हैं। 108 की संख्या परंपरा है, शास्त्र की गिनती नहीं; समय कम हो तो 28 या 11 भी पोथियों में मान्य हैं। आहुति बेर या आँवले के बराबर हो — न बहुत बड़ी, न छिटकी हुई।",
+        "en": "The [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.6 says that at a wedding the \"place of insertion\" lies between the sarvaprayashchitta and the prajapatya — the rite's own oblations come here; the handbooks put the main homa of every havan in this place. The number 108 is tradition, not a scriptural count; when time is short the handbooks also accept 28 or 11. An oblation is the size of a jujube or an amla — neither very large nor scattered.",
+        "bho": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.6 कहेला कि बियाह में सर्वप्रायश्चित्त आ प्राजापत्य के बीच \"आवाप-स्थान\" बा — माने ओह काम के आपन आहुति इहें आवेला; पद्धति एही जगह हर हवन के प्रधान होम राखेला। 108 के गिनती परंपरा बा, सास्त्र के गिनती ना; समय कम होखे त 28 भा 11 भी पोथी में मान्य बा। आहुति बेर भा आँवला बराबर होखे — ना बेसी बड़, ना छिटकल।"
+      }
+    },
+    {
+      "n": 14,
+      "part": "samapan",
+      "layer": "vedic",
+      "minutes": 4,
+      "important": true,
+      "action": {
+        "hi": "प्राजापत्य और [[swishtakrit]] होम: प्रधान होम पूरा होने पर पहले \"ॐ प्रजापतये स्वाहा । इदं प्रजापतये न मम\" (प्राजापत्य आहुति) और फिर \"ॐ अग्नये स्विष्टकृते स्वाहा । इदमग्नये स्विष्टकृते न मम\" — यज्ञ को अच्छी तरह पूरा करने वाले अग्नि के लिए। इसके बाद [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) के क्रम से छह पाप-नाशक आहुतियाँ \"ॐ देवकृतस्यैनसोऽवयजनमसि स्वाहा…\" (VS 8.13 के छह वाक्य, हर एक के बाद \"इदमग्नये न मम\")।",
+        "en": "The prajapatya and svishtakrit homa: when the main homa is complete, first \"om prajapataye svaha, idam prajapataye na mama\" (the prajapatya oblation) and then \"om agnaye svishtakrite svaha, idam agnaye svishtakrite na mama\" — to Agni who makes the offering well made. Then, following the order of the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur), the six expiatory oblations \"om devakritasyainaso avayajanam asi svaha …\" (the six sentences of VS 8.13, each followed by \"idam agnaye na mama\").",
+        "bho": "प्राजापत्य आ [[swishtakrit]] होम: प्रधान होम पूरा भइला पर पहिले \"ॐ प्रजापतये स्वाहा । इदं प्रजापतये न मम\" (प्राजापत्य आहुति) आ फेर \"ॐ अग्नये स्विष्टकृते स्वाहा । इदमग्नये स्विष्टकृते न मम\" — यज्ञ के नीक से पूरा करे वाला अग्नि खातिर। एकरा बाद [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) के क्रम से छह पाप-नासक आहुति \"ॐ देवकृतस्यैनसोऽवयजनमसि स्वाहा…\" (VS 8.13 के छह वाक्य, हर एक के बाद \"इदमग्नये न मम\")।"
+      },
+      "mantraIds": [
+        "pad-aghara-ajyabhaga",
+        "pad-agnaye-svishtakrite",
+        "vs-8-13"
+      ],
+      "samagriIds": [
+        "ghee",
+        "sruva"
+      ],
+      "panditSays": {
+        "hi": "प्रधान होम पूर्ण हुआ। अब स्विष्टकृत् — जो कमी रह गई हो, उसकी पूर्ति के लिए — और छह प्रायश्चित्त आहुतियाँ।",
+        "en": "The main homa is complete. Now the svishtakrit — to make good whatever fell short — and the six expiatory oblations.",
+        "bho": "प्रधान होम पूरा भइल। अब स्विष्टकृत् — जे कमी रह गइल होखे, ओकर पूर्ति खातिर — आ छह प्रायश्चित्त आहुति।"
+      },
+      "note": {
+        "hi": "प्राजापत्य आहुति का वाक्य आघार की पहली आहुति वाला ही है, इसलिए वही अभिलेख जोड़ा गया है।",
+        "en": "The sentence of the prajapatya oblation is the same as the first aghara oblation, so that record is linked here.",
+        "bho": "प्राजापत्य आहुति के वाक्य आघार के पहिला आहुति वाला ही बा, एही से उहे अभिलेख जोड़ल गइल बा।"
+      }
+    },
+    {
+      "n": 15,
+      "part": "samapan",
+      "layer": "vedic",
+      "minutes": 3,
+      "action": {
+        "hi": "संस्रव-प्राशन, ब्रह्मग्रंथि-विमोक, मार्जन और प्रणीता-विमोक: (क) आहुतियों के बीच प्रोक्षणी में टपकाया गया घी (संस्रव) यजमान थोड़ा-सा चखे, आचमन करे, हाथ धोए; (ख) ब्रह्मा के हाथ की कुश-गाँठ (ब्रह्म-ग्रंथि) खोल दी जाए; (ग) पवित्री लेकर \"ॐ सुमित्रिया न आप ओषधयः संतु\" (VS 6.22) कहते हुए प्रणीता के जल से यजमान के सिर पर मार्जन; (घ) \"दुर्मित्रियास्तस्मै संतु…\" (दोसरा आधा) कहते हुए प्रणीता का जल ईशान कोण में गिराकर पात्र उलट दें; (ङ) पवित्री अग्नि में छोड़ दें (पवित्र-प्रतिपत्ति)।",
+        "en": "Sipping the remnant, untying the brahma-granthi, the sprinkling and the pranita-vimoka: (a) the yajaman tastes a little of the ghee that was dripped into the prokshani between oblations (samsrava), sips water and washes his hands; (b) the kusha knot in the brahma's hand (brahma-granthi) is untied; (c) with the pavitri the pandit sprinkles pranita water on the yajaman's head saying \"om sumitriya na apa oshadhayah santu\" (VS 6.22); (d) saying \"durmitriyas tasmai santu yo asman dveshti yam cha vayam dvishmah\" he pours the pranita water out to the north-east and turns the vessel over; (e) the pavitris are dropped into the fire (pavitra-pratipatti).",
+        "bho": "संस्रव-प्राशन, ब्रह्मग्रंथि-विमोक, मार्जन आ प्रणीता-विमोक: (क) आहुति के बीच प्रोक्षणी में टपकावल घी (संस्रव) जजमान तनी-सा चीखे, आचमन करे, हाथ धोवे; (ख) ब्रह्मा के हाथ के कुश-गाँठ (ब्रह्म-ग्रंथि) खोल दिहल जाए; (ग) पवित्री लेके \"ॐ सुमित्रिया…\" (VS 6.22 के पहिला आधा) कहत प्रणीता के जल से जजमान के माथा पर मार्जन; (घ) \"दुर्मित्रियास्तस्मै संतु…\" (दोसरा आधा) कहत प्रणीता के जल ईशान कोन में गिरा के बरतन उलट दीं; (ङ) पवित्री आगि में छोड़ दीं (पवित्र-प्रतिपत्ति)।"
+      },
+      "mantraIds": [
+        "vs-6-22"
+      ],
+      "samagriIds": [
+        "prokshani-patra",
+        "pranita-patra",
+        "kush"
+      ],
+      "panditSays": {
+        "hi": "यजमान जी, यह घी थोड़ा चखें — यह संस्रव है; आचमन करें। अब सिर झुकाएँ, मार्जन करता हूँ।",
+        "en": "Yajaman ji, taste a little of this ghee — it is the samsrava; sip water. Now bow your head, I do the sprinkling.",
+        "bho": "जजमान जी, ई घी तनी चीखीं — ई संस्रव बा; आचमन करीं। अब माथा झुकाईं, मार्जन करत बानी।"
+      }
+    },
+    {
+      "n": 16,
+      "part": "samapan",
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "पूर्णपात्र-दान: चावल (या जौ) से भरा पात्र, जिस पर दक्षिणा रखी हो, ब्रह्मा को देने का संकल्प — यह \"कृताकृतावेक्षण\" (कर्म की देख-रेख) का प्रतिफल है। ब्रह्मा लेकर \"ॐ स्वस्ति\" कहता है। इसके बाद उपयमन-कुशों से उलटे रखे प्रणीता-पात्र के बचे जल से \"ॐ आपः शिवाः शिवतमाः शांताः शांततमास्तास्ते कृण्वंतु भेषजम्\" कहते हुए एक बार और मार्जन, और उपयमन-कुश अग्नि में।",
+        "en": "The gift of the purnapatra: a sankalpa to give the brahma the vessel filled with rice (or barley) with the dakshina on it — the return for his \"kritakritavekshana\", the overseeing of the rite. The brahma takes it and says \"om svasti\". Then one more sprinkling with the water left in the upturned pranita vessel, using the upayamana kusha and saying \"om apah shivah shivatamah shantah shantatamas tas te krinvantu bheshajam\", and the upayamana kusha go into the fire.",
+        "bho": "पूर्णपात्र-दान: चाउर (भा जौ) से भरल बरतन, जेकरा पर दक्षिणा राखल होखे, ब्रह्मा के देबे के संकल्प — ई \"कृताकृतावेक्षन\" (काम के देख-रेख) के बदला बा। ब्रह्मा लेके \"ॐ स्वस्ति\" कहेलन। एकरा बाद उपयमन-कुश से उलटा राखल प्रणीता-बरतन के बाचल जल से \"ॐ आपः शिवाः शिवतमाः शांताः शांततमास्तास्ते कृण्वंतु भेषजम्\" कहत एक बेर अउर मार्जन, आ उपयमन-कुश आगि में।"
+      },
+      "samagriIds": [
+        "purnapatra",
+        "dakshina",
+        "kush"
+      ],
+      "panditSays": {
+        "sa": "ॐ अद्य कृतैतत् {कर्म}होमकर्मणि कृताकृतावेक्षणरूपकर्मप्रतिष्ठार्थम् इदं पूर्णपात्रं सदक्षिणाकं प्रजापतिदैवतं {गोत्र}गोत्राय {नाम}शर्मणे ब्राह्मणाय तुभ्यमहं सम्प्रददे ।",
+        "hi": "यह पूर्णपात्र दक्षिणा के साथ ब्रह्मा जी को — हाथ में जल लेकर संकल्प बोलें। (ब्रह्मा:) ॐ स्वस्ति।",
+        "en": "This purnapatra with the dakshina goes to the brahma — take water in your hand and say the sankalpa. (Brahma:) Om svasti.",
+        "bho": "ई पूर्णपात्र दक्षिणा संगे ब्रह्मा जी के — हाथ में जल लेके संकल्प बोलीं। (ब्रह्मा:) ॐ स्वस्ति।"
+      },
+      "note": {
+        "hi": "संकल्प-वाक्य और \"आपः शिवाः\" का मार्जन माध्यंदिन विवाह-पद्धति और [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) से हैं; पूर्णपात्र में परंपरा से 256 मुट्ठी अन्न कहा गया है, व्यवहार में एक भरा हुआ पात्र।",
+        "en": "The sankalpa sentence and the \"apah shivah\" sprinkling come from the Madhyandina wedding handbook and the [Vasishthi Havan Paddhati](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller); tradition speaks of 256 handfuls of grain for the purnapatra, in practice one full vessel.",
+        "bho": "संकल्प-वाक्य आ \"आपः शिवाः\" के मार्जन माध्यंदिन बियाह-पद्धति आ [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) से बा; पूर्णपात्र में परंपरा से 256 मुट्ठी अन्न कहल गइल बा, व्यवहार में एक भरल बरतन।"
+      }
+    },
+    {
+      "n": 17,
+      "part": "samapan",
+      "layer": "vedic",
+      "minutes": 5,
+      "important": true,
+      "action": {
+        "hi": "[[purnahuti]]: यजमान पत्नी के साथ खड़ा हो, हाथ में जल लेकर पूर्णाहुति का संकल्प बोले; फिर आचार्य का दाहिना कंधा छूते हुए पान-सुपारी और अक्षत से भरा नारियल (या घी से लबालब स्रुवा) अग्नि में दे — पंडित \"ॐ पूर्णा दर्वि परा पत…\" (VS 3.49) और \"ॐ सप्त ते अग्ने समिधः…\" (VS 17.79) पढ़े, और अधिकतर पोथियों में \"ॐ पूर्णमदः पूर्णमिदम्…\" भी; \"स्वाहा\" पर सब एक साथ \"स्वाहा\" कहें। बचा हुआ घी और हवन-सामग्री भी इसी समय अग्नि में डाल दी जाती है। इसके बाद हाथ जोड़कर \"ॐ अग्ने नय सुपथा…\" (VS 5.36) की प्रार्थना।",
+        "en": "The purnahuti: the yajaman stands with his wife, takes water in his hand and says the sankalpa of the purnahuti; then, touching the acharya's right shoulder, he gives to the fire a coconut filled with betel and rice grains (or a ladle brimming with ghee) — the pandit recites \"om purna darvi para pata …\" (VS 3.49) and \"om sapta te agne samidhah …\" (VS 17.79), and in most handbooks \"om purnam adah purnam idam …\" as well; at \"svaha\" all say \"svaha\" together. The remaining ghee and havan mixture are put into the fire at the same time. Then, with folded hands, the prayer \"om agne naya supatha …\" (VS 5.36).",
+        "bho": "[[purnahuti]]: जजमान मेहरारू संगे ठाड़ होखे, हाथ में जल लेके पूर्णाहुति के संकल्प बोले; फेर आचार्य के दाहिना कान्ह छूवत पान-सुपारी आ अछत से भरल नरियर (भा घी से लबालब स्रुवा) आगि में दे — पंडित \"ॐ पूर्णा दर्वि परा पत…\" (VS 3.49) आ \"ॐ सप्त ते अग्ने समिधः…\" (VS 17.79) पढ़सु, आ ढेर पोथी में \"ॐ पूर्णमदः पूर्णमिदम्…\" भी; \"स्वाहा\" पर सभे एक संगे \"स्वाहा\" कहसु। बाचल घी आ हवन-सामान भी एही घरी आगि में डाल दिहल जाला। एकरा बाद हाथ जोड़ के \"ॐ अग्ने नय सुपथा…\" (VS 5.36) के प्रार्थना।"
+      },
+      "mantraIds": [
+        "vs-3-49",
+        "vs-17-79",
+        "pad-purnamadah-purnamidam",
+        "vs-5-36"
+      ],
+      "samagriIds": [
+        "nariyal",
+        "paan-supari",
+        "akshat",
+        "ghee",
+        "sruva",
+        "havan-samagri"
+      ],
+      "panditSays": {
+        "sa": "ॐ अद्य कृतस्य {कर्म}होमकर्मणः परिपूर्णतासिद्ध्यर्थं पूर्णाहुतिं करिष्ये ।",
+        "hi": "पूर्णाहुति — यजमान और यजमानी खड़े हो जाएँ, मेरा दाहिना कंधा छूएँ; नारियल हाथ में। \"स्वाहा\" पर सब बोलें — स्वाहा!",
+        "en": "The purnahuti — yajaman and yajamani, stand up and touch my right shoulder; the coconut in hand. At \"svaha\" everyone say — svaha!",
+        "bho": "पूर्णाहुति — जजमान आ जजमानी ठाड़ हो जाईं, हमार दाहिना कान्ह छूईं; नरियर हाथ में। \"स्वाहा\" पर सभे बोलीं — स्वाहा!"
+      },
+      "note": {
+        "hi": "[वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) का पूर्णाहुति-संकल्प कर्म का नाम और कामना लेकर \"… पूर्णाहुतिहोममहं करिष्ये\" कहता है; यहाँ का संक्षिप्त रूप उसी पर आधारित है। कुछ पंडित पूर्णाहुति से पहले \"अग्ने नय सुपथा\" पढ़ते हैं, कुछ बाद में।",
+        "en": "The purnahuti sankalpa of the [Vasishthi Havan Paddhati](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) names the rite and the intention and ends \"… purnahuti-homam aham karishye\"; the short form here is based on it. Some pandits recite \"agne naya supatha\" before the purnahuti, some after.",
+        "bho": "[वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) के पूर्णाहुति-संकल्प काम के नाँव आ कामना लेके \"… पूर्णाहुतिहोममहं करिष्ये\" कहेला; इहाँ के संछेप रूप ओही पर आधारित बा। कुछ पंडित पूर्णाहुति से पहिले \"अग्ने नय सुपथा\" पढ़ेलन, कुछ बाद में।"
+      }
+    },
+    {
+      "n": 18,
+      "part": "samapan",
+      "layer": "paddhati",
+      "minutes": 10,
+      "action": {
+        "hi": "[[vasordhara]] (बड़े हवन में): पूर्णाहुति के बाद पात्र से घी की पतली, अखंड धारा अग्नि पर गिराई जाती है और पंडित शुक्ल यजुर्वेद के अठारहवें अध्याय के \"वाजश्च मे प्रसवश्च मे…\" (VS 18.1–29) पढ़ते हैं — यही [रुद्राष्टाध्यायी](https://sa.wikisource.org/wiki/रुद्राष्टाध्यायी) का आठवाँ अध्याय है। घर के छोटे हवन में यह चरण छोड़ दिया जाता है या पहले मंत्र के साथ थोड़ा घी डाल दिया जाता है। धारा के लिए अलग से घी (लगभग 250 ग्राम से 1 किलो, आहुतियों के अनुपात में) रखें।",
+        "en": "The vasordhara (in a larger havan): after the purnahuti a thin, unbroken stream of ghee is poured on the fire from a vessel while the pandit recites \"vajash cha me prasavash cha me …\" of the eighteenth adhyaya of the Shukla Yajurveda (VS 18.1–29) — the eighth chapter of the [Rudrashtadhyayi](https://sa.wikisource.org/wiki/रुद्राष्टाध्यायी). In a small household havan this step is left out, or a little ghee is poured with the first mantra. Keep separate ghee for the stream (about 250 g to 1 kg, in proportion to the oblations).",
+        "bho": "[[vasordhara]] (बड़ हवन में): पूर्णाहुति के बाद बरतन से घी के पातर, अखंड धार आगि पर गिरावल जाला आ पंडित शुक्ल यजुर्वेद के अठारहवाँ अध्याय के \"वाजश्च मे प्रसवश्च मे…\" (VS 18.1–29) पढ़ेलन — इहे [रुद्राष्टाध्यायी](https://sa.wikisource.org/wiki/रुद्राष्टाध्यायी) के आठवाँ अध्याय बा। घर के छोट हवन में ई चरन छोड़ दिहल जाला भा पहिला मंत्र संगे तनी घी डाल दिहल जाला। धार खातिर अलगा से घी (लगभग 250 ग्राम से 1 किलो, आहुति के अनुपात में) राखीं।"
+      },
+      "mantraIds": [
+        "vs-18-1"
+      ],
+      "samagriIds": [
+        "ghee",
+        "vasordhara-patra"
+      ],
+      "panditSays": {
+        "hi": "अब वसोर्धारा — घी की धारा बिना टूटे गिरती रहे; मैं अठारहवाँ अध्याय पढ़ता हूँ। धारा पतली रखें।",
+        "en": "Now the vasordhara — let the stream of ghee fall without breaking; I recite the eighteenth adhyaya. Keep the stream thin.",
+        "bho": "अब वसोर्धारा — घी के धार बिना टूटले गिरत रहे; हम अठारहवाँ अध्याय पढ़त बानी। धार पातर राखीं।"
+      },
+      "note": {
+        "hi": "[वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) की यज्ञ-सूची में वसोर्धारा नहीं है — यह बड़े शांति-कर्मों और [[rudrabhishek]]-सहित हवनों की रीति है, जिसे पोथियाँ \"वसोर्धारा\" नाम से जानती हैं; सप्तघृत-मातृका पूजन की \"वसोर्धारा\" (घी की सात धाराएँ) एक अलग चीज़ है।",
+        "en": "The rite-list of the [Vasishthi Havan Paddhati](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) has no vasordhara — it belongs to the larger shanti rites and to havans joined with a Rudrabhisheka, where the handbooks know it by this name; the \"vasordhara\" of the seven-ghee-matrika worship (seven lines of ghee) is a different thing.",
+        "bho": "[वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) के यज्ञ-सूची में वसोर्धारा नइखे — ई बड़ शांति-काम आ [[rudrabhishek]]-सहित हवन के रीति बा, जेकरा पोथी \"वसोर्धारा\" नाँव से जानेला; सप्तघृत-मातृका पूजन के \"वसोर्धारा\" (घी के सात धार) एक अलगा चीज बा।"
+      }
+    },
+    {
+      "n": 19,
+      "part": "samapan",
+      "layer": "vedic",
+      "minutes": 2,
+      "action": {
+        "hi": "बर्हिहोम: कुंड के चारों ओर बिछाए गए कुश (परिस्तरण) और बचे उपयमन-कुश घी में डुबोकर \"ॐ देवा गातुविदो गातुं वित्त्वा गातुमित…\" (VS 8.21) पढ़ते हुए अग्नि में छोड़ दें। यज्ञ की सामग्री अग्नि को वापस सौंपी जाती है; यहीं से विसर्जन का क्रम शुरू होता है।",
+        "en": "The barhir-homa: the kusha strewn around the kund (the paristarana) and the remaining upayamana kusha are dipped in ghee and dropped into the fire with \"om deva gatuvido gatum vittva gatum ita …\" (VS 8.21). The materials of the rite are handed back to the fire; from here the dismissal begins.",
+        "bho": "बर्हिहोम: कुंड के चारो ओर बिछावल कुश (परिस्तरन) आ बाचल उपयमन-कुश घी में डुबा के \"ॐ देवा गातुविदो गातुं वित्त्वा गातुमित…\" (VS 8.21) पढ़त आगि में छोड़ दीं। यज्ञ के सामान आगि के लवटा दिहल जाला; इहवें से विसर्जन के क्रम सुरू होला।"
+      },
+      "mantraIds": [
+        "vs-8-21"
+      ],
+      "samagriIds": [
+        "kush",
+        "ghee"
+      ],
+      "panditSays": {
+        "hi": "बिछाए हुए कुश उठाकर घी में डुबोकर अग्नि में — यह बर्हिहोम है।",
+        "en": "Lift the strewn kusha, dip them in ghee and into the fire — this is the barhir-homa.",
+        "bho": "बिछावल कुश उठा के घी में डुबा के आगि में — ई बर्हिहोम बा।"
+      }
+    },
+    {
+      "n": 20,
+      "part": "samapan",
+      "layer": "paddhati",
+      "minutes": 3,
+      "action": {
+        "hi": "[[bhasma-dharan]] (त्र्यायुष-करण): स्रुवा से कुंड की ठंडी भस्म लेकर पंडित अनामिका और अँगूठे से यजमान को चार स्थानों पर भस्म लगाता है — \"ॐ त्र्यायुषं जमदग्नेः\" ललाट पर, \"कश्यपस्य त्र्यायुषम्\" गले पर, \"यद्देवेषु त्र्यायुषम्\" दाहिने कंधे (भुजमूल) पर, \"तन्नो अस्तु त्र्यायुषम्\" हृदय पर (VS 3.62); फिर परिवार के लोग भी भस्म लगाते हैं। परंपरा में हवन की भस्म पवित्र मानी जाती है।",
+        "en": "Bhasma-dharana (tryayusha-karana): the pandit takes cooled ash from the kund with the ladle and applies it to the yajaman with ring finger and thumb in four places — \"om tryayusham jamadagneh\" on the forehead, \"kashyapasya tryayusham\" on the throat, \"yad deveshu tryayusham\" on the right shoulder, \"tan no astu tryayusham\" on the heart (VS 3.62); then the family too apply the ash. Tradition holds the ash of the havan sacred.",
+        "bho": "[[bhasma-dharan]] (त्र्यायुष-करन): स्रुवा से कुंड के ठंढा भस्म लेके पंडित अनामिका आ अँगूठा से जजमान के चार जगह भस्म लगावेलन — \"ॐ त्र्यायुषं जमदग्नेः\" माथा पर, \"कश्यपस्य त्र्यायुषम्\" गरदन पर, \"यद्देवेषु त्र्यायुषम्\" दाहिना कान्ह पर, \"तन्नो अस्तु त्र्यायुषम्\" छाती पर (VS 3.62); फेर परिवार के लोग भी भस्म लगावेला। परंपरा में हवन के भस्म पवित्र मानल जाला।"
+      },
+      "mantraIds": [
+        "vs-3-62"
+      ],
+      "samagriIds": [
+        "sruva"
+      ],
+      "panditSays": {
+        "hi": "भस्म लगाता हूँ — माथा, गला, दाहिना कंधा, हृदय। फिर घर के सब लोग।",
+        "en": "I apply the ash — forehead, throat, right shoulder, heart. Then everyone of the house.",
+        "bho": "भस्म लगावत बानी — माथा, गरदन, दाहिना कान्ह, छाती। फेर घर के सब लोग।"
+      },
+      "note": {
+        "hi": "चार स्थान [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) और [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) दोनों में यही हैं; भस्म बाद में ठंडी होने पर पौधों की जड़ में या बहते जल में छोड़ दी जाती है — यह लोकाचार है।",
+        "en": "The four places are the same in the [Vasishthi Havan Paddhati](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) and the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur); the ash, once cold, is later put at the root of plants or into flowing water — a folk custom.",
+        "bho": "चार जगह [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) आ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) दुनो में इहे बा; भस्म बाद में ठंढा भइला पर गाछ के जड़ में भा बहत जल में छोड़ दिहल जाला — ई लोकाचार बा।"
+      }
+    },
+    {
+      "n": 21,
+      "part": "samapan",
+      "layer": "paddhati",
+      "minutes": 3,
+      "action": {
+        "hi": "[[abhishek]]: पूजा के [[kalash]] के जल से दूर्वा-कुश या पंचपल्लव द्वारा \"ॐ देवस्य त्वा सवितुः प्रसवे…\" (VS 9.30) पढ़ते हुए यजमान, यजमानी और परिवार पर जल छिड़का जाता है; \"असौ\" की जगह पंडित यजमान का नाम लेता है। पोथियाँ इसके साथ आशीर्वाद के श्लोक (\"… कुर्वंतु वः पूर्णमनोरथं सदा\") पढ़ती हैं और उपस्थित लोग अक्षत-पुष्प छोड़ते हैं।",
+        "en": "The abhisheka: with the water of the puja kalasha the pandit sprinkles the yajaman, the yajamani and the family using durva, kusha or the five leaves, reciting \"om devasya tva savituh prasave …\" (VS 9.30); for \"asau\" he says the yajaman's name. The handbooks add verses of blessing (\"… kurvantu vah purnamanoratham sada\") and those present throw rice grains and flowers.",
+        "bho": "[[abhishek]]: पूजा के [[kalash]] के जल से दूब-कुश भा पंचपल्लव से \"ॐ देवस्य त्वा सवितुः प्रसवे…\" (VS 9.30) पढ़त जजमान, जजमानी आ परिवार पर जल छींटल जाला; \"असौ\" के जगह पंडित जजमान के नाँव लेलन। पोथी एकरा संगे आसीर्वाद के श्लोक (\"… कुर्वंतु वः पूर्णमनोरथं सदा\") पढ़ेला आ उपस्थित लोग अछत-फूल छोड़ेला।"
+      },
+      "mantraIds": [
+        "vs-9-30"
+      ],
+      "samagriIds": [
+        "kalash",
+        "durva",
+        "akshat",
+        "pushp"
+      ],
+      "panditSays": {
+        "hi": "सब सिर झुकाएँ — कलश के जल से अभिषेक। परिवार के लोग अक्षत-पुष्प हाथ में लें।",
+        "en": "Everyone bow your heads — the abhisheka with the kalasha water. Family, take rice grains and flowers in your hands.",
+        "bho": "सभे माथा झुकाईं — कलश के जल से अभिषेक। परिवार के लोग अछत-फूल हाथ में लीं।"
+      }
+    },
+    {
+      "n": 22,
+      "part": "samapan",
+      "layer": "paddhati",
+      "minutes": 8,
+      "action": {
+        "hi": "[[aarti]], [[mantra-pushpanjali]], [[pradakshina]] और [[kshama-prarthana]]: कपूर या घी की बत्ती से अग्नि और स्थापित देवताओं की आरती; हाथ में फूल-अक्षत लेकर \"ॐ यज्ञेन यज्ञमयजंत देवाः…\" (VS 31.16) से पुष्पांजलि; कुंड और देवताओं की प्रदक्षिणा (\"यानि कानि च पापानि…\"); और क्षमा-प्रार्थना। इन चारों की पूरी विधि और मंत्र [आरती, पुष्पांजलि, विसर्जन](/occasions/aarti-pushpanjali-visarjan/) पृष्ठ पर हैं।",
+        "en": "Aarti, mantra-pushpanjali, pradakshina and the prayer for forgiveness: the aarti of the fire and the established deities with camphor or a ghee wick; the flower offering with \"om yajnena yajnam ayajanta devah …\" (VS 31.16), flowers and rice grains in hand; the circumambulation of the kund and the deities (\"yani kani cha papani …\"); and the kshama-prarthana. The full method and mantras of all four are on the [aarti, pushpanjali, visarjana](/occasions/aarti-pushpanjali-visarjan/) page.",
+        "bho": "[[aarti]], [[mantra-pushpanjali]], [[pradakshina]] आ [[kshama-prarthana]]: कपूर भा घी के बाती से आगि आ थिर भइल देवता लोग के आरती; हाथ में फूल-अछत लेके \"ॐ यज्ञेन यज्ञमयजंत देवाः…\" (VS 31.16) से पुष्पांजलि; कुंड आ देवता लोग के परिक्रमा (\"यानि कानि च पापानि…\"); आ छमा-प्रार्थना। एह चारो के पूरा विधि आ मंत्र [आरती, पुष्पांजलि, विसर्जन](/occasions/aarti-pushpanjali-visarjan/) पन्ना पर बा।"
+      },
+      "mantraIds": [
+        "vs-31-16"
+      ],
+      "samagriIds": [
+        "kapur",
+        "deep",
+        "pushp",
+        "akshat"
+      ],
+      "panditSays": {
+        "hi": "आरती के लिए सब खड़े हो जाएँ। फिर हाथ में फूल-अक्षत — पुष्पांजलि।",
+        "en": "Everyone stand for the aarti. Then flowers and rice grains in hand — the pushpanjali.",
+        "bho": "आरती खातिर सभे ठाड़ हो जाईं। फेर हाथ में फूल-अछत — पुष्पांजलि।"
+      }
+    },
+    {
+      "n": 23,
+      "part": "samapan",
+      "layer": "paddhati",
+      "minutes": 3,
+      "action": {
+        "hi": "[[dakshina]]-संकल्प: यजमान हाथ में जल-अक्षत और द्रव्य लेकर आचार्य (और ब्रह्मा, तथा अन्य ऋत्विज हों तो उन) के लिए दक्षिणा का संकल्प बोलता है और देता है; अंत में \"भूयसी दक्षिणा\" — जो न्यूनता रह गई हो, उसकी पूर्ति के लिए थोड़ी और। दक्षिणा पहले से तय और सामर्थ्य के अनुसार हो; इस पर खुली बात [पंडित की शिष्टाचार-पुस्तिका](/occasions/pandit-shishtachar/) में है।",
+        "en": "The dakshina sankalpa: the yajaman, holding water, rice grains and the money, says the sankalpa of the dakshina for the acharya (and the brahma, and any other priests) and gives it; at the end the \"bhuyasi dakshina\" — a little more, to make good whatever fell short. The dakshina should be settled beforehand and according to means; the frank discussion of it is in the [pandit's etiquette handbook](/occasions/pandit-shishtachar/).",
+        "bho": "[[dakshina]]-संकल्प: जजमान हाथ में जल-अछत आ द्रव्य लेके आचार्य (आ ब्रह्मा, आ दोसरा ऋत्विज होखसु त उनका) खातिर दक्षिणा के संकल्प बोलेला आ देला; अंत में \"भूयसी दक्षिणा\" — जे कमी रह गइल होखे, ओकर पूर्ति खातिर तनी अउर। दक्षिणा पहिले से तय आ सामरथ के हिसाब से होखे; एह पर खुलल बात [पंडित के शिष्टाचार-पुस्तिका](/occasions/pandit-shishtachar/) में बा।"
+      },
+      "samagriIds": [
+        "dakshina",
+        "akshat",
+        "jal-patra"
+      ],
+      "panditSays": {
+        "sa": "ॐ अद्य कृतैतत् {कर्म}होमकर्मणः साङ्गतासिद्ध्यर्थम् आचार्याय मनसोद्दिष्टां दक्षिणां दातुमहमुत्सृजे ।",
+        "hi": "हाथ में जल और दक्षिणा लेकर संकल्प बोलें — \"आचार्याय … दक्षिणां दातुमहमुत्सृजे\"।",
+        "en": "Take water and the dakshina in your hand and say the sankalpa — \"acharyaya … dakshinam datum aham utsrije\".",
+        "bho": "हाथ में जल आ दक्षिणा लेके संकल्प बोलीं — \"आचार्याय … दक्षिणां दातुमहमुत्सृजे\"।"
+      },
+      "note": {
+        "hi": "संकल्प-वाक्य माध्यंदिन विवाह-पद्धति के \"आचार्य दक्षिणा\" वाक्य पर आधारित है। [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) का अंतिम श्लोक कहता है: \"ब्राह्मणेभ्यो धनं देयमाचार्याय विशेषतः\" — ब्राह्मणों को, और विशेषकर आचार्य को, धन दिया जाए।",
+        "en": "The sankalpa sentence is based on the \"acharya dakshina\" sentence of the Madhyandina wedding handbook. The last verse of the [Vasishthi Havan Paddhati](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) says: \"wealth is to be given to the Brahmins, and especially to the acharya\".",
+        "bho": "संकल्प-वाक्य माध्यंदिन बियाह-पद्धति के \"आचार्य दक्षिणा\" वाक्य पर आधारित बा। [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) के आखिरी श्लोक कहेला: \"ब्राह्मणेभ्यो धनं देयमाचार्याय विशेषतः\" — ब्राह्मन लोग के, आ खास कर आचार्य के, धन दिहल जाए।"
+      }
+    },
+    {
+      "n": 24,
+      "part": "samapan",
+      "layer": "paddhati",
+      "minutes": 5,
+      "action": {
+        "hi": "[[brahman-bhojan]], कर्म-समर्पण और समापन: ब्राह्मण-भोजन (और सामर्थ्य हो तो अन्न, वस्त्र या गोदान) का संकल्प — भोजन उसी दिन या बाद में कराया जाए; फिर यजमान हाथ में जल लेकर कर्म भगवान् को अर्पित करता है: \"अनेन {कर्म}होमकर्मणा श्रीपरमेश्वरः प्रीयताम् न मम\", \"ॐ तत्सद् ब्रह्मार्पणमस्तु\"; भगवान् विष्णु का तीन बार स्मरण (\"ॐ विष्णवे नमः\"); [शांतिपाठ](/occasions/shanti-path/) और [विसर्जन](/occasions/aarti-pushpanjali-visarjan/)। प्रसाद बाँटा जाए; कुंड की अग्नि को अपने आप शांत होने दें, पानी न डालें — ठंडी भस्म अगले दिन जल या पौधों में।",
+        "en": "Brahmana-bhojana, offering up the rite and the close: a sankalpa to feed Brahmins (and, as means allow, to give grain, cloth or a cow) — the meal may be given the same day or later; then the yajaman, water in hand, offers the rite to God: \"anena {karma}-homakarmana shri-parameshvarah priyatam na mama\", \"om tat sad brahmarpanam astu\"; Vishnu is remembered three times (\"om vishnave namah\"); the [shanti-patha](/occasions/shanti-path/) and the [visarjana](/occasions/aarti-pushpanjali-visarjan/). Prasad is shared; let the fire in the kund die down by itself, do not pour water on it — the cold ash goes into water or to plants the next day.",
+        "bho": "[[brahman-bhojan]], काम-समर्पन आ समापन: ब्राह्मन-भोजन (आ सामरथ होखे त अन्न, कपड़ा भा गोदान) के संकल्प — भोजन ओही दिन भा बाद में करावल जाए; फेर जजमान हाथ में जल लेके काम भगवान के अरपित करेला: \"अनेन {कर्म}होमकर्मणा श्रीपरमेश्वरः प्रीयताम् न मम\", \"ॐ तत्सद् ब्रह्मार्पणमस्तु\"; भगवान विष्णु के तीन बेर सुमिरन (\"ॐ विष्णवे नमः\"); [शांतिपाठ](/occasions/shanti-path/) आ [विसर्जन](/occasions/aarti-pushpanjali-visarjan/)। परसाद बाँटल जाए; कुंड के आगि खुदे सांत होखे दीं, पानी ना डालीं — ठंढा भस्म अगिला दिन जल भा गाछ में।"
+      },
+      "samagriIds": [
+        "jal-patra",
+        "dakshina",
+        "prasad-samagri"
+      ],
+      "panditSays": {
+        "sa": "ॐ अद्य कृतैतत् {कर्म}होमकर्मणः साङ्गतासिद्ध्यर्थं ब्राह्मणभोजनं कारयिष्ये । अनेन {कर्म}होमकर्मणा श्रीपरमेश्वरः प्रीयताम् न मम । ॐ तत्सद् ब्रह्मार्पणमस्तु ।",
+        "hi": "हाथ में जल लेकर — यह सारा कर्म भगवान् को अर्पित है, \"श्रीपरमेश्वरः प्रीयताम् न मम\"। अब शांतिपाठ।",
+        "en": "Water in hand — this whole rite is offered to God, \"shri-parameshvarah priyatam na mama\". Now the shanti-patha.",
+        "bho": "हाथ में जल लेके — ई सगरी काम भगवान के अरपित बा, \"श्रीपरमेश्वरः प्रीयताम् न मम\"। अब शांतिपाठ।"
+      },
+      "note": {
+        "hi": "\"अनेन … श्रीपरमेश्वरः प्रीयताम् न मम\" और \"ॐ तत्सद् ब्रह्मार्पणमस्तु\" [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) की नित्यहोम-विधि का समापन है; [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.2.13 भी अग्न्याधेय के अंत में \"ततो ब्राह्मणभोजनम्\" कहता है। [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) का अंतिम श्लोक ब्राह्मणों के साथ बंधु-बांधवों को भी भोजन कराने को कहता है।",
+        "en": "\"anena … shri-parameshvarah priyatam na mama\" and \"om tat sad brahmarpanam astu\" close the daily homa of the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur); the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.2.13 too ends the fire-installation with \"then the feeding of Brahmins\". The last verse of the [Vasishthi Havan Paddhati](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) says to feed one's kin as well as the Brahmins.",
+        "bho": "\"अनेन … श्रीपरमेश्वरः प्रीयताम् न मम\" आ \"ॐ तत्सद् ब्रह्मार्पणमस्तु\" [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) के नित्यहोम-विधि के समापन बा; [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.2.13 भी अग्न्याधेय के अंत में \"ततो ब्राह्मणभोजनम्\" कहेला। [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) के आखिरी श्लोक ब्राह्मन लोग संगे बंधु-बांधव के भी भोजन करावे के कहेला।"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "region": "deshachar / kulachar",
+      "source": "ws-pgs",
+      "what": {
+        "hi": "हवन का ढाँचा हर जगह एक है, पर आहुतियों की संख्या, समिधा की लकड़ी, नारियल बनाम घी की पूर्णाहुति, और भस्म लगाने की जगहें घर-घर अलग मिलती हैं। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.8.11–13 इसी के लिए कहता है \"ग्रामवचनं च कुर्युः … तस्मात्तयोर्ग्रामः प्रमाणमिति श्रुतेः\" — (विवाह और अंत्येष्टि में) गाँव का वचन भी माना जाए; गाँव (देशाचार, कुलाचार) ही प्रमाण है। आपके पंडित और आपके कुल की रीति इस पृष्ठ से अलग हो तो वह \"भेद\" है, भूल नहीं।",
+        "en": "The frame of the havan is the same everywhere, but the number of oblations, the wood of the fuel sticks, a coconut versus ghee for the purnahuti and the places where the ash is applied differ from house to house. The [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.8.11–13 says of this: \"and they should follow the word of the village … therefore the village is the authority in these two (marriage and funeral)\". Where your pandit's and your family's practice differs from this page, that is a variant, not an error.",
+        "bho": "हवन के ढाँचा हर जगह एके बा, बाकिर आहुति के गिनती, समिधा के लकड़ी, नरियर बनाम घी के पूर्णाहुति, आ भस्म लगावे के जगह घर-घर अलगा मिलेला। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.8.11–13 एही खातिर कहेला \"ग्रामवचनं च कुर्युः … तस्मात्तयोर्ग्रामः प्रमाणमिति श्रुतेः\" — (बियाह आ अंत्येष्टि में) गाँव के वचन भी मानल जाए; गाँव (देसाचार, कुलाचार) ही प्रमान बा। राउर पंडित आ राउर कुल के रीति एह पन्ना से अलगा होखे त ऊ \"भेद\" बा, भूल ना।"
+      }
+    },
+    {
+      "region": "nitya homa (ghar ka chhota havan)",
+      "source": "ia-nkpp-scan",
+      "what": {
+        "hi": "[नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) की नित्यहोम-विधि घर के रोज़ के छोटे होम का रूप देती है: पंचभूसंस्कार, \"अग्निं दूतं\" से अग्नि-स्थापन, परिस्तरण, \"चत्वारि शृंगा\" और \"मुखं यः\" से ध्यान-प्रणाम, \"पावकाग्नये नमः\" से पंचोपचार, फिर तीन व्याहृति-आहुतियाँ, गौतम-प्रोक्त पाँच आहुतियाँ (अग्नये, धन्वंतरये, विश्वेभ्यो देवेभ्यः, प्रजापतये, अग्नये स्विष्टकृते), VS 8.13 की छह आहुतियाँ, उत्तर-पूजा और \"सप्त ते अग्ने\" — कुल पंद्रह मिनट। न आचार्य-वरण, न पंचवारुणी, न पूर्णाहुति-नारियल।",
+        "en": "The daily-homa section of the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) gives the form of the small everyday homa at home: the five consecrations, placing the fire with \"agnim dutam\", strewing, meditation and homage with \"chatvari shringa\" and \"mukham yah\", the five-fold worship with \"pavakagnaye namah\", then three vyahriti oblations, the five oblations \"taught by Gautama\" (to Agni, Dhanvantari, the All-gods, Prajapati, Agni Svishtakrit), the six oblations of VS 8.13, the closing worship and \"sapta te agne\" — fifteen minutes in all. No selection of priests, no panchavaruni, no purnahuti coconut.",
+        "bho": "[नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) के नित्यहोम-विधि घर के रोज के छोट होम के रूप देला: पंचभूसंस्कार, \"अग्निं दूतं\" से अग्नि-स्थापन, परिस्तरन, \"चत्वारि शृङ्गा\" आ \"मुखं यः\" से ध्यान-परनाम, \"पावकाग्नये नमः\" से पंचोपचार, फेर तीन व्याहृति-आहुति, गौतम-प्रोक्त पाँच आहुति (अग्नये, धन्वंतरये, विश्वेभ्यो देवेभ्यः, प्रजापतये, अग्नये स्विष्टकृते), VS 8.13 के छह आहुति, उत्तर-पूजा आ \"सप्त ते अग्ने\" — कुल पंद्रह मिनट। ना आचार्य-वरन, ना पंचवारुणी, ना पूर्णाहुति-नरियर।"
+      }
+    },
+    {
+      "region": "bada havan (Vasishthi yajna-suchi)",
+      "source": "ia-vasishthi-havan-paddhati-1941",
+      "what": {
+        "hi": "बड़े हवन (शांति-कर्म, यज्ञ) की पूरी सूची [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) के अंत का \"यज्ञ-सूची\" श्लोक-समूह देता है: प्रतिज्ञा-संकल्प, स्वस्तिवाचन, पुण्याहवाचन, आचार्य आदि का वरण, रक्षा-विधान, कलश-स्थापन, गणेश-अंबिका पूजा, ग्रह-स्थापन, सर्वतोभद्र मंडल में ब्रह्मादि देवों का स्थापन-पूजन, षोडशमातृका, चौंसठ योगिनी, क्षेत्रपाल; फिर समिद्विधान, कुशकंडिका, अग्न्यावाहन, महाव्याहृति-पूर्वक होम, पंचवारुणी, नवग्रह-लोकपाल-दिक्पाल होम, प्रधान होम, सर्वतोभद्र देवताओं का होम, दिक्पाल-ग्रहों की दधि-माष बलि, स्विष्टकृत्, पूर्णपात्र-दान, ब्रह्मग्रंथि-विमोक, मार्जन, गोदान, पूर्णाहुति, बर्हिहोम, भस्म-त्र्यायुष, प्रदक्षिणा, पुष्पांजलि, दान, अभिषेक, विसर्जन, ब्राह्मण और बंधु-भोजन। यह पृष्ठ उसी सूची का \"हवन\" भाग है; पूर्व-पूजा के अंग अपने पृष्ठों पर हैं।",
+        "en": "The full list of a large havan (a shanti rite, a yajna) is in the \"yajna-suchi\" verses closing the [Vasishthi Havan Paddhati](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller): opening sankalpa, svasti-vachana, punyaha-vachana, selection of priests, protective rites, kalasha sthapana, Ganesha-Ambika puja, placing the planets, Brahma and the gods in the sarvatobhadra diagram, sixteen matrikas, sixty-four yoginis, kshetrapala; then laying the fuel, kushakandika, invoking the fire, the homa from the mahavyahritis, panchavaruni, homa to planets and guardians, the main homa, homa to the sarvatobhadra deities, bali to dikpalas and planets, svishtakrit, purnapatra, untying the brahma-granthi, sprinkling, gift of a cow, purnahuti, barhir-homa, ash, circumambulation, pushpanjali, gifts, abhisheka, dismissal, and the meal for Brahmins and kin. This page is the \"havan\" part of that list.",
+        "bho": "बड़ हवन (शांति-काम, यज्ञ) के पूरा सूची [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) के अंत के \"यज्ञ-सूची\" श्लोक-समूह देला: प्रतिज्ञा-संकल्प, स्वस्तिवाचन, पुण्याहवाचन, आचार्य आदि के वरन, रच्छा-विधान, कलश-स्थापन, गणेश-अंबिका पूजा, ग्रह-स्थापन, सर्वतोभद्र मंडल में ब्रह्मादि देवता के स्थापन-पूजन, षोडशमातृका, चौंसठ योगिनी, क्षेत्रपाल; फेर समिद्विधान, कुशकंडिका, अग्न्यावाहन, महाव्याहृति-पूर्वक होम, पंचवारुणी, नवग्रह-लोकपाल-दिक्पाल होम, प्रधान होम, सर्वतोभद्र देवता के होम, दिक्पाल-ग्रह के दही-उड़द बलि, स्विष्टकृत्, पूर्णपात्र-दान, ब्रह्मग्रंथि-विमोक, मार्जन, गोदान, पूर्णाहुति, बर्हिहोम, भस्म-त्र्यायुष, परिक्रमा, पुष्पांजलि, दान, अभिषेक, विसर्जन, ब्राह्मण आ बंधु-भोजन। ई पन्ना ओही सूची के \"हवन\" भाग बा; पहिले के पूजा के अंग आपन पन्ना पर बा।"
+      }
+    },
+    {
+      "region": "Arya Samaj",
+      "source": "ia-agnihotra-arya-pratinidhi-jk",
+      "what": {
+        "hi": "आर्य समाज का हवन (अग्निहोत्र / \"यज्ञ\") दयानंद सरस्वती की सुधारवादी परंपरा का है और [अग्निहोत्र हवन विधि (आर्य प्रतिनिधि सभा)](https://archive.org/details/agnihotra-havan-vidhi-arya-pratinidhi-sabha-jk) जैसी पुस्तिकाओं से चलता है: देव-मूर्ति, कलश और नवग्रह-पूजन नहीं, केवल वैदिक मंत्र — \"ओम् अयं त इध्म आत्मा जातवेदः…\" से समिधा-आहुति, \"ओम् अदिते अनुमन्यस्व\" आदि से वेदी के चारों ओर जल-सेचन, \"ओम् भूरग्नये प्राणाय स्वाहा\" जैसी आहुतियाँ, फिर \"आठ अष्टाज्याहुतियाँ\" जो \"त्वं नो अग्ने वरुणस्य विद्वान्\" (VS 21.3) से शुरू होती हैं, और गायत्री की आहुतियाँ। यह इस पृष्ठ के माध्यंदिन पद्धति-हवन से अलग परंपरा है, पर व्याहृति और वरुण-मंत्रों का ढाँचा दोनों में साझा है।",
+        "en": "The Arya Samaj havan (agnihotra / \"yajna\") belongs to the reformist tradition of Dayananda Saraswati and follows booklets such as the [Agnihotra Havan Vidhi (Arya Pratinidhi Sabha)](https://archive.org/details/agnihotra-havan-vidhi-arya-pratinidhi-sabha-jk): no images, no kalasha, no worship of the planets, Vedic mantras only — fuel-stick oblations with \"om ayam ta idhma atma jatavedah …\", the sprinkling of water around the altar with \"om adite anumanyasva\" and the like, oblations such as \"om bhur agnaye pranaya svaha\", then the \"eight ashtajyahutis\" that begin with \"tvam no agne varunasya vidvan\" (VS 21.3), and the Gayatri oblations. It is a tradition distinct from the Madhyandina handbook havan of this page, though the frame of the vyahritis and the Varuna mantras is shared.",
+        "bho": "आर्य समाज के हवन (अग्निहोत्र / \"यज्ञ\") दयानंद सरस्वती के सुधारवादी परंपरा के बा आ [अग्निहोत्र हवन विधि (आर्य प्रतिनिधि सभा)](https://archive.org/details/agnihotra-havan-vidhi-arya-pratinidhi-sabha-jk) जइसन पुस्तिका से चलेला: देव-मूरति, कलश आ नवग्रह-पूजन ना, खाली वैदिक मंत्र — \"ओम् अयं त इध्म आत्मा जातवेदः…\" से समिधा-आहुति, \"ओम् अदिते अनुमन्यस्व\" आदि से बेदी के चारो ओर जल-सेचन, \"ओम् भूरग्नये प्राणाय स्वाहा\" जइसन आहुति, फेर \"आठ अष्टाज्याहुति\" जे \"त्वं नो अग्ने वरुणस्य विद्वान्\" (VS 21.3) से सुरू होला, आ गायत्री के आहुति। ई एह पन्ना के माध्यंदिन पद्धति-हवन से अलगा परंपरा बा, बाकिर व्याहृति आ वरुण-मंत्र के ढाँचा दुनो में साझा बा।"
+      }
+    }
+  ],
+  "faq": [
+    {
+      "q": {
+        "hi": "हवन, होम और यज्ञ में क्या अंतर है?",
+        "en": "What is the difference between havan, homa and yajna?",
+        "bho": "हवन, होम आ यज्ञ — एह तीनो में का अंतर बा?"
+      },
+      "a": {
+        "hi": "\"होम\" संस्कृत शब्द है — अग्नि में हवि डालना; \"हवन\" उसी का हिंदी रूप है और उत्तर भारत में घरेलू होम के लिए यही शब्द चलता है। \"यज्ञ\" बड़ा शब्द है — श्रौत यज्ञ (अग्निहोत्र से अश्वमेध तक, तीन अग्नियों वाले) और गृह्य होम (एक अग्नि, घर का चूल्हा या कुंड) दोनों उसमें आते हैं। इस पृष्ठ का हवन गृह्य परंपरा का है — [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.1.1 इसे \"गृह्यस्थालीपाक\" का कर्म कहता है। बोलचाल में \"यज्ञ\" कई दिनों के बड़े अनुष्ठान (लक्ष-चंडी, कोटि-होम) के लिए रखा जाता है।",
+        "en": "\"Homa\" is the Sanskrit word — pouring the offering into the fire; \"havan\" is its Hindi form and the usual word in North India for the household homa. \"Yajna\" is the larger word — both the Shrauta sacrifices (from the agnihotra to the horse sacrifice, with three fires) and the domestic homa (one fire, the household hearth or a kund) fall under it. The havan of this page belongs to the domestic (grihya) tradition — the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.1.1 calls it the rite of the \"grihya sthalipaka\". In everyday speech \"yajna\" is kept for the large rites of several days (laksha-chandi, koti-homa).",
+        "bho": "\"होम\" संस्कृत सब्द बा — आगि में हवि डालल; \"हवन\" ओही के हिंदी रूप बा आ उत्तर भारत में घर के होम खातिर इहे सब्द चलेला। \"यज्ञ\" बड़ सब्द बा — स्रौत यज्ञ (अग्निहोत्र से अश्वमेध तक, तीन आगि वाला) आ गृह्य होम (एक आगि, घर के चूल्हा भा कुंड) दुनो ओह में आवेला। एह पन्ना के हवन गृह्य परंपरा के बा — [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.1.1 एकरा \"गृह्यस्थालीपाक\" के काम कहेला। बोलचाल में \"यज्ञ\" कई दिन के बड़ अनुष्ठान (लक्ष-चंडी, कोटि-होम) खातिर राखल जाला।"
+      }
+    },
+    {
+      "q": {
+        "hi": "\"स्वाहा\" और \"इदं … न मम\" का क्या अर्थ है?",
+        "en": "What do \"svaha\" and \"idam … na mama\" mean?",
+        "bho": "\"स्वाहा\" आ \"इदं … न मम\" के का अरथ बा?"
+      },
+      "a": {
+        "hi": "\"स्वाहा\" आहुति का वचन है — \"अच्छी तरह अर्पित हो\" — जो हर मंत्र के अंत में बोला जाता है और जिसके साथ हवि अग्नि में गिरती है; परिवार के लोग यही शब्द साथ बोलते हैं। \"इदं (देवता) न मम\" — \"यह उस देवता का है, मेरा नहीं\" — हर आहुति के बाद का त्याग-वाक्य है: दिया हुआ अब मेरा नहीं रहा। यही दो शब्द यज्ञ का सार हैं — देना और दावा छोड़ना।",
+        "en": "\"Svaha\" is the word of offering — \"may it be well offered\" — said at the end of every mantra as the offering falls into the fire; it is the word the family says together. \"Idam (deity) na mama\" — \"this is that deity's, not mine\" — is the renunciation after each oblation: what is given is no longer mine. These two phrases are the heart of the yajna — to give, and to give up the claim.",
+        "bho": "\"स्वाहा\" आहुति के बोली बा — \"नीक से अरपित होखे\" — जे हर मंत्र के अंत में बोलल जाला आ जेकरा संगे हवि आगि में गिरेला; परिवार के लोग इहे सब्द संगे बोलेला। \"इदं (देवता) न मम\" — \"ई ओह देवता के बा, हमार ना\" — हर आहुति के बाद के त्याग-वाक्य बा: दिहल चीज अब हमार ना रहल। इहे दू सब्द यज्ञ के सार बा — देबे के आ दावा छोड़े के।"
+      }
+    },
+    {
+      "q": {
+        "hi": "108 आहुतियाँ ही क्यों? कम समय हो तो?",
+        "en": "Why 108 oblations? What if time is short?",
+        "bho": "108 आहुति ही काहे? समय कम होखे त?"
+      },
+      "a": {
+        "hi": "108 परंपरा की संख्या है — माला के 108 मनकों की तरह — शास्त्र की नहीं; [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) आहुतियों की कोई गिनती नहीं देता। पोथियाँ प्रधान होम के लिए 108, 28 या 11 और बड़े अनुष्ठान में 1008 या उससे अधिक लिखती हैं। समय कम हो तो 28 या 11 से प्रधान होम पूरा करें, पर आघार, व्याहृति, पंचवारुणी, स्विष्टकृत् और पूर्णाहुति न छोड़ें — वे ही हवन का ढाँचा हैं।",
+        "en": "108 is a number of tradition — like the 108 beads of a mala — not of scripture; the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) gives no count of oblations. The handbooks write 108, 28 or 11 for the main homa and 1,008 or more for a large rite. When time is short, complete the main homa with 28 or 11, but do not drop the aghara, the vyahritis, the panchavaruni, the svishtakrit and the purnahuti — they are the frame of the havan.",
+        "bho": "108 परंपरा के गिनती बा — माला के 108 मनका जइसन — सास्त्र के ना; [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) आहुति के कवनो गिनती ना देला। पोथी प्रधान होम खातिर 108, 28 भा 11 आ बड़ अनुष्ठान में 1008 भा ओकरा से बेसी लिखेला। समय कम होखे त 28 भा 11 से प्रधान होम पूरा करीं, बाकिर आघार, व्याहृति, पंचवारुणी, स्विष्टकृत् आ पूर्णाहुति ना छोड़ीं — उहे हवन के ढाँचा बा।"
+      }
+    },
+    {
+      "q": {
+        "hi": "समिधा कौन-सी लकड़ी की हो? और आहुति में क्या डालें?",
+        "en": "Which wood for the fuel sticks? And what goes into the oblation?",
+        "bho": "समिधा कवन लकड़ी के होखे? आ आहुति में का डालीं?"
+      },
+      "a": {
+        "hi": "पोथियाँ आम, पलाश, पीपल, बेल, शमी, खैर, गूलर, अपामार्ग, दूर्वा और कुश को समिधा के योग्य मानती हैं — बालिश्त-भर लंबी, सूखी, बिना छाल और कीड़े की; नवग्रह-आहुति के लिए हर ग्रह की अपनी लकड़ी (चरण 12)। आहुति में घी के साथ \"हवन-सामग्री\" (तिल, जौ, चावल, मेवे, शक्कर, जड़ी-बूटियाँ) डाली जाती है; केवल घी की आहुतियाँ स्रुवा से दी जाती हैं। प्लास्टिक, रंगीन कागज़, पैकेट — कुछ भी अग्नि में न डालें। आहुति का परिमाण बेर या आँवले के बराबर हो।",
+        "en": "The handbooks count mango, palash, pipal, bel, shami, khadira, gular, apamarga, durva and kusha as fit for fuel sticks — a span long, dry, without bark or worms; for the oblations to the planets each planet's own wood (step 12). The oblation is the \"havan mixture\" (sesame, barley, rice, dry fruits, sugar, herbs) with ghee; oblations of ghee alone are given with the ladle. Put no plastic, coloured paper or packets into the fire. An oblation is the size of a jujube or an amla.",
+        "bho": "पोथी आम, पलास, पीपर, बेल, शमी, खैर, गूलर, अपामार्ग, दूब आ कुश के समिधा जोग मानेला — बित्ता-भर लमहर, सूखल, बिना छाल आ कीड़ा के; नवग्रह-आहुति खातिर हर ग्रह के आपन लकड़ी (चरन 12)। आहुति में घी संगे \"हवन-सामान\" (तिल, जौ, चाउर, मेवा, चीनी, जड़ी-बूटी) डालल जाला; खाली घी के आहुति स्रुवा से दिहल जाला। प्लास्टिक, रंगीन कागज, पैकेट — कुछुओ आगि में ना डालीं। आहुति के नाप बेर भा आँवला बराबर होखे।"
+      }
+    },
+    {
+      "q": {
+        "hi": "क्या बिना पंडित के हवन हो सकता है?",
+        "en": "Can a havan be done without a pandit?",
+        "bho": "का बिना पंडित के हवन हो सकेला?"
+      },
+      "a": {
+        "hi": "रोज़ का छोटा होम — तीन व्याहृति-आहुतियाँ या गायत्री की कुछ आहुतियाँ — गृहस्थ स्वयं करते हैं; [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) की नित्यहोम-विधि इसी के लिए है, और इस साइट के मंत्र-पृष्ठ (स्वर, पदच्छेद, अर्थ) इसमें सहायक हैं। संस्कार या शांति-कर्म का पूरा हवन — कुशकंडिका, पंचवारुणी, नवग्रह-आहुति, पूर्णाहुति — परंपरा में आचार्य ही कराता है, क्योंकि मंत्रों का स्वर और क्रम सीखने की चीज़ है; \"पंडित बनो\" पथ का उद्देश्य यही सिखाना है। आप मंत्र साथ-साथ पढ़ना शुरू करें — पंडित इससे प्रसन्न ही होते हैं।",
+        "en": "The small daily homa — three vyahriti oblations or a few oblations with the Gayatri — householders do themselves; the daily-homa section of the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) is meant for just that, and the mantra pages of this site (accents, word split, meaning) help with it. The full havan of a samskara or a shanti rite — kushakandika, panchavaruni, oblations to the planets, purnahuti — is by tradition conducted by an acharya, because the accent and order of the mantras have to be learnt; teaching that is the purpose of the \"Pandit Bano\" path. Start by reciting the mantras along with him — pandits are glad of it.",
+        "bho": "रोज के छोट होम — तीन व्याहृति-आहुति भा गायत्री के कुछ आहुति — गृहस्थ खुदे करेलन; [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) के नित्यहोम-विधि एही खातिर बा, आ एह साइट के मंत्र-पन्ना (सुर, पदच्छेद, अरथ) एह में मदद करेला। संस्कार भा शांति-काम के पूरा हवन — कुशकंडिका, पंचवारुणी, नवग्रह-आहुति, पूर्णाहुति — परंपरा में आचार्य ही करावेलन, काहे कि मंत्र के सुर आ क्रम सीखे के चीज बा; \"पंडित बनीं\" पथ के मकसद इहे सिखावल बा। रउआ मंत्र संगे-संगे पढ़ल सुरू करीं — पंडित लोग एह से खुसे होला।"
+      }
+    },
+    {
+      "q": {
+        "hi": "हवन की भस्म और बची सामग्री का क्या करें?",
+        "en": "What is done with the ash and the leftover materials?",
+        "bho": "हवन के भस्म आ बाचल सामान के का करीं?"
+      },
+      "a": {
+        "hi": "अग्नि को अपने आप शांत होने दें — पानी न डालें। ठंडी भस्म का थोड़ा भाग त्र्यायुष (चरण 20) के लिए पहले ही निकाल लिया जाता है; शेष भस्म लोकाचार में अगले दिन बहते जल, तुलसी या किसी पौधे की जड़ में डाली जाती है या घर में \"रक्षा\" के रूप में रखी जाती है — यह परंपरा है, कोई नियम नहीं। बची हवन-सामग्री अगले हवन के लिए रख लें या पक्षियों को दे दें; कुश और फूल जल या पौधों में।",
+        "en": "Let the fire die down by itself — do not pour water on it. A little of the cold ash is taken out beforehand for the tryayusha (step 20); the rest, by folk custom, goes the next day into flowing water, to the root of a tulsi or another plant, or is kept in the house as a \"raksha\" — this is custom, not a rule. Leftover havan mixture is kept for the next havan or given to birds; kusha and flowers go to water or plants.",
+        "bho": "आगि के खुदे सांत होखे दीं — पानी ना डालीं। ठंढा भस्म के तनी भाग त्र्यायुष (चरन 20) खातिर पहिलहीं निकाल लिहल जाला; बाकी भस्म लोकाचार में अगिला दिन बहत जल, तुलसी भा कवनो गाछ के जड़ में डालल जाला भा घर में \"रच्छा\" के रूप में राखल जाला — ई परंपरा बा, कवनो नियम ना। बाचल हवन-सामान अगिला हवन खातिर राख लीं भा चिरई के दे दीं; कुश आ फूल जल भा गाछ में।"
+      }
+    },
+    {
+      "q": {
+        "hi": "हवन में कितना समय लगता है और कौन-कौन बैठे?",
+        "en": "How long does a havan take, and who sits where?",
+        "bho": "हवन में केतना समय लागेला आ के-के बइठे?"
+      },
+      "a": {
+        "hi": "कुशकंडिका 15–20 मिनट, आघार से पंचवारुणी तक 10 मिनट, नवग्रह-देवता आहुतियाँ 10 मिनट, 108 आहुतियों का प्रधान होम 25–30 मिनट, समापन (स्विष्टकृत् से विसर्जन) 25–30 मिनट — कुल डेढ़ घंटे के आसपास; शांति-कर्म और विवाह में ज़्यादा। यजमान पूर्व या उत्तर मुख कुंड के सामने, पत्नी उसके साथ, आचार्य यजमान के पास, ब्रह्मा कुंड के दक्षिण में, प्रणीता-पात्र कुंड के उत्तर में; परिवार पीछे। बच्चों को धुएँ और कुंड से दूर बैठाएँ।",
+        "en": "The kushakandika 15–20 minutes, the aghara to the panchavaruni 10 minutes, the oblations to the planets and deities 10 minutes, a main homa of 108 oblations 25–30 minutes, the close (svishtakrit to dismissal) 25–30 minutes — about an hour and a half in all; longer in shanti rites and weddings. The yajaman sits before the kund facing east or north, his wife with him, the acharya beside the yajaman, the brahma south of the kund, the pranita vessel north of it; the family behind. Seat children away from the smoke and the kund.",
+        "bho": "कुशकंडिका 15–20 मिनट, आघार से पंचवारुणी तक 10 मिनट, नवग्रह-देवता आहुति 10 मिनट, 108 आहुति के प्रधान होम 25–30 मिनट, समापन (स्विष्टकृत् से विसर्जन) 25–30 मिनट — कुल डेढ़ घंटा के आस-पास; शांति-काम आ बियाह में बेसी। जजमान पूरब भा उत्तर मुँह कुंड के सोझा, मेहरारू ओकरा संगे, आचार्य जजमान लगे, ब्रह्मा कुंड के दक्खिन, प्रणीता-बरतन कुंड के उत्तर; परिवार पाछे। लरिका लोग के धुआँ आ कुंड से दूर बइठाईं।"
+      }
+    }
+  ],
+  "sources": [
+    "ws-pgs",
+    "ws-syv-02",
+    "ws-syv-03",
+    "ws-syv-05",
+    "ws-syv-06",
+    "ws-syv-08",
+    "ws-syv-09",
+    "ws-syv-12",
+    "ws-syv-17",
+    "ws-syv-18",
+    "ws-syv-21",
+    "ws-syv-22",
+    "ws-brihadaranyaka-5p",
+    "ws-shatapatha-14-8-1",
+    "ia-vasishthi-havan-paddhati-1941",
+    "ia-nkpp-scan",
+    "ia-vivah-mvf",
+    "ia-agnihotra-arya-pratinidhi-jk",
+    "titus-vs",
+    "ia-sbe29",
+    "ws-rudrashtadhyayi"
+  ],
+  "tags": [
+    "foundations",
+    "havan",
+    "homa",
+    "agni",
+    "kushakandika",
+    "purnahuti"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "id": "vs-9-30",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 9.30",
+  "title": {
+    "hi": "अभिषेक — देवस्य त्वा सवितुः प्रसवे",
+    "en": "Devasya tva savituh prasave (the abhisheka)",
+    "bho": "अभिषेक — देवस्य त्वा सवितुः प्रसवे"
+  },
+  "devanagari": "दे॒वस्य॑ त्वा सवि॒तुः प्र॑स॒वेऽश्विनो॑र्बा॒हुभ्यां॑ पू॒ष्णो हस्ता॑भ्याम् । सर॑स्वत्यै वा॒चो य॒न्तुर्य॒न्त्रिये॑ दधामि॒ बृह॒स्पते॑ष्ट्वा॒ साम्रा॑ज्येना॒भि षि॑ञ्चाम्यसौ ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "देवस्य सवितुः प्रसवे",
+      "gloss": {
+        "hi": "सविता देव की प्रेरणा में",
+        "en": "at the impulse of the god Savitar",
+        "bho": "सविता देव के प्रेरना में"
+      }
+    },
+    {
+      "sa": "त्वा",
+      "gloss": {
+        "hi": "तुम्हें",
+        "en": "you",
+        "bho": "रउआ के"
+      }
+    },
+    {
+      "sa": "अश्विनोः बाहुभ्याम्",
+      "gloss": {
+        "hi": "अश्विनों की भुजाओं से",
+        "en": "with the arms of the Ashvins",
+        "bho": "अश्विन लोग के बाँह से"
+      }
+    },
+    {
+      "sa": "पूष्णः हस्ताभ्याम्",
+      "gloss": {
+        "hi": "पूषा के हाथों से",
+        "en": "with the hands of Pushan",
+        "bho": "पूषा के हाथ से"
+      }
+    },
+    {
+      "sa": "सरस्वत्यै वाचः",
+      "gloss": {
+        "hi": "सरस्वती (वाणी) के",
+        "en": "of Sarasvati, of speech",
+        "bho": "सरस्वती (बोली) के"
+      }
+    },
+    {
+      "sa": "यन्तुः यन्त्रिये",
+      "gloss": {
+        "hi": "नियामक के नियमन (ऐश्वर्य) में",
+        "en": "in the control of the controller",
+        "bho": "नियामक के नियमन (ऐश्वर्य) में"
+      }
+    },
+    {
+      "sa": "दधामि",
+      "gloss": {
+        "hi": "स्थापित करता हूँ",
+        "en": "I place",
+        "bho": "राखत बानी"
+      }
+    },
+    {
+      "sa": "बृहस्पतेः त्वा साम्राज्येन",
+      "gloss": {
+        "hi": "बृहस्पति के साम्राज्य से तुम्हें",
+        "en": "with the sovereignty of Brihaspati",
+        "bho": "बृहस्पति के साम्राज्य से रउआ के"
+      }
+    },
+    {
+      "sa": "अभि षिञ्चामि",
+      "gloss": {
+        "hi": "अभिषेक करता हूँ",
+        "en": "I anoint, I sprinkle",
+        "bho": "अभिषेक करत बानी"
+      }
+    },
+    {
+      "sa": "असौ",
+      "gloss": {
+        "hi": "\"अमुक\" — यहाँ नाम लिया जाता है",
+        "en": "\"so-and-so\" — the name is said here",
+        "bho": "\"अमुक\" — इहाँ नाँव लिहल जाला"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "सविता देव की प्रेरणा में, अश्विनों की भुजाओं और पूषा के हाथों से तुम्हें सरस्वती-वाणी के नियामक के नियमन में स्थापित करता हूँ; बृहस्पति के साम्राज्य से तुम्हारा, हे (अमुक), अभिषेक करता हूँ।",
+    "en": "At the impulse of the god Savitar, with the arms of the Ashvins and the hands of Pushan, I place you in the control of the controller of Sarasvati, speech; with the sovereignty of Brihaspati I anoint you, (so-and-so).",
+    "bho": "सविता देव के प्रेरना में, अश्विन लोग के बाँह आ पूषा के हाथ से रउआ के सरस्वती-बोली के नियामक के नियमन में राखत बानी; बृहस्पति के साम्राज्य से राउर, हे (अमुक), अभिषेक करत बानी।"
+  },
+  "explanation": {
+    "hi": "शुक्ल यजुर्वेद के नवें अध्याय (9.30) का यह यजुस् वाजपेय यज्ञ का अभिषेक-मंत्र है — महीधर कात्यायन (14.5.22) उद्धृत करते हैं कि होम से बचे द्रव्य से यजमान के सिर पर अभिषेक किया जाता है, और \"असौ\" की जगह यजमान का नाम बोला जाता है। उत्तर भारत के [[havan]] में यही मंत्र समापन के अभिषेक में आता है: [[purohit]] कलश के जल से दूर्वा-कुश या पंचपल्लव द्वारा यजमान और परिवार पर जल छिड़कता है — माध्यंदिन विवाह-पद्धति में वर-वधू का अभिषेक इसी से होता है, और [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) की यज्ञ-सूची में भी \"अभिषेक\" विसर्जन से ठीक पहले है। \"असौ\" के स्थान पर पंडित यजमान का नाम (संबोधन में) लेता है। \"सविता की प्रेरणा में, अश्विनों की भुजाओं और पूषा के हाथों से\" — यह सूत्र-वाक्य यजुर्वेद में बार-बार आता है और हर पवित्र कर्म की शुरुआत का ढंग है।",
+    "en": "This yajus of the ninth adhyaya of the Shukla Yajurveda (9.30) is the anointing mantra of the Vajapeya sacrifice — Mahidhara quotes Katyayana (14.5.22): the yajaman is sprinkled on the head with what is left of the offering, and the yajaman's name is spoken in place of \"asau\". In the North Indian havan the same mantra accompanies the closing abhisheka: the purohit sprinkles the kalasha water on the yajaman and the family with durva, kusha or the five leaves — the Madhyandina wedding handbook anoints bride and groom with it, and in the rite-list of the [Vasishthi Havan Paddhati](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) too the \"abhisheka\" comes just before the dismissal. For \"asau\" the pandit says the yajaman's name in the vocative. \"At the impulse of Savitar, with the arms of the Ashvins and the hands of Pushan\" is a formula that recurs throughout the Yajurveda and is the Vedic way of beginning any consecrating act.",
+    "bho": "शुक्ल यजुर्वेद के नवाँ अध्याय (9.30) के ई यजुस् वाजपेय यज्ञ के अभिषेक-मंत्र बा — महीधर कात्यायन (14.5.22) कहेलन कि होम से बाचल द्रव्य से जजमान के माथा पर अभिषेक कइल जाला, आ \"असौ\" के जगह जजमान के नाँव बोलल जाला। उत्तर भारत के [[havan]] में इहे मंत्र समापन के अभिषेक में आवेला: [[purohit]] कलश के जल से दूब-कुश भा पंचपल्लव से जजमान आ परिवार पर जल छींटेलन — माध्यंदिन बियाह-पद्धति में दुलहा-दुलहिन के अभिषेक एही से होला, आ [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) के यज्ञ-सूची में भी \"अभिषेक\" विसर्जन से ठीक पहिले बा। \"असौ\" के जगह पंडित जजमान के नाँव (संबोधन में) लेलन। \"सविता के प्रेरना में, अश्विन लोग के बाँह आ पूषा के हाथ से\" — ई सूत्र-वाक्य यजुर्वेद में बेर-बेर आवेला आ हर पवित्र काम सुरू करे के ढंग बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-09",
+    "retrieved": "2026-11-01",
+    "modified": "।। n ।। → ॥ and the verse number removed; line breaks removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "havan",
+    "abhishek"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

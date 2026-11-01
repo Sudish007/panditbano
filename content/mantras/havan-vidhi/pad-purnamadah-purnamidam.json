@@ -1,0 +1,121 @@
+{
+  "id": "pad-purnamadah-purnamidam",
+  "kind": "vedic",
+  "text": "brihadaranyaka-upanishad",
+  "locator": "BU 5.1.1 (Kanva) = Shatapatha 14.8.1 (Madhyandina)",
+  "title": {
+    "hi": "पूर्णाहुति — ॐ पूर्णमदः पूर्णमिदम्",
+    "en": "Om purnam adah purnam idam (the purnahuti verse)",
+    "bho": "पूर्णाहुति — ॐ पूर्णमदः पूर्णमिदम्"
+  },
+  "devanagari": "ॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते । पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥ ॐ शान्तिः शान्तिः शान्तिः ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "पूर्णम् अदः",
+      "gloss": {
+        "hi": "वह (परब्रह्म) पूर्ण है",
+        "en": "that (the Absolute) is full",
+        "bho": "ऊ (परब्रह्म) पूरा बा"
+      }
+    },
+    {
+      "sa": "पूर्णम् इदम्",
+      "gloss": {
+        "hi": "यह (जगत्) पूर्ण है",
+        "en": "this (the world) is full",
+        "bho": "ई (जगत) पूरा बा"
+      }
+    },
+    {
+      "sa": "पूर्णात्",
+      "gloss": {
+        "hi": "पूर्ण से",
+        "en": "from the full",
+        "bho": "पूरा से"
+      }
+    },
+    {
+      "sa": "पूर्णम् उदच्यते",
+      "gloss": {
+        "hi": "पूर्ण निकलता है",
+        "en": "the full proceeds",
+        "bho": "पूरा निकलेला"
+      }
+    },
+    {
+      "sa": "पूर्णस्य",
+      "gloss": {
+        "hi": "पूर्ण का",
+        "en": "of the full",
+        "bho": "पूरा के"
+      }
+    },
+    {
+      "sa": "पूर्णम् आदाय",
+      "gloss": {
+        "hi": "पूर्ण को लेकर (निकाल लेने पर)",
+        "en": "taking the full away",
+        "bho": "पूरा के लेके (निकाल लिहला पर)"
+      }
+    },
+    {
+      "sa": "पूर्णम् एव",
+      "gloss": {
+        "hi": "पूर्ण ही",
+        "en": "the full alone",
+        "bho": "पूरा ही"
+      }
+    },
+    {
+      "sa": "अवशिष्यते",
+      "gloss": {
+        "hi": "बच रहता है",
+        "en": "remains",
+        "bho": "बाचल रहेला"
+      }
+    },
+    {
+      "sa": "ॐ शान्तिः शान्तिः शान्तिः",
+      "gloss": {
+        "hi": "ॐ शांति, शांति, शांति",
+        "en": "Om peace, peace, peace",
+        "bho": "ॐ शांति, शांति, शांति"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "वह पूर्ण है, यह पूर्ण है; पूर्ण से पूर्ण निकलता है। पूर्ण से पूर्ण को निकाल लेने पर भी पूर्ण ही बच रहता है। ॐ शांति, शांति, शांति।",
+    "en": "That is full, this is full; from the full the full proceeds. Taking the full from the full, the full alone remains. Om peace, peace, peace.",
+    "bho": "ऊ पूरा बा, ई पूरा बा; पूरा से पूरा निकलेला। पूरा से पूरा के निकाल लिहला पर भी पूरा ही बाचल रहेला। ॐ शांति, शांति, शांति।"
+  },
+  "explanation": {
+    "hi": "यह प्रसिद्ध शांति-मंत्र शुक्ल यजुर्वेद संहिता का नहीं, [बृहदारण्यक उपनिषद्](https://sa.wikisource.org/wiki/बृहदारण्यक_उपनिषद्_5p) (काण्व 5.1.1) का है — वहाँ यह \"खं ब्रह्म\" वाले शांति-ब्राह्मण का आरंभ है; माध्यंदिन शाखा में यही वाक्य [शतपथ ब्राह्मण](https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A4%A4%E0%A4%AA%E0%A4%A5%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A5%8D%E0%A4%AE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%AE%E0%A5%8D_%E0%A5%A7%E0%A5%AA/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AE/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A5%8D%E0%A4%AE%E0%A4%A3%E0%A4%AE%E0%A5%8D_%E0%A5%A6%E0%A5%A7) 14.8.1 पर है, इसलिए यह शुक्ल यजुर्वेद की ही परंपरा का है। उत्तर भारत में इसका \"पूर्ण\" शब्द इसे [[purnahuti]] का लोकप्रिय मंत्र बना देता है — पंडित नारियल या घी की स्रुवा अग्नि में देते समय \"ॐ पूर्णमदः…\" पढ़कर \"स्वाहा\" कहते हैं, और परिवार साथ दोहराता है; ईशावास्योपनिषद् के पाठ का यह शांति-मंत्र भी है। मंत्र का अर्थ उपनिषद् का है: पूर्ण ब्रह्म से पूर्ण जगत् निकलता है और फिर भी ब्रह्म पूर्ण ही रहता है। पद्धतियों में इसका स्थान वैदिक पूर्णाहुति-मंत्रों (VS 3.49, 17.79) के साथ या उनके स्थान पर है — दोनों रीतियाँ प्रचलित हैं; यहाँ पोथी का प्रचलित पाठ (अंत में तीन बार शांति) दिया गया है।",
+    "en": "This famous peace mantra is not from the Shukla Yajurveda Samhita but from the [Brihadaranyaka Upanishad](https://sa.wikisource.org/wiki/बृहदारण्यक_उपनिषद्_5p) (Kanva 5.1.1), where it opens the shanti section about \"kham brahma\"; in the Madhyandina school the same sentence stands at [Shatapatha Brahmana](https://sa.wikisource.org/wiki/शतपथब्राह्मणम्/काण्डम्_१४/अध्यायः_८/ब्राह्मणम्_०१) 14.8.1, so it belongs to the Shukla Yajurveda tradition itself. In North India its word \"purna\" (full) has made it the popular mantra of the purnahuti — the pandit recites \"om purnam adah …\" and says \"svaha\" as the coconut or the ladle of ghee goes into the fire, and the family repeats it; it is also the peace mantra of the Ishavasya Upanishad recitation. Its meaning is the Upanishad's: from the full Brahman the full world proceeds, and Brahman still remains full. In the handbooks it stands beside the Vedic purnahuti mantras (VS 3.49, 17.79) or in their place — both usages are current; the handbook form with the threefold \"shanti\" at the end is given here.",
+    "bho": "ई मसहूर शांति-मंत्र शुक्ल यजुर्वेद संहिता के ना, [बृहदारण्यक उपनिषद](https://sa.wikisource.org/wiki/बृहदारण्यक_उपनिषद्_5p) (काण्व 5.1.1) के बा — उहाँ ई \"खं ब्रह्म\" वाला शांति-ब्राह्मण के सुरुआत बा; माध्यंदिन शाखा में इहे वाक्य [शतपथ ब्राह्मण](https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A4%A4%E0%A4%AA%E0%A4%A5%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A5%8D%E0%A4%AE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%AE%E0%A5%8D_%E0%A5%A7%E0%A5%AA/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AE/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A5%8D%E0%A4%AE%E0%A4%A3%E0%A4%AE%E0%A5%8D_%E0%A5%A6%E0%A5%A7) 14.8.1 पर बा, एही से ई शुक्ल यजुर्वेद के ही परंपरा के बा। उत्तर भारत में एकर \"पूर्ण\" सब्द एकरा [[purnahuti]] के लोकप्रिय मंत्र बना देला — पंडित नरियर भा घी के स्रुवा आगि में देत घरी \"ॐ पूर्णमदः…\" पढ़ के \"स्वाहा\" कहेलन, आ परिवार संगे दोहरावेला; ईशावास्योपनिषद के पाठ के ई शांति-मंत्र भी बा। मंत्र के अरथ उपनिषद के बा: पूरा ब्रह्म से पूरा जगत निकलेला आ तबो ब्रह्म पूरा ही रहेला। पद्धति में एकर जगह वैदिक पूर्णाहुति-मंत्र (VS 3.49, 17.79) संगे भा उनका जगह बा — दुनो रीति चलन में बा; इहाँ पोथी के चलनसार पाठ (अंत में तीन बेर शांति) दिहल गइल बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-brihadaranyaka-5p",
+    "retrieved": "2026-11-01",
+    "modified": "the page gives the verse without ॐ and with the chapter number ॥ ५,१.१ ॥; ॐ prefixed and the threefold शान्तिः appended as the handbooks recite it; number removed; line break removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ws-shatapatha-14-8-1",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit (Brihadaranyaka Upanishad); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "havan",
+    "purnahuti",
+    "shanti"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

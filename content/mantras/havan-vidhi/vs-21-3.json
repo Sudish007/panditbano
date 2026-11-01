@@ -1,0 +1,157 @@
+{
+  "id": "vs-21-3",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 21.3",
+  "title": {
+    "hi": "प्रायश्चित्त आहुति 1 — त्वं नो अग्ने",
+    "en": "Tvam no agne (prayashchitta ahuti 1)",
+    "bho": "प्रायश्चित्त आहुति 1 — त्वं नो अग्ने"
+  },
+  "devanagari": "त्वं नो॑ अग्ने॒ वरु॑णस्य वि॒द्वान् दे॒वस्य॒ हेडो अव॑यासिसीष्ठाः । यजि॑ष्ठो॒ वह्नि॑तम॒ः शोशु॑चानो॒ विश्वा॒ द्वेषा॑ᳪं᳭सि॒ प्र मु॑मुग्ध्य॒स्मत् ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "त्वम्",
+      "gloss": {
+        "hi": "तुम",
+        "en": "you",
+        "bho": "रउआ"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमारे लिए",
+        "en": "for us",
+        "bho": "हमनी खातिर"
+      }
+    },
+    {
+      "sa": "अग्ने",
+      "gloss": {
+        "hi": "हे अग्नि",
+        "en": "O Agni",
+        "bho": "हे अग्नि"
+      }
+    },
+    {
+      "sa": "वरुणस्य देवस्य",
+      "gloss": {
+        "hi": "वरुण देव के",
+        "en": "of the god Varuna",
+        "bho": "वरुण देव के"
+      }
+    },
+    {
+      "sa": "विद्वान्",
+      "gloss": {
+        "hi": "जानने वाले",
+        "en": "knowing (him)",
+        "bho": "जाने वाला"
+      }
+    },
+    {
+      "sa": "हेडः",
+      "gloss": {
+        "hi": "क्रोध को",
+        "en": "the anger",
+        "bho": "रिस के"
+      }
+    },
+    {
+      "sa": "अव यासिसीष्ठाः",
+      "gloss": {
+        "hi": "दूर कर दो, शांत कर दो",
+        "en": "turn away, appease",
+        "bho": "दूर कर दीं, सांत कर दीं"
+      }
+    },
+    {
+      "sa": "यजिष्ठः",
+      "gloss": {
+        "hi": "सबसे अच्छे यज्ञ करने वाले",
+        "en": "best of sacrificers",
+        "bho": "सबसे नीक यज्ञ करे वाला"
+      }
+    },
+    {
+      "sa": "वह्नितमः",
+      "gloss": {
+        "hi": "हवि को सबसे अच्छी तरह ले जाने वाले",
+        "en": "best bearer of the offering",
+        "bho": "हवि सबसे नीक ढंग से ले जाए वाला"
+      }
+    },
+    {
+      "sa": "शोशुचानः",
+      "gloss": {
+        "hi": "चमकते हुए",
+        "en": "shining brightly",
+        "bho": "चमकत"
+      }
+    },
+    {
+      "sa": "विश्वा द्वेषांसि",
+      "gloss": {
+        "hi": "सब द्वेष (वैर, दुर्भाग्य)",
+        "en": "all hatreds",
+        "bho": "सब द्वेष (बैर)"
+      }
+    },
+    {
+      "sa": "प्र मुमुग्धि",
+      "gloss": {
+        "hi": "छुड़ा दो",
+        "en": "release, free",
+        "bho": "छोड़ा दीं"
+      }
+    },
+    {
+      "sa": "अस्मत्",
+      "gloss": {
+        "hi": "हमसे",
+        "en": "from us",
+        "bho": "हमनी से"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे अग्नि! वरुण देव को जानते हुए तुम हमारे लिए उनका क्रोध शांत कर दो। श्रेष्ठ यज्ञकर्ता, हवि के श्रेष्ठ वाहक, चमकते हुए अग्नि — सब द्वेषों से हमें छुड़ा दो।",
+    "en": "O Agni, you who know the god Varuna, turn his anger away from us. Best of sacrificers, best bearer of the offering, brightly shining — release us from all hatreds.",
+    "bho": "हे अग्नि! वरुण देव के जानत रउआ हमनी खातिर उनकर रिस सांत कर दीं। सबसे नीक यज्ञ करे वाला, हवि के सबसे नीक वाहक, चमकत अग्नि — सब द्वेष से हमनी के छोड़ा दीं।"
+  },
+  "explanation": {
+    "hi": "ऋग्वेद (4.1.4) की यह ऋचा शुक्ल यजुर्वेद के इक्कीसवें अध्याय (21.3) में है; उवट इसे अग्नि-वरुण की \"आग्निवारुणी त्रिष्टुप्\" कहते हैं। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.2.8 में \"त्वन्नोऽग्ने\" से शुरू होने वाले आठ मंत्रों की सूची है जो अग्न्याधान के आगे पढ़े जाते हैं, और 1.5.3 हर गृह्य होम का नित्य क्रम देता है — आघारावाज्यभागौ, महाव्याहृति, **सर्वप्रायश्चित्त**, प्राजापत्य, स्विष्टकृत्। यह मंत्र उस सर्वप्रायश्चित्त (पद्धतियों में \"पंचवारुणी होम\") की पहली आहुति है: घी की आहुति देकर \"स्वाहा\" और फिर \"इदमग्नीवरुणाभ्यां न मम\" कहा जाता है। परंपरा में माना जाता है कि [[havan]] में हुई जानी-अनजानी भूलों के लिए वरुण का कोप शांत करने की यह प्रार्थना है — इसलिए यह हर हवन में, प्रधान होम से पहले आती है।",
+    "en": "This rik of the Rigveda (4.1.4) stands in the twenty-first adhyaya of the Shukla Yajurveda (21.3); Uvata calls it an Agni–Varuna trishtubh. The [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.2.8 lists eight mantras beginning \"tvam no agne\" that are recited at the setting up of the fire, and 1.5.3 gives the fixed order of every domestic homa — the aghara and ajyabhaga pair, the mahavyahritis, the **sarvaprayashchitta**, the prajapatya and the svishtakrit. This mantra is the first oblation of that sarvaprayashchitta (the \"panchavaruni homa\" of the handbooks): ghee is offered with \"svaha\" and then \"idam agni-varunabhyam na mama\" is said. Tradition holds it to be the prayer that appeases Varuna for the known and unknown faults of the havan — which is why it comes in every havan, before the main offerings.",
+    "bho": "ऋग्वेद (4.1.4) के ई ऋचा शुक्ल यजुर्वेद के एकइसवाँ अध्याय (21.3) में बा; उवट एकरा अग्नि-वरुण के \"आग्निवारुणी त्रिष्टुप्\" कहेलन। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.2.8 में \"त्वन्नोऽग्ने\" से सुरू होखे वाला आठ मंत्र के सूची बा जे अग्न्याधान के आगे पढ़ल जाला, आ 1.5.3 हर गृह्य होम के नित्य क्रम देला — आघारावाज्यभागौ, महाव्याहृति, **सर्वप्रायश्चित्त**, प्राजापत्य, स्विष्टकृत्। ई मंत्र ओह सर्वप्रायश्चित्त (पद्धति में \"पंचवारुणी होम\") के पहिला आहुति बा: घी के आहुति देके \"स्वाहा\" आ फेर \"इदमग्नीवरुणाभ्यां न मम\" कहल जाला। परंपरा में मानल जाला कि [[havan]] में भइल जानल-अनजानल भूल खातिर वरुण के रिस सांत करे के ई प्रार्थना बा — एही से ई हर हवन में, प्रधान होम से पहिले आवेला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-21",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः; ।। n ।। → ॥ and the verse number removed; line breaks removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "havan",
+    "prayashchitta",
+    "varuna"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

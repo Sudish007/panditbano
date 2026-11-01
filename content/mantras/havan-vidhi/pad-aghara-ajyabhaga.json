@@ -1,0 +1,116 @@
+{
+  "id": "pad-aghara-ajyabhaga",
+  "kind": "paddhati",
+  "locator": "PGS 1.5.3 (आघारावाज्यभागौ); 1941 ed., अथ होमः",
+  "title": {
+    "hi": "आघारावाज्यभागौ — पहली चार आहुतियाँ",
+    "en": "Aghara and ajyabhaga (the first four ahutis)",
+    "bho": "आघारावाज्यभागौ — पहिला चार आहुति"
+  },
+  "devanagari": "ॐ प्रजापतये स्वाहा । इदं प्रजापतये न मम ॥ ॐ इन्द्राय स्वाहा । इदमिन्द्राय न मम ॥ ॐ अग्नये स्वाहा । इदमग्नये न मम ॥ ॐ सोमाय स्वाहा । इदं सोमाय न मम ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "ॐ प्रजापतये स्वाहा",
+      "gloss": {
+        "hi": "प्रजापति के लिए स्वाहा (आहुति)",
+        "en": "svaha to Prajapati",
+        "bho": "प्रजापति खातिर स्वाहा (आहुति)"
+      }
+    },
+    {
+      "sa": "इदं प्रजापतये न मम",
+      "gloss": {
+        "hi": "यह प्रजापति का है, मेरा नहीं",
+        "en": "this is Prajapati's, not mine",
+        "bho": "ई प्रजापति के बा, हमार ना"
+      }
+    },
+    {
+      "sa": "ॐ इन्द्राय स्वाहा",
+      "gloss": {
+        "hi": "इंद्र के लिए स्वाहा",
+        "en": "svaha to Indra",
+        "bho": "इंद्र खातिर स्वाहा"
+      }
+    },
+    {
+      "sa": "इदमिन्द्राय न मम",
+      "gloss": {
+        "hi": "यह इंद्र का है, मेरा नहीं",
+        "en": "this is Indra's, not mine",
+        "bho": "ई इंद्र के बा, हमार ना"
+      }
+    },
+    {
+      "sa": "ॐ अग्नये स्वाहा",
+      "gloss": {
+        "hi": "अग्नि के लिए स्वाहा",
+        "en": "svaha to Agni",
+        "bho": "अग्नि खातिर स्वाहा"
+      }
+    },
+    {
+      "sa": "इदमग्नये न मम",
+      "gloss": {
+        "hi": "यह अग्नि का है, मेरा नहीं",
+        "en": "this is Agni's, not mine",
+        "bho": "ई अग्नि के बा, हमार ना"
+      }
+    },
+    {
+      "sa": "ॐ सोमाय स्वाहा",
+      "gloss": {
+        "hi": "सोम के लिए स्वाहा",
+        "en": "svaha to Soma",
+        "bho": "सोम खातिर स्वाहा"
+      }
+    },
+    {
+      "sa": "इदं सोमाय न मम",
+      "gloss": {
+        "hi": "यह सोम का है, मेरा नहीं",
+        "en": "this is Soma's, not mine",
+        "bho": "ई सोम के बा, हमार ना"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "प्रजापति के लिए स्वाहा — यह प्रजापति का है, मेरा नहीं। इंद्र के लिए स्वाहा — यह इंद्र का है, मेरा नहीं। अग्नि के लिए स्वाहा — यह अग्नि का है, मेरा नहीं। सोम के लिए स्वाहा — यह सोम का है, मेरा नहीं।",
+    "en": "Svaha to Prajapati — this is Prajapati's, not mine. Svaha to Indra — this is Indra's, not mine. Svaha to Agni — this is Agni's, not mine. Svaha to Soma — this is Soma's, not mine.",
+    "bho": "प्रजापति खातिर स्वाहा — ई प्रजापति के बा, हमार ना। इंद्र खातिर स्वाहा — ई इंद्र के बा, हमार ना। अग्नि खातिर स्वाहा — ई अग्नि के बा, हमार ना। सोम खातिर स्वाहा — ई सोम के बा, हमार ना।"
+  },
+  "explanation": {
+    "hi": "हर गृह्य होम की पहली चार घी की आहुतियाँ — दो \"आघार\" (प्रजापति और इंद्र के लिए) और दो \"आज्यभाग\" (अग्नि और सोम के लिए)। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.3 इन्हें \"आघारावाज्यभागौ\" कहकर हर होम के नित्य क्रम का पहला अंग बताता है (1.5.4: \"एतन्नित्यं सर्वत्र\" — यह सब जगह नियम है); सूत्र केवल नाम देता है, \"ॐ प्रजापतये स्वाहा\" जैसे वाक्य पद्धतियों में मिलते हैं — यहाँ [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) का पाठ है। स्रौत परंपरा में आघार की आहुतियाँ स्रुवा से ईशान से नैर्ऋत्य और वायव्य से आग्नेय कोण तक धारा के रूप में दी जाती हैं और आज्यभाग उत्तर-दक्षिण भाग में; घरेलू [[havan]] में पंडित इन्हें स्रुवा से चार साधारण [[ghrit-ahuti]] के रूप में देता है। हर आहुति के बाद \"इदं … न मम\" का त्याग-वाक्य बोला जाता है — \"यह उस देवता का है, मेरा नहीं\" — यही यज्ञ का मूल भाव है: देना और अपना दावा छोड़ देना।",
+    "en": "The first four ghee oblations of every domestic homa — two \"aghara\" (to Prajapati and Indra) and two \"ajyabhaga\" (to Agni and Soma). The [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.3 names them \"agharav ajyabhagau\" as the first limb of the fixed order of every homa (1.5.4: \"this is the rule everywhere\"); the sutra gives only the names, the sentences such as \"om prajapataye svaha\" come from the handbooks — the text here follows the [Vasishthi Havan Paddhati](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller). In the Shrauta tradition the aghara oblations are poured as streams from the north-east to the south-west and from the north-west to the south-east corner, and the ajyabhagas on the north and south parts of the fire; in the household havan the pandit offers them as four simple ghee oblations with the ladle. After each oblation the renunciation \"idam … na mama\" is said — \"this belongs to that deity, not to me\" — which is the root idea of the yajna: to give, and to give up one's claim.",
+    "bho": "हर गृह्य होम के पहिला चार घी के आहुति — दू \"आघार\" (प्रजापति आ इंद्र खातिर) आ दू \"आज्यभाग\" (अग्नि आ सोम खातिर)। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.3 एकरा \"आघारावाज्यभागौ\" कह के हर होम के नित्य क्रम के पहिला अंग बतावेला (1.5.4: \"एतन्नित्यं सर्वत्र\" — ई सब जगह नियम बा); सूत्र खाली नाँव देला, \"ॐ प्रजापतये स्वाहा\" जइसन वाक्य पद्धति में मिलेला — इहाँ [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) के पाठ बा। स्रौत परंपरा में आघार के आहुति स्रुवा से ईशान से नैर्ऋत्य आ वायव्य से आग्नेय कोन तक धार के रूप में दिहल जाला आ आज्यभाग उत्तर-दक्खिन भाग में; घर के [[havan]] में पंडित एकरा स्रुवा से चार साधारन [[ghrit-ahuti]] के रूप में देलन। हर आहुति के बाद \"इदं … न मम\" के त्याग-वाक्य बोलल जाला — \"ई ओह देवता के बा, हमार ना\" — इहे यज्ञ के मूल भाव बा: देबे के आ आपन दावा छोड़ देबे के।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-vasishthi-havan-paddhati-1941",
+    "retrieved": "2026-11-01",
+    "modified": "OCR punctuation normalised (commas → । and ॥); the OCR numerals standing for ॐ restored"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-nkpp-scan",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit formula of the Madhyandina havan paddhatis (public-domain 1941 edition; sequence checked in a 2020 edition)",
+  "tags": [
+    "havan",
+    "aghara",
+    "ajyabhaga"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "id": "vs-8-13",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 8.13",
+  "title": {
+    "hi": "पाप-नाशक आहुतियाँ — देवकृतस्यैनसोऽवयजनमसि",
+    "en": "Devakritasyainaso avayajanam asi (the six expiatory ahutis)",
+    "bho": "पाप-नासक आहुति — देवकृतस्यैनसोऽवयजनमसि"
+  },
+  "devanagari": "दे॒वकृ॑त॒स्यैन॑सोऽव॒यज॑नमसि मनु॒ष्य॒कृत॒स्यैन॑सोऽव॒यज॑नमसि पि॒तृकृ॑त॒स्यैन॑सोऽव॒यज॑नमस्या॒त्मकृ॑तस्यैनसोऽव॒यज॑नम॒स्येन॑स एनसोऽव॒यज॑नमसि । यच्चा॒हमेनो॑ वि॒द्वाँश्च॒कार॒ यच्चावि॑द्वाँ॒स्तस्य॒ सर्वस्यैन॑सोऽव॒यज॑नमसि ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "देवकृतस्य",
+      "gloss": {
+        "hi": "देवों के प्रति किए गए",
+        "en": "committed against the gods",
+        "bho": "देवता लोग के प्रति कइल"
+      }
+    },
+    {
+      "sa": "एनसः",
+      "gloss": {
+        "hi": "पाप का",
+        "en": "of the sin",
+        "bho": "पाप के"
+      }
+    },
+    {
+      "sa": "अवयजनम्",
+      "gloss": {
+        "hi": "दूर करने वाला (यज्ञ से हटाने वाला)",
+        "en": "the removal by offering",
+        "bho": "दूर करे वाला (यज्ञ से हटावे वाला)"
+      }
+    },
+    {
+      "sa": "असि",
+      "gloss": {
+        "hi": "तू है",
+        "en": "you are",
+        "bho": "तू बाड़े"
+      }
+    },
+    {
+      "sa": "मनुष्यकृतस्य",
+      "gloss": {
+        "hi": "मनुष्यों के प्रति किए गए",
+        "en": "committed against men",
+        "bho": "मनई के प्रति कइल"
+      }
+    },
+    {
+      "sa": "पितृकृतस्य",
+      "gloss": {
+        "hi": "पितरों के प्रति किए गए",
+        "en": "committed against the ancestors",
+        "bho": "पितर लोग के प्रति कइल"
+      }
+    },
+    {
+      "sa": "आत्मकृतस्य",
+      "gloss": {
+        "hi": "अपने प्रति किए गए",
+        "en": "committed against oneself",
+        "bho": "आपन प्रति कइल"
+      }
+    },
+    {
+      "sa": "एनसः एनसः",
+      "gloss": {
+        "hi": "हर एक पाप का",
+        "en": "of sin upon sin, of every sin",
+        "bho": "हर एक पाप के"
+      }
+    },
+    {
+      "sa": "यत् च अहम् एनः",
+      "gloss": {
+        "hi": "और जो पाप मैंने",
+        "en": "and whatever sin I",
+        "bho": "आ जे पाप हम"
+      }
+    },
+    {
+      "sa": "विद्वान् चकार",
+      "gloss": {
+        "hi": "जानते हुए किया",
+        "en": "did knowingly",
+        "bho": "जानत कइली"
+      }
+    },
+    {
+      "sa": "यत् च अविद्वान्",
+      "gloss": {
+        "hi": "और जो न जानते हुए",
+        "en": "and whatever unknowingly",
+        "bho": "आ जे ना जानत"
+      }
+    },
+    {
+      "sa": "तस्य सर्वस्य एनसः",
+      "gloss": {
+        "hi": "उस सब पाप का",
+        "en": "of all that sin",
+        "bho": "ओह सब पाप के"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "तू देवों के प्रति किए पाप को दूर करने वाला है; मनुष्यों के प्रति किए पाप को, पितरों के प्रति किए पाप को, अपने प्रति किए पाप को, हर एक पाप को दूर करने वाला है। और जो पाप मैंने जानते हुए किया और जो न जानते हुए — उस सब पाप को दूर करने वाला तू है।",
+    "en": "You are the removal of the sin committed against the gods; of the sin against men, of the sin against the ancestors, of the sin against oneself, of sin upon sin. And whatever sin I did knowingly and whatever unknowingly — of all that sin you are the removal.",
+    "bho": "तू देवता लोग के प्रति कइल पाप के दूर करे वाला बाड़े; मनई के प्रति कइल पाप के, पितर लोग के प्रति कइल पाप के, आपन प्रति कइल पाप के, हर एक पाप के दूर करे वाला बाड़े। आ जे पाप हम जानत कइली आ जे ना जानत — ओह सब पाप के दूर करे वाला तू बाड़े।"
+  },
+  "explanation": {
+    "hi": "शुक्ल यजुर्वेद के आठवें अध्याय (8.13) का यह यजुस् मूलतः सोमयाग में यूप के छह लकड़ी के टुकड़ों (शकल) को अग्नि में डालने का मंत्र है — महीधर कात्यायन (10.8.6) का सूत्र उद्धृत करते हैं कि \"देवकृतस्य\" आदि छह वाक्यों में से प्रत्येक के साथ एक शकल डाला जाता है; \"अवयजन\" का अर्थ उवट \"नाशन\" करते हैं। पद्धतियों ने इन छह वाक्यों को [[havan]] की छह घृत-आहुतियाँ बना दिया: हर वाक्य के अंत में \"स्वाहा\" और फिर \"इदमग्नये न मम\"। [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) की नित्यहोम-विधि इन्हें स्विष्टकृत् के बाद देती है; बड़े हवनों में भी यही स्थान है। भाव सीधा है — देव, मनुष्य, पितर और स्वयं के प्रति, जानकर या अनजाने, जो भी भूल हुई, उसके लिए अग्नि को ही साक्षी बनाकर क्षमा माँगी जाती है; यह प्रार्थना है, फल का दावा नहीं।",
+    "en": "This yajus of the eighth adhyaya of the Shukla Yajurveda (8.13) is, in its original setting, the mantra with which six chips of the sacrificial post are thrown into the fire in the soma sacrifice — Mahidhara quotes Katyayana (10.8.6): one chip with each of the six sentences beginning \"devakritasya\"; Uvata glosses \"avayajana\" as \"destruction, removal\". The handbooks turned the six sentences into six ghee oblations of the havan: \"svaha\" at the end of each, then \"idam agnaye na mama\". The daily-homa section of the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) places them after the svishtakrit, and larger havans keep the same place. The sense is plain — for whatever fault was committed towards gods, men, ancestors or oneself, knowingly or not, forgiveness is asked with the fire as witness; it is a prayer, not a claim about results.",
+    "bho": "शुक्ल यजुर्वेद के आठवाँ अध्याय (8.13) के ई यजुस् असल में सोमयाग में यूप के छह लकड़ी के टुकड़ा (शकल) आगि में डाले के मंत्र बा — महीधर कात्यायन (10.8.6) के सूत्र कहेलन कि \"देवकृतस्य\" आदि छह वाक्य में से हर एक संगे एक शकल डालल जाला; \"अवयजन\" के अरथ उवट \"नासन\" करेलन। पद्धति में ई छह वाक्य [[havan]] के छह घी के आहुति बन गइल: हर वाक्य के अंत में \"स्वाहा\" आ फेर \"इदमग्नये न मम\"। [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) के नित्यहोम-विधि एकरा स्विष्टकृत् के बाद देला; बड़ हवन में भी इहे जगह बा। भाव सोझ बा — देवता, मनई, पितर आ खुद के प्रति, जानत भा अनजाने, जे भी भूल भइल, ओकरा खातिर आगि के साक्षी बना के छमा माँगल जाला; ई प्रार्थना बा, फल के दावा ना।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-08",
+    "retrieved": "2026-11-01",
+    "modified": "।। n ।। → ॥ and the verse number removed; line breaks removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-nkpp-scan",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "havan",
+    "prayashchitta"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

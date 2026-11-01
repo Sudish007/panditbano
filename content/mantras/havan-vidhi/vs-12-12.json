@@ -1,0 +1,173 @@
+{
+  "id": "vs-12-12",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 12.12",
+  "title": {
+    "hi": "प्रायश्चित्त आहुति 5 — उदुत्तमं वरुण",
+    "en": "Ud uttamam varuna (prayashchitta ahuti 5)",
+    "bho": "प्रायश्चित्त आहुति 5 — उदुत्तमं वरुण"
+  },
+  "devanagari": "उदु॑त्त॒मं व॑रुण॒ पाश॑म॒स्मदवा॑ध॒मं वि म॑ध्य॒मᳪं᳭ श्र॑थाय । अथा॑ व॒यमा॑दित्य व्र॒ते तवाना॑गसो॒ अदि॑तये स्याम ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "उत्",
+      "gloss": {
+        "hi": "ऊपर (खोल दो)",
+        "en": "up (loosen)",
+        "bho": "ऊपर (खोल दीं)"
+      }
+    },
+    {
+      "sa": "उत्तमम्",
+      "gloss": {
+        "hi": "ऊपर का",
+        "en": "the uppermost",
+        "bho": "ऊपर के"
+      }
+    },
+    {
+      "sa": "वरुण",
+      "gloss": {
+        "hi": "हे वरुण",
+        "en": "O Varuna",
+        "bho": "हे वरुण"
+      }
+    },
+    {
+      "sa": "पाशम्",
+      "gloss": {
+        "hi": "पाश (बंधन)",
+        "en": "the fetter",
+        "bho": "पाश (बंधन)"
+      }
+    },
+    {
+      "sa": "अस्मत्",
+      "gloss": {
+        "hi": "हमसे",
+        "en": "from us",
+        "bho": "हमनी से"
+      }
+    },
+    {
+      "sa": "अव अधमम्",
+      "gloss": {
+        "hi": "नीचे का (खोल दो)",
+        "en": "the lowest (loosen) down",
+        "bho": "नीचे के (खोल दीं)"
+      }
+    },
+    {
+      "sa": "वि मध्यमम्",
+      "gloss": {
+        "hi": "बीच का (खोल दो)",
+        "en": "the middle one (loosen) apart",
+        "bho": "बीच के (खोल दीं)"
+      }
+    },
+    {
+      "sa": "श्रथाय",
+      "gloss": {
+        "hi": "ढीला कर दो",
+        "en": "loosen",
+        "bho": "ढील कर दीं"
+      }
+    },
+    {
+      "sa": "अथा",
+      "gloss": {
+        "hi": "तब",
+        "en": "then",
+        "bho": "तब"
+      }
+    },
+    {
+      "sa": "वयम्",
+      "gloss": {
+        "hi": "हम",
+        "en": "we",
+        "bho": "हमनी"
+      }
+    },
+    {
+      "sa": "आदित्य",
+      "gloss": {
+        "hi": "हे आदित्य (अदिति-पुत्र)",
+        "en": "O Aditya (son of Aditi)",
+        "bho": "हे आदित्य (अदिति के पुत्र)"
+      }
+    },
+    {
+      "sa": "व्रते तव",
+      "gloss": {
+        "hi": "तुम्हारे व्रत (नियम) में",
+        "en": "in your law",
+        "bho": "राउर नियम में"
+      }
+    },
+    {
+      "sa": "अनागसः",
+      "gloss": {
+        "hi": "निरपराध",
+        "en": "free from guilt",
+        "bho": "बिना अपराध"
+      }
+    },
+    {
+      "sa": "अदितये",
+      "gloss": {
+        "hi": "अदिति के लिए (बंधन-मुक्ति के लिए)",
+        "en": "for Aditi, for freedom from bonds",
+        "bho": "अदिति खातिर (बंधन से छूटे खातिर)"
+      }
+    },
+    {
+      "sa": "स्याम",
+      "gloss": {
+        "hi": "हो जाएँ",
+        "en": "may we be",
+        "bho": "हो जाईं"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे वरुण! हमसे ऊपर का पाश ऊपर खोल दो, नीचे का नीचे, बीच का बीच से ढीला कर दो। तब, हे आदित्य, हम तुम्हारे नियम में निरपराध होकर बंधन-मुक्त हों।",
+    "en": "O Varuna, loosen from us the uppermost fetter upward, the lowest downward, the middle one apart. Then, O Aditya, may we, free from guilt in your law, be free of bonds.",
+    "bho": "हे वरुण! हमनी से ऊपर के पाश ऊपर खोल दीं, नीचे के नीचे, बीच के बीच से ढील कर दीं। तब, हे आदित्य, हमनी राउर नियम में बिना अपराध होके बंधन से छूटीं।"
+  },
+  "explanation": {
+    "hi": "यह ऋग्वेद (1.24.15, शुनःशेप की वरुण-स्तुति) की प्रसिद्ध ऋचा है, जो शुक्ल यजुर्वेद में 12.12 पर है; उवट इसे \"वारुणी त्रिष्टुप्\" कहते हैं और महीधर बताते हैं कि अग्निचयन में इसी से यजमान के गले के पाश खोले जाते हैं। शुनःशेप की कथा में यही मंत्र उसे यूप के बंधन से छुड़ाता है — इसलिए यह प्रायश्चित्त और बंधन-मुक्ति का मंत्र माना गया। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.2.8 इसे \"उदुत्तमम्\" के संकेत से आठ अग्न्याधेय मंत्रों में गिनता है, और उत्तर भारत की हवन-पोथियाँ [[havan]] के सर्वप्रायश्चित्त (पंचवारुणी) होम की पाँचवीं, अंतिम आहुति इसी से देती हैं — \"स्वाहा, इदं वरुणायादित्यायादितये न मम\"। इसके बाद यजमान जल का स्पर्श करता है।",
+    "en": "This is the famous rik of the Rigveda (1.24.15, Shunahshepa's hymn to Varuna), found at 12.12 of the Shukla Yajurveda; Uvata calls it a Varuna trishtubh and Mahidhara notes that in the Agnichayana the nooses are taken off the sacrificer's neck with it. In the story of Shunahshepa this very mantra frees him from the stake — hence it became the mantra of expiation and release from bonds. The [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.2.8 counts it by the catchword \"ud uttamam\" among the eight mantras of the fire-installation, and the North Indian havan handbooks make it the fifth and last oblation of the sarvaprayashchitta (panchavaruni) homa of the havan — \"svaha, idam varunayadityayaditaye na mama\". The yajaman then touches water.",
+    "bho": "ई ऋग्वेद (1.24.15, शुनःशेप के वरुण-स्तुति) के मसहूर ऋचा बा, जे शुक्ल यजुर्वेद में 12.12 पर बा; उवट एकरा \"वारुणी त्रिष्टुप्\" कहेलन आ महीधर बतावेलन कि अग्निचयन में एही से जजमान के गरदन के पाश खोलल जाला। शुनःशेप के कथा में इहे मंत्र उनका यूप के बंधन से छोड़ावेला — एही से ई प्रायश्चित्त आ बंधन से छूटे के मंत्र मानल गइल। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.2.8 एकरा \"उदुत्तमम्\" के संकेत से आठ अग्न्याधेय मंत्र में गिनेला, आ उत्तर भारत के हवन-पोथी [[havan]] के सर्वप्रायश्चित्त (पंचवारुणी) होम के पाँचवाँ, आखिरी आहुति एही से देला — \"स्वाहा, इदं वरुणायादित्यायादितये न मम\"। एकरा बाद जजमान जल के स्पर्श करेला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-12",
+    "retrieved": "2026-11-01",
+    "modified": "।। n ।। → ॥ and the verse number removed; line breaks removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "havan",
+    "prayashchitta",
+    "varuna"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

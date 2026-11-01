@@ -1,0 +1,114 @@
+{
+  "id": "pad-mukham-yah-sarvadevanam",
+  "kind": "paddhati",
+  "locator": "NKPP, नित्यहोम-विधि and बलिवैश्वदेव-विधि (archive.org scan)",
+  "title": {
+    "hi": "अग्नि-प्रणाम — मुखं यः सर्वदेवानाम्",
+    "en": "Mukham yah sarvadevanam (bowing to Agni)",
+    "bho": "अग्नि-परनाम — मुखं यः सर्वदेवानाम्"
+  },
+  "devanagari": "मुखं यः सर्वदेवानां हव्यभुक् कव्यभुक् तथा । पितृणां च नमस्तस्मै विष्णवे पावकात्मने ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "मुखम्",
+      "gloss": {
+        "hi": "मुख",
+        "en": "the mouth",
+        "bho": "मुँह"
+      }
+    },
+    {
+      "sa": "यः",
+      "gloss": {
+        "hi": "जो",
+        "en": "who",
+        "bho": "जे"
+      }
+    },
+    {
+      "sa": "सर्वदेवानाम्",
+      "gloss": {
+        "hi": "सब देवताओं का",
+        "en": "of all the gods",
+        "bho": "सब देवता लोग के"
+      }
+    },
+    {
+      "sa": "हव्यभुक्",
+      "gloss": {
+        "hi": "हव्य (देवों की हवि) खाने वाला",
+        "en": "eater of the havya, the gods' offering",
+        "bho": "हव्य (देवता लोग के हवि) खाए वाला"
+      }
+    },
+    {
+      "sa": "कव्यभुक् तथा",
+      "gloss": {
+        "hi": "और वैसे ही कव्य (पितरों की हवि) खाने वाला",
+        "en": "and likewise eater of the kavya, the ancestors' offering",
+        "bho": "आ ओइसहीं कव्य (पितर लोग के हवि) खाए वाला"
+      }
+    },
+    {
+      "sa": "पितृणां च",
+      "gloss": {
+        "hi": "पितरों का भी (मुख)",
+        "en": "and of the ancestors (the mouth)",
+        "bho": "पितर लोग के भी (मुँह)"
+      }
+    },
+    {
+      "sa": "नमः तस्मै",
+      "gloss": {
+        "hi": "उसको नमस्कार",
+        "en": "homage to him",
+        "bho": "ओकरा परनाम"
+      }
+    },
+    {
+      "sa": "विष्णवे",
+      "gloss": {
+        "hi": "विष्णु को",
+        "en": "to Vishnu",
+        "bho": "विष्णु के"
+      }
+    },
+    {
+      "sa": "पावकात्मने",
+      "gloss": {
+        "hi": "पावक (अग्नि) रूप वाले को",
+        "en": "in the form of the purifying fire",
+        "bho": "पावक (अग्नि) रूप वाला के"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "जो सब देवताओं और पितरों का मुख है, जो हव्य और कव्य दोनों खाता है — उस पावक (अग्नि) रूप विष्णु को नमस्कार।",
+    "en": "He who is the mouth of all the gods and of the ancestors, who eats both the havya and the kavya — homage to that Vishnu in the form of the purifying fire.",
+    "bho": "जे सब देवता आ पितर लोग के मुँह बाड़न, जे हव्य आ कव्य दुनो खालन — ओह पावक (अग्नि) रूप विष्णु के परनाम।"
+  },
+  "explanation": {
+    "hi": "अग्नि को प्रणाम करने का यह श्लोक [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) की नित्यहोम-विधि और बलिवैश्वदेव-विधि दोनों में अग्नि के ध्यान के बाद आता है; इसका पुराण-स्रोत पोथी नहीं बताती, इसलिए यहाँ इसे पद्धति-श्लोक कहा गया है। भाव पुराना वैदिक है — अग्नि देवों का \"मुख\" है: जो हवि अग्नि में डाली जाती है वह देवों तक अग्नि के द्वारा पहुँचती है, ऐसी वैदिक मान्यता है; \"हव्य\" देवों के लिए दी जाने वाली हवि है और \"कव्य\" पितरों के लिए। [[havan]] में [[agni-sthapana]] और \"चत्वारि शृंगा\" (VS 17.91) के ध्यान के बाद [[purohit]] यह श्लोक पढ़कर अग्नि को प्रणाम करता है और फिर \"ॐ (नाम)नाम्ने अग्नये नमः\" से [[panchopachar]] पूजन करता है।",
+    "en": "This shloka of homage to Agni follows the meditation on the fire in both the daily-homa and the balivaishvadeva sections of the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur); the handbook does not name its Puranic source, so it is called a handbook verse here. The idea is old and Vedic — Agni is the \"mouth\" of the gods: what is poured into the fire reaches the gods through him, so the Vedic view holds; \"havya\" is the offering meant for the gods and \"kavya\" the offering meant for the ancestors. In the havan, after the agni-sthapana and the meditation \"chatvari shringa\" (VS 17.91), the purohit bows to the fire with this shloka and then performs the five-fold worship with \"om (name)-namne agnaye namah\".",
+    "bho": "अग्नि के परनाम करे के ई श्लोक [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) के नित्यहोम-विधि आ बलिवैश्वदेव-विधि दुनो में अग्नि के ध्यान के बाद आवेला; एकर पुरान-स्रोत पोथी ना बतावे, एही से इहाँ एकरा पद्धति-श्लोक कहल गइल बा। भाव पुरान वैदिक बा — अग्नि देवता लोग के \"मुँह\" बाड़न: जे हवि आगि में डालल जाला ऊ देवता लोग तक अग्नि के द्वारा पहुँचेला, अइसन वैदिक मान्यता बा; \"हव्य\" देवता लोग खातिर दिहल जाए वाला हवि बा आ \"कव्य\" पितर लोग खातिर। [[havan]] में [[agni-sthapana]] आ \"चत्वारि शृङ्गा\" (VS 17.91) के ध्यान के बाद [[purohit]] ई श्लोक पढ़ के अग्नि के परनाम करेलन आ फेर \"ॐ (नाँव)नाम्ने अग्नये नमः\" से [[panchopachar]] पूजन करेलन।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-nkpp-scan",
+    "retrieved": "2026-11-01",
+    "modified": "OCR \"स्व॑ंदेवानां\" read as सर्वदेवानां (so the second occurrence of the verse in the same scan); \"पित्रृणां\" → पितृणां"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit shloka printed in the Gita Press Nitya Karma Puja Prakash (archive.org scan); the verse itself is traditional and public domain",
+  "tags": [
+    "havan",
+    "agni",
+    "pranama"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "id": "vs-17-79",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 17.79",
+  "title": {
+    "hi": "पूर्णाहुति — सप्त ते अग्ने समिधः",
+    "en": "Sapta te agne samidhah (the purnahuti)",
+    "bho": "पूर्णाहुति — सप्त ते अग्ने समिधः"
+  },
+  "devanagari": "स॒प्त ते॑ अग्ने स॒मिध॑ः स॒प्त जि॒ह्वाः स॒प्त ऋष॑यः स॒प्त धाम॑ प्रि॒याणि॑ । स॒प्त होत्रा॑ः सप्त॒धा त्वा॑ यजन्ति स॒प्त योनी॒रापृ॑णस्व घृ॒तेन॒ स्वाहा॑ ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "सप्त ते अग्ने समिधः",
+      "gloss": {
+        "hi": "हे अग्नि, तुम्हारी सात समिधाएँ",
+        "en": "seven, O Agni, are your fuel sticks",
+        "bho": "हे अग्नि, राउर सात समिधा"
+      }
+    },
+    {
+      "sa": "सप्त जिह्वाः",
+      "gloss": {
+        "hi": "सात जीभें (लपटें)",
+        "en": "seven tongues (flames)",
+        "bho": "सात जीभ (लपट)"
+      }
+    },
+    {
+      "sa": "सप्त ऋषयः",
+      "gloss": {
+        "hi": "सात ऋषि",
+        "en": "seven seers",
+        "bho": "सात ऋषि"
+      }
+    },
+    {
+      "sa": "सप्त धाम प्रियाणि",
+      "gloss": {
+        "hi": "सात प्रिय धाम (स्थान, छंद)",
+        "en": "seven dear abodes",
+        "bho": "सात प्रिय धाम (जगह, छंद)"
+      }
+    },
+    {
+      "sa": "सप्त होत्राः",
+      "gloss": {
+        "hi": "सात होता",
+        "en": "seven hotra priests",
+        "bho": "सात होतृ (ऋत्विज)"
+      }
+    },
+    {
+      "sa": "सप्तधा",
+      "gloss": {
+        "hi": "सात प्रकार से",
+        "en": "in seven ways",
+        "bho": "सात तरह से"
+      }
+    },
+    {
+      "sa": "त्वा यजन्ति",
+      "gloss": {
+        "hi": "तुम्हारा यजन करते हैं",
+        "en": "they worship you",
+        "bho": "राउर यजन करेलन"
+      }
+    },
+    {
+      "sa": "सप्त योनीः",
+      "gloss": {
+        "hi": "सात योनियाँ (उत्पत्ति-स्थान, चितियाँ)",
+        "en": "seven wombs (seats)",
+        "bho": "सात योनि (जनम-जगह)"
+      }
+    },
+    {
+      "sa": "आ पृणस्व",
+      "gloss": {
+        "hi": "भर दो",
+        "en": "fill up",
+        "bho": "भर दीं"
+      }
+    },
+    {
+      "sa": "घृतेन",
+      "gloss": {
+        "hi": "घी से",
+        "en": "with ghee",
+        "bho": "घी से"
+      }
+    },
+    {
+      "sa": "स्वाहा",
+      "gloss": {
+        "hi": "स्वाहा",
+        "en": "svaha",
+        "bho": "स्वाहा"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे अग्नि! तुम्हारी सात समिधाएँ, सात जीभें, सात ऋषि, सात प्रिय धाम हैं; सात होता तुम्हारा सात प्रकार से यजन करते हैं। सात योनियों को घी से भर दो — स्वाहा।",
+    "en": "Seven, O Agni, are your fuel sticks, seven your tongues, seven the seers, seven the dear abodes; seven hotra priests worship you in seven ways. Fill the seven wombs with ghee — svaha.",
+    "bho": "हे अग्नि! राउर सात समिधा, सात जीभ, सात ऋषि, सात प्रिय धाम बा; सात होतृ (ऋत्विज) राउर सात तरह से यजन करेलन। सात योनि के घी से भर दीं — स्वाहा।"
+  },
+  "explanation": {
+    "hi": "शुक्ल यजुर्वेद के सत्रहवें अध्याय (17.79) की यह ऋचा अग्निचयन में पूर्णाहुति का मंत्र है — महीधर कात्यायन (18.4.9) उद्धृत करते हैं: \"घी से भरी स्रुच् से पूर्णाहुति दे\", और उवट \"सात समिधाओं\" को अग्नि के सात प्राण बताते हैं। यही मंत्र उत्तर भारत के [[havan]] में [[purnahuti]] के साथ पढ़ा जाता है: [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) की नित्यहोम-विधि होम के अंत में \"न्यूनता-पूर्ति के लिए\" यही प्रार्थना देती है, और बड़े हवनों में \"पूर्णा दर्वि\" (VS 3.49) के साथ इसे पढ़कर पूर्णाहुति दी जाती है। \"सात\" की यह गिनती — समिधा, जीभ, ऋषि, धाम, होता — वैदिक अग्नि-वर्णन की जानी-पहचानी शैली है; मंत्र का सार अंतिम वाक्य में है: घी से पूर्ण कर दो।",
+    "en": "This rik of the seventeenth adhyaya of the Shukla Yajurveda (17.79) is the mantra of the full offering in the Agnichayana — Mahidhara quotes Katyayana (18.4.9), \"he offers the purnahuti with a ladle full of ghee\", and Uvata takes the \"seven fuel sticks\" as the seven breaths of Agni. The same mantra accompanies the purnahuti of the North Indian havan: the daily-homa section of the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) gives it at the end of the homa as the prayer \"to make good what fell short\", and in larger havans it is recited with \"purna darvi\" (VS 3.49) as the purnahuti is poured. The counting in sevens — fuel sticks, tongues, seers, abodes, priests — is a familiar manner of the Vedic praise of Agni; the point of the mantra is its last sentence: fill it with ghee.",
+    "bho": "शुक्ल यजुर्वेद के सतरहवाँ अध्याय (17.79) के ई ऋचा अग्निचयन में पूर्णाहुति के मंत्र बा — महीधर कात्यायन (18.4.9) कहेलन: \"घी से भरल स्रुच् से पूर्णाहुति दे\", आ उवट \"सात समिधा\" के अग्नि के सात प्रान बतावेलन। इहे मंत्र उत्तर भारत के [[havan]] में [[purnahuti]] संगे पढ़ल जाला: [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) के नित्यहोम-विधि होम के अंत में \"कमी पूरा करे खातिर\" इहे प्रार्थना देला, आ बड़ हवन में \"पूर्णा दर्वि\" (VS 3.49) संगे एकरा पढ़ के पूर्णाहुति दिहल जाला। \"सात\" के ई गिनती — समिधा, जीभ, ऋषि, धाम, होतृ — वैदिक अग्नि-बरनन के जानल-पहिचानल सैली बा; मंत्र के सार आखिरी वाक्य में बा: घी से पूरा कर दीं।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-17",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः; ।। n ।। → ॥ and the verse number removed; line breaks removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-nkpp-scan",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "havan",
+    "purnahuti",
+    "agni"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

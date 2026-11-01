@@ -1,0 +1,83 @@
+{
+  "id": "pad-agnaye-svishtakrite",
+  "kind": "paddhati",
+  "locator": "PGS 1.5.3 (स्विष्टकृत्); 1941 ed., स्विष्टकृद्धोमः",
+  "title": {
+    "hi": "स्विष्टकृत् होम — ॐ अग्नये स्विष्टकृते स्वाहा",
+    "en": "Svishtakrit homa (om agnaye svishtakrite svaha)",
+    "bho": "स्विष्टकृत् के आहुति — ॐ अग्नये स्विष्टकृते स्वाहा"
+  },
+  "devanagari": "ॐ अग्नये स्विष्टकृते स्वाहा । इदमग्नये स्विष्टकृते न मम ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "अग्नये",
+      "gloss": {
+        "hi": "अग्नि के लिए",
+        "en": "to Agni",
+        "bho": "अग्नि खातिर"
+      }
+    },
+    {
+      "sa": "स्विष्टकृते",
+      "gloss": {
+        "hi": "\"सु-इष्ट-कृत्\" — यज्ञ को अच्छी तरह पूरा करने वाले (अग्नि) के लिए",
+        "en": "the \"svishtakrit\", maker of the good offering",
+        "bho": "\"सु-इष्ट-कृत्\" — यज्ञ के नीक से पूरा करे वाला (अग्नि) खातिर"
+      }
+    },
+    {
+      "sa": "स्वाहा",
+      "gloss": {
+        "hi": "स्वाहा",
+        "en": "svaha",
+        "bho": "स्वाहा"
+      }
+    },
+    {
+      "sa": "इदमग्नये स्विष्टकृते न मम",
+      "gloss": {
+        "hi": "यह स्विष्टकृत् अग्नि का है, मेरा नहीं",
+        "en": "this is for Agni Svishtakrit, not mine",
+        "bho": "ई स्विष्टकृत् अग्नि के बा, हमार ना"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "यज्ञ को अच्छी तरह पूरा करने वाले अग्नि (स्विष्टकृत्) के लिए स्वाहा — यह स्विष्टकृत् अग्नि का है, मेरा नहीं।",
+    "en": "Svaha to Agni Svishtakrit, who makes the offering well made — this is for Agni Svishtakrit, not mine.",
+    "bho": "यज्ञ के नीक से पूरा करे वाला अग्नि (स्विष्टकृत्) खातिर स्वाहा — ई स्विष्टकृत् अग्नि के बा, हमार ना।"
+  },
+  "explanation": {
+    "hi": "\"स्विष्टकृत्\" — \"सु-इष्ट-कृत्\", अच्छी तरह यज्ञ करा देने वाला — अग्नि का वह रूप है जिसके लिए हर यज्ञ के अंत में एक आहुति दी जाती है, ताकि जो कुछ कम या गलत रह गया हो वह पूरा हो जाए। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.3 इसे हर होम के नित्य क्रम का अंतिम अंग बताता है (\"… प्राजापत्यं स्विष्टकृच्च\") और 1.2.10 में अग्न्याधेय के बाद \"स्विष्टकृते च\" कहता है। उत्तर भारत के [[havan]] में प्रधान होम पूरा होने पर पहले \"ॐ प्रजापतये स्वाहा\" (प्राजापत्य आहुति) और फिर यह [[swishtakrit]] आहुति दी जाती है; माध्यंदिन विवाह-पद्धति कहती है कि यह आहुति ब्रह्मा से \"अन्वारब्ध\" होकर (ब्रह्मा यजमान को स्पर्श किए हुए) दी जाती है। इसके बाद ही संस्रव-प्राशन, मार्जन और [[purnahuti]] का समापन-क्रम शुरू होता है। [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller), [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) और विवाह-पद्धति तीनों का पाठ एक है।",
+    "en": "\"Svishtakrit\" — \"su-ishta-krit\", he who makes the offering well made — is the form of Agni to whom one oblation is given at the end of every sacrifice, so that whatever fell short or went wrong is made good. The [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.3 names it the last limb of the fixed order of every homa (\"… prajapatyam svishtakrich cha\") and 1.2.10 says \"and to Svishtakrit\" after the fire-installation oblations. In the North Indian havan, when the main homa is complete, first \"om prajapataye svaha\" (the prajapatya oblation) and then this svishtakrit oblation are given; the Madhyandina wedding handbook notes that it is offered with the brahma \"anvarabdha\", touching the yajaman. Only after it begins the closing sequence of sipping the remnant, the sprinkling and the purnahuti. The [Vasishthi Havan Paddhati](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller), the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) and the wedding handbook give the same reading.",
+    "bho": "\"स्विष्टकृत्\" — \"सु-इष्ट-कृत्\", नीक से यज्ञ करा देबे वाला — अग्नि के ऊ रूप बाड़न जेकरा खातिर हर यज्ञ के अंत में एक आहुति दिहल जाला, जेसे जे कुछ कम भा गलत रह गइल होखे ऊ पूरा हो जाए। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.3 एकरा हर होम के नित्य क्रम के आखिरी अंग बतावेला (\"… प्राजापत्यं स्विष्टकृच्च\") आ 1.2.10 में अग्न्याधेय के बाद \"स्विष्टकृते च\" कहेला। उत्तर भारत के [[havan]] में प्रधान होम पूरा भइला पर पहिले \"ॐ प्रजापतये स्वाहा\" (प्राजापत्य आहुति) आ फेर ई [[swishtakrit]] आहुति दिहल जाला; माध्यंदिन बियाह-पद्धति कहेला कि ई आहुति ब्रह्मा से \"अन्वारब्ध\" होके (ब्रह्मा जजमान के छूवले) दिहल जाला। एकरा बाद ही संस्रव-प्राशन, मार्जन आ [[purnahuti]] के समापन-क्रम सुरू होला। [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller), [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) आ बियाह-पद्धति तीनो के पाठ एके बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-vasishthi-havan-paddhati-1941",
+    "retrieved": "2026-11-01",
+    "modified": "OCR \"खिष्टकृते\" read as स्विष्टकृते; the abbreviated renunciation \"इदमग्नये स्विष्टकृते०\" completed as the other two handbooks print it"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-nkpp-scan",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit formula of the Madhyandina havan paddhatis (public-domain 1941 edition; sequence checked in a 2020 edition)",
+  "tags": [
+    "havan",
+    "svishtakrit"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

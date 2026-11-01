@@ -1,0 +1,106 @@
+{
+  "id": "pad-acharyastu-yatha-svarge",
+  "kind": "paddhati",
+  "locator": "Dwivedi 2020, आचार्य-वरण",
+  "title": {
+    "hi": "आचार्य-वरण — आचार्यस्तु यथा स्वर्गे",
+    "en": "Acharyas tu yatha svarge (choosing the acharya)",
+    "bho": "आचार्य-वरन — आचार्यस्तु यथा स्वर्गे"
+  },
+  "devanagari": "आचार्यस्तु यथा स्वर्गे शक्रादीनां बृहस्पतिः । तथा त्वं मम यज्ञेऽस्मिन् आचार्यो भव सुव्रत ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "आचार्यः तु",
+      "gloss": {
+        "hi": "आचार्य",
+        "en": "the acharya (teacher-priest)",
+        "bho": "आचार्य"
+      }
+    },
+    {
+      "sa": "यथा स्वर्गे",
+      "gloss": {
+        "hi": "जैसे स्वर्ग में",
+        "en": "as in heaven",
+        "bho": "जइसे सरग में"
+      }
+    },
+    {
+      "sa": "शक्रादीनाम्",
+      "gloss": {
+        "hi": "इंद्र आदि (देवों) के",
+        "en": "of Indra and the other gods",
+        "bho": "इंद्र आदि (देवता लोग) के"
+      }
+    },
+    {
+      "sa": "बृहस्पतिः",
+      "gloss": {
+        "hi": "बृहस्पति (हैं)",
+        "en": "Brihaspati (is)",
+        "bho": "बृहस्पति (बाड़न)"
+      }
+    },
+    {
+      "sa": "तथा त्वम्",
+      "gloss": {
+        "hi": "वैसे ही तुम",
+        "en": "so you",
+        "bho": "ओइसहीं रउआ"
+      }
+    },
+    {
+      "sa": "मम यज्ञे अस्मिन्",
+      "gloss": {
+        "hi": "मेरे इस यज्ञ में",
+        "en": "in this yajna of mine",
+        "bho": "हमार एह यज्ञ में"
+      }
+    },
+    {
+      "sa": "आचार्यः भव",
+      "gloss": {
+        "hi": "आचार्य बनो",
+        "en": "be the acharya",
+        "bho": "आचार्य बनीं"
+      }
+    },
+    {
+      "sa": "सुव्रत",
+      "gloss": {
+        "hi": "हे उत्तम व्रत वाले",
+        "en": "O you of good vows",
+        "bho": "हे नीक नियम-निष्ठा वाला"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "जैसे स्वर्ग में इंद्र आदि देवों के आचार्य बृहस्पति हैं, वैसे ही हे सुव्रत, तुम मेरे इस यज्ञ में आचार्य बनो।",
+    "en": "As Brihaspati is the acharya of Indra and the gods in heaven, so, O you of good vows, be the acharya in this yajna of mine.",
+    "bho": "जइसे सरग में इंद्र आदि देवता लोग के आचार्य बृहस्पति बाड़न, ओइसहीं हे सुव्रत, रउआ हमार एह यज्ञ में आचार्य बनीं।"
+  },
+  "explanation": {
+    "hi": "[[havan]] से पहले यजमान हाथ में वरण-सामग्री (वस्त्र, पान-सुपारी, अक्षत, दक्षिणा) लेकर पंडित को विधिपूर्वक \"आचार्य\" चुनता है — यह \"आचार्य-वरण\" है, और यह श्लोक उसी समय पढ़ा जाता है। माध्यंदिन विवाह-पद्धति में संकल्प-वाक्य \"… आचार्यत्वेन त्वामहं वृणे\" के बाद आचार्य \"स्वस्ति, वृतोऽस्मि\" (कल्याण हो, मैं वरण किया गया) कहता है और यजमान यह श्लोक पढ़ता है। इसी तरह \"यथा चतुर्मुखो ब्रह्मा\" श्लोक से ब्रह्मा का वरण होता है। वरण का अर्थ है कि [[yajman]] और [[acharya]] का संबंध इस कर्म के लिए औपचारिक रूप से तय हो गया — पुराने यज्ञों में ऋत्विजों का वरण ऐसे ही होता था, और [[dakshina]] उसी संबंध का अंत है। यह पद्धति-श्लोक है; इसका कोई वैदिक या पुराण-स्रोत पोथी नहीं बताती।",
+    "en": "Before the havan the yajaman, holding the materials of selection (cloth, betel, rice grains, dakshina), formally chooses the pandit as \"acharya\" — this is the acharya-varana, and this shloka is recited at that moment. In the Madhyandina wedding handbook the acharya answers the sankalpa sentence \"… acharyatvena tvam aham vrine\" with \"svasti, vrito 'smi\" (well-being; I am chosen) and the yajaman recites this verse. The brahma is chosen in the same way with the verse \"yatha chaturmukho brahma\". The selection means that the relationship of yajaman and acharya is formally fixed for this rite — the priests of the old sacrifices were chosen in the same way, and the dakshina is the close of that relationship. It is a handbook verse; the handbook names no Vedic or Puranic source for it.",
+    "bho": "[[havan]] से पहिले जजमान हाथ में वरन-सामान (कपड़ा, पान-सुपारी, अछत, दक्षिणा) लेके पंडित के विधि से \"आचार्य\" चुनेला — ई \"आचार्य-वरन\" बा, आ ई श्लोक ओही घरी पढ़ल जाला। माध्यंदिन बियाह-पद्धति में संकल्प-वाक्य \"… आचार्यत्वेन त्वामहं वृणे\" के बाद आचार्य \"स्वस्ति, वृतोऽस्मि\" (कल्यान होखे, हम चुनल गइली) कहेलन आ जजमान ई श्लोक पढ़ेला। एही तरह \"यथा चतुर्मुखो ब्रह्मा\" श्लोक से ब्रह्मा के वरन होला। वरन के अरथ बा कि [[yajman]] आ [[acharya]] के संबंध एह काम खातिर औपचारिक रूप से तय हो गइल — पुरान यज्ञ में ऋत्विज लोग के वरन अइसहीं होत रहे, आ [[dakshina]] ओही संबंध के अंत बा। ई पद्धति-श्लोक बा; एकर कवनो वैदिक भा पुरान-स्रोत पोथी ना बतावे।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-vivah-mvf",
+    "retrieved": "2026-11-01",
+    "modified": "OCR line break joined; punctuation normalised"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit shloka of the Madhyandina paddhatis (modern edition used for the text; the verse itself is traditional)",
+  "tags": [
+    "havan",
+    "varana",
+    "acharya"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

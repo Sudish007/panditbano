@@ -1,0 +1,165 @@
+{
+  "id": "vs-6-22",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 6.22",
+  "title": {
+    "hi": "मार्जन और प्रणीता-विमोक — सुमित्रिया न आप ओषधयः",
+    "en": "Sumitriya na apa oshadhayah (the final sprinkling)",
+    "bho": "मार्जन आ प्रणीता-विमोक — सुमित्रिया…"
+  },
+  "devanagari": "माऽपो मौ॑षधीर्हिᳪं᳭सी॒र्धाम्नो॑ धाम्नो राजँ॒स्ततो॑ वरुण नो मुञ्च । यदा॒हुर॒घ्न्या इति॒ वरु॒णेति॒ शपा॑महे॒ ततो॑ वरुण नो मुञ्च । सुमि॒त्रि॒या न॒ आप॒ ओष॑धयः सन्तु दुर्मित्रि॒यास्तस्मै॑ सन्तु॒ योस्मान्द्वेष्टि॒ यं च॑ व॒यं द्वि॒ष्मः ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "मा अपः मा ओषधीः हिंसीः",
+      "gloss": {
+        "hi": "जल और ओषधियों को हानि न पहुँचाना",
+        "en": "harm not the waters nor the plants",
+        "bho": "जल आ ओखद-बनस्पति के हानि ना करीं"
+      }
+    },
+    {
+      "sa": "धाम्नो धाम्नः",
+      "gloss": {
+        "hi": "हर स्थान से",
+        "en": "from every abode",
+        "bho": "हर जगह से"
+      }
+    },
+    {
+      "sa": "राजन्",
+      "gloss": {
+        "hi": "हे राजा (वरुण)",
+        "en": "O king (Varuna)",
+        "bho": "हे राजा (वरुण)"
+      }
+    },
+    {
+      "sa": "ततः वरुण नः मुञ्च",
+      "gloss": {
+        "hi": "उससे, हे वरुण, हमें छुड़ाओ",
+        "en": "from that, O Varuna, release us",
+        "bho": "ओकरा से, हे वरुण, हमनी के छोड़ाईं"
+      }
+    },
+    {
+      "sa": "यत् आहुः अघ्न्याः इति",
+      "gloss": {
+        "hi": "जो हम गौओं को \"अघ्न्या\" (अवध्य) कहते हैं",
+        "en": "when we say \"aghnya\" (not to be killed) of the cows",
+        "bho": "जे हमनी गाय के \"अघ्न्या\" (ना मारे जोग) कहीले"
+      }
+    },
+    {
+      "sa": "वरुण इति शपामहे",
+      "gloss": {
+        "hi": "और \"वरुण\" की शपथ लेते हैं",
+        "en": "and swear \"by Varuna\"",
+        "bho": "आ \"वरुण\" के सपथ लीहिले"
+      }
+    },
+    {
+      "sa": "सुमित्रियाः",
+      "gloss": {
+        "hi": "अच्छे मित्र (अनुकूल)",
+        "en": "friendly",
+        "bho": "नीक मीत (अनुकूल)"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमारे लिए",
+        "en": "to us",
+        "bho": "हमनी खातिर"
+      }
+    },
+    {
+      "sa": "आपः ओषधयः",
+      "gloss": {
+        "hi": "जल और ओषधियाँ",
+        "en": "the waters and the plants",
+        "bho": "जल आ ओखद-बनस्पति"
+      }
+    },
+    {
+      "sa": "सन्तु",
+      "gloss": {
+        "hi": "हों",
+        "en": "may they be",
+        "bho": "होखसु"
+      }
+    },
+    {
+      "sa": "दुर्मित्रियाः",
+      "gloss": {
+        "hi": "बुरे मित्र (प्रतिकूल)",
+        "en": "unfriendly",
+        "bho": "खराब मीत (प्रतिकूल)"
+      }
+    },
+    {
+      "sa": "तस्मै",
+      "gloss": {
+        "hi": "उसके लिए",
+        "en": "to him",
+        "bho": "ओकरा खातिर"
+      }
+    },
+    {
+      "sa": "यः अस्मान् द्वेष्टि",
+      "gloss": {
+        "hi": "जो हमसे द्वेष करता है",
+        "en": "who hates us",
+        "bho": "जे हमनी से द्वेष करेला"
+      }
+    },
+    {
+      "sa": "यं च वयं द्विष्मः",
+      "gloss": {
+        "hi": "और जिससे हम द्वेष करते हैं",
+        "en": "and whom we hate",
+        "bho": "आ जेकरा से हमनी द्वेष करीले"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "जल और ओषधियों को हानि न पहुँचाना; हे राजा वरुण, हर स्थान से हमें छुड़ाओ। जो हम गौओं को \"अवध्य\" कहते और वरुण की शपथ लेते हैं — उस (भूल) से भी, हे वरुण, हमें छुड़ाओ। जल और ओषधियाँ हमारे लिए अच्छे मित्र हों; और उसके लिए बुरे मित्र हों जो हमसे द्वेष करता है और जिससे हम द्वेष करते हैं।",
+    "en": "Harm not the waters nor the plants; from every abode, O king Varuna, release us. When we call the cows \"not to be killed\" and swear by Varuna — from that too, O Varuna, release us. May the waters and the plants be friendly to us; and unfriendly to him who hates us and whom we hate.",
+    "bho": "जल आ ओखद-बनस्पति के हानि ना करीं; हे राजा वरुण, हर जगह से हमनी के छोड़ाईं। जे हमनी गाय के \"ना मारे जोग\" कहीले आ वरुण के सपथ लीहिले — ओह (भूल) से भी, हे वरुण, हमनी के छोड़ाईं। जल आ ओखद-बनस्पति हमनी खातिर नीक मीत होखसु; आ ओकरा खातिर खराब मीत होखसु जे हमनी से द्वेष करेला आ जेकरा से हमनी द्वेष करीले।"
+  },
+  "explanation": {
+    "hi": "शुक्ल यजुर्वेद के छठे अध्याय (6.22) के इस यजुस् के केवल अंतिम दो वाक्य [[havan]] में काम आते हैं: स्विष्टकृत् होम के बाद [[purohit]] पवित्री लेकर प्रणीता के जल से \"सुमित्रिया न आप ओषधयः संतु\" कहते हुए यजमान के सिर पर मार्जन करता है, और \"दुर्मित्रियास्तस्मै संतु…\" कहते हुए प्रणीता-पात्र का जल ईशान कोण में गिराकर पात्र को उलट देता है — यह \"प्रणीता-विमोक\" है, और इसके बाद पवित्री अग्नि में छोड़ दी जाती है। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.1 की स्थालीपाक-विधि में प्रणीता जल का यही अंत है। मूल में यह मंत्र पशुबंध के अवभृथ का है — उवट और महीधर दोनों यही संदर्भ देते हैं; \"अघ्न्या\" (अवध्य) गौ का वैदिक नाम है। \"जो हमसे द्वेष करे उसके लिए प्रतिकूल हो\" जैसी पंक्तियाँ वैदिक मंत्रों की साधारण शैली हैं; साइट इन्हें मंत्र के अपने शब्दों के रूप में देती है।",
+    "en": "Of this yajus of the sixth adhyaya of the Shukla Yajurveda (6.22) only the last two sentences are used in the havan: after the svishtakrit homa the purohit takes the pavitri and, saying \"sumitriya na apa oshadhayah santu\", sprinkles the pranita water on the yajaman's head, then pours the pranita water out towards the north-east with \"durmitriyas tasmai santu …\" and turns the vessel upside down — this is the \"pranita-vimoka\", after which the pavitri is dropped into the fire. The sthalipaka procedure of the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.1 ends the pranita water in the same way. Originally the mantra belongs to the closing bath of the animal sacrifice — Uvata and Mahidhara both give that setting; \"aghnya\" (not to be killed) is the Vedic name of the cow. Lines like \"unfriendly to him who hates us\" are the ordinary idiom of Vedic mantras; the site presents them as the mantra's own words.",
+    "bho": "शुक्ल यजुर्वेद के छठा अध्याय (6.22) के एह यजुस् के खाली आखिरी दू वाक्य [[havan]] में काम आवेला: स्विष्टकृत् होम के बाद [[purohit]] पवित्री लेके प्रणीता के जल से \"सुमित्रिया…\" (पहिला आधा) कहत जजमान के माथा पर मार्जन करेलन, आ \"दुर्मित्रियास्तस्मै संतु…\" कहत प्रणीता-बरतन के जल ईशान कोन में गिरा के बरतन उलट देलन — ई \"प्रणीता-विमोक\" बा, आ एकरा बाद पवित्री आगि में छोड़ दिहल जाला। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.1 के स्थालीपाक-विधि में प्रणीता जल के इहे अंत बा। मूल में ई मंत्र पशुबंध के अवभृथ के बा — उवट आ महीधर दुनो इहे संदर्भ देलन; \"अघ्न्या\" (ना मारे जोग) गाय के वैदिक नाँव बा। \"जे हमनी से द्वेष करे ओकरा खातिर प्रतिकूल होखे\" जइसन पंक्ति वैदिक मंत्र के साधारन सैली बा; साइट एकरा मंत्र के आपन सब्द के रूप में देले।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-06",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः; ।। n ।। → ॥ and the verse number removed; line breaks removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vasishthi-havan-paddhati-1941",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "havan",
+    "marjana",
+    "varuna"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}
