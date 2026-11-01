@@ -1,0 +1,104 @@
+{
+  "id": "pad-mata-pitamahi-chaiva",
+  "kind": "paddhati",
+  "title": {
+    "hi": "माता पितामही चैव (नांदीमुख पितरों की प्रसन्नता का श्लोक)",
+    "en": "Mata pitamahi chaiva (the verse asking the nandimukha ancestors' favour)",
+    "bho": "माता पितामही चैव (नांदीमुख पितर लोग के खुसी के श्लोक)"
+  },
+  "devanagari": "माता पितामही चैव तथैव प्रपितामही । पिता पितामहश्चैव तथैव प्रपितामहः ॥ मातामहस्तत्पिता च प्रमातामहकादयः । एते भवन्तु सुप्रीताः प्रयच्छन्तु च मङ्गलम् ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "माता पितामही प्रपितामही",
+      "gloss": {
+        "hi": "माता, दादी, परदादी",
+        "en": "mother, grandmother, great-grandmother",
+        "bho": "माई, दादी, परदादी"
+      }
+    },
+    {
+      "sa": "पिता पितामहः प्रपितामहः",
+      "gloss": {
+        "hi": "पिता, दादा, परदादा",
+        "en": "father, grandfather, great-grandfather",
+        "bho": "बाबूजी, बाबा, परबाबा"
+      }
+    },
+    {
+      "sa": "मातामहः तत्पिता च",
+      "gloss": {
+        "hi": "नाना और उनके पिता",
+        "en": "the maternal grandfather and his father",
+        "bho": "नाना आ उनकर बाबूजी"
+      }
+    },
+    {
+      "sa": "प्रमातामहकादयः",
+      "gloss": {
+        "hi": "परनाना आदि",
+        "en": "the great-grandfather on the mother's side and the rest",
+        "bho": "परनाना आदि"
+      }
+    },
+    {
+      "sa": "एते",
+      "gloss": {
+        "hi": "ये",
+        "en": "these",
+        "bho": "ई लोग"
+      }
+    },
+    {
+      "sa": "भवन्तु सुप्रीताः",
+      "gloss": {
+        "hi": "अत्यंत प्रसन्न हों",
+        "en": "may they be well pleased",
+        "bho": "खूब खुस होखसु"
+      }
+    },
+    {
+      "sa": "प्रयच्छन्तु च मङ्गलम्",
+      "gloss": {
+        "hi": "और मंगल दें",
+        "en": "and grant well-being",
+        "bho": "आ मंगल देसु"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "माता, दादी और परदादी; पिता, दादा और परदादा; नाना, उनके पिता और परनाना आदि — ये सब अत्यंत प्रसन्न हों और मंगल दें।",
+    "en": "Mother, grandmother and great-grandmother; father, grandfather and great-grandfather; the maternal grandfather, his father and the rest — may all these be well pleased and grant well-being.",
+    "bho": "माई, दादी आ परदादी; बाबूजी, बाबा आ परबाबा; नाना, उनकर बाबूजी आ परनाना आदि — ई सब खूब खुस होखसु आ मंगल देसु।"
+  },
+  "explanation": {
+    "hi": "[संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) के नांदी-श्राद्ध-प्रयोग में दक्षिणा के बाद कुलदेवता को नमस्कार करके यजमान ये दो श्लोक पढ़ता है — तीनों वर्गों के पितरों के नाम (संबंध से, व्यक्ति-नाम से नहीं) लेकर उनकी प्रसन्नता और मंगल की कामना। जिस वर्ग के पितर जीवित होने से छूट गए हों, उसका चरण भी छोड़ दिया जाता है (ग्रंथ का निर्देश)। हिंदी-पट्टी की द्विवेदी पद्धति में यह श्लोक नहीं है; यहाँ इसे वैकल्पिक चरण के रूप में रखा गया है क्योंकि यह [[nandi-shraddha]] का भाव एक साँस में कह देता है।",
+    "en": "In the nandi-shraddha prayoga of the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D), after the dakshina the host bows to the family deity and recites these two verses — naming the ancestors of all three groups by relation (not by personal name) and asking for their favour and blessing. Where a group has been left out because its ancestors are living, its line is dropped as well (the digest's instruction). The Hindi-belt Dwivedi paddhati does not have this verse; it is kept here as an optional step because it states the sense of the nandi shraddha in one breath.",
+    "bho": "[संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) के नांदी-श्राद्ध-परयोग में दक्खिना के बाद कुलदेवता के परनाम कर के जजमान ई दू श्लोक पढ़ेला — तीनो बरग के पितर लोग के नाँव (संबंध से, आदमी के नाँव से ना) ले के उनकर खुसी आ मंगल के कामना। जे बरग के पितर जियत होखे के कारन छूट गइल होखे, ओकर चरन भी छोड़ दिहल जाला (ग्रंथ के निरदेस)। हिंदी-पट्टी के द्विवेदी पद्धति में ई श्लोक नइखे; इहाँ एकरा बैकल्पिक चरन के रूप में रखल गइल काहे कि ई [[nandi-shraddha]] के भाव एक साँस में कह देला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-samskararatnamala-1-01",
+    "retrieved": "2026-11-01",
+    "modified": "the editorial footnote marker [ ३७ ] inside प्रमातामहकादयः removed"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit ritual formula (anonymous, pre-modern); Wikisource transcription of the Anandashrama edition CC BY-SA 4.0",
+  "tags": [
+    "nandi",
+    "prarthana"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "locator": "bhaga 1, prakarana 1 (नान्दीश्राद्धप्रयोगः, after the dakshina)",
+  "checkedAgainst": [
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01",
+      "note": "the Hindi-belt Dwivedi prayoga has no equivalent verse; compared only for the three varga names, which agree"
+    }
+  ]
+}

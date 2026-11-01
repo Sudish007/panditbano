@@ -1,0 +1,192 @@
+{
+  "id": "vs-12-51",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 12.51",
+  "title": {
+    "hi": "इडामग्ने पुरुदंसं (नांदी-श्राद्ध का समापन-मंत्र)",
+    "en": "Idam agne purudamsam (closing mantra of the nandi shraddha)",
+    "bho": "इडामग्ने पुरुदंसं (नांदी-श्राद्ध के समापन-मंत्र)"
+  },
+  "devanagari": "इडा॑मग्ने पुरु॒दᳪं᳭स॑ᳪं᳭ स॒निं गोः श॑श्वत्त॒मᳪं᳭ हव॑मानाय साध । स्यान्नः॑ सू॒नुस्तन॑यो वि॒जावाग्ने॒ सा ते॑ सुम॒तिर्भू॑त्व॒स्मे ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "इडाम्",
+      "gloss": {
+        "hi": "इडा (अन्न, पुष्टि) को",
+        "en": "Ida (nourishment, the sacred food)",
+        "bho": "इडा (अन्न, पुष्टि) के"
+      }
+    },
+    {
+      "sa": "अग्ने",
+      "gloss": {
+        "hi": "हे अग्नि",
+        "en": "O Agni",
+        "bho": "हे अग्नि"
+      }
+    },
+    {
+      "sa": "पुरुदंसम्",
+      "gloss": {
+        "hi": "बहुत कर्मों वाली",
+        "en": "rich in wondrous works",
+        "bho": "ढेर करम वाली"
+      }
+    },
+    {
+      "sa": "सनिम्",
+      "gloss": {
+        "hi": "लाभ को",
+        "en": "the gain",
+        "bho": "लाभ के"
+      }
+    },
+    {
+      "sa": "गोः",
+      "gloss": {
+        "hi": "गौ के",
+        "en": "of the cow",
+        "bho": "गाय के"
+      }
+    },
+    {
+      "sa": "शश्वत्तमम्",
+      "gloss": {
+        "hi": "सबसे स्थायी",
+        "en": "most lasting",
+        "bho": "सबसे टिकाऊ"
+      }
+    },
+    {
+      "sa": "हवमानाय",
+      "gloss": {
+        "hi": "पुकारने वाले के लिए",
+        "en": "for him who calls",
+        "bho": "पुकारे वाला खातिर"
+      }
+    },
+    {
+      "sa": "साध",
+      "gloss": {
+        "hi": "सिद्ध कर",
+        "en": "bring about",
+        "bho": "सिद्ध करीं"
+      }
+    },
+    {
+      "sa": "स्यात्",
+      "gloss": {
+        "hi": "हो",
+        "en": "may there be",
+        "bho": "होखे"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमारा",
+        "en": "our",
+        "bho": "हमनी के"
+      }
+    },
+    {
+      "sa": "सूनुः",
+      "gloss": {
+        "hi": "पुत्र",
+        "en": "son",
+        "bho": "बेटा"
+      }
+    },
+    {
+      "sa": "तनयः",
+      "gloss": {
+        "hi": "संतान (पौत्र)",
+        "en": "offspring (grandson)",
+        "bho": "संतान (पोता)"
+      }
+    },
+    {
+      "sa": "विजावा",
+      "gloss": {
+        "hi": "संतति बढ़ाने वाला",
+        "en": "begetting offspring",
+        "bho": "संतान बढ़ावे वाला"
+      }
+    },
+    {
+      "sa": "सा",
+      "gloss": {
+        "hi": "वह",
+        "en": "that",
+        "bho": "ऊ"
+      }
+    },
+    {
+      "sa": "ते",
+      "gloss": {
+        "hi": "तेरी",
+        "en": "your",
+        "bho": "तोहार"
+      }
+    },
+    {
+      "sa": "सुमतिः",
+      "gloss": {
+        "hi": "सद्बुद्धि (कृपा)",
+        "en": "good will",
+        "bho": "किरपा"
+      }
+    },
+    {
+      "sa": "भूतु",
+      "gloss": {
+        "hi": "हो",
+        "en": "be",
+        "bho": "होखे"
+      }
+    },
+    {
+      "sa": "अस्मे",
+      "gloss": {
+        "hi": "हम पर",
+        "en": "upon us",
+        "bho": "हमनी पर"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे अग्नि, पुकारने वाले के लिए बहुत कर्मों वाली इडा और गौ का सबसे स्थायी लाभ सिद्ध कर; हमारा पुत्र और संतान संतति बढ़ाने वाला हो; हे अग्नि, तेरी वह कृपा हम पर हो।",
+    "en": "O Agni, bring about for him who calls the Ida rich in wondrous works and the most lasting gain of the cow; may our son and offspring beget offspring; O Agni, may that good will of yours be upon us.",
+    "bho": "हे अग्नि, पुकारे वाला खातिर ढेर करम वाली इडा आ गाय के सबसे टिकाऊ लाभ सिद्ध करीं; हमनी के बेटा आ संतान संतान बढ़ावे वाला होखे; हे अग्नि, तोहार ऊ किरपा हमनी पर होखे।"
+  },
+  "explanation": {
+    "hi": "[[yajurved]] 12.51 (= ऋग्वेद 3.1.23) अग्निचयन का अग्नि-मंत्र है। श्राद्ध-पद्धतियों में 'इडामग्ने' शेषान्न को छूते/संघट्टित करते हुए पढ़ा जाता है — [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) में 'इडामग्ने … इति मंत्रं पठन् पात्रांतरेण किंचिद् द्रव्यं संघट्टयेत्' (दूसरे पात्र से थोड़ा द्रव्य छुआए); द्विवेदी की पद्धति में यह [[nandi-shraddha]] के अंत में 'अनेन नांदीश्राद्धं संपन्नम्' के ठीक पहले आता है। 'सूनुस्तनयो विजावा' — संतान की वृद्धि — वृद्धि-श्राद्ध के भाव से मेल खाता है; यह ऋचा का वचन है, साइट कोई फल नहीं कहती।",
+    "en": "Yajurveda 12.51 (= Rigveda 3.1.23) is an Agni mantra of the Agnichayana. In the shraddha handbooks 'idam agne' is recited while touching the remaining food — the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) says 'reciting idam agne … let him touch a little substance with another vessel'; in the Dwivedi paddhati it comes at the very end of the nandi shraddha, just before 'anena nandi-shraddham sampannam'. 'Sunus tanayo vijava' — the growth of offspring — matches the sense of a vriddhi (growth) shraddha; that is the rk's statement, the site promises no result.",
+    "bho": "[[yajurved]] 12.51 (= ऋग्वेद 3.1.23) अग्निचयन के अग्नि-मंत्र बा। श्राद्ध-पद्धति में 'इडामग्ने' बाचल अन्न के छूअत पढ़ल जाला — [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) में 'इडामग्ने … इति मंत्रं पठन् पात्रांतरेण किंचिद् द्रव्यं संघट्टयेत्' (दुसरा बरतन से थोड़ा द्रव्य छुआवे); द्विवेदी के पद्धति में ई [[nandi-shraddha]] के अंत में 'अनेन नांदीश्राद्धं संपन्नम्' के ठीक पहिले आवेला। 'सूनुस्तनयो विजावा' — संतान के बढ़ती — बृद्धि-श्राद्ध के भाव से मेल खाला; ई ऋचा के बचन बा, साइट कवनो फल ना कहे।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-12",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "nandi",
+    "agni"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

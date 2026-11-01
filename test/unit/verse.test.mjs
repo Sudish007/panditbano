@@ -78,6 +78,9 @@ test("verse tools: ▶ hidden until voice.mjs, accessible name with Latin digits
   assert.equal(btn[1], "सुनें — श्लोक 3, मशीन की आवाज़");
   assert.ok(!/[\u0966-\u096F]/.test(btn[1]), "Latin digits in the accessible name");
   assert.ok(g.includes('<span class="svara-flag">' + t("hi", "svara.on")));
+  // a svara-marked record of another text (Rigveda, C1A-05 rv-7-54-1) must not be labelled "Madhyandina Samhita"
+  const rv = verseBlock({ ...rec("vs-36-3"), id: "rv-7-54-1", text: "rigveda" }, "hi").toString();
+  assert.ok(rv.includes('<span class="svara-flag">' + t("hi", "svara.on_plain") + "</span>") && !rv.includes(t("hi", "svara.on")));
   assert.ok(g.includes('<span class="note">' + t("hi", "voice.note")));
   assert.ok(g.includes('href="#reading-settings"'));
   assert.ok(g.includes('role="status" data-vstatus'));

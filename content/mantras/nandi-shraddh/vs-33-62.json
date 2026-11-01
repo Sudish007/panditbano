@@ -1,0 +1,121 @@
+{
+  "id": "vs-33-62",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 33.62",
+  "title": {
+    "hi": "उपास्मै गायता नरः (नांदी-श्राद्ध का श्रावण-मंत्र)",
+    "en": "Upasmai gayata narah (recited at the nandi shraddha)",
+    "bho": "उपास्मै गायता नरः (नांदी-श्राद्ध के सुनावल मंत्र)"
+  },
+  "devanagari": "उपा॑स्मै गायता नरः॒ पव॑माना॒येन्द॑वे । अ॒भि दे॒वाँ२ इय॑क्षते ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "उप",
+      "gloss": {
+        "hi": "पास (आकर)",
+        "en": "near",
+        "bho": "लगे"
+      }
+    },
+    {
+      "sa": "अस्मै",
+      "gloss": {
+        "hi": "इस (पवमान सोम) के लिए",
+        "en": "for this (soma)",
+        "bho": "ए (सोम) खातिर"
+      }
+    },
+    {
+      "sa": "गायत",
+      "gloss": {
+        "hi": "गाओ",
+        "en": "sing",
+        "bho": "गाईं"
+      }
+    },
+    {
+      "sa": "नरः",
+      "gloss": {
+        "hi": "हे मनुष्यों",
+        "en": "O men",
+        "bho": "हे मनई लोग"
+      }
+    },
+    {
+      "sa": "पवमानाय",
+      "gloss": {
+        "hi": "पवित्र होते हुए",
+        "en": "the purifying",
+        "bho": "पबित्र होत"
+      }
+    },
+    {
+      "sa": "इन्दवे",
+      "gloss": {
+        "hi": "इंदु (सोम-बिंदु) के लिए",
+        "en": "for the Indu (the soma drop)",
+        "bho": "इंदु (सोम-बूँद) खातिर"
+      }
+    },
+    {
+      "sa": "अभि",
+      "gloss": {
+        "hi": "की ओर",
+        "en": "towards",
+        "bho": "के ओर"
+      }
+    },
+    {
+      "sa": "देवान्",
+      "gloss": {
+        "hi": "देवों को",
+        "en": "the gods",
+        "bho": "देव लोग के"
+      }
+    },
+    {
+      "sa": "इयक्षते",
+      "gloss": {
+        "hi": "जो यजन (पूजन) चाहता है",
+        "en": "who seeks to worship",
+        "bho": "जे यजन चाहेला"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे मनुष्यों, पवित्र होते हुए इस इंदु (सोम) के लिए पास आकर गाओ, जो देवों की ओर यजन करना चाहता है।",
+    "en": "O men, draw near and sing for this purifying Indu (the soma), who seeks to worship the gods.",
+    "bho": "हे मनई लोग, पबित्र होत ए इंदु (सोम) खातिर लगे आ के गाईं, जे देव लोग के ओर यजन करे चाहेला।"
+  },
+  "explanation": {
+    "hi": "[[yajurved]] 33.62 (= ऋग्वेद 9.11.1) पवमान सोम का गायत्री-छंद का मंत्र है। श्राद्ध-पद्धतियों में इसे 'श्रावण' — ब्राह्मणों को सुनाने — के मंत्रों में रखा गया है; [[nandi-shraddha]] में दक्षिणा के पहले यजमान इसे और 'इडामग्ने' (12.51) को पढ़ता है, [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) और द्विवेदी की पद्धति दोनों इसी क्रम में हैं। पितृ-प्रकरण में 'पवमान' का भाव पवित्रता का है — नांदी-श्राद्ध मंगल-कर्म है, इसलिए पवमान-सूक्त यहाँ सहज है।",
+    "en": "Yajurveda 33.62 (= Rigveda 9.11.1) is a gayatri-metre mantra of the purifying soma. The shraddha handbooks place it among the 'shravana' mantras — those recited for the Brahmins to hear; in the nandi shraddha the host recites it with 'idam agne' (12.51) before the dakshina, and both the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) and the Dwivedi paddhati keep this order. In the context of the ancestors 'pavamana' carries the sense of purity — the nandi shraddha is an auspicious rite, so a Pavamana verse sits naturally here.",
+    "bho": "[[yajurved]] 33.62 (= ऋग्वेद 9.11.1) पबित्र करे वाला सोम के गायत्री-छंद के मंत्र बा। श्राद्ध-पद्धति एकरा 'श्रावन' — ब्राह्मन लोग के सुनावे — के मंत्र में रखले बिया; [[nandi-shraddha]] में दक्खिना के पहिले जजमान एकरा आ 'इडामग्ने' (12.51) के पढ़ेला, [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) आ द्विवेदी के पद्धति दुनो एही क्रम में बा। पितर-प्रकरन में 'पवमान' के भाव पबित्रता के बा — नांदी-श्राद्ध मंगल-करम बा, एही से पवमान-सूक्त इहाँ सहज बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-33",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "nandi",
+    "shravana",
+    "pavamana"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

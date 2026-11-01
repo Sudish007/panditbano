@@ -91,6 +91,7 @@
   },
   "svara": {
     "on": "svara marks shown (Madhyandina Samhita)",
+    "on_plain": "svara marks shown",
     "off": "svara marks not shown"
   },
   "verse": {

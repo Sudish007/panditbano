@@ -1,0 +1,193 @@
+{
+  "id": "vs-13-3",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 13.3",
+  "title": {
+    "hi": "ब्रह्म जज्ञानं (ब्रह्मा — ईशान-पूर्व के मध्य)",
+    "en": "Brahma jajnanam (Brahma — between north-east and east)",
+    "bho": "ब्रह्म जज्ञानं (ब्रह्मा — ईसान-पूरब के बीच)"
+  },
+  "devanagari": "ब्रह्म॑ जज्ञा॒नं प्र॑थ॒मं पु॒रस्ता॒द्वि सी॑म॒तः सु॒रुचो॑ वे॒न आ॑वः । स बु॒ध्न्या॒ उप॒मा अ॑स्य वि॒ष्ठाः स॒तश्च॒ योनि॒मस॑तश्च॒ वि वः॑ ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "ब्रह्म",
+      "gloss": {
+        "hi": "ब्रह्म (परम तत्त्व)",
+        "en": "Brahman (the supreme)",
+        "bho": "ब्रह्म (परम तत्त्व)"
+      }
+    },
+    {
+      "sa": "जज्ञानम्",
+      "gloss": {
+        "hi": "उत्पन्न होता हुआ",
+        "en": "being born",
+        "bho": "उपजत"
+      }
+    },
+    {
+      "sa": "प्रथमम्",
+      "gloss": {
+        "hi": "सबसे पहले",
+        "en": "first",
+        "bho": "सबसे पहिले"
+      }
+    },
+    {
+      "sa": "पुरस्तात्",
+      "gloss": {
+        "hi": "पूर्व में",
+        "en": "in the east (in front)",
+        "bho": "पूरब में"
+      }
+    },
+    {
+      "sa": "वि",
+      "gloss": {
+        "hi": "विशेष रूप से",
+        "en": "forth",
+        "bho": "बिसेस रूप से"
+      }
+    },
+    {
+      "sa": "सीमतः",
+      "gloss": {
+        "hi": "सीमा से",
+        "en": "from the boundary",
+        "bho": "सीमा से"
+      }
+    },
+    {
+      "sa": "सुरुचः",
+      "gloss": {
+        "hi": "सुंदर प्रकाश",
+        "en": "beautiful lights",
+        "bho": "सुंदर अँजोर"
+      }
+    },
+    {
+      "sa": "वेनः",
+      "gloss": {
+        "hi": "वेन (प्रकाशमान, कामनावान्)",
+        "en": "Vena (the shining, the longing one)",
+        "bho": "वेन (अँजोर वाला)"
+      }
+    },
+    {
+      "sa": "आवः",
+      "gloss": {
+        "hi": "प्रकट किया",
+        "en": "disclosed",
+        "bho": "परगट कइल"
+      }
+    },
+    {
+      "sa": "सः",
+      "gloss": {
+        "hi": "वह",
+        "en": "he",
+        "bho": "ऊ"
+      }
+    },
+    {
+      "sa": "बुध्न्याः",
+      "gloss": {
+        "hi": "मूल (गहराई) के",
+        "en": "of the depth",
+        "bho": "मूल के"
+      }
+    },
+    {
+      "sa": "उपमाः",
+      "gloss": {
+        "hi": "समीपवर्ती रूप",
+        "en": "the nearest forms",
+        "bho": "लगे के रूप"
+      }
+    },
+    {
+      "sa": "अस्य",
+      "gloss": {
+        "hi": "इसके",
+        "en": "of this",
+        "bho": "एकर"
+      }
+    },
+    {
+      "sa": "विष्ठाः",
+      "gloss": {
+        "hi": "स्थान",
+        "en": "the stations",
+        "bho": "ठाँव"
+      }
+    },
+    {
+      "sa": "सतः च",
+      "gloss": {
+        "hi": "सत् का और",
+        "en": "of the existent and",
+        "bho": "सत् के आ"
+      }
+    },
+    {
+      "sa": "योनिम्",
+      "gloss": {
+        "hi": "उत्पत्ति-स्थान",
+        "en": "the womb",
+        "bho": "उपजे के ठाँव"
+      }
+    },
+    {
+      "sa": "असतः च",
+      "gloss": {
+        "hi": "असत् का",
+        "en": "of the non-existent",
+        "bho": "असत् के"
+      }
+    },
+    {
+      "sa": "वि वः",
+      "gloss": {
+        "hi": "प्रकट किया",
+        "en": "disclosed",
+        "bho": "परगट कइल"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "ब्रह्म सबसे पहले पूर्व में उत्पन्न हुआ; वेन (प्रकाशमान) ने सीमा से सुंदर प्रकाश प्रकट किए। उसने इस (जगत्) के मूल के समीपवर्ती रूपों और स्थानों को, सत् और असत् के उत्पत्ति-स्थान को प्रकट किया।",
+    "en": "Brahman was born first, in the east; Vena, the shining one, disclosed beautiful lights from the boundary. He disclosed the nearest forms and the stations of its depth, the womb of the existent and of the non-existent.",
+    "bho": "ब्रह्म सबसे पहिले पूरब में उपजल; वेन (अँजोर वाला) सीमा से सुंदर अँजोर परगट कइलन। ऊ ए (जगत) के मूल के लगे के रूप आ ठाँव के, सत् आ असत् के उपजे के ठाँव के परगट कइलन।"
+  },
+  "explanation": {
+    "hi": "[[yajurved]] 13.3 अग्निचयन में 'ब्रह्म-यजुः' है — सृष्टि के आरंभ का प्रसिद्ध मंत्र। पद्धति में इसका विनियोग दस [[dikpal]] में [[brahma]] के आवाहन (ईशान और पूर्व के बीच का स्थान) में है, और नवग्रह-मंडल में केतु के प्रत्यधिदेवता ब्रह्मा के आवाहन में भी यही पढ़ा जाता है। मंत्र गूढ़ है; पूजा में 'ब्रह्म सबसे पहले प्रकट हुआ' — यही भाव पकड़ना पर्याप्त है। इसके बाद ध्यान-श्लोक 'पद्मयोनिं चतुर्मूर्तिं वेदगर्भं पितामहम्' और आवाहन-वाक्य आता है।",
+    "en": "Yajurveda 13.3 is the 'brahma-yajus' of the Agnichayana — the well-known mantra of the beginning of creation. In the paddhati it is recited for the invocation of Brahma among the ten dikpalas (the station between north-east and east), and again in the navagraha mandala for Brahma as the pratyadhidevata of Ketu. The mantra is cryptic; for the puja it is enough to hold its first thought — 'Brahman appeared first'. The dhyana verse 'padma-yonim chaturmurtim veda-garbham pitamaham' and the invocation sentence follow.",
+    "bho": "[[yajurved]] 13.3 अग्निचयन में 'ब्रह्म-यजुः' बा — सृष्टि के सुरुआत के परसिद्ध मंत्र। पद्धति में एकर बिनियोग दस [[dikpal]] में [[brahma]] के आवाहन (ईसान आ पूरब के बीच के ठाँव) में बा, आ नवग्रह-मंडल में केतु के प्रत्यधिदेवता ब्रह्मा के आवाहन में भी एही पढ़ल जाला। मंत्र गूढ़ बा; पूजा में 'ब्रह्म सबसे पहिले परगट भइल' — एही भाव पकड़ल काफी बा। एकरा बाद धियान-श्लोक 'पद्मयोनिं चतुर्मूर्तिं वेदगर्भं पितामहम्' आ आवाहन-वाक्य आवेला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-13",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "dikpala",
+    "brahma",
+    "urdhva"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

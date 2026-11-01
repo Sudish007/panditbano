@@ -1,0 +1,161 @@
+{
+  "id": "vs-20-50",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 20.50",
+  "title": {
+    "hi": "त्रातारमिंद्रम् (इंद्र — पूर्व दिशा)",
+    "en": "Trataram indram (Indra — the east)",
+    "bho": "त्रातारमिंद्रम् (इंद्र — पूरब दिसा)"
+  },
+  "devanagari": "त्रा॒तार॒मिन्द्र॑मवि॒तार॒मिन्द्र॒ᳪं᳭ हवे॑ हवे सु॒हव॒ᳪं᳭ शूर॒मिन्द्र॑म् । ह्वया॑मि श॒क्रं पु॑रुहू॒तमिन्द्र॑ᳪं᳭ स्व॒स्ति नो॑ म॒घवा॑ धा॒त्विन्द्रः॑ ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "त्रातारम्",
+      "gloss": {
+        "hi": "रक्षक",
+        "en": "the protector",
+        "bho": "रच्छक"
+      }
+    },
+    {
+      "sa": "इन्द्रम्",
+      "gloss": {
+        "hi": "इंद्र को",
+        "en": "Indra",
+        "bho": "इंद्र के"
+      }
+    },
+    {
+      "sa": "अवितारम्",
+      "gloss": {
+        "hi": "सहायक, पालक",
+        "en": "the helper, the favourer",
+        "bho": "सहायक, पालक"
+      }
+    },
+    {
+      "sa": "हवे हवे",
+      "gloss": {
+        "hi": "हर आह्वान में",
+        "en": "in every invocation",
+        "bho": "हर पुकार में"
+      }
+    },
+    {
+      "sa": "सुहवम्",
+      "gloss": {
+        "hi": "सुखपूर्वक पुकारे जाने योग्य",
+        "en": "easy to call upon",
+        "bho": "आसानी से पुकारे जोग"
+      }
+    },
+    {
+      "sa": "शूरम्",
+      "gloss": {
+        "hi": "वीर",
+        "en": "the hero",
+        "bho": "बीर"
+      }
+    },
+    {
+      "sa": "ह्वयामि",
+      "gloss": {
+        "hi": "मैं पुकारता हूँ",
+        "en": "I call",
+        "bho": "हम पुकारत बानी"
+      }
+    },
+    {
+      "sa": "शक्रम्",
+      "gloss": {
+        "hi": "शक्तिशाली को",
+        "en": "the mighty one",
+        "bho": "सकतवाला के"
+      }
+    },
+    {
+      "sa": "पुरुहूतम्",
+      "gloss": {
+        "hi": "बहुतों से पुकारे गए",
+        "en": "invoked by many",
+        "bho": "ढेर लोग से पुकारल"
+      }
+    },
+    {
+      "sa": "स्वस्ति",
+      "gloss": {
+        "hi": "कल्याण",
+        "en": "well-being",
+        "bho": "कल्यान"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमें",
+        "en": "to us",
+        "bho": "हमनी के"
+      }
+    },
+    {
+      "sa": "मघवा",
+      "gloss": {
+        "hi": "दानशील (इंद्र)",
+        "en": "the bountiful one",
+        "bho": "दानी"
+      }
+    },
+    {
+      "sa": "धातु",
+      "gloss": {
+        "hi": "दे",
+        "en": "may he grant",
+        "bho": "देसु"
+      }
+    },
+    {
+      "sa": "इन्द्रः",
+      "gloss": {
+        "hi": "इंद्र",
+        "en": "Indra",
+        "bho": "इंद्र"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "रक्षक इंद्र को, सहायक इंद्र को, हर आह्वान में सुख से पुकारे जाने वाले वीर इंद्र को, बहुतों से पुकारे गए शक्तिशाली इंद्र को मैं पुकारता हूँ; दानशील इंद्र हमें कल्याण दें।",
+    "en": "I call Indra the protector, Indra the helper, Indra the hero easy to call in every invocation; I call the mighty, much-invoked Indra. May the bountiful Indra grant us well-being.",
+    "bho": "रच्छक इंद्र के, सहायक इंद्र के, हर पुकार में आसानी से पुकारे जोग बीर इंद्र के, ढेर लोग से पुकारल सकतवाला इंद्र के हम पुकारत बानी; दानी इंद्र हमनी के कल्यान देसु।"
+  },
+  "explanation": {
+    "hi": "[[yajurved]] 20.50 (= ऋग्वेद 6.47.11) सौत्रामणी-प्रकरण का इंद्र-मंत्र है। पद्धति में यह पूर्व दिशा के [[dikpal]] इंद्र का आवाहन-मंत्र है: नवग्रह-मंडल की परिधि के बाहर पूर्व में अक्षत छोड़ते हुए पंडित इसे पढ़ते हैं, फिर ध्यान-श्लोक 'इंद्रं सुरपतिश्रेष्ठं…' और 'ॐ भूर्भुवः स्वः इंद्र इहागच्छ इह तिष्ठ' का आवाहन-वाक्य। रिसर्च में इसका लोकेटर 20.50/20.90 के बीच अनिश्चित था; स्वर-पाठ की संख्या ॥५०॥ से 20.50 निश्चित है (20.90 'अश्विना पिबतां मधु' है)। चारों पदों में 'इंद्र' नाम की आवृत्ति ही इसे दिक्पाल-पूजन का स्वाभाविक मंत्र बनाती है।",
+    "en": "Yajurveda 20.50 (= Rigveda 6.47.11) is the Indra mantra of the Sautramani section. In the paddhati it is the invocation mantra of Indra, the dikpala of the east: the pandit recites it while dropping rice outside the rim of the navagraha mandala on the eastern side, then the dhyana verse 'indram surapati-shreshtham…' and the invocation sentence 'om bhur bhuvah svah indra ihagachchha iha tishtha'. The research inventory had left the locator open between 20.50 and 20.90; the numbering of the svara text (॥५०॥) settles it as 20.50 (20.90 is 'ashvina pibatam madhu'). The fourfold repetition of the name Indra is what makes this the natural mantra for the guardian of the east.",
+    "bho": "[[yajurved]] 20.50 (= ऋग्वेद 6.47.11) सौत्रामनी-प्रकरन के इंद्र-मंत्र बा। पद्धति में ई पूरब दिसा के [[dikpal]] इंद्र के आवाहन-मंत्र बा: नवग्रह-मंडल के घेरा के बाहर पूरब में अछत छोड़त पंडित एकरा पढ़सु, फेर धियान-श्लोक 'इंद्रं सुरपतिश्रेष्ठं…' आ 'ॐ भूर्भुवः स्वः इंद्र इहागच्छ इह तिष्ठ' के आवाहन-वाक्य। रिसर्च में एकर लोकेटर 20.50/20.90 के बीच अनिश्चित रहे; सुर-पाठ के गिनती ॥५०॥ से 20.50 पक्का भइल (20.90 'अश्विना पिबतां मधु' बा)। चारो पद में 'इंद्र' नाँव के दोहराव ही एकरा दिक्पाल-पूजन के सहज मंत्र बनावेला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-20",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "dikpala",
+    "indra",
+    "purva"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

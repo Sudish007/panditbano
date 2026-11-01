@@ -57,13 +57,15 @@ export function kindLabel(rec, lang) {
   return null;
 }
 
+// The "svara marks shown" note names the Madhyandina Samhita only for a Shukla-Yajurveda record; a Rigveda record
+// (rv-7-54-1, C1A-05) or a chapter verse without a `text` gets the plain note (§27 item 5 — state what is shown, truthfully).
 function toolsRow(rec, lang, { id, n, title, settingsHref, showKind }) {
   const aria = n !== null && n !== undefined ? t(lang, "voice.aria", { n: String(n) }) : t(lang, "voice.aria_title", { title });
   const kind = showKind ? kindLabel(rec, lang) : null;
   return html`<div class="verse-tools">
 <button class="btn btn-ghost" type="button" data-listen="${id}" aria-pressed="false" aria-label="${aria}" data-l-play="${t(lang, "voice.listen")}" data-l-stop="${t(lang, "voice.stop")}" hidden>${icon("i-play")}<span class="lbl">${t(lang, "voice.listen")}</span></button>
 <a class="btn btn-ghost btn-icon" href="${settingsHref}" aria-label="${t(lang, "verse.open_settings")}" title="${t(lang, "verse.open_settings")}">${icon("i-settings")}</a>
-<span class="svara-flag${rec.svara === true ? "" : " off"}">${t(lang, rec.svara === true ? "svara.on" : "svara.off")}</span>
+<span class="svara-flag${rec.svara === true ? "" : " off"}">${t(lang, rec.svara === true ? (rec.text === "shukla-yajurveda" ? "svara.on" : "svara.on_plain") : "svara.off")}</span>
 <span class="note">${t(lang, "voice.note")}</span>
 ${kind ? html`<span class="chip chip-kind">${kind}</span>` : ""}
 <span class="vstatus small" role="status" data-vstatus></span>

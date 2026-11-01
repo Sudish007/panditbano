@@ -1,0 +1,244 @@
+{
+  "id": "vs-19-6",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 19.6",
+  "title": {
+    "hi": "कुविदंग यवमंतो (कुबेर — उत्तर दिशा)",
+    "en": "Kuvid anga yavamanto (Kubera — the north)",
+    "bho": "कुविदंग यवमंतो (कुबेर — उत्तर दिसा)"
+  },
+  "devanagari": "कु॒विद॒ङ्ग यव॑मन्तो॒ यवं॑ चि॒द्यथा॒ दान्त्य॑नुपू॒र्वं वि॒यूय॑ । इ॒हेहै॑षां कृणुहि॒ भोज॑नानि॒ ये ब॒र्हिषो॒ नम॑ उक्तिं॒ यज॑न्ति । उ॒प॒या॒मगृ॑हीतोऽस्य॒श्विभ्यां॑ त्वा॒ सर॑स्वत्यै॒ त्वेन्द्रा॑य त्वा सु॒त्राम्ण॑ ए॒ष ते॒ योनि॒स्तेज॑से त्वा वी॒र्या॒य त्वा॒ बला॑य त्वा ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "कुविद् अङ्ग",
+      "gloss": {
+        "hi": "क्या सचमुच",
+        "en": "do not indeed",
+        "bho": "का सही में"
+      }
+    },
+    {
+      "sa": "यवमन्तः",
+      "gloss": {
+        "hi": "जौ वाले (किसान)",
+        "en": "the barley-owners",
+        "bho": "जौ वाला (किसान)"
+      }
+    },
+    {
+      "sa": "यवं चित्",
+      "gloss": {
+        "hi": "जौ को ही",
+        "en": "the barley",
+        "bho": "जौ के"
+      }
+    },
+    {
+      "sa": "यथा",
+      "gloss": {
+        "hi": "जैसे",
+        "en": "as",
+        "bho": "जइसे"
+      }
+    },
+    {
+      "sa": "दान्ति",
+      "gloss": {
+        "hi": "काटते हैं",
+        "en": "they reap",
+        "bho": "काटेलन"
+      }
+    },
+    {
+      "sa": "अनुपूर्वम्",
+      "gloss": {
+        "hi": "क्रम से",
+        "en": "in order",
+        "bho": "क्रम से"
+      }
+    },
+    {
+      "sa": "वियूय",
+      "gloss": {
+        "hi": "अलग-अलग करके",
+        "en": "separating",
+        "bho": "अलगा-अलगा कर के"
+      }
+    },
+    {
+      "sa": "इहेह",
+      "gloss": {
+        "hi": "यहाँ-यहाँ",
+        "en": "here and here",
+        "bho": "इहाँ-इहाँ"
+      }
+    },
+    {
+      "sa": "एषाम्",
+      "gloss": {
+        "hi": "इनके",
+        "en": "for these",
+        "bho": "एकनी के"
+      }
+    },
+    {
+      "sa": "कृणुहि",
+      "gloss": {
+        "hi": "कर",
+        "en": "make",
+        "bho": "करीं"
+      }
+    },
+    {
+      "sa": "भोजनानि",
+      "gloss": {
+        "hi": "भोग (अन्न)",
+        "en": "the enjoyments (food)",
+        "bho": "भोग (अन्न)"
+      }
+    },
+    {
+      "sa": "ये",
+      "gloss": {
+        "hi": "जो",
+        "en": "who",
+        "bho": "जे"
+      }
+    },
+    {
+      "sa": "बर्हिषः",
+      "gloss": {
+        "hi": "कुश-आसन पर",
+        "en": "on the sacred grass",
+        "bho": "कुस के आसन पर"
+      }
+    },
+    {
+      "sa": "नमउक्तिम्",
+      "gloss": {
+        "hi": "नमस्कार-वचन",
+        "en": "words of homage",
+        "bho": "परनाम-बचन"
+      }
+    },
+    {
+      "sa": "यजन्ति",
+      "gloss": {
+        "hi": "यजन करते हैं",
+        "en": "offer",
+        "bho": "यजन करेलन"
+      }
+    },
+    {
+      "sa": "उपयामगृहीतः असि",
+      "gloss": {
+        "hi": "तू उपयाम-पात्र में ग्रहण किया गया है",
+        "en": "you are taken with the upayama vessel",
+        "bho": "तू उपयाम-बरतन में लिहल गइल बाड़"
+      }
+    },
+    {
+      "sa": "अश्विभ्यां त्वा",
+      "gloss": {
+        "hi": "अश्विनौ के लिए तुझे",
+        "en": "you for the Ashvins",
+        "bho": "अश्विनी लोग खातिर तोहरा"
+      }
+    },
+    {
+      "sa": "सरस्वत्यै त्वा",
+      "gloss": {
+        "hi": "सरस्वती के लिए तुझे",
+        "en": "you for Sarasvati",
+        "bho": "सरस्वती खातिर तोहरा"
+      }
+    },
+    {
+      "sa": "इन्द्राय त्वा सुत्राम्णे",
+      "gloss": {
+        "hi": "सुरक्षक इंद्र के लिए तुझे",
+        "en": "you for Indra the good protector",
+        "bho": "रच्छक इंद्र खातिर तोहरा"
+      }
+    },
+    {
+      "sa": "एष ते योनिः",
+      "gloss": {
+        "hi": "यह तेरा स्थान है",
+        "en": "this is your seat",
+        "bho": "ई तोहार ठाँव बा"
+      }
+    },
+    {
+      "sa": "तेजसे त्वा",
+      "gloss": {
+        "hi": "तेज के लिए तुझे",
+        "en": "you for lustre",
+        "bho": "तेज खातिर तोहरा"
+      }
+    },
+    {
+      "sa": "वीर्याय त्वा",
+      "gloss": {
+        "hi": "वीर्य के लिए तुझे",
+        "en": "you for vigour",
+        "bho": "बीरता खातिर तोहरा"
+      }
+    },
+    {
+      "sa": "बलाय त्वा",
+      "gloss": {
+        "hi": "बल के लिए तुझे",
+        "en": "you for strength",
+        "bho": "बल खातिर तोहरा"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "जैसे जौ वाले किसान जौ को क्रम से अलग-अलग करके काटते हैं, वैसे ही जो कुश-आसन पर नमस्कार-वचन के साथ यजन करते हैं, उनके लिए यहाँ-यहाँ भोग (अन्न) कर। तू उपयाम-पात्र में ग्रहण किया गया है — अश्विनौ के लिए, सरस्वती के लिए, सुरक्षक इंद्र के लिए तुझे; यह तेरा स्थान है — तेज के लिए, वीर्य के लिए, बल के लिए तुझे।",
+    "en": "As the barley-owners reap the barley in order, separating it, so make here, right here, the enjoyments (the food) of those who offer words of homage on the sacred grass. You are taken with the upayama vessel — you for the Ashvins, you for Sarasvati, you for Indra the good protector; this is your seat — you for lustre, you for vigour, you for strength.",
+    "bho": "जइसे जौ वाला किसान जौ के क्रम से अलगा-अलगा कर के काटेलन, ओइसहीं जे कुस के आसन पर परनाम-बचन संगे यजन करेलन, एकनी खातिर इहाँ-इहाँ भोग (अन्न) करीं। तू उपयाम-बरतन में लिहल गइल बाड़ — अश्विनी लोग खातिर, सरस्वती खातिर, रच्छक इंद्र खातिर तोहरा; ई तोहार ठाँव बा — तेज खातिर, बीरता खातिर, बल खातिर तोहरा।"
+  },
+  "explanation": {
+    "hi": "[[yajurved]] 19.6 सौत्रामणी के दुग्ध-ग्रह (पयोग्रह) का मंत्र है — पहला भाग ऋग्वेद 10.131.2 से। पद्धति ने इसे उत्तर दिशा के [[dikpal]] [[kuber]] के आवाहन में रखा है: 'जौ वाले किसान', 'भोजनानि' और 'तेज-वीर्य-बल' के पद धन-धान्य के अधिपति कुबेर से जुड़ते हैं, यही विनियोग का आधार है। पद्धति मंत्र को इसी पूरे रूप में — उपयाम-वाक्य सहित — छापती है। कुबेर स्वयं वैदिक देवता नहीं हैं; इसलिए यहाँ अर्थ-साम्य वाला यजुः चुना गया। इसके बाद ध्यान-श्लोक 'आवाहयामि देवेशं धनदं यक्षपूजितम्' और आवाहन-वाक्य आता है।",
+    "en": "Yajurveda 19.6 is the mantra of the milk cup (payograha) of the Sautramani; its first part is Rigveda 10.131.2. The paddhati places it in the invocation of Kubera, the dikpala of the north: the words 'barley-owners', 'bhojanani' (food) and 'lustre, vigour, strength' connect it with Kubera, the lord of wealth and grain — that likeness is the basis of its use here. The paddhati prints the mantra in this complete form, upayama sentence included. Kubera himself is not a Vedic deity, so a yajus with a matching sense was chosen. The dhyana verse 'avahayami devesham dhanadam yaksha-pujitam' and the invocation sentence follow.",
+    "bho": "[[yajurved]] 19.6 सौत्रामनी के दूध-ग्रह (पयोग्रह) के मंत्र बा — पहिला भाग ऋग्वेद 10.131.2 से। पद्धति एकरा उत्तर दिसा के [[dikpal]] [[kuber]] के आवाहन में रखले बिया: 'जौ वाला किसान', 'भोजनानि' आ 'तेज-बीरता-बल' के पद धन-धान के अधिपति कुबेर से जुड़ेला, एही बिनियोग के आधार बा। पद्धति मंत्र के एही पूरा रूप में — उपयाम-वाक्य सहित — छापेले। कुबेर खुद वैदिक देवता ना बाड़न; एही से इहाँ अरथ-साम्य वाला यजुः चुनल गइल। एकरा बाद धियान-श्लोक 'आवाहयामि देवेशं धनदं यक्षपूजितम्' आ आवाहन-वाक्य आवेला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-19",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "dikpala",
+    "kubera",
+    "uttara"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "variants": [
+    {
+      "reading": "कुविदङ्ग यवमन्तो वयं चिद्यथा दान्त्यनुपूर्वं वियूय",
+      "note": {
+        "hi": "फ़्रैंकफ़र्ट का ई-पाठ 'वयं चिद्' देता है; विकिस्रोत के पद-पाठ और स्वर-पाठ दोनों में 'यवं चिद्' है (ऋग्वेद 10.131.2 भी 'यवं')। यहाँ 'यवं' रखा गया है।",
+        "en": "The Frankfurt e-text reads 'vayam chid'; both the pada and the svara text on Wikisource have 'yavam chid' (as does Rigveda 10.131.2). 'yavam' is kept here.",
+        "bho": "फ्रैंकफर्ट के ई-पाठ 'वयं चिद्' देला; विकिस्रोत के पद-पाठ आ सुर-पाठ दुनो में 'यवं चिद्' बा (ऋग्वेद 10.131.2 में भी 'यवं')। इहाँ 'यवं' रखल गइल।"
+      },
+      "source": "titus-vs"
+    }
+  ]
+}

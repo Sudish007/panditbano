@@ -1,0 +1,129 @@
+{
+  "id": "vs-19-30",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 19.30",
+  "title": {
+    "hi": "व्रतेन दीक्षामाप्नोति (यजमान द्वारा रक्षाबंधन)",
+    "en": "Vratena diksham apnoti (the host ties the raksha)",
+    "bho": "व्रतेन दीक्षामाप्नोति (जजमान के रक्षा बान्हल)"
+  },
+  "devanagari": "व्र॒तेन॑ दी॒क्षामा॑प्नोति दी॒क्षया॑ऽऽप्नोति॒ दक्षि॑णाम् । दक्षि॑णा श्र॒द्धामा॑प्नोति श्र॒द्धया॑ स॒त्यमा॑प्यते ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "व्रतेन",
+      "gloss": {
+        "hi": "व्रत से",
+        "en": "by the vow",
+        "bho": "बरत से"
+      }
+    },
+    {
+      "sa": "दीक्षाम्",
+      "gloss": {
+        "hi": "दीक्षा को",
+        "en": "consecration",
+        "bho": "दीक्षा"
+      }
+    },
+    {
+      "sa": "आप्नोति",
+      "gloss": {
+        "hi": "पाता है",
+        "en": "one obtains",
+        "bho": "पावेला"
+      }
+    },
+    {
+      "sa": "दीक्षया",
+      "gloss": {
+        "hi": "दीक्षा से",
+        "en": "by consecration",
+        "bho": "दीक्षा से"
+      }
+    },
+    {
+      "sa": "दक्षिणाम्",
+      "gloss": {
+        "hi": "दक्षिणा को",
+        "en": "the dakshina (the gift)",
+        "bho": "दक्खिना"
+      }
+    },
+    {
+      "sa": "दक्षिणा",
+      "gloss": {
+        "hi": "दक्षिणा (से)",
+        "en": "(by) the dakshina",
+        "bho": "दक्खिना (से)"
+      }
+    },
+    {
+      "sa": "श्रद्धाम्",
+      "gloss": {
+        "hi": "श्रद्धा को",
+        "en": "faith",
+        "bho": "श्रद्धा"
+      }
+    },
+    {
+      "sa": "श्रद्धया",
+      "gloss": {
+        "hi": "श्रद्धा से",
+        "en": "by faith",
+        "bho": "श्रद्धा से"
+      }
+    },
+    {
+      "sa": "सत्यम्",
+      "gloss": {
+        "hi": "सत्य",
+        "en": "truth",
+        "bho": "सत्य"
+      }
+    },
+    {
+      "sa": "आप्यते",
+      "gloss": {
+        "hi": "पाया जाता है",
+        "en": "is obtained",
+        "bho": "पावल जाला"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "व्रत से दीक्षा मिलती है, दीक्षा से दक्षिणा मिलती है; दक्षिणा से श्रद्धा मिलती है, श्रद्धा से सत्य पाया जाता है।",
+    "en": "By the vow one obtains consecration, by consecration one obtains the dakshina; by the dakshina one obtains faith, by faith truth is obtained.",
+    "bho": "बरत से दीक्षा मिलेला, दीक्षा से दक्खिना मिलेला; दक्खिना से श्रद्धा मिलेला, श्रद्धा से सत्य पावल जाला।"
+  },
+  "explanation": {
+    "hi": "[[yajurved]] 19.30 सौत्रामणी-प्रकरण का यजुः है, जो व्रत → दीक्षा → दक्षिणा → श्रद्धा → सत्य की सीढ़ी कहता है। पद्धति में इसका विनियोग [[raksha-sutra]] के पहले चरण में है: यजमान [[acharya]] की कलाई पर मौली बाँधते हुए इसे पढ़ता है (रक्षा-विधान में पहले पूजक आचार्य को, फिर आचार्य पूजक को रक्षा बाँधते हैं)। 'दक्षिणा' पद के कारण ही यह यजमान का मंत्र है — वह जो देता है। उपनयन-प्रकरण में भी यह यजुः आता है।",
+    "en": "Yajurveda 19.30, a yajus of the Sautramani section, states the ladder vow → consecration → dakshina → faith → truth. In the paddhati it is used at the first step of the raksha-sutra: the host recites it while tying the thread on the acharya's wrist (in the raksha-vidhana the worshipper first ties the raksha on the acharya, then the acharya on the worshipper). The word 'dakshina' is why this is the host's mantra — he is the one who gives. The same yajus also occurs in the upanayana rite.",
+    "bho": "[[yajurved]] 19.30 सौत्रामनी-प्रकरन के यजुः बा, जे बरत → दीक्षा → दक्खिना → श्रद्धा → सत्य के सीढ़ी कहेला। पद्धति में एकर बिनियोग [[raksha-sutra]] के पहिला चरन में बा: जजमान [[acharya]] के कलाई पर मौली बान्हत एकरा पढ़ेला (रक्षा-विधान में पहिले पूजक आचार्य के, फेर आचार्य पूजक के रक्षा बान्हेलन)। 'दक्षिणा' पद के कारन ही ई जजमान के मंत्र बा — ऊ जे देला। उपनयन-प्रकरन में भी ई यजुः आवेला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-19",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "raksha",
+    "diksha",
+    "dakshina"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

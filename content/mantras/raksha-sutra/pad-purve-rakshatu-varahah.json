@@ -1,0 +1,178 @@
+{
+  "id": "pad-purve-rakshatu-varahah",
+  "kind": "paddhati",
+  "title": {
+    "hi": "पूर्वे रक्षतु वाराहः (दस दिशाओं की विष्णु-रक्षा)",
+    "en": "Purve rakshatu varahah (Vishnu's protection of the ten directions)",
+    "bho": "पूर्वे रक्षतु वाराहः (दस दिसा के विष्णु-रच्छा)"
+  },
+  "devanagari": "पूर्वे रक्षतु वाराह आग्नेय्यां गरुडध्वजः । दक्षिणे पद्मनाभस्तु नैर्ऋत्यां मधुसूदनः ॥ पश्चिमे पातु गोविन्दो वायव्यां तु जनार्दनः । उत्तरे श्रीपती रक्षेदैशान्यां तु महेश्वरः ॥ ऊर्ध्वं गोवर्धनो रक्षेद्ध्यधोऽनन्तस्तथैव च । एवं दश दिशो रक्षेद्वासुदेवो जनार्दनः ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "पूर्वे",
+      "gloss": {
+        "hi": "पूर्व में",
+        "en": "in the east",
+        "bho": "पूरब में"
+      }
+    },
+    {
+      "sa": "रक्षतु",
+      "gloss": {
+        "hi": "रक्षा करें",
+        "en": "may he protect",
+        "bho": "रच्छा करसु"
+      }
+    },
+    {
+      "sa": "वाराहः",
+      "gloss": {
+        "hi": "वराह",
+        "en": "Varaha (the boar form)",
+        "bho": "बराह"
+      }
+    },
+    {
+      "sa": "आग्नेय्याम्",
+      "gloss": {
+        "hi": "आग्नेय कोण में",
+        "en": "in the south-east",
+        "bho": "आग्नेय कोन में"
+      }
+    },
+    {
+      "sa": "गरुडध्वजः",
+      "gloss": {
+        "hi": "गरुड़-ध्वज (विष्णु)",
+        "en": "he whose banner is Garuda",
+        "bho": "गरुड़-ध्वज"
+      }
+    },
+    {
+      "sa": "दक्षिणे",
+      "gloss": {
+        "hi": "दक्षिण में",
+        "en": "in the south",
+        "bho": "दक्खिन में"
+      }
+    },
+    {
+      "sa": "पद्मनाभः",
+      "gloss": {
+        "hi": "पद्मनाभ",
+        "en": "Padmanabha",
+        "bho": "पद्मनाभ"
+      }
+    },
+    {
+      "sa": "नैर्ऋत्याम्",
+      "gloss": {
+        "hi": "नैर्ऋत्य कोण में",
+        "en": "in the south-west",
+        "bho": "नैरित्य कोन में"
+      }
+    },
+    {
+      "sa": "मधुसूदनः",
+      "gloss": {
+        "hi": "मधुसूदन",
+        "en": "Madhusudana",
+        "bho": "मधुसूदन"
+      }
+    },
+    {
+      "sa": "पश्चिमे पातु गोविन्दः",
+      "gloss": {
+        "hi": "पश्चिम में गोविंद रक्षा करें",
+        "en": "in the west may Govinda protect",
+        "bho": "पच्छिम में गोबिंद रच्छा करसु"
+      }
+    },
+    {
+      "sa": "वायव्यां जनार्दनः",
+      "gloss": {
+        "hi": "वायव्य में जनार्दन",
+        "en": "in the north-west Janardana",
+        "bho": "वायव्य में जनार्दन"
+      }
+    },
+    {
+      "sa": "उत्तरे श्रीपतिः",
+      "gloss": {
+        "hi": "उत्तर में श्रीपति",
+        "en": "in the north Shripati",
+        "bho": "उत्तर में श्रीपति"
+      }
+    },
+    {
+      "sa": "ऐशान्यां महेश्वरः",
+      "gloss": {
+        "hi": "ईशान में महेश्वर",
+        "en": "in the north-east Maheshvara",
+        "bho": "ईसान में महेस्वर"
+      }
+    },
+    {
+      "sa": "ऊर्ध्वं गोवर्धनः",
+      "gloss": {
+        "hi": "ऊपर गोवर्धन(धारी)",
+        "en": "above Govardhana (the lifter of the hill)",
+        "bho": "ऊपर गोवर्धन"
+      }
+    },
+    {
+      "sa": "अधः अनन्तः",
+      "gloss": {
+        "hi": "नीचे अनंत",
+        "en": "below Ananta",
+        "bho": "नीचे अनंत"
+      }
+    },
+    {
+      "sa": "दश दिशः",
+      "gloss": {
+        "hi": "दस दिशाओं की",
+        "en": "the ten directions",
+        "bho": "दस दिसा"
+      }
+    },
+    {
+      "sa": "वासुदेवः जनार्दनः",
+      "gloss": {
+        "hi": "वासुदेव जनार्दन",
+        "en": "Vasudeva Janardana",
+        "bho": "वासुदेव जनार्दन"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "पूर्व में वराह रक्षा करें, आग्नेय में गरुड़ध्वज; दक्षिण में पद्मनाभ, नैर्ऋत्य में मधुसूदन; पश्चिम में गोविंद रक्षा करें, वायव्य में जनार्दन; उत्तर में श्रीपति रक्षा करें, ईशान में महेश्वर; ऊपर गोवर्धन(धारी) रक्षा करें और नीचे अनंत — इस प्रकार वासुदेव जनार्दन दस दिशाओं की रक्षा करें।",
+    "en": "In the east may Varaha protect, in the south-east he whose banner is Garuda; in the south Padmanabha, in the south-west Madhusudana; in the west may Govinda protect, in the north-west Janardana; in the north may Shripati protect, in the north-east Maheshvara; above may Govardhana protect and below Ananta — thus may Vasudeva Janardana protect the ten directions.",
+    "bho": "पूरब में बराह रच्छा करसु, आग्नेय में गरुड़ध्वज; दक्खिन में पद्मनाभ, नैरित्य में मधुसूदन; पच्छिम में गोबिंद रच्छा करसु, वायव्य में जनार्दन; उत्तर में श्रीपति रच्छा करसु, ईसान में महेस्वर; ऊपर गोवर्धन रच्छा करसु आ नीचे अनंत — अइसहीं वासुदेव जनार्दन दस दिसा के रच्छा करसु।"
+  },
+  "explanation": {
+    "hi": "रक्षा-विधान का दूसरा चरण — दिग्रक्षा: इन तीन श्लोकों को पढ़ते हुए दसों दिशाओं में अक्षत और पीली सरसों छोड़ी जाती है, हर दिशा में विष्णु का एक नाम (ईशान में महेश्वर)। यह [[dikpal]]-पूजन से अलग है — वहाँ इंद्र आदि लोकपालों का आवाहन-पूजन होता है, यहाँ विष्णु के नामों से यज्ञ-भूमि की 'रक्षा' की भावना बाँधी जाती है। 'गोवर्धन' यहाँ गोवर्धन-धारी कृष्ण के लिए है। पाठ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 244) से; ओसीआर की भूलें (पदानाभस्तु, नैत्त्यां, रक्षेदेश्ान्यां) सुधारी गई हैं।",
+    "en": "The second step of the raksha-vidhana — the protection of the directions: these three verses are recited while rice and yellow mustard are thrown to the ten directions, one name of Vishnu for each (Maheshvara for the north-east). It differs from the dikpala worship — there the lokapalas Indra and the others are invoked and worshipped; here the sense of 'protection' of the ritual ground is bound with the names of Vishnu. 'Govardhana' stands for Krishna, the lifter of the Govardhana hill. Text from the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (p. 244); OCR slips (padanabhastu, naittyam, raksedeshanyam) corrected.",
+    "bho": "रक्षा-विधान के दुसरा चरन — दिगरच्छा: ई तीन श्लोक पढ़त दसो दिसा में अछत आ पियर सरसो छोड़ल जाला, हर दिसा में विष्णु के एगो नाँव (ईसान में महेस्वर)। ई [[dikpal]]-पूजन से अलग बा — उहाँ इंद्र आदि लोकपाल के आवाहन-पूजन होला, इहाँ विष्णु के नाँव से जग्य-भूमि के 'रच्छा' के भावना बान्हल जाला। 'गोवर्धन' इहाँ गोवर्धन उठावे वाला कृष्ण खातिर बा। पाठ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 244) से; ओसीआर के भूल (पदानाभस्तु, नैत्त्यां, रक्षेदेश्ान्यां) सुधारल गइल।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-nkpp-scan",
+    "retrieved": "2026-11-01",
+    "modified": "OCR पूवे → पूर्वे, आग्येय्यां → आग्नेय्यां, पदानाभस्तु → पद्मनाभस्तु, नैत्त्यां → नैर्ऋत्यां, रक्षेदेश्ान्यां → रक्षेदैशान्यां, तथेव → तथैव; 'रक्षेद् ह्यधो' joined; dandas set"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit ritual formula (anonymous, pre-modern); Sanskrit text taken from the Gita Press scan under brief §14, no Hindi prose copied",
+  "tags": [
+    "raksha",
+    "digraksha",
+    "vishnu"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "locator": "NKPP pp. 243–244 (रक्षा-विधान)"
+}

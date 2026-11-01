@@ -1,0 +1,178 @@
+{
+  "id": "pad-akrodhanah-shauchaparah",
+  "kind": "paddhati",
+  "title": {
+    "hi": "अक्रोधनाः शौचपराः (ब्राह्मणों से प्रार्थना)",
+    "en": "Akrodhanah shauchaparah (the prayer to the Brahmins)",
+    "bho": "अक्रोधनाः शौचपराः (ब्राह्मन लोग से प्रार्थना)"
+  },
+  "devanagari": "अक्रोधनाः शौचपराः सततं ब्रह्मचारिणः । ग्रहध्यानरता नित्यं प्रसन्नमनसः सदा ॥ अदुष्टभाषणाः सन्तु मा सन्तु परनिन्दकाः । ममापि नियमा ह्येते भवन्तु भवतामपि ॥ ऋत्विजश्च यथा पूर्वे शक्रादीनां मखेऽभवन् । यूयं तथा मे भवत ऋत्विजो द्विजसत्तमाः ॥ अस्मिन्कर्मणि मे विप्रा वृता गुरुमुखादयः । सावधानाः प्रकुर्वन्तु स्वं कर्म यथोदितम् ॥ अस्य यागस्य निष्पत्तौ भवन्तोऽभ्यर्थिता मया । सुप्रसादैः प्रकर्तव्यं कर्मेदं विधिपूर्वकम् ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "अक्रोधनाः",
+      "gloss": {
+        "hi": "क्रोध न करने वाले",
+        "en": "free from anger",
+        "bho": "रिस ना करे वाला"
+      }
+    },
+    {
+      "sa": "शौचपराः",
+      "gloss": {
+        "hi": "शुचिता में तत्पर",
+        "en": "devoted to purity",
+        "bho": "सुचिता में लागल"
+      }
+    },
+    {
+      "sa": "ब्रह्मचारिणः",
+      "gloss": {
+        "hi": "ब्रह्मचर्य वाले",
+        "en": "keeping continence",
+        "bho": "ब्रह्मचारी"
+      }
+    },
+    {
+      "sa": "ग्रहध्यानरताः",
+      "gloss": {
+        "hi": "(देव/ग्रह के) ध्यान में लगे",
+        "en": "intent on meditation (on the deities)",
+        "bho": "धियान में लागल"
+      }
+    },
+    {
+      "sa": "प्रसन्नमनसः",
+      "gloss": {
+        "hi": "प्रसन्न मन वाले",
+        "en": "of glad mind",
+        "bho": "खुस मन वाला"
+      }
+    },
+    {
+      "sa": "अदुष्टभाषणाः",
+      "gloss": {
+        "hi": "दोषरहित बोलने वाले",
+        "en": "of faultless speech",
+        "bho": "बिना दोस बोले वाला"
+      }
+    },
+    {
+      "sa": "मा सन्तु परनिन्दकाः",
+      "gloss": {
+        "hi": "दूसरों की निंदा करने वाले न हों",
+        "en": "let none be a reviler of others",
+        "bho": "दुसरा के निंदा करे वाला ना होखसु"
+      }
+    },
+    {
+      "sa": "नियमाः",
+      "gloss": {
+        "hi": "नियम",
+        "en": "the rules",
+        "bho": "नियम"
+      }
+    },
+    {
+      "sa": "ऋत्विजः",
+      "gloss": {
+        "hi": "ऋत्विक् (यज्ञ के पुरोहित)",
+        "en": "the officiating priests",
+        "bho": "रितिज (जग्य के पुरोहित)"
+      }
+    },
+    {
+      "sa": "शक्रादीनां मखे",
+      "gloss": {
+        "hi": "इंद्र आदि के यज्ञ में",
+        "en": "at the sacrifice of Indra and the others",
+        "bho": "इंद्र आदि के जग्य में"
+      }
+    },
+    {
+      "sa": "द्विजसत्तमाः",
+      "gloss": {
+        "hi": "हे श्रेष्ठ द्विजों",
+        "en": "O best of the twice-born",
+        "bho": "हे सबसे बड़ दुइज लोग"
+      }
+    },
+    {
+      "sa": "वृताः",
+      "gloss": {
+        "hi": "वरण किए गए",
+        "en": "chosen",
+        "bho": "बरल"
+      }
+    },
+    {
+      "sa": "गुरुमुखादयः",
+      "gloss": {
+        "hi": "गुरु को आगे रखकर आदि",
+        "en": "the guru first among them",
+        "bho": "गुरु के आगे रख के आदि"
+      }
+    },
+    {
+      "sa": "यथोदितम्",
+      "gloss": {
+        "hi": "जैसा कहा गया है",
+        "en": "as prescribed",
+        "bho": "जइसे कहल बा"
+      }
+    },
+    {
+      "sa": "यागस्य निष्पत्तौ",
+      "gloss": {
+        "hi": "यज्ञ की पूर्ति में",
+        "en": "in the completion of the rite",
+        "bho": "जग्य के पूरा होखे में"
+      }
+    },
+    {
+      "sa": "सुप्रसादैः",
+      "gloss": {
+        "hi": "प्रसन्नता से",
+        "en": "with good grace",
+        "bho": "खुसी से"
+      }
+    },
+    {
+      "sa": "विधिपूर्वकम्",
+      "gloss": {
+        "hi": "विधि के अनुसार",
+        "en": "according to rule",
+        "bho": "बिधि के अनुसार"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "(ब्राह्मण) क्रोध न करने वाले, शुचिता में तत्पर, सतत ब्रह्मचारी, नित्य ध्यान में लगे, सदा प्रसन्न मन वाले, दोषरहित बोलने वाले हों; कोई दूसरों का निंदक न हो — ये नियम मेरे भी हों और आपके भी। जैसे पहले इंद्र आदि के यज्ञ में ऋत्विक् थे, वैसे ही हे श्रेष्ठ द्विजों, आप मेरे ऋत्विक् बनें। इस कर्म में गुरु को आगे रखकर वरण किए गए विप्र सावधान होकर अपना कर्म, जैसा कहा गया है, करें। इस यज्ञ की पूर्ति के लिए मैंने आपसे प्रार्थना की है — प्रसन्नता से यह कर्म विधि के अनुसार कीजिए।",
+    "en": "(The Brahmins) should be free from anger, devoted to purity, always continent, intent on meditation, ever of glad mind and faultless speech; let none revile others — let these rules be mine and yours alike. As the priests were of old at the sacrifice of Indra and the others, so, O best of the twice-born, be my priests. Chosen for this rite, the guru first among them, let the Brahmins attentively perform their work as prescribed. For the completion of this rite I have made my request to you — with good grace perform this work according to rule.",
+    "bho": "(ब्राह्मन लोग) रिस ना करे वाला, सुचिता में लागल, सदा ब्रह्मचारी, नित धियान में लागल, हमेसा खुस मन वाला, बिना दोस बोले वाला होखसु; केहू दुसरा के निंदा करे वाला ना होखे — ई नियम हमार भी होखे आ रउआ लोग के भी। जइसे पहिले इंद्र आदि के जग्य में रितिज रहलन, ओइसहीं हे सबसे बड़ दुइज लोग, रउआ हमार रितिज बनीं। ए करम में गुरु के आगे रख के बरल बिप्र लोग सावधान हो के आपन करम, जइसे कहल बा, करसु। ए जग्य के पूरा होखे खातिर हम रउआ लोग से प्रार्थना कइले बानी — खुसी से ई करम बिधि के अनुसार करीं।"
+  },
+  "explanation": {
+    "hi": "ऋत्विक्-वरण की यह पाँच श्लोकों की प्रार्थना [[nandi-shraddha]] के समापन पर 'ब्राह्मण सुसंपन्न' के बाद यजमान पढ़ता है — नांदी-श्राद्ध के बाद ही आचार्य और ब्राह्मणों का वरण होता है, और यह प्रार्थना उसी की भूमिका है: दोनों पक्ष एक ही नियम मानें (क्रोध न करना, शुचिता, निंदा न करना)। पाठ [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) से। ओसीआर का 'दिविसत्तमाः' द्विजसत्तमाः पढ़ा गया है और 'होते' ह्येते; 'ग्रहध्यानरता' पोथी का पाठ है (ग्रह-यज्ञ के ऋत्विक्-वरण से आया हुआ प्रतीत होता है; विकल्प 'ब्रह्मध्यानरताः' की पुष्टि किसी दूसरे स्रोत से नहीं हुई — समीक्षा-सूची में)।",
+    "en": "This five-verse prayer of ritvik-varana (choosing the officiants) is recited by the host at the close of the nandi shraddha, after 'brahmana susampanna' — the acharya and the Brahmins are formally chosen right after the nandi shraddha, and the prayer is its preface: both sides accept the same rules (no anger, purity, no reviling). Text from the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt). The OCR's 'divisattamah' is read as dvijasattamah and 'hote' as hyete; 'grahadhyanaratah' is the handbook's reading (it seems to come from the ritvik-varana of a graha-yajna; the alternative 'brahmadhyanaratah' could not be confirmed from a second source — listed for review).",
+    "bho": "रितिज-बरन के ई पाँच श्लोक के प्रार्थना [[nandi-shraddha]] के समापन पर 'ब्राह्मण सुसंपन्न' के बाद जजमान पढ़ेला — नांदी-श्राद्ध के बादे आचार्य आ ब्राह्मन लोग के बरन होला, आ ई प्रार्थना ओकरे भूमिका बा: दुनो पच्छ एके नियम मानसु (रिस ना, सुचिता, निंदा ना)। पाठ [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) से। ओसीआर के 'दिविसत्तमाः' द्विजसत्तमाः पढ़ल गइल आ दुसरा श्लोक के बिगड़ल 'ह्येते' सुधारल गइल; 'ग्रहध्यानरता' पोथी के पाठ बा (ग्रह-जग्य के रितिज-बरन से आइल लागेला; बिकल्प 'ब्रह्मध्यानरताः' के पुष्टि कवनो दुसरा स्रोत से ना भइल — समीक्छा-सूची में)।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-vivah-mvf",
+    "retrieved": "2026-11-01",
+    "modified": "OCR दिविसत्तमाः → द्विजसत्तमाः, होते → ह्येते, परनिंदकाः → परनिन्दकाः, कमदं → कर्मेदं, 'अदुष्ट भाषणाः' joined, विप्राः वृता → विप्रा वृता (sandhi); verse numbers removed; OCR text offsets ≈ 50700–57000"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit ritual formula (anonymous, pre-modern); Sanskrit text taken from the 2020 paddhati OCR under brief §14, no Hindi prose copied",
+  "tags": [
+    "nandi",
+    "ritvik-varana",
+    "prarthana"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "locator": "Dwivedi 2020 OCR text, नान्दीमुख श्राद्ध (pp. 32–35 of the print)"
+}

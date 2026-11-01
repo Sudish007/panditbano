@@ -1,0 +1,176 @@
+{
+  "id": "vs-33-60",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 33.60",
+  "title": {
+    "hi": "नहि स्पशमविदन् (क्षेत्रपाल)",
+    "en": "Nahi spasham avidan (Kshetrapala)",
+    "bho": "नहि स्पशमविदन् (खेतरपाल)"
+  },
+  "devanagari": "न॒हि स्पश॒मवि॑दन्न॒न्यम॒स्माद्वै॑श्वान॒रात्पु॑रए॒तार॑म॒ग्नेः । एमे॑नमवृधन्न॒मृता॒ अम॑र्त्यं वैश्वान॒रं क्षै॑त्रजित्याय दे॒वाः ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "नहि",
+      "gloss": {
+        "hi": "नहीं",
+        "en": "not",
+        "bho": "ना"
+      }
+    },
+    {
+      "sa": "स्पशम्",
+      "gloss": {
+        "hi": "दूत (गुप्तचर) को",
+        "en": "a scout (messenger)",
+        "bho": "दूत के"
+      }
+    },
+    {
+      "sa": "अविदन्",
+      "gloss": {
+        "hi": "पाया",
+        "en": "they found",
+        "bho": "पवलन"
+      }
+    },
+    {
+      "sa": "अन्यम्",
+      "gloss": {
+        "hi": "दूसरा",
+        "en": "another",
+        "bho": "दुसरा"
+      }
+    },
+    {
+      "sa": "अस्मात्",
+      "gloss": {
+        "hi": "इससे",
+        "en": "than this",
+        "bho": "एकरा से"
+      }
+    },
+    {
+      "sa": "वैश्वानरात्",
+      "gloss": {
+        "hi": "वैश्वानर से",
+        "en": "than Vaishvanara",
+        "bho": "वैश्वानर से"
+      }
+    },
+    {
+      "sa": "पुरएतारम्",
+      "gloss": {
+        "hi": "आगे चलने वाला",
+        "en": "a leader (going in front)",
+        "bho": "आगे चले वाला"
+      }
+    },
+    {
+      "sa": "अग्नेः",
+      "gloss": {
+        "hi": "अग्नि को",
+        "en": "Agni",
+        "bho": "अग्नि के"
+      }
+    },
+    {
+      "sa": "आ ईम्",
+      "gloss": {
+        "hi": "इसे",
+        "en": "him",
+        "bho": "एकरा"
+      }
+    },
+    {
+      "sa": "एनम्",
+      "gloss": {
+        "hi": "इस (अग्नि) को",
+        "en": "this (Agni)",
+        "bho": "ए (अग्नि) के"
+      }
+    },
+    {
+      "sa": "अवृधन्",
+      "gloss": {
+        "hi": "बढ़ाया",
+        "en": "they strengthened",
+        "bho": "बढ़वलन"
+      }
+    },
+    {
+      "sa": "अमृताः",
+      "gloss": {
+        "hi": "अमर देवों ने",
+        "en": "the immortals",
+        "bho": "अमर देव लोग"
+      }
+    },
+    {
+      "sa": "अमर्त्यम्",
+      "gloss": {
+        "hi": "अमर",
+        "en": "the immortal",
+        "bho": "अमर"
+      }
+    },
+    {
+      "sa": "वैश्वानरम्",
+      "gloss": {
+        "hi": "वैश्वानर को",
+        "en": "Vaishvanara",
+        "bho": "वैश्वानर के"
+      }
+    },
+    {
+      "sa": "क्षैत्रजित्याय",
+      "gloss": {
+        "hi": "क्षेत्र-विजय के लिए",
+        "en": "for the winning of the field",
+        "bho": "खेत-जीत खातिर"
+      }
+    },
+    {
+      "sa": "देवाः",
+      "gloss": {
+        "hi": "देवों ने",
+        "en": "the gods",
+        "bho": "देव लोग"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "देवों ने इस वैश्वानर अग्नि से बढ़कर आगे चलने वाला कोई दूसरा दूत नहीं पाया; अमर देवों ने क्षेत्र-विजय के लिए इस अमर वैश्वानर को बढ़ाया।",
+    "en": "The gods found no other scout to go before them than this Vaishvanara Agni; the immortals strengthened this immortal Vaishvanara for the winning of the field.",
+    "bho": "देव लोग ए वैश्वानर अग्नि से बढ़ के आगे चले वाला कवनो दुसरा दूत ना पवलन; अमर देव लोग खेत-जीत खातिर ए अमर वैश्वानर के बढ़वलन।"
+  },
+  "explanation": {
+    "hi": "[[yajurved]] 33.60 (= ऋग्वेद 1.59.? के पास का वैश्वानर-सूक्त; संहिता में ऋषि नोधा) वैश्वानर अग्नि की स्तुति है। पद्धति ने 'क्षैत्रजित्याय' (क्षेत्र-विजय) पद के कारण इसे क्षेत्रपाल — भूमि-खंड के रक्षक देव — के आवाहन में रखा है; नवग्रह-मंडल के देवगण में वास्तोष्पति के बाद क्षेत्रपाल का यही मंत्र है। इसके बाद ध्यान-श्लोक 'भूतप्रेतपिशाचाद्यैरावृतं शूलपाणिनम् । आवाहये क्षेत्रपालं…' और आवाहन-वाक्य 'ॐ भूर्भुवः स्वः क्षेत्राधिपते इहागच्छ' आता है।",
+    "en": "Yajurveda 33.60 (a Vaishvanara verse of the Rigveda, seer Nodhas) is a praise of Agni Vaishvanara. Because of the word 'kshaitra-jityaya' (winning of the field) the paddhati placed it in the invocation of the Kshetrapala — the guardian deity of the plot of ground; among the deities of the navagraha mandala this is his mantra, after the Vastoshpati. The dhyana verse 'bhuta-preta-pishachadyair avritam shula-paninam, avahaye kshetrapalam …' and the invocation sentence 'om bhur bhuvah svah kshetradhipate ihagachchha' follow.",
+    "bho": "[[yajurved]] 33.60 (ऋग्वेद के वैश्वानर-सूक्त, ऋषि नोधा) वैश्वानर अग्नि के स्तुति बा। 'क्षैत्रजित्याय' (खेत-जीत) पद के कारन पद्धति एकरा खेतरपाल — जमीन के टुकड़ा के रच्छक देव — के आवाहन में रखले बिया; नवग्रह-मंडल के देवगन में वास्तोष्पति के बाद खेतरपाल के एही मंत्र बा। एकरा बाद धियान-श्लोक 'भूतप्रेतपिशाचाद्यैरावृतं शूलपाणिनम् । आवाहये क्षेत्रपालं…' आ आवाहन-वाक्य 'ॐ भूर्भुवः स्वः क्षेत्राधिपते इहागच्छ' आवेला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-33",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "kshetrapala",
+    "vaishvanara"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

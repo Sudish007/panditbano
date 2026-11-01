@@ -1,0 +1,177 @@
+{
+  "id": "vs-9-18",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 9.18",
+  "title": {
+    "hi": "वाजे वाजेऽवत (ब्राह्मण-विसर्जन)",
+    "en": "Vaje vaje avata (sending off the Brahmins)",
+    "bho": "वाजे वाजेऽवत (ब्राह्मन-बिसर्जन)"
+  },
+  "devanagari": "वाजे॑वाजेऽवत वाजिनो नो॒ धने॑षु विप्रा अमृता ऋतज्ञाः । अ॒स्य मध्वः॑ पिबत मा॒दय॑ध्वं तृ॒प्ता या॑त प॒थिभि॑र्देव॒यानैः॑ ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "वाजे वाजे",
+      "gloss": {
+        "hi": "हर संग्राम (अन्न-प्राप्ति) में",
+        "en": "in every contest (every winning of food)",
+        "bho": "हर संग्राम में"
+      }
+    },
+    {
+      "sa": "अवत",
+      "gloss": {
+        "hi": "रक्षा करो",
+        "en": "protect",
+        "bho": "रच्छा करीं"
+      }
+    },
+    {
+      "sa": "वाजिनः",
+      "gloss": {
+        "hi": "हे बलवानों",
+        "en": "O strong ones",
+        "bho": "हे बलवान लोग"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमारी",
+        "en": "us",
+        "bho": "हमनी के"
+      }
+    },
+    {
+      "sa": "धनेषु",
+      "gloss": {
+        "hi": "धनों में",
+        "en": "in (the winning of) riches",
+        "bho": "धन में"
+      }
+    },
+    {
+      "sa": "विप्राः",
+      "gloss": {
+        "hi": "हे विप्रों (मेधावियों)",
+        "en": "O inspired ones",
+        "bho": "हे बिप्र लोग"
+      }
+    },
+    {
+      "sa": "अमृताः",
+      "gloss": {
+        "hi": "अमर",
+        "en": "immortal",
+        "bho": "अमर"
+      }
+    },
+    {
+      "sa": "ऋतज्ञाः",
+      "gloss": {
+        "hi": "ऋत (सत्य) को जानने वाले",
+        "en": "knowers of the sacred law",
+        "bho": "ऋत जाने वाला"
+      }
+    },
+    {
+      "sa": "अस्य",
+      "gloss": {
+        "hi": "इस",
+        "en": "of this",
+        "bho": "ए"
+      }
+    },
+    {
+      "sa": "मध्वः",
+      "gloss": {
+        "hi": "मधु (सोम) को",
+        "en": "sweet (soma)",
+        "bho": "मधु के"
+      }
+    },
+    {
+      "sa": "पिबत",
+      "gloss": {
+        "hi": "पियो",
+        "en": "drink",
+        "bho": "पियीं"
+      }
+    },
+    {
+      "sa": "मादयध्वम्",
+      "gloss": {
+        "hi": "आनंदित हो",
+        "en": "be glad",
+        "bho": "आनंदित होईं"
+      }
+    },
+    {
+      "sa": "तृप्ताः",
+      "gloss": {
+        "hi": "तृप्त होकर",
+        "en": "satisfied",
+        "bho": "तिरपित हो के"
+      }
+    },
+    {
+      "sa": "यात",
+      "gloss": {
+        "hi": "जाओ",
+        "en": "go",
+        "bho": "जाईं"
+      }
+    },
+    {
+      "sa": "पथिभिः",
+      "gloss": {
+        "hi": "मार्गों से",
+        "en": "by the paths",
+        "bho": "रास्ता से"
+      }
+    },
+    {
+      "sa": "देवयानैः",
+      "gloss": {
+        "hi": "देवयान (देवों के मार्गों)",
+        "en": "that the gods travel",
+        "bho": "देवयान (देव लोग के रास्ता)"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे बलवानों, हर संग्राम में, धनों (की प्राप्ति) में हमारी रक्षा करो; हे अमर, ऋत को जानने वाले विप्रों, इस मधु को पियो, आनंदित हो, और तृप्त होकर देवयान मार्गों से जाओ।",
+    "en": "O strong ones, protect us in every contest, in the winning of riches; O immortal, inspired knowers of the sacred law, drink of this sweetness, be glad, and, satisfied, go by the paths the gods travel.",
+    "bho": "हे बलवान लोग, हर संग्राम में, धन (के पावे) में हमनी के रच्छा करीं; हे अमर, ऋत जाने वाला बिप्र लोग, ए मधु के पियीं, आनंदित होईं, आ तिरपित हो के देवयान रास्ता से जाईं।"
+  },
+  "explanation": {
+    "hi": "[[yajurved]] 9.18 वाजपेय-प्रकरण का मंत्र है। [याज्ञवल्क्यस्मृति](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.247 कहती है — 'वाजे वाज इति प्रीतः पितृपूर्वं विसर्जनम्' — श्राद्ध के अंत में प्रसन्न यजमान इसी से ब्राह्मणों (पितृ-पक्ष के पहले) को विदा करता है; इसलिए [[nandi-shraddha]] के विसर्जन में पद्धतियाँ इसे और 9.19 को रखती हैं। 'तृप्ता यात पथिभिर्देवयानैः' — तृप्त होकर देव-मार्गों से जाओ — विदाई का भाव-वाक्य है।",
+    "en": "Yajurveda 9.18 belongs to the Vajapeya section. [Yajnavalkya Smriti](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.247 says 'vaje vaja iti pritah pitri-purvam visarjanam' — at the end of a shraddha the pleased host dismisses the Brahmins (those of the ancestors' side first) with this mantra; hence the handbooks place it, with 9.19, at the visarjana of the nandi shraddha. 'Tripta yata pathibhir devayanaih' — satisfied, go by the paths of the gods — is the sentence of farewell.",
+    "bho": "[[yajurved]] 9.18 वाजपेय-प्रकरन के मंत्र बा। [याज्ञवल्क्यस्मृति](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.247 कहेले — 'वाजे वाज इति प्रीतः पितृपूर्वं विसर्जनम्' — श्राद्ध के अंत में खुस जजमान एही से ब्राह्मन लोग (पितर-पक्ष के पहिले) के बिदा करेला; एही से [[nandi-shraddha]] के बिसर्जन में पद्धति एकरा आ 9.19 के रखेली। 'तृप्ता यात पथिभिर्देवयानैः' — तिरपित हो के देव-रास्ता से जाईं — बिदाई के भाव-वाक्य बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-09",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "nandi",
+    "visarjana",
+    "vajapeya"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "pad-ganeshash-chambika-vayuh",
+  "kind": "puranic",
+  "title": {
+    "hi": "गणेशश्चांबिका वायुः (पंच-लोकपाल कौन हैं)",
+    "en": "Ganeshash chambika vayuh (who the five lokapalas are)",
+    "bho": "गणेशश्चांबिका वायुः (पंच-लोकपाल के बाड़न)"
+  },
+  "devanagari": "गणेशश्चाम्बिका वायुराकाशश्चाश्विनौ तथा । ग्रहाणामुत्तरे पञ्चलोकपालाः प्रकीर्तिताः ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "गणेशः च",
+      "gloss": {
+        "hi": "गणेश और",
+        "en": "Ganesha and",
+        "bho": "गणेश आ"
+      }
+    },
+    {
+      "sa": "अम्बिका",
+      "gloss": {
+        "hi": "अंबिका",
+        "en": "Ambika",
+        "bho": "अंबिका"
+      }
+    },
+    {
+      "sa": "वायुः",
+      "gloss": {
+        "hi": "वायु",
+        "en": "Vayu",
+        "bho": "वायु"
+      }
+    },
+    {
+      "sa": "आकाशः च",
+      "gloss": {
+        "hi": "आकाश और",
+        "en": "Akasha and",
+        "bho": "आकास आ"
+      }
+    },
+    {
+      "sa": "अश्विनौ तथा",
+      "gloss": {
+        "hi": "और दोनों अश्विनौ",
+        "en": "and the two Ashvins",
+        "bho": "आ दुनो अश्विनी"
+      }
+    },
+    {
+      "sa": "ग्रहाणाम्",
+      "gloss": {
+        "hi": "ग्रहों के",
+        "en": "of the planets",
+        "bho": "ग्रह लोग के"
+      }
+    },
+    {
+      "sa": "उत्तरे",
+      "gloss": {
+        "hi": "उत्तर में",
+        "en": "to the north",
+        "bho": "उत्तर में"
+      }
+    },
+    {
+      "sa": "पञ्चलोकपालाः",
+      "gloss": {
+        "hi": "पाँच लोकपाल",
+        "en": "the five lokapalas",
+        "bho": "पाँच लोकपाल"
+      }
+    },
+    {
+      "sa": "प्रकीर्तिताः",
+      "gloss": {
+        "hi": "कहे गए हैं",
+        "en": "are declared",
+        "bho": "कहल गइल बाड़न"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "गणेश, अंबिका, वायु, आकाश और दोनों अश्विनौ — ये ग्रहों के उत्तर में पाँच लोकपाल कहे गए हैं।",
+    "en": "Ganesha, Ambika, Vayu, Akasha and the two Ashvins — these are declared the five lokapalas, to the north of the planets.",
+    "bho": "गणेश, अंबिका, वायु, आकास आ दुनो अश्विनी — ई ग्रह लोग के उत्तर में पाँच लोकपाल कहल गइल बाड़न।"
+  },
+  "explanation": {
+    "hi": "यह श्लोक पंच-लोकपाल की सूची और उनका स्थान (नवग्रह-मंडल के उत्तर में) देता है। [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) इसे पाद-टिप्पणी में 'स्कंदपुराण' के नाम से उद्धृत करता है; पुराण का अध्याय-लोकेटर पोथी नहीं देती और साइट ने उसे खोजा नहीं है — इसलिए यहाँ स्रोत पोथी ही है। पूजा में इसे पढ़ना आवश्यक नहीं; यह जानने के लिए है कि लोकपाल पाँच ही क्यों और यही क्यों हैं।",
+    "en": "This verse gives the list of the five lokapalas and their place (north of the planets in the navagraha mandala). The [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) quotes it in a footnote under the name 'Skanda Purana'; the handbook gives no chapter locator in the Purana and the site has not traced one — so the source recorded here is the handbook. It need not be recited in the puja; it is there to explain why the lokapalas are these five.",
+    "bho": "ई श्लोक पंच-लोकपाल के सूची आ उनकर ठाँव (नवग्रह-मंडल के उत्तर में) देला। [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) एकरा पाद-टिप्पनी में 'स्कंदपुरान' के नाँव से उद्धृत करेला; पुरान के अध्याय-लोकेटर पोथी ना देले आ साइट ओकरा खोजले नइखे — एही से इहाँ स्रोत पोथी ही बा। पूजा में एकरा पढ़ल जरूरी ना; ई जाने खातिर बा कि लोकपाल पाँच ही काहे आ एही काहे बाड़न।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-nkpp-scan",
+    "retrieved": "2026-11-01",
+    "modified": "OCR प्रकोर्तिताः → प्रकीर्तिताः; dandas set"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Puranic verse as quoted (attributed to the Skanda Purana) in the Gita Press handbook under brief §14; chapter locator not traced",
+  "tags": [
+    "lokapala",
+    "shastra"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "text": "skanda-purana",
+  "locator": "NKPP p. 236 footnote (attributed to the Skanda Purana)"
+}

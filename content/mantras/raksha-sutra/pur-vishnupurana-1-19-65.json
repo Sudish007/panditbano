@@ -1,0 +1,105 @@
+{
+  "id": "pur-vishnupurana-1-19-65",
+  "kind": "puranic",
+  "title": {
+    "hi": "नमो ब्रह्मण्यदेवाय (आचार्य को तिलक का श्लोक)",
+    "en": "Namo brahmanya-devaya (the verse for the tilak to the acharya)",
+    "bho": "नमो ब्रह्मण्यदेवाय (आचार्य के टीका के श्लोक)"
+  },
+  "devanagari": "नमो ब्रह्मण्यदेवाय गोब्राह्मणहिताय च । जगद्धिताय कृष्णाय गोविन्दाय नमो नमः ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "नमः",
+      "gloss": {
+        "hi": "नमन",
+        "en": "homage",
+        "bho": "परनाम"
+      }
+    },
+    {
+      "sa": "ब्रह्मण्यदेवाय",
+      "gloss": {
+        "hi": "ब्राह्मणों (और वेद) के हितकारी देव को",
+        "en": "to the god who favours the Brahmins (and the Veda)",
+        "bho": "ब्राह्मन (आ वेद) के हितकारी देव के"
+      }
+    },
+    {
+      "sa": "गोब्राह्मणहिताय",
+      "gloss": {
+        "hi": "गौ और ब्राह्मण के हितकारी को",
+        "en": "to the well-wisher of cows and Brahmins",
+        "bho": "गाय आ ब्राह्मन के हित करे वाला के"
+      }
+    },
+    {
+      "sa": "जगद्धिताय",
+      "gloss": {
+        "hi": "जगत् के हितकारी को",
+        "en": "to the well-wisher of the world",
+        "bho": "जगत के हित करे वाला के"
+      }
+    },
+    {
+      "sa": "कृष्णाय",
+      "gloss": {
+        "hi": "कृष्ण को",
+        "en": "to Krishna",
+        "bho": "कृष्ण के"
+      }
+    },
+    {
+      "sa": "गोविन्दाय",
+      "gloss": {
+        "hi": "गोविंद को",
+        "en": "to Govinda",
+        "bho": "गोबिंद के"
+      }
+    },
+    {
+      "sa": "नमो नमः",
+      "gloss": {
+        "hi": "बार-बार नमन",
+        "en": "homage again and again",
+        "bho": "बेर-बेर परनाम"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "ब्राह्मणों के हितकारी देव को, गौ और ब्राह्मण के हितकारी को, जगत् के हितकारी कृष्ण को, गोविंद को बार-बार नमन।",
+    "en": "Homage to the god who favours the Brahmins, the well-wisher of cows and Brahmins; to Krishna, the well-wisher of the world, to Govinda, homage again and again.",
+    "bho": "ब्राह्मन के हितकारी देव के, गाय आ ब्राह्मन के हित करे वाला के, जगत के हित करे वाला कृष्ण के, गोबिंद के बेर-बेर परनाम।"
+  },
+  "explanation": {
+    "hi": "प्रह्लाद की स्तुति का यह श्लोक — [विष्णुपुराण](https://sa.wikisource.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A5%81%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%BE%E0%A4%82%E0%A4%B6%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A7%E0%A5%AF) 1.19.65 — [[raksha-sutra]] के विधान में यजमान आचार्य को रक्षा बाँधने के बाद तिलक करते हुए पढ़ता है: 'गोब्राह्मणहिताय' पद से ब्राह्मण-आचार्य का सम्मान विष्णु के नमन में जोड़ दिया जाता है। वही श्लोक नारद, पद्म और स्कंद पुराणों में तथा विष्णुसहस्रनाम की पूर्वपीठिका में भी मिलता है। पाठ विकिस्रोत के [विष्णुपुराण](https://sa.wikisource.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A5%81%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%BE%E0%A4%82%E0%A4%B6%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A7%E0%A5%AF) से; [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) इसे 'यजमान द्वारा तिलक' शीर्षक में छापता है।",
+    "en": "This verse from Prahlada's hymn — [Vishnu Purana](https://sa.wikisource.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A5%81%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%BE%E0%A4%82%E0%A4%B6%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A7%E0%A5%AF) 1.19.65 — is recited in the raksha-sutra procedure by the host while applying the tilak to the acharya after tying the raksha: through the words 'go-brahmana-hitaya' the respect for the Brahmin acharya is folded into a salutation to Vishnu. The same verse occurs in the Narada, Padma and Skanda Puranas and in the preamble of the Vishnu Sahasranama. Text from the [Vishnu Purana](https://sa.wikisource.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A5%81%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%BE%E0%A4%82%E0%A4%B6%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A7%E0%A5%AF) on Wikisource; the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) prints it under 'tilak by the host'.",
+    "bho": "प्रह्लाद के स्तुति के ई श्लोक — [विष्णुपुरान](https://sa.wikisource.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A5%81%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%BE%E0%A4%82%E0%A4%B6%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A7%E0%A5%AF) 1.19.65 — [[raksha-sutra]] के बिधान में जजमान आचार्य के रक्षा बान्हला के बाद टीका लगावत पढ़ेला: 'गोब्राह्मणहिताय' पद से ब्राह्मन-आचार्य के सम्मान विष्णु के परनाम में जोड़ दिहल जाला। एही श्लोक नारद, पद्म आ स्कंद पुरान में आ विष्णुसहस्रनाम के पूर्वपीठिका में भी मिलेला। पाठ विकिस्रोत के [विष्णुपुरान](https://sa.wikisource.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A5%81%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%BE%E0%A4%82%E0%A4%B6%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A7%E0%A5%AF) से; [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) एकरा 'जजमान द्वारा तिलक' सीर्षक में छापेला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-vishnupurana-1-19",
+    "retrieved": "2026-11-01",
+    "modified": "the verse number '६५' removed, नमोनमः → नमो नमः, dandas set"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Puranic / smriti Sanskrit (ancient, public domain); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "raksha",
+    "tilak",
+    "vishnu"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "text": "vishnu-purana",
+  "locator": "1.19.65 (amsha 1, adhyaya 19 — Prahlada's hymn)",
+  "checkedAgainst": [
+    {
+      "ref": "ia-nkpp-scan",
+      "retrieved": "2026-11-01"
+    }
+  ]
+}

@@ -1,0 +1,522 @@
+{
+  "id": "nandi-shraddh",
+  "code": "F10",
+  "group": "foundations",
+  "phase": 1,
+  "title": {
+    "hi": "नांदी (आभ्युदयिक) श्राद्ध",
+    "en": "Nandi (abhyudayika) shraddha",
+    "bho": "नांदी (आभ्युदयिक) श्राद्ध"
+  },
+  "lede": {
+    "hi": "मंगल-कर्म से पहले पितरों को प्रसन्न करने का श्राद्ध — चार वर्गों के नांदीमुख पितर, दूर्वा-अक्षत-जौ, सव्य और पूर्वाभिमुख; तिल, पिंड और 'स्वधा' के बिना।",
+    "en": "The shraddha that pleases the ancestors before an auspicious rite — four groups of 'glad-faced' ancestors, durva, rice and barley, thread on the left shoulder, facing east; without sesame, pindas or 'svadha'.",
+    "bho": "मंगल-करम से पहिले पितर लोग के खुस करे के श्राद्ध — चार बरग के नांदीमुख पितर, दूब-अछत-जौ, सव्य आ पूरब-मुँह; तिल, पिंडा आ 'स्वधा' बिना।"
+  },
+  "overview": {
+    "hi": "[[nandi-shraddha]] (आभ्युदयिक या वृद्धि-श्राद्ध) हर मंगल-संस्कार — विवाह, उपनयन, मुंडन, अन्नप्राशन, गृहप्रवेश, यज्ञ — के पूर्वांग में किया जाता है, ताकि कुल के [[pitar]] 'नांदीमुख' (प्रसन्न-मुख) होकर कर्म को आशीर्वाद दें। यह मृत्यु-कर्म का श्राद्ध नहीं है: [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) के नियम-श्लोक कहते हैं कि यहाँ न 'स्वधा', न तिल, न अपसव्य, न पितृ-तीर्थ, न पितरों के नाम का उच्चार — सब कुछ देव-कर्म की तरह सव्य, पूर्वाभिमुख और दूर्वा-अक्षत-जौ से। [याज्ञवल्क्यस्मृति](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.250 इसका स्मृति-आधार है (प्रदक्षिण क्रम, दही-बेर, जौ)। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) में नांदी-श्राद्ध का कोई विधान नहीं है — यह स्मृति-पद्धति की परत है, और रिसर्च-सूची ने इसका स्रोत 'अनिश्चित' कहा था; इसलिए यह पृष्ठ पद्धति-प्रयोग को पद्धति-प्रयोग कहकर देता है, वेद-विधि नहीं।\n\n**चार वर्ग (पार्वण)**: (1) सत्यवसु नाम के विश्वेदेव, (2) माता-पितामही-प्रपितामही, (3) पिता-पितामह-प्रपितामह, (4) मातामह-प्रमातामह-वृद्धप्रमातामह पत्नियों सहित। हर उपचार (पाद्य, आसन, क्षीर-यव-जल, गंधादि, भोजन-निष्क्रय, दक्षिणा) चारों वर्गों के लिए इसी क्रम में चार बार बोला जाता है। जो वर्ग जीवित हो (जैसे माता जीवित), उसका पार्वण छूट जाता है — [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) बताती है कि माता जीवित होने पर मातृ-पार्वण का लोप, मातामह जीवित होने पर मातामह-पार्वण का लोप, और तीनों वर्गों के ज्येष्ठ जीवित हों तो नांदी-श्राद्ध ही नहीं होता।\n\n**कर्ता**: पुत्र के संस्कार में पिता; पिता न हो तो ज्येष्ठ भ्राता (अपने पिता के पितरों को); दूसरे विवाह में वर स्वयं; कन्यादान में कन्या का पिता। समय: पद्धतियाँ मुख्य कर्म के एक दिन पहले या उसी दिन पूर्वाह्ण में रखती हैं; विवाह में प्रायः मंडप-पूजन के दिन मातृका-पूजन के बाद। ब्राह्मण सम संख्या (युग्म) में बुलाए जाते हैं — न मिलें तो पंडित ही दोनों पक्ष बोल देते हैं (पोथी-व्यवहार)। यह प्रयोग [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) का हिंदी-पट्टी पाठ है; [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) का दक्षिणी पाठ पाठांतर में है।",
+    "en": "The nandi shraddha (abhyudayika or vriddhi shraddha) is performed in the opening part of every auspicious samskara — wedding, upanayana, mundan, first feeding, house-entry, yajna — so that the family's ancestors, 'nandimukha' (glad-faced), bless the rite. It is not a shraddha of the rites of death: the rule verses in the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) say no 'svadha', no sesame, no apasavya, no pitri-tirtha, no uttering of the ancestors' names — everything as in a rite for the gods: thread on the left shoulder, facing east, with durva, rice and barley. [Yajnavalkya Smriti](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.250 is its smriti basis (clockwise order, curd and jujube, barley). The [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) has no nandi shraddha at all — it belongs to the smriti-paddhati layer, and the research inventory marked its source 'UNCERTAIN'; this page therefore presents a handbook prayoga as a handbook prayoga, not as a Vedic rule.\n\n**The four groups (parvanas)**: (1) the Vishvedevas named Satya and Vasu, (2) mother, father's mother, father's grandmother, (3) father, grandfather, great-grandfather, (4) the maternal grandfather, his father and his grandfather with their wives. Every service (foot-water, seat, milk-barley-water, scents, the food substitute, the dakshina) is spoken four times in this order. A group whose members are living (a living mother, for instance) is left out — the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) explains that with the mother living the mother's parvana lapses, with the maternal grandfather living his parvana lapses, and if the eldest of all three groups are alive there is no nandi shraddha at all.\n\n**Who performs it**: at a son's samskara the father; if the father is absent the eldest brother (to his own father's ancestors); at a second marriage the groom himself; at a kanyadana the bride's father. Timing: the handbooks place it a day before the main rite or on the same day in the forenoon; at a wedding usually on the day of the pavilion worship after the matrika worship. The Brahmins are invited in even numbers (pairs) — if none can be had, the pandit speaks both parts (handbook practice). The prayoga here is the Hindi-belt text of the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt); the southern text of the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) is given in variants.",
+    "bho": "[[nandi-shraddha]] (आभ्युदयिक भा बृद्धि-श्राद्ध) हर मंगल-संस्कार — बियाह, उपनयन, मुंडन, अन्नप्राशन, गृहप्रवेस, जग्य — के पूर्वांग में कइल जाला, जेसे कुल के [[pitar]] 'नांदीमुख' (खुस-मुँह) हो के करम के असीस देसु। ई मरनी-करम के श्राद्ध ना ह: [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) के नियम-श्लोक कहेला कि इहाँ ना 'स्वधा', ना तिल, ना अपसव्य, ना पितृ-तीर्थ, ना पितर लोग के नाँव के उच्चार — सब कुछ देव-करम जइसन सव्य, पूरब-मुँह आ दूब-अछत-जौ से। [याज्ञवल्क्यस्मृति](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.250 एकर स्मृति-आधार बा (प्रदक्छिन क्रम, दही-बेर, जौ)। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) में नांदी-श्राद्ध के कवनो बिधान नइखे — ई स्मृति-पद्धति के परत बा, आ रिसर्च-सूची एकर स्रोत 'अनिश्चित' कहले रहे; एही से ई पन्ना पद्धति-परयोग के पद्धति-परयोग कह के देला, वेद-बिधि ना।\n\n**चार बरग (पार्वन)**: (1) सत्यवसु नाँव के विश्वेदेव, (2) माई-दादी-परदादी, (3) बाबूजी-बाबा-परबाबा, (4) नाना-परनाना-बूढ़ परनाना पतोहिया लोग सहित। हर उपचार (पाद्य, आसन, खीर-जौ-पानी, गंध आदि, भोजन-निष्क्रय, दक्खिना) चारो बरग खातिर एही क्रम में चार बेर बोलल जाला। जे बरग जियत होखे (जइसे माई जियत), ओकर पार्वन छूट जाला — [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) बतावेले कि माई जियत रहला पर माई-पार्वन के लोप, नाना जियत रहला पर नाना-पार्वन के लोप, आ तीनो बरग के बड़ लोग जियत होखसु त नांदी-श्राद्ध होबे ना करे।\n\n**कर्ता**: बेटा के संस्कार में बाबूजी; बाबूजी ना होखसु त बड़ भाई (आपन बाबूजी के पितर लोग के); दुसरा बियाह में बर खुद; कन्यादान में कन्या के बाबूजी। समय: पद्धति मुख्य करम के एक दिन पहिले भा ओही दिन पूर्वाह्न में रखेली; बियाह में बेसी मंडप-पूजन के दिन मातृका-पूजन के बाद। ब्राह्मन सम संख्या (जोड़ा) में बोलावल जालन — ना मिलसु त पंडित ही दुनो पच्छ बोल देलन (पोथी-ब्यवहार)। ई परयोग [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) के हिंदी-पट्टी पाठ बा; [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) के दक्खिनी पाठ पाठांतर में बा।"
+  },
+  "when": {
+    "rules": {
+      "hi": "हर वृद्धि-कर्म के पूर्वांग में — [मातृका-पूजन](/occasions/matrika-pujan/) के बाद, मुख्य कर्म से पहले; पद्धतियाँ कर्म के एक दिन पहले (या तीन दिन पहले से क्रम से तीन पार्वण) या उसी दिन पूर्वाह्ण में रखती हैं; पुत्र-जन्म पर जातकर्म के साथ उसी रात भी। व्रत-उद्यापन और ग्रह-शांति में कुछ ग्रंथ नांदी-श्राद्ध का निषेध करते हैं, अन्य नहीं ([संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) दोनों मत देती है)। श्राद्ध-पक्ष या अशौच में नहीं। तिथि-मुहूर्त मुख्य कर्म का ही है ([Shubhvela](https://sudish007.github.io/shubhvela/))।",
+      "en": "In the opening part of every vriddhi rite — after the [matrika worship](/occasions/matrika-pujan/), before the main rite; the handbooks place it a day before (or three parvanas on the three preceding days) or in the forenoon of the same day; at a son's birth also on the same night with the jatakarma. For a vrat's closing or a graha-shanti some texts forbid the nandi shraddha and others do not (the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) gives both views). Not during the shraddha fortnight or a period of impurity. The date and muhurat are those of the main rite ([Shubhvela](https://sudish007.github.io/shubhvela/)).",
+      "bho": "हर बृद्धि-करम के पूर्वांग में — [मातृका-पूजन](/occasions/matrika-pujan/) के बाद, मुख्य करम से पहिले; पद्धति करम के एक दिन पहिले (भा तीन दिन पहिले से क्रम से तीन पार्वन) भा ओही दिन पूर्वाह्न में रखेली; बेटा जनमला पर जातकरम संगे ओही रात भी। बरत-उद्यापन आ ग्रह-सांति में कुछ ग्रंथ नांदी-श्राद्ध के मनाही करेला, कुछ ना ([संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) दुनो मत देले)। श्राद्ध-पख भा असौच में ना। तिथि-मुहूरत मुख्य करम के ही बा ([Shubhvela](https://sudish007.github.io/shubhvela/))।"
+    },
+    "shubhvela": {
+      "muhurat": null,
+      "festival": null,
+      "vrat": null
+    }
+  },
+  "roles": [
+    {
+      "role": {
+        "hi": "कर्ता (यजमान)",
+        "en": "The performer (host)",
+        "bho": "कर्ता (जजमान)"
+      },
+      "does": {
+        "hi": "संकल्प; हर वर्ग को पाद्य-आसन-क्षीर-यव-गंधादि-दक्षिणा के वाक्य बोलते हुए अर्पण; जलधारा; आशीर्वाद-संवाद का पहला भाग; प्रार्थना। सव्य और पूर्वाभिमुख रहता है।",
+        "en": "Makes the sankalpa; offers to each group while speaking the sentences of foot-water, seat, milk-barley, scents and dakshina; pours the stream of water; speaks the first half of the exchange of blessings; the prayer. Stays savya and facing east.",
+        "bho": "संकल्प; हर बरग के पाद्य-आसन-खीर-जौ-गंध-दक्खिना के वाक्य बोलत अरपन; जलधार; असीस-बातचीत के पहिला भाग; प्रार्थना। सव्य आ पूरब-मुँह रहेला।"
+      }
+    },
+    {
+      "role": {
+        "hi": "पुरोहित",
+        "en": "Purohit",
+        "bho": "पुरोहित"
+      },
+      "does": {
+        "hi": "पत्तल पर चार खाने बनवाना, वाक्य पढ़ाना, क्रम सँभालना, वैदिक मंत्र (उपास्मै, इडामग्ने, वाजे वाजे) पढ़ना, विसर्जन कराना।",
+        "en": "Has the four squares drawn on the leaf plate, dictates the sentences, keeps the order, recites the Vedic mantras (upasmai, idam agne, vaje vaje), leads the sending-off.",
+        "bho": "पत्तल पर चार खाना बनवावल, वाक्य पढ़ावल, क्रम सम्हारल, वैदिक मंत्र (उपास्मै, इडामग्ने, वाजे वाजे) पढ़ल, बिसर्जन करावल।"
+      }
+    },
+    {
+      "role": {
+        "hi": "ब्राह्मण (युग्म)",
+        "en": "The Brahmins (a pair)",
+        "bho": "ब्राह्मन (जोड़ा)"
+      },
+      "does": {
+        "hi": "नांदीमुख पितरों के प्रतिनिधि रूप में आसन ग्रहण, 'तथा'—'प्राप्नुवावः' उत्तर, आशीर्वाद के उत्तर-वाक्य, दक्षिणा स्वीकार। जहाँ ब्राह्मण न हों, पंडित दोनों पक्ष बोलते हैं।",
+        "en": "Take their seats as the representatives of the glad-faced ancestors, answer 'tatha'—'prapnuvavah', return the blessing sentences, accept the dakshina. Where there are no Brahmins the pandit speaks both parts.",
+        "bho": "नांदीमुख पितर लोग के परतिनिधि के रूप में आसन लेल, 'तथा'—'प्राप्नुवावः' जवाब, असीस के जवाबी वाक्य, दक्खिना लेल। जहाँ ब्राह्मन ना होखसु, पंडित दुनो पच्छ बोलेलन।"
+      }
+    }
+  ],
+  "samagri": [
+    {
+      "id": "pattal",
+      "item": {
+        "hi": "पत्तल (या थाली) जिस पर ऐपन (पिसे चावल और हल्दी) से चार खाने बने हों — चारों वर्गों के लिए",
+        "en": "A leaf plate (or a tray) with four squares drawn in rice-paste and turmeric — for the four groups",
+        "bho": "पत्तल (भा थरिया) जेह पर ऐपन (पिसल चाउर आ हरदी) से चार खाना बनल होखे — चारो बरग खातिर"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "durva-akshat",
+      "item": {
+        "hi": "दूर्वा और अक्षत — कुश नहीं, दूर्वा (मंगल-कर्म का नियम); हर अर्पण में जल के साथ",
+        "en": "Durva grass and rice — durva, not kusha (the rule of an auspicious rite); with water at every offering",
+        "bho": "दूब आ अछत — कुस ना, दूब (मंगल-करम के नियम); हर अरपन में पानी संगे"
+      },
+      "qty": "100 g +",
+      "must": true
+    },
+    {
+      "id": "jau-dudh",
+      "item": {
+        "hi": "जौ और दूध, जल में मिलाने के लिए (तिल के स्थान पर जौ)",
+        "en": "Barley and milk, to be mixed with water (barley in place of sesame)",
+        "bho": "जौ आ दूध, पानी में मिलावे खातिर (तिल के जगह जौ)"
+      },
+      "qty": "50 g",
+      "must": true
+    },
+    {
+      "id": "dahi-ber",
+      "item": {
+        "hi": "दही और बेर (या मुनक्का) — स्मृति का 'दधि-कर्कंधु'; नैवेद्य/भोजन-निष्क्रय के साथ",
+        "en": "Curd and jujube (or raisins) — the smriti's 'dadhi-karkandhu'; with the food offering",
+        "bho": "दही आ बेर (भा मुनक्का) — स्मृति के 'दधि-कर्कंधु'; नैवेद्य/भोजन-निष्क्रय संगे"
+      },
+      "qty": "—",
+      "must": false
+    },
+    {
+      "id": "gandhadi",
+      "item": {
+        "hi": "वस्त्र (या धागा), जनेऊ, चंदन, पुष्प, धूप, दीप, नैवेद्य, पान-सुपारी — 'गंधाद्यर्चन' के लिए",
+        "en": "Cloth (or thread), sacred thread, sandal, flowers, incense, lamp, food offering, betel — for the 'gandhadi' worship",
+        "bho": "बस्त्र (भा धागा), जनेऊ, चंदन, फूल, धूप, दीया, नैवेद्य, पान-सुपारी — 'गंधाद्यर्चन' खातिर"
+      },
+      "qty": "4 × 4",
+      "must": true
+    },
+    {
+      "id": "dakshina",
+      "item": {
+        "hi": "दक्षिणा — मुनक्का, आँवला, जौ, अदरक (मूल) और फल के साथ द्रव्य; भोजन-निष्क्रय के लिए अलग द्रव्य",
+        "en": "Dakshina — money with raisins, amla, barley, ginger (root) and fruit; separate money for the food substitute",
+        "bho": "दक्षिणा — मुनक्का, आँवला, जौ, अदरक (जड़) आ फल संगे द्रव्य; भोजन-निष्क्रय खातिर अलग द्रव्य"
+      },
+      "qty": "—",
+      "must": true
+    },
+    {
+      "id": "asan-brahman",
+      "item": {
+        "hi": "ब्राह्मणों के आसन और जल-पात्र, आचमनी",
+        "en": "Seats for the Brahmins, a water vessel and spoon",
+        "bho": "ब्राह्मन लोग के आसन आ पानी के बरतन, आचमनी"
+      },
+      "qty": "2+",
+      "must": true
+    }
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "layer": "paddhati",
+      "minutes": 3,
+      "action": {
+        "hi": "तैयारी: कर्ता स्नान कर सव्य (जनेऊ बाएँ कंधे पर) और पूर्वाभिमुख बैठे; सामने पत्तल पर ऐपन से चार खाने; हाथ में दूर्वा-अक्षत (कुश नहीं)। पंडित नियम-श्लोक सुनाए — न स्वधा, न तिल, न अपसव्य, न पितरों के नाम। [आचमन-पवित्रीकरण](/occasions/achaman-pavitrikaran/) पहले हो चुका हो।",
+        "en": "Preparation: the performer, bathed, sits savya (thread on the left shoulder) and facing east; before him a leaf plate with four squares in rice-paste; durva and rice in hand (not kusha). The pandit recites the rule verses — no 'svadha', no sesame, no apasavya, no names of the ancestors. The [achamana and purification](/occasions/achaman-pavitrikaran/) should already be done.",
+        "bho": "तइयारी: कर्ता नहा के सव्य (जनेऊ बाएँ कान्ह पर) आ पूरब-मुँह बइठे; सामने पत्तल पर ऐपन से चार खाना; हाथ में दूब-अछत (कुस ना)। पंडित नियम-श्लोक सुनावसु — ना स्वधा, ना तिल, ना अपसव्य, ना पितर लोग के नाँव। [आचमन-पबित्रीकरन](/occasions/achaman-pavitrikaran/) पहिले हो गइल होखे।"
+      },
+      "mantraIds": [
+        "pad-na-svadha-sharma-varmeti",
+        "pur-yajnavalkya-1-250"
+      ],
+      "samagriIds": [
+        "pattal",
+        "durva-akshat"
+      ],
+      "panditSays": {
+        "hi": "जनेऊ बाएँ कंधे पर ही रहेगा, मुख पूर्व की ओर — यह मंगल-श्राद्ध है।",
+        "en": "The thread stays on the left shoulder, face to the east — this is an auspicious shraddha.",
+        "bho": "जनेऊ बाएँ कान्ह पर ही रहेला, मुँह पूरब के ओर — ई मंगल-श्राद्ध बा।"
+      }
+    },
+    {
+      "n": 2,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "संकल्प: हाथ में जल-अक्षत-दूर्वा लेकर [संकल्प](/occasions/sankalp/) के सामान्य ढाँचे में प्रयोजन-वाक्य — 'मम पुत्रस्य (कन्यायाः) करिष्यमाण-विवाहांगभूतं नांदीमुखश्राद्धं करिष्ये'; कर्म बदलने पर 'विवाह' के स्थान पर उपनयन, चूडाकर्म आदि।",
+        "en": "Sankalpa: with water, rice and durva in hand, the purpose clause in the usual [sankalpa](/occasions/sankalp/) frame — 'mama putrasya (kanyayah) karishyamana-vivahangabhutam nandimukha-shraddham karishye'; for another rite, upanayana, chudakarma etc. in place of 'vivaha'.",
+        "bho": "संकल्प: हाथ में पानी-अछत-दूब ले के [संकल्प](/occasions/sankalp/) के आम ढाँचा में परयोजन-वाक्य — 'मम पुत्रस्य (कन्यायाः) करिष्यमाण-विवाहाङ्गभूतं नान्दीमुखश्राद्धं करिष्ये'; करम बदलला पर 'विवाह' के जगह उपनयन, चूडाकरम आदि।"
+      },
+      "mantraIds": [
+        "pad-vishnur-vishnur-vishnuh"
+      ],
+      "samagriIds": [
+        "durva-akshat"
+      ],
+      "panditSays": {
+        "sa": "ॐ अद्य {तिथि} {गोत्र}गोत्रः {नाम}शर्माहं मम पुत्रस्य करिष्यमाण{कर्म}अङ्गभूतं नान्दीमुखश्राद्धं करिष्ये ॥",
+        "hi": "जल छोड़िए — संकल्प पूरा।",
+        "en": "Release the water — the sankalpa is made.",
+        "bho": "पानी छोड़ीं — संकल्प पूरा।"
+      }
+    },
+    {
+      "n": 3,
+      "layer": "paddhati",
+      "minutes": 3,
+      "action": {
+        "hi": "पाद्य — ब्राह्मणों (या चारों खानों) के सामने जल छोड़ते हुए चार वर्गों के वाक्य क्रम से — विश्वेदेव, मातृ-वर्ग, पितृ-वर्ग, मातामह-वर्ग — हर बार 'इदं वः पाद्यं पादावनेजनं पादप्रक्षालनं वृद्धिः'।",
+        "en": "Foot-water: dropping water before the Brahmins (or the four squares), the sentences of the four groups in order — Vishvedevas, mother's group, father's group, maternal grandfather's group — each time 'idam vah padyam padavanejanam pada-prakshalanam vriddhih'.",
+        "bho": "पाद्य — ब्राह्मन लोग (भा चारो खाना) के सामने पानी छोड़त चार बरग के वाक्य क्रम से — विश्वेदेव, माई-बरग, बाबूजी-बरग, नाना-बरग — हर बेर 'इदं वः पाद्यं पादावनेजनं पादप्रक्षालनं वृद्धिः'।"
+      },
+      "mantraIds": [
+        "pad-idam-vah-padyam-nandimukhah"
+      ],
+      "samagriIds": [
+        "durva-akshat",
+        "asan-brahman"
+      ],
+      "panditSays": {
+        "hi": "हर वर्ग पर जल — चार बार; छूटे वर्ग का वाक्य नहीं।",
+        "en": "Water at each group — four times; no sentence for an omitted group.",
+        "bho": "हर बरग पर पानी — चार बेर; छूटल बरग के वाक्य ना।"
+      }
+    },
+    {
+      "n": 4,
+      "layer": "paddhati",
+      "minutes": 3,
+      "action": {
+        "hi": "आसन और क्षण — हर वर्ग को 'इदं व आसनं सुखासनं नांदीश्राद्धे क्षणः क्रियेताम्' — ब्राह्मण 'तथा'; यजमान 'प्राप्नोतु भवान्' — ब्राह्मण 'प्राप्नुवावः'। यही श्राद्ध का निमंत्रण-स्वीकार है।",
+        "en": "Seat and kshana: to each group 'idam va asanam sukhasanam nandi-shraddhe kshanah kriyetam' — the Brahmins 'tatha'; the host 'prapnotu bhavan' — the Brahmins 'prapnuvavah'. This is the acceptance of the shraddha's invitation.",
+        "bho": "आसन आ छन — हर बरग के 'इदं व आसनं सुखासनं नान्दीश्राद्धे क्षणः क्रियेताम्' — ब्राह्मन 'तथा'; जजमान 'प्राप्नोतु भवान्' — ब्राह्मन 'प्राप्नुवावः'। एही श्राद्ध के नेवता-स्वीकार बा।"
+      },
+      "mantraIds": [
+        "pad-idam-va-asanam-nandishraddhe"
+      ],
+      "samagriIds": [
+        "asan-brahman"
+      ],
+      "panditSays": {
+        "hi": "'क्षणः क्रियेताम्' — ब्राह्मण उत्तर दें 'तथा'।",
+        "en": "'Kshanah kriyetam' — the Brahmins answer 'tatha'.",
+        "bho": "'क्षणः क्रियेताम्' — ब्राह्मन जवाब देसु 'तथा'।"
+      }
+    },
+    {
+      "n": 5,
+      "layer": "paddhati",
+      "minutes": 3,
+      "action": {
+        "hi": "क्षीर-यव-उदक: दूध, जौ और जल मिलाकर चारों वर्गों को अर्पण, हर बार वर्ग का नाम और 'ॐ भूर्भुवः स्वः प्रीयंताम्'। (तिल नहीं — जौ।)",
+        "en": "Milk, barley and water: mixed and offered to the four groups, each time with the group's name and 'om bhur bhuvah svah priyantam'. (No sesame — barley.)",
+        "bho": "खीर-जौ-पानी: दूध, जौ आ पानी मिला के चारो बरग के अरपन, हर बेर बरग के नाँव आ 'ॐ भूर्भुवः स्वः प्रीयन्ताम्'। (तिल ना — जौ।)"
+      },
+      "mantraIds": [
+        "pad-svaha-sampadyatam-vriddhih"
+      ],
+      "samagriIds": [
+        "jau-dudh"
+      ],
+      "panditSays": {
+        "hi": "जौ-दूध-जल — हर वर्ग पर 'प्रीयंताम्'।",
+        "en": "Barley, milk and water — 'priyantam' at each group.",
+        "bho": "जौ-दूध-पानी — हर बरग पर 'प्रीयन्ताम्'।"
+      }
+    },
+    {
+      "n": 6,
+      "layer": "paddhati",
+      "minutes": 5,
+      "action": {
+        "hi": "गंधादि अर्चन: हर आसन पर वस्त्र, यज्ञोपवीत, चंदन, अक्षत, पुष्प, धूप, दीप, नैवेद्य (दही-बेर सहित), पान-सुपारी — वर्ग का नाम, फिर 'इदं गंधाद्यर्चनं स्वाहा संपद्यतां वृद्धिः'।",
+        "en": "Worship with scents: at each seat cloth, sacred thread, sandal, rice, flowers, incense, lamp, food (with curd and jujube), betel — the group's name, then 'idam gandhadyarchanam svaha sampadyatam vriddhih'.",
+        "bho": "गंध आदि अरचन: हर आसन पर बस्त्र, जनेऊ, चंदन, अछत, फूल, धूप, दीया, नैवेद्य (दही-बेर सहित), पान-सुपारी — बरग के नाँव, फेर 'इदं गन्धाद्यर्चनं स्वाहा सम्पद्यतां वृद्धिः'।"
+      },
+      "mantraIds": [
+        "pad-svaha-sampadyatam-vriddhih"
+      ],
+      "samagriIds": [
+        "gandhadi",
+        "dahi-ber"
+      ],
+      "panditSays": {
+        "hi": "चारों पर गंध-पुष्प-धूप-दीप-नैवेद्य।",
+        "en": "Scent, flowers, incense, lamp and food at all four.",
+        "bho": "चारो पर गंध-फूल-धूप-दीया-नैवेद्य।"
+      }
+    },
+    {
+      "n": 7,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "भोजन-निष्क्रय — दो ब्राह्मणों के भोजन के बदले का द्रव्य हर वर्ग के लिए — 'इदं युग्मब्राह्मणभोजनपर्याप्तान्ननिष्क्रयीभूतं द्रव्यममृतरूपेण स्वाहा संपद्यतां वृद्धिः'। जहाँ ब्राह्मण-भोजन कराया जाता है, वहाँ यह वाक्य भोजन के संकल्प का काम करता है।",
+        "en": "The food substitute: for each group the money in place of a pair of Brahmins' meal — 'idam yugma-brahmana-bhojana-paryaptanna-nishkrayibhutam dravyam amritarupena svaha sampadyatam vriddhih'. Where the Brahmins are actually fed, this sentence serves as the sankalpa of the meal.",
+        "bho": "भोजन-निष्क्रय — दू ब्राह्मन के भोजन के बदले के द्रव्य हर बरग खातिर — 'इदं युग्मब्राह्मणभोजनपर्याप्तान्ननिष्क्रयीभूतं द्रव्यममृतरूपेण स्वाहा सम्पद्यतां वृद्धिः'। जहाँ ब्राह्मन-भोजन करावल जाला, उहाँ ई वाक्य भोजन के संकल्प के काम करेला।"
+      },
+      "mantraIds": [
+        "pad-svaha-sampadyatam-vriddhih"
+      ],
+      "samagriIds": [
+        "dakshina"
+      ],
+      "panditSays": {
+        "hi": "भोजन के बदले का द्रव्य — चार बार।",
+        "en": "The money in place of the meal — four times.",
+        "bho": "भोजन के बदले के द्रव्य — चार बेर।"
+      }
+    },
+    {
+      "n": 8,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "जल-अक्षत-पुष्प: सब आसनों पर जल ('शिवा आपः संतु'), पुष्प ('सौमनस्यमस्तु') और अक्षत ('अक्षतं चारिष्टं चास्तु') — पुण्याहवाचन के ही तीन वाक्य।",
+        "en": "Water, flowers and rice at all the seats: water ('shiva apah santu'), flowers ('saumanasyam astu') and rice ('akshatam charishtam chastu') — the same three sentences as in the punyahavachana.",
+        "bho": "पानी-अछत-फूल: सब आसन पर पानी ('शिवा आपः सन्तु'), फूल ('सौमनस्यमस्तु') आ अछत ('अक्षतं चारिष्टं चास्तु') — पुन्याहवाचन के ही तीन वाक्य।"
+      },
+      "mantraIds": [
+        "pad-shiva-apah-santu"
+      ],
+      "samagriIds": [
+        "durva-akshat"
+      ],
+      "panditSays": {
+        "hi": "जल, फूल, अक्षत — तीन वाक्य।",
+        "en": "Water, flowers, rice — three sentences.",
+        "bho": "पानी, फूल, अछत — तीन वाक्य।"
+      }
+    },
+    {
+      "n": 9,
+      "layer": "paddhati",
+      "minutes": 1,
+      "action": {
+        "hi": "जलधारा — अंगूठे की ओर से पूर्व की दिशा में जल की धारा — 'ॐ अघोराः पितरः संतु'। (मृत्यु-श्राद्ध की दक्षिणाग्र धारा नहीं — पूर्वाग्र।)",
+        "en": "The stream of water — from the thumb side, eastward: 'om aghorah pitarah santu'. (Not the southward stream of a funeral shraddha — eastward.)",
+        "bho": "जलधार — अँगूठा के ओर से पूरब दिसा में पानी के धार — 'ॐ अघोराः पितरः सन्तु'। (मरनी-श्राद्ध के दक्खिन-मुँह धार ना — पूरब-मुँह।)"
+      },
+      "mantraIds": [
+        "pad-aghorah-pitarah-santu"
+      ],
+      "samagriIds": [
+        "durva-akshat"
+      ],
+      "panditSays": {
+        "hi": "धारा पूर्व की ओर, अंगूठे की ओर से।",
+        "en": "The stream eastward, from the thumb side.",
+        "bho": "धार पूरब के ओर, अँगूठा के ओर से।"
+      }
+    },
+    {
+      "n": 10,
+      "layer": "paddhati",
+      "minutes": 3,
+      "action": {
+        "hi": "आशीर्वाद-संवाद: यजमान हाथ जोड़कर 'गोत्रं नोऽभिवर्धताम्' आदि नौ वाक्य कहे, ब्राह्मण हर वाक्य लौटाएँ — 'अभिवर्धतां वो गोत्रम्' …; अंत में दोनों 'एता आशिषः सत्याः संतु'।",
+        "en": "The exchange of blessings: the host, hands joined, says the nine sentences 'gotram no 'bhivardhatam' etc., and the Brahmins return each — 'abhivardhatam vo gotram' …; at the end both sides 'eta ashishah satyah santu'.",
+        "bho": "असीस-बातचीत: जजमान हाथ जोड़ के 'गोत्रं नोऽभिवर्धताम्' आदि नौ वाक्य कहे, ब्राह्मन लोग हर वाक्य लवटावसु — 'अभिवर्धतां वो गोत्रम्' …; अंत में दुनो ओर 'एता आशिषः सत्याः सन्तु'।"
+      },
+      "mantraIds": [
+        "pad-gotram-no-abhivardhatam"
+      ],
+      "panditSays": {
+        "hi": "हाथ जोड़िए — 'गोत्रं नोऽभिवर्धताम्'।",
+        "en": "Hands joined — 'gotram no 'bhivardhatam'.",
+        "bho": "हाथ जोड़ीं — 'गोत्रं नोऽभिवर्धताम्'।"
+      }
+    },
+    {
+      "n": 11,
+      "layer": "paddhati",
+      "minutes": 3,
+      "action": {
+        "hi": "दक्षिणा: मुनक्का, आँवला, जौ, अदरक और फल के साथ द्रव्य लेकर हर वर्ग के लिए 'कृतस्य नांदीश्राद्धस्य फलप्रतिष्ठासिद्ध्यर्थं … दक्षिणां दातुमहमुत्सृजे'; पहले पंडित 'उपास्मै गायता नरः' (यजुर्वेद 33.62) सुनाए।",
+        "en": "The dakshina: with raisins, amla, barley, ginger and fruit together with money, for each group 'kritasya nandi-shraddhasya phala-pratishtha-siddhyartham … dakshinam datum aham utsrije'; first the pandit recites 'upasmai gayata narah' (Yajurveda 33.62).",
+        "bho": "दक्खिना: मुनक्का, आँवला, जौ, अदरक आ फल संगे द्रव्य ले के हर बरग खातिर 'कृतस्य नान्दीश्राद्धस्य फलप्रतिष्ठासिद्ध्यर्थं … दक्षिणां दातुमहमुत्सृजे'; पहिले पंडित 'उपास्मै गायता नरः' (यजुर्वेद 33.62) सुनावसु।"
+      },
+      "mantraIds": [
+        "vs-33-62",
+        "pad-kritasya-nandishraddhasya"
+      ],
+      "samagriIds": [
+        "dakshina"
+      ],
+      "panditSays": {
+        "hi": "दक्षिणा हाथ में — 'उत्सृजे' पर दे दीजिए।",
+        "en": "The dakshina in hand — give it at 'utsrije'.",
+        "bho": "दक्खिना हाथ में — 'उत्सृजे' पर दे दीं।"
+      }
+    },
+    {
+      "n": 12,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "समापन: पंडित 'इडामग्ने पुरुदंसं' (यजुर्वेद 12.51) पढ़े; यजमान कहे 'अनेन नांदीश्राद्धेन नांदीमुखदेवताः प्रीयंताम् वृद्धिरस्तु'; चाहें तो 'माता पितामही चैव' के दो श्लोक ([संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) का वैकल्पिक चरण)।",
+        "en": "Closing: the pandit recites 'idam agne purudamsam' (Yajurveda 12.51); the host says 'anena nandi-shraddhena nandimukha-devatah priyantam vriddhir astu'; optionally the two verses 'mata pitamahi chaiva' (an optional step from the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D)).",
+        "bho": "समापन: पंडित 'इडामग्ने पुरुदंसं' (यजुर्वेद 12.51) पढ़सु; जजमान कहे 'अनेन नान्दीश्राद्धेन नान्दीमुखदेवताः प्रीयन्ताम् वृद्धिरस्तु'; चाहीं त 'माता पितामही चैव' के दू श्लोक ([संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) के बैकल्पिक चरन)।"
+      },
+      "mantraIds": [
+        "vs-12-51",
+        "pad-mata-pitamahi-chaiva"
+      ],
+      "panditSays": {
+        "sa": "अनेन नान्दीश्राद्धेन नान्दीमुखदेवताः प्रीयन्ताम् । वृद्धिरस्तु ॥",
+        "hi": "'वृद्धिरस्तु' — श्राद्ध संपन्न।",
+        "en": "'Vriddhir astu' — the shraddha is complete.",
+        "bho": "'वृद्धिरस्तु' — श्राद्ध संपन्न।"
+      }
+    },
+    {
+      "n": 13,
+      "layer": "paddhati",
+      "minutes": 3,
+      "action": {
+        "hi": "ब्राह्मणों से प्रार्थना और विसर्जन: 'अक्रोधनाः शौचपराः' के पाँच श्लोक (ऋत्विक्-वरण की भूमिका), फिर 'वाजे वाजेऽवत' और 'आ मा वाजस्य प्रसवो' (यजुर्वेद 9.18–19) से ब्राह्मणों को विदा; इसके बाद आचार्य-वरण, और मुख्य कर्म।",
+        "en": "Prayer to the Brahmins and sending-off: the five verses 'akrodhanah shauchaparah' (the preface to choosing the officiants), then 'vaje vaje avata' and 'a ma vajasya prasavo' (Yajurveda 9.18–19) to send the Brahmins off; then the choosing of the acharya, and the main rite.",
+        "bho": "ब्राह्मन लोग से प्रार्थना आ बिसर्जन: 'अक्रोधनाः शौचपराः' के पाँच श्लोक (रितिज-बरन के भूमिका), फेर 'वाजे वाजेऽवत' आ 'आ मा वाजस्य प्रसवो' (यजुर्वेद 9.18–19) से ब्राह्मन लोग के बिदा; एकरा बाद आचार्य-बरन, आ मुख्य करम।"
+      },
+      "mantraIds": [
+        "pad-akrodhanah-shauchaparah",
+        "vs-9-18",
+        "vs-9-19"
+      ],
+      "panditSays": {
+        "hi": "'तृप्ता यात पथिभिर्देवयानैः' — ब्राह्मण तृप्त होकर विदा हों।",
+        "en": "'Tripta yata pathibhir devayanaih' — may the Brahmins depart satisfied.",
+        "bho": "'तृप्ता यात पथिभिर्देवयानैः' — ब्राह्मन लोग तिरपित हो के बिदा होखसु।"
+      },
+      "important": true
+    }
+  ],
+  "variants": [
+    {
+      "region": "deccan-madhyandina",
+      "what": {
+        "hi": "[संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) का प्रयोग: हर वर्ग को 'भूर्भुवः सुवरिदं वः पाद्यं स्वाहा न ममेयं च वृद्धिः' और 'आसनगंधाद्युपचारकल्पनं' के वाक्य; फिर गौरी आदि सोलह मातृकाओं, ब्राह्मी आदि सात मातृकाओं, गणाधिप-दुर्गा-क्षेत्रपाल-वास्तोष्पति को भी युग्म-ब्राह्मण-भोजन का निष्क्रय-हिरण्य; 'उपास्मै गायता' और 'अक्षन्नमीमदंत' सुनाकर दक्षिणा, 'प्रजापते न त्वदेतानि' (यजुर्वेद 10.20), कुलदेवता को नमस्कार, 'माता पितामही चैव' के दो श्लोक, 'इडामग्ने', और 'अनेन नांदीश्राद्धेन नांदीमुखदेवताः प्रीयंतां वृद्धिरस्तु'। श्रौत कर्मों में विश्वेदेव 'दक्षक्रतु' कहे जाते हैं, अन्यत्र 'सत्यवसु'।",
+        "en": "The prayoga of the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D): to each group 'bhur bhuvah suvar idam vah padyam svaha na mama iyam cha vriddhih' and 'asana-gandhady-upachara-kalpanam'; the gold in place of a pair of Brahmins' meal also to the sixteen and the seven matrikas and to Ganadhipa, Durga, Kshetrapala and Vastoshpati; the dakshina after 'upasmai gayata' and 'akshann amimadanta', then 'prajapate na tvad etani' (Yajurveda 10.20), a bow to the family deity, the verses 'mata pitamahi chaiva', 'idam agne', and 'anena nandi-shraddhena nandimukha-devatah priyantam vriddhir astu'. In shrauta rites the Vishvedevas are 'Daksha and Kratu', elsewhere 'Satya and Vasu'.",
+        "bho": "[संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) के परयोग: हर बरग के 'भूर्भुवः सुवरिदं वः पाद्यं स्वाहा न ममेयं च वृद्धिः' आ 'आसनगन्धाद्युपचारकल्पनं' के वाक्य; फेर गौरी आदि सोरह मातृका, ब्राह्मी आदि सात मातृका, गनाधिप-दुर्गा-खेतरपाल-वास्तोष्पति के भी जोड़ा-ब्राह्मन-भोजन के निष्क्रय-सोना; 'उपास्मै गायता' आ 'अक्षन्नमीमदन्त' सुना के दक्खिना, 'प्रजापते न त्वदेतानि' (यजुर्वेद 10.20), कुलदेवता के परनाम, 'माता पितामही चैव' के दू श्लोक, 'इडामग्ने', आ 'अनेन नान्दीश्राद्धेन नान्दीमुखदेवताः प्रीयन्तां वृद्धिरस्तु'। श्रौत करम में विश्वेदेव 'दक्षक्रतु' कहालन, बाकी जगह 'सत्यवसु'।"
+      },
+      "source": "ws-samskararatnamala-1-01"
+    },
+    {
+      "region": "bhojpuri-vivah",
+      "what": {
+        "hi": "भोजपुरी-पूर्वांचल विवाह में नांदीमुख श्राद्ध मंडप-पूजन के दिन 'देव-पितृ निमंत्रण' के बाद होता है ([विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) का क्रम) और उसके ठीक बाद आचार्य-वरण (ब्राह्मण को दक्षिणा, नाई को न्योछावर) — यही क्रम इस पृष्ठ पर है। कई परिवार इसे मायके और ससुराल दोनों ओर अलग-अलग करते हैं (लोकाचार)।",
+        "en": "In a Bhojpuri–Purvanchal wedding the nandimukha shraddha is done on the day of the pavilion worship after the 'invitation of gods and ancestors' (the order of the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt)), and right after it the choosing of the acharya (dakshina to the Brahmin, a gift to the barber) — the order followed on this page. Many families perform it separately on the bride's and the groom's side (local custom).",
+        "bho": "भोजपुरी-पूर्वांचल बियाह में नांदीमुख श्राद्ध मंडप-पूजन के दिन 'देव-पितर नेवता' के बाद होला ([विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) के क्रम) आ ओकरा ठीक बाद आचार्य-बरन (ब्राह्मन के दक्खिना, नाऊ के न्योछावर) — एही क्रम ए पन्ना पर बा। ढेर परिवार एकरा नइहर आ ससुरार दुनो ओर अलगा-अलगा करेला (लोकाचार)।"
+      },
+      "source": "ia-vivah-mvf"
+    },
+    {
+      "region": "living-elders",
+      "what": {
+        "hi": "जिस वर्ग के ज्येष्ठ जीवित हों उसका पार्वण छूट जाता है — माता जीवित तो केवल पितृ- और मातामह-वर्ग (और विश्वेदेव); पिता भी जीवित तो पिता ही कर्ता होकर अपने पितरों को देता है। आज बहुत परिवार इसे संक्षेप में — केवल संकल्प, पाद्य-आसन-गंधादि और आशीर्वाद — करते हैं; यह व्यवहार है, नियम [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) का है।",
+        "en": "A group whose elders are living is left out — with the mother alive only the father's and the maternal grandfather's groups (and the Vishvedevas); with the father alive too, the father himself performs it for his own ancestors. Many families today do it in brief — only the sankalpa, foot-water, seat, scents and the blessings; that is practice, the rule is the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D)'s.",
+        "bho": "जे बरग के बड़ लोग जियत होखसु ओकर पार्वन छूट जाला — माई जियत त खाली बाबूजी- आ नाना-बरग (आ विश्वेदेव); बाबूजी भी जियत त बाबूजी ही कर्ता हो के आपन पितर लोग के देलन। आज ढेर परिवार एकरा छोट में — खाली संकल्प, पाद्य-आसन-गंध आ असीस — करेला; ई ब्यवहार बा, नियम [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) के बा।"
+      },
+      "source": "ws-samskararatnamala-1-01"
+    }
+  ],
+  "faq": [
+    {
+      "q": {
+        "hi": "मंगल कार्य में श्राद्ध क्यों?",
+        "en": "Why a shraddha at a happy occasion?",
+        "bho": "मंगल काज में श्राद्ध काहे?"
+      },
+      "a": {
+        "hi": "परंपरा में माना जाता है कि कुल का कोई भी वृद्धि-कर्म पितरों की सम्मति और आशीर्वाद से ही पूरा होता है; इसलिए पहले उन्हें 'नांदीमुख' — प्रसन्न-मुख — करके बुलाया जाता है। यह शोक का कर्म नहीं है: इसलिए इसके नियम-श्लोक तिल, पिंड, स्वधा, अपसव्य — शोक-श्राद्ध की हर पहचान — हटा देते हैं।",
+        "en": "Tradition holds that no growth rite of a family is complete without the consent and blessing of its ancestors; so they are first invited as 'nandimukha' — glad-faced. It is not a rite of mourning: its rule verses therefore remove sesame, pindas, 'svadha', apasavya — every mark of the funeral shraddha.",
+        "bho": "परंपरा में मानल जाला कि कुल के कवनो बृद्धि-करम पितर लोग के सहमति आ असीस से ही पूरा होला; एही से पहिले उनका के 'नांदीमुख' — खुस-मुँह — कर के बोलावल जाला। ई सोग के करम ना ह: एही से एकर नियम-श्लोक तिल, पिंडा, स्वधा, अपसव्य — सोग-श्राद्ध के हर पहिचान — हटा देला।"
+      }
+    },
+    {
+      "q": {
+        "hi": "माता जीवित हैं — मातृ-वर्ग का क्या करें?",
+        "en": "The mother is living — what about the mother's group?",
+        "bho": "माई जियत बाड़ी — माई-बरग के का करीं?"
+      },
+      "a": {
+        "hi": "उस वर्ग का पार्वण छोड़ दिया जाता है और शेष वर्गों के वाक्य ही बोले जाते हैं; [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) के अनुसार तब दादी-परदादी भी उसी छूटे वर्ग में आती हैं। पंडित को संकल्प के पहले यह पूछ लेना चाहिए कि कौन-कौन जीवित हैं।",
+        "en": "That group's parvana is dropped and only the sentences of the remaining groups are spoken; by the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) the grandmother and great-grandmother then fall into the same omitted group. The pandit should ask before the sankalpa which elders are living.",
+        "bho": "ओह बरग के पार्वन छोड़ दिहल जाला आ बाकी बरग के वाक्य ही बोलल जाला; [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) के अनुसार तब दादी-परदादी भी ओही छूटल बरग में आवेली। पंडित के संकल्प से पहिले ई पूछ लेवे के चाहीं कि के-के जियत बाड़न।"
+      }
+    },
+    {
+      "q": {
+        "hi": "कौन करे — पिता या वर?",
+        "en": "Who performs it — the father or the groom?",
+        "bho": "के करे — बाबूजी भा बर?"
+      },
+      "a": {
+        "hi": "पुत्र के पहले विवाह और सब बाल-संस्कारों में पिता; पिता न हों तो ज्येष्ठ भ्राता या जो संस्कार करा रहा हो; दूसरे विवाह में वर स्वयं; कन्या के विवाह में कन्या का पिता (पिता न हों तो भाई या दाता)। यह [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) के 'अधिकारी' प्रकरण का सार है।",
+        "en": "At a son's first marriage and at all childhood samskaras the father; if there is no father, the eldest brother or whoever conducts the samskara; at a second marriage the groom himself; at a daughter's wedding her father (failing him, a brother or the giver). This summarises the 'who is entitled' section of the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D).",
+        "bho": "बेटा के पहिला बियाह आ सब लरिकाई के संस्कार में बाबूजी; बाबूजी ना होखसु त बड़ भाई भा जे संस्कार करावत होखे; दुसरा बियाह में बर खुद; बेटी के बियाह में बेटी के बाबूजी (बाबूजी ना त भाई भा दाता)। ई [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) के 'अधिकारी' प्रकरन के सार बा।"
+      }
+    },
+    {
+      "q": {
+        "hi": "कितना समय लगता है?",
+        "en": "How long does it take?",
+        "bho": "केतना समय लागेला?"
+      },
+      "a": {
+        "hi": "पूरे प्रयोग में चार वर्गों के छह उपचार और विसर्जन — लगभग आधा घंटा; ब्राह्मण न हों और पंडित दोनों पक्ष बोलें तो बीस मिनट। विवाह के दिन यह मंडप-पूजन के खंड में आता है।",
+        "en": "The full prayoga — six services to four groups and the sending-off — takes about half an hour; twenty minutes when the pandit speaks both parts for want of Brahmins. On a wedding day it sits inside the pavilion-worship block.",
+        "bho": "पूरा परयोग में चार बरग के छव उपचार आ बिसर्जन — लगभग आधा घंटा; ब्राह्मन ना होखसु आ पंडित दुनो पच्छ बोलसु त बीस मिनट। बियाह के दिन ई मंडप-पूजन के खंड में आवेला।"
+      }
+    }
+  ],
+  "sources": [
+    "ia-vivah-mvf",
+    "ws-samskararatnamala-1-01",
+    "ws-yajnavalkya-shraddha",
+    "ws-syv-33",
+    "ws-syv-12",
+    "ws-syv-09",
+    "ia-nkpp-scan",
+    "titus-vs"
+  ],
+  "tags": [
+    "foundations",
+    "shraddha",
+    "nandi",
+    "pitar"
+  ],
+  "sensitive": [
+    "grief"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

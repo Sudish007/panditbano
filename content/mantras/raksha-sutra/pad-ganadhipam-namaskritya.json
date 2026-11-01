@@ -1,0 +1,210 @@
+{
+  "id": "pad-ganadhipam-namaskritya",
+  "kind": "paddhati",
+  "title": {
+    "hi": "गणाधिपं नमस्कृत्य (रक्षा-अभिमंत्रण के नमस्कार-श्लोक)",
+    "en": "Ganadhipam namaskritya (the salutation verses consecrating the raksha)",
+    "bho": "गणाधिपं नमस्कृत्य (रक्षा-अभिमंत्रन के परनाम-श्लोक)"
+  },
+  "devanagari": "ॐ गणाधिपं नमस्कृत्य नमस्कृत्य पितामहम् । विष्णुं रुद्रं श्रियं देवीं वन्दे भक्त्या सरस्वतीम् ॥ स्थानाधिपं नमस्कृत्य ग्रहनाथं निशाकरम् । धरणीगर्भसम्भूतं शशिपुत्रं बृहस्पतिम् ॥ दैत्याचार्यं नमस्कृत्य सूर्यपुत्रं महाग्रहम् । राहुं केतुं नमस्कृत्य यज्ञारम्भे विशेषतः ॥ शक्राद्या देवताः सर्वा मुनींश्चैव तपोधनान् । गर्गं मुनिं नमस्कृत्य नारदं मुनिसत्तमम् ॥ वसिष्ठं मुनिशार्दूलं विश्वामित्रं च गोभिलम् । व्यासं मुनिं नमस्कृत्य सर्वशास्त्रविशारदम् ॥ विद्याधिका ये मुनय आचार्याश्च तपोधनाः । तान् सर्वान् प्रणमाम्येवं यज्ञरक्षाकरान् सदा ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "गणाधिपम्",
+      "gloss": {
+        "hi": "गणाधिप (गणेश) को",
+        "en": "the lord of the ganas (Ganesha)",
+        "bho": "गनाधिप (गणेश) के"
+      }
+    },
+    {
+      "sa": "नमस्कृत्य",
+      "gloss": {
+        "hi": "नमस्कार करके",
+        "en": "having saluted",
+        "bho": "परनाम कर के"
+      }
+    },
+    {
+      "sa": "पितामहम्",
+      "gloss": {
+        "hi": "पितामह (ब्रह्मा) को",
+        "en": "the grandsire (Brahma)",
+        "bho": "पितामह (ब्रह्मा) के"
+      }
+    },
+    {
+      "sa": "विष्णुं रुद्रं श्रियं देवीं सरस्वतीम्",
+      "gloss": {
+        "hi": "विष्णु, रुद्र, श्री देवी और सरस्वती को",
+        "en": "Vishnu, Rudra, the goddess Shri and Sarasvati",
+        "bho": "विष्णु, रुद्र, श्री देवी आ सरस्वती के"
+      }
+    },
+    {
+      "sa": "वन्दे भक्त्या",
+      "gloss": {
+        "hi": "भक्ति से वंदन करता हूँ",
+        "en": "I worship with devotion",
+        "bho": "भगति से बंदन करत बानी"
+      }
+    },
+    {
+      "sa": "स्थानाधिपम्",
+      "gloss": {
+        "hi": "स्थान के अधिपति को",
+        "en": "the lord of the place",
+        "bho": "ठाँव के अधिपति के"
+      }
+    },
+    {
+      "sa": "ग्रहनाथम्",
+      "gloss": {
+        "hi": "ग्रहों के नाथ (सूर्य) को",
+        "en": "the lord of the planets (the Sun)",
+        "bho": "ग्रह लोग के नाथ (सुरुज) के"
+      }
+    },
+    {
+      "sa": "निशाकरम्",
+      "gloss": {
+        "hi": "निशाकर (चंद्र) को",
+        "en": "the night-maker (the Moon)",
+        "bho": "निसाकर (चंदा) के"
+      }
+    },
+    {
+      "sa": "धरणीगर्भसम्भूतम्",
+      "gloss": {
+        "hi": "पृथिवी के गर्भ से उत्पन्न (मंगल) को",
+        "en": "the earth-born (Mars)",
+        "bho": "धरती के गरभ से उपजल (मंगल) के"
+      }
+    },
+    {
+      "sa": "शशिपुत्रम्",
+      "gloss": {
+        "hi": "चंद्र-पुत्र (बुध) को",
+        "en": "the son of the Moon (Mercury)",
+        "bho": "चंदा के बेटा (बुध) के"
+      }
+    },
+    {
+      "sa": "बृहस्पतिम्",
+      "gloss": {
+        "hi": "बृहस्पति को",
+        "en": "Brihaspati (Jupiter)",
+        "bho": "बृहस्पति के"
+      }
+    },
+    {
+      "sa": "दैत्याचार्यम्",
+      "gloss": {
+        "hi": "दैत्यों के आचार्य (शुक्र) को",
+        "en": "the teacher of the Daityas (Venus)",
+        "bho": "दैत्य लोग के आचार्य (सुक्र) के"
+      }
+    },
+    {
+      "sa": "सूर्यपुत्रं महाग्रहम्",
+      "gloss": {
+        "hi": "सूर्य-पुत्र महाग्रह (शनि) को",
+        "en": "the great planet, son of the Sun (Saturn)",
+        "bho": "सुरुज के बेटा महाग्रह (सनि) के"
+      }
+    },
+    {
+      "sa": "राहुं केतुम्",
+      "gloss": {
+        "hi": "राहु और केतु को",
+        "en": "Rahu and Ketu",
+        "bho": "राहु आ केतु के"
+      }
+    },
+    {
+      "sa": "यज्ञारम्भे विशेषतः",
+      "gloss": {
+        "hi": "यज्ञ के आरंभ में विशेष रूप से",
+        "en": "especially at the start of the rite",
+        "bho": "जग्य के सुरुआत में बिसेस रूप से"
+      }
+    },
+    {
+      "sa": "शक्राद्याः देवताः सर्वाः",
+      "gloss": {
+        "hi": "इंद्र आदि सब देवता",
+        "en": "all the gods beginning with Indra",
+        "bho": "इंद्र आदि सब देवता"
+      }
+    },
+    {
+      "sa": "मुनीन् तपोधनान्",
+      "gloss": {
+        "hi": "तप-धनी मुनियों को",
+        "en": "the sages rich in austerity",
+        "bho": "तप के धनी मुनि लोग के"
+      }
+    },
+    {
+      "sa": "गर्गं नारदं वसिष्ठं विश्वामित्रं गोभिलं व्यासम्",
+      "gloss": {
+        "hi": "गर्ग, नारद, वसिष्ठ, विश्वामित्र, गोभिल और व्यास को",
+        "en": "Garga, Narada, Vasishtha, Vishvamitra, Gobhila and Vyasa",
+        "bho": "गर्ग, नारद, वसिष्ठ, विश्वामित्र, गोभिल आ व्यास के"
+      }
+    },
+    {
+      "sa": "विद्याधिकाः",
+      "gloss": {
+        "hi": "विद्या में बढ़े हुए",
+        "en": "rich in learning",
+        "bho": "बिद्या में बढ़ल"
+      }
+    },
+    {
+      "sa": "यज्ञरक्षाकरान्",
+      "gloss": {
+        "hi": "यज्ञ की रक्षा करने वालों को",
+        "en": "the protectors of the rite",
+        "bho": "जग्य के रच्छा करे वाला लोग के"
+      }
+    },
+    {
+      "sa": "प्रणमामि",
+      "gloss": {
+        "hi": "प्रणाम करता हूँ",
+        "en": "I bow",
+        "bho": "परनाम करत बानी"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "गणाधिप को और पितामह को नमस्कार करके विष्णु, रुद्र, श्री देवी और सरस्वती का भक्ति से वंदन करता हूँ। स्थान के अधिपति, ग्रहों के नाथ सूर्य, चंद्र, पृथिवी-पुत्र मंगल, चंद्र-पुत्र बुध, बृहस्पति, दैत्यों के आचार्य शुक्र, सूर्य-पुत्र महाग्रह शनि, राहु और केतु को यज्ञ के आरंभ में विशेष रूप से नमस्कार करके; इंद्र आदि सब देवताओं और तप-धनी मुनियों — गर्ग, नारद, वसिष्ठ, विश्वामित्र, गोभिल और सर्वशास्त्र-विशारद व्यास को नमस्कार करके; विद्या में बढ़े हुए जो मुनि और तप-धनी आचार्य हैं, यज्ञ की रक्षा करने वाले उन सबको मैं सदा प्रणाम करता हूँ।",
+    "en": "Having saluted the lord of the ganas and the grandsire, I worship with devotion Vishnu, Rudra, the goddess Shri and Sarasvati. Having saluted, especially at the start of the rite, the lord of the place, the Sun who is lord of the planets, the Moon, earth-born Mars, Mercury the Moon's son, Brihaspati, Venus the teacher of the Daityas, Saturn the great planet and son of the Sun, Rahu and Ketu; having saluted all the gods beginning with Indra and the sages rich in austerity — Garga, Narada, Vasishtha, Vishvamitra, Gobhila and Vyasa, master of every shastra — to all those sages and teachers rich in learning and austerity, the protectors of the rite, I ever bow.",
+    "bho": "गनाधिप आ पितामह के परनाम कर के विष्णु, रुद्र, श्री देवी आ सरस्वती के भगति से बंदन करत बानी। ठाँव के अधिपति, ग्रह लोग के नाथ सुरुज, चंदा, धरती के बेटा मंगल, चंदा के बेटा बुध, बृहस्पति, दैत्य लोग के आचार्य सुक्र, सुरुज के बेटा महाग्रह सनि, राहु आ केतु के जग्य के सुरुआत में बिसेस रूप से परनाम कर के; इंद्र आदि सब देवता आ तप के धनी मुनि लोग — गर्ग, नारद, वसिष्ठ, विश्वामित्र, गोभिल आ सब सास्त्र के जाननिहार व्यास के परनाम कर के; बिद्या में बढ़ल जे मुनि आ तप-धनी आचार्य बाड़न, जग्य के रच्छा करे वाला ऊ सब के हम हमेसा परनाम करत बानी।"
+  },
+  "explanation": {
+    "hi": "रक्षा-विधान का पहला चरण: पंडित बाएँ हाथ में अक्षत, पीली सरसों, द्रव्य और तीन तार की मौली लेकर दाहिने हाथ से ढँककर इन छह श्लोकों से उन्हें अभिमंत्रित करता है। श्लोक गणेश, ब्रह्मा, विष्णु-रुद्र-लक्ष्मी-सरस्वती, नौ ग्रहों (नाम नहीं, विशेषण — ग्रहनाथ, निशाकर, धरणीगर्भसंभूत, शशिपुत्र, दैत्याचार्य, सूर्यपुत्र), इंद्र आदि देवों और गर्ग से व्यास तक के ऋषि-आचार्यों को 'यज्ञ की रक्षा करने वाले' कहकर प्रणाम करते हैं — यानी रक्षा का भाव पहले नमस्कार में बाँधा जाता है, फिर सूत्र में। पाठ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 243–244) से; ओसीआर की भूलें (विष्णं रुद्रं रियं, शशिपुत्र, दैत्याचार्य) सुधारी गई हैं।",
+    "en": "The first step of the raksha-vidhana: the pandit takes rice, yellow mustard, a coin and the three-strand mauli in the left hand, covers them with the right and consecrates them with these six verses. They salute Ganesha, Brahma, Vishnu–Rudra–Lakshmi–Sarasvati, the nine planets (by epithet, not by name — lord of planets, night-maker, earth-born, son of the Moon, teacher of the Daityas, son of the Sun), the gods beginning with Indra and the sages and teachers from Garga to Vyasa as 'the protectors of the rite' — the idea of protection is first tied into the salutation, then into the thread. Text from the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (pp. 243–244); OCR slips (vishnam rudram riyam, shashiputra, daityacharya) corrected.",
+    "bho": "रक्षा-विधान के पहिला चरन: पंडित बाएँ हाथ में अछत, पियर सरसो, द्रव्य आ तीन तार के मौली ले के दहिना हाथ से तोप के ए छव श्लोक से ओकरा अभिमंत्रित करेला। श्लोक गणेश, ब्रह्मा, विष्णु-रुद्र-लक्ष्मी-सरस्वती, नौ ग्रह (नाँव ना, बिसेसन — ग्रहनाथ, निसाकर, धरनीगर्भसंभूत, ससिपुत्र, दैत्याचार्य, सूर्यपुत्र), इंद्र आदि देव आ गर्ग से व्यास तक के ऋषि-आचार्य के 'जग्य के रच्छा करे वाला' कह के परनाम करेला — माने रच्छा के भाव पहिले परनाम में बान्हल जाला, फेर सूत में। पाठ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 243–244) से; ओसीआर के भूल (विष्णं रुद्रं रियं, शशिपुत्र, दैत्याचार्य) सुधारल गइल।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-nkpp-scan",
+    "retrieved": "2026-11-01",
+    "modified": "OCR विष्णं रुद्रं रियं → विष्णुं रुद्रं श्रियं, शशिपुत्र → शशिपुत्रं, दैत्याचार्य → दैत्याचार्यं, सर्वाः मुनींश्चेव → सर्वा मुनींश्चैव; dandas set"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit ritual formula (anonymous, pre-modern); Sanskrit text taken from the Gita Press scan under brief §14, no Hindi prose copied",
+  "tags": [
+    "raksha",
+    "namaskara",
+    "abhimantrana"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "locator": "NKPP pp. 243–244 (रक्षा-विधान)"
+}

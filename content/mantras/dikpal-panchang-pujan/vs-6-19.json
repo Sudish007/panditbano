@@ -1,0 +1,169 @@
+{
+  "id": "vs-6-19",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 6.19",
+  "title": {
+    "hi": "घृतं घृतपावानः (आकाश — पंच-लोकपाल)",
+    "en": "Ghritam ghritapavanah (Akasha — of the five lokapalas)",
+    "bho": "घृतं घृतपावानः (आकास — पंच-लोकपाल)"
+  },
+  "devanagari": "घृ॒तं घृ॑तपावानः पिबत॒ वसां॑ वसापावानः पिबता॒न्तरि॑क्षस्य ह॒विर॑सि॒ स्वाहा॑ । दिशः॑ प्र॒दिशः॑ आ॒दिशो॑ वि॒दिश॑ उ॒द्दिशो॑ दि॒ग्भ्यः स्वाहा॑ ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "घृतम्",
+      "gloss": {
+        "hi": "घी को",
+        "en": "the ghee",
+        "bho": "घी के"
+      }
+    },
+    {
+      "sa": "घृतपावानः",
+      "gloss": {
+        "hi": "हे घी पीने वालों",
+        "en": "O drinkers of ghee",
+        "bho": "हे घी पियनिहार"
+      }
+    },
+    {
+      "sa": "पिबत",
+      "gloss": {
+        "hi": "पियो",
+        "en": "drink",
+        "bho": "पियीं"
+      }
+    },
+    {
+      "sa": "वसाम्",
+      "gloss": {
+        "hi": "वसा (मेद) को",
+        "en": "the fat",
+        "bho": "चरबी के"
+      }
+    },
+    {
+      "sa": "वसापावानः",
+      "gloss": {
+        "hi": "हे वसा पीने वालों",
+        "en": "O drinkers of fat",
+        "bho": "हे चरबी पियनिहार"
+      }
+    },
+    {
+      "sa": "अन्तरिक्षस्य",
+      "gloss": {
+        "hi": "अंतरिक्ष का",
+        "en": "of the mid-space (sky)",
+        "bho": "अंतरिक्ष के"
+      }
+    },
+    {
+      "sa": "हविः",
+      "gloss": {
+        "hi": "हवि",
+        "en": "oblation",
+        "bho": "हवि"
+      }
+    },
+    {
+      "sa": "असि",
+      "gloss": {
+        "hi": "तू है",
+        "en": "you are",
+        "bho": "तू बाड़"
+      }
+    },
+    {
+      "sa": "स्वाहा",
+      "gloss": {
+        "hi": "स्वाहा",
+        "en": "svaha",
+        "bho": "स्वाहा"
+      }
+    },
+    {
+      "sa": "दिशः",
+      "gloss": {
+        "hi": "दिशाओं को",
+        "en": "to the directions",
+        "bho": "दिसा के"
+      }
+    },
+    {
+      "sa": "प्रदिशः",
+      "gloss": {
+        "hi": "उपदिशाओं को",
+        "en": "to the intermediate directions",
+        "bho": "उपदिसा के"
+      }
+    },
+    {
+      "sa": "आदिशः",
+      "gloss": {
+        "hi": "आ-दिशाओं को",
+        "en": "to the adjoining directions",
+        "bho": "आ-दिसा के"
+      }
+    },
+    {
+      "sa": "विदिशः",
+      "gloss": {
+        "hi": "विदिशाओं को",
+        "en": "to the cross directions",
+        "bho": "बिदिसा के"
+      }
+    },
+    {
+      "sa": "उद्दिशः",
+      "gloss": {
+        "hi": "ऊपर की दिशाओं को",
+        "en": "to the upper directions",
+        "bho": "ऊपर के दिसा के"
+      }
+    },
+    {
+      "sa": "दिग्भ्यः",
+      "gloss": {
+        "hi": "दिशाओं के लिए",
+        "en": "for the directions",
+        "bho": "दिसा खातिर"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे घी पीने वालों, घी पियो; हे वसा पीने वालों, वसा पियो। तू अंतरिक्ष की हवि है — स्वाहा। दिशाओं, उपदिशाओं, आ-दिशाओं, विदिशाओं, ऊपर की दिशाओं — सब दिशाओं के लिए स्वाहा।",
+    "en": "O drinkers of ghee, drink the ghee; O drinkers of fat, drink the fat. You are the oblation of the mid-space — svaha. To the directions, the intermediate, the adjoining, the cross and the upper directions — svaha for all the directions.",
+    "bho": "हे घी पियनिहार, घी पियीं; हे चरबी पियनिहार, चरबी पियीं। तू अंतरिक्ष के हवि बाड़ — स्वाहा। दिसा, उपदिसा, आ-दिसा, बिदिसा, ऊपर के दिसा — सब दिसा खातिर स्वाहा।"
+  },
+  "explanation": {
+    "hi": "[[yajurved]] 6.19 अग्निष्टोम में पशु-हवि के साथ पढ़ा जाने वाला यजुः है। पद्धति ने इसे पंच-लोकपाल में आकाश के आवाहन में रखा है — 'अंतरिक्षस्य हविरसि' और 'दिशः प्रदिशः…' पद आकाश और दिशाओं का उल्लेख करते हैं, यही विनियोग का सूत्र है। 'घृतपावानः' और 'वसापावानः' पशुयाग की भाषा है; घर की पूजा में इनका अर्थ 'हवि ग्रहण करने वाले देव' भर समझा जाता है। इसके बाद ध्यान-श्लोक 'अनाकारं शब्दगुणं द्यावाभूम्यंतरस्थितम्' आता है।",
+    "en": "Yajurveda 6.19 is a yajus recited with the animal offering in the Agnishtoma. The paddhati places it in the invocation of Akasha (space) among the five lokapalas — the words 'antarikshasya havir asi' and 'dishah pradishah …' name the mid-space and the directions, and that is the thread of its use. 'Ghritapavanah' and 'vasapavanah' are the language of the animal sacrifice; in a household puja they are understood simply as 'the gods who receive the oblation'. The dhyana verse 'anakaram shabda-gunam dyava-bhumy-antara-sthitam' follows.",
+    "bho": "[[yajurved]] 6.19 अग्निष्टोम में पसु-हवि संगे पढ़ल जाए वाला यजुः बा। पद्धति एकरा पंच-लोकपाल में आकास के आवाहन में रखले बिया — 'अंतरिक्षस्य हविरसि' आ 'दिशः प्रदिशः…' पद आकास आ दिसा के नाँव लेला, एही बिनियोग के सूत बा। 'घृतपावानः' आ 'वसापावानः' पसुयाग के भासा बा; घर के पूजा में एकर अरथ 'हवि लेवे वाला देव' भर समझल जाला। एकरा बाद धियान-श्लोक 'अनाकारं शब्दगुणं द्यावाभूम्यंतरस्थितम्' आवेला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-06",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "lokapala",
+    "akasha",
+    "disha"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

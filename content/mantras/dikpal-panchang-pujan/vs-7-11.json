@@ -1,0 +1,152 @@
+{
+  "id": "vs-7-11",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 7.11",
+  "title": {
+    "hi": "या वां कशा मधुमती (अश्विनीकुमार — पंच-लोकपाल)",
+    "en": "Ya vam kasha madhumati (the Ashvins — of the five lokapalas)",
+    "bho": "अश्विनी-मंत्र, यजुर्वेद 7.11 (पंच-लोकपाल)"
+  },
+  "devanagari": "या वां॒ कशा॒ मधु॑म॒त्यश्वि॑ना सू॒नृता॑वती । तया॑ य॒ज्ञं मि॑मिक्षतम् । उ॒प॒या॒मगृ॑हीतोऽस्य॒श्विभ्यां॑ त्वै॒ष ते॒ योनि॒र्माध्वी॑भ्यां त्वा ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "या",
+      "gloss": {
+        "hi": "जो",
+        "en": "which",
+        "bho": "जे"
+      }
+    },
+    {
+      "sa": "वाम्",
+      "gloss": {
+        "hi": "तुम दोनों का",
+        "en": "of you two",
+        "bho": "तोहनी दुनो के"
+      }
+    },
+    {
+      "sa": "कशा",
+      "gloss": {
+        "hi": "चाबुक",
+        "en": "whip",
+        "bho": "चाबुक"
+      }
+    },
+    {
+      "sa": "मधुमती",
+      "gloss": {
+        "hi": "मधु वाला",
+        "en": "honey-laden",
+        "bho": "मधु वाला"
+      }
+    },
+    {
+      "sa": "अश्विना",
+      "gloss": {
+        "hi": "हे अश्विनौ",
+        "en": "O Ashvins",
+        "bho": "हे अश्विनी लोग"
+      }
+    },
+    {
+      "sa": "सूनृतावती",
+      "gloss": {
+        "hi": "सुंदर सत्य वाला",
+        "en": "full of kindly truth",
+        "bho": "सुंदर सत्य वाला"
+      }
+    },
+    {
+      "sa": "तया",
+      "gloss": {
+        "hi": "उससे",
+        "en": "with it",
+        "bho": "ओकरा से"
+      }
+    },
+    {
+      "sa": "यज्ञम्",
+      "gloss": {
+        "hi": "यज्ञ को",
+        "en": "the sacrifice",
+        "bho": "जग्य के"
+      }
+    },
+    {
+      "sa": "मिमिक्षतम्",
+      "gloss": {
+        "hi": "सींचो",
+        "en": "sprinkle",
+        "bho": "सींचीं"
+      }
+    },
+    {
+      "sa": "उपयामगृहीतः असि",
+      "gloss": {
+        "hi": "तू उपयाम-पात्र में ग्रहण किया गया है",
+        "en": "you are taken with the upayama vessel",
+        "bho": "तू उपयाम-बरतन में लिहल गइल बाड़"
+      }
+    },
+    {
+      "sa": "अश्विभ्यां त्वा",
+      "gloss": {
+        "hi": "अश्विनौ के लिए तुझे",
+        "en": "you for the Ashvins",
+        "bho": "अश्विनी लोग खातिर तोहरा"
+      }
+    },
+    {
+      "sa": "एष ते योनिः",
+      "gloss": {
+        "hi": "यह तेरा स्थान है",
+        "en": "this is your seat",
+        "bho": "ई तोहार ठाँव बा"
+      }
+    },
+    {
+      "sa": "माध्वीभ्यां त्वा",
+      "gloss": {
+        "hi": "मधु-प्रिय (अश्विनौ) के लिए तुझे",
+        "en": "you for the two honey-loving ones",
+        "bho": "मधु-प्रेमी (अश्विनी लोग) खातिर तोहरा"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे अश्विनौ, तुम दोनों का जो मधु वाला, सुंदर सत्य वाला चाबुक है, उससे यज्ञ को सींचो। तू उपयाम-पात्र में ग्रहण किया गया है — अश्विनौ के लिए तुझे; यह तेरा स्थान है — मधु-प्रिय अश्विनौ के लिए तुझे।",
+    "en": "O Ashvins, with your whip that is honey-laden and full of kindly truth, sprinkle the sacrifice. You are taken with the upayama vessel — you for the Ashvins; this is your seat — you for the two honey-lovers.",
+    "bho": "हे अश्विनी लोग, तोहनी दुनो के जे मधु वाला, सुंदर सत्य वाला चाबुक बा, ओकरा से जग्य के सींचीं। तू उपयाम-बरतन में लिहल गइल बाड़ — अश्विनी लोग खातिर तोहरा; ई तोहार ठाँव बा — मधु-प्रेमी अश्विनी लोग खातिर तोहरा।"
+  },
+  "explanation": {
+    "hi": "[[yajurved]] 7.11 अग्निष्टोम में अश्विनौ के सोम-ग्रह (आश्विन-ग्रह) का मंत्र है; पहला भाग ऋग्वेद 1.22.3 है। पद्धति में यह पंच-लोकपाल के अश्विनीकुमारों (देवों के वैद्य) का आवाहन-मंत्र है। 'कशा मधुमती' — मधु झरता चाबुक — अश्विनौ के रथ का पुराना प्रतीक है। इसके बाद ध्यान-श्लोक 'देवतानां च भैषज्ये सुकुमारौ भिषग्वरौ' आता है, जो उन्हें देवों के चिकित्सक कहता है; यह ग्रंथ का वर्णन है, साइट किसी फल का दावा नहीं करती।",
+    "en": "Yajurveda 7.11 is the mantra of the Ashvina cup of soma in the Agnishtoma; its first part is Rigveda 1.22.3. In the paddhati it is the invocation mantra of the Ashvinikumaras — the physicians of the gods — among the five lokapalas. 'Kasha madhumati', the honey-dripping whip, is an old emblem of the Ashvins' chariot. The dhyana verse 'devatanam cha bhaishajye sukumarau bhishag-varau' follows, calling them the healers of the gods; that is the text's description, the site claims no result.",
+    "bho": "[[yajurved]] 7.11 अग्निष्टोम में अश्विनी लोग के सोम-ग्रह (आश्विन-ग्रह) के मंत्र बा; पहिला भाग ऋग्वेद 1.22.3 बा। पद्धति में ई पंच-लोकपाल के अश्विनीकुमार (देव लोग के वैद्य) के आवाहन-मंत्र बा। 'कशा मधुमती' — मधु चुअत चाबुक — अश्विनी लोग के रथ के पुरान परतीक बा। एकरा बाद धियान-श्लोक 'देवतानां च भैषज्ये सुकुमारौ भिषग्वरौ' आवेला, जे उनका के देव लोग के वैद्य कहेला; ई ग्रंथ के बरनन बा, साइट कवनो फल के दावा ना करे।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-07",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "lokapala",
+    "ashvinau"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

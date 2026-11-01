@@ -1,0 +1,322 @@
+{
+  "id": "pad-indradi-dashadikpala-avahana",
+  "kind": "paddhati",
+  "title": {
+    "hi": "इंद्रादि दश दिक्पालों के ध्यान और आवाहन-वाक्य",
+    "en": "Dhyana verses and invocation sentences of the ten dikpalas",
+    "bho": "इंद्र आदि दस दिक्पाल के धियान आ आवाहन-वाक्य"
+  },
+  "devanagari": "इन्द्रं सुरपतिश्रेष्ठं वज्रहस्तं महाबलम् । आवाहये यज्ञसिद्धये शतयज्ञाधिपं प्रभुम् ॥ ॐ भूर्भुवः स्वः इन्द्र इहागच्छ इह तिष्ठ । इन्द्राय नमः । इन्द्रमावाहयामि स्थापयामि ॥ त्रिपादं सप्तहस्तं च द्विमूर्धानं द्विनासिकम् । षण्णेत्रं च चतुःश्रोत्रमग्निमावाहयाम्यहम् ॥ ॐ भूर्भुवः स्वः अग्ने इहागच्छ इह तिष्ठ । अग्नये नमः । अग्निमावाहयामि स्थापयामि ॥ महामहिषमारूढं दण्डहस्तं महाबलम् । यज्ञसंरक्षणार्थाय यममावाहयाम्यहम् ॥ ॐ भूर्भुवः स्वः यम इहागच्छ इह तिष्ठ । यमाय नमः । यममावाहयामि स्थापयामि ॥ सर्वप्रेताधिपं देवं निर्ऋतिं नीलविग्रहम् । आवाहये यज्ञसिद्धये नरारूढं वरप्रदम् ॥ ॐ भूर्भुवः स्वः निर्ऋते इहागच्छ इह तिष्ठ । निर्ऋतये नमः । निर्ऋतिमावाहयामि स्थापयामि ॥ शुद्धस्फटिकसंकाशं जलेशं यादसां पतिम् । आवाहये प्रतीचीशं वरुणं सर्वकामदम् ॥ ॐ भूर्भुवः स्वः वरुण इहागच्छ इह तिष्ठ । वरुणाय नमः । वरुणमावाहयामि स्थापयामि ॥ मनोजवं महातेजं सर्वतश्चारिणं शुभम् । यज्ञसंरक्षणार्थाय वायुमावाहयाम्यहम् ॥ ॐ भूर्भुवः स्वः वायो इहागच्छ इह तिष्ठ । वायवे नमः । वायुमावाहयामि स्थापयामि ॥ आवाहयामि देवेशं धनदं यक्षपूजितम् । महाबलं दिव्यदेहं नरयानगतिं विभुम् ॥ ॐ भूर्भुवः स्वः कुबेर इहागच्छ इह तिष्ठ । कुबेराय नमः । कुबेरमावाहयामि स्थापयामि ॥ सर्वाधिपं महादेवं भूतानां पतिमव्ययम् । आवाहये तमीशानं लोकानामभयप्रदम् ॥ ॐ भूर्भुवः स्वः ईशान इहागच्छ इह तिष्ठ । ईशानाय नमः । ईशानमावाहयामि स्थापयामि ॥ पद्मयोनिं चतुर्मूर्तिं वेदगर्भं पितामहम् । आवाहयामि ब्रह्माणं यज्ञसंसिद्धिहेतवे ॥ ॐ भूर्भुवः स्वः ब्रह्मन् इहागच्छ इह तिष्ठ । ब्रह्मणे नमः । ब्रह्माणमावाहयामि स्थापयामि ॥ अनन्तं सर्वनागानामधिपं विश्वरूपिणम् । जगतां शान्तिकर्तारं मण्डले स्थापयाम्यहम् ॥ ॐ भूर्भुवः स्वः अनन्त इहागच्छ इह तिष्ठ । अनन्ताय नमः । अनन्तमावाहयामि स्थापयामि ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "सुरपतिश्रेष्ठम्",
+      "gloss": {
+        "hi": "देवों के स्वामियों में श्रेष्ठ",
+        "en": "best among the lords of the gods",
+        "bho": "देव लोग के मालिक में सबसे बड़"
+      }
+    },
+    {
+      "sa": "वज्रहस्तम्",
+      "gloss": {
+        "hi": "हाथ में वज्र वाले",
+        "en": "thunderbolt in hand",
+        "bho": "हाथ में बज्र वाला"
+      }
+    },
+    {
+      "sa": "शतयज्ञाधिपम्",
+      "gloss": {
+        "hi": "सौ यज्ञों के अधिपति (शतक्रतु)",
+        "en": "lord of a hundred sacrifices",
+        "bho": "सौ जग्य के अधिपति"
+      }
+    },
+    {
+      "sa": "त्रिपादम्",
+      "gloss": {
+        "hi": "तीन पैरों वाले",
+        "en": "three-footed",
+        "bho": "तीन गोड़ वाला"
+      }
+    },
+    {
+      "sa": "सप्तहस्तम्",
+      "gloss": {
+        "hi": "सात हाथों वाले",
+        "en": "seven-handed",
+        "bho": "सात हाथ वाला"
+      }
+    },
+    {
+      "sa": "द्विमूर्धानम्",
+      "gloss": {
+        "hi": "दो सिर वाले",
+        "en": "two-headed",
+        "bho": "दू माथा वाला"
+      }
+    },
+    {
+      "sa": "षण्णेत्रम्",
+      "gloss": {
+        "hi": "छह आँखों वाले",
+        "en": "six-eyed",
+        "bho": "छव आँख वाला"
+      }
+    },
+    {
+      "sa": "चतुःश्रोत्रम्",
+      "gloss": {
+        "hi": "चार कानों वाले",
+        "en": "four-eared",
+        "bho": "चार कान वाला"
+      }
+    },
+    {
+      "sa": "महामहिषमारूढम्",
+      "gloss": {
+        "hi": "बड़े भैंसे पर आरूढ़",
+        "en": "mounted on the great buffalo",
+        "bho": "बड़ भइँसा पर चढ़ल"
+      }
+    },
+    {
+      "sa": "दण्डहस्तम्",
+      "gloss": {
+        "hi": "हाथ में दंड वाले",
+        "en": "staff in hand",
+        "bho": "हाथ में दंड वाला"
+      }
+    },
+    {
+      "sa": "यज्ञसंरक्षणार्थाय",
+      "gloss": {
+        "hi": "यज्ञ की रक्षा के लिए",
+        "en": "for the protection of the rite",
+        "bho": "जग्य के रच्छा खातिर"
+      }
+    },
+    {
+      "sa": "सर्वप्रेताधिपम्",
+      "gloss": {
+        "hi": "सब प्रेतों के अधिपति",
+        "en": "lord of all the departed",
+        "bho": "सब प्रेत के अधिपति"
+      }
+    },
+    {
+      "sa": "नीलविग्रहम्",
+      "gloss": {
+        "hi": "नीले शरीर वाले",
+        "en": "blue-bodied",
+        "bho": "नीला देह वाला"
+      }
+    },
+    {
+      "sa": "नरारूढम्",
+      "gloss": {
+        "hi": "मनुष्य पर आरूढ़",
+        "en": "riding a man",
+        "bho": "मनई पर चढ़ल"
+      }
+    },
+    {
+      "sa": "वरप्रदम्",
+      "gloss": {
+        "hi": "वर देने वाले",
+        "en": "giver of boons",
+        "bho": "बर देवे वाला"
+      }
+    },
+    {
+      "sa": "शुद्धस्फटिकसंकाशम्",
+      "gloss": {
+        "hi": "शुद्ध स्फटिक जैसे (उज्ज्वल)",
+        "en": "bright as pure crystal",
+        "bho": "सुद्ध स्फटिक जइसन"
+      }
+    },
+    {
+      "sa": "जलेशम्",
+      "gloss": {
+        "hi": "जल के स्वामी",
+        "en": "lord of the waters",
+        "bho": "पानी के मालिक"
+      }
+    },
+    {
+      "sa": "यादसां पतिम्",
+      "gloss": {
+        "hi": "जलचरों के पति",
+        "en": "lord of the water creatures",
+        "bho": "जलचर के पति"
+      }
+    },
+    {
+      "sa": "प्रतीचीशम्",
+      "gloss": {
+        "hi": "पश्चिम दिशा के ईश",
+        "en": "lord of the west",
+        "bho": "पच्छिम दिसा के ईस"
+      }
+    },
+    {
+      "sa": "मनोजवम्",
+      "gloss": {
+        "hi": "मन की गति वाले",
+        "en": "swift as thought",
+        "bho": "मन के चाल वाला"
+      }
+    },
+    {
+      "sa": "सर्वतश्चारिणम्",
+      "gloss": {
+        "hi": "सब ओर विचरने वाले",
+        "en": "moving everywhere",
+        "bho": "सब ओर घूमे वाला"
+      }
+    },
+    {
+      "sa": "धनदम्",
+      "gloss": {
+        "hi": "धन देने वाले",
+        "en": "giver of wealth",
+        "bho": "धन देवे वाला"
+      }
+    },
+    {
+      "sa": "यक्षपूजितम्",
+      "gloss": {
+        "hi": "यक्षों से पूजित",
+        "en": "worshipped by the yakshas",
+        "bho": "जच्छ लोग से पूजल"
+      }
+    },
+    {
+      "sa": "नरयानगतिम्",
+      "gloss": {
+        "hi": "मनुष्य-वाहन पर चलने वाले",
+        "en": "borne by a man-vehicle",
+        "bho": "मनई-सवारी पर चले वाला"
+      }
+    },
+    {
+      "sa": "भूतानां पतिम्",
+      "gloss": {
+        "hi": "भूतों (प्राणियों) के पति",
+        "en": "lord of beings",
+        "bho": "जीव लोग के पति"
+      }
+    },
+    {
+      "sa": "अभयप्रदम्",
+      "gloss": {
+        "hi": "अभय देने वाले",
+        "en": "giver of fearlessness",
+        "bho": "अभय देवे वाला"
+      }
+    },
+    {
+      "sa": "पद्मयोनिम्",
+      "gloss": {
+        "hi": "कमल से उत्पन्न",
+        "en": "lotus-born",
+        "bho": "कमल से उपजल"
+      }
+    },
+    {
+      "sa": "चतुर्मूर्तिम्",
+      "gloss": {
+        "hi": "चार मुख (मूर्ति) वाले",
+        "en": "four-faced",
+        "bho": "चार मुँह वाला"
+      }
+    },
+    {
+      "sa": "वेदगर्भम्",
+      "gloss": {
+        "hi": "जिनके भीतर वेद हैं",
+        "en": "holding the Vedas within",
+        "bho": "जेकरा भीतर वेद बा"
+      }
+    },
+    {
+      "sa": "पितामहम्",
+      "gloss": {
+        "hi": "पितामह",
+        "en": "the grandsire",
+        "bho": "पितामह"
+      }
+    },
+    {
+      "sa": "सर्वनागानामधिपम्",
+      "gloss": {
+        "hi": "सब नागों के अधिपति",
+        "en": "lord of all the serpents",
+        "bho": "सब नाग के अधिपति"
+      }
+    },
+    {
+      "sa": "विश्वरूपिणम्",
+      "gloss": {
+        "hi": "विश्व-रूप",
+        "en": "of universal form",
+        "bho": "बिस्व-रूप"
+      }
+    },
+    {
+      "sa": "शान्तिकर्तारम्",
+      "gloss": {
+        "hi": "शांति करने वाले",
+        "en": "maker of peace",
+        "bho": "सांति करे वाला"
+      }
+    },
+    {
+      "sa": "इहागच्छ इह तिष्ठ",
+      "gloss": {
+        "hi": "यहाँ आइए, यहाँ ठहरिए",
+        "en": "come here, stay here",
+        "bho": "इहाँ आईं, इहाँ रहीं"
+      }
+    },
+    {
+      "sa": "आवाहयामि स्थापयामि",
+      "gloss": {
+        "hi": "मैं आवाहन करता हूँ, स्थापित करता हूँ",
+        "en": "I invoke, I install",
+        "bho": "हम आवाहन करत बानी, थापत बानी"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "(पूर्व) देवों के स्वामियों में श्रेष्ठ, हाथ में वज्र वाले, महाबली, सौ यज्ञों के अधिपति प्रभु इंद्र का मैं यज्ञ-सिद्धि के लिए आवाहन करता हूँ। (आग्नेय) तीन पैर, सात हाथ, दो सिर, दो नासिका, छह आँख और चार कान वाले अग्नि का मैं आवाहन करता हूँ। (दक्षिण) बड़े भैंसे पर आरूढ़, हाथ में दंड वाले, महाबली यम का यज्ञ की रक्षा के लिए आवाहन करता हूँ। (नैर्ऋत्य) सब प्रेतों के अधिपति, नीले शरीर वाले, नर पर आरूढ़, वर देने वाले देव निर्ऋति का यज्ञ-सिद्धि के लिए आवाहन करता हूँ। (पश्चिम) शुद्ध स्फटिक जैसे उज्ज्वल, जल के स्वामी, जलचरों के पति, पश्चिम के ईश, सब कामनाएँ देने वाले वरुण का आवाहन करता हूँ। (वायव्य) मन की गति वाले, महातेजस्वी, सब ओर विचरने वाले शुभ वायु का यज्ञ-रक्षा के लिए आवाहन करता हूँ। (उत्तर) देवों के ईश, धन देने वाले, यक्षों से पूजित, महाबली, दिव्य देह वाले, मनुष्य-वाहन पर चलने वाले विभु कुबेर का आवाहन करता हूँ। (ईशान) सबके अधिपति, महादेव, प्राणियों के अविनाशी पति, लोकों को अभय देने वाले उन ईशान का आवाहन करता हूँ। (ईशान-पूर्व के मध्य) कमल से उत्पन्न, चार मुख वाले, वेदों को भीतर धारण करने वाले पितामह ब्रह्मा का यज्ञ की सिद्धि के लिए आवाहन करता हूँ। (नैर्ऋत्य-पश्चिम के मध्य) सब नागों के अधिपति, विश्व-रूप, जगत् में शांति करने वाले अनंत को मैं मंडल में स्थापित करता हूँ। — हर वाक्य के साथ: ॐ भूर्भुवः स्वः, हे (देव), यहाँ आइए, यहाँ ठहरिए; (देव) को नमन; मैं (देव) का आवाहन और स्थापन करता हूँ।",
+    "en": "(East) I invoke, for the success of the rite, Indra — best among the lords of the gods, thunderbolt in hand, mighty, the lord of a hundred sacrifices. (South-east) I invoke Agni, three-footed, seven-handed, two-headed, two-nosed, six-eyed and four-eared. (South) I invoke, for the protection of the rite, mighty Yama, mounted on the great buffalo, staff in hand. (South-west) I invoke, for the success of the rite, the god Nirriti, lord of all the departed, blue-bodied, riding a man, giver of boons. (West) I invoke Varuna, bright as pure crystal, lord of the waters and of the water creatures, lord of the west, granter of all wishes. (North-west) I invoke, for the protection of the rite, Vayu, swift as thought, of great splendour, moving everywhere, auspicious. (North) I invoke Kubera, lord of the gods, giver of wealth, worshipped by the yakshas, mighty, of divine body, borne by a man-vehicle, all-pervading. (North-east) I invoke Ishana, lord of all, the great god, the imperishable lord of beings, who gives the worlds fearlessness. (Between north-east and east) I invoke the grandsire Brahma, lotus-born, four-faced, holding the Vedas within, for the accomplishment of the rite. (Between south-west and west) I install in the mandala Ananta, lord of all the serpents, of universal form, who makes peace in the worlds. — With each: om bhur bhuvah svah, O (god), come here, stay here; homage to (the god); I invoke and install (the god).",
+    "bho": "(पूरब) देव लोग के मालिक में सबसे बड़, हाथ में बज्र वाला, महाबली, सौ जग्य के अधिपति प्रभु इंद्र के हम जग्य-सिद्धि खातिर आवाहन करत बानी। (आग्नेय) तीन गोड़, सात हाथ, दू माथा, दू नाक, छव आँख आ चार कान वाला अग्नि के हम आवाहन करत बानी। (दक्खिन) बड़ भइँसा पर चढ़ल, हाथ में दंड वाला, महाबली यम के जग्य के रच्छा खातिर आवाहन करत बानी। (नैरित्य) सब प्रेत के अधिपति, नीला देह वाला, नर पर चढ़ल, बर देवे वाला देव निर्ऋति के जग्य-सिद्धि खातिर आवाहन करत बानी। (पच्छिम) सुद्ध स्फटिक जइसन उज्जर, पानी के मालिक, जलचर के पति, पच्छिम के ईस, सब कामना देवे वाला वरुन के आवाहन करत बानी। (वायव्य) मन के चाल वाला, महातेजवाला, सब ओर घूमे वाला सुभ वायु के जग्य-रच्छा खातिर आवाहन करत बानी। (उत्तर) देव लोग के ईस, धन देवे वाला, जच्छ लोग से पूजल, महाबली, दिव्य देह वाला, मनई-सवारी पर चले वाला बिभु कुबेर के आवाहन करत बानी। (ईसान) सबके अधिपति, महादेव, जीव लोग के अबिनासी पति, लोक के अभय देवे वाला ऊ ईसान के आवाहन करत बानी। (ईसान-पूरब के बीच) कमल से उपजल, चार मुँह वाला, वेद के भीतर धारन करे वाला पितामह ब्रह्मा के जग्य के सिद्धि खातिर आवाहन करत बानी। (नैरित्य-पच्छिम के बीच) सब नाग के अधिपति, बिस्व-रूप, जगत में सांति करे वाला अनंत के हम मंडल में थापत बानी। — हर वाक्य संगे: ॐ भूर्भुवः स्वः, हे (देव), इहाँ आईं, इहाँ रहीं; (देव) के परनाम; हम (देव) के आवाहन आ थापन करत बानी।"
+  },
+  "explanation": {
+    "hi": "दस [[dikpal]] — आठ दिशाओं के अधिपति और दो अतिरिक्त (ब्रह्मा ऊपर, अनंत नीचे) — नवग्रह-मंडल की परिधि के बाहर अपने-अपने स्थान पर आवाहित होते हैं। हर दिक्पाल के लिए क्रम एक ही है: वैदिक मंत्र (जैसे इंद्र के लिए यजुर्वेद 20.50), फिर यह ध्यान-श्लोक, फिर 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' का आवाहन-वाक्य — यजमान बाएँ हाथ में अक्षत लेकर दाहिने हाथ से उस दिशा में छोड़ता है। ब्रह्मा और अनंत के स्थान पद्धति में 'ईशान-पूर्व के मध्य' और 'नैर्ऋत्य-पश्चिम के मध्य' दिए गए हैं, क्योंकि समतल मंडल में ऊपर-नीचे नहीं दिखाया जा सकता। श्लोक [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 239–242) से; ओसीआर की स्पष्ट भूलें सुधारी गई हैं (देखें स्रोत-टिप्पणी)। ये श्लोक पौराणिक-पद्धति परत के हैं, वेद के नहीं।",
+    "en": "The ten dikpalas — the lords of the eight directions plus two more (Brahma above, Ananta below) — are invoked at their stations outside the rim of the navagraha mandala. The order is the same for each: the Vedic mantra (for Indra, Yajurveda 20.50), then this dhyana verse, then the invocation sentence 'om bhur bhuvah svah … ihagachchha iha tishtha' — the host takes rice in the left hand and drops it with the right towards that direction. The paddhati places Brahma 'between north-east and east' and Ananta 'between south-west and west', since up and down cannot be drawn on a flat mandala. The verses are from the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (pp. 239–242); plain OCR slips have been corrected (see source.modified). They belong to the Puranic-paddhati layer, not to the Veda.",
+    "bho": "दस [[dikpal]] — आठ दिसा के अधिपति आ दू अउरी (ब्रह्मा ऊपर, अनंत नीचे) — नवग्रह-मंडल के घेरा के बाहर आपन-आपन ठाँव पर आवाहित होलन। हर दिक्पाल खातिर क्रम एके बा: वैदिक मंत्र (जइसे इंद्र खातिर यजुर्वेद 20.50), फेर ई धियान-श्लोक, फेर 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' के आवाहन-वाक्य — जजमान बाएँ हाथ में अछत ले के दहिना हाथ से ओह दिसा में छोड़ेला। ब्रह्मा आ अनंत के ठाँव पद्धति में 'ईसान-पूरब के बीच' आ 'नैरित्य-पच्छिम के बीच' दिहल गइल बा, काहे कि सपाट मंडल में ऊपर-नीचे ना देखावल जा सके। श्लोक [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 239–242) से; ओसीआर के साफ भूल सुधारल गइल (देखीं स्रोत-टिप्पणी)। ई श्लोक पौरानिक-पद्धति परत के बा, वेद के ना।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-nkpp-scan",
+    "retrieved": "2026-11-01",
+    "modified": "OCR slips corrected (द्विमूर्धनिं → द्विमूर्धानं, निरतिं → निर्ऋतिं, पदायोनिं चतुमर्ति वेदगभं → पद्मयोनिं चतुर्मूर्तिं वेदगर्भं, यज्ञसंसिद्धिहेते → यज्ञसंसिद्धिहेतवे, शाम्ति → शान्ति, भूभुवः → भूर्भुवः); punctuation of the printed sentences replaced by dandas; ten units joined in book order (items 35–44)"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit ritual formula (anonymous, pre-modern); Sanskrit text taken from the Gita Press scan under brief §14, no Hindi prose copied",
+  "tags": [
+    "dikpala",
+    "avahana",
+    "dhyana"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "locator": "NKPP pp. 239–242 (दश दिक्पाल-पूजन, items 35–44)"
+}

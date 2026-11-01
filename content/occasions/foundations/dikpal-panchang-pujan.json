@@ -1,0 +1,801 @@
+{
+  "id": "dikpal-panchang-pujan",
+  "code": "F12",
+  "group": "foundations",
+  "phase": 1,
+  "title": {
+    "hi": "दिक्पाल, पंचांग/पंच-लोकपाल पूजन",
+    "en": "Dikpala and pancha-lokapala worship (the panchanga frame)",
+    "bho": "दिक्पाल, पंचांग/पंच-लोकपाल पूजन"
+  },
+  "lede": {
+    "hi": "नवग्रह-मंडल पर पाँच लोकपाल, वास्तोष्पति-क्षेत्रपाल और दस दिशाओं के दिक्पालों का आवाहन-पूजन — हर देव का वैदिक मंत्र, ध्यान-श्लोक और आवाहन-वाक्य, और 'पंचांग पूजन' नाम का अर्थ।",
+    "en": "The invocation and worship, on the navagraha mandala, of the five lokapalas, Vastoshpati and Kshetrapala, and the dikpalas of the ten directions — each god's Vedic mantra, dhyana verse and invocation sentence, and what the name 'panchanga pujan' means.",
+    "bho": "नवग्रह-मंडल पर पाँच लोकपाल, वास्तोष्पति-खेतरपाल आ दस दिसा के दिक्पाल के आवाहन-पूजन — हर देव के वैदिक मंत्र, धियान-श्लोक आ आवाहन-वाक्य, आ 'पंचांग पूजन' नाँव के अरथ।"
+  },
+  "overview": {
+    "hi": "हिंदी-पट्टी की पोथियाँ मुख्य देवता से पहले जो प्रारंभिक मंडल-पूजन एक खंड में छापती हैं, उसे [[panchang-pujan]] कहा जाता है — [[ganesh-ambika-pujan]], [[kalash-sthapana]] (वरुण), [[shodash-matrika]] और [[sapta-ghrit-matrika]], [[navagraha-pujan]] (अधिदेवता-प्रत्यधिदेवता सहित) और उसी मंडल पर पंच-लोकपाल तथा [[dikpal]]; पद्धतियाँ पाँच की गिनती थोड़ा अलग-अलग करती हैं। इस साइट पर वे अलग पृष्ठ हैं ([गणेश-अंबिका](/occasions/ganesh-ambika-pujan/), [कलश](/occasions/kalash-sthapana/), [पुण्याहवाचन](/occasions/punyaha-vachan/), [मातृका](/occasions/matrika-pujan/), [नवग्रह](/occasions/navagraha-sthapana-pujan/)) और यह पृष्ठ नवग्रह-मंडल के शेष देवगण का है।\n\nक्रम [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) के अनुसार है: नवग्रहों और उनके अधि-प्रत्यधिदेवताओं के बाद मंडल के उत्तर भाग में **पाँच लोकपाल** — गणेश, दुर्गा (अंबिका), वायु, आकाश और दोनों अश्विनीकुमार (स्कंदपुराण का वचन 'गणेशश्चांबिका वायुः…'); फिर **वास्तोष्पति** और **क्षेत्रपाल**; फिर मंडल की परिधि के बाहर **दस दिक्पाल** — इंद्र (पूर्व), अग्नि (आग्नेय), यम (दक्षिण), निर्ऋति (नैर्ऋत्य), वरुण (पश्चिम), वायु (वायव्य), कुबेर (उत्तर), ईशान (ईशान), ब्रह्मा (ऊपर — मंडल में ईशान-पूर्व के बीच) और अनंत (नीचे — नैर्ऋत्य-पश्चिम के बीच)। हर देव के लिए एक ही साँचा है: वैदिक मंत्र → ध्यान-श्लोक → 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' → अक्षत। समूह के बाद 'ॐ मनो जूतिः' (यजुर्वेद 2.13) से प्रतिष्ठा और एक नाम-मंत्र से सबका पूजन।\n\nवैदिक मंत्र संहिता से हैं (स्वर सहित); ध्यान-श्लोक और आवाहन-वाक्य पौराणिक-पद्धति परत के हैं। किस मंत्र को किस देव से जोड़ा गया, उसका आधार प्रायः शब्द-साम्य है (कुबेर के लिए 'भोजनानि-तेज-वीर्य-बल' वाला यजुः, अनंत के लिए पृथिवी-मंत्र) — यह पोथी-परंपरा का विनियोग है, वेद का नहीं; हर मंत्र-पृष्ठ पर यह लिखा है। परंपरा में माना जाता है कि दिक्पालों के आवाहन से कर्म-स्थल हर ओर से सुरक्षित होता है; साइट किसी फल का दावा नहीं करती।",
+    "en": "The Hindi-belt handbooks print the preliminary mandala worships that precede the deity of the day as one block, called [[panchang-pujan]] — [[ganesh-ambika-pujan]], [[kalash-sthapana]] (Varuna), the [[shodash-matrika]] and [[sapta-ghrit-matrika]], [[navagraha-pujan]] (with the adhidevatas and pratyadhidevatas) and, on the same mandala, the five lokapalas and the [[dikpal]]; the paddhatis count the five slightly differently. On this site they are separate pages ([Ganesh-Ambika](/occasions/ganesh-ambika-pujan/), [kalasha](/occasions/kalash-sthapana/), [punyahavachana](/occasions/punyaha-vachan/), [matrika](/occasions/matrika-pujan/), [navagraha](/occasions/navagraha-sthapana-pujan/)), and this page covers the remaining deity group of the navagraha mandala.\n\nThe order follows the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur): after the nine planets and their adhi- and pratyadhidevatas come the **five lokapalas** in the northern part of the mandala — Ganesha, Durga (Ambika), Vayu, Akasha and the two Ashvinikumaras (the Skanda Purana line 'ganeshash chambika vayuh …'); then **Vastoshpati** and **Kshetrapala**; then, outside the rim of the mandala, the **ten dikpalas** — Indra (east), Agni (south-east), Yama (south), Nirriti (south-west), Varuna (west), Vayu (north-west), Kubera (north), Ishana (north-east), Brahma (above — drawn between north-east and east) and Ananta (below — between south-west and west). The pattern is the same for each god: Vedic mantra → dhyana verse → 'om bhur bhuvah svah … ihagachchha iha tishtha' → rice. After each group comes the establishing with 'om mano jutih' (Yajurveda 2.13) and the worship of all with one name mantra.\n\nThe Vedic mantras are from the Samhita (with svara); the dhyana verses and invocation sentences belong to the Puranic-paddhati layer. The pairing of mantra and god usually rests on a likeness of words (for Kubera the yajus with 'food, lustre, vigour, strength', for Ananta an earth mantra) — this is the handbook tradition's assignment, not the Veda's, and every mantra page says so. Tradition holds that invoking the dikpalas guards the ritual ground on every side; the site makes no claim of result.",
+    "bho": "हिंदी-पट्टी के पोथी मुख्य देवता से पहिले जे सुरुआती मंडल-पूजन एक खंड में छापेली, ओकरा [[panchang-pujan]] कहल जाला — [[ganesh-ambika-pujan]], [[kalash-sthapana]] (वरुन), [[shodash-matrika]] आ [[sapta-ghrit-matrika]], [[navagraha-pujan]] (अधिदेवता-प्रत्यधिदेवता सहित) आ ओही मंडल पर पंच-लोकपाल तथा [[dikpal]]; पद्धति पाँच के गिनती थोड़ा अलगा-अलगा करेली। ए साइट पर ऊ अलग पन्ना बा ([गणेश-अंबिका](/occasions/ganesh-ambika-pujan/), [कलश](/occasions/kalash-sthapana/), [पुन्याहवाचन](/occasions/punyaha-vachan/), [मातृका](/occasions/matrika-pujan/), [नवग्रह](/occasions/navagraha-sthapana-pujan/)) आ ई पन्ना नवग्रह-मंडल के बाकी देवगन के बा।\n\nक्रम [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) के अनुसार बा: नवग्रह आ उनकर अधि-प्रत्यधिदेवता के बाद मंडल के उत्तर भाग में **पाँच लोकपाल** — गणेश, दुर्गा (अंबिका), वायु, आकास आ दुनो अश्विनीकुमार (स्कंदपुरान के बचन 'गणेशश्चाम्बिका वायुः…'); फेर **वास्तोष्पति** आ **खेतरपाल**; फेर मंडल के घेरा के बाहर **दस दिक्पाल** — इंद्र (पूरब), अग्नि (आग्नेय), यम (दक्खिन), निर्ऋति (नैरित्य), वरुन (पच्छिम), वायु (वायव्य), कुबेर (उत्तर), ईसान (ईसान), ब्रह्मा (ऊपर — मंडल में ईसान-पूरब के बीच) आ अनंत (नीचे — नैरित्य-पच्छिम के बीच)। हर देव खातिर एके साँचा बा: वैदिक मंत्र → धियान-श्लोक → 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' → अछत। समूह के बाद 'ॐ मनो जूतिः' (यजुर्वेद 2.13) से प्रतिष्ठा आ एक नाँव-मंत्र से सबके पूजन।\n\nवैदिक मंत्र संहिता से बा (सुर सहित); धियान-श्लोक आ आवाहन-वाक्य पौरानिक-पद्धति परत के बा। कवन मंत्र कवना देव से जोड़ल गइल, ओकर आधार बेसी सब्द-साम्य बा (कुबेर खातिर 'भोजनानि-तेज-वीर्य-बल' वाला यजुः, अनंत खातिर धरती-मंत्र) — ई पोथी-परंपरा के बिनियोग बा, वेद के ना; हर मंत्र-पन्ना पर ई लिखल बा। परंपरा में मानल जाला कि दिक्पाल के आवाहन से करम-ठाँव हर ओर से सुरच्छित होला; साइट कवनो फल के दावा ना करे।"
+  },
+  "when": {
+    "rules": {
+      "hi": "हर उस पूजा-हवन में जिसमें नवग्रह-मंडल बनता है — विवाह, उपनयन, गृहप्रवेश, वास्तु-शांति, यज्ञ, बड़े व्रत-उद्यापन — नवग्रह-पूजन के ठीक बाद, मुख्य देवता के पूजन से पहले। समय मुख्य कर्म का मुहूर्त ही है (तिथि-मुहूर्त के लिए [Shubhvela](https://sudish007.github.io/shubhvela/) देखें)। छोटी घरेलू पूजा में यह खंड प्रायः नाम-मंत्रों तक सिमट जाता है।",
+      "en": "In every puja or havan where a navagraha mandala is drawn — wedding, upanayana, house-entry, vastu-shanti, yajna, the closing of a long vrat — right after the navagraha worship and before the worship of the main deity. The time is the muhurat of the main rite (see [Shubhvela](https://sudish007.github.io/shubhvela/) for dates and muhurat). In a small household puja this block usually shrinks to the name mantras.",
+      "bho": "हर ओह पूजा-हवन में जेह में नवग्रह-मंडल बनेला — बियाह, उपनयन, गृहप्रवेस, वास्तु-सांति, जग्य, बड़ बरत के उद्यापन — नवग्रह-पूजन के ठीक बाद, मुख्य देवता के पूजन से पहिले। समय मुख्य करम के मुहूरत ही बा (तिथि-मुहूरत खातिर [Shubhvela](https://sudish007.github.io/shubhvela/) देखीं)। छोट घरेलू पूजा में ई खंड बेसी नाँव-मंत्र तक सिमट जाला।"
+    },
+    "shubhvela": {
+      "muhurat": null,
+      "festival": null,
+      "vrat": null
+    }
+  },
+  "roles": [
+    {
+      "role": {
+        "hi": "पुरोहित",
+        "en": "Purohit",
+        "bho": "पुरोहित"
+      },
+      "does": {
+        "hi": "सत्रह देवों के वैदिक मंत्र, ध्यान-श्लोक और आवाहन-वाक्य पढ़ना; हर स्थान बताना; प्रतिष्ठा और नाम-मंत्र से पूजन कराना; समर्पण-वाक्य बोलना।",
+        "en": "Recites the Vedic mantras, dhyana verses and invocation sentences of the seventeen deities; points out each place; leads the establishing and the worship by name mantra; speaks the dedication.",
+        "bho": "सतरह देव के वैदिक मंत्र, धियान-श्लोक आ आवाहन-वाक्य पढ़ल; हर ठाँव बतावल; प्रतिष्ठा आ नाँव-मंत्र से पूजन करावल; समरपन-वाक्य बोलल।"
+      }
+    },
+    {
+      "role": {
+        "hi": "यजमान (सपत्नीक)",
+        "en": "Host (with spouse)",
+        "bho": "जजमान (घरवाली संगे)"
+      },
+      "does": {
+        "hi": "हर आवाहन पर बाएँ हाथ से अक्षत लेकर दाहिने हाथ से बताए स्थान पर छोड़ना; नाम-मंत्र पर गंध-अक्षत-पुष्प चढ़ाना; समर्पण पर अक्षत मंडल पर छोड़ना।",
+        "en": "At each invocation takes rice in the left hand and drops it with the right at the place shown; offers sandal, rice and flowers at the name mantra; drops rice on the mandala at the dedication.",
+        "bho": "हर आवाहन पर बाएँ हाथ से अछत ले के दहिना हाथ से बतावल ठाँव पर छोड़ल; नाँव-मंत्र पर गंध-अछत-फूल चढ़ावल; समरपन पर अछत मंडल पर छोड़ल।"
+      }
+    },
+    {
+      "role": {
+        "hi": "सहायक",
+        "en": "Helper",
+        "bho": "सहायक"
+      },
+      "does": {
+        "hi": "अक्षत की थाली भरी रखना, दिशाएँ देखकर मंडल सही रखना, धूप-दीप जलाए रखना।",
+        "en": "Keeps the rice plate filled, keeps the mandala aligned to the directions, keeps incense and lamp lit.",
+        "bho": "अछत के थरिया भरल राखल, दिसा देख के मंडल ठीक राखल, धूप-दीया जरवले राखल।"
+      }
+    }
+  ],
+  "samagri": [
+    {
+      "id": "mandal",
+      "item": {
+        "hi": "नवग्रह-मंडल (चौकी पर बना हुआ; लोकपालों के स्थान उत्तर भाग में, दिक्पालों के परिधि के बाहर) — बनाने की विधि नवग्रह पृष्ठ पर",
+        "en": "The navagraha mandala already drawn on the stool (places of the lokapalas in its northern part, of the dikpalas outside the rim) — how to draw it is on the navagraha page",
+        "bho": "नवग्रह-मंडल (चौकी पर बनल; लोकपाल के ठाँव उत्तर भाग में, दिक्पाल के घेरा के बाहर) — बनावे के बिधि नवग्रह पन्ना पर"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "akshat",
+      "item": {
+        "hi": "अक्षत (बिना टूटे चावल, रोली से रंगे) — सत्रह आवाहनों और प्रतिष्ठा के लिए",
+        "en": "Akshata (unbroken rice coloured with roli) — for seventeen invocations and the establishing",
+        "bho": "अछत (बिना टूटल चाउर, रोरी से रंगल) — सतरह आवाहन आ प्रतिष्ठा खातिर"
+      },
+      "qty": "≈ 250 g",
+      "must": true
+    },
+    {
+      "id": "gandh-pushp",
+      "item": {
+        "hi": "गंध (चंदन/रोली) और पुष्प — नाम-मंत्र पर पूजन के लिए",
+        "en": "Gandha (sandal or roli) and flowers — for the worship at the name mantras",
+        "bho": "गंध (चंदन/रोरी) आ फूल — नाँव-मंत्र पर पूजन खातिर"
+      },
+      "qty": "—",
+      "must": true
+    },
+    {
+      "id": "dhup-deep",
+      "item": {
+        "hi": "धूप और दीप (पहले से जला हुआ)",
+        "en": "Incense and a lamp (already lit)",
+        "bho": "धूप आ दीया (पहिले से जरल)"
+      },
+      "qty": "1 + 1",
+      "must": true
+    },
+    {
+      "id": "naivedya",
+      "item": {
+        "hi": "नैवेद्य — बताशा, मिश्री या गुड़; सब देवों के लिए एक साझा",
+        "en": "Naivedya — batasha, mishri or jaggery; one shared offering for all the deities",
+        "bho": "नैवेद्य — बतासा, मिसरी भा गुड़; सब देव खातिर एक साझा"
+      },
+      "qty": "—",
+      "must": false
+    },
+    {
+      "id": "supari",
+      "item": {
+        "hi": "सुपारी — लोकाचार में दिक्पालों के स्थान पर प्रतीक रूप में रखी जाती है (पोथी केवल अक्षत कहती है)",
+        "en": "Betel nuts — by local custom placed as tokens at the dikpalas' places (the handbook says rice only)",
+        "bho": "सुपारी — लोकाचार में दिक्पाल के ठाँव पर परतीक के रूप में रखल जाला (पोथी खाली अछत कहेले)"
+      },
+      "qty": "10–17",
+      "must": false
+    },
+    {
+      "id": "jal-patra",
+      "item": {
+        "hi": "जल-पात्र और आचमनी — पंडित के पास",
+        "en": "A water vessel and spoon — with the pandit",
+        "bho": "पानी के बरतन आ आचमनी — पंडित के लगे"
+      },
+      "qty": "1",
+      "must": true
+    }
+  ],
+  "parts": [
+    {
+      "id": "lokapala",
+      "title": {
+        "hi": "पंच-लोकपाल",
+        "en": "The five lokapalas",
+        "bho": "पंच-लोकपाल"
+      },
+      "summary": {
+        "hi": "मंडल के उत्तर भाग में गणेश, दुर्गा, वायु, आकाश और अश्विनीकुमारों का आवाहन, प्रतिष्ठा और नाम-मंत्र से पूजन।",
+        "en": "Invocation of Ganesha, Durga, Vayu, Akasha and the Ashvins in the northern part of the mandala, their establishing and worship by name mantra.",
+        "bho": "मंडल के उत्तर भाग में गणेश, दुर्गा, वायु, आकास आ अश्विनीकुमार के आवाहन, प्रतिष्ठा आ नाँव-मंत्र से पूजन।"
+      }
+    },
+    {
+      "id": "vastu-kshetra",
+      "title": {
+        "hi": "वास्तोष्पति और क्षेत्रपाल",
+        "en": "Vastoshpati and Kshetrapala",
+        "bho": "वास्तोष्पति आ खेतरपाल"
+      },
+      "summary": {
+        "hi": "स्थान और भूमि-खंड के दो रक्षक देवों का संक्षिप्त आवाहन-पूजन।",
+        "en": "The short invocation and worship of the two guardian gods of the site and the plot.",
+        "bho": "ठाँव आ जमीन के टुकड़ा के दू रच्छक देव के छोट आवाहन-पूजन।"
+      }
+    },
+    {
+      "id": "dikpala",
+      "title": {
+        "hi": "दश दिक्पाल",
+        "en": "The ten dikpalas",
+        "bho": "दस दिक्पाल"
+      },
+      "summary": {
+        "hi": "परिधि के बाहर पूर्व से क्रम में दस दिक्पालों का आवाहन, प्रतिष्ठा, नाम-मंत्र और समर्पण।",
+        "en": "Invocation of the ten dikpalas outside the rim, from the east onward, their establishing, name mantra and dedication.",
+        "bho": "घेरा के बाहर पूरब से क्रम में दस दिक्पाल के आवाहन, प्रतिष्ठा, नाँव-मंत्र आ समरपन।"
+      }
+    }
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "पाँच लोकपालों के स्थान — नवग्रह-पूजन और अधिदेवता-प्रत्यधिदेवता के स्थापन के बाद, उसी मंडल पर आगे बढ़ें ([नवग्रह पृष्ठ](/occasions/navagraha-sthapana-pujan/) के चरण पूरे हों)। पंडित मंडल के उत्तर भाग में पाँच लोकपालों के स्थान यजमान को दिखाए और स्कंदपुराण का वचन सुनाए — 'गणेशश्चांबिका वायुः…'।",
+        "en": "The places of the five lokapalas — After the navagraha worship and the installation of the adhi- and pratyadhidevatas, continue on the same mandala (the steps of the [navagraha page](/occasions/navagraha-sthapana-pujan/) should be complete). The pandit shows the host the places of the five lokapalas in the northern part of the mandala and recites the Skanda Purana line — 'ganeshash chambika vayuh …'.",
+        "bho": "पाँच लोकपाल के ठाँव — नवग्रह-पूजन आ अधिदेवता-प्रत्यधिदेवता के थापन के बाद, ओही मंडल पर आगे बढ़ीं ([नवग्रह पन्ना](/occasions/navagraha-sthapana-pujan/) के चरन पूरा होखे)। पंडित मंडल के उत्तर भाग में पाँच लोकपाल के ठाँव जजमान के देखावसु आ स्कंदपुरान के बचन सुनावसु — 'गणेशश्चाम्बिका वायुः…'।"
+      },
+      "part": "lokapala",
+      "mantraIds": [
+        "pad-ganeshash-chambika-vayuh"
+      ],
+      "samagriIds": [
+        "mandal"
+      ],
+      "panditSays": {
+        "hi": "अब ग्रहों के उत्तर में पाँच लोकपाल — गणेश, अंबिका, वायु, आकाश और अश्विनीकुमार।",
+        "en": "Now, north of the planets, the five lokapalas — Ganesha, Ambika, Vayu, Akasha and the Ashvins.",
+        "bho": "अब ग्रह लोग के उत्तर में पाँच लोकपाल — गणेश, अंबिका, वायु, आकास आ अश्विनीकुमार।"
+      }
+    },
+    {
+      "n": 2,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "गणेश का आवाहन-स्थापन (लोकपालों का पहला स्थान): पंडित पहले वैदिक मंत्र पढ़े, फिर ध्यान-श्लोक और 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' का आवाहन-वाक्य; यजमान बाएँ हाथ में अक्षत लेकर दाहिने हाथ से उस स्थान पर छोड़े।",
+        "en": "Invoking and installing Ganesha (first lokapala place): the pandit recites the Vedic mantra first, then the dhyana verse and the invocation sentence 'om bhur bhuvah svah … ihagachchha iha tishtha'; the host takes rice in the left hand and drops it with the right at that place.",
+        "bho": "गणेश के आवाहन-थापन (लोकपाल के पहिला ठाँव): पंडित पहिले वैदिक मंत्र पढ़सु, फेर धियान-श्लोक आ 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' के आवाहन-वाक्य; जजमान बाएँ हाथ में अछत ले के दहिना हाथ से ओह ठाँव पर छोड़े।"
+      },
+      "part": "lokapala",
+      "mantraIds": [
+        "vs-23-19",
+        "pad-panchalokapala-avahana"
+      ],
+      "samagriIds": [
+        "akshat"
+      ],
+      "panditSays": {
+        "hi": "गणेश के लिए अक्षत लीजिए — लोकपालों का पहला स्थान।",
+        "en": "Rice for Ganesha — first lokapala place.",
+        "bho": "गणेश खातिर अछत लीं — लोकपाल के पहिला ठाँव।"
+      }
+    },
+    {
+      "n": 3,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "दुर्गा (अंबिका) का आवाहन-स्थापन (दूसरा स्थान): पंडित पहले वैदिक मंत्र पढ़े, फिर ध्यान-श्लोक और 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' का आवाहन-वाक्य; यजमान बाएँ हाथ में अक्षत लेकर दाहिने हाथ से उस स्थान पर छोड़े।",
+        "en": "Invocation and installation of Durga (Ambika) (second place): the pandit recites the Vedic mantra first, then the dhyana verse and the invocation sentence 'om bhur bhuvah svah … ihagachchha iha tishtha'; the host takes rice in the left hand and drops it with the right at that place.",
+        "bho": "दुर्गा (अंबिका) के आवाहन-थापन (दुसरा ठाँव): पंडित पहिले वैदिक मंत्र पढ़सु, फेर धियान-श्लोक आ 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' के आवाहन-वाक्य; जजमान बाएँ हाथ में अछत ले के दहिना हाथ से ओह ठाँव पर छोड़े।"
+      },
+      "part": "lokapala",
+      "mantraIds": [
+        "vs-23-18",
+        "pad-panchalokapala-avahana"
+      ],
+      "samagriIds": [
+        "akshat"
+      ],
+      "panditSays": {
+        "hi": "दुर्गा (अंबिका) के लिए अक्षत लीजिए — दूसरा स्थान।",
+        "en": "Rice for Durga (Ambika) — second place.",
+        "bho": "दुर्गा (अंबिका) खातिर अछत लीं — दुसरा ठाँव।"
+      }
+    },
+    {
+      "n": 4,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "वायु का आवाहन-स्थापन (तीसरा स्थान): पंडित पहले वैदिक मंत्र पढ़े, फिर ध्यान-श्लोक और 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' का आवाहन-वाक्य; यजमान बाएँ हाथ में अक्षत लेकर दाहिने हाथ से उस स्थान पर छोड़े।",
+        "en": "Invocation and installation of Vayu (third place): the pandit recites the Vedic mantra first, then the dhyana verse and the invocation sentence 'om bhur bhuvah svah … ihagachchha iha tishtha'; the host takes rice in the left hand and drops it with the right at that place.",
+        "bho": "वायु के आवाहन-थापन (तिसरा ठाँव): पंडित पहिले वैदिक मंत्र पढ़सु, फेर धियान-श्लोक आ 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' के आवाहन-वाक्य; जजमान बाएँ हाथ में अछत ले के दहिना हाथ से ओह ठाँव पर छोड़े।"
+      },
+      "part": "lokapala",
+      "mantraIds": [
+        "vs-27-28",
+        "pad-panchalokapala-avahana"
+      ],
+      "samagriIds": [
+        "akshat"
+      ],
+      "panditSays": {
+        "hi": "वायु के लिए अक्षत लीजिए — तीसरा स्थान।",
+        "en": "Rice for Vayu — third place.",
+        "bho": "वायु खातिर अछत लीं — तिसरा ठाँव।"
+      }
+    },
+    {
+      "n": 5,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "आकाश का आवाहन-स्थापन (चौथा स्थान): पंडित पहले वैदिक मंत्र पढ़े, फिर ध्यान-श्लोक और 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' का आवाहन-वाक्य; यजमान बाएँ हाथ में अक्षत लेकर दाहिने हाथ से उस स्थान पर छोड़े।",
+        "en": "Invocation and installation of Akasha (fourth place): the pandit recites the Vedic mantra first, then the dhyana verse and the invocation sentence 'om bhur bhuvah svah … ihagachchha iha tishtha'; the host takes rice in the left hand and drops it with the right at that place.",
+        "bho": "आकास के आवाहन-थापन (चउथा ठाँव): पंडित पहिले वैदिक मंत्र पढ़सु, फेर धियान-श्लोक आ 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' के आवाहन-वाक्य; जजमान बाएँ हाथ में अछत ले के दहिना हाथ से ओह ठाँव पर छोड़े।"
+      },
+      "part": "lokapala",
+      "mantraIds": [
+        "vs-6-19",
+        "pad-panchalokapala-avahana"
+      ],
+      "samagriIds": [
+        "akshat"
+      ],
+      "panditSays": {
+        "hi": "आकाश के लिए अक्षत लीजिए — चौथा स्थान।",
+        "en": "Rice for Akasha — fourth place.",
+        "bho": "आकास खातिर अछत लीं — चउथा ठाँव।"
+      }
+    },
+    {
+      "n": 6,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "अश्विनीकुमार (दोनों) का आवाहन-स्थापन (पाँचवाँ स्थान): पंडित पहले वैदिक मंत्र पढ़े, फिर ध्यान-श्लोक और 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' का आवाहन-वाक्य; यजमान बाएँ हाथ में अक्षत लेकर दाहिने हाथ से उस स्थान पर छोड़े।",
+        "en": "Invocation and installation of the two Ashvins (fifth place): the pandit recites the Vedic mantra first, then the dhyana verse and the invocation sentence 'om bhur bhuvah svah … ihagachchha iha tishtha'; the host takes rice in the left hand and drops it with the right at that place.",
+        "bho": "अश्विनीकुमार (दुनो) के आवाहन-थापन (पाँचवाँ ठाँव): पंडित पहिले वैदिक मंत्र पढ़सु, फेर धियान-श्लोक आ 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' के आवाहन-वाक्य; जजमान बाएँ हाथ में अछत ले के दहिना हाथ से ओह ठाँव पर छोड़े।"
+      },
+      "part": "lokapala",
+      "mantraIds": [
+        "vs-7-11",
+        "pad-panchalokapala-avahana"
+      ],
+      "samagriIds": [
+        "akshat"
+      ],
+      "panditSays": {
+        "hi": "अश्विनीकुमार (दोनों) के लिए अक्षत लीजिए — पाँचवाँ स्थान।",
+        "en": "Rice for the two Ashvins — fifth place.",
+        "bho": "अश्विनीकुमार (दुनो) खातिर अछत लीं — पाँचवाँ ठाँव।"
+      }
+    },
+    {
+      "n": 7,
+      "layer": "paddhati",
+      "minutes": 3,
+      "action": {
+        "hi": "प्रतिष्ठा और पूजन: 'ॐ मनो जूतिः…' (यजुर्वेद 2.13) पढ़ते हुए पाँचों स्थानों पर अक्षत छोड़कर प्रतिष्ठा; फिर 'ॐ पंचलोकपालेभ्यो नमः' से गंध, अक्षत, पुष्प, धूप, दीप, नैवेद्य जो उपलब्ध हो; अंत में 'अनया पूजया पंचलोकपालाः प्रीयंताम् न मम' कहकर अक्षत मंडल पर।",
+        "en": "Establishing and worship: recite 'om mano jutih …' (Yajurveda 2.13) dropping rice at the five places; then, with 'om pancha-lokapalebhyo namah', offer sandal, rice, flowers, incense, lamp and food as available; finally say 'anaya pujaya pancha-lokapalah priyantam, na mama' and drop rice on the mandala.",
+        "bho": "प्रतिष्ठा आ पूजन: 'ॐ मनो जूतिः…' (यजुर्वेद 2.13) पढ़त पाँचो ठाँव पर अछत छोड़ के प्रतिष्ठा; फेर 'ॐ पंचलोकपालेभ्यो नमः' से गंध, अछत, फूल, धूप, दीया, नैवेद्य जे मिले; अंत में 'अनया पूजया पंचलोकपालाः प्रीयन्ताम् न मम' कह के अछत मंडल पर।"
+      },
+      "part": "lokapala",
+      "mantraIds": [
+        "vs-2-13",
+        "pad-panchalokapalebhyo-namah"
+      ],
+      "samagriIds": [
+        "gandh-pushp",
+        "dhup-deep",
+        "naivedya"
+      ],
+      "panditSays": {
+        "sa": "ॐ पञ्चलोकपालेभ्यो नमः । अनया पूजया पञ्चलोकपालाः प्रीयन्ताम् । न मम ॥",
+        "hi": "गंध-अक्षत-पुष्प पाँचों पर; फिर 'न मम' पर अक्षत।",
+        "en": "Sandal, rice and flowers on all five; then rice at 'na mama'.",
+        "bho": "गंध-अछत-फूल पाँचो पर; फेर 'न मम' पर अछत।"
+      }
+    },
+    {
+      "n": 8,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "वास्तोष्पति का आवाहन-स्थापन (मंडल में उनका नियत स्थान): पंडित पहले वैदिक मंत्र पढ़े, फिर ध्यान-श्लोक और 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' का आवाहन-वाक्य; यजमान बाएँ हाथ में अक्षत लेकर दाहिने हाथ से उस स्थान पर छोड़े। वैदिक मंत्र यहाँ ऋग्वेद का है (यजुर्वेद में नहीं)।",
+        "en": "Invoking and installing Vastoshpati (his fixed place): the pandit recites the Vedic mantra first, then the dhyana verse and the invocation sentence 'om bhur bhuvah svah … ihagachchha iha tishtha'; the host takes rice in the left hand and drops it with the right at that place. The Vedic mantra here is from the Rigveda (it is not in the Yajurveda).",
+        "bho": "वास्तोष्पति के आवाहन-थापन (मंडल में उनकर तय ठाँव): पंडित पहिले वैदिक मंत्र पढ़सु, फेर धियान-श्लोक आ 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' के आवाहन-वाक्य; जजमान बाएँ हाथ में अछत ले के दहिना हाथ से ओह ठाँव पर छोड़े। वैदिक मंत्र इहाँ ऋग्वेद के बा (यजुर्वेद में नइखे)।"
+      },
+      "part": "vastu-kshetra",
+      "mantraIds": [
+        "rv-7-54-1",
+        "pad-vastoshpati-kshetrapala-avahana"
+      ],
+      "samagriIds": [
+        "akshat"
+      ],
+      "panditSays": {
+        "hi": "वास्तोष्पति के लिए अक्षत लीजिए — मंडल में उनका नियत स्थान।",
+        "en": "Rice for Vastoshpati — his fixed place in the mandala.",
+        "bho": "वास्तोष्पति खातिर अछत लीं — मंडल में उनकर तय ठाँव।"
+      }
+    },
+    {
+      "n": 9,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "क्षेत्रपाल का आवाहन-स्थापन (उनका नियत स्थान): पंडित पहले वैदिक मंत्र पढ़े, फिर ध्यान-श्लोक और 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' का आवाहन-वाक्य; यजमान बाएँ हाथ में अक्षत लेकर दाहिने हाथ से उस स्थान पर छोड़े।",
+        "en": "Invocation and installation of Kshetrapala (his fixed place): the pandit recites the Vedic mantra first, then the dhyana verse and the invocation sentence 'om bhur bhuvah svah … ihagachchha iha tishtha'; the host takes rice in the left hand and drops it with the right at that place.",
+        "bho": "खेतरपाल के आवाहन-थापन (उनकर तय ठाँव): पंडित पहिले वैदिक मंत्र पढ़सु, फेर धियान-श्लोक आ 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' के आवाहन-वाक्य; जजमान बाएँ हाथ में अछत ले के दहिना हाथ से ओह ठाँव पर छोड़े।"
+      },
+      "part": "vastu-kshetra",
+      "mantraIds": [
+        "vs-33-60",
+        "pad-vastoshpati-kshetrapala-avahana"
+      ],
+      "samagriIds": [
+        "akshat"
+      ],
+      "panditSays": {
+        "hi": "क्षेत्रपाल के लिए अक्षत लीजिए — उनका नियत स्थान।",
+        "en": "Rice for Kshetrapala — his fixed place.",
+        "bho": "खेतरपाल खातिर अछत लीं — उनकर तय ठाँव।"
+      }
+    },
+    {
+      "n": 10,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "वास्तोष्पति-क्षेत्रपाल की प्रतिष्ठा और पूजन — 'ॐ मनो जूतिः' से दोनों की प्रतिष्ठा; 'ॐ वास्तोष्पतये नमः' और 'ॐ क्षेत्रपालाय नमः' से गंधादि उपचार। (यज्ञ और वास्तु-शांति में इन दोनों का अलग चक्र बनाकर विस्तृत पूजन होता है — वह उस कर्म के पृष्ठ पर।)",
+        "en": "Establishing and worshipping Vastoshpati and Kshetrapala — Establish both with 'om mano jutih'; offer sandal and the other services with 'om vastoshpataye namah' and 'om kshetrapalaya namah'. (In a yajna or a vastu-shanti the two receive an extended worship on a separate diagram — that belongs to the page of that rite.)",
+        "bho": "वास्तोष्पति-खेतरपाल के प्रतिष्ठा आ पूजन — 'ॐ मनो जूतिः' से दुनो के प्रतिष्ठा; 'ॐ वास्तोष्पतये नमः' आ 'ॐ क्षेत्रपालाय नमः' से गंध आदि उपचार। (जग्य आ वास्तु-सांति में ए दुनो के अलग चक्र बना के बिस्तार से पूजन होला — ऊ ओह करम के पन्ना पर।)"
+      },
+      "part": "vastu-kshetra",
+      "mantraIds": [
+        "vs-2-13",
+        "pad-panchalokapalebhyo-namah"
+      ],
+      "samagriIds": [
+        "gandh-pushp"
+      ],
+      "panditSays": {
+        "sa": "ॐ वास्तोष्पतये नमः ॥ ॐ क्षेत्रपालाय नमः ॥",
+        "hi": "दोनों पर गंध-अक्षत-पुष्प।",
+        "en": "Sandal, rice and flowers on both.",
+        "bho": "दुनो पर गंध-अछत-फूल।"
+      }
+    },
+    {
+      "n": 11,
+      "layer": "paddhati",
+      "minutes": 1,
+      "action": {
+        "hi": "दस दिक्पालों की दिशाएँ — अब मंडल की परिधि के बाहर दस दिक्पाल, पूर्व से शुरू करके। पंडित हर दिशा यजमान को दिखाए — चौकी का पूर्व कमरे का सच्चा पूर्व हो।",
+        "en": "The directions of the ten dikpalas — Now the ten dikpalas outside the rim of the mandala, beginning in the east. The pandit shows the host each direction — the stool's east should be the room's true east.",
+        "bho": "दस दिक्पाल के दिसा — अब मंडल के घेरा के बाहर दस दिक्पाल, पूरब से सुरू कर के। पंडित हर दिसा जजमान के देखावसु — चौकी के पूरब कमरा के सही पूरब होखे।"
+      },
+      "part": "dikpala",
+      "samagriIds": [
+        "mandal"
+      ],
+      "panditSays": {
+        "hi": "परिधि के बाहर — पूर्व में इंद्र से शुरू।",
+        "en": "Outside the rim — we begin with Indra in the east.",
+        "bho": "घेरा के बाहर — पूरब में इंद्र से सुरू।"
+      }
+    },
+    {
+      "n": 12,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "इंद्र का आवाहन-स्थापन (पूर्व): पंडित पहले वैदिक मंत्र पढ़े, फिर ध्यान-श्लोक और 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' का आवाहन-वाक्य; यजमान बाएँ हाथ में अक्षत लेकर दाहिने हाथ से उस स्थान पर छोड़े।",
+        "en": "Invocation and installation of Indra (east): the pandit recites the Vedic mantra first, then the dhyana verse and the invocation sentence 'om bhur bhuvah svah … ihagachchha iha tishtha'; the host takes rice in the left hand and drops it with the right at that place.",
+        "bho": "इंद्र के आवाहन-थापन (पूरब): पंडित पहिले वैदिक मंत्र पढ़सु, फेर धियान-श्लोक आ 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' के आवाहन-वाक्य; जजमान बाएँ हाथ में अछत ले के दहिना हाथ से ओह ठाँव पर छोड़े।"
+      },
+      "part": "dikpala",
+      "mantraIds": [
+        "vs-20-50",
+        "pad-indradi-dashadikpala-avahana"
+      ],
+      "samagriIds": [
+        "akshat"
+      ],
+      "panditSays": {
+        "hi": "इंद्र के लिए अक्षत लीजिए — पूर्व।",
+        "en": "Rice for Indra — east.",
+        "bho": "इंद्र खातिर अछत लीं — पूरब।"
+      }
+    },
+    {
+      "n": 13,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "अग्नि का आवाहन-स्थापन (आग्नेय (दक्षिण-पूर्व)): पंडित पहले वैदिक मंत्र पढ़े, फिर ध्यान-श्लोक और 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' का आवाहन-वाक्य; यजमान बाएँ हाथ में अक्षत लेकर दाहिने हाथ से उस स्थान पर छोड़े।",
+        "en": "Invocation and installation of Agni (south-east): the pandit recites the Vedic mantra first, then the dhyana verse and the invocation sentence 'om bhur bhuvah svah … ihagachchha iha tishtha'; the host takes rice in the left hand and drops it with the right at that place.",
+        "bho": "अग्नि के आवाहन-थापन (आग्नेय (दक्खिन-पूरब)): पंडित पहिले वैदिक मंत्र पढ़सु, फेर धियान-श्लोक आ 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' के आवाहन-वाक्य; जजमान बाएँ हाथ में अछत ले के दहिना हाथ से ओह ठाँव पर छोड़े।"
+      },
+      "part": "dikpala",
+      "mantraIds": [
+        "vs-22-17",
+        "pad-indradi-dashadikpala-avahana"
+      ],
+      "samagriIds": [
+        "akshat"
+      ],
+      "panditSays": {
+        "hi": "अग्नि के लिए अक्षत लीजिए — आग्नेय (दक्षिण-पूर्व)।",
+        "en": "Rice for Agni — south-east.",
+        "bho": "अग्नि खातिर अछत लीं — आग्नेय (दक्खिन-पूरब)।"
+      }
+    },
+    {
+      "n": 14,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "यम का आवाहन-स्थापन (दक्षिण): पंडित पहले वैदिक मंत्र पढ़े, फिर ध्यान-श्लोक और 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' का आवाहन-वाक्य; यजमान बाएँ हाथ में अक्षत लेकर दाहिने हाथ से उस स्थान पर छोड़े।",
+        "en": "Invocation and installation of Yama (south): the pandit recites the Vedic mantra first, then the dhyana verse and the invocation sentence 'om bhur bhuvah svah … ihagachchha iha tishtha'; the host takes rice in the left hand and drops it with the right at that place.",
+        "bho": "यम के आवाहन-थापन (दक्खिन): पंडित पहिले वैदिक मंत्र पढ़सु, फेर धियान-श्लोक आ 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' के आवाहन-वाक्य; जजमान बाएँ हाथ में अछत ले के दहिना हाथ से ओह ठाँव पर छोड़े।"
+      },
+      "part": "dikpala",
+      "mantraIds": [
+        "vs-38-9",
+        "pad-indradi-dashadikpala-avahana"
+      ],
+      "samagriIds": [
+        "akshat"
+      ],
+      "panditSays": {
+        "hi": "यम के लिए अक्षत लीजिए — दक्षिण।",
+        "en": "Rice for Yama — south.",
+        "bho": "यम खातिर अछत लीं — दक्खिन।"
+      }
+    },
+    {
+      "n": 15,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "निर्ऋति का आवाहन-स्थापन (नैर्ऋत्य (दक्षिण-पश्चिम)): पंडित पहले वैदिक मंत्र पढ़े, फिर ध्यान-श्लोक और 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' का आवाहन-वाक्य; यजमान बाएँ हाथ में अक्षत लेकर दाहिने हाथ से उस स्थान पर छोड़े।",
+        "en": "Invocation and installation of Nirriti (south-west): the pandit recites the Vedic mantra first, then the dhyana verse and the invocation sentence 'om bhur bhuvah svah … ihagachchha iha tishtha'; the host takes rice in the left hand and drops it with the right at that place.",
+        "bho": "निर्ऋति के आवाहन-थापन (नैरित्य (दक्खिन-पच्छिम)): पंडित पहिले वैदिक मंत्र पढ़सु, फेर धियान-श्लोक आ 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' के आवाहन-वाक्य; जजमान बाएँ हाथ में अछत ले के दहिना हाथ से ओह ठाँव पर छोड़े।"
+      },
+      "part": "dikpala",
+      "mantraIds": [
+        "vs-12-62",
+        "pad-indradi-dashadikpala-avahana"
+      ],
+      "samagriIds": [
+        "akshat"
+      ],
+      "panditSays": {
+        "hi": "निर्ऋति के लिए अक्षत लीजिए — नैर्ऋत्य (दक्षिण-पश्चिम)।",
+        "en": "Rice for Nirriti — south-west.",
+        "bho": "निर्ऋति खातिर अछत लीं — नैरित्य (दक्खिन-पच्छिम)।"
+      }
+    },
+    {
+      "n": 16,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "वरुण का आवाहन-स्थापन (पश्चिम): पंडित पहले वैदिक मंत्र पढ़े, फिर ध्यान-श्लोक और 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' का आवाहन-वाक्य; यजमान बाएँ हाथ में अक्षत लेकर दाहिने हाथ से उस स्थान पर छोड़े।",
+        "en": "Invocation and installation of Varuna (west): the pandit recites the Vedic mantra first, then the dhyana verse and the invocation sentence 'om bhur bhuvah svah … ihagachchha iha tishtha'; the host takes rice in the left hand and drops it with the right at that place.",
+        "bho": "वरुन के आवाहन-थापन (पच्छिम): पंडित पहिले वैदिक मंत्र पढ़सु, फेर धियान-श्लोक आ 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' के आवाहन-वाक्य; जजमान बाएँ हाथ में अछत ले के दहिना हाथ से ओह ठाँव पर छोड़े।"
+      },
+      "part": "dikpala",
+      "mantraIds": [
+        "vs-18-49",
+        "pad-indradi-dashadikpala-avahana"
+      ],
+      "samagriIds": [
+        "akshat"
+      ],
+      "panditSays": {
+        "hi": "वरुण के लिए अक्षत लीजिए — पश्चिम।",
+        "en": "Rice for Varuna — west.",
+        "bho": "वरुन खातिर अछत लीं — पच्छिम।"
+      }
+    },
+    {
+      "n": 17,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "वायु का आवाहन-स्थापन (वायव्य (उत्तर-पश्चिम)): पंडित पहले वैदिक मंत्र पढ़े, फिर ध्यान-श्लोक और 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' का आवाहन-वाक्य; यजमान बाएँ हाथ में अक्षत लेकर दाहिने हाथ से उस स्थान पर छोड़े।",
+        "en": "Invocation and installation of Vayu (north-west): the pandit recites the Vedic mantra first, then the dhyana verse and the invocation sentence 'om bhur bhuvah svah … ihagachchha iha tishtha'; the host takes rice in the left hand and drops it with the right at that place.",
+        "bho": "वायु के आवाहन-थापन (वायव्य (उत्तर-पच्छिम)): पंडित पहिले वैदिक मंत्र पढ़सु, फेर धियान-श्लोक आ 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' के आवाहन-वाक्य; जजमान बाएँ हाथ में अछत ले के दहिना हाथ से ओह ठाँव पर छोड़े।"
+      },
+      "part": "dikpala",
+      "mantraIds": [
+        "vs-27-28",
+        "pad-indradi-dashadikpala-avahana"
+      ],
+      "samagriIds": [
+        "akshat"
+      ],
+      "panditSays": {
+        "hi": "वायु के लिए अक्षत लीजिए — वायव्य (उत्तर-पश्चिम)।",
+        "en": "Rice for Vayu — north-west.",
+        "bho": "वायु खातिर अछत लीं — वायव्य (उत्तर-पच्छिम)।"
+      }
+    },
+    {
+      "n": 18,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "कुबेर का आवाहन-स्थापन (उत्तर): पंडित पहले वैदिक मंत्र पढ़े, फिर ध्यान-श्लोक और 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' का आवाहन-वाक्य; यजमान बाएँ हाथ में अक्षत लेकर दाहिने हाथ से उस स्थान पर छोड़े।",
+        "en": "Invocation and installation of Kubera (north): the pandit recites the Vedic mantra first, then the dhyana verse and the invocation sentence 'om bhur bhuvah svah … ihagachchha iha tishtha'; the host takes rice in the left hand and drops it with the right at that place.",
+        "bho": "कुबेर के आवाहन-थापन (उत्तर): पंडित पहिले वैदिक मंत्र पढ़सु, फेर धियान-श्लोक आ 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' के आवाहन-वाक्य; जजमान बाएँ हाथ में अछत ले के दहिना हाथ से ओह ठाँव पर छोड़े।"
+      },
+      "part": "dikpala",
+      "mantraIds": [
+        "vs-19-6",
+        "pad-indradi-dashadikpala-avahana"
+      ],
+      "samagriIds": [
+        "akshat"
+      ],
+      "panditSays": {
+        "hi": "कुबेर के लिए अक्षत लीजिए — उत्तर।",
+        "en": "Rice for Kubera — north.",
+        "bho": "कुबेर खातिर अछत लीं — उत्तर।"
+      }
+    },
+    {
+      "n": 19,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "ईशान का आवाहन-स्थापन (ईशान (उत्तर-पूर्व)): पंडित पहले वैदिक मंत्र पढ़े, फिर ध्यान-श्लोक और 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' का आवाहन-वाक्य; यजमान बाएँ हाथ में अक्षत लेकर दाहिने हाथ से उस स्थान पर छोड़े।",
+        "en": "Invocation and installation of Ishana (north-east): the pandit recites the Vedic mantra first, then the dhyana verse and the invocation sentence 'om bhur bhuvah svah … ihagachchha iha tishtha'; the host takes rice in the left hand and drops it with the right at that place.",
+        "bho": "ईसान के आवाहन-थापन (ईसान (उत्तर-पूरब)): पंडित पहिले वैदिक मंत्र पढ़सु, फेर धियान-श्लोक आ 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' के आवाहन-वाक्य; जजमान बाएँ हाथ में अछत ले के दहिना हाथ से ओह ठाँव पर छोड़े।"
+      },
+      "part": "dikpala",
+      "mantraIds": [
+        "vs-25-18",
+        "pad-indradi-dashadikpala-avahana"
+      ],
+      "samagriIds": [
+        "akshat"
+      ],
+      "panditSays": {
+        "hi": "ईशान के लिए अक्षत लीजिए — ईशान (उत्तर-पूर्व)।",
+        "en": "Rice for Ishana — north-east.",
+        "bho": "ईसान खातिर अछत लीं — ईसान (उत्तर-पूरब)।"
+      }
+    },
+    {
+      "n": 20,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "ब्रह्मा का आवाहन-स्थापन (ऊर्ध्व — मंडल में ईशान और पूर्व के बीच): पंडित पहले वैदिक मंत्र पढ़े, फिर ध्यान-श्लोक और 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' का आवाहन-वाक्य; यजमान बाएँ हाथ में अक्षत लेकर दाहिने हाथ से उस स्थान पर छोड़े।",
+        "en": "Invocation and installation of Brahma (above — between north-east and east on the mandala): the pandit recites the Vedic mantra first, then the dhyana verse and the invocation sentence 'om bhur bhuvah svah … ihagachchha iha tishtha'; the host takes rice in the left hand and drops it with the right at that place.",
+        "bho": "ब्रह्मा के आवाहन-थापन (ऊपर — मंडल में ईसान आ पूरब के बीच): पंडित पहिले वैदिक मंत्र पढ़सु, फेर धियान-श्लोक आ 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' के आवाहन-वाक्य; जजमान बाएँ हाथ में अछत ले के दहिना हाथ से ओह ठाँव पर छोड़े।"
+      },
+      "part": "dikpala",
+      "mantraIds": [
+        "vs-13-3",
+        "pad-indradi-dashadikpala-avahana"
+      ],
+      "samagriIds": [
+        "akshat"
+      ],
+      "panditSays": {
+        "hi": "ब्रह्मा के लिए अक्षत लीजिए — ऊर्ध्व — मंडल में ईशान और पूर्व के बीच।",
+        "en": "Rice for Brahma — above — between north-east and east on the mandala.",
+        "bho": "ब्रह्मा खातिर अछत लीं — ऊपर — मंडल में ईसान आ पूरब के बीच।"
+      }
+    },
+    {
+      "n": 21,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "अनंत का आवाहन-स्थापन (अधः — मंडल में नैर्ऋत्य और पश्चिम के बीच): पंडित पहले वैदिक मंत्र पढ़े, फिर ध्यान-श्लोक और 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' का आवाहन-वाक्य; यजमान बाएँ हाथ में अक्षत लेकर दाहिने हाथ से उस स्थान पर छोड़े।",
+        "en": "Invocation and installation of Ananta (below — between south-west and west on the mandala): the pandit recites the Vedic mantra first, then the dhyana verse and the invocation sentence 'om bhur bhuvah svah … ihagachchha iha tishtha'; the host takes rice in the left hand and drops it with the right at that place.",
+        "bho": "अनंत के आवाहन-थापन (नीचे — मंडल में नैरित्य आ पच्छिम के बीच): पंडित पहिले वैदिक मंत्र पढ़सु, फेर धियान-श्लोक आ 'ॐ भूर्भुवः स्वः … इहागच्छ इह तिष्ठ' के आवाहन-वाक्य; जजमान बाएँ हाथ में अछत ले के दहिना हाथ से ओह ठाँव पर छोड़े।"
+      },
+      "part": "dikpala",
+      "mantraIds": [
+        "vs-35-21",
+        "pad-indradi-dashadikpala-avahana"
+      ],
+      "samagriIds": [
+        "akshat"
+      ],
+      "panditSays": {
+        "hi": "अनंत के लिए अक्षत लीजिए — अधः — मंडल में नैर्ऋत्य और पश्चिम के बीच।",
+        "en": "Rice for Ananta — below — between south-west and west on the mandala.",
+        "bho": "अनंत खातिर अछत लीं — नीचे — मंडल में नैरित्य आ पच्छिम के बीच।"
+      }
+    },
+    {
+      "n": 22,
+      "layer": "paddhati",
+      "minutes": 3,
+      "action": {
+        "hi": "प्रतिष्ठा और पूजन: 'ॐ मनो जूतिः…' से दसों स्थानों पर अक्षत छोड़कर प्रतिष्ठा; 'ॐ इंद्रादिदशदिक्पालेभ्यो नमः' से यथा-उपलब्ध उपचार (गंध, अक्षत, पुष्प, धूप, दीप, नैवेद्य); फिर 'अनया पूजया इंद्रादिदशदिक्पालाः प्रीयंताम् न मम' कहकर अक्षत मंडल पर छोड़ें। इसके साथ नवग्रह-मंडल का देवगण पूरा हुआ; अब मुख्य देवता का पूजन (षोडशोपचार के क्रम से) और सबका विसर्जन कर्म के अंत में।",
+        "en": "Establishing and worship: recite 'om mano jutih …' dropping rice at the ten places; offer the available services (sandal, rice, flowers, incense, lamp, food) with 'om indradi-dasha-dikpalebhyo namah'; then say 'anaya pujaya indradi-dasha-dikpalah priyantam, na mama' and drop rice on the mandala. With this the deity group of the navagraha mandala is complete; the worship of the main deity follows (in the shodashopachara order), and the sending-off of all comes at the end of the rite.",
+        "bho": "प्रतिष्ठा आ पूजन: 'ॐ मनो जूतिः…' से दसो ठाँव पर अछत छोड़ के प्रतिष्ठा; 'ॐ इंद्रादिदशदिक्पालेभ्यो नमः' से जे मिले ऊ उपचार (गंध, अछत, फूल, धूप, दीया, नैवेद्य); फेर 'अनया पूजया इंद्रादिदशदिक्पालाः प्रीयन्ताम् न मम' कह के अछत मंडल पर छोड़ीं। एकरा संगे नवग्रह-मंडल के देवगन पूरा भइल; अब मुख्य देवता के पूजन (षोडशोपचार के क्रम से) आ सबके बिसर्जन करम के अंत में।"
+      },
+      "part": "dikpala",
+      "mantraIds": [
+        "vs-2-13",
+        "pad-indradi-dashadikpalebhyo-namah"
+      ],
+      "samagriIds": [
+        "gandh-pushp",
+        "dhup-deep",
+        "naivedya"
+      ],
+      "panditSays": {
+        "sa": "ॐ इन्द्रादिदशदिक्पालेभ्यो नमः । अनया पूजया इन्द्रादिदशदिक्पालाः प्रीयन्ताम् । न मम ॥",
+        "hi": "दसों पर गंध-अक्षत-पुष्प; 'न मम' पर अक्षत मंडल पर।",
+        "en": "Sandal, rice and flowers on all ten; rice on the mandala at 'na mama'.",
+        "bho": "दसो पर गंध-अछत-फूल; 'न मम' पर अछत मंडल पर।"
+      },
+      "important": true
+    }
+  ],
+  "variants": [
+    {
+      "region": "deccan-madhyandina",
+      "what": {
+        "hi": "[संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) में लोकपालों का आवाहन कलश-मंडल के अंकुरार्पण में होता है — पाँच पालिकाओं में ब्रह्मा (मध्य), इंद्र (पूर्व), यम (दक्षिण), वरुण (पश्चिम) और सोम (उत्तर) का 'ॐ भूर्वज्रिणमावाहयामि' जैसे व्याहृति-वाक्यों से आवाहन, और पुष्पांजलि पर 'दिशां पतीन्नमस्यामि सर्वकामफलप्रदान्' का श्लोक; दस दिक्पालों की अलग पंक्ति नहीं है।",
+        "en": "In the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) the lokapalas are invoked in the ankurarpana on the kalasha mandala — Brahma (centre), Indra (east), Yama (south), Varuna (west) and Soma (north) in five bowls, with vyahriti sentences such as 'om bhur vajrinam avahayami', and at the flower offering the verse 'disham patin namasyami sarva-kama-phala-pradan'; there is no separate row of ten dikpalas.",
+        "bho": "[संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) में लोकपाल के आवाहन कलश-मंडल के अंकुरार्पन में होला — पाँच पालिका में ब्रह्मा (बीच), इंद्र (पूरब), यम (दक्खिन), वरुन (पच्छिम) आ सोम (उत्तर) के 'ॐ भूर्वज्रिणमावाहयामि' जइसन व्याहृति-वाक्य से आवाहन, आ पुष्पांजलि पर 'दिशां पतीन्नमस्यामि सर्वकामफलप्रदान्' के श्लोक; दस दिक्पाल के अलग पाँति नइखे।"
+      },
+      "source": "ws-samskararatnamala-1-01"
+    },
+    {
+      "region": "bhojpuri-vivah",
+      "what": {
+        "hi": "[विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) में मंडप-पूजन के समय निमंत्रण-वाक्य 'गणपत्यादि पंचलोकपाल, इंद्रादि दशदिक्पाल, अधि-प्रत्यधि सहित सूर्यादि नवग्रहेभ्यो नमः' से सब देवगण एक साथ बुलाए जाते हैं और मंडल-पूजन छोटे रूप में होता है; नांदी-श्राद्ध उसके बाद आता है।",
+        "en": "In the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt), at the pavilion worship all these deities are invited together with the sentence 'ganapatyadi pancha-lokapala, indradi dasha-dikpala, adhi-pratyadhi-sahita suryadi navagrahebhyo namah' and the mandala worship is done in short form; the nandi shraddha follows it.",
+        "bho": "[विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) में मंडप-पूजन के बेरा नेवता-वाक्य 'गणपत्यादि पंचलोकपाल, इंद्रादि दशदिक्पाल, अधि-प्रत्यधि सहित सूर्यादि नवग्रहेभ्यो नमः' से सब देवगन एक्के संगे बोलावल जालन आ मंडल-पूजन छोट रूप में होला; नांदी-श्राद्ध ओकरा बाद आवेला।"
+      },
+      "source": "ia-vivah-mvf"
+    },
+    {
+      "region": "household-short",
+      "what": {
+        "hi": "घर की छोटी पूजा (सत्यनारायण, नवचंडी के बिना का हवन) में पंडित प्रायः वैदिक मंत्र और ध्यान-श्लोक छोड़कर केवल नाम-मंत्र पढ़ते हैं — 'ॐ पंचलोकपालेभ्यो नमः', 'ॐ वास्तोष्पतये नमः', 'ॐ क्षेत्रपालाय नमः', 'ॐ इंद्रादिदशदिक्पालेभ्यो नमः' — और यजमान हर नाम पर अक्षत छोड़ता है; यह पोथी-व्यवहार है, नियम नहीं।",
+        "en": "In a small household puja (Satyanarayan, a havan without a large mandala) the pandit usually drops the Vedic mantras and dhyana verses and recites only the name mantras — 'om pancha-lokapalebhyo namah', 'om vastoshpataye namah', 'om kshetrapalaya namah', 'om indradi-dasha-dikpalebhyo namah' — while the host drops rice at each name; this is handbook practice, not a rule.",
+        "bho": "घर के छोट पूजा (सत्यनारायन, बड़ मंडल बिना के हवन) में पंडित बेसी वैदिक मंत्र आ धियान-श्लोक छोड़ के खाली नाँव-मंत्र पढ़सु — 'ॐ पंचलोकपालेभ्यो नमः', 'ॐ वास्तोष्पतये नमः', 'ॐ क्षेत्रपालाय नमः', 'ॐ इंद्रादिदशदिक्पालेभ्यो नमः' — आ जजमान हर नाँव पर अछत छोड़ेला; ई पोथी-ब्यवहार बा, नियम ना।"
+      },
+      "source": "ia-nkpp-scan"
+    }
+  ],
+  "faq": [
+    {
+      "q": {
+        "hi": "दिशाएँ आठ हैं, दिक्पाल दस क्यों?",
+        "en": "There are eight directions — why ten dikpalas?",
+        "bho": "दिसा आठ बा, दिक्पाल दस काहे?"
+      },
+      "a": {
+        "hi": "आठ दिशाओं के आठ अधिपति (इंद्र से ईशान तक) के साथ ऊपर (ऊर्ध्व) के ब्रह्मा और नीचे (अधः) के अनंत जोड़े जाते हैं — इसी से 'दश दिक्पाल'। समतल मंडल पर ऊपर-नीचे नहीं बनता, इसलिए पोथी ब्रह्मा को ईशान और पूर्व के बीच और अनंत को नैर्ऋत्य और पश्चिम के बीच रखती है।",
+        "en": "To the eight lords of the eight directions (Indra through Ishana) are added Brahma above and Ananta below — hence 'ten dikpalas'. Up and down cannot be drawn on a flat mandala, so the handbook puts Brahma between north-east and east and Ananta between south-west and west.",
+        "bho": "आठ दिसा के आठ अधिपति (इंद्र से ईसान तक) संगे ऊपर के ब्रह्मा आ नीचे के अनंत जोड़ल जालन — एही से 'दस दिक्पाल'। सपाट मंडल पर ऊपर-नीचे ना बने, एही से पोथी ब्रह्मा के ईसान आ पूरब के बीच आ अनंत के नैरित्य आ पच्छिम के बीच रखेले।"
+      }
+    },
+    {
+      "q": {
+        "hi": "वायु दो बार क्यों आते हैं?",
+        "en": "Why does Vayu appear twice?",
+        "bho": "वायु दू बेर काहे आवेलन?"
+      },
+      "a": {
+        "hi": "वायु पंच-लोकपाल में भी हैं (स्कंदपुराण की सूची) और दिक्पालों में वायव्य कोण के अधिपति भी। दोनों बार वैदिक मंत्र यजुर्वेद 27.28 ही है, ध्यान-श्लोक अलग हैं और अक्षत अलग-अलग स्थान पर छोड़ा जाता है। पोथी इसे दोहराव नहीं, दो अलग पद मानती है।",
+        "en": "Vayu is among the five lokapalas (the Skanda Purana list) and is also the dikpala of the north-west. Both times the Vedic mantra is Yajurveda 27.28; the dhyana verses differ and the rice is dropped at different places. The handbook treats these as two offices, not a repetition.",
+        "bho": "वायु पंच-लोकपाल में भी बाड़न (स्कंदपुरान के सूची) आ दिक्पाल में वायव्य कोन के अधिपति भी। दुनो बेर वैदिक मंत्र यजुर्वेद 27.28 ही बा, धियान-श्लोक अलग बा आ अछत अलगा-अलगा ठाँव पर छोड़ल जाला। पोथी एकरा दोहराव ना, दू अलग पद मानेले।"
+      }
+    },
+    {
+      "q": {
+        "hi": "मंडल पर 'पूर्व' कौन-सी दिशा है?",
+        "en": "Which way is 'east' on the mandala?",
+        "bho": "मंडल पर 'पूरब' कवन दिसा बा?"
+      },
+      "a": {
+        "hi": "मंडल की दिशाएँ कमरे की वास्तविक दिशाएँ हैं — चौकी ऐसे रखी जाती है कि मंडल का पूर्व सच्चे पूर्व की ओर हो; इंद्र का अक्षत उसी ओर गिरता है। पंडित प्रायः पूर्व या उत्तर मुख बैठते हैं, यजमान उनके दाहिने।",
+        "en": "The directions of the mandala are the true directions of the room — the stool is set so that the mandala's east faces real east, and Indra's rice falls on that side. The pandit usually sits facing east or north, the host to his right.",
+        "bho": "मंडल के दिसा कमरा के असली दिसा बा — चौकी अइसे रखल जाला कि मंडल के पूरब सही पूरब के ओर होखे; इंद्र के अछत ओही ओर गिरेला। पंडित बेसी पूरब भा उत्तर मुँह बइठेलन, जजमान उनका दहिने।"
+      }
+    },
+    {
+      "q": {
+        "hi": "क्या छोटी पूजा में यह सब ज़रूरी है?",
+        "en": "Is all of this needed in a small puja?",
+        "bho": "का छोट पूजा में ई सब जरूरी बा?"
+      },
+      "a": {
+        "hi": "नहीं। पोथियाँ पूरा क्रम बड़े अनुष्ठान (विवाह, यज्ञ, वास्तु-शांति) के लिए देती हैं; घर की छोटी पूजा में परंपरा नाम-मंत्रों से काम चलाती है और कई पंडित केवल नवग्रह तक जाते हैं। क्या छोड़ा जा रहा है यह यजमान को बताना [पंडित की शिष्टाचार-पुस्तिका](/occasions/pandit-shishtachar/) का हिस्सा है।",
+        "en": "No. The handbooks give the full sequence for large rituals (wedding, yajna, vastu-shanti); in a small household puja tradition makes do with the name mantras, and many pandits stop at the navagrahas. Telling the host what is being left out is part of the [pandit's etiquette](/occasions/pandit-shishtachar/).",
+        "bho": "ना। पोथी पूरा क्रम बड़ अनुष्ठान (बियाह, जग्य, वास्तु-सांति) खातिर देली; घर के छोट पूजा में परंपरा नाँव-मंत्र से काम चलावेले आ ढेर पंडित खाली नवग्रह तक जालन। का छोड़ल जा रहल बा ई जजमान के बतावल [पंडित के शिष्टाचार-पुस्तिका](/occasions/pandit-shishtachar/) के हिस्सा बा।"
+      }
+    }
+  ],
+  "sources": [
+    "ia-nkpp-scan",
+    "ws-syv-20",
+    "ws-syv-38",
+    "ws-syv-12",
+    "ws-syv-27",
+    "ws-syv-19",
+    "ws-syv-13",
+    "ws-syv-35",
+    "ws-syv-06",
+    "ws-syv-07",
+    "ws-syv-33",
+    "ws-rv-7-54",
+    "ws-samskararatnamala-1-01",
+    "ia-vivah-mvf",
+    "titus-vs"
+  ],
+  "tags": [
+    "foundations",
+    "dikpala",
+    "lokapala",
+    "mandala"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "id": "vs-27-28",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 27.28",
+  "title": {
+    "hi": "आ नो नियुद्भिः (वायु — वायव्य कोण)",
+    "en": "A no niyudbhih (Vayu — the north-west)",
+    "bho": "आ नो नियुद्भिः (वायु — वायव्य कोन)"
+  },
+  "devanagari": "आ नो॑ नि॒युद्भिः॑ श॒तिनी॑भिरध्व॒रᳪं᳭ स॑ह॒स्रिणी॑भि॒रुप॑ याहि य॒ज्ञम् । वायो॑ अ॒स्मिन्त्सव॑ने मादयस्व यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "आ",
+      "gloss": {
+        "hi": "आओ",
+        "en": "come",
+        "bho": "आईं"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमारे",
+        "en": "to our",
+        "bho": "हमनी के"
+      }
+    },
+    {
+      "sa": "नियुद्भिः",
+      "gloss": {
+        "hi": "नियुत् नामक घोड़ियों से (रथ से)",
+        "en": "with the Niyut mares (your team)",
+        "bho": "नियुत् नाँव के घोड़ी से"
+      }
+    },
+    {
+      "sa": "शतिनीभिः",
+      "gloss": {
+        "hi": "सौ-सौ वाली",
+        "en": "hundredfold",
+        "bho": "सौ-सौ वाली"
+      }
+    },
+    {
+      "sa": "अध्वरम्",
+      "gloss": {
+        "hi": "यज्ञ को",
+        "en": "to the rite",
+        "bho": "जग्य में"
+      }
+    },
+    {
+      "sa": "सहस्रिणीभिः",
+      "gloss": {
+        "hi": "हज़ार-हज़ार वाली",
+        "en": "thousandfold",
+        "bho": "हजार-हजार वाली"
+      }
+    },
+    {
+      "sa": "उप याहि",
+      "gloss": {
+        "hi": "पास आओ",
+        "en": "come near",
+        "bho": "लगे आईं"
+      }
+    },
+    {
+      "sa": "यज्ञम्",
+      "gloss": {
+        "hi": "यज्ञ को",
+        "en": "to the sacrifice",
+        "bho": "जग्य में"
+      }
+    },
+    {
+      "sa": "वायो",
+      "gloss": {
+        "hi": "हे वायु",
+        "en": "O Vayu",
+        "bho": "हे वायु"
+      }
+    },
+    {
+      "sa": "अस्मिन्",
+      "gloss": {
+        "hi": "इस",
+        "en": "in this",
+        "bho": "ए"
+      }
+    },
+    {
+      "sa": "सवने",
+      "gloss": {
+        "hi": "सवन (सोम-निष्कर्ष) में",
+        "en": "pressing (of soma)",
+        "bho": "सवन में"
+      }
+    },
+    {
+      "sa": "मादयस्व",
+      "gloss": {
+        "hi": "आनंदित हो",
+        "en": "rejoice",
+        "bho": "आनंदित होईं"
+      }
+    },
+    {
+      "sa": "यूयम्",
+      "gloss": {
+        "hi": "तुम सब",
+        "en": "you (gods)",
+        "bho": "रउआ सभे"
+      }
+    },
+    {
+      "sa": "पात",
+      "gloss": {
+        "hi": "रक्षा करो",
+        "en": "protect",
+        "bho": "रच्छा करीं"
+      }
+    },
+    {
+      "sa": "स्वस्तिभिः",
+      "gloss": {
+        "hi": "कल्याणों से",
+        "en": "with blessings",
+        "bho": "कल्यान से"
+      }
+    },
+    {
+      "sa": "सदा",
+      "gloss": {
+        "hi": "सदा",
+        "en": "always",
+        "bho": "हमेसा"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमारी",
+        "en": "us",
+        "bho": "हमनी के"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे वायु, सौ-सौ और हज़ार-हज़ार नियुत् घोड़ियों के साथ हमारे यज्ञ में आओ, पास आओ; इस सवन में आनंदित हो। तुम सब देव सदा कल्याणों से हमारी रक्षा करो।",
+    "en": "O Vayu, come to our rite with your hundredfold, your thousandfold Niyut mares; draw near to the sacrifice; rejoice in this pressing. You gods, protect us always with your blessings.",
+    "bho": "हे वायु, सौ-सौ आ हजार-हजार नियुत् घोड़ी संगे हमनी के जग्य में आईं, लगे आईं; ए सवन में आनंदित होईं। रउआ सभे देव हमेसा कल्यान से हमनी के रच्छा करीं।"
+  },
+  "explanation": {
+    "hi": "[[yajurved]] 27.28 (= ऋग्वेद 7.92.5) वायु का आह्वान है। पद्धति में इसका दोहरा विनियोग है — पंच-लोकपाल में वायु के आवाहन में और दस [[dikpal]] में वायव्य (उत्तर-पश्चिम) कोण के वायु के आवाहन में; दोनों बार यही मंत्र पढ़ा जाता है, ध्यान-श्लोक अलग हैं ('आवाहयाम्यहं वायुं भूतानां देहधारिणम्' और 'मनोजवं महातेजं सर्वतश्चारिणं शुभम्')। 'नियुत्' वायु के रथ की घोड़ियों का नाम है। अंतिम पद 'यूयं पात स्वस्तिभिः सदा नः' वसिष्ठ-मंडल (ऋग्वेद 7) का प्रसिद्ध समापन-वाक्य है।",
+    "en": "Yajurveda 27.28 (= Rigveda 7.92.5) is a call to Vayu. The paddhati uses it twice — for Vayu among the five lokapalas and for Vayu as the dikpala of the north-west; the same mantra is recited both times, with different dhyana verses ('avahayamy aham vayum bhutanam deha-dharinam' and 'manojavam mahatejam sarvatash-charinam shubham'). 'Niyut' is the name of the mares of Vayu's chariot. The closing words 'yuyam pata svastibhih sada nah' are the well-known refrain of the Vasishtha hymns (Rigveda 7).",
+    "bho": "[[yajurved]] 27.28 (= ऋग्वेद 7.92.5) वायु के पुकार बा। पद्धति में एकर दोहरा बिनियोग बा — पंच-लोकपाल में वायु के आवाहन में आ दस [[dikpal]] में वायव्य (उत्तर-पच्छिम) कोन के वायु के आवाहन में; दुनो बेर एही मंत्र पढ़ल जाला, धियान-श्लोक अलग बा ('आवाहयाम्यहं वायुं भूतानां देहधारिणम्' आ 'मनोजवं महातेजं सर्वतश्चारिणं शुभम्')। 'नियुत्' वायु के रथ के घोड़ी के नाँव बा। अंतिम पद 'यूयं पात स्वस्तिभिः सदा नः' वसिष्ठ-मंडल (ऋग्वेद 7) के परसिद्ध समापन-वाक्य बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-27",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "dikpala",
+    "lokapala",
+    "vayu",
+    "vayavya"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

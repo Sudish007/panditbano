@@ -1,0 +1,113 @@
+{
+  "id": "vs-38-9",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 38.9",
+  "title": {
+    "hi": "यमाय त्वांगिरस्वते (यम — दक्षिण दिशा)",
+    "en": "Yamaya tvangirasvate (Yama — the south)",
+    "bho": "यमाय त्वांगिरस्वते (यम — दक्खिन दिसा)"
+  },
+  "devanagari": "य॒माय॒ त्वाऽङ्गि॑रस्वते पितृ॒मते॒ स्वाहा॑ । स्वाहा॑ घ॒र्माय॒ स्वाहा॑ घ॒र्मः पि॒त्रे ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "यमाय",
+      "gloss": {
+        "hi": "यम के लिए",
+        "en": "for Yama",
+        "bho": "यम खातिर"
+      }
+    },
+    {
+      "sa": "त्वा",
+      "gloss": {
+        "hi": "तुझे (यह हवि)",
+        "en": "you (this offering)",
+        "bho": "तोहरा (ई हवि)"
+      }
+    },
+    {
+      "sa": "अङ्गिरस्वते",
+      "gloss": {
+        "hi": "अंगिराओं से युक्त",
+        "en": "accompanied by the Angirases",
+        "bho": "अंगिरा लोग संगे"
+      }
+    },
+    {
+      "sa": "पितृमते",
+      "gloss": {
+        "hi": "पितरों से युक्त",
+        "en": "accompanied by the fathers",
+        "bho": "पितर लोग संगे"
+      }
+    },
+    {
+      "sa": "स्वाहा",
+      "gloss": {
+        "hi": "स्वाहा (अर्पित हो)",
+        "en": "svaha (be it offered)",
+        "bho": "स्वाहा (अरपित होखे)"
+      }
+    },
+    {
+      "sa": "घर्माय",
+      "gloss": {
+        "hi": "घर्म (तप्त दुग्ध-पात्र) के लिए",
+        "en": "for the gharma (the heated milk vessel)",
+        "bho": "घर्म (गरम दूध के बरतन) खातिर"
+      }
+    },
+    {
+      "sa": "घर्मः",
+      "gloss": {
+        "hi": "घर्म",
+        "en": "the gharma",
+        "bho": "घर्म"
+      }
+    },
+    {
+      "sa": "पित्रे",
+      "gloss": {
+        "hi": "पिता के लिए",
+        "en": "for the father",
+        "bho": "पिता खातिर"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "अंगिराओं और पितरों के साथ विराजमान यम के लिए तुझे (हवि को) — स्वाहा। घर्म के लिए स्वाहा; घर्म पिता के लिए — स्वाहा।",
+    "en": "For Yama, who is with the Angirases and with the fathers, (I offer) you — svaha. Svaha for the gharma; the gharma for the father — svaha.",
+    "bho": "अंगिरा लोग आ पितर लोग संगे बइठल यम खातिर तोहरा (हवि के) — स्वाहा। घर्म खातिर स्वाहा; घर्म पिता खातिर — स्वाहा।"
+  },
+  "explanation": {
+    "hi": "[[yajurved]] 38.9 प्रवर्ग्य-प्रकरण का यजुः है, जहाँ 'घर्म' तपाया हुआ दुग्ध-पात्र है। पद्धति ने इसे दक्षिण दिशा के [[dikpal]] यम के आवाहन में रखा है — 'यमाय … पितृमते' पद यम को [[pitar]] के अधिपति के रूप में पुकारते हैं, इसी से दिक्पाल-पूजन में इसका विनियोग हुआ। इसके बाद ध्यान-श्लोक 'महामहिषमारूढं दंडहस्तं महाबलम्' और आवाहन-वाक्य पढ़ा जाता है। पूजा में अर्थ का भार 'यमाय त्वा … स्वाहा' पर है — शेष पद वैदिक प्रकरण की स्मृति हैं।",
+    "en": "Yajurveda 38.9 is a yajus of the Pravargya section, where the 'gharma' is the heated milk vessel. The paddhati places it in the invocation of Yama, the dikpala of the south — the words 'yamaya … pitrimate' call Yama as the lord of the fathers, which is why the mantra was taken into the dikpala worship. The dhyana verse 'mahamahisham arudham danda-hastam mahabalam' and the invocation sentence follow it. In the puja the weight of meaning rests on 'yamaya tva … svaha'; the remaining words are a memory of the Vedic rite.",
+    "bho": "[[yajurved]] 38.9 प्रवर्ग्य-प्रकरन के यजुः बा, जहाँ 'घर्म' तपावल दूध के बरतन बा। पद्धति एकरा दक्खिन दिसा के [[dikpal]] यम के आवाहन में रखले बिया — 'यमाय … पितृमते' पद यम के [[pitar]] लोग के अधिपति के रूप में पुकारेला, एही से दिक्पाल-पूजन में एकर बिनियोग भइल। एकरा बाद धियान-श्लोक 'महामहिषमारूढं दंडहस्तं महाबलम्' आ आवाहन-वाक्य पढ़ल जाला। पूजा में अरथ के भार 'यमाय त्वा … स्वाहा' पर बा — बाकी पद वैदिक प्रकरन के सुमिरन बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-38",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "dikpala",
+    "yama",
+    "dakshina"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

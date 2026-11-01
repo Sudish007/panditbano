@@ -1,0 +1,390 @@
+{
+  "id": "raksha-sutra",
+  "code": "F11",
+  "group": "foundations",
+  "phase": 1,
+  "title": {
+    "hi": "रक्षासूत्र (मौली, कलावा) और रक्षा-विधान",
+    "en": "Raksha-sutra (mauli, kalava) and the raksha-vidhana",
+    "bho": "रक्षासूत्र (मौली, कलावा) आ रक्षा-विधान"
+  },
+  "lede": {
+    "hi": "पूजा की कलाई का लाल-पीला धागा — 'येन बद्धो बली राजा' के साथ कौन किसे बाँधता है, पहले दिशाओं की रक्षा और भूतोत्सारण क्यों, और कलावा किस हाथ पर।",
+    "en": "The red-and-yellow thread on the wrist of worship — who ties it on whom with 'yena baddho bali raja', why the protection of the directions and the dismissal of spirits come first, and which wrist the kalava goes on.",
+    "bho": "पूजा के कलाई के लाल-पियर धागा — 'येन बद्धो बली राजा' संगे के केकरा बान्हेला, पहिले दिसा के रच्छा आ भूतोत्सारन काहे, आ कलावा कवना हाथ पर।"
+  },
+  "overview": {
+    "hi": "[[raksha-sutra]] — मौली, कलावा, नारा — हर पूजा का सबसे पहचाना चिह्न है। पोथी में यह 'रक्षा-विधान' नाम के छोटे खंड का अंतिम चरण है, जो मुख्य देवता के पूजन से पहले आता है ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) का क्रम: चौंसठ योगिनी के बाद, शालग्राम-पूजन से पहले)। खंड के चार चरण हैं: (1) अक्षत, पीली सरसों, द्रव्य और तीन तार की मौली को छह नमस्कार-श्लोकों से अभिमंत्रित करना — गणेश से व्यास तक सब 'यज्ञ की रक्षा करने वाले' प्रणम्य; (2) दिग्रक्षा — 'पूर्वे रक्षतु वाराहः' के तीन श्लोकों से दसों दिशाओं में अक्षत-सरसों; (3) भूतोत्सारण — 'अपसर्पंतु ते भूता' से बाधक शक्तियों को हटाना; (4) रक्षाबंधन — मौली गणेश के सामने रखकर, आवाहित देवों पर चढ़ाकर, पहले यजमान आचार्य को बाँधे (यजुर्वेद 19.30 'व्रतेन दीक्षामाप्नोति') और तिलक करे ('नमो ब्रह्मण्यदेवाय'), फिर आचार्य यजमान को बाँधे ('यदाबध्नन्' यजुर्वेद 34.52 + 'येन बद्धो बली राजा') और तिलक करे ('स्वस्ति न इंद्रो' 25.19)।\n\n'येन बद्धो बली राजा' का स्रोत [भविष्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AD%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D_/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5_%E0%A5%AA_%28%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5%29/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A7%E0%A5%A9%E0%A5%AD) का उत्तरपर्व 137 है — श्रावणी पूर्णिमा के रक्षाबंधन की कथा; यजुर्वेद में यह श्लोक नहीं है (रिसर्च का नकारात्मक परिणाम), उसके पाठ-भेद (अभि-/अनु-/प्रति-बध्नामि) मंत्र-पृष्ठ पर हैं। कलावा दाहिनी कलाई पर पुरुष और अविवाहित कन्या को, बाईं पर विवाहित स्त्री को — यह प्रचलन है, पोथी का नियम नहीं; [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) कहती है कि रक्षासूत्र यजमान के शरीर की लंबाई का हो (विवाह के कंकण का नियम)। परंपरा में माना जाता है कि यह बंधन कर्म की अवधि में और उसके बाद रक्षा का प्रतीक है; साइट कोई फल नहीं कहती।",
+    "en": "The raksha-sutra — mauli, kalava, nara — is the most recognisable sign of a puja. In the handbook it is the last step of a short block called 'raksha-vidhana', which comes before the worship of the main deity (the order of the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur): after the sixty-four yoginis, before the shaligrama worship). The block has four steps: (1) consecrating rice, yellow mustard, a coin and the three-strand mauli with six salutation verses — Ganesha to Vyasa, all saluted as 'protectors of the rite'; (2) the protection of the directions — rice and mustard thrown to the ten directions with the three verses 'purve rakshatu varahah'; (3) the dismissal of spirits — 'apasarpantu te bhuta' clears obstructing powers; (4) the tying — the mauli is placed before Ganesha, offered to the invoked gods, then the host ties it on the acharya (Yajurveda 19.30 'vratena diksham apnoti') and applies the tilak ('namo brahmanya-devaya'), then the acharya ties it on the host ('yad abadhnan', Yajurveda 34.52, with 'yena baddho bali raja') and applies the tilak ('svasti na indro', 25.19).\n\nThe source of 'yena baddho bali raja' is the Uttara-parva 137 of the [Bhavishya Purana](https://sa.wikisource.org/wiki/%E0%A4%AD%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D_/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5_%E0%A5%AA_%28%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5%29/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A7%E0%A5%A9%E0%A5%AD) — the story of the Shravani-purnima raksha-bandhana; the verse is not in the Yajurveda (a negative result of the research), and its readings (abhi-/anu-/prati-badhnami) are on the mantra page. The kalava goes on the right wrist of a man or an unmarried girl and on the left wrist of a married woman — this is common practice, not a handbook rule; the [Vasishthi Havan Paddhati](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) says the thread should be as long as the host's body (the rule for the wedding kankana). Tradition holds the bond to stand for protection during the rite and after; the site states no result.",
+    "bho": "[[raksha-sutra]] — मौली, कलावा, नारा — हर पूजा के सबसे चिन्हल चिन्हा बा। पोथी में ई 'रक्षा-विधान' नाँव के छोट खंड के अंतिम चरन बा, जे मुख्य देवता के पूजन से पहिले आवेला ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) के क्रम: चउँसठ जोगिनी के बाद, सालिग्राम-पूजन से पहिले)। खंड के चार चरन बा: (1) अछत, पियर सरसो, द्रव्य आ तीन तार के मौली के छव परनाम-श्लोक से अभिमंत्रित कइल — गणेश से व्यास तक सब 'जग्य के रच्छा करे वाला' के परनाम; (2) दिगरच्छा — 'पूर्वे रक्षतु वाराहः' के तीन श्लोक से दसो दिसा में अछत-सरसो; (3) भूतोत्सारन — 'अपसर्पन्तु ते भूता' से बाधा देवे वाली सकति के हटावल; (4) रक्षाबंधन — मौली गणेश के सामने रख के, आवाहित देव लोग पर चढ़ा के, पहिले जजमान आचार्य के बान्हे (यजुर्वेद 19.30 'व्रतेन दीक्षामाप्नोति') आ टीका लगावे ('नमो ब्रह्मण्यदेवाय'), फेर आचार्य जजमान के बान्हसु ('यदाबध्नन्' यजुर्वेद 34.52 + 'येन बद्धो बली राजा') आ टीका लगावसु ('स्वस्ति न इंद्रो' 25.19)।\n\n'येन बद्धो बली राजा' के स्रोत [भविष्यपुरान](https://sa.wikisource.org/wiki/%E0%A4%AD%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D_/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5_%E0%A5%AA_%28%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5%29/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A7%E0%A5%A9%E0%A5%AD) के उत्तरपर्व 137 बा — सावन पुनवासी के रक्षाबंधन के कथा; यजुर्वेद में ई श्लोक नइखे (रिसर्च के नकारात्मक नतीजा), एकर पाठ-भेद (अभि-/अनु-/प्रति-बध्नामि) मंत्र-पन्ना पर बा। कलावा दहिना कलाई पर पुरुष आ अबियाहल कन्या के, बाईं पर बियाहल मेहरारू के — ई चलन बा, पोथी के नियम ना; [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) कहेले कि रक्षासूत्र जजमान के देह के लंबाई के होखे (बियाह के कंगन के नियम)। परंपरा में मानल जाला कि ई बंधन करम के बेरा आ ओकरा बाद रच्छा के परतीक बा; साइट कवनो फल ना कहे।"
+  },
+  "when": {
+    "rules": {
+      "hi": "हर पूजा-हवन में संकल्प और गणेश-अंबिका आदि के आवाहन के बाद, मुख्य देवता के पूजन से पहले — नवग्रह-मंडल वाले अनुष्ठानों में दिक्पाल-पूजन के बाद। छोटी पूजा में प्रायः संकल्प के तुरंत बाद केवल रक्षाबंधन। श्रावणी पूर्णिमा का [[raksha-bandhan]] इसी श्लोक से भाई-बहन का पर्व है — उसका पृष्ठ अलग (तिथि [Shubhvela](https://sudish007.github.io/shubhvela/) पर)।",
+      "en": "In every puja or havan after the sankalpa and the invocation of Ganesha-Ambika and the rest, before the worship of the main deity — in rituals with a navagraha mandala, after the dikpala worship. In a small puja usually only the tying, right after the sankalpa. The [[raksha-bandhan]] of Shravani purnima is the brother–sister festival built on the same verse — its own page is separate (date on [Shubhvela](https://sudish007.github.io/shubhvela/)).",
+      "bho": "हर पूजा-हवन में संकल्प आ गणेश-अंबिका आदि के आवाहन के बाद, मुख्य देवता के पूजन से पहिले — नवग्रह-मंडल वाला अनुष्ठान में दिक्पाल-पूजन के बाद। छोट पूजा में बेसी संकल्प के तुरते बाद खाली रक्षाबंधन। सावन पुनवासी के [[raksha-bandhan]] एही श्लोक से भाई-बहिन के परब बा — ओकर पन्ना अलग (तिथि [Shubhvela](https://sudish007.github.io/shubhvela/) पर)।"
+    },
+    "shubhvela": {
+      "muhurat": null,
+      "festival": null,
+      "vrat": null
+    }
+  },
+  "roles": [
+    {
+      "role": {
+        "hi": "आचार्य / पुरोहित",
+        "en": "Acharya / purohit",
+        "bho": "आचार्य / पुरोहित"
+      },
+      "does": {
+        "hi": "मौली आदि को अभिमंत्रित करना, दिग्रक्षा और भूतोत्सारण के श्लोक पढ़ना, यजमान से रक्षा बँधवाना, फिर यजमान (और परिवार) को रक्षा बाँधना और तिलक करना।",
+        "en": "Consecrates the mauli and the rest, recites the verses of the digraksha and the bhutotsarana, has the host tie the raksha on him, then ties the raksha on the host (and the family) and applies the tilak.",
+        "bho": "मौली आदि के अभिमंत्रित कइल, दिगरच्छा आ भूतोत्सारन के श्लोक पढ़ल, जजमान से रक्षा बन्हावल, फेर जजमान (आ परिवार) के रक्षा बान्हल आ टीका लगावल।"
+      }
+    },
+    {
+      "role": {
+        "hi": "यजमान",
+        "en": "Host",
+        "bho": "जजमान"
+      },
+      "does": {
+        "hi": "दसों दिशाओं में अक्षत-सरसों छोड़ना; आचार्य की कलाई पर मौली बाँधना और तिलक करना; फिर अपनी कलाई आगे करना।",
+        "en": "Throws rice and mustard to the ten directions; ties the mauli on the acharya's wrist and applies his tilak; then holds out his own wrist.",
+        "bho": "दसो दिसा में अछत-सरसो छोड़ल; आचार्य के कलाई पर मौली बान्हल आ टीका लगावल; फेर आपन कलाई आगे कइल।"
+      }
+    },
+    {
+      "role": {
+        "hi": "परिवार",
+        "en": "Family",
+        "bho": "परिवार"
+      },
+      "does": {
+        "hi": "यजमान के बाद क्रम से रक्षा बँधवाना — प्रचलन में पुरुष और अविवाहित कन्या दाहिनी कलाई, विवाहित स्त्री बाईं।",
+        "en": "Have the raksha tied in turn after the host — by common practice men and unmarried girls on the right wrist, married women on the left.",
+        "bho": "जजमान के बाद क्रम से रक्षा बन्हावल — चलन में पुरुष आ अबियाहल कन्या दहिना कलाई, बियाहल मेहरारू बाईं।"
+      }
+    }
+  ],
+  "samagri": [
+    {
+      "id": "mauli",
+      "item": {
+        "hi": "रक्षासूत्र — तीन तार की लाल-पीली सूती मौली (कलावा); परिवार के हर सदस्य के लिए पर्याप्त लंबाई",
+        "en": "Raksha-sutra — the three-strand red-and-yellow cotton mauli (kalava); length enough for every member of the family",
+        "bho": "रक्षासूत्र — तीन तार के लाल-पियर सूती मौली (कलावा); परिवार के हर सदस्य खातिर भरपूर लंबाई"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "akshat",
+      "item": {
+        "hi": "अक्षत (रोली से रंगे चावल) — अभिमंत्रण और दिग्रक्षा के लिए",
+        "en": "Akshata (rice coloured with roli) — for the consecration and the protection of the directions",
+        "bho": "अछत (रोरी से रंगल चाउर) — अभिमंत्रन आ दिगरच्छा खातिर"
+      },
+      "qty": "100 g",
+      "must": true
+    },
+    {
+      "id": "pili-sarson",
+      "item": {
+        "hi": "पीली सरसों — दिग्रक्षा और भूतोत्सारण में अक्षत के साथ दसों दिशाओं में छोड़ने के लिए",
+        "en": "Yellow mustard seed — thrown with the rice to the ten directions in the digraksha and the bhutotsarana",
+        "bho": "पियर सरसो — दिगरच्छा आ भूतोत्सारन में अछत संगे दसो दिसा में छोड़े खातिर"
+      },
+      "qty": "50 g",
+      "must": true
+    },
+    {
+      "id": "dravya",
+      "item": {
+        "hi": "द्रव्य (सिक्का) — मौली के साथ अभिमंत्रित होने के लिए; बाद में दक्षिणा में",
+        "en": "A coin — consecrated with the mauli; later part of the dakshina",
+        "bho": "द्रव्य (सिक्का) — मौली संगे अभिमंत्रित होखे खातिर; बाद में दक्षिणा में"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "roli-chandan",
+      "item": {
+        "hi": "रोली या चंदन और अक्षत — आचार्य और यजमान के तिलक के लिए",
+        "en": "Roli or sandal and rice — for the tilak of acharya and host",
+        "bho": "रोरी भा चंदन आ अछत — आचार्य आ जजमान के टीका खातिर"
+      },
+      "qty": "—",
+      "must": true
+    },
+    {
+      "id": "ganesh-sthan",
+      "item": {
+        "hi": "गणेश का प्रतीक (सुपारी/मूर्ति) जिसके सामने मौली रखी जाए — गणेश-अंबिका पूजन का",
+        "en": "The token of Ganesha (betel nut or image) before which the mauli is placed — from the Ganesh-Ambika worship",
+        "bho": "गणेश के परतीक (सुपारी/मूरत) जेकरा सामने मौली रखल जाए — गणेश-अंबिका पूजन के"
+      },
+      "qty": "1",
+      "must": true
+    }
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "layer": "paddhati",
+      "minutes": 3,
+      "action": {
+        "hi": "अभिमंत्रण: पंडित बाएँ हाथ में अक्षत, पीली सरसों, एक सिक्का और तीन तार की मौली लेकर दाहिने हाथ से ढँके और छह नमस्कार-श्लोक पढ़े — 'ॐ गणाधिपं नमस्कृत्य … यज्ञरक्षाकरान् सदा'।",
+        "en": "Consecration: the pandit takes rice, yellow mustard, a coin and the three-strand mauli in the left hand, covers them with the right and recites the six salutation verses — 'om ganadhipam namaskritya … yajna-raksha-karan sada'.",
+        "bho": "अभिमंत्रन: पंडित बाएँ हाथ में अछत, पियर सरसो, एगो सिक्का आ तीन तार के मौली ले के दहिना हाथ से तोपसु आ छव परनाम-श्लोक पढ़सु — 'ॐ गणाधिपं नमस्कृत्य … यज्ञरक्षाकरान् सदा'।"
+      },
+      "mantraIds": [
+        "pad-ganadhipam-namaskritya"
+      ],
+      "samagriIds": [
+        "mauli",
+        "akshat",
+        "pili-sarson",
+        "dravya"
+      ],
+      "panditSays": {
+        "hi": "मौली और सरसों हाथ में — सब रक्षकों को प्रणाम।",
+        "en": "The mauli and mustard in hand — a bow to all the protectors.",
+        "bho": "मौली आ सरसो हाथ में — सब रच्छक के परनाम।"
+      }
+    },
+    {
+      "n": 2,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "दिग्रक्षा: 'पूर्वे रक्षतु वाराहः…' के तीन श्लोक पढ़ते हुए यजमान पूर्व से क्रम में दसों दिशाओं (आठ दिशाएँ, ऊपर, नीचे) में अक्षत और पीली सरसों छोड़े।",
+        "en": "Protection of the directions: while the three verses 'purve rakshatu varahah …' are recited, the host throws rice and yellow mustard from the east round the ten directions (eight directions, above, below).",
+        "bho": "दिगरच्छा: 'पूर्वे रक्षतु वाराहः…' के तीन श्लोक पढ़त जजमान पूरब से क्रम में दसो दिसा (आठ दिसा, ऊपर, नीचे) में अछत आ पियर सरसो छोड़े।"
+      },
+      "mantraIds": [
+        "pad-purve-rakshatu-varahah"
+      ],
+      "samagriIds": [
+        "akshat",
+        "pili-sarson"
+      ],
+      "panditSays": {
+        "hi": "पूर्व से शुरू — हर दिशा में थोड़ा अक्षत-सरसों।",
+        "en": "Start from the east — a little rice and mustard in each direction.",
+        "bho": "पूरब से सुरू — हर दिसा में थोड़ा अछत-सरसो।"
+      }
+    },
+    {
+      "n": 3,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "भूतोत्सारण — 'अपसर्पंतु ते भूता…' के दो श्लोक पढ़ते हुए सरसों चारों ओर छिड़कें — 'सर्वेषामविरोधेन पूजाकर्म समारभे' पर पूजा-स्थल को निर्बाध माना जाता है।",
+        "en": "Dismissal of spirits: scatter mustard all around while the two verses 'apasarpantu te bhuta …' are recited — at 'sarvesham avirodhena puja-karma samarabhe' the place of worship is held to be free of hindrance.",
+        "bho": "भूतोत्सारन — 'अपसर्पन्तु ते भूता…' के दू श्लोक पढ़त सरसो चारो ओर छींटीं — 'सर्वेषामविरोधेन पूजाकर्म समारभे' पर पूजा-ठाँव बिना बाधा मानल जाला।"
+      },
+      "mantraIds": [
+        "pad-apasarpantu-te-bhutah"
+      ],
+      "samagriIds": [
+        "pili-sarson"
+      ],
+      "panditSays": {
+        "hi": "सरसों चारों ओर — 'पूजाकर्म समारभे'।",
+        "en": "Mustard all around — 'puja-karma samarabhe'.",
+        "bho": "सरसो चारो ओर — 'पूजाकर्म समारभे'।"
+      }
+    },
+    {
+      "n": 4,
+      "layer": "paddhati",
+      "minutes": 1,
+      "action": {
+        "hi": "मौली का अभिमंत्रण — मौली को [गणेश](/occasions/ganesh-ambika-pujan/) के सामने रखें, फिर उठाकर गणपति आदि आवाहित देवताओं पर (कलश, मातृका, नवग्रह-मंडल) स्पर्श कराते हुए चढ़ाएँ और वापस लें।",
+        "en": "Consecrating the mauli — Place the mauli before [Ganesha](/occasions/ganesh-ambika-pujan/), then lift it and offer it by touching it to the invoked deities (kalasha, matrikas, navagraha mandala), and take it back.",
+        "bho": "मौली के अभिमंत्रन — मौली के [गणेश](/occasions/ganesh-ambika-pujan/) के सामने रखीं, फेर उठा के गणपति आदि आवाहित देवता (कलश, मातृका, नवग्रह-मंडल) पर छुआवत चढ़ाईं आ वापस लीं।"
+      },
+      "samagriIds": [
+        "mauli",
+        "ganesh-sthan"
+      ],
+      "panditSays": {
+        "hi": "मौली गणेश जी के सामने, फिर सब देवों पर।",
+        "en": "The mauli before Ganesha, then over all the gods.",
+        "bho": "मौली गणेश जी के सामने, फेर सब देव पर।"
+      }
+    },
+    {
+      "n": 5,
+      "layer": "vedic",
+      "minutes": 2,
+      "action": {
+        "hi": "यजमान द्वारा रक्षाबंधन — यजमान आचार्य की दाहिनी कलाई पर मौली बाँधे — पंडित 'ॐ व्रतेन दीक्षामाप्नोति…' (यजुर्वेद 19.30) पढ़ाए; फिर यजमान आचार्य को तिलक करे — 'नमो ब्रह्मण्यदेवाय…' ([विष्णुपुराण](https://sa.wikisource.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A5%81%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%BE%E0%A4%82%E0%A4%B6%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A7%E0%A5%AF) 1.19.65) — और प्रणाम।",
+        "en": "The host ties the raksha — the host ties the mauli on the acharya's right wrist — the pandit dictates 'om vratena diksham apnoti …' (Yajurveda 19.30); then the host applies the tilak to the acharya — 'namo brahmanya-devaya …' ([Vishnu Purana](https://sa.wikisource.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A5%81%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%BE%E0%A4%82%E0%A4%B6%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A7%E0%A5%AF) 1.19.65) — and bows.",
+        "bho": "जजमान के रक्षाबंधन — जजमान आचार्य के दहिना कलाई पर मौली बान्हे — पंडित 'ॐ व्रतेन दीक्षामाप्नोति…' (यजुर्वेद 19.30) पढ़ावसु; फेर जजमान आचार्य के टीका लगावे — 'नमो ब्रह्मण्यदेवाय…' ([विष्णुपुरान](https://sa.wikisource.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A5%81%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%BE%E0%A4%82%E0%A4%B6%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A7%E0%A5%AF) 1.19.65) — आ परनाम।"
+      },
+      "mantraIds": [
+        "vs-19-30",
+        "pur-vishnupurana-1-19-65"
+      ],
+      "samagriIds": [
+        "mauli",
+        "roli-chandan"
+      ],
+      "panditSays": {
+        "hi": "पहले आप मुझे बाँधिए — 'व्रतेन दीक्षामाप्नोति'; फिर तिलक।",
+        "en": "First you tie it on me — 'vratena diksham apnoti'; then the tilak.",
+        "bho": "पहिले रउआ हमरा बान्हीं — 'व्रतेन दीक्षामाप्नोति'; फेर टीका।"
+      }
+    },
+    {
+      "n": 6,
+      "layer": "vedic",
+      "minutes": 3,
+      "action": {
+        "hi": "आचार्य द्वारा रक्षाबंधन — आचार्य यजमान की कलाई पर मौली बाँधे — पहले वैदिक 'ॐ यदाबध्नन् दाक्षायणा हिरण्यम्…' (यजुर्वेद 34.52), फिर 'येन बद्धो बली राजा … रक्षे मा चल मा चल'। फिर परिवार के अन्य सदस्यों को इसी श्लोक से।",
+        "en": "The acharya ties the raksha — the acharya ties the mauli on the host's wrist — first the Vedic 'om yad abadhnan dakshayana hiranyam …' (Yajurveda 34.52), then 'yena baddho bali raja … rakshe ma chala ma chala'. Then the other members of the family with the same verse.",
+        "bho": "आचार्य के रक्षाबंधन — आचार्य जजमान के कलाई पर मौली बान्हसु — पहिले वैदिक 'ॐ यदाबध्नन् दाक्षायणा हिरण्यम्…' (यजुर्वेद 34.52), फेर 'येन बद्धो बली राजा … रक्षे मा चल मा चल'। फेर परिवार के बाकी लोग के एही श्लोक से।"
+      },
+      "mantraIds": [
+        "vs-34-52",
+        "pur-bhavishya-uttara-137-20"
+      ],
+      "samagriIds": [
+        "mauli"
+      ],
+      "panditSays": {
+        "hi": "कलाई आगे कीजिए — 'येन बद्धो बली राजा…'।",
+        "en": "Hold out your wrist — 'yena baddho bali raja …'.",
+        "bho": "कलाई आगे करीं — 'येन बद्धो बली राजा…'।"
+      },
+      "important": true
+    },
+    {
+      "n": 7,
+      "layer": "vedic",
+      "minutes": 1,
+      "action": {
+        "hi": "आचार्य द्वारा तिलक — आचार्य यजमान (और परिवार) को रोली-अक्षत का तिलक करे — 'ॐ स्वस्ति न इंद्रो वृद्धश्रवाः…' (यजुर्वेद 25.19)। इसके बाद मुख्य देवता का पूजन आरंभ।",
+        "en": "The acharya's tilak: the acharya applies the roli-and-rice tilak to the host (and family) — 'om svasti na indro vriddhashravah …' (Yajurveda 25.19). The worship of the main deity begins after this.",
+        "bho": "आचार्य के टीका — आचार्य जजमान (आ परिवार) के रोरी-अछत के टीका लगावसु — 'ॐ स्वस्ति न इन्द्रो वृद्धश्रवाः…' (यजुर्वेद 25.19)। एकरा बाद मुख्य देवता के पूजन सुरू।"
+      },
+      "mantraIds": [
+        "vs-25-19"
+      ],
+      "samagriIds": [
+        "roli-chandan",
+        "akshat"
+      ],
+      "panditSays": {
+        "hi": "'स्वस्ति न इंद्रो' — तिलक; अब मुख्य पूजा।",
+        "en": "'Svasti na indro' — the tilak; now the main worship.",
+        "bho": "'स्वस्ति न इंद्रो' — टीका; अब मुख्य पूजा।"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "region": "vasishthi-paddhati",
+      "what": {
+        "hi": "[वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) (हवन-प्रयोग) में दिग्रक्षा के बाद सीधे 'ततो रक्षासूत्रम्' — 'येन बद्धो … तेन त्वां प्रतिबध्नामि' — यजमान के दाहिने हाथ में, और नियम 'तत्र यजमानगात्रप्रमाणम्' (रक्षासूत्र यजमान के शरीर की लंबाई का); पहले आचार्य को बाँधने का चरण वहाँ नहीं है।",
+        "en": "In the [Vasishthi Havan Paddhati](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) (havan prayoga) the raksha-sutra follows the digraksha directly — 'yena baddho … tena tvam pratibadhnami' — on the host's right hand, with the rule 'tatra yajamana-gatra-pramanam' (the thread as long as the host's body); the step of first tying it on the acharya is not there.",
+        "bho": "[वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) (हवन-परयोग) में दिगरच्छा के बाद सीधे 'ततो रक्षासूत्रम्' — 'येन बद्धो … तेन त्वां प्रतिबध्नामि' — जजमान के दहिना हाथ में, आ नियम 'तत्र यजमानगात्रप्रमाणम्' (रक्षासूत्र जजमान के देह के लंबाई के); पहिले आचार्य के बान्हे के चरन उहाँ नइखे।"
+      },
+      "source": "ia-vasishthi-havan-paddhati-1941"
+    },
+    {
+      "region": "vivah-kankana",
+      "what": {
+        "hi": "विवाह में रक्षासूत्र का रूप [[raksha-sutra]] नहीं, 'कंकण' है — वर-वधू की कलाई पर हल्दी-लोहे की गाँठ वाला सूत्र, जो 'यदाबध्नन्' (यजुर्वेद 34.52) और 'येन बद्धो' से बाँधा और विदाई के बाद 'कंकण-मोक्षण' में खोला जाता है ([विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt)); द्वार-पूजा की 'दुर्गा-जनेऊ' और 'तागपाट' भी सूत्र के लोकाचार-रूप हैं। उनका पूरा विधान विवाह पर।",
+        "en": "At a wedding the thread takes the form of the 'kankana' rather than the plain kalava — a thread with turmeric and an iron piece knotted into it, tied on the wrists of bride and groom with 'yad abadhnan' (Yajurveda 34.52) and 'yena baddho' and untied after the farewell in the 'kankana-mokshana' ([Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt)); the 'Durga-janeu' and 'tagpat' of the door worship are folk forms of the same thread. Their full procedure is on the wedding page.",
+        "bho": "बियाह में रक्षासूत्र के रूप सादा कलावा ना, 'कंगन' बा — बर-कनिया के कलाई पर हरदी-लोहा के गाँठ वाला सूत, जे 'यदाबध्नन्' (यजुर्वेद 34.52) आ 'येन बद्धो' से बान्हल आ बिदाई के बाद 'कंकन-मोक्छन' में खोलल जाला ([विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt)); दुआर-पूजा के 'दुर्गा-जनेऊ' आ 'तागपाट' भी सूत के लोकाचार-रूप बा। ओकर पूरा बिधान बियाह पर।"
+      },
+      "source": "ia-vivah-mvf"
+    },
+    {
+      "region": "household-short",
+      "what": {
+        "hi": "घर की छोटी पूजा में प्रायः अभिमंत्रण, दिग्रक्षा और भूतोत्सारण छूट जाते हैं; पंडित संकल्प के बाद सीधे 'येन बद्धो' पढ़कर यजमान और परिवार को कलावा बाँध देते हैं — पोथी-व्यवहार, नियम नहीं। कलावा उतारने का कोई शास्त्रीय दिन नहीं है; बहुत परिवार अगली पूजा तक या मंगलवार/शनिवार को उतारते हैं (लोकाचार)।",
+        "en": "In a small household puja the consecration, digraksha and bhutotsarana are usually dropped; after the sankalpa the pandit simply recites 'yena baddho' and ties the kalava on the host and family — handbook practice, not a rule. There is no scriptural day for removing the kalava; many families keep it till the next puja or remove it on a Tuesday or Saturday (local custom).",
+        "bho": "घर के छोट पूजा में बेसी अभिमंत्रन, दिगरच्छा आ भूतोत्सारन छूट जाला; पंडित संकल्प के बाद सीधे 'येन बद्धो' पढ़ के जजमान आ परिवार के कलावा बान्ह देलन — पोथी-ब्यवहार, नियम ना। कलावा उतारे के कवनो सास्त्रीय दिन नइखे; ढेर परिवार अगिला पूजा तक भा मंगर/सनिचर के उतारेला (लोकाचार)।"
+      },
+      "source": "ia-nkpp-scan"
+    }
+  ],
+  "faq": [
+    {
+      "q": {
+        "hi": "कलावा किस हाथ में?",
+        "en": "Which wrist for the kalava?",
+        "bho": "कलावा कवना हाथ में?"
+      },
+      "a": {
+        "hi": "प्रचलन में पुरुष और अविवाहित कन्या की दाहिनी कलाई, विवाहित स्त्री की बाईं; पोथियाँ केवल 'दक्षिण हाथ में' (यजमान के लिए) कहती हैं। यह लोकाचार है — परिवार की परंपरा चले।",
+        "en": "By common practice the right wrist for a man or an unmarried girl and the left for a married woman; the handbooks say only 'on the right hand' (for the host). This is custom — let the family's tradition decide.",
+        "bho": "चलन में पुरुष आ अबियाहल कन्या के दहिना कलाई, बियाहल मेहरारू के बाईं; पोथी खाली 'दक्षिण हाथ में' (जजमान खातिर) कहेली। ई लोकाचार बा — परिवार के परंपरा चले।"
+      }
+    },
+    {
+      "q": {
+        "hi": "यजमान आचार्य को क्यों बाँधता है?",
+        "en": "Why does the host tie it on the acharya?",
+        "bho": "जजमान आचार्य के काहे बान्हेला?"
+      },
+      "a": {
+        "hi": "रक्षा-विधान में पहले पूजक आचार्य को, फिर आचार्य पूजक को रक्षा बाँधता है — दोनों यजमान-पुरोहित के संबंध में एक-दूसरे की रक्षा और श्रद्धा का आदान-प्रदान करते हैं; यजमान का मंत्र 'व्रतेन दीक्षामाप्नोति … दक्षिणा श्रद्धामाप्नोति' इसी भाव का है।",
+        "en": "In the raksha-vidhana the worshipper first ties the raksha on the acharya, then the acharya on the worshipper — the two exchange protection and trust within the host–priest relationship; the host's mantra 'vratena diksham apnoti … dakshina shraddham apnoti' carries that very sense.",
+        "bho": "रक्षा-विधान में पहिले पूजक आचार्य के, फेर आचार्य पूजक के रक्षा बान्हेला — दुनो जजमान-पुरोहित के संबंध में एक-दुसरा के रच्छा आ श्रद्धा के अदला-बदली करेलन; जजमान के मंत्र 'व्रतेन दीक्षामाप्नोति … दक्षिणा श्रद्धामाप्नोति' एही भाव के बा।"
+      }
+    },
+    {
+      "q": {
+        "hi": "'येन बद्धो बली राजा' में बलि कौन?",
+        "en": "Who is the Bali of 'yena baddho bali raja'?",
+        "bho": "'येन बद्धो बली राजा' में बलि के?"
+      },
+      "a": {
+        "hi": "दानवों के राजा बलि — [भविष्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AD%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D_/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5_%E0%A5%AA_%28%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5%29/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A7%E0%A5%A9%E0%A5%AD) की कथा में इंद्र शची के बाँधे रक्षासूत्र के बल से बलि पर विजयी हुए, और उसी रक्षा से यजमान को बाँधा जाता है। अर्थ है: जैसे वह रक्षा टिकी, यह भी टिके — 'मा चल मा चल'।",
+        "en": "Bali, king of the Danavas — in the [Bhavishya Purana](https://sa.wikisource.org/wiki/%E0%A4%AD%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D_/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5_%E0%A5%AA_%28%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5%29/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A7%E0%A5%A9%E0%A5%AD) story Indra prevailed over Bali by the strength of the raksha tied by Shachi, and with the same raksha the host is bound. The sense: as that protection held, may this one hold — 'ma chala ma chala'.",
+        "bho": "दानव लोग के राजा बलि — [भविष्यपुरान](https://sa.wikisource.org/wiki/%E0%A4%AD%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D_/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5_%E0%A5%AA_%28%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5%29/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A7%E0%A5%A9%E0%A5%AD) के कथा में इंद्र सची के बान्हल रक्षासूत्र के बल से बलि पर जीतलन, आ ओही रक्षा से जजमान के बान्हल जाला। अरथ बा: जइसे ऊ रक्षा टिकल, ई भी टिके — 'मा चल मा चल'।"
+      }
+    },
+    {
+      "q": {
+        "hi": "पीली सरसों क्यों?",
+        "en": "Why yellow mustard?",
+        "bho": "पियर सरसो काहे?"
+      },
+      "a": {
+        "hi": "पद्धतियाँ दिग्रक्षा और भूतोत्सारण में अक्षत के साथ सरसों (सिद्धार्थ) छोड़ने को कहती हैं; [भविष्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AD%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D_/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5_%E0%A5%AA_%28%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5%29/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A7%E0%A5%A9%E0%A5%AD) की रक्षा-पोटली भी 'अक्षत और सिद्धार्थ' की है। परंपरा में सरसों को बाधा हटाने वाली माना जाता है — यह परंपरा का कथन है।",
+        "en": "The handbooks say to throw mustard (siddhartha) with the rice in the digraksha and the bhutotsarana; the raksha bundle of the [Bhavishya Purana](https://sa.wikisource.org/wiki/%E0%A4%AD%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D_/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5_%E0%A5%AA_%28%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5%29/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A7%E0%A5%A9%E0%A5%AD) too is of 'rice and siddhartha'. Tradition regards mustard as a remover of obstacles — that is tradition's statement.",
+        "bho": "पद्धति दिगरच्छा आ भूतोत्सारन में अछत संगे सरसो (सिद्धार्थ) छोड़े के कहेली; [भविष्यपुरान](https://sa.wikisource.org/wiki/%E0%A4%AD%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D_/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5_%E0%A5%AA_%28%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5%29/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A7%E0%A5%A9%E0%A5%AD) के रक्षा-पोटली भी 'अछत आ सिद्धार्थ' के बा। परंपरा में सरसो के बाधा हटावे वाला मानल जाला — ई परंपरा के कथन बा।"
+      }
+    }
+  ],
+  "sources": [
+    "ia-nkpp-scan",
+    "ws-bhavishya-uttara-137",
+    "ws-syv-19",
+    "ws-syv-34",
+    "ws-syv-25",
+    "ws-vishnupurana-1-19",
+    "ws-adishankara-pujavidhi",
+    "ia-vasishthi-havan-paddhati-1941",
+    "ia-vivah-mvf",
+    "titus-vs"
+  ],
+  "tags": [
+    "foundations",
+    "raksha",
+    "mauli",
+    "kalava"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

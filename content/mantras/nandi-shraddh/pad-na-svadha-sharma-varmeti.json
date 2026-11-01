@@ -1,0 +1,153 @@
+{
+  "id": "pad-na-svadha-sharma-varmeti",
+  "kind": "paddhati",
+  "title": {
+    "hi": "न स्वधा-शर्म-वर्मेति (नांदी-श्राद्ध के नियम-श्लोक)",
+    "en": "Na svadha-sharma-varmeti (the rule verses of the nandi shraddha)",
+    "bho": "न स्वधा-शर्म-वर्मेति (नांदी-श्राद्ध के नेम-श्लोक)"
+  },
+  "devanagari": "न स्वधाशर्मवर्मेति पितृनाम च नोच्चरेत् । न कर्म पितृतीर्थेन न कुशा द्विगुणीकृताः ॥ न तिलैर्नापसव्येन पित्र्यमन्त्रविवर्जितम् । अस्मच्छब्दं न कुर्वीत श्राद्धे नान्दीमुखे क्वचित् ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "न स्वधा",
+      "gloss": {
+        "hi": "'स्वधा' नहीं",
+        "en": "no 'svadha'",
+        "bho": "'स्वधा' ना"
+      }
+    },
+    {
+      "sa": "शर्म वर्म इति",
+      "gloss": {
+        "hi": "'शर्मा', 'वर्मा' (ये उपाधियाँ)",
+        "en": "nor 'sharma', 'varma' (the caste titles)",
+        "bho": "'शर्मा', 'वर्मा' (ई उपाधि)"
+      }
+    },
+    {
+      "sa": "पितृनाम च",
+      "gloss": {
+        "hi": "और पितरों का नाम",
+        "en": "nor the ancestors' names",
+        "bho": "आ पितर लोग के नाँव"
+      }
+    },
+    {
+      "sa": "न उच्चरेत्",
+      "gloss": {
+        "hi": "न बोले",
+        "en": "let him not utter",
+        "bho": "ना बोले"
+      }
+    },
+    {
+      "sa": "न कर्म पितृतीर्थेन",
+      "gloss": {
+        "hi": "पितृ-तीर्थ (हाथ के अंगूठे-तर्जनी के बीच) से कर्म नहीं",
+        "en": "no act with the pitri-tirtha (the part of the hand between thumb and forefinger)",
+        "bho": "पितृ-तीर्थ से करम ना"
+      }
+    },
+    {
+      "sa": "न कुशाः द्विगुणीकृताः",
+      "gloss": {
+        "hi": "कुश दोहरे न हों",
+        "en": "no doubled kusha",
+        "bho": "कुस दोहरा ना"
+      }
+    },
+    {
+      "sa": "न तिलैः",
+      "gloss": {
+        "hi": "तिल से नहीं",
+        "en": "not with sesame",
+        "bho": "तिल से ना"
+      }
+    },
+    {
+      "sa": "न अपसव्येन",
+      "gloss": {
+        "hi": "अपसव्य (जनेऊ दाहिने कंधे पर) से नहीं",
+        "en": "not in the apasavya position (thread on the right shoulder)",
+        "bho": "अपसव्य से ना"
+      }
+    },
+    {
+      "sa": "पित्र्यमन्त्रविवर्जितम्",
+      "gloss": {
+        "hi": "पितृ-मंत्रों से रहित",
+        "en": "without the ancestral mantras",
+        "bho": "पितर-मंत्र बिना"
+      }
+    },
+    {
+      "sa": "अस्मच्छब्दम्",
+      "gloss": {
+        "hi": "'अस्मत्' (हम) शब्द",
+        "en": "the word 'asmat' (we)",
+        "bho": "'अस्मत्' सब्द"
+      }
+    },
+    {
+      "sa": "न कुर्वीत",
+      "gloss": {
+        "hi": "न करे",
+        "en": "let him not use",
+        "bho": "ना करे"
+      }
+    },
+    {
+      "sa": "श्राद्धे नान्दीमुखे",
+      "gloss": {
+        "hi": "नांदीमुख श्राद्ध में",
+        "en": "in the nandimukha shraddha",
+        "bho": "नांदीमुख श्राद्ध में"
+      }
+    },
+    {
+      "sa": "क्वचित्",
+      "gloss": {
+        "hi": "कभी भी",
+        "en": "ever",
+        "bho": "कबो"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "नांदीमुख श्राद्ध में कभी 'स्वधा', 'शर्मा', 'वर्मा' और पितरों का नाम न बोले; पितृ-तीर्थ से कर्म न करे, कुश दोहरे न करे; तिल से नहीं, अपसव्य होकर नहीं, पितृ-मंत्रों से रहित (करे); 'अस्मत्' शब्द न बोले।",
+    "en": "In the nandimukha shraddha let him never utter 'svadha', 'sharma', 'varma' or the names of the ancestors; let him not act with the pitri-tirtha, nor use doubled kusha; not with sesame, not in the apasavya position, without the ancestral mantras; let him not use the word 'asmat' (we).",
+    "bho": "नांदीमुख श्राद्ध में कबो 'स्वधा', 'शर्मा', 'वर्मा' आ पितर लोग के नाँव ना बोले; पितृ-तीर्थ से करम ना करे, कुस दोहरा ना करे; तिल से ना, अपसव्य हो के ना, पितर-मंत्र बिना (करे); 'अस्मत्' सब्द ना बोले।"
+  },
+  "explanation": {
+    "hi": "ये दो स्मृति-श्लोक बताते हैं कि [[nandi-shraddha]] साधारण (पार्वण) श्राद्ध से कैसे अलग है: यह मंगल-कर्म है, इसलिए मृत्यु-श्राद्ध की हर पहचान हटा दी जाती है — न 'स्वधा', न तिल, न अपसव्य (जनेऊ सव्य ही रहता है), न पितृ-तीर्थ, न दोहरे कुश (दूर्वा का प्रयोग), न पितरों के नाम-गोत्र का उच्चार, और वाक्य में 'अस्मत्' के स्थान पर 'वः' जैसे शब्द। [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) इन्हें प्रयोग के आरंभ में छापती है; [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) भी 'विवाहादिमंगलकर्मादौ … दर्भस्थाने दूर्वा एव' कहती है। श्लोकों का मूल ग्रंथ पोथी नहीं बताती (स्मृति-वचन के रूप में उद्धृत)।",
+    "en": "These two smriti verses state how the nandi shraddha differs from the ordinary (parvana) shraddha: it is an auspicious rite, so every mark of the funeral shraddha is removed — no 'svadha', no sesame, no apasavya (the sacred thread stays on the left shoulder), no pitri-tirtha, no doubled kusha (durva grass is used), no uttering of the ancestors' names and gotras, and words like 'vah' (to you) instead of 'asmat' in the formulas. The [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) prints them at the head of the prayoga; the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) likewise says 'in auspicious rites such as a wedding … durva in place of darbha'. The handbook does not name the verses' original text (quoted as a smriti saying).",
+    "bho": "ई दू स्मृति-श्लोक बतावेला कि [[nandi-shraddha]] साधारन (पार्वन) श्राद्ध से कइसे अलग बा: ई मंगल-करम बा, एही से मरनी-श्राद्ध के हर पहिचान हटा दिहल जाला — ना 'स्वधा', ना तिल, ना अपसव्य (जनेऊ सव्य ही रहेला), ना पितृ-तीर्थ, ना दोहरा कुस (दूब के परयोग), ना पितर लोग के नाँव-गोत्र के उच्चार, आ वाक्य में 'अस्मत्' के जगह 'वः' जइसन सब्द। [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) एकरा परयोग के सुरुआत में छापेले; [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) भी 'विवाहादिमंगलकर्मादौ … दर्भस्थाने दूर्वा एव' कहेले। श्लोक के मूल ग्रंथ पोथी ना बतावे (स्मृति-बचन के रूप में उद्धृत)।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-vivah-mvf",
+    "retrieved": "2026-11-01",
+    "modified": "OCR चोच्चरेत् → नोच्चरेत्, 'पित्र्यमन्त्र विवर्जितम्' joined; dandas set; OCR text offsets ≈ 50700–57000"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit ritual formula (anonymous, pre-modern); Sanskrit text taken from the 2020 paddhati OCR under brief §14, no Hindi prose copied",
+  "tags": [
+    "nandi",
+    "rule",
+    "smriti"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "locator": "Dwivedi 2020 OCR text, नान्दीमुख श्राद्ध (pp. 32–35 of the print)",
+  "checkedAgainst": [
+    {
+      "ref": "ws-samskararatnamala-1-01",
+      "retrieved": "2026-11-01",
+      "note": "the digest states the same rules in prose (durva for darbha, no pitri forms) — the verses themselves are not there"
+    }
+  ]
+}

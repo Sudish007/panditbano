@@ -1,0 +1,178 @@
+{
+  "id": "pad-panchalokapala-avahana",
+  "kind": "paddhati",
+  "title": {
+    "hi": "पंच-लोकपालों (गणेश, दुर्गा, वायु, आकाश, अश्विनौ) के ध्यान और आवाहन-वाक्य",
+    "en": "Dhyana verses and invocation sentences of the five lokapalas (Ganesha, Durga, Vayu, Akasha, the Ashvins)",
+    "bho": "पंच-लोकपाल (गणेश, दुर्गा, वायु, आकास, अश्विनी) के धियान आ आवाहन-वाक्य"
+  },
+  "devanagari": "लम्बोदरं महाकायं गजवक्त्रं चतुर्भुजम् । आवाहयाम्यहं देवं गणेशं सिद्धिदायकम् ॥ ॐ भूर्भुवः स्वः गणपते इहागच्छ इह तिष्ठ । गणपतये नमः । गणपतिमावाहयामि स्थापयामि ॥ पत्तने नगरे ग्रामे विपिने पर्वते गृहे । नानाजातिकुलेशानीं दुर्गामावाहयाम्यहम् ॥ ॐ भूर्भुवः स्वः दुर्गे इहागच्छ इह तिष्ठ । दुर्गायै नमः । दुर्गामावाहयामि स्थापयामि ॥ आवाहयाम्यहं वायुं भूतानां देहधारिणम् । स्वाधारं महावेगं मृगवाहनमीश्वरम् ॥ ॐ भूर्भुवः स्वः वायो इहागच्छ इह तिष्ठ । वायवे नमः । वायुमावाहयामि स्थापयामि ॥ अनाकारं शब्दगुणं द्यावाभूम्यन्तरस्थितम् । आवाहयाम्यहं देवमाकाशं सर्वगं शुभम् ॥ ॐ भूर्भुवः स्वः आकाश इहागच्छ इह तिष्ठ । आकाशाय नमः । आकाशमावाहयामि स्थापयामि ॥ देवतानां च भैषज्ये सुकुमारौ भिषग्वरौ । आवाहयाम्यहं देवावश्विनौ पुष्टिवर्धनौ ॥ ॐ भूर्भुवः स्वः अश्विनौ इहागच्छतम् इह तिष्ठतम् । अश्विभ्यां नमः । अश्विनावावाहयामि स्थापयामि ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "लम्बोदरम्",
+      "gloss": {
+        "hi": "लंबे उदर वाले",
+        "en": "big-bellied",
+        "bho": "लमहर पेट वाला"
+      }
+    },
+    {
+      "sa": "गजवक्त्रम्",
+      "gloss": {
+        "hi": "हाथी के मुख वाले",
+        "en": "elephant-faced",
+        "bho": "हाथी-मुँह वाला"
+      }
+    },
+    {
+      "sa": "सिद्धिदायकम्",
+      "gloss": {
+        "hi": "सिद्धि देने वाले",
+        "en": "giver of success",
+        "bho": "सिद्धि देवे वाला"
+      }
+    },
+    {
+      "sa": "पत्तने नगरे ग्रामे",
+      "gloss": {
+        "hi": "पट्टन, नगर, गाँव में",
+        "en": "in town, city and village",
+        "bho": "पट्टन, नगर, गाँव में"
+      }
+    },
+    {
+      "sa": "विपिने पर्वते गृहे",
+      "gloss": {
+        "hi": "वन, पर्वत और घर में",
+        "en": "in forest, mountain and home",
+        "bho": "बन, पहाड़ आ घर में"
+      }
+    },
+    {
+      "sa": "नानाजातिकुलेशानीम्",
+      "gloss": {
+        "hi": "नाना जातियों और कुलों की ईश्वरी",
+        "en": "sovereign of many peoples and clans",
+        "bho": "नाना जाति आ कुल के ईस्वरी"
+      }
+    },
+    {
+      "sa": "भूतानां देहधारिणम्",
+      "gloss": {
+        "hi": "प्राणियों के देह को धारण करने वाले (प्राण)",
+        "en": "who sustains the bodies of beings (as breath)",
+        "bho": "जीव लोग के देह धारन करे वाला"
+      }
+    },
+    {
+      "sa": "मृगवाहनम्",
+      "gloss": {
+        "hi": "मृग-वाहन वाले",
+        "en": "whose mount is the deer",
+        "bho": "मृग-सवारी वाला"
+      }
+    },
+    {
+      "sa": "अनाकारम्",
+      "gloss": {
+        "hi": "निराकार",
+        "en": "formless",
+        "bho": "निराकार"
+      }
+    },
+    {
+      "sa": "शब्दगुणम्",
+      "gloss": {
+        "hi": "शब्द-गुण वाले",
+        "en": "whose quality is sound",
+        "bho": "सब्द-गुन वाला"
+      }
+    },
+    {
+      "sa": "द्यावाभूम्यन्तरस्थितम्",
+      "gloss": {
+        "hi": "आकाश और भूमि के बीच स्थित",
+        "en": "standing between heaven and earth",
+        "bho": "सरग आ धरती के बीच ठाढ़"
+      }
+    },
+    {
+      "sa": "सर्वगम्",
+      "gloss": {
+        "hi": "सर्वव्यापी",
+        "en": "all-pervading",
+        "bho": "सब जगह बिआपल"
+      }
+    },
+    {
+      "sa": "भैषज्ये",
+      "gloss": {
+        "hi": "चिकित्सा में",
+        "en": "in the healing art",
+        "bho": "बैदगिरी में"
+      }
+    },
+    {
+      "sa": "सुकुमारौ",
+      "gloss": {
+        "hi": "सुकुमार (दोनों)",
+        "en": "the two tender ones",
+        "bho": "सुकुमार (दुनो)"
+      }
+    },
+    {
+      "sa": "भिषग्वरौ",
+      "gloss": {
+        "hi": "श्रेष्ठ वैद्य (दोनों)",
+        "en": "the two best physicians",
+        "bho": "सबसे बड़ बैद (दुनो)"
+      }
+    },
+    {
+      "sa": "पुष्टिवर्धनौ",
+      "gloss": {
+        "hi": "पुष्टि बढ़ाने वाले (दोनों)",
+        "en": "the two increasers of nourishment",
+        "bho": "पुष्टि बढ़ावे वाला (दुनो)"
+      }
+    },
+    {
+      "sa": "इहागच्छतम् इह तिष्ठतम्",
+      "gloss": {
+        "hi": "(आप दोनों) यहाँ आइए, यहाँ ठहरिए",
+        "en": "(you two) come here, stay here",
+        "bho": "(रउआ दुनो) इहाँ आईं, इहाँ रहीं"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "लंबे उदर, बड़े शरीर, हाथी के मुख और चार भुजाओं वाले, सिद्धि देने वाले देव गणेश का मैं आवाहन करता हूँ। पट्टन, नगर, गाँव, वन, पर्वत और घर में — नाना जातियों और कुलों की ईश्वरी दुर्गा का मैं आवाहन करता हूँ। प्राणियों के देह को धारण करने वाले, अपने ही आधार वाले, महावेग वाले, मृग-वाहन ईश्वर वायु का आवाहन करता हूँ। निराकार, शब्द-गुण वाले, आकाश और भूमि के बीच स्थित, सर्वव्यापी शुभ देव आकाश का आवाहन करता हूँ। देवों की चिकित्सा में सुकुमार, श्रेष्ठ वैद्य, पुष्टि बढ़ाने वाले दोनों अश्विनी देवों का आवाहन करता हूँ। — हर वाक्य के साथ: ॐ भूर्भुवः स्वः, हे (देव), यहाँ आइए, यहाँ ठहरिए; (देव) को नमन; मैं आवाहन और स्थापन करता हूँ।",
+    "en": "I invoke the god Ganesha, big-bellied, huge-bodied, elephant-faced, four-armed, the giver of success. I invoke Durga — in town, city and village, in forest, mountain and home — the sovereign of many peoples and clans. I invoke Vayu, who sustains the bodies of beings, self-supported, of great speed, the lord whose mount is the deer. I invoke the god Akasha — formless, whose quality is sound, standing between heaven and earth, all-pervading, auspicious. I invoke the two Ashvin gods, tender in the healing art of the gods, the best physicians, increasers of nourishment. — With each: om bhur bhuvah svah, O (god), come here, stay here; homage to (the god); I invoke and install.",
+    "bho": "लमहर पेट, बड़ देह, हाथी-मुँह आ चार हाथ वाला, सिद्धि देवे वाला देव गणेश के हम आवाहन करत बानी। पट्टन, नगर, गाँव, बन, पहाड़ आ घर में — नाना जाति आ कुल के ईस्वरी दुर्गा के हम आवाहन करत बानी। जीव लोग के देह धारन करे वाला, आपन ही आधार वाला, महाबेग वाला, मृग-सवारी ईस्वर वायु के आवाहन करत बानी। निराकार, सब्द-गुन वाला, सरग आ धरती के बीच ठाढ़, सब जगह बिआपल सुभ देव आकास के आवाहन करत बानी। देव लोग के बैदगिरी में सुकुमार, सबसे बड़ बैद, पुष्टि बढ़ावे वाला दुनो अश्विनी देव के आवाहन करत बानी। — हर वाक्य संगे: ॐ भूर्भुवः स्वः, हे (देव), इहाँ आईं, इहाँ रहीं; (देव) के परनाम; हम आवाहन आ थापन करत बानी।"
+  },
+  "explanation": {
+    "hi": "पंच-लोकपाल — गणेश, अंबिका (दुर्गा), वायु, आकाश और दोनों अश्विनीकुमार — नवग्रह-मंडल के उत्तर भाग में नियत स्थानों पर पूजे जाते हैं; यह पाँच का समूह स्कंदपुराण के वचन 'गणेशश्चांबिका वायुः…' से लिया गया है। हर देव के लिए पहले वैदिक मंत्र (गणेश: यजुर्वेद 23.19; दुर्गा: 23.18; वायु: 27.28; आकाश: 6.19; अश्विनौ: 7.11), फिर यह ध्यान-श्लोक, फिर आवाहन-वाक्य। अश्विनौ दो हैं, इसलिए उनका वाक्य द्विवचन में है — 'इहागच्छतम् इह तिष्ठतम्'। श्लोक [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 236–238) से; वायु का यह ध्यान दिक्पाल-वायु के ध्यान ('मनोजवं…') से अलग है।",
+    "en": "The five lokapalas — Ganesha, Ambika (Durga), Vayu, Akasha and the two Ashvinikumaras — are worshipped at fixed places in the northern part of the navagraha mandala; the group of five is taken from the Skanda Purana line 'ganeshash chambika vayuh …'. For each: first the Vedic mantra (Ganesha: Yajurveda 23.19; Durga: 23.18; Vayu: 27.28; Akasha: 6.19; the Ashvins: 7.11), then this dhyana verse, then the invocation sentence. The Ashvins are two, so their sentence is in the dual — 'ihagachchhatam iha tishthatam'. The verses are from the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (pp. 236–238); this dhyana of Vayu differs from his dhyana as dikpala ('manojavam …').",
+    "bho": "पंच-लोकपाल — गणेश, अंबिका (दुर्गा), वायु, आकास आ दुनो अश्विनीकुमार — नवग्रह-मंडल के उत्तर भाग में तय ठाँव पर पूजल जालन; ई पाँच के समूह स्कंदपुरान के बचन 'गणेशश्चाम्बिका वायुः…' से लिहल गइल बा। हर देव खातिर पहिले वैदिक मंत्र (गणेश: यजुर्वेद 23.19; दुर्गा: 23.18; वायु: 27.28; आकास: 6.19; अश्विनी: 7.11), फेर ई धियान-श्लोक, फेर आवाहन-वाक्य। अश्विनी दू बाड़न, एही से उनकर वाक्य द्विवचन में बा — 'इहागच्छतम् इह तिष्ठतम्'। श्लोक [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 236–238) से; वायु के ई धियान दिक्पाल-वायु के धियान ('मनोजवं…') से अलग बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-nkpp-scan",
+    "retrieved": "2026-11-01",
+    "modified": "OCR slips corrected: दुगयि → दुर्गायै, स्वाधार महावेगं → स्वाधारं महावेगं, सुकुमारो → सुकुमारौ, पुष्टिवद्धंनौ → पुष्टिवर्धनौ, अश्विनो → अश्विनौ; exclamation marks and commas replaced by dandas; the five units joined in the order of the book (items 28–32)"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit ritual formula (anonymous, pre-modern); Sanskrit text taken from the Gita Press scan under brief §14, no Hindi prose copied",
+  "tags": [
+    "lokapala",
+    "avahana",
+    "dhyana"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "locator": "NKPP pp. 236–238 (पञ्चलोकपाल-पूजा, items 28–32)"
+}
