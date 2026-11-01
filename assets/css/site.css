@@ -391,19 +391,65 @@ details.faq .prose { padding-bottom: 14px; }
 .katha-nav { display: flex; gap: 8px; flex-wrap: wrap; }
 .katha-nav a { display: inline-flex; align-items: center; min-height: 40px; padding: 0 14px; border-radius: var(--radius-ctl); border: 1px solid var(--hair-strong); text-decoration: none; color: var(--ink); font-weight: 600; font-size: var(--fs-meta); }
 .katha-nav a[aria-current] { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
-.dropcap::first-letter { font-family: var(--font-display); font-size: 2.4em; line-height: 1; float: left; padding: 4px 8px 0 0; color: var(--accent); }
-.caveat { border: 1px solid var(--hair-strong); border-radius: var(--radius); padding: 12px 16px; font-size: var(--fs-meta); color: var(--ink-2); background: transparent; }
+/* drop cap on the first paragraph of a retelling (p.dropcap, or the first <p> of .prose.dropcap — never both, so the letter is not doubled) */
+p.dropcap::first-letter, .prose.dropcap > p:first-child::first-letter { font-family: var(--font-display); font-size: 2.4em; line-height: 1; float: left; padding: 4px 8px 0 0; color: var(--accent); }
+.caveat { border: 1px solid var(--hair-strong); border-radius: var(--radius); padding: 12px 16px; font-size: var(--fs-meta); color: var(--ink-2); background: transparent; max-width: var(--measure); }
+.caveat a { color: inherit; }
+.katha-card, .adhyaya-card, .text-card, .chapter-card { display: grid; gap: 8px; align-content: start; }
+.katha-card .chip, .adhyaya-card .chip, .chapter-card .chip { justify-self: start; }
+.text-card .chips { gap: 6px; }
+/* texts index: the ritual-mantra corpus as one compact row (icon · title + line · count · arrow) so the card is not an empty band at 1440+ */
+.mantras-card { margin-bottom: var(--gap); display: grid; gap: 10px 14px; grid-template-columns: 44px minmax(0, 1fr); align-items: center; }
+.mantras-card .ico { width: 44px; height: 44px; color: var(--accent); }
+.mantras-card h2 { font-size: var(--h3); }
+.mantras-card .t { min-width: 0; }
+.mantras-card .count { font-size: var(--fs-meta); color: var(--ink-2); grid-column: 2; }
+.mantras-card .more { grid-column: 2; }
+@media (min-width: 820px) { .mantras-card { grid-template-columns: 44px minmax(0, 1fr) auto auto; } .mantras-card .count, .mantras-card .more { grid-column: auto; } }
+/* katha adhyaya: the retelling and the collapsible मूल श्लोक panels (design §4.6) */
+.retelling > * + * { margin-top: 0.9em; }
+.retelling p { margin: 0; }
+details.mula { margin: 14px 0; border: 1px solid var(--hair); border-radius: var(--radius); background: var(--surface); }
+details.mula summary { cursor: pointer; min-height: var(--control-h); display: flex; align-items: center; gap: 8px; padding: 6px 14px; font-weight: 600; color: var(--accent-2); font-size: var(--fs-meta); list-style: none; }
+details.mula summary::-webkit-details-marker { display: none; }
+details.mula summary::before { content: "+"; font-size: 1.3em; color: var(--accent-2); }
+details.mula[open] summary::before { content: "−"; }
+details.mula .mula-body { padding: 0 14px 14px; }
+details.mula .verse { margin: 8px 0 0; padding-inline: 0; border-left: 0; background: transparent; border-radius: 0; }
+details.mula .mula-meaning { margin: 10px 0 0; }
+details.mula .speaker { margin: 8px 0 0; }
+.speaker { font-family: var(--font-mantra); font-size: calc(var(--fs-body) * 1.05); line-height: 1.8; color: var(--ink-2); margin: 0; }
+.own-words { margin-top: var(--gap); }
+.vidhi-part + .vidhi-part { margin-top: var(--gap); }
+.vidhi-part h3 { margin: 0 0 var(--gap); }
+#vidhi .actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: var(--gap); }
+#vidhi > .prose { margin-bottom: var(--gap); }
+#vidhi > .pair { margin-bottom: var(--gap); }
 
 /* chapter view */
 .chapter-tools { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: space-between; }
-.pager { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-top: var(--gap); }
+.chapter-tools .pager { margin-top: 0; flex: 1 1 auto; justify-content: flex-end; align-items: center; }
+.chapter-tools .pager .meta { margin-inline-end: auto; }
+.pager { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-top: var(--gap); align-items: center; }
 .verse-list .verse { margin-top: 0; }
+.verse-item > .chips { margin-bottom: 8px; }
+.verse-item .speaker { margin: 0 0 6px; }
 details.meaning { margin-top: 12px; }
 details.meaning summary { cursor: pointer; min-height: 40px; display: inline-flex; align-items: center; gap: 8px; font-weight: 600; color: var(--accent); font-size: var(--fs-meta); list-style: none; }
 details.meaning summary::-webkit-details-marker { display: none; }
 details.meaning summary::before { content: "+"; font-size: 1.3em; }
 details.meaning[open] summary::before { content: "−"; }
 details.meaning .prose { padding-top: 8px; }
+details.meaning .prose .label { margin: 12px 0 4px; }
+details.meaning .card { margin-top: 12px; }
+@media (min-width: 1920px) { .verse-item .speaker { grid-column: 1 / -1; } .verse-item .verse { margin-top: 0; } }
+/* verse navigator (design §4.5): 40-px targets (UI-06) with the 28-px numeral disc */
+.rail nav ol.vnav { display: grid; grid-template-columns: repeat(auto-fill, minmax(40px, 1fr)); gap: 4px; }
+.rail nav ol.vnav li a { justify-content: center; padding: 4px; min-width: 40px; }
+.rail nav ol.vnav li a[aria-current="true"] { outline: 0; background: var(--accent-tint); }
+.rail nav ol.vnav li a[aria-current="true"] .n { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.source-card .meta { margin: 0; }
+.source-card .meta + .meta { margin-top: 8px; }
 
 /* pothi (design §15) */
 .pothi-bar { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; min-height: var(--head-h); border-bottom: 1px solid var(--hair); padding-block: 8px; }

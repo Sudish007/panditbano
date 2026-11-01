@@ -250,7 +250,23 @@ npm run gate                                  # content/ (or CONTENT_DIR)
 node build/gate.mjs --dir <path>              # that directory instead
 node build/gate.mjs --dir <path> --lane       # lane mode (section 11)
 node build/gate.mjs --phase 2                 # current build phase for G7 (default PB_PHASE or 1)
+node build/gate.mjs --dir <path> --dist <dir> # write <dir>/_reports/gate.json instead of dist/
 ```
+
+**Paths are CLI flags, never persistent `$env:` variables** (brief §15, 2026-11-01: parallel steps share one PowerShell
+session, so a `$env:DIST` / `$env:CONTENT_DIR` set by one step changed another step's build). The build takes the same
+options as flags, which override the environment for that process only:
+
+```
+node build/build.mjs --content <dir> --dist <dir>              # CONTENT_DIR / DIST
+node build/build.mjs --base-path / --site-origin https://x.y  # BASE_PATH / SITE_ORIGIN
+node build/build.mjs --ci                                      # CI=true (budgets fatal)
+node build/build.mjs --content test/fixtures/content-sample --dist $env:TEMP\pb\fx\dist   # a lane / FEAT fixture build
+```
+
+`npm run build -- --content <dir> --dist <dir>` passes the flags through npm. Tools keep their own flags
+(`tools/audit.py --dist <dir>`). If you find a foreign value in `$env:DIST`, `$env:CONTENT_DIR` or `$env:BASE_PATH`,
+remove it (`Remove-Item Env:DIST`) and note it in `status.md`.
 
 Output: one line per finding `LEVEL  file  rule  message`, then `gate OK|FAIL: n FAIL, n FLAG, n WARN`. Exit 0 = no
 FAIL; exit 3 = at least one FAIL; exit 2 = a file could not be parsed (`file:line:col`). `dist/_reports/gate.json` is

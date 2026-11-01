@@ -139,3 +139,34 @@ implementation deviations, which every build step appends to.
   design scale, so UI-07 holds), range 80–160 % in steps of 10, persisted as `pb-font-pct`.
 - **FEAT-106 · `.sources li` / `.src` get `overflow-wrap: anywhere`**: a long Internet Archive item id in an attribution line
   overflowed 390 px under the WCAG text-spacing override (UI-27) on every page with that source.
+- **FEAT-107 · build and gate paths are CLI flags** (brief §15, 2026-11-01): `node build/build.mjs --content <dir> --dist <dir>
+  --base-path </x/> --site-origin <https://host> --ci` override the environment for that process only (flags are read only
+  when `build/build.mjs` is the running script, so tests and tools keep their own argv); `node build/gate.mjs --dist <dir>`
+  chooses where `gate.json` goes. Persistent `$env:` variables are no longer used by any step (see docs/CONTENT-RULES.md §10).
+- **FEAT-107 · chapter `<h1>` is the chapter title**, not “{text} · अध्याय n” as in the mock: the text title is the breadcrumb
+  ancestor (each fact once, UI-15) and a Satyanarayan chapter titled “प्रथम अध्याय” would otherwise read twice. The page
+  `<title>` keeps “{text} · {chapter} · पृष्ठ k/n”.
+- **FEAT-107 · verse navigator targets are 40 px** (the design's “28-px targets”): UI-06 requires every `.rail nav a` to be
+  40–48 px, so each navigator link is a 40-px square holding the 28-px numeral disc; `tracker.mjs` sets `aria-current` on
+  it through `data-step` (the same mechanism as the occasion step tracker).
+- **FEAT-107 · part pager**: text “मंत्र 1–40 · कुल 95” + ← → links in the tools row and again at the bottom; `rel="prev|next"`
+  go to the neighbouring part, else to the neighbouring PUBLISHED chapter (its first part). No bar anywhere (§27 item 4).
+- **FEAT-107 · Expand / Collapse all**: two buttons, both `aria-controls="verses"`, both `aria-expanded="true"` only while every
+  `<details class="meaning">` is open (kept in sync with manual toggles). A deep link `#v{n}` opens that verse's meaning.
+- **FEAT-107 · unpublished chapters** are absent everywhere: no route, no card on the text page, not in the rail list, not in
+  the counts (“N अध्याय · M श्लोक” on the texts index and text page come from the published set only — brief §6.1).
+- **FEAT-107 · katha landing embeds the vidhi occasion once** (#vidhi): overview, when + roles pair, layer legend, step cards
+  (grouped by part when the occasion has parts), pothi / full-page links; the samagri checklist is the right rail; the
+  left rail holds the adhyaya list AND the step tracker (`trackerFold`). The page carries the occasion's offline
+  placeholder so FEAT-109's save-offline works from the katha too.
+- **FEAT-107 · katha caveat** is `katha.json#caveat` (optional per the schema); the fixture now carries one. Prose in it must
+  avoid registered source titles unless linked (gate G16 / UI-19 — e.g. “रेवा खण्डम्” is a registered title; “रेवाखंड” is not).
+- **FEAT-107 · {{verse:}} panels**: `<details class="mula">` “मूल श्लोक — श्लोक n” with the verse block (lang of its text), the
+  prose meaning and a link to the chapter anchor; the build throws on an unresolved id (the gate's G5 fails it first). The
+  drop cap is `.prose.dropcap > p:first-child::first-letter` (the first `<p>` also gets `class="dropcap"`; the old
+  `.dropcap::first-letter` on the container would have doubled the letter).
+- **FEAT-107 · attributionHtml links the registry URL first, literally**: a Wikisource URL containing “)” (…/खण्डः_५_(अवन्तीखण्डः)/…)
+  was cut by the generic `(url)` regex and the title ended up linked twice (nested `<a>` → UI-20 unmarked + UI-25 obscured
+  on the katha pages and on the `satyanarayan-puja` occasion page). Fixed for every page carrying such a source.
+- **FEAT-107 · texts index**: the ritual-mantra corpus is one compact row card (icon · title · count · arrow) above the text
+  cards so it is not an empty band at 1440+; texts with zero published chapters sort last but keep their page.

@@ -11,6 +11,7 @@
 //       .agents/tasks/v1-build/staging/<A|B|C>/<item-id>/ are WARN, not FAIL; duplicate ids across <dir> and content/
 //       or any other staging dir are FAIL; registries missing in <dir> are taken from content/ (sources.json merged).
 //   --phase <1|2|3>   current build phase for G7 (default PB_PHASE env or 1)   --staging <root>   --quiet
+//   --dist <path>     where dist/_reports/gate.json is written (default DIST env or dist/; brief §15: flags, not $env:)
 import { mkdirSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -552,15 +553,16 @@ export function writeReport(result, distDir) {
 
 // ---------------------------------------------------------------- CLI
 function parseArgs(argv) {
-  const o = { dir: null, lane: false, phase: null, staging: DEFAULT_STAGING, quiet: false };
+  const o = { dir: null, lane: false, phase: null, staging: DEFAULT_STAGING, quiet: false, dist: null };
   for (let i = 0; i < argv.length; i++) {
     const a = argv[i];
     if (a === "--dir") o.dir = argv[++i];
     else if (a === "--lane") o.lane = true;
     else if (a === "--phase") o.phase = argv[++i];
     else if (a === "--staging") o.staging = argv[++i];
+    else if (a === "--dist") o.dist = argv[++i];
     else if (a === "--quiet") o.quiet = true;
-    else if (a === "--help" || a === "-h") { console.log("usage: node build/gate.mjs [--dir <path>] [--lane] [--phase 1|2|3] [--staging <root>] [--quiet]"); process.exit(0); }
+    else if (a === "--help" || a === "-h") { console.log("usage: node build/gate.mjs [--dir <path>] [--lane] [--phase 1|2|3] [--staging <root>] [--dist <path>] [--quiet]"); process.exit(0); }
     else throw new Error(`unknown argument ${a}`);
   }
   return o;
@@ -570,6 +572,7 @@ export async function main(argv = process.argv.slice(2)) {
   const args = parseArgs(argv);
   const { default: config } = await import("./config.mjs");
   const dir = resolve(args.dir || config.CONTENT_DIR);
+  const dist = resolve(args.dist || config.DIST);
   let result;
   try {
     const data = loadContent(dir, { label: args.dir ? dir.split(/[\\/]/).slice(-2).join("/") : "content" });
@@ -578,11 +581,11 @@ export async function main(argv = process.argv.slice(2)) {
     result = runGate(data, { phase: args.phase, lane: args.lane, pools, registries });
   } catch (err) {
     result = { ok: false, dir, lane: args.lane, counts: { FAIL: 1, FLAG: 0, WARN: 0 }, findings: [{ level: "FAIL", file: err.file || "-", rule: "G1", message: `parse error: ${err.message}` }], fatal: true };
-    writeReport(result, config.DIST);
+    writeReport(result, dist);
     console.error(formatFindings(result.findings));
     process.exit(2);
   }
-  const report = writeReport(result, config.DIST);
+  const report = writeReport(result, dist);
   if (!args.quiet && result.findings.length) console.log(formatFindings(result.findings));
   console.log(`gate ${result.ok ? "OK" : "FAIL"}: ${result.counts.FAIL} FAIL, ${result.counts.FLAG} FLAG, ${result.counts.WARN} WARN — ${result.dir}${result.lane ? " (lane mode)" : ""} → ${report}`);
   process.exit(result.ok ? 0 : 3);

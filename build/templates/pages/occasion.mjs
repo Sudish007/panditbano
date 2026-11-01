@@ -52,7 +52,14 @@ function layerSummary(lang, steps) {
 }
 
 /** Step tracker rail: parts → steps; links are in-page (#step-n) for steps rendered on this page, else to the part route. */
-export function trackerRail(env, { part = null, onPage }) {
+export function trackerRail(env, opts) {
+  return html`<aside class="rail rail-left">
+${trackerFold(env, opts)}
+</aside>`;
+}
+
+/** The tracker <details> alone (the katha landing puts it under its adhyaya list — FEAT-107). */
+export function trackerFold(env, { part = null, onPage }) {
   const { ctx, lang, occ } = env;
   const steps = stepsOf(occ);
   const link = (s) => {
@@ -67,11 +74,9 @@ export function trackerRail(env, { part = null, onPage }) {
         return html`<li class="part"><a class="part-t" href="${occHref(ctx, lang, occ, p)}"${part && part.id === p.id ? raw(' aria-current="page"') : ""}><span class="n">${num(i + 1)}</span><span class="t">${p.title[lang]}<span class="meta"> · ${t(lang, "occasion.steps", { n: num(own.length) })}</span></span></a><ol>${own.map(link)}</ol></li>`;
       })}</ol>`
     : html`<ol>${steps.map(link)}</ol>`;
-  return html`<aside class="rail rail-left">
-<details class="rail-fold card" id="tracker"><summary><h2 class="rail-h">${t(lang, "occasion.tracker")} · ${num(steps.length)}</h2></summary>
+  return html`<details class="rail-fold card" id="tracker"><summary><h2 class="rail-h">${t(lang, "occasion.tracker")} · ${num(steps.length)}</h2></summary>
 <nav aria-label="${t(lang, "occasion.tracker")}" data-tracker>${body}</nav>
-</details>
-</aside>`;
+</details>`;
 }
 
 /** The .sections chip scroller; on a part page the overview sections link back to the base route. */
@@ -96,11 +101,11 @@ ${notes}
 </section>`;
 }
 
-function layerLegend(lang) {
+export function layerLegend(lang) {
   return html`<p class="chips layers"><span class="meta">${t(lang, "occasion.layers")}:</span>${LAYERS.map((l) => layerChip({ layer: l }, lang))}</p>`;
 }
 
-function rolesCard(env) {
+export function rolesCard(env) {
   const { lang, occ, mdCtx } = env;
   return html`<section class="card" id="roles" aria-labelledby="h-roles">
 <h2 id="h-roles">${t(lang, "occasion.sections.roles")}</h2>
@@ -161,7 +166,7 @@ function partsList(env) {
   })}</ol>`;
 }
 
-function stepsList(env, steps) {
+export function stepsList(env, steps) {
   const { ctx, lang, derived, occasionsById, sources, textsById, mdCtx, mantraById, occ } = env;
   return html`<div class="stack steps">${steps.map((s) => stepCard(s, { ctx, lang, derived, occasionsById, sources, textsById, mdCtx, mantraById, occ }))}</div>`;
 }

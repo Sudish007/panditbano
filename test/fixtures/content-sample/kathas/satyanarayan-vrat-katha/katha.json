@@ -16,6 +16,11 @@
     "ref": "ws-skanda-reva-index",
     "locator": "स्कन्दपुराण, रेवाखण्ड, अध्याय २३३–२३७"
   },
+  "caveat": {
+    "hi": "परंपरा इस कथा को स्कंदपुराण के रेवाखंड का बताती है; विद्वान इसे परवर्ती परिशिष्ट मानते हैं। यहाँ कथा साइट के अपने शब्दों में है, मूल श्लोक साथ में।",
+    "en": "Tradition attributes this katha to the Reva section of the Skanda Purana; scholars treat it as a late appendix. The retelling here is in the site's own words, with the original verses alongside.",
+    "bho": "परंपरा एह कथा के स्कंदपुरान के रेवाखंड के बतावेले; विद्वान लोग एकरा परवर्ती परिशिष्ट मानेला। इहाँ कथा साइट के आपन शब्द में बा, मूल श्लोक साथे।"
+  },
   "adhyayas": [
     {
       "n": 1,

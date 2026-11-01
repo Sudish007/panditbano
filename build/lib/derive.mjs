@@ -147,7 +147,8 @@ export function termForms(tbEntry, lang) {
 
 /**
  * Derive everything the render stage needs. Mutates the loaded records (adds iast/easy/ariaPlain/vinyog/parts)
- * and returns { counts, groups, publishedChapters, unpublishedChapters, glossaryPages, termbankById, vinyog }.
+ * and returns { counts, groups, publishedChapters, unpublishedChapters, glossaryPages, termbankById, vinyog, mantraById,
+ * verseById (every chapter verse by "<text>-<n>-<v>"), textUses (text id → occasion steps whose textRefs recite it) }.
  */
 export function derive(data, { R = null } = {}) {
   const termbankById = new Map();
@@ -175,21 +176,40 @@ export function derive(data, { R = null } = {}) {
   let verseCount = 0;
   const publishedChapters = [];
   const unpublishedChapters = [];
+  const verseById = new Map(); // "<text>-<n>-<v>" → { verse, text, chapter } for every chapter file (katha {{verse:}} refs — FEAT-107)
   for (const t of data.texts) {
     t.slug = t.id;
     const meta = new Map((t.chapters || []).map((c) => [c.n, c]));
     const chapters = [];
+    const all = [];
     for (const c of t.chapterFiles || []) {
       const info = meta.get(c.n ?? c._n) || {};
       const ch = { ...c, n: c.n ?? c._n, title: c.title || info.title, verseCount: info.verseCount, published: isPublished(c) };
-      for (const v of ch.verses || []) Object.assign(v, translit(v, `${t.id}-${ch.n}-${v.v}`), { id: `${t.id}-${ch.n}-${v.v}` });
+      for (const v of ch.verses || []) {
+        Object.assign(v, translit(v, `${t.id}-${ch.n}-${v.v}`), { id: `${t.id}-${ch.n}-${v.v}` });
+        verseById.set(v.id, { verse: v, text: t, chapter: ch });
+      }
       ch.parts = paginate(ch.verses || []);
+      all.push(ch);
       if (ch.published) { chapters.push(ch); publishedChapters.push(`${t.id}-${ch.n}`); verseCount += ch.verses.length; }
       else unpublishedChapters.push({ text: t.id, n: ch.n, missing: (ch.verses || []).filter((v) => !hasTri(v.meaning)).length });
     }
-    t.allChapters = t.chapterFiles || [];
+    t.allChapters = all;
     t.chapters = chapters; // routes expand only published chapters (brief §6.1)
     t.publishedCount = chapters.length;
+  }
+  // per-text published verse counts (the texts index shows "N अध्याय · M श्लोक" from these — brief §6.1)
+  for (const t of data.texts) t.verseCount = t.chapters.reduce((n, c) => n + c.verses.length, 0);
+  // which occasion steps recite a text / chapter (steps[].textRefs → "कहाँ पढ़ा जाता है" on text and chapter pages)
+  const textUses = new Map();
+  for (const o of data.occasions) {
+    for (const s of o.steps || []) {
+      for (const ref of s.textRefs || []) {
+        if (!textUses.has(ref.text)) textUses.set(ref.text, []);
+        const chaptersOf = Array.isArray(ref.chapter) ? ref.chapter : [ref.chapter];
+        textUses.get(ref.text).push({ occasionId: o.id, step: s.n, part: s.part || null, chapters: chaptersOf, action: s.action });
+      }
+    }
   }
   for (const k of data.kathas) k.slug = k.id;
   // glossary pages: terms with a definition and a term-bank entry
@@ -222,5 +242,5 @@ export function derive(data, { R = null } = {}) {
     examples: data.occasions.filter((o) => o.group === id).slice(0, 4).map((o) => ({ id: o.id, title: o.title, href: (lang) => (R ? R.href(`${lang}/occasions/${o.id}/`) : `/${lang}/occasions/${o.id}/`) })),
   }));
   const vinyog = Object.fromEntries([...mantraById.values()].filter((m) => m.vinyog.length).map((m) => [m.id, m.vinyog]));
-  return { counts, groups: groupInfo, publishedChapters, unpublishedChapters, glossaryPages, termbankById, vinyog, mantraById };
+  return { counts, groups: groupInfo, publishedChapters, unpublishedChapters, glossaryPages, termbankById, vinyog, mantraById, verseById, textUses };
 }

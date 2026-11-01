@@ -197,7 +197,14 @@ const shortUrl = (u) => { const s = u.replace(/^https?:\/\//, "").replace(/\/$/,
 export function attributionHtml(line, lang, entry = null) {
   let s = esc(line.text);
   const linked = new Set();
-  s = s.replace(/“([^”]+)” \((https?:\/\/[^\s)]+)\)/g, (_, title, url) => { linked.add(url); return `“${extAnchor(lang, url, title)}”`; });
+  // The registry URL first, literally: a Wikisource URL may contain ")" (…/खण्डः_५_(अवन्तीखण्डः)/…), which the generic
+  // regexes below would cut — and a cut URL would let the title be linked twice (nested <a>, UI-20 / UI-25 — FEAT-107 fix).
+  if (entry && entry.url) {
+    const url = esc(entry.url);
+    const q = url.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    s = s.replace(new RegExp(`“([^”]+)” \\(${q}\\)`, "g"), (_, title) => { linked.add(url); return `“${extAnchor(lang, url, title)}”`; });
+  }
+  s = s.replace(/“([^”]+)” \((https?:\/\/[^\s)]+)\)/g, (m, title, url) => { if (linked.has(url) || m.includes("<a ")) return m; linked.add(url); return `“${extAnchor(lang, url, title)}”`; });
   s = s.replace(/(CC BY(?:-NC)?-SA 4\.0) \((https?:\/\/[^\s)]+)\)/g, (_, lic, url) => { linked.add(url); return extAnchor(lang, url, lic, "external license noopener"); });
   if (entry && entry.title && entry.url && !linked.has(esc(entry.url))) {
     const title = esc(entry.title);

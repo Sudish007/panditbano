@@ -23,6 +23,12 @@ import { mantrasIndexPage } from "./templates/pages/mantras-index.mjs";
 import { occasionPage, occasionPartPage } from "./templates/pages/occasion.mjs";
 import { pothiPage } from "./templates/pages/pothi.mjs";
 import { occasionsIndexPage } from "./templates/pages/occasions-index.mjs";
+import { textsIndexPage } from "./templates/pages/texts-index.mjs";
+import { textPage } from "./templates/pages/text.mjs";
+import { chapterPage } from "./templates/pages/chapter.mjs";
+import { kathasIndexPage } from "./templates/pages/kathas-index.mjs";
+import { kathaPage } from "./templates/pages/katha.mjs";
+import { kathaAdhyayaPage } from "./templates/pages/katha-adhyaya.mjs";
 import { embedOfflineManifests } from "./lib/offline.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
@@ -34,6 +40,10 @@ export const PAGE_MODULES = {
   occasion: ["translit", "voice", "checklist", "tracker"],
   "occasion-part": ["translit", "voice", "checklist", "tracker"],
   pothi: ["pothi"],
+  chapter: ["translit", "voice", "expand", "tracker"],
+  "chapter-part": ["translit", "voice", "expand", "tracker"],
+  katha: ["translit", "voice", "checklist", "tracker"],
+  "katha-adhyaya": ["translit", "voice"],
 };
 
 // ---------------------------------------------------------------- helpers
@@ -126,6 +136,8 @@ function stageRender(out, ctx, data, derived) {
   const pages = [];
   const occasionsById = new Map(data.occasions.map((o) => [o.id, o]));
   const occasionsBySlug = new Map(data.occasions.map((o) => [o.slug, o]));
+  const textsBySlug = new Map(data.texts.map((x) => [x.slug, x]));
+  const kathasBySlug = new Map(data.kathas.map((k) => [k.slug, k]));
   for (const lang of LANGS) {
     for (const route of R.routesFor(lang, data)) {
       if (route.file) continue;
@@ -145,7 +157,23 @@ function stageRender(out, ctx, data, derived) {
           break;
         }
         case "pothi": html = pothiPage(ctx, { route, occ: occasionsBySlug.get(route.params.slug), data, derived, occasionsById }); break;
-        default: break; // templates for the other page types arrive with FEAT-107…108
+        case "texts-index": html = textsIndexPage(ctx, { route, texts: data.texts, counts: derived.counts }); break;
+        case "text": html = textPage(ctx, { route, text: textsBySlug.get(route.params.textSlug), data, derived, occasionsById }); break;
+        case "chapter":
+        case "chapter-part": {
+          const text = textsBySlug.get(route.params.textSlug);
+          const chapter = text.chapters.find((c) => c.n === route.params.n);
+          html = chapterPage(ctx, { route, text, chapter, k: route.params.k || 1, data, derived, occasionsById });
+          break;
+        }
+        case "kathas-index": html = kathasIndexPage(ctx, { route, kathas: data.kathas }); break;
+        case "katha": html = kathaPage(ctx, { route, katha: kathasBySlug.get(route.params.slug), data, derived, occasionsById }); break;
+        case "katha-adhyaya": {
+          const katha = kathasBySlug.get(route.params.slug);
+          html = kathaAdhyayaPage(ctx, { route, katha, adhyaya: katha.adhyayas.find((a) => a.n === route.params.n), data, derived, occasionsById });
+          break;
+        }
+        default: break; // templates for the other page types arrive with FEAT-108
       }
       if (html === null) continue;
       const file = route.sitePath.endsWith("/") || route.sitePath === "" ? `${route.sitePath}index.html` : route.sitePath;

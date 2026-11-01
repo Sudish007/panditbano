@@ -311,5 +311,55 @@
     "punjab-haryana": "Punjab / Haryana",
     "delhi": "Delhi",
     "general": "General"
+  },
+  "texts": {
+    "title": "Mantras and texts",
+    "lede": "The ritual mantras and the long texts — Rudrashtadhyayi, the suktas, the Sanskrit originals of the kathas — chapter by chapter, every verse in Devanagari, Roman script and with its meaning. Every count is computed from the data.",
+    "heading": "Texts",
+    "mantras_body": "The mantras recited inside the procedures, grouped by source.",
+    "chapters": "Chapters",
+    "intro": "Introduction",
+    "vidhi_link": "Recitation procedure",
+    "used_in": "Where it is recited",
+    "all": "All texts",
+    "deity": "Deity",
+    "lang_awa": "Awadhi",
+    "lang_hi": "Hindi",
+    "lang_sa": "Sanskrit"
+  },
+  "chapter": {
+    "navigator": "Verse numbers",
+    "tools": "Chapter tools",
+    "part": "Page {k} of {n}",
+    "prev_chapter": "← Previous adhyaya",
+    "next_chapter": "Next adhyaya →",
+    "back_text": "About this text",
+    "verse_n": "{kind} {n}",
+    "source_card": "Source",
+    "pager_label": "Pages"
+  },
+  "kathas": {
+    "title": "Kathas",
+    "lede": "The Satyanarayan vrat katha and the other kathas heard at home — retold in the site's own words, with the Puranic source and the original verses; each with its puja procedure.",
+    "adhyayas": "{n} adhyayas"
+  },
+  "katha": {
+    "adhyayas": "Adhyayas of the katha",
+    "adhyaya_n": "Adhyaya {n}",
+    "of": "Adhyaya {i} of {n}",
+    "vidhi": "Procedure",
+    "vidhi_heading": "Puja procedure — {title}",
+    "vidhi_link": "Full occasion page →",
+    "text_link": "Original Sanskrit text",
+    "retelling": "{title} — in the site's own words",
+    "mula": "Original verses",
+    "prev": "← Previous adhyaya",
+    "next": "Next adhyaya →",
+    "back": "About the katha",
+    "reading_time": "Reading time ≈ {n} min",
+    "source_label": "Puranic source",
+    "deity": "Deity",
+    "read": "Read →",
+    "own_words": "This retelling is in the site's own words; the original verses are given alongside."
   }
 }
