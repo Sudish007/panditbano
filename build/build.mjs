@@ -150,10 +150,21 @@ function stageRender(out, ctx, data, derived) {
       if (html === null) continue;
       const file = route.sitePath.endsWith("/") || route.sitePath === "" ? `${route.sitePath}index.html` : route.sitePath;
       out.set(file, tidy(html.toString()));
-      pages.push({ pageType: route.pageType, lang: route.lang, file });
+      pages.push({ pageType: route.pageType, lang: route.lang, file, href: route.href });
     }
   }
   return pages;
+}
+
+/** One representative URL per pageType for tools/audit.py --pages all-types (FEAT-103): the DEFAULT_LANG page
+ *  (or the lang-less page) — the audit substitutes the language segment for --langs en,bho. */
+export function samplePages(pages, defaultLang = config.DEFAULT_LANG) {
+  const out = {};
+  for (const p of pages) {
+    const cur = out[p.pageType];
+    if (!cur || (p.lang === defaultLang && cur.lang !== defaultLang)) out[p.pageType] = p;
+  }
+  return Object.fromEntries(Object.entries(out).map(([k, p]) => [k, p.href]));
 }
 
 function stagePwa(out, ctx) {
@@ -221,6 +232,8 @@ export async function build() {
     siteOrigin: config.SITE_ORIGIN,
     pages: pages.length,
     pagesByType: pages.reduce((m, p) => ((m[p.pageType] = (m[p.pageType] || 0) + 1), m), {}),
+    samplePages: samplePages(pages),
+    pageList: pages.map((p) => ({ pageType: p.pageType, lang: p.lang, href: p.href })),
     files: out.size + 1,
     counts: derived.counts,
     gate: { ok: true, flags: gate.findings.length },

@@ -28,3 +28,30 @@ implementation deviations, which every build step appends to.
 - **FEAT-102 · English brand wordmark wraps to two lines at ≤ 390 px** ("Pandit / Bano") because the header row
   carries the language control and the theme button; no overflow or intersection (audit 0 violations). A later
   polish may shrink the brand on phones.
+- **FEAT-103 · dark `--hair-strong` nudged from `#875747` to `#93624F`.** The research hex measured 2.82:1
+  against the dark `--surface` (`#231B10`), so every `.btn` border inside a card failed UI-09 (non-text contrast
+  ≥ 3.0, WCAG 1.4.11). `#93624F` gives 3.32 on surface and 3.64 on paper; light tokens are unchanged
+  (`#98873F` is 3.05 on paper, 3.46 on surface — but only 2.85 on `--accent-tint`, so a bordered control placed on
+  a tinted background will fail UI-09; later FEATs must avoid that combination, e.g. `.rail nav .n` inside
+  `a[aria-current]`).
+- **FEAT-103 · `.head-row` wraps below 820 px.** Under the WCAG 1.4.12 text-spacing override (letter-spacing
+  0.12em, word-spacing 0.16em) the English header overflowed by 18 px at 320 (`.head-ctl` beyond the viewport);
+  with `flex-wrap: wrap` the controls drop to a second line only when they do not fit. No visible change at the
+  normal spacing (the 320 overflow sweep was already clean).
+- **FEAT-103 · group grid carries `data-grid="fixed"`.** Design §20 UI-17 fails a grid whose last row is more than
+  half empty when it has ≥ 8 items; §27.3 fixes the group grid at 3 columns at 1440, and 10 groups leave one card
+  in the last row. §27 wins, so the audit waives the last-row rule for grids marked `data-grid="fixed"` (column
+  count dictated by the design) as it does for `data-grid="list"`.
+- **FEAT-103 · audit N-A state.** `tools/audit.py` reports a third state besides PASS/FAIL: N-A when a check has
+  nothing to measure on that page/width (UI-04/16/17/18 below their widths, UI-26 on non-pothi pages, UI-22 outside
+  `_dev/fonts.html`, UI-19 until `content/sources.json#titles` and `content/institutions.json` exist, UI-33 without
+  `.verse-tools`). N-A never fails the run; the report counts it separately so a reviewer sees what was not measured.
+- **FEAT-103 · UI-32 lives in `tools/lighthouse.mjs`, not in `audit.py`;** the local server for Lighthouse and the
+  live-check is started inside the respective script (`--serve`), because PowerShell steps may not leave background
+  servers running and the port is not knowable in advance. Local Lighthouse numbers are informational: the local
+  server sends no gzip, so `uses-text-compression` fails and performance reads 92 (LCP 3.2 s under mobile
+  throttling, render delay 2.7 s — the 34.8 KB render-blocking stylesheet competes with the two preloaded faces,
+  192 KB of woff2). The ship step records the live numbers; if performance stays < 95 live, FEAT-110 / the 1b fixer
+  must revisit the preload strategy (design §6.2) or inline the token block.
+- **FEAT-103 · `_dev/fonts.html` reads `pb-theme`** (one inline line) so the audit can open it dark the same way as
+  every other page; the page is still not linked from the site.

@@ -68,6 +68,7 @@ html[lang="en"] .brand { font-family: var(--font-latin); font-weight: 600; }
 .nav-row { display: none; }
 .head-mobile-nav { border-top: 1px solid var(--hair); }
 @media (max-width: 819.98px) {
+  .head-row { flex-wrap: wrap; } /* WCAG 1.4.12 text spacing at 320: controls drop to a second line instead of overflowing (UI-27) */
   [data-theme-toggle] { width: var(--control-h); padding: 0; }
   [data-theme-toggle] .lbl { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); clip-path: inset(50%); white-space: nowrap; }
 }

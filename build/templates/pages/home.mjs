@@ -44,7 +44,7 @@ ${chips.length ? html`<div class="chips">${chips.map((c) => html`<a class="chip"
 </div></section>
 <section aria-labelledby="h-groups">
 <div class="section-head"><h2 id="h-groups">${t(lang, "home.groups_heading")}</h2><a href="${L("occasions/")}">${counts.occasions ? t(lang, "counts.occasions", { n: num(counts.occasions) }) + " →" : t(lang, "home.all_occasions")}</a></div>
-<div class="grid grid-md-2 grid-lg-3 grid-xl-4">${groupTiles}</div>
+<div class="grid grid-md-2 grid-lg-3 grid-xl-4" data-grid="fixed">${groupTiles}</div>
 </section>
 <section class="today" aria-labelledby="h-today">
 <div class="card">
