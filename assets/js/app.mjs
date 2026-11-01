@@ -72,6 +72,5 @@ guard("modules", () => {
   });
 });
 
-// ---- service worker: registered by FEAT-109 (sw.js at BASE_PATH, scope BASE_PATH) ----
-export function registerSW() { /* stub until FEAT-109 ships sw.js */ }
-guard("sw", registerSW);
+// ---- service worker: offline.mjs (listed in #pb-modules on every page type) registers sw.js at BASE_PATH with scope BASE_PATH,
+// binds the Save-offline buttons, fills the saved list and shows the update toast (design §13; FEAT-109) ----

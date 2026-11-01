@@ -1,14 +1,16 @@
 #!/usr/bin/env node
-// Pandit Bano static generator — skeleton with the stage order of design.md §11.1 and stage timers.
+// Pandit Bano static generator — the stage order of design.md §11.1 with stage timers.
 // Stages: 1 load · 2 gate (FEAT-104) · 3 derive · 4 render · 5 assets (content hash) · 6 search (FEAT-301) ·
-// 7 pwa (FEAT-109; minimal manifest here) · 8 seo files · 9 og (FEAT-109) · 10 report. Everything is collected in
-// memory and written to DIST at the end; on a gate FAIL only dist/_reports/gate.json is written (design-review NIT 14).
+// 7 pwa (build/pwa.mjs: manifests + sw.js) · 8 seo (build/seo.mjs: head metas + JSON-LD before the offline byte counts,
+// sitemap + robots after) · 9 og (build/og.mjs: sharp text + resvg geometry) · 10 budgets + report (build/report.mjs).
+// Everything is collected in memory and written to DIST at the end; on a gate FAIL only dist/_reports/gate.json is
+// written (design-review NIT 14); budget violations are fatal when CI=true (exit 4) and warnings locally.
 import { readFileSync, readdirSync, statSync, mkdirSync, writeFileSync, rmSync, existsSync } from "node:fs";
 import { join, dirname, relative, sep, basename, resolve } from "node:path";
 import { createHash } from "node:crypto";
 import { fileURLToPath } from "node:url";
 import config, { LANGS } from "./config.mjs";
-import { createRoutes, OCCASION_GROUPS } from "./lib/routes.mjs";
+import { createRoutes, OCCASION_GROUPS, ROUTES } from "./lib/routes.mjs";
 import { setUI, tidy } from "./templates/lib.mjs";
 import { loadContent, parseJsonFile } from "./lib/load.mjs";
 import { runGate, writeReport, formatFindings } from "./gate.mjs";
@@ -40,9 +42,16 @@ import { staticPage } from "./templates/pages/static.mjs";
 import { searchPage } from "./templates/pages/search.mjs";
 import { embedOfflineManifests } from "./lib/offline.mjs";
 import { nameIndex } from "./templates/components/names.mjs";
+import { stagePwa } from "./pwa.mjs";
+import { injectHeadMeta, stageSeoFiles } from "./seo.mjs";
+import { ogPlan, stageOg, loadOgCache } from "./og.mjs";
+import { measureBudgets, textCounts } from "./report.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const R = createRoutes(config);
+
+/** Loaded on EVERY page type (design §12/§13): SW registration, Save-offline buttons, saved list, update toast. */
+export const COMMON_MODULES = ["offline"];
 
 /** Page modules loaded per page type by app.mjs (hashed at build; design §12). Later FEATs add entries. */
 export const PAGE_MODULES = {
@@ -85,8 +94,8 @@ export function paperColours(tokensCss) {
 const hash12 = (buf) => createHash("sha256").update(buf).digest("hex").slice(0, 12);
 
 // ---------------------------------------------------------------- stages
-function stageLoad() {
-  const data = loadContent(config.CONTENT_DIR, { label: "content" });
+function stageLoad(contentDir = config.CONTENT_DIR) {
+  const data = loadContent(contentDir, { label: "content" });
   for (const l of LANGS) {
     if (!data.ui[l]) throw new Error(`content/ui/${l}.json missing`);
     setUI(l, data.ui[l]);
@@ -136,7 +145,11 @@ function stageAssets(out, hash) {
     out.set(`assets/js/${jsMap[name]}`, readFileSync(f));
   }
   const modules = {};
-  for (const [pageType, names] of Object.entries(PAGE_MODULES)) modules[pageType] = names.map((n) => `./${jsMap[n]}`);
+  for (const r of ROUTES) {
+    if (r.file) continue;
+    const names = [...(PAGE_MODULES[r.pageType] || []), ...COMMON_MODULES];
+    modules[r.pageType] = names.map((n) => { if (!jsMap[n]) throw new Error(`assets/js/${n}.mjs missing (page type ${r.pageType})`); return `./${jsMap[n]}`; });
+  }
   for (const f of walk(join(ROOT, "fonts")).filter((p) => p.endsWith(".woff2") || basename(p) === "OFL.txt")) {
     out.set(posix(relative(ROOT, f)), readFileSync(f));
   }
@@ -202,7 +215,7 @@ function stageRender(out, ctx, data, derived) {
       if (html === null) continue;
       const file = route.sitePath.endsWith("/") || route.sitePath === "" ? `${route.sitePath}index.html` : route.sitePath;
       out.set(file, tidy(html.toString()));
-      pages.push({ pageType: route.pageType, lang: route.lang, file, href: route.href });
+      pages.push({ pageType: route.pageType, lang: route.lang, file, href: route.href, precache: route.precache, route });
     }
   }
   return pages;
@@ -219,86 +232,85 @@ export function samplePages(pages, defaultLang = config.DEFAULT_LANG) {
   return Object.fromEntries(Object.entries(out).map(([k, p]) => [k, p.href]));
 }
 
-function stagePwa(out, ctx) {
-  // Minimal per-language manifest so no page links a missing file; FEAT-109 completes it (icons purpose, sw.js).
-  for (const lang of LANGS) {
-    const ui = ctx.ui[lang];
-    const manifest = {
-      name: ui.site.name,
-      short_name: ui.site.name,
-      description: ui.site.description,
-      lang,
-      dir: "ltr",
-      start_url: "./",
-      scope: "../",
-      display: "standalone",
-      background_color: ctx.themeColors.light,
-      theme_color: ctx.themeColors.light,
-      icons: [
-        { src: "../assets/icons/icon-192.png", sizes: "192x192", type: "image/png" },
-        { src: "../assets/icons/icon-512.png", sizes: "512x512", type: "image/png" },
-        { src: "../assets/icons/icon-maskable-512.png", sizes: "512x512", type: "image/png", purpose: "maskable" },
-      ],
-    };
-    out.set(`${lang}/manifest.webmanifest`, JSON.stringify(manifest, null, 2) + "\n");
-  }
-}
-
-function writeAll(out) {
-  rmSync(config.DIST, { recursive: true, force: true });
+function writeAll(out, dist) {
+  rmSync(dist, { recursive: true, force: true });
   for (const [rel, body] of out) {
-    const file = join(config.DIST, rel);
+    const file = join(dist, rel);
     mkdirSync(dirname(file), { recursive: true });
     writeFileSync(file, body);
   }
 }
 
 // ---------------------------------------------------------------- main
-export async function build() {
+/**
+ * Run the build. `overrides` (tests): { CONTENT_DIR, DIST, CI, quiet } — BASE_PATH / SITE_ORIGIN stay those of config
+ * (the route table is bound to them at import). Resolves to the build report; exits 3 on a gate FAIL and 4 on a budget
+ * violation when CI is true (design §11.1 stage 10, §19).
+ */
+export async function build(overrides = {}) {
+  const cfg = { ...config, ...overrides };
+  const log = cfg.quiet ? () => {} : console.log;
   const t0 = performance.now();
   const timings = {};
   const timed = (name, fn) => { const s = performance.now(); const r = fn(); timings[name] = Math.round(performance.now() - s); return r; };
+  const timedAsync = async (name, fn) => { const s = performance.now(); const r = await fn(); timings[name] = Math.round(performance.now() - s); return r; };
 
-  const data = timed("load", stageLoad);
+  const data = timed("load", () => stageLoad(cfg.CONTENT_DIR));
   const gate = timed("gate", () => stageGate(data));
-  writeReport(gate, config.DIST); // always written (design-review NIT 14); the previous dist/ is otherwise untouched on FAIL
+  writeReport(gate, cfg.DIST); // always written (design-review NIT 14); the previous dist/ is otherwise untouched on FAIL
   if (!gate.ok) {
     console.error(formatFindings(gate.findings.filter((f) => f.level === "FAIL")));
     console.error(`gate FAIL: ${gate.counts.FAIL} FAIL, ${gate.counts.FLAG} FLAG — only dist/_reports/gate.json was written`);
     process.exit(3);
   }
-  if (gate.counts.FLAG) console.log(`gate: 0 FAIL, ${gate.counts.FLAG} FLAG (dist/_reports/gate.json)`);
+  if (gate.counts.FLAG) log(`gate: 0 FAIL, ${gate.counts.FLAG} FLAG (dist/_reports/gate.json)`);
   const derived = timed("derive", () => stageDerive(data));
   const hash = timed("hash", computeHash);
   const out = new Map();
   const assets = timed("assets", () => stageAssets(out, hash));
-  const ctx = { R, ui: data.ui, features: config.features, hash, assets: { css: assets.css, js: assets.js }, modules: assets.modules, themeColors: assets.themeColors, names: nameIndex(data.sources, data.institutions) };
+  const ctx = { R, ui: data.ui, features: cfg.features, hash, assets: { css: assets.css, js: assets.js }, modules: assets.modules, themeColors: assets.themeColors, names: nameIndex(data.sources, data.institutions) };
   const pages = timed("render", () => stageRender(out, ctx, data, derived));
+  // stage 8a — head metas (og:image, twitter:card, JSON-LD) BEFORE the offline byte counts are fixed (design §17; MEDIUM 3 og plan)
+  const plan = ogPlan(pages, { ctx, out });
+  const headMeta = timed("seo-head", () => injectHeadMeta(out, { pages, R, ctx, data, derived, ogFor: (p) => plan.forPage.get(p.file) || null }));
   // MEDIUM 5: #pb-offline-urls {id, hash, bytes, urls} on occasion / part / pothi pages, bytes from the rendered output
   const offline = timed("offline", () => embedOfflineManifests(out, { R, ctx, occasions: data.occasions }));
   if (offline.missing.length) throw new Error(`offline manifest: ${offline.missing.length} URL(s) have no dist file — ${offline.missing.slice(0, 3).join("; ")}`);
-  timed("search", () => null);
-  timed("pwa", () => stagePwa(out, ctx));
-  timed("seo", () => null); // robots.txt + sitemap.xml: FEAT-109 (root redirect and 404 are rendered as routes)
-  timed("og", () => null);
+  timed("search", () => null); // stage 6: FEAT-301 (features.search)
+  const pwa = timed("pwa", () => stagePwa(out, ctx, { pages }));
+  const seo = timed("seo", () => stageSeoFiles(out, { pages, R }));
+  const og = await timedAsync("og", () => stageOg(out, plan, { cache: loadOgCache(cfg.DIST) }));
+  const { budgets, ok: budgetsOk } = measureBudgets(out, { pages, ctx, og, precache: pwa.precache });
   const report = {
     hash,
-    basePath: config.BASE_PATH,
-    siteOrigin: config.SITE_ORIGIN,
+    basePath: cfg.BASE_PATH,
+    siteOrigin: cfg.SITE_ORIGIN,
     pages: pages.length,
     pagesByType: pages.reduce((m, p) => ((m[p.pageType] = (m[p.pageType] || 0) + 1), m), {}),
     samplePages: samplePages(pages),
     pageList: pages.map((p) => ({ pageType: p.pageType, lang: p.lang, href: p.href })),
     files: out.size + 1,
     counts: derived.counts,
+    text: textCounts(derived),
     offlineManifests: offline.embedded,
+    headMeta,
+    pwa,
+    seo,
+    og,
+    budgets,
     gate: { ok: true, flags: gate.counts.FLAG },
     timings,
     totalMs: Math.round(performance.now() - t0),
   };
   out.set("_reports/build.json", JSON.stringify(report, null, 2) + "\n");
-  timed("write", () => { writeAll(out); writeReport(gate, config.DIST); });
-  console.log(`build ${hash}: ${pages.length} pages, ${out.size} files → ${posix(relative(ROOT, config.DIST))} (${report.totalMs} ms; ${Object.entries(timings).map(([k, v]) => `${k} ${v}`).join(", ")})`);
+  timed("write", () => { writeAll(out, cfg.DIST); writeReport(gate, cfg.DIST); });
+  log(`build ${hash}: ${pages.length} pages, ${out.size} files → ${posix(relative(ROOT, cfg.DIST))} (${report.totalMs} ms; ${Object.entries(timings).map(([k, v]) => `${k} ${v}`).join(", ")})`);
+  log(`og: ${og.images} images (${og.own} own, ${og.defaults} defaults, ${og.cached} cached, ${og.failed} failed) ${(og.bytes / 1024 / 1024).toFixed(1)} MB in ${og.seconds} s; precache ${pwa.precache.count} URLs ${(pwa.precache.bytes / 1024).toFixed(0)} KB; sitemap ${seo.urls} URLs`);
+  for (const w of budgets.warnings) log(`budget warning: ${w}`);
+  if (!budgetsOk) {
+    for (const v of budgets.violations) console.error(`budget violation: ${v}`);
+    if (cfg.CI) { console.error(`${budgets.violations.length} budget violation(s) — fatal in CI (dist/_reports/build.json)`); process.exit(4); }
+  }
   return report;
 }
 

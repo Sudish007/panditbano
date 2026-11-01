@@ -211,3 +211,57 @@ implementation deviations, which every build step appends to.
 - **FEAT-108 · reference pages use `.prose-wide`** (paragraphs at the reading measure, GFM tables at full column width inside
   `.table-wrap`); `{{mantra:}}` / `{{sutra:}}` embeds work in lesson, reference and static Markdown (an unresolved id fails the build).
 - **FEAT-108 · `tools/audit.py` shots scroll to the top first** — the UI-25 focus walk left every 390-light shot at the page footer.
+- **FEAT-109 · three installable apps.** Each language has its own `/{lang}/manifest.webmanifest` without `id`, so a
+  browser treats `/hi/`, `/en/` and `/bho/` as three installable apps (the `id` defaults to `start_url`). `short_name` is the
+  language's display name (पंडित बनो / Pandit Bano / पंडित बनीं), so the three home-screen icons read differently (design
+  §13.1; design-review NIT 17). One root manifest with `start_url: ./hi/` was the alternative; three was chosen so an
+  English or Bhojpuri reader's installed app opens in their language.
+- **FEAT-109 · precache class of `static` pages and `/search/` is `runtime`**, not `static` as the FEAT-102 route table had
+  them: the Sources page is 91 KB of HTML and would have pushed the shell precache past 1 MB for a page nobody needs offline
+  first. The static shell is: root redirect, 404, the three offline pages, the three home pages, the seven section indexes
+  (learn, occasions, mantras, texts, kathas, glossary, reference), the manifests, hashed CSS/JS, fonts, icons — 53 URLs,
+  925 KB on the fixture corpus (budget 2 MB). Reference pages (`og: "own"`) and the search page keep their own OG image.
+- **FEAT-109 · OG text layers use the TTF's full family name** (`"Noto Sans Devanagari SemiBold 56"`, not
+  `"Noto Sans Devanagari 600 56"` as design §11.7 wrote): Pango matches the description against the static file's
+  name-table family (nameID 1 = "Noto Sans Devanagari SemiBold", style "Regular"), and the weight form silently fell back to
+  a system face (measured: its metrics equalled a nonexistent family's). `build/og.mjs#fontProbe()` renders a probe in the
+  real and in a bogus family and records `og.fontMatched` in `build.json`; `false` is a budget violation (fatal in CI), so
+  the Linux runner cannot ship tofu/mis-shaped Devanagari unnoticed (design-review MEDIUM 2).
+- **FEAT-109 · OG PNG encoding**: palette PNG with `compressionLevel 4, effort 3, dither 0` (≈ 9–14 KB each, 11–17 ms per image
+  in batches of 16) instead of `compressionLevel 9` (31 ms); text layers are composited as raw RGBA, not re-encoded PNGs. The
+  site-name and language-chip layers are rendered once per language per process. ≈ 2,000 own images stay well under the
+  45-s stage budget; a local rebuild re-uses `dist/og/manifest.json` (key = title + lang + site + template/font hash).
+- **FEAT-109 · head metas before offline bytes.** `og:image*`, `twitter:card` and the JSON-LD block are injected into the
+  rendered HTML (stage 8a) BEFORE the `#pb-offline-urls` byte counts are fixed, so `bytes` stays exact; sitemap/robots are
+  written afterwards. The injector reads title/description/crumbs back from the page `<head>`/`.crumbs`, so templates stay
+  the single source and no page type needs a second metadata path.
+- **FEAT-109 · JSON-LD scope**: `WebSite` on home (no `SearchAction` while `features.search` is false — MEDIUM 6);
+  `BreadcrumbList` on every page with crumbs; `HowTo` + `HowToStep` (the step's action text, no `name`) on occasion and
+  occasion-part pages (a part lists only its own steps); `Article` on lesson / katha / katha-adhyaya / reference-page /
+  static; `DefinedTerm` (+ `DefinedTermSet` = the glossary index) on term pages; nothing on offline / 404 / pothi. Index,
+  mantra, text and chapter pages carry only the breadcrumb list (schema.org has no honest type for a verse list; `Article`
+  on a scripture chapter would misdescribe it).
+- **FEAT-109 · client UI strings travel in `#pb-ui`** (one JSON script per page, ≈ 600 B, the 12 keys `offline.*`,
+  `pothi.save|saved`) because offline.mjs runs on every page type and has no template of its own. Two UI keys were added
+  in all three languages: `offline.evicted` ("सबसे पुराना सहेजा गया अवसर हटाया गया: {title}") and `offline.close` ("बंद करें").
+- **FEAT-109 · offline.mjs owns the Save-offline buttons** (FEAT-106 wrote that pothi.mjs delegates the click): it is in
+  `COMMON_MODULES`, loaded on EVERY page type, registers the worker, un-hides and binds `[data-save-offline]`, restores
+  `aria-pressed` from `pb-saved` on load, fills `[data-saved-list]` and shows the toasts. pothi.mjs no longer touches the button.
+- **FEAT-109 · the update reload happens only after the user asked.** `controllerchange` also fires on the FIRST install
+  (`clients.claim()`), so reloading on every `controllerchange` reloaded each first visit once; the page now reloads only
+  after its own "पुनः लोड करें" click posted `SKIP_WAITING`. The update toast is shown once per session (`sessionStorage`).
+- **FEAT-109 · saved-set manifests live in `pb-saved` under `BASE_PATH/_saved/<id>.json`** (synthetic cache keys, never
+  fetched), carrying `{id, hash, bytes, urls, title, url, lang, savedAt}`; `UNSAVE` and eviction delete only URLs no other
+  set still references (two saved occasions share the CSS/JS/fonts). The Home / offline lists read the manifests straight
+  from the Cache API (no SW round trip), so they work before the worker controls the page.
+- **FEAT-109 · per-module JS caps of design §12 are warnings, not violations.** Eight modules exceed their unminified caps
+  (offline 7.2 KB > 4, voice 9.1 > 6, quiz 3.9 > 3, checklist 2.7 > 2, tracker 2.5 > 2, translit 2.4 > 2, sankalpa 2.6 > 2,
+  expand 1.5 > 1), mostly comments; the per-page 150 KB budget, which is the brief's rule, is what fails the CI build.
+  `build.json#budgets.modules` records every size; FEAT-110 / the 1a fixer decide whether to minify or re-cap.
+- **FEAT-109 · the Sources page exceeds the 150 KB page budget on the fixture corpus** (hi 152.9 KB, bho 152.8 KB; 91 KB of
+  HTML for 84 registry rows, each with two external links and their marker SVGs + sr text, + 52 KB CSS + 11 KB JS). The
+  build reports it as a budget violation (warning locally, exit 4 in CI); it is NOT fixed here because the fix is a template
+  decision (collapse the registry per project into `<details>`, or drop the per-row licence marker) that belongs to
+  FEAT-108's page — recorded for FEAT-110 / the 1a fixer as a mandatory item. The real corpus will carry more rows.
+- **FEAT-109 · `build()` takes overrides** (`{CONTENT_DIR, DIST, CI, quiet}`) so the FEAT-109 unit tests build the fixture
+  corpus into a temp dist in-process (one build per test file); CLI flags (`--content`, `--dist`, `--ci`) are unchanged.

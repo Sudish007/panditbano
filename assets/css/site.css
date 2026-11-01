@@ -368,6 +368,11 @@ details.faq .prose { padding-bottom: 14px; }
 .today .btns { display: flex; flex-wrap: wrap; gap: 10px; }
 @media (min-width: 1024px) { .today { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); } }
 .saved-list[hidden] { display: none; }
+.saved-list li { justify-content: space-between; }
+.saved-list li a { flex: 1 1 auto; min-width: 0; }
+.saved-list li .btn { flex: none; }
+.floating .btn { min-height: 40px; }
+.floating .btn-ghost { padding-inline: 10px; font-size: var(--fs-body); }
 
 /* learn / quiz */
 .quiz fieldset { border: 1px solid var(--hair); border-radius: var(--radius); padding: clamp(14px, 1.4vw, 24px); margin: 0 0 var(--gap); background: var(--surface); }

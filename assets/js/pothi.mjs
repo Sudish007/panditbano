@@ -1,6 +1,6 @@
 // pothi.mjs (design.md §9.3, §12, §15; FEAT-106): A−/A+ scale the pothi text 80–160 % in steps of 10 (localStorage
-// pb-font-pct, shown live in the <output>), Print calls window.print(), Back is a plain link, and the Save-offline button
-// delegates to offline.mjs (FEAT-109) when it has registered window.pb.offline — until then the button stays hidden.
+// pb-font-pct, shown live in the <output>), Print calls window.print(), Back is a plain link. The Save-offline button is
+// owned by offline.mjs (FEAT-109, loaded on every page): it un-hides and binds [data-save-offline] once the SW is registered.
 const MIN = 80, MAX = 160, STEP = 10;
 const mem = {};
 const get = (k) => { try { return localStorage.getItem(k); } catch (e) { return k in mem ? mem[k] : null; } };
@@ -25,9 +25,5 @@ export function init() {
       set("pb-font-pct", String(pct));
     }));
     document.querySelectorAll("[data-print]").forEach((b) => b.addEventListener("click", () => window.print()));
-    const offline = window.pb && window.pb.offline;
-    document.querySelectorAll("[data-save-offline]").forEach((b) => {
-      if (offline && typeof offline.save === "function") { b.removeAttribute("hidden"); b.addEventListener("click", () => offline.save(b)); }
-    });
   } catch (e) { console.warn("pb:pothi", e); }
 }

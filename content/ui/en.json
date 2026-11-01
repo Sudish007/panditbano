@@ -82,7 +82,9 @@
     "reload": "Reload",
     "offline_title": "You are offline",
     "offline_body": "This page is not saved in this browser. Open it again when the connection returns, or pick one of the occasions saved below.",
-    "progress": "{n} / {total}"
+    "progress": "{n} / {total}",
+    "evicted": "The oldest saved occasion was removed: {title}",
+    "close": "Close"
   },
   "storage": {
     "note": "stored in this browser only"

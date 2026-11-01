@@ -114,9 +114,18 @@ export function footer(ctx, { lang, route }) {
 </footer>`;
 }
 
-function modulesJson(ctx, pageType) {
+/** UI strings the client modules need at runtime (offline.mjs toasts, saved list — design §12/§13; FEAT-109). */
+export const CLIENT_UI_KEYS = ["offline.saved_list", "offline.remove", "offline.quota", "offline.failed", "offline.retry", "offline.update", "offline.reload", "offline.progress", "offline.evicted", "offline.close", "pothi.saved", "pothi.save"];
+export function clientUi(lang) {
+  const o = {};
+  for (const k of CLIENT_UI_KEYS) o[k] = t(lang, k);
+  return o;
+}
+
+function modulesJson(ctx, pageType, lang) {
   const list = ctx.modules?.[pageType] || [];
-  return html`<script type="application/json" id="pb-modules">${raw(JSON.stringify(list))}</script>`;
+  return html`<script type="application/json" id="pb-ui">${raw(JSON.stringify(clientUi(lang)).replace(/</g, "\\u003c"))}</script>
+<script type="application/json" id="pb-modules">${raw(JSON.stringify(list))}</script>`;
 }
 
 /**
@@ -143,7 +152,7 @@ ${page.body}
 </main>
 ${footer(ctx, { lang, route })}
 ${page.bodyEnd || ""}
-${modulesJson(ctx, route.pageType)}
+${modulesJson(ctx, route.pageType, lang)}
 <script type="module" src="${ctx.R.href(ctx.assets.js)}"></script>
 </body>
 </html>
@@ -162,7 +171,7 @@ ${headExtra || ""}
 ${sprite ? uiSprite() : ""}
 ${body}
 ${bodyEnd || ""}
-${modulesJson(ctx, pageType)}
+${modulesJson(ctx, pageType, lang)}
 <script type="module" src="${ctx.R.href(ctx.assets.js)}"></script>
 </body>
 </html>
