@@ -114,7 +114,7 @@ a.chip:hover { border-color: var(--accent); }
 .chip-paddhati { color: var(--accent-2); border-color: var(--accent-2); }
 .chip-lok { color: var(--ink-2); border-color: var(--hair-strong); }
 .chip-good { color: var(--good); border-color: var(--good); }
-.chip-haldi { background: var(--haldi); color: var(--on-haldi); border-color: var(--haldi); }
+.chip-haldi { background: var(--haldi); color: var(--on-haldi); border-color: var(--hair-strong); } /* hair-strong edge: haldi on surface is 1.6:1, below UI-09's 3:1 */
 .chips { display: flex; flex-wrap: wrap; gap: 8px; }
 
 /* cards */
@@ -255,22 +255,66 @@ html[lang="en"] .step-no { font-family: var(--font-latin); }
   .step.two .step-head { grid-column: 1 / -1; margin-bottom: 0; }
   .step.two .verse { margin-top: 0; }
 }
+.step-head h3 { flex: 1 1 auto; min-width: 0; }
+.step-body > :last-child { margin-bottom: 0; }
+.step-body .action { margin-bottom: 0; }
+.step-body .says, .step-body .note, .step-body .text-ref, .step-body .step-samagri { margin-top: 12px; }
+.step-body .note, .step-body .step-samagri { margin-bottom: 0; }
+.step-verses > .verse:first-child { margin-top: 14px; }
+.step-verses .card, .step-verses .prose, .step-verses .src { margin-top: 12px; }
+.step-verses h4 { margin-top: 0; }
+/* important step (design §4.3 / FEAT-106): haldi fill on the number chip + a haldi rule; the "मुख्य चरण" chip says it in words */
+.step.important { border-left: 4px solid var(--haldi); }
+.step.important .step-no { background: var(--haldi); color: var(--on-haldi); }
+.says .sa { font-family: var(--font-mantra); font-size: calc(var(--fs-body) * 1.15); line-height: 1.9; margin: 0 0 6px; }
+.text-ref { margin: 0; }
+.layers { align-items: center; margin: 0 0 var(--gap); }
+.layers .meta { margin-inline-end: 4px; }
+.steps { margin-top: 0; }
+@media (min-width: 1920px) { .step.two .step-verses > .verse:first-child { margin-top: 0; } }
+/* when + roles side by side from 820 px (not a .grid: a fixed pair, so UI-17's ≥ 3-column rule does not apply) */
+.pair { display: grid; gap: var(--gap); grid-template-columns: minmax(0, 1fr); align-items: start; }
+@media (min-width: 820px) { .pair { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.when .btns { display: flex; flex-wrap: wrap; gap: 10px; }
+.when .prose { margin-bottom: 10px; }
+/* parts list (multi-part base route) and part cards */
+ol.grid, ul.grid { list-style: none; padding: 0; margin: 0; }
+ol.grid > li, ul.grid > li { margin: 0; display: grid; }
+.part-card, .occ-card { display: grid; gap: 8px; align-content: start; }
+.part-card .chip, .occ-card .chip { justify-self: start; }
+.part-card .more { margin-top: 4px; }
+.variant { display: grid; gap: 8px; align-content: start; }
+/* tracker rail: parts → steps */
+.rail nav ol.parts > li.part { margin: 0 0 6px; }
+.rail nav ol.parts > li.part > a.part-t { font-weight: 600; }
+.rail nav ol.parts > li.part > ol { padding-inline-start: 14px; border-inline-start: 2px solid var(--hair); margin-inline-start: 13px; }
+.rail nav li a .t .meta { font-weight: 400; }
+.rail nav li a[aria-current="page"] .n { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.rail nav li a[aria-current="true"] { outline: 1px solid var(--accent); outline-offset: -1px; }
+.sections a[aria-current="location"] { background: var(--accent-tint); border-color: var(--hair-strong); }
 .compact-steps { list-style: none; padding: 0; margin: 0; display: grid; gap: 6px; grid-template-columns: 1fr; }
 .compact-steps li { display: flex; align-items: center; gap: 10px; min-height: 40px; padding: 4px 10px; border-radius: var(--radius-s); background: var(--surface); border: 1px solid var(--hair); font-size: var(--fs-meta); }
 .compact-steps .n { flex: none; width: 28px; height: 28px; display: inline-grid; place-items: center; border-radius: 50%; border: 1px solid var(--hair-strong); font-size: var(--fs-small); color: var(--ink-2); }
 @media (min-width: 820px) { .compact-steps { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 @media (min-width: 1920px) { .compact-steps { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
 
-/* checklist */
+/* checklist (design §4.3, §12): 24-px box in a ≥ 44-px row; ticked rows struck through with a --good check glyph, never colour alone */
 .check { list-style: none; padding: 0; margin: 0; }
-.check li { display: flex; align-items: center; gap: 12px; min-height: var(--control-h); border-bottom: 1px solid var(--hair); margin: 0; }
+.check li { display: flex; align-items: flex-start; gap: 12px; min-height: var(--control-h); border-bottom: 1px solid var(--hair); margin: 0; }
 .check li:last-child { border-bottom: 0; }
-.check input { width: 24px; height: 24px; margin: 0; accent-color: var(--good); flex: none; }
-.check label { flex: 1 1 auto; cursor: pointer; display: flex; justify-content: space-between; gap: 10px; align-items: center; min-height: var(--control-h); }
-.check .qty { color: var(--ink-2); font-size: var(--fs-meta); white-space: nowrap; }
-.check input:checked + label { color: var(--ink-2); }
-.check input:checked + label .name { text-decoration: line-through; text-decoration-color: var(--good); }
-.check input:checked + label .qty::after { content: " ✓"; color: var(--good); }
+.check input { width: 24px; height: 24px; margin: 10px 0 0; accent-color: var(--good); flex: none; }
+.check .item { flex: 1 1 auto; min-width: 0; }
+.check label { cursor: pointer; display: flex; justify-content: space-between; gap: 10px; align-items: center; min-height: var(--control-h); }
+.check .name { min-width: 0; }
+.check .name .chip { min-height: 22px; font-size: var(--fs-small); padding: 0 6px; vertical-align: middle; }
+.check .qty { color: var(--ink-2); font-size: var(--fs-meta); white-space: nowrap; flex: none; }
+.check .item p { margin: 0 0 8px; color: var(--ink-2); }
+.check input:checked + .item label { color: var(--ink-2); }
+.check input:checked + .item .name { text-decoration: line-through; text-decoration-color: var(--good); }
+.check input:checked + .item .qty::after { content: " ✓"; color: var(--good); }
+.samagri .storage-note { margin: 12px 0 0; color: var(--ink-2); }
+.samagri .toolbar { margin-top: 12px; }
+details.rail-fold.samagri summary .rail-h { flex: 1 1 auto; }
 
 /* roles table */
 .roles { display: grid; gap: 10px; margin: 0; }
@@ -294,7 +338,8 @@ details.faq .prose { padding-bottom: 14px; }
 
 /* sources */
 .sources { padding-inline-start: 1.3em; }
-.sources li { margin: 0.6em 0; font-size: var(--fs-meta); }
+.sources li { margin: 0.6em 0; font-size: var(--fs-meta); overflow-wrap: anywhere; } /* long archive item ids / URLs must wrap at 320–390 (UI-01, UI-27) */
+.src { overflow-wrap: anywhere; }
 
 /* ---------- home (design §4.2, §27 items 2–3) ---------- */
 .hero { display: grid; gap: var(--gap); align-items: stretch; padding-block: var(--gap); }
@@ -368,11 +413,23 @@ details.meaning .prose { padding-top: 8px; }
 .pothi-steps { display: grid; gap: var(--gap); margin-top: var(--gap); }
 @media (min-width: 1440px) { .pothi-steps { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 .pothi-step { background: var(--surface); border: 1px solid var(--hair); border-radius: var(--radius); padding: clamp(20px, 2vw, 40px); break-inside: avoid; }
-.pothi-step .no { font-family: var(--font-display); font-weight: var(--display-weight); color: var(--accent); font-size: calc(var(--fs-body) * 1.3); }
-.pothi-step h2 { margin: 0 0 0.3em; font-size: calc(var(--fs-body) * 1.6); }
-.pothi-step .act { font-size: calc(var(--fs-body) * 1.1); }
-.pothi-step .mantra { font-size: var(--fs-pothi); line-height: 2; margin: 16px 0; }
-.pothi-step .says { font-size: calc(var(--fs-body) * 1.05); }
+.pothi-step .no { font-family: var(--font-display); font-weight: var(--display-weight); color: var(--accent); font-size: calc(var(--fs-body) * 1.1 * var(--pothi-scale, 1)); margin: 0 0 6px; }
+html[lang="en"] .pothi-step .no { font-family: var(--font-latin); }
+.pothi-step h2 { margin: 0 0 0.3em; font-size: calc(var(--fs-body) * 1.6 * var(--pothi-scale, 1)); }
+.pothi-step .act { font-size: calc(var(--fs-body) * 1.1 * var(--pothi-scale, 1)); margin: 0 0 0.6em; }
+.pothi-step .verse { border: 0; background: transparent; border-radius: 0; padding: 0; margin: 16px 0; } /* keeps --measure: UI-05 ≤ 80ch at 2560 */
+.pothi-step .mantra { font-size: calc(var(--fs-pothi) * var(--pothi-scale, 1)); line-height: 2; margin: 0; }
+.pothi-step .iast { font-size: calc(var(--fs-body) * 1.1 * var(--pothi-scale, 1)); }
+.pothi-step .roman-easy { font-size: calc(var(--fs-body) * var(--pothi-scale, 1)); }
+.pothi-step .says { font-size: calc(var(--fs-body) * 1.05 * var(--pothi-scale, 1)); margin-top: 12px; }
+.pothi-step .says .sa { font-size: calc(var(--fs-body) * 1.2 * var(--pothi-scale, 1)); }
+.pothi-step .text-ref { margin: 12px 0 0; }
+body.pothi main { padding-bottom: calc(var(--gap) * 2); }
+.pothi-bar .stepper button[disabled] { color: var(--ink-2); cursor: default; }
+/* occasions index */
+.occ-group .section-head h2 { display: flex; align-items: center; gap: 10px; }
+.occ-group .section-head .ico { color: var(--accent); flex: none; }
+.occ-group + .occ-group { margin-top: var(--gap); }
 .floating { position: fixed; left: 50%; bottom: 20px; transform: translateX(-50%); background: var(--surface); color: var(--ink); border: 1px solid var(--hair); border-radius: var(--radius); padding: 12px 18px; box-shadow: var(--shadow); display: flex; align-items: center; gap: 12px; z-index: 30; max-width: calc(100vw - 32px); font-size: var(--fs-meta); }
 .floating .ok { color: var(--good); width: 22px; height: 22px; }
 .print-only { display: none; }
@@ -404,12 +461,13 @@ details.meaning .prose { padding-top: 8px; }
 
 /* ---------- print (design §15; print tokens in tokens.css) ---------- */
 @media print {
-  .site-head, .site-foot, .rail, .pothi-bar, .floating, .skip, .band, .head-mobile-nav, .sections, .actions, .verse-tools { display: none !important; }
+  .site-head, .site-foot, .rail, .pothi-bar, .floating, .skip, .band, .head-mobile-nav, .sections, .actions, .verse-tools, .pager, [data-print], .step-samagri { display: none !important; }
   .layout { display: block; }
   .page { padding-block: 0; }
   .pothi-step { break-after: page; border: 0; }
+  .pothi-steps { display: block; }
   .step, .verse, .card { break-inside: avoid; }
-  .pothi-step .mantra { font-size: max(var(--fs-pothi), 18.67px); }
+  .pothi-step .mantra { font-size: max(calc(var(--fs-pothi) * var(--pothi-scale, 1)), 18.67px); }
   .verse, .step, .card { background: var(--surface); border-color: var(--hair); }
   a[rel~="external"]::after { content: " (" attr(href) ")"; font-size: var(--fs-small); color: var(--ink-2); }
   .print-only { display: block; font-size: var(--fs-small); color: var(--ink-2); margin-top: var(--gap); }

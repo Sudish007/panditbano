@@ -20,12 +20,21 @@ import { offlinePage } from "./templates/pages/offline.mjs";
 import { rootRedirectPage } from "./templates/pages/root-redirect.mjs";
 import { mantraPage } from "./templates/pages/mantra.mjs";
 import { mantrasIndexPage } from "./templates/pages/mantras-index.mjs";
+import { occasionPage, occasionPartPage } from "./templates/pages/occasion.mjs";
+import { pothiPage } from "./templates/pages/pothi.mjs";
+import { occasionsIndexPage } from "./templates/pages/occasions-index.mjs";
+import { embedOfflineManifests } from "./lib/offline.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const R = createRoutes(config);
 
 /** Page modules loaded per page type by app.mjs (hashed at build; design §12). Later FEATs add entries. */
-export const PAGE_MODULES = { mantra: ["translit", "voice"] };
+export const PAGE_MODULES = {
+  mantra: ["translit", "voice"],
+  occasion: ["translit", "voice", "checklist", "tracker"],
+  "occasion-part": ["translit", "voice", "checklist", "tracker"],
+  pothi: ["pothi"],
+};
 
 // ---------------------------------------------------------------- helpers
 function walk(dir, out = []) {
@@ -116,6 +125,7 @@ function stageAssets(out, hash) {
 function stageRender(out, ctx, data, derived) {
   const pages = [];
   const occasionsById = new Map(data.occasions.map((o) => [o.id, o]));
+  const occasionsBySlug = new Map(data.occasions.map((o) => [o.slug, o]));
   for (const lang of LANGS) {
     for (const route of R.routesFor(lang, data)) {
       if (route.file) continue;
@@ -127,7 +137,15 @@ function stageRender(out, ctx, data, derived) {
         case "offline": html = offlinePage(ctx, { route }); break;
         case "mantras-index": html = mantrasIndexPage(ctx, { route, mantras: data.mantras }); break;
         case "mantra": html = mantraPage(ctx, { route, rec: derived.mantraById.get(route.params.mantraId), mantras: data.mantras, derived, occasionsById, sources: data.sources }); break;
-        default: break; // templates for the other page types arrive with FEAT-106…108
+        case "occasions-index": html = occasionsIndexPage(ctx, { route, occasions: data.occasions, counts: derived.counts }); break;
+        case "occasion": html = occasionPage(ctx, { route, occ: occasionsBySlug.get(route.params.slug), data, derived, occasionsById }); break;
+        case "occasion-part": {
+          const occ = occasionsBySlug.get(route.params.slug);
+          html = occasionPartPage(ctx, { route, occ, part: occ.parts.find((p) => p.slug === route.params.part), data, derived, occasionsById });
+          break;
+        }
+        case "pothi": html = pothiPage(ctx, { route, occ: occasionsBySlug.get(route.params.slug), data, derived, occasionsById }); break;
+        default: break; // templates for the other page types arrive with FEAT-107…108
       }
       if (html === null) continue;
       const file = route.sitePath.endsWith("/") || route.sitePath === "" ? `${route.sitePath}index.html` : route.sitePath;
@@ -204,6 +222,9 @@ export async function build() {
   const assets = timed("assets", () => stageAssets(out, hash));
   const ctx = { R, ui: data.ui, features: config.features, hash, assets: { css: assets.css, js: assets.js }, modules: assets.modules, themeColors: assets.themeColors };
   const pages = timed("render", () => stageRender(out, ctx, data, derived));
+  // MEDIUM 5: #pb-offline-urls {id, hash, bytes, urls} on occasion / part / pothi pages, bytes from the rendered output
+  const offline = timed("offline", () => embedOfflineManifests(out, { R, ctx, occasions: data.occasions }));
+  if (offline.missing.length) throw new Error(`offline manifest: ${offline.missing.length} URL(s) have no dist file — ${offline.missing.slice(0, 3).join("; ")}`);
   timed("search", () => null);
   timed("pwa", () => stagePwa(out, ctx));
   timed("seo", () => null); // robots.txt + sitemap.xml: FEAT-109 (root redirect and 404 are rendered as routes)
@@ -218,6 +239,7 @@ export async function build() {
     pageList: pages.map((p) => ({ pageType: p.pageType, lang: p.lang, href: p.href })),
     files: out.size + 1,
     counts: derived.counts,
+    offlineManifests: offline.embedded,
     gate: { ok: true, flags: gate.counts.FLAG },
     timings,
     totalMs: Math.round(performance.now() - t0),

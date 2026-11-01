@@ -75,12 +75,12 @@ export function icon(id, { cls = "", size = 20, hidden = false } = {}) {
   return html`<svg class="${cls}" width="${size}" height="${size}" aria-hidden="true" focusable="false"${hidden ? raw(" hidden") : ""}><use href="#${id}"/></svg>`;
 }
 /** External link: rel="external noopener", the #i-ext marker and an sr-only label (design §5.2, UI-20). */
-export function extLink(lang, hrefUrl, label, { cls = "", sv = null, svId = null } = {}) {
+export function extLink(lang, hrefUrl, label, { cls = "", sv = null, svId = null, rel = "external noopener" } = {}) {
   const attrs = [];
   if (cls) attrs.push(html` class="${cls}"`);
   if (sv) attrs.push(html` data-sv="${sv}"`);
   if (svId) attrs.push(html` data-sv-id="${svId}"`);
-  return html`<a href="${hrefUrl}" rel="external noopener"${attrs}>${label}<svg class="ext-ic" aria-hidden="true" focusable="false"><use href="#i-ext"/></svg><span class="sr"> (${t(lang, "ext.label")})</span></a>`;
+  return html`<a href="${hrefUrl}" rel="${rel}"${attrs}>${label}<svg class="ext-ic" aria-hidden="true" focusable="false"><use href="#i-ext"/></svg><span class="sr"> (${t(lang, "ext.label")})</span></a>`;
 }
 /** Latin-digit number formatting for UI text (decisions.md §9 rule 5; design-review NIT 13). */
 export const num = (n) => Number(n).toLocaleString("en-IN");

@@ -276,10 +276,10 @@ export function kindChip(rec, lang) {
  * The full fixed-order rendering for a step / chapter embed (design §7.1): verse block → pada → meaning/explanation →
  * vinyog → variants → source line. Pages that lay the pieces out differently (the mantra page) call the pieces.
  */
-export function verseFull(rec, lang, { ctx, derived, occasionsById, sources, n, textLang, heading = "h3", idPrefix } = {}) {
+export function verseFull(rec, lang, { ctx, derived, occasionsById, sources, n, textLang, heading = "h3", idPrefix, id } = {}) {
   const mdCtx = mdContext(ctx, lang, derived);
   const p = idPrefix || `${rec.id}`;
-  return html`${verseBlock(rec, lang, { n, textLang })}
+  return html`${verseBlock(rec, lang, { n, textLang, id })}
 ${padaCard(rec, lang, { id: `pada-${p}`, heading })}
 ${meaningSection(rec, lang, mdCtx, { id: `arth-${p}`, heading })}
 ${vinyogCard(rec, lang, { ctx, occasionsById, mdCtx, id: `vinyog-${p}`, heading })}

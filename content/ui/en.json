@@ -64,7 +64,13 @@
     "saved": "Saved ✓",
     "print": "Print",
     "back": "Back to the occasion",
-    "size": "Text size"
+    "size": "Text size",
+    "title": "{title} — pothi",
+    "only": "Actions and mantras only · each step on its own page in print",
+    "smaller": "Smaller text",
+    "bigger": "Larger text",
+    "step_of": "Step {n} of {total}",
+    "toolbar": "Pothi tools"
   },
   "offline": {
     "saved_list": "Saved offline",
@@ -124,13 +130,34 @@
       "sources": "Sources"
     },
     "parts": "Parts",
-    "steps": "{n} steps"
+    "steps": "{n} steps",
+    "tracker": "Steps",
+    "part_of": "Part {i} of {n}",
+    "parts_count": "{n} parts",
+    "prev_part": "← Previous part",
+    "next_part": "Next part →",
+    "back_overview": "Occasion overview",
+    "sections_label": "Sections of this page",
+    "layers": "Layers",
+    "important": "Key step",
+    "text_ref": "Recite",
+    "chapter": "adhyaya {n}",
+    "step_samagri": "Samagri for this step",
+    "sutra_cite": "Paraskara Grihya Sutra 1.8.11–13",
+    "sutra_meaning": "Let them also follow the custom of the village; for it is said: “in marriage and at the cremation ground, enter the village (custom)”; hence in these two the village is the authority.",
+    "sutra_note": "The Grihya Sutra itself says that in marriage and funeral rites the village custom is the authority — variants are variants, not corruptions.",
+    "variant_source": "Source",
+    "katha_link": "Read the katha →"
   },
   "samagri": {
     "clear": "Clear ticks",
     "clear_confirm": "Clear every tick for this occasion?",
     "print": "Print the list",
-    "must": "essential"
+    "must": "essential",
+    "title": "Samagri list",
+    "qty": "Quantity",
+    "search": "Search to buy",
+    "count": "{n} items"
   },
   "quiz": {
     "check": "Check",
@@ -182,7 +209,9 @@
   "shubhvela": {
     "panchang": "Today's panchang",
     "festivals": "Vrats and festivals",
-    "muhurat": "Muhurat"
+    "muhurat": "Muhurat",
+    "vrat": "Vrat page (Shubhvela)",
+    "links_label": "Dates and muhurat on Shubhvela"
   },
   "counts": {
     "occasions": "{n} occasions",
@@ -263,5 +292,24 @@
   "svara_legend": {
     "title": "Svara marks",
     "body": "The vertical stroke above ({svarita}) is svarita, the stroke below ({anudatta}) is anudatta; an unmarked syllable is udatta. The candrabindu in ‘{nasal}’ is the Yajurvedic nasal. The machine voice does not reproduce the svara."
+  },
+  "occasions": {
+    "title": "Occasions",
+    "lede": "The procedure of every family samskara, puja, vrat and katha, in groups — each page with the steps in order, the mantras, the samagri list and the pandit's line.",
+    "empty_group": "Pages for this group arrive in a later phase.",
+    "groups_label": "Groups"
+  },
+  "region": {
+    "mithila": "Mithila",
+    "maithil": "Maithil",
+    "bhojpuri": "Bhojpuri belt",
+    "awadh": "Awadh",
+    "braj": "Braj",
+    "bundelkhand": "Bundelkhand",
+    "rajasthan": "Rajasthan",
+    "pahari": "Pahari (Kumaon, Garhwal, Himachal)",
+    "punjab-haryana": "Punjab / Haryana",
+    "delhi": "Delhi",
+    "general": "General"
   }
 }

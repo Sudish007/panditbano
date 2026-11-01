@@ -109,3 +109,33 @@ implementation deviations, which every build step appends to.
 - **FEAT-105 · `tools/audit.py` fixes.** stdout/stderr are reconfigured to UTF-8 (a Devanagari h1 in a UI-15 measure
   aborted the run under cp1252); the UI-27 svara-collision check now measures the rects of the text nodes inside
   `.mantra .deva` (the clipped `.sr` box and the block-level `.pada` spans produced false collisions).
+- **FEAT-106 · step titles are derived from the action.** The schema has no step title: the `<h3>` (and the tracker / pothi
+  locator) is the text before the first ` — ` of the action (“पवित्रीकरण — पंडित…” → “पवित्रीकरण”, the rest is the action
+  prose); a dash-less action ≤ 80 chars is the title alone; a longer one gets a ≤ 72-char head and keeps the full prose.
+- **FEAT-106 · `important` steps**: haldi fill on the number chip + a 4-px haldi left rule + a “मुख्य चरण” `chip-haldi`, not
+  a haldi card fill (accent text on haldi is 3.5:1, below AA). `chip-haldi` borders are `--hair-strong` (haldi on surface
+  is 1.6:1, below UI-09).
+- **FEAT-106 · samagri card markup**: `<details class="rail-fold card samagri" id="samagri" data-checklist>` (folded on phones
+  like the left rail); each row is `input + div.item (label[name, qty] + note + search link)` so the note and the
+  `rel="external noopener nofollow"` search link sit under the label; the strike-through rule is `input:checked + .item`.
+- **FEAT-106 · when + roles** sit in a `.pair` (2 columns from 820 px), not a `.grid`, so UI-17's ≥ 3-column rule stays
+  meaningful for real grids.
+- **FEAT-106 · Save-offline buttons** (page head and pothi bar) are rendered `hidden`; FEAT-109's offline.mjs registers
+  `window.pb.offline` and un-hides them (pothi.mjs already delegates `click` → `offline.save(button)`).
+- **FEAT-106 · vinyog on an occasion page** lists only the OTHER occasions that use the mantra (the current step is the use).
+- **FEAT-106 · PGS I.8.11–13**: rendered from the corpus record `pgs-1-8-11-13` when it exists, else from a built-in copy of
+  the mock's Wikisource text with the meaning in `occasion.sutra_meaning`; the block id is `sutra-pgs` (an `m-…` id would
+  trip the motif-reference test). The block appears only when the occasion has `variants[]`.
+- **FEAT-106 · reading-settings card** appears in the right rail only when the page renders a verse (the base route of a
+  multi-part occasion has none); the svara legend only when a verse has `svara: true` (§27 item 5).
+- **FEAT-106 · tracker.mjs** skips targets inside a sticky rail when choosing the `.sections` chip with
+  `aria-current="location"` (the samagri card is always in view at ≥ 1024 and would otherwise always win).
+- **FEAT-106 · part routes**: `<h1>` is “{occasion} — {part}”, the breadcrumb adds the occasion (an ancestor),
+  `<link rel="prev|next">` in the head plus a visible pager; the base route of a multi-part occasion shows the parts list
+  (step counts) instead of step cards.
+- **FEAT-106 · offline manifest bytes** are computed from the rendered output in a fixed-point loop (the manifest sits inside
+  the HTML it measures); `urls` include the modules of the occasion, part, pothi AND mantra page types.
+- **FEAT-106 · pothi A−/A+** sets `--pothi-scale` on `<html>`; only the `.pothi-step` sizes use it (body font-size stays the
+  design scale, so UI-07 holds), range 80–160 % in steps of 10, persisted as `pb-font-pct`.
+- **FEAT-106 · `.sources li` / `.src` get `overflow-wrap: anywhere`**: a long Internet Archive item id in an attribution line
+  overflowed 390 px under the WCAG text-spacing override (UI-27) on every page with that source.

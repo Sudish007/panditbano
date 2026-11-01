@@ -119,7 +119,11 @@ function modulesJson(ctx, pageType) {
   return html`<script type="application/json" id="pb-modules">${raw(JSON.stringify(list))}</script>`;
 }
 
-/** The full shell. page = {route, title, description, section, crumbs, body (Raw), bodyClass, ogType}. */
+/**
+ * The full shell. page = {route, title, description, section, crumbs, body (Raw), bodyClass, ogType,
+ * headExtra (Raw: extra <link>/<meta> tags, e.g. rel="prev"/"next" — FEAT-106), bodyEnd (Raw: inert markup before #pb-modules,
+ * e.g. the #pb-offline-urls placeholder)}.
+ */
 export function layout(ctx, page) {
   const { route } = page;
   const lang = route.lang;
@@ -127,6 +131,7 @@ export function layout(ctx, page) {
 <html lang="${lang}" dir="ltr" data-base="${ctx.R.BASE_PATH}" data-lang="${lang}" data-page="${route.pageType}" data-theme="light" data-translit="iast">
 <head>
 ${headTags(ctx, { lang, route, title: page.title, description: page.description, ogType: page.ogType })}
+${page.headExtra || ""}
 </head>
 <body${page.bodyClass ? html` class="${page.bodyClass}"` : ""}>
 <a class="skip" href="#main">${t(lang, "skip.label")}</a>
@@ -137,6 +142,7 @@ ${breadcrumbs(lang, page.crumbs)}
 ${page.body}
 </main>
 ${footer(ctx, { lang, route })}
+${page.bodyEnd || ""}
 ${modulesJson(ctx, route.pageType)}
 <script type="module" src="${ctx.R.href(ctx.assets.js)}"></script>
 </body>
@@ -144,16 +150,18 @@ ${modulesJson(ctx, route.pageType)}
 `;
 }
 
-/** Chrome-less document for 404 / offline (design §3.2): head + body, no header/footer, no sprite motif. */
-export function plainDocument(ctx, { lang, route, title, description, body, pageType, noindex = false, bodyClass = "plain-page", sprite = false }) {
+/** Chrome-less document for 404 / offline / pothi (design §3.2, §15): head + body, no header/footer; sprite only when asked. */
+export function plainDocument(ctx, { lang, route, title, description, body, pageType, noindex = false, bodyClass = "plain-page", sprite = false, headExtra = "", bodyEnd = "" }) {
   return html`<!DOCTYPE html>
 <html lang="${lang}" dir="ltr" data-base="${ctx.R.BASE_PATH}" data-lang="${lang}" data-page="${pageType}" data-theme="light" data-translit="iast">
 <head>
 ${headTags(ctx, { lang, route, title, description, noindex })}
+${headExtra || ""}
 </head>
 <body class="${bodyClass}">
 ${sprite ? uiSprite() : ""}
 ${body}
+${bodyEnd || ""}
 ${modulesJson(ctx, pageType)}
 <script type="module" src="${ctx.R.href(ctx.assets.js)}"></script>
 </body>
