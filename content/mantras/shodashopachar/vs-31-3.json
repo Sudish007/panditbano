@@ -1,0 +1,89 @@
+{
+  "id": "vs-31-3",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 31.3",
+  "title": {
+    "hi": "एतावानस्य महिमा (पाद्य)",
+    "en": "Etavan asya mahima (water for the feet)",
+    "bho": "एतावानस्य महिमा (पाद्य)"
+  },
+  "devanagari": "ए॒तावा॑नस्य महि॒मातो॒ ज्यायाँ॑श्च॒ पूरु॑षः । पादो॑ऽस्य॒ विश्वा॑ भू॒तानि॑ त्रि॒पाद॑स्या॒मृतं॑ दि॒वि ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "एतावान्",
+      "gloss": {
+        "hi": "इतनी",
+        "en": "so great",
+        "bho": "एतना"
+      }
+    },
+    {
+      "sa": "अस्य महिमा",
+      "gloss": {
+        "hi": "इसकी महिमा है",
+        "en": "is his greatness",
+        "bho": "एकर महिमा बा"
+      }
+    },
+    {
+      "sa": "अतो ज्यायान् च पूरुषः",
+      "gloss": {
+        "hi": "और पुरुष इससे भी बड़ा है",
+        "en": "and the Purusha is greater still",
+        "bho": "आ पुरुष एकरो से बड़ बा"
+      }
+    },
+    {
+      "sa": "पादोऽस्य विश्वा भूतानि",
+      "gloss": {
+        "hi": "सारे प्राणी उसका एक चरण (चौथाई) हैं",
+        "en": "all beings are one quarter of him",
+        "bho": "सगरी जीव ओकर एक चरन (चउथाई) बाड़न"
+      }
+    },
+    {
+      "sa": "त्रिपात् अस्य अमृतं दिवि",
+      "gloss": {
+        "hi": "उसके तीन चरण अमृत-रूप में द्युलोक में हैं",
+        "en": "three quarters of him are the immortal in heaven",
+        "bho": "ओकर तीन चरन अमृत-रूप में सरग में बाड़न"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "इतनी उसकी महिमा है, और पुरुष इससे भी बड़ा है; सारे प्राणी उसका एक चरण हैं, उसके तीन चरण अमृत-रूप में द्युलोक में हैं।",
+    "en": "So great is his greatness, and the Purusha is greater still; all beings are one quarter of him, three quarters of him are the immortal in heaven.",
+    "bho": "एतना ओकर महिमा बा, आ पुरुष एकरो से बड़ बा; सगरी जीव ओकर एक चरन बाड़न, ओकर तीन चरन अमृत-रूप में सरग में बाड़न।"
+  },
+  "explanation": {
+    "hi": "**पाद्य** पर — देवता के चरण धोने का जल चढ़ाते हुए (आचमनी से जल पात्र में छोड़ा जाता है)। यह पुरुषसूक्त (शुक्लयजुर्वेद के अध्याय 31) का 3-वाँ मंत्र है; माध्यंदिन षोडशोपचार में पुरुषसूक्त के मंत्र क्रम से एक-एक उपचार पर पढ़े जाते हैं, इसलिए मंत्र का अर्थ उपचार से सीधा नहीं जुड़ता — वह सृष्टि के आदि-पुरुष का वर्णन है। पाठ [संस्कृत विकिस्रोत](https://sa.wikisource.org/) के [शुक्लयजुर्वेद अध्याय 31](https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%AF%E0%A4%9C%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A9%E0%A5%A7) पृष्ठ के स्वर-पाठ से लिया गया और [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) से शब्द-शब्द जाँचा गया।",
+    "en": "At the **padya** — offering water for the deity's feet (poured from the spoon into the dish). This is verse 3 of the Purusha-sukta (chapter 31 of the Shukla Yajurveda); the Madhyandina shodashopachara recites the sukta verse by verse, one per offering, so the meaning does not describe the offering itself — it describes the primal Purusha of creation. Text from the svara text of the [Sanskrit Wikisource](https://sa.wikisource.org/) page [Vajasaneyi Samhita 31](https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%AF%E0%A4%9C%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A9%E0%A5%A7), checked word by word against [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm).",
+    "bho": "**पाद्य** पर — देवता के गोड़ धोवे के पानी चढ़ावत (आचमनी से पानी बरतन में छोड़ल जाला)। ई पुरुषसूक्त (शुक्लयजुर्वेद के अध्याय 31) के 3-वाँ मंत्र बा; माध्यंदिन षोडशोपचार में पुरुषसूक्त के मंत्र क्रम से एक-एक उपचार पर पढ़ल जाला, एही से मंत्र के अरथ उपचार से सीधे नइखे जुड़त — ऊ सिरिष्टी के आदि-पुरुष के बरनन बा। पाठ [संस्कृत विकिस्रोत](https://sa.wikisource.org/) के [शुक्लयजुर्वेद अध्याय 31](https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%AF%E0%A4%9C%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A9%E0%A5%A7) पन्ना के स्वर-पाठ से लिहल गइल आ [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) से सब्द-सब्द जाँचल गइल।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-31",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "shodashopachar",
+    "padya",
+    "purusha-sukta"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

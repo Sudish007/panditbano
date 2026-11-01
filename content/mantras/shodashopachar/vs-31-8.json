@@ -1,0 +1,81 @@
+{
+  "id": "vs-31-8",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 31.8",
+  "title": {
+    "hi": "तस्मादश्वा अजायंत (यज्ञोपवीत)",
+    "en": "Tasmad ashva ajayanta (the sacred thread)",
+    "bho": "तस्मादश्वा अजायन्त (यज्ञोपवीत)"
+  },
+  "devanagari": "तस्मा॒दश्वा॑ अजायन्त॒ ये के चो॑भ॒याद॑तः । गावो॑ ह जज्ञिरे॒ तस्मा॒त्तस्मा॑ज्जा॒ता अ॑जा॒वयः॑ ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "तस्माद् अश्वाः अजायन्त",
+      "gloss": {
+        "hi": "उससे घोड़े उत्पन्न हुए",
+        "en": "from it horses were born",
+        "bho": "ओकरा से घोड़ा पैदा भइलन"
+      }
+    },
+    {
+      "sa": "ये के च उभयादतः",
+      "gloss": {
+        "hi": "और जो दोनों जबड़ों में दाँत वाले हैं",
+        "en": "and all that have teeth in both jaws",
+        "bho": "आ जेकरा दुनो जबड़ा में दाँत बा"
+      }
+    },
+    {
+      "sa": "गावः ह जज्ञिरे तस्मात्",
+      "gloss": {
+        "hi": "उससे गौएँ उत्पन्न हुईं",
+        "en": "from it cows were born",
+        "bho": "ओकरा से गाय पैदा भइली"
+      }
+    },
+    {
+      "sa": "तस्मात् जाताः अजावयः",
+      "gloss": {
+        "hi": "उससे बकरियाँ और भेड़ें जन्मीं",
+        "en": "from it goats and sheep were born",
+        "bho": "ओकरा से बकरी आ भेंड़ जनमलीं"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "उससे घोड़े और दोनों जबड़ों में दाँत वाले सब पशु उत्पन्न हुए; उससे गौएँ, बकरियाँ और भेड़ें जन्मीं।",
+    "en": "From it horses were born and all that have teeth in both jaws; from it cows were born, and goats and sheep.",
+    "bho": "ओकरा से घोड़ा आ दुनो जबड़ा में दाँत वाला सब पसु पैदा भइलन; ओकरा से गाय, बकरी आ भेंड़ जनमलीं।"
+  },
+  "explanation": {
+    "hi": "**यज्ञोपवीत** पर — देवता को जनेऊ पहनाते हुए; साथ में 'यज्ञोपवीतं परमं पवित्रं' पढ़ा जाता है। देवी-पूजा में यज्ञोपवीत के स्थान पर कंचुकी/उपवस्त्र दिया जाता है। यह पुरुषसूक्त (शुक्लयजुर्वेद के अध्याय 31) का 8-वाँ मंत्र है; माध्यंदिन षोडशोपचार में पुरुषसूक्त के मंत्र क्रम से एक-एक उपचार पर पढ़े जाते हैं, इसलिए मंत्र का अर्थ उपचार से सीधा नहीं जुड़ता — वह सृष्टि के आदि-पुरुष का वर्णन है। पाठ [संस्कृत विकिस्रोत](https://sa.wikisource.org/) के [शुक्लयजुर्वेद अध्याय 31](https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%AF%E0%A4%9C%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A9%E0%A5%A7) पृष्ठ के स्वर-पाठ से लिया गया और [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) से शब्द-शब्द जाँचा गया।",
+    "en": "At the **yajnopavita** — offering the sacred thread; 'yajnopavitam paramam pavitram' is recited with it. In a goddess puja the thread is replaced by a bodice cloth. This is verse 8 of the Purusha-sukta (chapter 31 of the Shukla Yajurveda); the Madhyandina shodashopachara recites the sukta verse by verse, one per offering, so the meaning does not describe the offering itself — it describes the primal Purusha of creation. Text from the svara text of the [Sanskrit Wikisource](https://sa.wikisource.org/) page [Vajasaneyi Samhita 31](https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%AF%E0%A4%9C%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A9%E0%A5%A7), checked word by word against [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm).",
+    "bho": "**यज्ञोपवीत** पर — देवता के जनेऊ पहिरावत; संगे 'यज्ञोपवीतं परमं पवित्रं' पढ़ल जाला। देवी-पूजा में जनेऊ के ठाँव पर कंचुकी/उपवस्त्र दिहल जाला। ई पुरुषसूक्त (शुक्लयजुर्वेद के अध्याय 31) के 8-वाँ मंत्र बा; माध्यंदिन षोडशोपचार में पुरुषसूक्त के मंत्र क्रम से एक-एक उपचार पर पढ़ल जाला, एही से मंत्र के अरथ उपचार से सीधे नइखे जुड़त — ऊ सिरिष्टी के आदि-पुरुष के बरनन बा। पाठ [संस्कृत विकिस्रोत](https://sa.wikisource.org/) के [शुक्लयजुर्वेद अध्याय 31](https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%AF%E0%A4%9C%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A9%E0%A5%A7) पन्ना के स्वर-पाठ से लिहल गइल आ [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) से सब्द-सब्द जाँचल गइल।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-31",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "shodashopachar",
+    "yajnopavita",
+    "purusha-sukta"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

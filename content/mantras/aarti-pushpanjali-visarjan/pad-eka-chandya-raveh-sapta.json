@@ -1,0 +1,82 @@
+{
+  "id": "pad-eka-chandya-raveh-sapta",
+  "kind": "paddhati",
+  "title": {
+    "hi": "एका चंड्या रवेः सप्त (प्रदक्षिणा की संख्या)",
+    "en": "Eka chandya raveh sapta (how many circumambulations)",
+    "bho": "एका चण्ड्या रवेः सप्त (परिकरमा के गिनती)"
+  },
+  "devanagari": "एका चण्ड्या रवेः सप्त तिस्रः कार्या विनायके । हरेश्चतस्रः कर्तव्याः शिवस्यार्धप्रदक्षिणा ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "एका चण्ड्याः",
+      "gloss": {
+        "hi": "चंडी (देवी) की एक",
+        "en": "one for Chandi (the goddess)",
+        "bho": "चंडी (देवी) के एक"
+      }
+    },
+    {
+      "sa": "रवेः सप्त",
+      "gloss": {
+        "hi": "सूर्य की सात",
+        "en": "seven for the Sun",
+        "bho": "सुरुज के सात"
+      }
+    },
+    {
+      "sa": "तिस्रः कार्याः विनायके",
+      "gloss": {
+        "hi": "विनायक (गणेश) की तीन करनी चाहिए",
+        "en": "three are to be made for Vinayaka",
+        "bho": "बिनायक (गणेश) के तीन करे के चाहीं"
+      }
+    },
+    {
+      "sa": "हरेः चतस्रः कर्तव्याः",
+      "gloss": {
+        "hi": "हरि (विष्णु) की चार करनी चाहिए",
+        "en": "four are to be made for Hari (Vishnu)",
+        "bho": "हरि (बिस्नु) के चार करे के चाहीं"
+      }
+    },
+    {
+      "sa": "शिवस्य अर्धप्रदक्षिणा",
+      "gloss": {
+        "hi": "शिव की आधी प्रदक्षिणा",
+        "en": "for Shiva a half circumambulation",
+        "bho": "सिव के आधा परिकरमा"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "देवी की एक, सूर्य की सात, गणेश की तीन, विष्णु की चार प्रदक्षिणा करनी चाहिए; शिव की आधी प्रदक्षिणा होती है।",
+    "en": "One circumambulation is to be made for the goddess, seven for the Sun, three for Ganesha, four for Vishnu; for Shiva a half circumambulation.",
+    "bho": "देवी के एक, सुरुज के सात, गणेश के तीन, बिस्नु के चार परिकरमा करे के चाहीं; सिव के आधा परिकरमा होला।"
+  },
+  "explanation": {
+    "hi": "किस देवता की कितनी **प्रदक्षिणा** — पोथी यह स्मृति-वचन (आह्निकसूत्रावली के देवतीर्थ-विचार से उद्धृत) पाद-टिप्पणी में देती है; शिव की आधी प्रदक्षिणा का कारण सोमसूत्र (जलधारी की नाली) को न लाँघना बताया जाता है। गणेश-गौरी जैसे संयुक्त पूजन में पोथी चार परिक्रमा कराती है। पाठ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 144) से लिया गया है और [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) से जाँचा गया है।",
+    "en": "How many **circumambulations** for which deity — the handbook gives this smriti rule (quoted from the Devatirtha-vichara of the Ahnikasutravali) in a footnote; the half circuit of Shiva is explained by the rule never to step across the soma-sutra, the channel of the linga's basin. For a joint worship such as Ganesha–Gauri the handbook has four circuits. Text from the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (p. 144), checked against the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt).",
+    "bho": "कवना देवता के केतना **परिकरमा** — पोथी ई स्मृति-बचन (आह्निकसूत्रावली के देवतीर्थ-विचार से उद्धृत) पाद-टिप्पनी में देला; सिव के आधा परिकरमा के कारन सोमसूत्र (जलधारी के नाली) ना लाँघल बतावल जाला। गणेश-गौरी जइसन संजुक्त पूजन में पोथी चार परिकरमा करावेला। पाठ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 144) से लिहल गइल बा आ [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) से जाँचल गइल बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-nkpp-scan",
+    "retrieved": "2026-11-01",
+    "modified": "as printed in the footnote (p. 144)"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit ritual formula (anonymous, pre-modern); Sanskrit text taken from the Gita Press scan under brief §14, no Hindi prose copied",
+  "tags": [
+    "aarti-pushpanjali-visarjan",
+    "pradakshina",
+    "rule"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "locator": "NKPP p. 144"
+}

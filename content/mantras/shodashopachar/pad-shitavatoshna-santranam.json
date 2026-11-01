@@ -1,0 +1,107 @@
+{
+  "id": "pad-shitavatoshna-santranam",
+  "kind": "paddhati",
+  "title": {
+    "hi": "शीतवातोष्णसंत्राणम् (वस्त्र-श्लोक)",
+    "en": "Shitavatoshna-santranam (the garment verse)",
+    "bho": "शीतवातोष्णसंत्राणम् (वस्त्र-श्लोक)"
+  },
+  "devanagari": "शीतवातोष्णसंत्राणं लज्जाया रक्षणं परम् । देहालङ्करणं वस्त्रमतः शान्तिं प्रयच्छ मे ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "शीतवातोष्णसंत्राणम्",
+      "gloss": {
+        "hi": "ठंड, हवा और गरमी से बचाने वाला",
+        "en": "protection from cold, wind and heat",
+        "bho": "जाड़, हवा आ गरमी से बचावे वाला"
+      }
+    },
+    {
+      "sa": "लज्जायाः रक्षणं परम्",
+      "gloss": {
+        "hi": "लज्जा की श्रेष्ठ रक्षा",
+        "en": "the best guard of modesty",
+        "bho": "लाज के सबसे नीक रच्छा"
+      }
+    },
+    {
+      "sa": "देहालङ्करणम्",
+      "gloss": {
+        "hi": "देह का अलंकार",
+        "en": "the adornment of the body",
+        "bho": "देह के गहना"
+      }
+    },
+    {
+      "sa": "वस्त्रम्",
+      "gloss": {
+        "hi": "वस्त्र",
+        "en": "the garment",
+        "bho": "कपड़ा"
+      }
+    },
+    {
+      "sa": "अतः शान्तिं प्रयच्छ मे",
+      "gloss": {
+        "hi": "इसलिए मुझे शांति दीजिए",
+        "en": "therefore grant me peace",
+        "bho": "एही से हमरा सांति दीं"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "वस्त्र ठंड, हवा और गरमी से बचाता है, लज्जा की श्रेष्ठ रक्षा और देह का अलंकार है; इसलिए मुझे शांति दीजिए।",
+    "en": "The garment protects from cold, wind and heat, is the best guard of modesty and the adornment of the body; therefore grant me peace.",
+    "bho": "कपड़ा जाड़, हवा आ गरमी से बचावेला, लाज के सबसे नीक रच्छा आ देह के गहना बा; एही से हमरा सांति दीं।"
+  },
+  "explanation": {
+    "hi": "**वस्त्र** का श्लोक — VS 31.7 के बाद; मूर्ति हो तो कपड़ा, नहीं तो मौली या कलावा चढ़ाया जाता है, फिर आचमन का जल। उपवस्त्र (दुपट्टा/सूत्र) के लिए [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) VS 11.40 और एक छोटा श्लोक अलग देती है। पाठ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 193) से लिया गया है और [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) से जाँचा गया है। यह पौराणिक छंद का उपचार-श्लोक है, जिसे पंडित वैदिक मंत्र के बाद पढ़ता है और फिर नाम-वाक्य (ॐ … नमः, … समर्पयामि) बोलता है; जो वैदिक मंत्र न पढ़ सके, वह केवल श्लोक और नाम-वाक्य से भी उपचार कर सकता है।",
+    "en": "The verse of the **vastra** — after VS 31.7; a cloth for a murti, otherwise a red thread, then water to sip. For the upper cloth (a scarf or a thread) the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) gives VS 11.40 and a short verse separately. Text from the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (p. 193), checked against the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt). This is the upachara verse in Puranic metre, recited by the pandit after the Vedic mantra and followed by the name-sentence (om … namah, … samarpayami); whoever cannot recite the Vedic mantra may offer with the verse and the name-sentence alone.",
+    "bho": "**वस्त्र** के श्लोक — VS 31.7 के बाद; मूरति होखे त कपड़ा, ना त मौली भा कलावा चढ़ावल जाला, फेर आचमन के पानी। उपवस्त्र (दुपट्टा/सूत) खातिर [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) VS 11.40 आ एगो छोट श्लोक अलगे देला। पाठ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 193) से लिहल गइल बा आ [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) से जाँचल गइल बा। ई पौरानिक छंद के उपचार-श्लोक बा, जेकरा पंडित वैदिक मंत्र के बाद पढ़ेलन आ फेर नाँव-वाक्य (ॐ … नमः, … समर्पयामि) बोलेलन; जे वैदिक मंत्र ना पढ़ सके, ऊ खाली श्लोक आ नाँव-वाक्य से भी उपचार कर सकेला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-nkpp-scan",
+    "retrieved": "2026-11-01",
+    "modified": "OCR संत्राणं लज्जाया / लजाया → लज्जाया; देहाल्करणं → देहालङ्करणं"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit ritual formula (anonymous, pre-modern); Sanskrit text taken from the Gita Press scan under brief §14, no Hindi prose copied",
+  "tags": [
+    "shodashopachar",
+    "vastra"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "locator": "NKPP p. 193",
+  "checkedAgainst": [
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "variants": [
+    {
+      "reading": "शीतवातोष्णसंत्राणे लोकलज्जानिवारणे । देहालङ्करणे वस्त्रे भवद्भ्यो वाससी शुभे ॥",
+      "note": {
+        "hi": "पंचदेव-पूजा का बहुवचन श्लोक (पृ. 142)।",
+        "en": "The plural verse of the panchadeva puja (p. 142).",
+        "bho": "पंचदेव-पूजा के बहुवचन श्लोक (पृ. 142)।"
+      },
+      "source": "ia-nkpp-scan"
+    },
+    {
+      "reading": "सर्वभूषाधिके सौम्ये लोकलज्जानिवारणे । मयोपपादिते तुभ्यं वाससी प्रतिगृह्यताम् ॥",
+      "note": {
+        "hi": "द्विवेदी पद्धति का वस्त्र-श्लोक (ओसीआर 'मयो पपादि ते' → मयोपपादिते)।",
+        "en": "The Dwivedi vastra verse (OCR 'mayo papadi te' read as mayopapadite).",
+        "bho": "द्विवेदी पद्धति के वस्त्र-श्लोक (ओसीआर 'मयो पपादि ते' → मयोपपादिते)।"
+      },
+      "source": "ia-vivah-mvf"
+    }
+  ]
+}

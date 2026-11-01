@@ -1,0 +1,84 @@
+{
+  "id": "pad-nana-sugandhi-pushpani",
+  "kind": "paddhati",
+  "title": {
+    "hi": "नानासुगंधिपुष्पाणि (पुष्पांजलि-श्लोक)",
+    "en": "Nana-sugandhi-pushpani (the pushpanjali verse)",
+    "bho": "नानासुगन्धिपुष्पाणि (पुष्पांजलि-श्लोक)"
+  },
+  "devanagari": "नानासुगन्धिपुष्पाणि यथाकालोद्भवानि च । पुष्पाञ्जलिर्मया दत्तो गृहाण परमेश्वर ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "नानासुगन्धिपुष्पाणि",
+      "gloss": {
+        "hi": "नाना सुगंधित फूल",
+        "en": "many fragrant flowers",
+        "bho": "नाना सुगंधित फूल"
+      }
+    },
+    {
+      "sa": "यथाकालोद्भवानि च",
+      "gloss": {
+        "hi": "और जो ऋतु के अनुसार खिले हैं",
+        "en": "and those blooming in their season",
+        "bho": "आ जे मौसम के हिसाब से फुलाइल बा"
+      }
+    },
+    {
+      "sa": "पुष्पाञ्जलिः मया दत्तः",
+      "gloss": {
+        "hi": "मैंने पुष्पांजलि दी",
+        "en": "the handful of flowers given by me",
+        "bho": "हम पुष्पांजलि दिहलीं"
+      }
+    },
+    {
+      "sa": "गृहाण परमेश्वर",
+      "gloss": {
+        "hi": "हे परमेश्वर, ग्रहण कीजिए",
+        "en": "accept it, O supreme Lord",
+        "bho": "हे परमेस्वर, लीं"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "ऋतु के अनुसार खिले नाना सुगंधित फूलों की यह पुष्पांजलि मैंने दी है; हे परमेश्वर, ग्रहण कीजिए।",
+    "en": "This handful of many fragrant flowers blooming in their season I have given; accept it, O supreme Lord.",
+    "bho": "मौसम के हिसाब से फुलाइल नाना सुगंधित फूल के ई पुष्पांजलि हम दिहलीं; हे परमेस्वर, लीं।"
+  },
+  "explanation": {
+    "hi": "**मंत्रपुष्पांजलि** का श्लोक — VS 31.16 और देवता के आवाहन-मंत्र के बाद, हाथ के फूल देवता पर छोड़ते हुए ('पुष्पांजलिं समर्पयामि'); पंचदेव-पूजा का श्लोक 'श्रद्धया सिक्तया भक्त्या' पाठांतर में है। पाठ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 199) से लिया गया है और [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) से जाँचा गया है।",
+    "en": "The verse of the **mantra-pushpanjali** — after VS 31.16 and the deity's invocation mantra, releasing the flowers onto the deity ('pushpanjalim samarpayami'); the panchadeva verse 'shraddhaya siktaya bhaktya' is in variants. Text from the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (p. 199), checked against the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt).",
+    "bho": "**मंत्रपुष्पांजलि** के श्लोक — VS 31.16 आ देवता के आवाहन-मंत्र के बाद, हाथ के फूल देवता पर छोड़त ('पुष्पाञ्जलिं समर्पयामि'); पंचदेव-पूजा के श्लोक 'श्रद्धया सिक्तया भक्त्या' पाठांतर में बा। पाठ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 199) से लिहल गइल बा आ [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) से जाँचल गइल बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-nkpp-scan",
+    "retrieved": "2026-11-01",
+    "modified": "as printed"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit ritual formula (anonymous, pre-modern); Sanskrit text taken from the Gita Press scan under brief §14, no Hindi prose copied",
+  "tags": [
+    "aarti-pushpanjali-visarjan",
+    "pushpanjali"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "locator": "NKPP p. 199",
+  "variants": [
+    {
+      "reading": "श्रद्धया सिक्तया भक्त्या हार्दप्रेम्णा समर्पितः । मन्त्रपुष्पाञ्जलिश्चायं कृपया प्रतिगृह्यताम् ॥",
+      "note": {
+        "hi": "पंचदेव-पूजा का पुष्पांजलि-श्लोक (पृ. 145; ओसीआर 'हादप्रम्णा' → हार्दप्रेम्णा)।",
+        "en": "The pushpanjali verse of the panchadeva puja (p. 145; OCR 'hadapramna' read as hardapremna).",
+        "bho": "पंचदेव-पूजा के पुष्पांजलि-श्लोक (पृ. 145; ओसीआर 'हादप्रम्णा' → हार्दप्रेम्णा)।"
+      },
+      "source": "ia-nkpp-scan"
+    }
+  ]
+}

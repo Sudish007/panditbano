@@ -2053,6 +2053,197 @@
       "note": "Madhyandina Vajasaneyi Samhita adhyaya 22; pada text labelled NN.M with the svara text below it (Uvata and Mahidhara commentary interleaved). Registered by C1A-07 for 22.17 (अग्निं दूतं पुरो दधे — agni-sthapana). Second source: TITUS.",
       "wikisourceLang": "sa",
       "locator": "VS 22"
+    },
+    {
+      "id": "ws-syv-24",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः २४",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_२४",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 24",
+        "Vajasaneyi Samhita 24"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 24; pada text labelled NN.M with the svara text below it (Uvata and Mahidhara commentary interleaved). Registered by C1A-06 for 24.3 (शुद्धवालः सर्वशुद्धवालो — the shuddhodaka-snana mantra of the shodashopachara; the Gita Press handbook labels it 24.2). Second source: TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 24"
+    },
+    {
+      "id": "ws-narada-purva-67",
+      "project": "wikisource",
+      "title": "नारदपुराणम्- पूर्वार्धः/अध्यायः ६७",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D-_%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A7%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AC%E0%A5%AD",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "नारदपुराण",
+        "नारदपुरान",
+        "Narada Purana"
+      ],
+      "note": "Narada Purana purvardha chapter 67 (the general puja-paddhati of the Purana): verses 114–117 carry the three kshama-prarthana verses recited at the end of every puja (अन्यथा शरणं नास्ति …, अपराधसहस्राणि …, आवाहनं न जानामि …) with the readings क्षमस्व परमेश्वर / क्षमस्व जगतां पते / त्वं गतिः परमेश्वर; 111 has the द्रव्यहीनं क्रियाहीनं मंत्रहीनं form. Check source for pad-avahanam-na-janami, pad-anyatha-sharanam-nasti, pad-aparadha-sahasrani (the handbook readings stand in devanagari).",
+      "wikisourceLang": "sa",
+      "locator": "Narada Purana 1.67.111–118"
+    },
+    {
+      "id": "ws-brihatsamhita-47",
+      "project": "wikisource",
+      "title": "बृहत्संहिता/अध्यायः ४७",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%AC%E0%A5%83%E0%A4%B9%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%82%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A4%BE/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AA%E0%A5%AD",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "बृहत्संहिता",
+        "Brihat Samhita"
+      ],
+      "note": "Varahamihira's Brihat Samhita chapter 47 (pushya-snana): verse 78 is the classical visarjana verse यान्तु देवगणाः सर्वे पूजामादाय पार्थिवात् । सिद्धिं दत्त्वा तु विपुलां पुनरागमनाय च — the oldest dated form of the paddhati visarjana (6th century). Check source for pad-yantu-devaganah-sarve.",
+      "wikisourceLang": "sa",
+      "locator": "Brihat Samhita 47.78"
+    },
+    {
+      "id": "ws-skanda-kartika-31",
+      "project": "wikisource",
+      "title": "स्कन्दपुराणम्/खण्डः २ (वैष्णवखण्डः)/कार्तिकमासमाहात्म्यम्/अध्यायः ३१",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83_%E0%A5%A8_%28%E0%A4%B5%E0%A5%88%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A4%B5%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83%29/%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A4%AE%E0%A4%BE%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%B9%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A9%E0%A5%A7",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "स्कंदपुराण कार्तिकमासमाहात्म्य",
+        "Skanda Purana Kartika-masa-mahatmya"
+      ],
+      "note": "Skanda Purana, Vaishnava-khanda, Kartika-masa-mahatmya chapter 31 (Tulsi-vivaha vidhi): verse 38 is the visarjana verse गच्छ गच्छ सुरश्रेष्ठ स्वस्थाने परमेश्वर । यत्र ब्रह्मादयो देवास्तत्र गच्छ जनार्दन — copy source of pad-gachchha-gachchha-surashreshtha. Second source: the Gita Press handbook (हुताशन at the agni-visarjana; मम पूजां गृहीत्वेमां in the parthiva-pujana).",
+      "wikisourceLang": "sa",
+      "locator": "Skanda Purana 2.4.31.38"
+    },
+    {
+      "id": "ws-pandavagita",
+      "project": "wikisource",
+      "title": "पाण्डवगीता",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%B5%E0%A4%97%E0%A5%80%E0%A4%A4%E0%A4%BE",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "पांडवगीता",
+        "पाण्डवगीता",
+        "Pandava Gita"
+      ],
+      "note": "The Pandava Gita (Prapanna Gita), an anthology of verses of surrender spoken by the Pandavas and others: verse 12, Gandhari's त्वमेव माता च पिता त्वमेव …, is the prayer verse recited after the aarti in the Hindi-belt handbooks. Copy source of pad-tvameva-mata-cha-pita. Second source: the Gita Press handbook (parthiva-pujana, Lakshmi-pujana).",
+      "wikisourceLang": "sa",
+      "locator": "Pandava Gita 12"
+    },
+    {
+      "id": "ws-agni-167",
+      "project": "wikisource",
+      "title": "अग्निपुराणम्/अध्यायः १६७",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%85%E0%A4%97%E0%A5%8D%E0%A4%A8%E0%A4%BF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A7%E0%A5%AC%E0%A5%AD",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "अग्निपुराण",
+        "अग्निपुरान",
+        "Agni Purana"
+      ],
+      "note": "Agni Purana chapter 167 (dana-vidhi): verse 22 is the dakshina verse हिरण्यगर्भगर्भस्थं हेमबीजं विभावसोः । अनन्तपुण्यफलदमतः शान्तिं प्रयच्छ मे recited at the dakshina of every shodashopachara — copy source of pad-hiranyagarbha-garbhastham. Second source: the Gita Press handbook and the Dwivedi paddhati.",
+      "wikisourceLang": "sa",
+      "locator": "Agni Purana 167.22"
+    },
+    {
+      "id": "ws-baudhayana-gs-2",
+      "project": "wikisource",
+      "title": "बौधायनगृह्यसूत्रम्/प्रश्नः २",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%AC%E0%A5%8C%E0%A4%A7%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%A8%E0%A4%83_%E0%A5%A8",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "बौधायन गृह्यसूत्र",
+        "Baudhayana Grihya Sutra"
+      ],
+      "note": "Baudhayana Grihya Sutra prashna 2 (upanayana): 2.5.7 prescribes the yajnopavita with the mantra यज्ञोपवीतं परमं पवित्रं प्रजापतेर्यत्सहजं पुरस्तात् । आयुष्यमग्रियं प्रतिमुञ्च शुभ्रं यज्ञोपवीतं बलमस्तु तेजः — copy source of pad-yajnopavitam-paramam-pavitram (the paddhatis read अग्र्यं). Second source: the Gita Press handbook.",
+      "wikisourceLang": "sa",
+      "locator": "BGS 2.5.7"
+    },
+    {
+      "id": "ws-dikshaprakasha",
+      "project": "wikisource",
+      "title": "दीक्षाप्रकाशः",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A6%E0%A5%80%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B6%E0%A4%83",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "verify",
+      "secondSourceAvailable": false,
+      "titles": [
+        "दीक्षाप्रकाश",
+        "Dikshaprakasha"
+      ],
+      "note": "Dikshaprakasha, a Shaiva ritual digest: in its Shiva-dhyana it prints कर्पूरगौरं करुणावतारं … with the reading सदा रमन्तं हृदयारविन्दे (the handbooks read वसन्तं). The only Sanskrit Wikisource page carrying the verse; used as the check source of pad-karpura-gauram-karunavataram.",
+      "wikisourceLang": "sa",
+      "locator": "दीक्षाप्रकाशः, शिवध्यानम्"
+    },
+    {
+      "id": "ws-skanda-arunachala-1-09",
+      "project": "wikisource",
+      "title": "स्कन्दपुराणम्/खण्डः १ (माहेश्वरखण्डः)/अरुणाचलमाहात्म्यम् १/अध्यायः ०९",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83_%E0%A5%A7_%28%E0%A4%AE%E0%A4%BE%E0%A4%B9%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83%29/%E0%A4%85%E0%A4%B0%E0%A5%81%E0%A4%A3%E0%A4%BE%E0%A4%9A%E0%A4%B2%E0%A4%AE%E0%A4%BE%E0%A4%B9%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A5%8D_%E0%A5%A7/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A6%E0%A5%AF",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "verify",
+      "secondSourceAvailable": false,
+      "titles": [
+        "स्कंदपुराण अरुणाचलमाहात्म्य",
+        "Skanda Purana Arunachala-mahatmya"
+      ],
+      "note": "Skanda Purana, Maheshvara-khanda, Arunachala-mahatmya 1 chapter 9: verse 23 reads यानि कानि च पापानि जन्मांतरकृतानि च । तानि तानि विनश्यंति प्रदक्षिणपदे पदे — the Puranic parallel of the pradakshina verse of the handbooks (तानि सर्वाणि नश्यन्तु). Check source of pad-yani-kani-cha-papani.",
+      "wikisourceLang": "sa",
+      "locator": "Skanda Purana 1.3.1.9.23"
+    },
+    {
+      "id": "ws-skanda-margashirsha-08",
+      "project": "wikisource",
+      "title": "स्कन्दपुराणम्/खण्डः २ (वैष्णवखण्डः)/मार्गशीर्षमासमाहात्म्यम्/अध्यायः ०८",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83_%E0%A5%A8_%28%E0%A4%B5%E0%A5%88%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A4%B5%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83%29/%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%B6%E0%A5%80%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%AE%E0%A4%BE%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%B9%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A6%E0%A5%AE",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": false,
+      "titles": [
+        "स्कंदपुराण मार्गशीर्षमासमाहात्म्य",
+        "Skanda Purana Margashirsha-masa-mahatmya"
+      ],
+      "note": "Skanda Purana, Vaishnava-khanda, Margashirsha-masa-mahatmya chapter 8 (dhupa, dipa and nirajana mahatmya): verse 37, मन्त्रहीनं क्रियाहीनं यत्कृतं पूजनं मम । सर्वं संपूर्णतामेति कृते नीराजने, is the Purana's own statement on the aarti — copy source of pur-skanda-margashirsha-8-37 (phalashruti).",
+      "wikisourceLang": "sa",
+      "locator": "Skanda Purana 2.5.8.34–38"
+    },
+    {
+      "id": "ws-matsya-267",
+      "project": "wikisource",
+      "title": "मत्स्यपुराणम्/अध्यायः २६७",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A8%E0%A5%AC%E0%A5%AD",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "verify",
+      "secondSourceAvailable": false,
+      "titles": [
+        "मत्स्यपुराण",
+        "मत्स्यपुरान",
+        "Matsya Purana"
+      ],
+      "note": "Matsya Purana chapter 267 (pratishtha: snana and nirajana): 267.17–18 prescribe the nirajana and the achamana with मन्दाकिन्यास्तु यद्वारि सर्वपापापहं शुभम् — the Puranic first half of the shuddhodaka-snana verse of the handbooks. Check source of pad-mandakinyas-tu-yad-vari.",
+      "wikisourceLang": "sa",
+      "locator": "Matsya Purana 267.17–18"
     }
   ]
 }

@@ -1,0 +1,105 @@
+{
+  "id": "vs-31-1",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 31.1",
+  "title": {
+    "hi": "सहस्रशीर्षा पुरुषः (आवाहन)",
+    "en": "Sahasrashirsha purushah (the invocation)",
+    "bho": "सहस्रशीर्षा पुरुषः (आवाहन)"
+  },
+  "devanagari": "स॒हस्र॑शीर्षा॒ पुरु॑षः सहस्रा॒क्षः स॒हस्र॑पात् । स भूमि॑ᳪं᳭ स॒र्वतः॑ स्पृ॒त्वाऽत्य॑तिष्ठद्दशाङ्गु॒लम् ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "सहस्रशीर्षा",
+      "gloss": {
+        "hi": "हज़ार सिरों वाला",
+        "en": "thousand-headed",
+        "bho": "हजार मूड़ वाला"
+      }
+    },
+    {
+      "sa": "पुरुषः",
+      "gloss": {
+        "hi": "पुरुष (विराट् पुरुष)",
+        "en": "the Purusha",
+        "bho": "पुरुष"
+      }
+    },
+    {
+      "sa": "सहस्राक्षः",
+      "gloss": {
+        "hi": "हज़ार आँखों वाला",
+        "en": "thousand-eyed",
+        "bho": "हजार आँख वाला"
+      }
+    },
+    {
+      "sa": "सहस्रपात्",
+      "gloss": {
+        "hi": "हज़ार पैरों वाला",
+        "en": "thousand-footed",
+        "bho": "हजार गोड़ वाला"
+      }
+    },
+    {
+      "sa": "स भूमिं सर्वतः स्पृत्वा",
+      "gloss": {
+        "hi": "वह भूमि को सब ओर से व्याप कर",
+        "en": "he, having pervaded the earth on every side",
+        "bho": "ऊ भूमि के सब ओर से छेंक के"
+      }
+    },
+    {
+      "sa": "अत्यतिष्ठत्",
+      "gloss": {
+        "hi": "उससे ऊपर भी रहा",
+        "en": "stood beyond it",
+        "bho": "ओकरा से ऊपर भी रहल"
+      }
+    },
+    {
+      "sa": "दशाङ्गुलम्",
+      "gloss": {
+        "hi": "दस अंगुल",
+        "en": "by ten fingers",
+        "bho": "दस आंगुर"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "वह पुरुष हज़ार सिरों, हज़ार आँखों और हज़ार पैरों वाला है; उसने भूमि को सब ओर से व्याप लिया और फिर भी दस अंगुल ऊपर रहा।",
+    "en": "The Purusha has a thousand heads, a thousand eyes and a thousand feet; having pervaded the earth on every side, he still stood ten fingers beyond it.",
+    "bho": "ऊ पुरुष हजार मूड़, हजार आँख आ हजार गोड़ वाला बा; ऊ भूमि के सब ओर से छेंक लिहल आ तबो दस आंगुर ऊपर रहल।"
+  },
+  "explanation": {
+    "hi": "षोडशोपचार का पहला वैदिक मंत्र — **आवाहन** पर। हाथ में अक्षत-पुष्प लेकर पंडित इसे पढ़ता है और देवता को आसन पर बुलाने का वाक्य (आगच्छ भगवन् देव…) बोलता है; प्रतिष्ठित मूर्ति, शालग्राम या ज्योति में आवाहन नहीं होता, वहाँ इसी मंत्र से पुष्पांजलि दी जाती है ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur))। यह पुरुषसूक्त (शुक्लयजुर्वेद के अध्याय 31) का 1-वाँ मंत्र है; माध्यंदिन षोडशोपचार में पुरुषसूक्त के मंत्र क्रम से एक-एक उपचार पर पढ़े जाते हैं, इसलिए मंत्र का अर्थ उपचार से सीधा नहीं जुड़ता — वह सृष्टि के आदि-पुरुष का वर्णन है। पाठ [संस्कृत विकिस्रोत](https://sa.wikisource.org/) के [शुक्लयजुर्वेद अध्याय 31](https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%AF%E0%A4%9C%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A9%E0%A5%A7) पृष्ठ के स्वर-पाठ से लिया गया और [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) से शब्द-शब्द जाँचा गया।",
+    "en": "The first Vedic mantra of the shodashopachara — at the **avahana** (invocation). Holding rice and flowers the pandit recites it and says the sentence that calls the deity to the seat (agachchha bhagavan deva …); a consecrated murti, a shaligrama or a flame is not invoked — there this mantra accompanies a flower offering instead ([Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur)). This is verse 1 of the Purusha-sukta (chapter 31 of the Shukla Yajurveda); the Madhyandina shodashopachara recites the sukta verse by verse, one per offering, so the meaning does not describe the offering itself — it describes the primal Purusha of creation. Text from the svara text of the [Sanskrit Wikisource](https://sa.wikisource.org/) page [Vajasaneyi Samhita 31](https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%AF%E0%A4%9C%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A9%E0%A5%A7), checked word by word against [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm).",
+    "bho": "षोडशोपचार के पहिला वैदिक मंत्र — **आवाहन** पर। हाथ में अछत-फूल लेके पंडित एकरा पढ़ेलन आ देवता के आसन पर बोलावे के वाक्य (आगच्छ भगवन् देव…) बोलेलन; परतिष्ठित मूरति, सालिग्राम भा जोत में आवाहन ना होला, ओहिजा एही मंत्र से पुष्पांजलि दिहल जाला ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur))। ई पुरुषसूक्त (शुक्लयजुर्वेद के अध्याय 31) के 1-वाँ मंत्र बा; माध्यंदिन षोडशोपचार में पुरुषसूक्त के मंत्र क्रम से एक-एक उपचार पर पढ़ल जाला, एही से मंत्र के अरथ उपचार से सीधे नइखे जुड़त — ऊ सिरिष्टी के आदि-पुरुष के बरनन बा। पाठ [संस्कृत विकिस्रोत](https://sa.wikisource.org/) के [शुक्लयजुर्वेद अध्याय 31](https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%AF%E0%A4%9C%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A9%E0%A5%A7) पन्ना के स्वर-पाठ से लिहल गइल आ [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) से सब्द-सब्द जाँचल गइल।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-31",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed; a doubled anudatta mark in दशाङ्गुलम् reduced to one"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "shodashopachar",
+    "avahana",
+    "purusha-sukta"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

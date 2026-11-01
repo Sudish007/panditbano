@@ -1,0 +1,515 @@
+{
+  "id": "aarti-pushpanjali-visarjan",
+  "code": "F14",
+  "group": "foundations",
+  "phase": 1,
+  "title": {
+    "hi": "आरती, मंत्रपुष्पांजलि, प्रदक्षिणा, क्षमा-प्रार्थना, विसर्जन",
+    "en": "Aarti, mantra-pushpanjali, pradakshina, kshama-prarthana, visarjana — closing the puja",
+    "bho": "आरती, मंत्रपुष्पांजलि, परिकरमा, क्षमा-प्रार्थना, बिसर्जन"
+  },
+  "lede": {
+    "hi": "हर पूजा का उत्तरांग — घंटा-नाद और कपूर-आरती से फूलों की अंजलि, परिक्रमा, क्षमा-याचना, समर्पण और अंत में देवताओं का विसर्जन।",
+    "en": "The closing of every puja — from the bell and the camphor aarti to the handful of flowers, the circumambulation, the plea for forgiveness, the offering-up and, at the very end, the dismissal of the deities.",
+    "bho": "हर पूजा के उत्तरांग — घंटा-नाद आ कपूर-आरती से फूल के अंजुरी, परिकरमा, छिमा-माँग, समर्पन आ अंत में देवता लोग के बिसर्जन।"
+  },
+  "overview": {
+    "hi": "[षोडशोपचार](/occasions/shodashopachar/) की दक्षिणा के बाद पूजा का अंतिम भाग शुरू होता है, जिसे हर देवता पर एक ही ढंग से किया जाता है। पहले [[aarti]] (नीराजन): घंटा बजाकर, VS 19.48 और 34.32 तथा 'कदलीगर्भसंभूतं' पढ़ते हुए कपूर या घी की बत्ती वाली थाली देवता के सामने घुमाई जाती है; हिंदी-पट्टी में इसके साथ 'कर्पूरगौरं करुणावतारं' और 'ॐ जय जगदीश हरे' जैसे आरती-गीत गाए जाते हैं और सब लोग दोनों हथेलियों से आरती लेते हैं। फिर [[mantra-pushpanjali]] — दोनों हाथों में फूल लेकर खड़े होकर VS 31.16 'यज्ञेन यज्ञमयजंत' और देवता का आवाहन-मंत्र, फूल देवता पर; [[pradakshina]] — 'यानि कानि च पापानि' पढ़ते हुए देवता को दाहिने रखकर परिक्रमा (देवी की एक, सूर्य की सात, गणेश की तीन, विष्णु की चार, शिव की आधी); साष्टांग [[namaskar]] और प्रार्थना ('त्वमेव माता च पिता'); [[kshama-prarthana]] के चार श्लोक — 'आवाहनं न जानामि', 'अन्यथा शरणं नास्ति', 'अपराधसहस्राणि', 'मंत्रहीनं क्रियाहीनं'; समर्पण-वाक्य 'अनया पूजया … प्रीयताम् न मम' और 'ॐ तत्सत् ब्रह्मार्पणमस्तु' के साथ जल छोड़ना; [[charanamrit]] और [[prasad]]।\n\n[[visarjan]] पूरे कर्म के अंत में होता है — हवन, कथा या संस्कार के बाद — हाथ में अक्षत लेकर 'यांतु देवगणाः सर्वे' और 'गच्छ गच्छ सुरश्रेष्ठ' पढ़ते हुए आवाहित देवताओं (कलश, नवग्रह, मातृका, दिक्पाल के प्रतीकों) पर अक्षत छोड़े जाते हैं; घर की स्थायी मूर्ति और नई गणेश-लक्ष्मी प्रतिमा का विसर्जन नहीं होता। परंपरा में माना जाता है कि पूजा में जो कमी रह जाए, आरती और क्षमा-प्रार्थना उसकी पूर्ति हैं — [स्कंदपुराण](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83_%E0%A5%A8_%28%E0%A4%B5%E0%A5%88%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A4%B5%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83%29/%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%B6%E0%A5%80%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%AE%E0%A4%BE%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%B9%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A6%E0%A5%AE) (मार्गशीर्षमासमाहात्म्य 8.37) इसे अपने शब्दों में कहता है। श्लोकों के पाठ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur), [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) और विकिस्रोत के पुराण-पृष्ठों से हैं, जहाँ उनके मूल स्थल मिले।",
+    "en": "After the dakshina of the [shodashopachara](/occasions/shodashopachar/) the last part of the puja begins, performed the same way for every deity. First the [[aarti]] (nirajana): the bell is rung and, with VS 19.48, 34.32 and 'kadali-garbha-sambhutam', the plate with camphor or a ghee wick is circled before the deity; in the Hindi belt the aarti songs 'karpura-gauram karunavataram' and 'om jai jagadisha hare' go with it, and everyone takes the aarti with both palms. Then the [[mantra-pushpanjali]] — standing with flowers in both hands, VS 31.16 'yajnena yajnam ayajanta' and the deity's invocation mantra, the flowers onto the deity; the [[pradakshina]] — walking round with the deity on the right, reciting 'yani kani cha papani' (one circuit for the goddess, seven for the Sun, three for Ganesha, four for Vishnu, half for Shiva); the full prostration ([[namaskar]]) and the prayer ('tvam eva mata cha pita'); the four verses of the [[kshama-prarthana]] — 'avahanam na janami', 'anyatha sharanam nasti', 'aparadha-sahasrani', 'mantrahinam kriyahinam'; the sentence of offering-up 'anaya pujaya … priyatam na mama' with 'om tat sat brahmarpanam astu' and water released; [[charanamrit]] and [[prasad]].\n\nThe [[visarjan]] comes at the end of the whole rite — after the havan, the katha or the samskara — with rice in hand, reciting 'yantu devaganah sarve' and 'gachchha gachchha surashreshtha' as the rice is released onto the invoked deities (the tokens of the kalasha, navagraha, matrikas and dikpalas); the household's permanent murti and the new Ganesha–Lakshmi figures are not dismissed. Tradition holds that the aarti and the plea for forgiveness make good whatever was left wanting in the puja — the [Skanda Purana](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83_%E0%A5%A8_%28%E0%A4%B5%E0%A5%88%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A4%B5%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83%29/%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%B6%E0%A5%80%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%AE%E0%A4%BE%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%B9%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A6%E0%A5%AE) (Margashirsha-masa-mahatmya 8.37) says so in its own words. The verse texts come from the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur), the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) and the Wikisource Purana pages where their original passages were found.",
+    "bho": "[षोडशोपचार](/occasions/shodashopachar/) के दक्षिणा के बाद पूजा के अंतिम भाग सुरू होला, जेकरा हर देवता पर एके ढंग से कइल जाला। पहिले [[aarti]] (नीराजन): घंटा बजा के, VS 19.48 आ 34.32 आ 'कदलीगर्भसम्भूतं' पढ़त कपूर भा घीव के बाती वाली थारी देवता के आगे घुमावल जाला; हिंदी-पट्टी में एकरा संगे 'कर्पूरगौरं करुणावतारं' आ 'ॐ जय जगदीश हरे' जइसन आरती-गीत गावल जाला आ सब लोग दुनो हथेली से आरती लेला। फेर [[mantra-pushpanjali]] — दुनो हाथ में फूल लेके ठाढ़ होके VS 31.16 'यज्ञेन यज्ञमयजन्त' आ देवता के आवाहन-मंत्र, फूल देवता पर; [[pradakshina]] — 'यानि कानि च पापानि' पढ़त देवता के दहिने रख के परिकरमा (देवी के एक, सुरुज के सात, गणेश के तीन, बिस्नु के चार, सिव के आधा); साष्टांग [[namaskar]] आ प्रार्थना ('त्वमेव माता च पिता'); [[kshama-prarthana]] के चार श्लोक — 'आवाहनं न जानामि', 'अन्यथा शरणं नास्ति', 'अपराधसहस्राणि', 'मन्त्रहीनं क्रियाहीनं'; समर्पन-वाक्य 'अनया पूजया … प्रीयताम् न मम' आ 'ॐ तत्सत् ब्रह्मार्पणमस्तु' संगे पानी छोड़ल; [[charanamrit]] आ [[prasad]]।\n\n[[visarjan]] पूरा करम के अंत में होला — हवन, कथा भा संस्कार के बाद — हाथ में अछत लेके 'यान्तु देवगणाः सर्वे' आ 'गच्छ गच्छ सुरश्रेष्ठ' पढ़त आवाहित देवता लोग (कलस, नवग्रह, मातृका, दिकपाल के प्रतीक) पर अछत छोड़ल जाला; घर के थाई मूरति आ नवका गणेश-लक्ष्मी प्रतिमा के बिसर्जन ना होला। परंपरा में मानल जाला कि पूजा में जे कमी रह जाए, आरती आ क्षमा-प्रार्थना ओकर पूरती बा — [स्कंदपुरान](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83_%E0%A5%A8_%28%E0%A4%B5%E0%A5%88%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A4%B5%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83%29/%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%B6%E0%A5%80%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%AE%E0%A4%BE%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%B9%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A6%E0%A5%AE) (मार्गशीर्षमासमाहात्म्य 8.37) एकरा आपन सब्द में कहेला। श्लोक के पाठ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur), [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) आ विकिस्रोत के पुरान-पन्ना से बा, जहाँ उनकर मूल ठाँव मिलल।"
+  },
+  "when": {
+    "rules": {
+      "hi": "हर पूजा के अंत में, दक्षिणा के बाद; आरती नित्य पूजा में सुबह-शाम भी। विसर्जन केवल पूरे कर्म (हवन, कथा, संस्कार) के समाप्त होने पर — बीच की पूजाओं में नहीं। अपना मुहूर्त नहीं।",
+      "en": "At the end of every puja, after the dakshina; the aarti also morning and evening in the daily puja. The dismissal only when the whole rite (havan, katha, samskara) has ended — not in the pujas in between. No muhurat of its own.",
+      "bho": "हर पूजा के अंत में, दक्षिणा के बाद; आरती नित्य पूजा में भोर-साँझ भी। बिसर्जन खाली पूरा करम (हवन, कथा, संस्कार) खतम भइला पर — बीच के पूजा में ना। आपन मुहूरत नइखे।"
+    },
+    "shubhvela": {
+      "muhurat": null,
+      "festival": null,
+      "vrat": null
+    }
+  },
+  "roles": [
+    {
+      "role": {
+        "hi": "पुरोहित",
+        "en": "Purohit",
+        "bho": "पुरोहित"
+      },
+      "does": {
+        "hi": "आरती के मंत्र-श्लोक, पुष्पांजलि, प्रदक्षिणा और क्षमा-प्रार्थना के श्लोक पढ़ता है; विसर्जन का समय बताता है और अक्षत छोड़वाता है।",
+        "en": "Recites the aarti mantras and verses, the pushpanjali, circumambulation and kshama verses; says when the dismissal is due and has the rice released.",
+        "bho": "आरती के मंत्र-श्लोक, पुष्पांजलि, परिकरमा आ क्षमा-प्रार्थना के श्लोक पढ़ेलन; बिसर्जन के समय बतावेलन आ अछत छोड़वावेलन।"
+      }
+    },
+    {
+      "role": {
+        "hi": "यजमान (पत्नी सहित)",
+        "en": "The host (with his wife)",
+        "bho": "जजमान (पत्नी सहित)"
+      },
+      "does": {
+        "hi": "थाली घुमाकर आरती करता है, फूल की अंजलि देता है, परिक्रमा और साष्टांग नमस्कार करता है, समर्पण का जल छोड़ता है, अंत में विसर्जन के अक्षत।",
+        "en": "Circles the plate for the aarti, offers the handful of flowers, makes the circuits and the prostration, releases the water of offering-up and, at the end, the rice of dismissal.",
+        "bho": "थारी घुमा के आरती करेलन, फूल के अंजुरी देलन, परिकरमा आ साष्टांग परनाम करेलन, समर्पन के पानी छोड़ेलन, अंत में बिसर्जन के अछत।"
+      }
+    },
+    {
+      "role": {
+        "hi": "परिवार और उपस्थित लोग",
+        "en": "Family and those present",
+        "bho": "परिवार आ आइल लोग"
+      },
+      "does": {
+        "hi": "खड़े होकर आरती गाते हैं, घंटी-शंख बजाते हैं, आरती लेते हैं, चरणामृत-प्रसाद पाते हैं।",
+        "en": "Stand and sing the aarti, ring the bell and blow the conch, take the aarti, receive charanamrit and prasad.",
+        "bho": "ठाढ़ होके आरती गावेलन, घंटी-संख बजावेलन, आरती लेलन, चरनामृत-परसाद पावेलन।"
+      }
+    }
+  ],
+  "samagri": [
+    {
+      "id": "aarti-thali",
+      "item": {
+        "hi": "आरती की थाली — स्वस्तिक बनाकर अक्षत-फूल पर दीपक",
+        "en": "The aarti thali — a swastika drawn, the lamp set on rice and flowers",
+        "bho": "आरती के थरिया — सातिया बना के अछत-फूल पर दीया"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "kapur",
+      "item": {
+        "hi": "कपूर और जलाने का अलग पात्र",
+        "en": "Camphor and a separate dish to burn it",
+        "bho": "कपूर आ जरावे के अलगे बरतन"
+      },
+      "qty": "2-3 टिकिया",
+      "must": true
+    },
+    {
+      "id": "ghee-batti",
+      "item": {
+        "hi": "घी का दीपक, एक या पाँच बत्ती",
+        "en": "A ghee lamp with one or five wicks",
+        "bho": "घीव के दीया, एक भा पाँच बाती"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "pushp-anjali",
+      "item": {
+        "hi": "पुष्पांजलि के लिए फूल (कमल, गेंदा, गुलाब)",
+        "en": "Flowers for the pushpanjali (lotus, marigold, rose)",
+        "bho": "पुष्पांजलि खातिर फूल (कमल, गेंदा, गुलाब)"
+      },
+      "qty": "मुट्ठी भर",
+      "must": true
+    },
+    {
+      "id": "akshat-visarjan",
+      "item": {
+        "hi": "विसर्जन के लिए अक्षत",
+        "en": "Rice for the dismissal",
+        "bho": "बिसर्जन खातिर अछत"
+      },
+      "qty": "1 मुट्ठी",
+      "must": true
+    },
+    {
+      "id": "ghanti-shankh",
+      "item": {
+        "hi": "घंटी और शंख",
+        "en": "Bell (ghanti) and conch (shankh)",
+        "bho": "घंटी आ शंख"
+      },
+      "qty": "1-1"
+    },
+    {
+      "id": "jal-patra",
+      "item": {
+        "hi": "जल-पात्र और आचमनी (आरती के नीचे और समर्पण के लिए जल)",
+        "en": "Water vessel and spoon (water under the aarti plate and for the offering-up)",
+        "bho": "पानी के बरतन आ आचमनी (आरती के नीचे आ समर्पन खातिर पानी)"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "charanamrit-prasad",
+      "item": {
+        "hi": "चरणामृत (तुलसी-जल) और प्रसाद बाँटने के पात्र",
+        "en": "Charanamrita (tulsi water) and vessels to share the prasad",
+        "bho": "चरणामृत (तुलसी-पानी) आ परसाद बाँटे के बरतन"
+      },
+      "qty": "यथासंख्या"
+    }
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "layer": "lok",
+      "action": {
+        "hi": "आरती की तैयारी: थाली में रोली से स्वस्तिक बनाकर अक्षत-फूल रखें, उस पर घी की बत्ती वाला दीपक जलाएँ; कपूर अलग पात्र में रखकर जलाएँ; थाली पर जल छिड़ककर (प्रोक्षण) उठाएँ। सब लोग खड़े हो जाएँ।",
+        "en": "Preparing the aarti: draw a swastika with roli in the plate, set rice and flowers on it and light the ghee lamp on them; light camphor in a separate dish; sprinkle the plate with water (prokshana) and lift it. Everyone stands.",
+        "bho": "आरती के तइयारी: थारी में रोरी से सातिया बना के अछत-फूल रखीं, ओह पर घीव के बाती वाला दीया जराईं; कपूर अलगे बरतन में रख के जराईं; थारी पर पानी छींट के (प्रोक्षन) उठाईं। सब लोग ठाढ़ हो जासु।"
+      },
+      "note": {
+        "hi": "तैयारी का यह क्रम [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) की 'प्रधान आरती' (पृ. 273–274) से है।",
+        "en": "This order of preparation follows the 'main aarti' of the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (pp. 273–274).",
+        "bho": "तइयारी के ई क्रम [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) के 'प्रधान आरती' (पृ. 273–274) से बा।"
+      },
+      "samagriIds": [
+        "aarti-thali",
+        "kapur",
+        "ghee-batti",
+        "jal-patra"
+      ],
+      "minutes": 3
+    },
+    {
+      "n": 2,
+      "layer": "paddhati",
+      "action": {
+        "hi": "घंटा-नाद: पंडित 'आगमार्थं तु देवानां' पढ़ता है और घंटी बजाई जाती है; शंख हो तो आरती के समय बजता रहता है।",
+        "en": "Ringing the bell: the pandit recites 'agamartham tu devanam' and the bell is rung; the conch, if there is one, sounds through the aarti.",
+        "bho": "घंटा-नाद: पंडित 'आगमार्थं तु देवानां' पढ़ेलन आ घंटी बजावल जाला; संख होखे त आरती के बेरा बजत रहेला।"
+      },
+      "mantraIds": [
+        "pad-agamartham-tu-devanam"
+      ],
+      "samagriIds": [
+        "ghanti-shankh"
+      ],
+      "minutes": 1
+    },
+    {
+      "n": 3,
+      "layer": "vedic",
+      "action": {
+        "hi": "वैदिक नीराजन: पंडित VS 19.48 'इदं हविः प्रजननं मे अस्तु', VS 34.32 'आ रात्रि पार्थिवं रजः' और 'कदलीगर्भसंभूतं' पढ़ता है; यजमान जलते कपूर की थाली देवता के सामने दाहिनी ओर से घुमाता है, फिर 'आरार्तिकं समर्पयामि' पर थाली के नीचे जल छोड़ता है।",
+        "en": "The Vedic nirajana: the pandit recites VS 19.48 'idam havih prajananam me astu', VS 34.32 'a ratri parthivam rajah' and 'kadali-garbha-sambhutam'; the host circles the plate with the burning camphor before the deity, clockwise, and at 'ararttikam samarpayami' drops water below the plate.",
+        "bho": "वैदिक नीराजन: पंडित VS 19.48 'इदं हविः प्रजननं मे अस्तु', VS 34.32 'आ रात्रि पार्थिवं रजः' आ 'कदलीगर्भसम्भूतं' पढ़ेलन; जजमान जरत कपूर के थारी देवता के आगे दहिना ओर से घुमावेलन, फेर 'आरार्तिकं समर्पयामि' पर थारी के नीचे पानी छोड़ेलन।"
+      },
+      "mantraIds": [
+        "vs-19-48",
+        "vs-34-32",
+        "pad-kadali-garbha-sambhutam"
+      ],
+      "panditSays": {
+        "sa": "ॐ {देवता} नमः । आरार्तिकं समर्पयामि ।",
+        "hi": "पंडित मंत्र और श्लोक पढ़कर वाक्य बोलता है; यजमान करता है।",
+        "en": "The pandit recites the mantra and the verse and says the sentence; the host acts.",
+        "bho": "पंडित मंत्र आ श्लोक पढ़ के वाक्य बोलेलन; जजमान करेलन।"
+      },
+      "samagriIds": [
+        "aarti-thali",
+        "kapur"
+      ],
+      "minutes": 3,
+      "important": true
+    },
+    {
+      "n": 4,
+      "layer": "lok",
+      "action": {
+        "hi": "आरती-गीत: 'कर्पूरगौरं करुणावतारं' और देवता की हिंदी आरती ('ॐ जय जगदीश हरे', 'जय गणेश देवा', 'ॐ जय लक्ष्मी माता'…) गाते हुए थाली घुमाई जाती है; घर के लोग ताली-घंटी के साथ गाते हैं। आरती-गीतों के पूरे पाठ नित्य आरती के पृष्ठ पर आएँगे।",
+        "en": "The aarti songs: 'karpura-gauram karunavataram' and the deity's Hindi aarti ('om jai jagadisha hare', 'jai ganesha deva', 'om jai lakshmi mata' …) are sung as the plate is circled; the family sings along with clapping and the bell. The full texts of the songs will come on the daily-aarti page.",
+        "bho": "आरती-गीत: 'कर्पूरगौरं करुणावतारं' आ देवता के हिंदी आरती ('ॐ जय जगदीश हरे', 'जय गणेश देवा', 'ॐ जय लक्ष्मी माता'…) गावत थारी घुमावल जाला; घर के लोग ताली-घंटी संगे गावेला। आरती-गीत के पूरा पाठ नित्य आरती के पन्ना पर आई।"
+      },
+      "mantraIds": [
+        "pad-karpura-gauram-karunavataram"
+      ],
+      "samagriIds": [
+        "ghee-batti"
+      ],
+      "minutes": 5
+    },
+    {
+      "n": 5,
+      "layer": "lok",
+      "action": {
+        "hi": "आरती लेना: थाली नीचे रखकर सब लोग दोनों हथेलियाँ लौ पर फेरकर आँखों-सिर पर लगाते हैं; यजमान हाथ धोता है। पोथी के अनुसार शंख में भरा जल पाँच बार देवता के चारों ओर घुमाकर (शंख-भ्रामण) अपने और उपस्थित लोगों पर छिड़का जाता है।",
+        "en": "Taking the aarti: the plate is set down and everyone passes both palms over the flame and touches eyes and head; the host washes his hands. By the handbook, water in the conch is circled five times round the deity (shankha-bhramana) and sprinkled on oneself and those present.",
+        "bho": "आरती लेना: थारी नीचे रख के सब लोग दुनो हथेली लौ पर फेर के आँख-माथ पर लगावेला; जजमान हाथ धोवेलन। पोथी के हिसाब से संख में भरल पानी पाँच बेर देवता के चारो ओर घुमा के (संख-भ्रामन) आपन आ आइल लोग पर छींटल जाला।"
+      },
+      "samagriIds": [
+        "ghanti-shankh",
+        "jal-patra"
+      ],
+      "minutes": 2
+    },
+    {
+      "n": 6,
+      "layer": "vedic",
+      "action": {
+        "hi": "मंत्रपुष्पांजलि: सब लोग दोनों हाथों में फूल लेकर खड़े हों; पंडित VS 31.16 'यज्ञेन यज्ञमयजंत', देवता का आवाहन-मंत्र (गणेश-गौरी के लिए VS 23.19 और 23.18; लक्ष्मी के लिए 31.22 'श्रीश्च ते लक्ष्मीश्च' भी) और 'नानासुगंधिपुष्पाणि' पढ़ता है; 'मंत्रपुष्पांजलिं समर्पयामि' पर फूल देवता पर छोड़े जाते हैं।",
+        "en": "The mantra-pushpanjali: everyone stands with flowers in both hands; the pandit recites VS 31.16 'yajnena yajnam ayajanta', the deity's invocation mantra (VS 23.19 and 23.18 for Ganesha and Gauri; for Lakshmi also 31.22 'shrish cha te lakshmish cha') and 'nana-sugandhi-pushpani'; at 'mantra-pushpanjalim samarpayami' the flowers are released onto the deity.",
+        "bho": "मंत्रपुष्पांजलि: सब लोग दुनो हाथ में फूल लेके ठाढ़ होखसु; पंडित VS 31.16 'यज्ञेन यज्ञमयजन्त', देवता के आवाहन-मंत्र (गणेश-गौरी खातिर VS 23.19 आ 23.18; लक्ष्मी खातिर 31.22 'श्रीश्च ते लक्ष्मीश्च' भी) आ 'नानासुगन्धिपुष्पाणि' पढ़ेलन; 'मन्त्रपुष्पाञ्जलिं समर्पयामि' पर फूल देवता पर छोड़ल जाला।"
+      },
+      "mantraIds": [
+        "vs-31-16",
+        "vs-23-19",
+        "vs-23-18",
+        "vs-31-22",
+        "pad-nana-sugandhi-pushpani"
+      ],
+      "panditSays": {
+        "sa": "ॐ {देवता} नमः । मन्त्रपुष्पाञ्जलिं समर्पयामि ।",
+        "hi": "पंडित मंत्र और श्लोक पढ़कर वाक्य बोलता है; यजमान करता है।",
+        "en": "The pandit recites the mantra and the verse and says the sentence; the host acts.",
+        "bho": "पंडित मंत्र आ श्लोक पढ़ के वाक्य बोलेलन; जजमान करेलन।"
+      },
+      "samagriIds": [
+        "pushp-anjali"
+      ],
+      "minutes": 2,
+      "important": true
+    },
+    {
+      "n": 7,
+      "layer": "paddhati",
+      "action": {
+        "hi": "प्रदक्षिणा — 'यानि कानि च पापानि' पढ़ते हुए देवता को दाहिने रखकर परिक्रमा: देवी की एक, सूर्य की सात, गणेश की तीन, विष्णु की चार, शिव की आधी (जलधारी की नाली न लाँघें); स्थान न हो तो अपने आसन पर ही घूम लें। गणेश-गौरी के संयुक्त पूजन में पोथी चार परिक्रमा कराती है।",
+        "en": "The pradakshina: reciting 'yani kani cha papani', walk round with the deity on the right — one circuit for the goddess, seven for the Sun, three for Ganesha, four for Vishnu, half for Shiva (never stepping across the channel of the basin); where there is no room, turn on one's own seat. For the joint Ganesha–Gauri worship the handbook has four circuits.",
+        "bho": "परिकरमा — 'यानि कानि च पापानि' पढ़त देवता के दहिने रख के परिकरमा: देवी के एक, सुरुज के सात, गणेश के तीन, बिस्नु के चार, सिव के आधा (जलधारी के नाली ना लाँघीं); ठाँव ना होखे त आपन आसन पर घूम लीं। गणेश-गौरी के संजुक्त पूजन में पोथी चार परिकरमा करावेला।"
+      },
+      "mantraIds": [
+        "pad-yani-kani-cha-papani",
+        "pad-eka-chandya-raveh-sapta"
+      ],
+      "panditSays": {
+        "sa": "ॐ {देवता} नमः । प्रदक्षिणां समर्पयामि ।",
+        "hi": "पंडित मंत्र और श्लोक पढ़कर वाक्य बोलता है; यजमान करता है।",
+        "en": "The pandit recites the mantra and the verse and says the sentence; the host acts.",
+        "bho": "पंडित मंत्र आ श्लोक पढ़ के वाक्य बोलेलन; जजमान करेलन।"
+      },
+      "minutes": 2
+    },
+    {
+      "n": 8,
+      "layer": "paddhati",
+      "action": {
+        "hi": "नमस्कार और प्रार्थना: साष्टांग (स्त्रियाँ पंचांग) नमस्कार; हाथ जोड़कर 'त्वमेव माता च पिता त्वमेव' और देवता का अपना प्रार्थना-श्लोक (गणेश के लिए 'विघ्नेश्वराय वरदाय', नवग्रह के लिए 'ब्रह्मा मुरारिस्त्रिपुरांतकारी' आदि)।",
+        "en": "Prostration and prayer: the full prostration (women bow with five limbs); with folded hands 'tvam eva mata cha pita tvam eva' and the deity's own prayer verse ('vighneshvaraya varadaya' for Ganesha, 'brahma murarih tripurantakari' for the navagraha and so on).",
+        "bho": "परनाम आ प्रार्थना: साष्टांग (मेहरारू पंचांग) परनाम; हाथ जोड़ के 'त्वमेव माता च पिता त्वमेव' आ देवता के आपन प्रार्थना-श्लोक (गणेश खातिर 'विघ्नेश्वराय वरदाय', नवग्रह खातिर 'ब्रह्मा मुरारिस्त्रिपुरान्तकारी' वगैरह)।"
+      },
+      "mantraIds": [
+        "pad-tvameva-mata-cha-pita",
+        "pad-vighneshvaraya-varadaya",
+        "pad-brahma-murari-tripurantakari"
+      ],
+      "panditSays": {
+        "sa": "ॐ {देवता} नमः । प्रार्थनापूर्वकं नमस्कारान् समर्पयामि ।",
+        "hi": "पंडित मंत्र और श्लोक पढ़कर वाक्य बोलता है; यजमान करता है।",
+        "en": "The pandit recites the mantra and the verse and says the sentence; the host acts.",
+        "bho": "पंडित मंत्र आ श्लोक पढ़ के वाक्य बोलेलन; जजमान करेलन।"
+      },
+      "note": {
+        "hi": "स्त्रियों के पंचांग नमस्कार का नियम लोकाचार है, पोथी का वाक्य नहीं।",
+        "en": "The rule that women bow with five limbs is custom, not a sentence of the handbook.",
+        "bho": "मेहरारू के पंचांग परनाम के नियम लोकाचार बा, पोथी के वाक्य ना।"
+      },
+      "minutes": 2
+    },
+    {
+      "n": 9,
+      "layer": "paddhati",
+      "action": {
+        "hi": "क्षमा-प्रार्थना — हाथ जोड़कर चार श्लोक: 'आवाहनं न जानामि', 'अन्यथा शरणं नास्ति', 'अपराधसहस्राणि' और 'मंत्रहीनं क्रियाहीनं' (संबोधन देवता के अनुसार: परमेश्वर/परमेश्वरि, जनार्दन/सुरेश्वर/गजानन)।",
+        "en": "Kshama-prarthana — with folded hands the four verses: 'avahanam na janami', 'anyatha sharanam nasti', 'aparadha-sahasrani' and 'mantrahinam kriyahinam' (the vocative following the deity: parameshvara/parameshvari, janardana/sureshvara/gajanana).",
+        "bho": "क्षमा-प्रार्थना — हाथ जोड़ के चार श्लोक: 'आवाहनं न जानामि', 'अन्यथा शरणं नास्ति', 'अपराधसहस्राणि' आ 'मन्त्रहीनं क्रियाहीनं' (संबोधन देवता के हिसाब से: परमेश्वर/परमेश्वरि, जनार्दन/सुरेश्वर/गजानन)।"
+      },
+      "mantraIds": [
+        "pad-avahanam-na-janami",
+        "pad-anyatha-sharanam-nasti",
+        "pad-aparadha-sahasrani",
+        "pad-mantrahinam-kriyahinam"
+      ],
+      "minutes": 2,
+      "important": true
+    },
+    {
+      "n": 10,
+      "layer": "paddhati",
+      "action": {
+        "hi": "समर्पण — यजमान हाथ में जल लेकर पंडित के साथ समर्पण-वाक्य बोलता है और जल छोड़ता है: पूजा का फल देवता को, 'न मम' (मेरा नहीं); फिर 'ॐ तत्सत् ब्रह्मार्पणमस्तु' और तीन बार 'ॐ विष्णवे नमः'।",
+        "en": "Offering-up: the host, water in hand, says the sentence of offering-up with the pandit and releases the water — the fruit of the worship goes to the deity, 'na mama' (not mine); then 'om tat sat brahmarpanam astu' and three times 'om vishnave namah'.",
+        "bho": "समर्पन — जजमान हाथ में पानी लेके पंडित संगे समर्पन-वाक्य बोलेलन आ पानी छोड़ेलन: पूजा के फल देवता के, 'न मम' (हमार ना); फेर 'ॐ तत्सत् ब्रह्मार्पणमस्तु' आ तीन बेर 'ॐ विष्णवे नमः'।"
+      },
+      "panditSays": {
+        "sa": "अनया पूजया {देवता} प्रीयताम् न मम । ॐ तत्सत् ब्रह्मार्पणमस्तु । ॐ विष्णवे नमः । ॐ विष्णवे नमः । ॐ विष्णवे नमः ।",
+        "hi": "पंडित वाक्य बोलता है; यजमान जल छोड़ता है।",
+        "en": "The pandit says the sentence; the host releases the water.",
+        "bho": "पंडित वाक्य बोलेलन; जजमान पानी छोड़ेलन।"
+      },
+      "samagriIds": [
+        "jal-patra"
+      ],
+      "minutes": 1
+    },
+    {
+      "n": 11,
+      "layer": "lok",
+      "action": {
+        "hi": "चरणामृत और प्रसाद — देवता पर चढ़ा एक फूल (निर्माल्य) सिर पर धारण करें; पोथी निर्माल्य अँगूठे-तर्जनी से हटाने का नियम देती है; चरणामृत दाहिनी हथेली में लेकर पिएँ और सिर पर लगाएँ; प्रसाद, चंदन और बचा हुआ नैवेद्य सबमें बाँटें; पहले ब्राह्मणों और बड़ों को प्रणाम।",
+        "en": "Charanamrit and prasad: a flower that was on the deity (nirmalya) is placed on one's head — the handbook has it lifted with thumb and forefinger; the charanamrit is drunk from the right palm and touched to the head; prasad, sandal and the remaining food are shared with all; first a bow to the Brahmins and the elders.",
+        "bho": "चरनामृत आ परसाद — देवता पर चढ़ल एगो फूल (निर्माल्य) माथ पर धारन करीं; पोथी निर्माल्य अँगूठा-तर्जनी से हटावे के नियम देला; चरनामृत दहिना हथेली में लेके पीयीं आ माथ पर लगाईं; परसाद, चंदन आ बाँचल नैवेद्य सब में बाँटीं; पहिले ब्राह्मन आ बड़ लोग के परनाम।"
+      },
+      "samagriIds": [
+        "charanamrit-prasad"
+      ],
+      "minutes": 5
+    },
+    {
+      "n": 12,
+      "layer": "paddhati",
+      "action": {
+        "hi": "विसर्जन (पूरे कर्म के अंत में): हाथ में अक्षत लेकर 'यांतु देवगणाः सर्वे' और एक देवता के लिए 'गच्छ गच्छ सुरश्रेष्ठ' पढ़ते हुए आवाहित-स्थापित देवताओं — कलश, नवग्रह, मातृका, दिक्पाल, सुपारी के प्रतीकों — पर अक्षत छोड़ें; घर की स्थायी मूर्ति और नई गणेश-लक्ष्मी प्रतिमा छोड़ दें। हवन हुआ हो तो अग्नि का विसर्जन 'तत्र गच्छ हुताशन' पाठ से।",
+        "en": "The dismissal (at the end of the whole rite): with rice in hand, reciting 'yantu devaganah sarve' and, for a single deity, 'gachchha gachchha surashreshtha', release the rice onto the invoked and installed deities — the tokens of the kalasha, navagraha, matrikas, dikpalas and betel nuts; leave out the household's permanent murti and the new Ganesha–Lakshmi figures. If there was a havan, Agni is dismissed with the reading 'tatra gachchha hutashana'.",
+        "bho": "बिसर्जन (पूरा करम के अंत में): हाथ में अछत लेके 'यान्तु देवगणाः सर्वे' आ एक देवता खातिर 'गच्छ गच्छ सुरश्रेष्ठ' पढ़त आवाहित-थापित देवता लोग — कलस, नवग्रह, मातृका, दिकपाल, सुपारी के प्रतीक — पर अछत छोड़ीं; घर के थाई मूरति आ नवका गणेश-लक्ष्मी प्रतिमा छोड़ दीं। हवन भइल होखे त अगिन के बिसर्जन 'तत्र गच्छ हुताशन' पाठ से।"
+      },
+      "mantraIds": [
+        "pad-yantu-devaganah-sarve",
+        "pad-gachchha-gachchha-surashreshtha"
+      ],
+      "panditSays": {
+        "sa": "ॐ {देवता} नमः । यथास्थानं प्रतिष्ठापयामि । क्षमस्व ।",
+        "hi": "पंडित विसर्जन-श्लोक पढ़ता है; यजमान अक्षत छोड़ता है।",
+        "en": "The pandit recites the dismissal verses; the host releases the rice.",
+        "bho": "पंडित बिसर्जन-श्लोक पढ़ेलन; जजमान अछत छोड़ेलन।"
+      },
+      "note": {
+        "hi": "'यथास्थानं प्रतिष्ठापयामि' वाक्य पोथी-व्यवहार से लिया गया है, छपे पाठ से नहीं — समीक्षा में।",
+        "en": "The sentence 'yathasthanam pratishthapayami' comes from handbook practice, not from the printed text — for review.",
+        "bho": "'यथास्थानं प्रतिष्ठापयामि' वाक्य पोथी-व्यवहार से लिहल बा, छपल पाठ से ना — समीक्षा में।"
+      },
+      "samagriIds": [
+        "akshat-visarjan"
+      ],
+      "minutes": 2,
+      "important": true
+    },
+    {
+      "n": 13,
+      "layer": "lok",
+      "action": {
+        "hi": "उत्तर-कर्म: कलश का जल घर में छिड़कें और तुलसी में डालें, नारियल-सुपारी-सिक्का प्रसाद में रखें, निर्माल्य और मिट्टी के प्रतीक बहते जल या पीपल-तुलसी की जड़ में; प्लास्टिक-धातु की वस्तुएँ जल में न डालें — यह आज का लोक-विवेक है, शास्त्र-वचन नहीं।",
+        "en": "Afterwards: sprinkle the kalasha water through the house and pour it on the tulsi, keep the coconut, betel nut and coin as prasad, give the nirmalya and the clay tokens to flowing water or to the roots of a pipal or tulsi; plastic and metal are not put in water — this is present-day good sense, not a scriptural rule.",
+        "bho": "उत्तर-करम: कलस के पानी घर में छींटीं आ तुलसी में डालीं, नरियर-सुपारी-सिक्का परसाद में रखीं, निर्माल्य आ माटी के प्रतीक बहत पानी भा पीपर-तुलसी के जड़ में; प्लास्टिक-धातु के चीज पानी में ना डालीं — ई आजु के लोक-बिबेक बा, सास्त्र-बचन ना।"
+      },
+      "minutes": 5
+    }
+  ],
+  "variants": [
+    {
+      "region": "lakshmi-puja",
+      "source": "ia-nkpp-scan",
+      "what": {
+        "hi": "लक्ष्मी-पूजन (दीपावली) की आरती में पोथी पहले 'ॐ जय लक्ष्मी माता' गाकर फिर लंबी मंत्रपुष्पांजलि पढ़ाती है — VS 31.16 के बाद 'ॐ राजाधिराजाय प्रसह्यसाहिने', 'ॐ स्वस्ति साम्राज्यं', VS 17.19 'विश्वतश्चक्षुः' और लक्ष्मी-गायत्री; यह तैत्तिरीय-परंपरा की पुष्पांजलि है जो हिंदी-पट्टी में दीपावली पर जुड़ी है। वह पाठ दीपावली-पूजन के पृष्ठ पर आएगा।",
+        "en": "At the Lakshmi puja of Diwali the handbook first has 'om jai lakshmi mata' sung and then a long mantra-pushpanjali — after VS 31.16 'om rajadhirajaya prasahyasahine', 'om svasti samrajyam', VS 17.19 'vishvatash chakshuh' and the Lakshmi gayatri; this is the pushpanjali of the Taittiriya tradition, which joined the Hindi-belt Diwali. That text will come on the Diwali-puja page.",
+        "bho": "लक्ष्मी-पूजन (दीयाबारी) के आरती में पोथी पहिले 'ॐ जय लक्ष्मी माता' गवा के फेर लमहर मंत्रपुष्पांजलि पढ़ावेला — VS 31.16 के बाद 'ॐ राजाधिराजाय प्रसह्यसाहिने', 'ॐ स्वस्ति साम्राज्यं', VS 17.19 'विश्वतश्चक्षुः' आ लक्ष्मी-गायत्री; ई तैत्तिरीय-परंपरा के पुष्पांजलि बा जे हिंदी-पट्टी में दीयाबारी पर जुड़ल बा। ऊ पाठ दीयाबारी-पूजन के पन्ना पर आई।"
+      }
+    },
+    {
+      "region": "shiva",
+      "source": "ia-nkpp-scan",
+      "what": {
+        "hi": "शिव-पूजन में प्रदक्षिणा आधी होती है — जलधारी की नाली (सोमसूत्र) को लाँघा नहीं जाता, वहाँ से लौटकर दूसरी ओर जाते हैं; क्षमा-प्रार्थना में 'भक्तिहीनं सुरेश्वर … यत् पूजितं महादेव' और पार्थिव लिंग का विसर्जन 'मम पूजां गृहीत्वेमां पुनरागमनाय च' पाठ से (पृ. 297)।",
+        "en": "In the Shiva puja the circumambulation is a half one — the channel of the basin (soma-sutra) is not crossed; one turns back from it and goes round the other way; the kshama verse reads 'bhaktihinam sureshvara … yat pujitam mahadeva', and the clay linga is dismissed with the reading 'mama pujam grihitvemam punaragamanaya cha' (p. 297).",
+        "bho": "सिव-पूजन में परिकरमा आधा होला — जलधारी के नाली (सोमसूत्र) ना लाँघल जाला, ओहिजा से लवट के दूसर ओर जाइल जाला; क्षमा-प्रार्थना में 'भक्तिहीनं सुरेश्वर … यत् पूजितं महादेव' आ पार्थिव लिंग के बिसर्जन 'मम पूजां गृहीत्वेमां पुनरागमनाय च' पाठ से (पृ. 297)।"
+      }
+    },
+    {
+      "region": "samskararatnamala",
+      "source": "ws-samskararatnamala-1-01",
+      "what": {
+        "hi": "दक्खिनी माध्यंदिन डाइजेस्ट [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) में प्रतिष्ठित मूर्ति के लिए आवाहन और विसर्जन की जगह मंत्रपुष्पांजलि दी जाती है, और गणेश-पूजन के अंत में 'मंत्रहीनं क्रियाहीनं भक्तिहीनं गजानन' तथा 'वक्रतुंड महाकाय' की प्रार्थना है; विसर्जन 'कर्मसमाप्ति' पर ही — 'एवं सर्वत्र'।",
+        "en": "In the Deccan Madhyandina digest, the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D), the mantra-pushpanjali takes the place of invocation and dismissal for an established image, and the Ganesha puja closes with 'mantrahinam kriyahinam bhaktihinam gajanana' and the prayer 'vakratunda mahakaya'; the dismissal only at the end of the rite — 'so everywhere'.",
+        "bho": "दक्खिनी माध्यंदिन डाइजेस्ट [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) में परतिष्ठित मूरति खातिर आवाहन आ बिसर्जन के ठाँव मंत्रपुष्पांजलि दिहल जाला, आ गणेश-पूजन के अंत में 'मन्त्रहीनं क्रियाहीनं भक्तिहीनं गजानन' आ 'वक्रतुण्ड महाकाय' के प्रार्थना बा; बिसर्जन 'कर्मसमाप्ति' पर ही — 'एवं सर्वत्र'।"
+      }
+    }
+  ],
+  "faq": [
+    {
+      "q": {
+        "hi": "आरती क्यों की जाती है?",
+        "en": "Why is the aarti performed?",
+        "bho": "आरती काहे कइल जाला?"
+      },
+      "a": {
+        "hi": "परंपरा में माना जाता है कि पूजा में मंत्र या विधि की जो कमी रह जाए, आरती उसे पूरा करती है — [स्कंदपुराण](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83_%E0%A5%A8_%28%E0%A4%B5%E0%A5%88%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A4%B5%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83%29/%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%B6%E0%A5%80%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%AE%E0%A4%BE%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%B9%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A6%E0%A5%AE) का अपना कथन (मार्गशीर्षमासमाहात्म्य 8.37) यही है, जो इस पृष्ठ पर फलश्रुति के रूप में दिया है। व्यवहार में आरती पूजा का वह क्षण है जिसमें पूरा परिवार खड़ा होकर एक साथ देवता के सामने होता है।",
+        "en": "Tradition holds that the aarti makes good whatever was left wanting in mantra or procedure — this is the [Skanda Purana](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83_%E0%A5%A8_%28%E0%A4%B5%E0%A5%88%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A4%B5%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83%29/%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A4%AE%E0%A4%BE%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%B9%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A9%E0%A5%A7)'s own statement (Margashirsha-masa-mahatmya 8.37), given on this page as a phalashruti. In practice the aarti is the moment of the puja when the whole family stands together before the deity.",
+        "bho": "परंपरा में मानल जाला कि पूजा में मंत्र भा बिधि के जे कमी रह जाए, आरती ओकरा पूरा करेला — [स्कंदपुरान](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83_%E0%A5%A8_%28%E0%A4%B5%E0%A5%88%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A4%B5%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83%29/%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A4%AE%E0%A4%BE%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%B9%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A9%E0%A5%A7) के आपन कहनाम (मार्गशीर्षमासमाहात्म्य 8.37) इहे बा, जे ए पन्ना पर फलश्रुति के रूप में दिहल बा। चलन में आरती पूजा के ऊ छन बा जेह में पूरा परिवार ठाढ़ होके एके संगे देवता के आगे होला।"
+      }
+    },
+    {
+      "q": {
+        "hi": "विसर्जन कब और किसका?",
+        "en": "When is the dismissal done, and of whom?",
+        "bho": "बिसर्जन कब आ केकर?"
+      },
+      "a": {
+        "hi": "पूरे कर्म के अंत में — हवन, कथा या संस्कार समाप्त होने पर, बीच की किसी पूजा में नहीं; [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) इसे 'कर्मसमाप्ति' कहती है। विसर्जन उन्हीं देवताओं का होता है जिन्हें आवाहन से बुलाया गया था — कलश, नवग्रह, मातृका, दिक्पाल, सुपारी-प्रतीक; घर की स्थायी मूर्ति, शालग्राम और नई गणेश-लक्ष्मी प्रतिमा का नहीं।",
+        "en": "At the end of the whole rite — when the havan, katha or samskara is over, not in any puja in between; the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) calls it 'the completion of the rite'. Only the deities called by an invocation are dismissed — kalasha, navagraha, matrikas, dikpalas, betel-nut tokens; not the household's permanent murti, a shaligrama or the new Ganesha–Lakshmi figures.",
+        "bho": "पूरा करम के अंत में — हवन, कथा भा संस्कार खतम भइला पर, बीच के कवनो पूजा में ना; [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) एकरा 'कर्मसमाप्ति' कहेला। बिसर्जन उहे देवता लोग के होला जिनका आवाहन से बोलावल गइल रहे — कलस, नवग्रह, मातृका, दिकपाल, सुपारी-प्रतीक; घर के थाई मूरति, सालिग्राम आ नवका गणेश-लक्ष्मी प्रतिमा के ना।"
+      }
+    },
+    {
+      "q": {
+        "hi": "शिव की प्रदक्षिणा आधी क्यों?",
+        "en": "Why only a half circuit round Shiva?",
+        "bho": "सिव के परिकरमा आधा काहे?"
+      },
+      "a": {
+        "hi": "पोथी का नियम है कि शिवलिंग की जलधारी की नाली (सोमसूत्र) को लाँघा नहीं जाता — अभिषेक का जल वहाँ से बहता है; इसलिए नाली तक जाकर लौटते हैं और दूसरी ओर से फिर नाली तक — यही अर्ध-प्रदक्षिणा है। बाकी देवताओं की पूरी परिक्रमा होती है (देवी एक, सूर्य सात, गणेश तीन, विष्णु चार)।",
+        "en": "The handbook's rule is that the channel of the linga's basin (soma-sutra) is never stepped across — the water of the abhisheka flows out there; so one walks up to the channel, turns back and goes round the other way up to the channel again — that is the half circuit. The other deities get full circuits (one for the goddess, seven for the Sun, three for Ganesha, four for Vishnu).",
+        "bho": "पोथी के नियम बा कि सिवलिंग के जलधारी के नाली (सोमसूत्र) ना लाँघल जाला — अभिषेक के पानी ओहिजा से बहेला; एही से नाली ले जाके लवटल जाला आ दूसर ओर से फेर नाली ले — इहे आधा परिकरमा बा। बाकी देवता के पूरा परिकरमा होला (देवी एक, सुरुज सात, गणेश तीन, बिस्नु चार)।"
+      }
+    },
+    {
+      "q": {
+        "hi": "मंत्र न जानने वाला क्या केवल क्षमा-प्रार्थना से पूजा पूरी कर सकता है?",
+        "en": "Can someone who does not know the mantras complete the puja with the kshama-prarthana alone?",
+        "bho": "मंत्र ना जाने वाला का खाली क्षमा-प्रार्थना से पूजा पूरा कर सकेला?"
+      },
+      "a": {
+        "hi": "पोथियाँ यही कहती हैं: 'आवाहनं न जानामि' और 'मंत्रहीनं क्रियाहीनं' के श्लोक इसी के लिए हैं कि न जानने वाले की पूजा भी स्वीकार हो; नाम-वाक्य ('ॐ … नमः') और ये चार श्लोक याद कर लेना ही पर्याप्त माना जाता है। पंडित बनने की राह पर पहले यही चार श्लोक और आरती के दो वैदिक मंत्र कंठस्थ करें।",
+        "en": "The handbooks say just that: the verses 'avahanam na janami' and 'mantrahinam kriyahinam' exist so that the worship of one who does not know is accepted too; learning the name-sentence ('om … namah') and these four verses is held to be enough. On the way to becoming a pandit, learn these four verses and the two Vedic aarti mantras first.",
+        "bho": "पोथी इहे कहेला: 'आवाहनं न जानामि' आ 'मन्त्रहीनं क्रियाहीनं' के श्लोक एही खातिर बा कि ना जाने वाला के पूजा भी स्वीकार होखे; नाँव-वाक्य ('ॐ … नमः') आ ई चार श्लोक याद कर लिहल पर्याप्त मानल जाला। पंडित बने के राह पर पहिले इहे चार श्लोक आ आरती के दू वैदिक मंत्र कंठस्थ करीं।"
+      }
+    }
+  ],
+  "sources": [
+    "ws-syv-19",
+    "ws-syv-34",
+    "ws-syv-31",
+    "titus-vs",
+    "ia-nkpp-scan",
+    "ia-vivah-mvf",
+    "ws-adishankara-pujavidhi",
+    "ws-narada-purva-67",
+    "ws-brihatsamhita-47",
+    "ws-skanda-kartika-31",
+    "ws-pandavagita",
+    "ws-dikshaprakasha",
+    "ws-skanda-arunachala-1-09",
+    "ws-skanda-margashirsha-08",
+    "ws-samskararatnamala-1-01"
+  ],
+  "tags": [
+    "foundations",
+    "aarti",
+    "pushpanjali",
+    "pradakshina",
+    "kshama",
+    "visarjan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

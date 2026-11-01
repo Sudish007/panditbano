@@ -1,0 +1,97 @@
+{
+  "id": "vs-31-2",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 31.2",
+  "title": {
+    "hi": "पुरुष एवेदं सर्वम् (आसन)",
+    "en": "Purusha evedam sarvam (the seat)",
+    "bho": "पुरुष एवेदं सर्वम् (आसन)"
+  },
+  "devanagari": "पुरु॑ष ए॒वेदᳪं᳭ सर्वं॒ यद्भू॒तं यच्च॑ भा॒व्य॒म् । उ॒तामृ॑त॒त्वस्येशा॑नो॒ यदन्ने॑नाति॒रोह॑ति ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "पुरुष एव",
+      "gloss": {
+        "hi": "पुरुष ही",
+        "en": "the Purusha alone",
+        "bho": "पुरुषे"
+      }
+    },
+    {
+      "sa": "इदं सर्वम्",
+      "gloss": {
+        "hi": "यह सब",
+        "en": "all this",
+        "bho": "ई सब"
+      }
+    },
+    {
+      "sa": "यद्भूतं यच्च भाव्यम्",
+      "gloss": {
+        "hi": "जो हो चुका और जो होने वाला है",
+        "en": "what has been and what is to be",
+        "bho": "जे भइल आ जे होखे वाला बा"
+      }
+    },
+    {
+      "sa": "उत",
+      "gloss": {
+        "hi": "और",
+        "en": "and",
+        "bho": "आ"
+      }
+    },
+    {
+      "sa": "अमृतत्वस्य ईशानः",
+      "gloss": {
+        "hi": "अमरता का स्वामी",
+        "en": "the lord of immortality",
+        "bho": "अमरता के मालिक"
+      }
+    },
+    {
+      "sa": "यत् अन्नेन अतिरोहति",
+      "gloss": {
+        "hi": "जो अन्न से बढ़ता है (उसका भी)",
+        "en": "of that which grows by food",
+        "bho": "जे अन्न से बढ़ेला (ओकरो)"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "जो हो चुका और जो होने वाला है, यह सब पुरुष ही है; वह अमरता का स्वामी है और उसका भी, जो अन्न से बढ़ता है।",
+    "en": "All this — what has been and what is to be — is the Purusha alone; he is the lord of immortality, and of all that grows by food.",
+    "bho": "जे भइल आ जे होखे वाला बा, ई सब पुरुषे बा; ऊ अमरता के मालिक बा आ ओकरो, जे अन्न से बढ़ेला।"
+  },
+  "explanation": {
+    "hi": "**आसन** पर — देवता को बैठने का स्थान देते हुए; व्यवहार में अक्षत या फूल आसन के रूप में चढ़ाया जाता है और पंडित साथ में आसन-श्लोक (अनेकरत्नसंयुक्तं…) पढ़ता है। यह पुरुषसूक्त (शुक्लयजुर्वेद के अध्याय 31) का 2-वाँ मंत्र है; माध्यंदिन षोडशोपचार में पुरुषसूक्त के मंत्र क्रम से एक-एक उपचार पर पढ़े जाते हैं, इसलिए मंत्र का अर्थ उपचार से सीधा नहीं जुड़ता — वह सृष्टि के आदि-पुरुष का वर्णन है। पाठ [संस्कृत विकिस्रोत](https://sa.wikisource.org/) के [शुक्लयजुर्वेद अध्याय 31](https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%AF%E0%A4%9C%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A9%E0%A5%A7) पृष्ठ के स्वर-पाठ से लिया गया और [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) से शब्द-शब्द जाँचा गया।",
+    "en": "At the **asana** — offering the deity a seat; in practice rice or a flower stands for the seat, and the pandit adds the asana verse (anekaratna-samyuktam …). This is verse 2 of the Purusha-sukta (chapter 31 of the Shukla Yajurveda); the Madhyandina shodashopachara recites the sukta verse by verse, one per offering, so the meaning does not describe the offering itself — it describes the primal Purusha of creation. Text from the svara text of the [Sanskrit Wikisource](https://sa.wikisource.org/) page [Vajasaneyi Samhita 31](https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%AF%E0%A4%9C%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A9%E0%A5%A7), checked word by word against [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm).",
+    "bho": "**आसन** पर — देवता के बइठे के ठाँव देत; चलन में अछत भा फूल आसन के रूप में चढ़ावल जाला आ पंडित संगे आसन-श्लोक (अनेकरत्नसंयुक्तं…) पढ़ेलन। ई पुरुषसूक्त (शुक्लयजुर्वेद के अध्याय 31) के 2-वाँ मंत्र बा; माध्यंदिन षोडशोपचार में पुरुषसूक्त के मंत्र क्रम से एक-एक उपचार पर पढ़ल जाला, एही से मंत्र के अरथ उपचार से सीधे नइखे जुड़त — ऊ सिरिष्टी के आदि-पुरुष के बरनन बा। पाठ [संस्कृत विकिस्रोत](https://sa.wikisource.org/) के [शुक्लयजुर्वेद अध्याय 31](https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%AF%E0%A4%9C%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A9%E0%A5%A7) पन्ना के स्वर-पाठ से लिहल गइल आ [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) से सब्द-सब्द जाँचल गइल।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-31",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "shodashopachar",
+    "asana",
+    "purusha-sukta"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

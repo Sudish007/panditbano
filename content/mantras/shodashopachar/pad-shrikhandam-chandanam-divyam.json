@@ -1,0 +1,88 @@
+{
+  "id": "pad-shrikhandam-chandanam-divyam",
+  "kind": "paddhati",
+  "title": {
+    "hi": "श्रीखंडं चंदनं दिव्यम् (गंध-श्लोक)",
+    "en": "Shrikhandam chandanam divyam (the sandal verse)",
+    "bho": "श्रीखण्डं चन्दनं दिव्यम् (गंध-श्लोक)"
+  },
+  "devanagari": "श्रीखण्डं चन्दनं दिव्यं गन्धाढ्यं सुमनोहरम् । विलेपनं सुरश्रेष्ठ चन्दनं प्रतिगृह्यताम् ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "श्रीखण्डं चन्दनं दिव्यम्",
+      "gloss": {
+        "hi": "दिव्य श्रीखंड चंदन",
+        "en": "divine shrikhanda sandal",
+        "bho": "दिब्य श्रीखंड चंदन"
+      }
+    },
+    {
+      "sa": "गन्धाढ्यं सुमनोहरम्",
+      "gloss": {
+        "hi": "सुगंध से भरा, सुंदर",
+        "en": "rich in fragrance, lovely",
+        "bho": "सुगंध से भरल, सुन्नर"
+      }
+    },
+    {
+      "sa": "विलेपनम्",
+      "gloss": {
+        "hi": "लेप के लिए",
+        "en": "for anointing",
+        "bho": "लेप खातिर"
+      }
+    },
+    {
+      "sa": "सुरश्रेष्ठ",
+      "gloss": {
+        "hi": "हे देवों में श्रेष्ठ",
+        "en": "O best of gods",
+        "bho": "हे देवन में सबसे नीक"
+      }
+    },
+    {
+      "sa": "चन्दनं प्रतिगृह्यताम्",
+      "gloss": {
+        "hi": "चंदन स्वीकार हो",
+        "en": "may the sandal be accepted",
+        "bho": "चंदन स्वीकार होखे"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे सुरश्रेष्ठ, सुगंध से भरा, सुंदर, दिव्य श्रीखंड चंदन लेप के लिए स्वीकार हो।",
+    "en": "O best of gods, may this lovely, divine shrikhanda sandal, rich in fragrance, be accepted for anointing.",
+    "bho": "हे सुरश्रेष्ठ, सुगंध से भरल, सुन्नर, दिब्य श्रीखंड चंदन लेप खातिर स्वीकार होखे।"
+  },
+  "explanation": {
+    "hi": "**गंध** (चंदन) का श्लोक — VS 31.9 'तं यज्ञं बर्हिषि' के बाद, अनामिका से रोली-केसर मिला चंदन लगाते हुए; [[panchopachar]] का पहला उपचार यही है। पाठ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 194) से लिया गया है और [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) से जाँचा गया है। यह पौराणिक छंद का उपचार-श्लोक है, जिसे पंडित वैदिक मंत्र के बाद पढ़ता है और फिर नाम-वाक्य (ॐ … नमः, … समर्पयामि) बोलता है; जो वैदिक मंत्र न पढ़ सके, वह केवल श्लोक और नाम-वाक्य से भी उपचार कर सकता है।",
+    "en": "The verse of the **gandha** (sandal) — after VS 31.9 'tam yajnam barhishi', applying sandal mixed with roli and saffron with the ring finger; it is the first of the five upacharas. Text from the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (p. 194), checked against the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt). This is the upachara verse in Puranic metre, recited by the pandit after the Vedic mantra and followed by the name-sentence (om … namah, … samarpayami); whoever cannot recite the Vedic mantra may offer with the verse and the name-sentence alone.",
+    "bho": "**गंध** (चंदन) के श्लोक — VS 31.9 'तं यज्ञं बर्हिषि' के बाद, अनामिका से रोरी-केसर मिलल चंदन लगावत; [[panchopachar]] के पहिला उपचार इहे बा। पाठ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 194) से लिहल गइल बा आ [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) से जाँचल गइल बा। ई पौरानिक छंद के उपचार-श्लोक बा, जेकरा पंडित वैदिक मंत्र के बाद पढ़ेलन आ फेर नाँव-वाक्य (ॐ … नमः, … समर्पयामि) बोलेलन; जे वैदिक मंत्र ना पढ़ सके, ऊ खाली श्लोक आ नाँव-वाक्य से भी उपचार कर सकेला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-nkpp-scan",
+    "retrieved": "2026-11-01",
+    "modified": "as printed; the Dwivedi OCR प्रतिगृह्यन्ताम् read as the singular प्रतिगृह्यताम्"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit ritual formula (anonymous, pre-modern); Sanskrit text taken from the Gita Press scan under brief §14, no Hindi prose copied",
+  "tags": [
+    "shodashopachar",
+    "gandha",
+    "panchopachar"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "locator": "NKPP p. 194",
+  "checkedAgainst": [
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ]
+}

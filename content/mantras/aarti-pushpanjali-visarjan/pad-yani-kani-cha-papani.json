@@ -1,0 +1,91 @@
+{
+  "id": "pad-yani-kani-cha-papani",
+  "kind": "paddhati",
+  "title": {
+    "hi": "यानि कानि च पापानि (प्रदक्षिणा-श्लोक)",
+    "en": "Yani kani cha papani (the circumambulation verse)",
+    "bho": "यानि कानि च पापानि (प्रदक्षिणा-श्लोक)"
+  },
+  "devanagari": "यानि कानि च पापानि जन्मान्तरकृतानि च । तानि सर्वाणि नश्यन्तु प्रदक्षिणपदे पदे ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "यानि कानि च पापानि",
+      "gloss": {
+        "hi": "जो कोई भी पाप",
+        "en": "whatever sins",
+        "bho": "जे कवनो पाप"
+      }
+    },
+    {
+      "sa": "जन्मान्तरकृतानि च",
+      "gloss": {
+        "hi": "और जो दूसरे जन्मों में किए",
+        "en": "and those done in other births",
+        "bho": "आ जे दूसर जनम में कइल"
+      }
+    },
+    {
+      "sa": "तानि सर्वाणि नश्यन्तु",
+      "gloss": {
+        "hi": "वे सब नष्ट हों",
+        "en": "may they all perish",
+        "bho": "ऊ सब नास होखसु"
+      }
+    },
+    {
+      "sa": "प्रदक्षिणपदे पदे",
+      "gloss": {
+        "hi": "प्रदक्षिणा के हर पद (कदम) पर",
+        "en": "at every step of the circumambulation",
+        "bho": "परिकरमा के हर डेग पर"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "जो कोई भी पाप हों, और दूसरे जन्मों में किए हों — वे सब प्रदक्षिणा के हर कदम पर नष्ट हों।",
+    "en": "Whatever sins there be, and those done in other births — may they all perish at every step of the circumambulation.",
+    "bho": "जे कवनो पाप होखे, आ दूसर जनम में कइल होखे — ऊ सब परिकरमा के हर डेग पर नास होखसु।"
+  },
+  "explanation": {
+    "hi": "**प्रदक्षिणा** का श्लोक — पुष्पांजलि के बाद देवता की दाहिनी ओर से परिक्रमा करते हुए (स्थान न हो तो अपने आसन पर ही घूमकर); [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) साथ में VS 16.61 'ये तीर्थानि प्रचरंति' पढ़ाती है। यही श्लोक [स्कंदपुराण](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83_%E0%A5%A7_%28%E0%A4%AE%E0%A4%BE%E0%A4%B9%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83%29/%E0%A4%85%E0%A4%B0%E0%A5%81%E0%A4%A3%E0%A4%BE%E0%A4%9A%E0%A4%B2%E0%A4%AE%E0%A4%BE%E0%A4%B9%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A5%8D_%E0%A5%A7/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A6%E0%A5%AF) (अरुणाचलमाहात्म्य 1.9.23) में अरुणाचल की परिक्रमा के लिए 'तानि तानि विनश्यंति' पाठ से मिलता है — पोथियों ने इसे हर देवता की प्रदक्षिणा का श्लोक बना लिया। पाठ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 200) से लिया गया है और [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) से जाँचा गया है।",
+    "en": "The verse of the **pradakshina** — after the pushpanjali, walking round the deity keeping it on the right (or turning on one's own seat where there is no room); the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) adds VS 16.61 'ye tirthani pracharanti'. The same verse stands in the [Skanda Purana](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83_%E0%A5%A7_%28%E0%A4%AE%E0%A4%BE%E0%A4%B9%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83%29/%E0%A4%85%E0%A4%B0%E0%A5%81%E0%A4%A3%E0%A4%BE%E0%A4%9A%E0%A4%B2%E0%A4%AE%E0%A4%BE%E0%A4%B9%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A5%8D_%E0%A5%A7/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A6%E0%A5%AF) (Arunachala-mahatmya 1.9.23) for the circumambulation of Arunachala with the reading 'tani tani vinashyanti' — the handbooks made it the verse for every deity's pradakshina. Text from the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (p. 200), checked against the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt).",
+    "bho": "**प्रदक्षिणा** के श्लोक — पुष्पांजलि के बाद देवता के दहिना ओर से परिकरमा करत (ठाँव ना होखे त आपन आसन पर घूम के); [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) संगे VS 16.61 'ये तीर्थानि प्रचरन्ति' पढ़ावेला। इहे श्लोक [स्कंदपुरान](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83_%E0%A5%A7_%28%E0%A4%AE%E0%A4%BE%E0%A4%B9%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83%29/%E0%A4%85%E0%A4%B0%E0%A5%81%E0%A4%A3%E0%A4%BE%E0%A4%9A%E0%A4%B2%E0%A4%AE%E0%A4%BE%E0%A4%B9%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A5%8D_%E0%A5%A7/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A6%E0%A5%AF) (अरुणाचलमाहात्म्य 1.9.23) में अरुणाचल के परिकरमा खातिर 'तानि तानि विनश्यन्ति' पाठ से मिलेला — पोथी एकरा हर देवता के प्रदक्षिणा के श्लोक बना लिहल। पाठ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 200) से लिहल गइल बा आ [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) से जाँचल गइल बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-nkpp-scan",
+    "retrieved": "2026-11-01",
+    "modified": "as printed (p. 200; the same text pp. 145, 270, 297)"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit ritual formula (anonymous, pre-modern); Sanskrit text taken from the Gita Press scan under brief §14, no Hindi prose copied",
+  "tags": [
+    "aarti-pushpanjali-visarjan",
+    "pradakshina"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "locator": "NKPP p. 200 (Skanda Purana 1.3.1.9.23 parallel)",
+  "checkedAgainst": [
+    {
+      "ref": "ws-skanda-arunachala-1-09",
+      "retrieved": "2026-11-01",
+      "note": "reads तानि तानि विनश्यन्ति"
+    }
+  ],
+  "variants": [
+    {
+      "reading": "यानि कानि च पापानि जन्मान्तरकृतानि च । तानि तानि विनश्यन्ति प्रदक्षिणपदे पदे ॥",
+      "note": {
+        "hi": "अरुणाचलमाहात्म्य 1.9.23 (माहेश्वरखंड) का पाठ।",
+        "en": "The reading of the Arunachala-mahatmya 1.9.23 (Maheshvara-khanda).",
+        "bho": "अरुणाचलमाहात्म्य 1.9.23 (माहेश्वरखंड) के पाठ।"
+      },
+      "source": "ws-skanda-arunachala-1-09"
+    }
+  ]
+}

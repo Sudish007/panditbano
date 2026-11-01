@@ -1,0 +1,177 @@
+{
+  "id": "vs-3-51",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 3.51 (= RV 1.82.2); vivah paddhati: akshata at var-pujan",
+  "title": {
+    "hi": "अक्षत-मंत्र (शुक्ल यजुर्वेद 3.51)",
+    "en": "Akshata mantra — akshann amimadanta",
+    "bho": "अच्छत-मंत्र — अक्षन्नमीमदन्त"
+  },
+  "devanagari": "अक्ष॒न्नमी॑मदन्त॒ ह्यव॑ प्रि॒या अ॑धूषत । अस्तो॑षत॒ स्वभा॑नवो॒ विप्रा॒ नवि॑ष्ठया म॒ती योजा॒ न्वि॒न्द्र ते॒ हरी॑ ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "अक्षन्",
+      "gloss": {
+        "hi": "उन्होंने खाया",
+        "en": "they have eaten",
+        "bho": "ऊ लोग खइलन"
+      }
+    },
+    {
+      "sa": "अमीमदन्त",
+      "gloss": {
+        "hi": "तृप्त हुए, प्रसन्न हुए",
+        "en": "they have been gladdened",
+        "bho": "तृप्त भइलन"
+      }
+    },
+    {
+      "sa": "हि",
+      "gloss": {
+        "hi": "क्योंकि, निश्चय ही",
+        "en": "for, indeed",
+        "bho": "काहे कि"
+      }
+    },
+    {
+      "sa": "अव",
+      "gloss": {
+        "hi": "नीचे की ओर",
+        "en": "down",
+        "bho": "नीचे"
+      }
+    },
+    {
+      "sa": "प्रियाः",
+      "gloss": {
+        "hi": "प्रिय (देवता)",
+        "en": "the dear ones",
+        "bho": "प्रिय (देवता लोग)"
+      }
+    },
+    {
+      "sa": "अधूषत",
+      "gloss": {
+        "hi": "उन्होंने (तृप्ति से) अंग हिलाए",
+        "en": "they have shaken (their limbs, in content)",
+        "bho": "ऊ लोग (तृप्ति से) अंग हिलवलन"
+      }
+    },
+    {
+      "sa": "अस्तोषत",
+      "gloss": {
+        "hi": "उन्होंने स्तुति की",
+        "en": "they have praised",
+        "bho": "ऊ लोग बड़ाई कइलन"
+      }
+    },
+    {
+      "sa": "स्वभानवः",
+      "gloss": {
+        "hi": "अपने तेज से चमकने वाले",
+        "en": "self-luminous",
+        "bho": "आपन तेज से चमके वाला"
+      }
+    },
+    {
+      "sa": "विप्राः",
+      "gloss": {
+        "hi": "विप्र, मेधावी ऋषि",
+        "en": "the inspired sages",
+        "bho": "बिप्र, बुधिमान रिसि लोग"
+      }
+    },
+    {
+      "sa": "नविष्ठया मती",
+      "gloss": {
+        "hi": "नवीनतम स्तुति (बुद्धि) से",
+        "en": "with the newest hymn (thought)",
+        "bho": "सबसे नवका स्तुति से"
+      }
+    },
+    {
+      "sa": "योजा नु",
+      "gloss": {
+        "hi": "अब जोड़ो",
+        "en": "yoke now",
+        "bho": "अब जोड़ीं"
+      }
+    },
+    {
+      "sa": "इन्द्र",
+      "gloss": {
+        "hi": "हे इंद्र",
+        "en": "O Indra",
+        "bho": "हे इंद्र"
+      }
+    },
+    {
+      "sa": "ते हरी",
+      "gloss": {
+        "hi": "तुम्हारे दो हरि (घोड़े)",
+        "en": "your two bay horses",
+        "bho": "राउर दुनो हरि (घोड़ा)"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "उन्होंने (हवि) खाया और तृप्त हुए; प्रियों (पितरों) ने तृप्ति से अंग हिलाए। अपने तेज से चमकने वाले विप्रों ने नवीनतम स्तुति से स्तवन किया — हे इंद्र, अब अपने दोनों हरि (घोड़े) रथ में जोड़ो।",
+    "en": "They have eaten and been gladdened; the dear ones (the ancestors) have shaken their limbs in content. The self-luminous sages have praised with the newest hymn — O Indra, yoke now your two bay horses.",
+    "bho": "ऊ लोग (हवि) खइलन आ तृप्त भइलन; प्रिय लोग (पितर) तृप्ति से अंग हिलवलन। आपन तेज से चमके वाला बिप्र लोग सबसे नवका स्तुति से बड़ाई कइलन — हे इंद्र, अब राउर दुनो हरि (घोड़ा) रथ में जोड़ीं।"
+  },
+  "explanation": {
+    "hi": "यह ऋचा ([ऋग्वेद](https://sa.wikisource.org/wiki/ऋग्वेदः_सूक्तं_१.८२) 1.82.2) शुक्ल यजुर्वेद 3.51 में है, जहाँ उवट के अनुसार पिंडपितृयज्ञ में आहवनीय अग्नि के उपस्थान में यह पढ़ी जाती है और \"वे\" पितर हैं। माध्यंदिन पद्धतियाँ इसे [[akshat]] (अक्षत) चढ़ाने का मंत्र बनाती हैं — पहले शब्द \"अक्षन्\" (= उन्होंने खाया) और \"अक्षत\" की ध्वनि-समता पर यह विनियोग टिका है, अर्थ पर नहीं; यही पद्धतियों की सामान्य रीति है। विवाह में यह मंत्र दो बार आता है: तिलक/वरवरण में जब कन्या-पक्ष वर को अक्षत लगाता है, और द्वारपूजा में वर-पूजन के समय। पद्धति में पाठ \"नविष्ठया\" है; विकिस्रोत के पद-पाठ और [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) में \"निविष्ठया\", वहीं \"अभूषत\" भी मिलता है — पाठांतर नीचे हैं।",
+    "en": "This verse ([Rigveda](https://sa.wikisource.org/wiki/ऋग्वेदः_सूक्तं_१.८२) 1.82.2) stands at Shukla Yajurveda 3.51, where by Uvata's commentary it is recited at the approach to the ahavaniya fire in the pinda-pitriyajna and \"they\" are the ancestors. The Madhyandina handbooks make it the mantra for offering akshata (unbroken rice) — the application rests on the sound-likeness of its first word \"akshan\" (they have eaten) with \"akshata\", not on its meaning; that is the handbooks' usual way. In the wedding it comes twice: at the tilak / var-varan when the bride's side puts akshata on the groom, and at the dwar-puja during the var-pujan. The handbook reads \"navishthaya\"; the Wikisource pada text and [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) read \"nivishthaya\", and the latter also \"abhushata\" — the variants are listed below.",
+    "bho": "ई ऋचा ([ऋग्वेद](https://sa.wikisource.org/wiki/ऋग्वेदः_सूक्तं_१.८२) 1.82.2) शुक्ल यजुर्वेद 3.51 में बा, जहाँ उवट के अनुसार पिंडपितृयज्ञ में आहवनीय आगि के उपस्थान में ई पढ़ल जाला आ \"ऊ लोग\" पितर बाड़न। माध्यंदिन पद्धति एकरा [[akshat]] (अच्छत) चढ़ावे के मंत्र बनावेला — पहिला सब्द \"अक्षन्\" (= ऊ लोग खइलन) आ \"अक्षत\" के आवाज के मेल पर ई विनियोग टिकल बा, अरथ पर ना; इहे पद्धति के आम रीति बा। बियाह में ई मंत्र दू बेर आवेला: तिलक/वरवरन में जब कनिया-पच्छ दुलहा के अच्छत लगावेला, आ दुआर पूजा में वर-पूजन के समय। पद्धति में पाठ \"नविष्ठया\" बा; विकिस्रोत के पद-पाठ आ [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) में \"निविष्ठया\", उहवें \"अभूषत\" भी मिलेला — पाठांतर नीचे बा।"
+  },
+  "phalashruti": false,
+  "variants": [
+    {
+      "reading": "निविष्ठया",
+      "note": {
+        "hi": "विकिस्रोत का पद-पाठ और [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) \"निविष्ठया\" पढ़ते हैं; स्वर-पाठ और पद्धति \"नविष्ठया\"।",
+        "en": "The Wikisource pada text and [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) read \"nivishthaya\"; the accented text and the handbook \"navishthaya\".",
+        "bho": "विकिस्रोत के पद-पाठ आ [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) \"निविष्ठया\" पढ़ेला; स्वर-पाठ आ पद्धति \"नविष्ठया\"।"
+      },
+      "source": "titus-vs"
+    },
+    {
+      "reading": "अभूषत",
+      "note": {
+        "hi": "[TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) का पाठ \"अभूषत\" (वे सुशोभित हुए); माध्यंदिन छपे पाठ और उवट-भाष्य \"अधूषत\"।",
+        "en": "[TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) reads \"abhushata\" (they adorned themselves); the printed Madhyandina text and Uvata's commentary \"adhushata\".",
+        "bho": "[TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) के पाठ \"अभूषत\" (ऊ लोग सज गइलन); माध्यंदिन छपल पाठ आ उवट-भाष्य \"अधूषत\"।"
+      },
+      "source": "titus-vs"
+    }
+  ],
+  "source": {
+    "ref": "ws-syv-03",
+    "retrieved": "2026-11-01",
+    "modified": "copied from the svara block of the Wikisource chapter page; trailing verse number and ordinal heading removed; ।। written as ॥"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "akshata",
+    "var-pujan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

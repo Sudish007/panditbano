@@ -1,0 +1,99 @@
+{
+  "id": "pad-malyadini-sugandhini",
+  "kind": "paddhati",
+  "title": {
+    "hi": "माल्यादीनि सुगंधीनि (पुष्प-श्लोक)",
+    "en": "Malyadini sugandhini (the flower verse)",
+    "bho": "माल्यादीनि सुगन्धीनि (फूल-श्लोक)"
+  },
+  "devanagari": "माल्यादीनि सुगन्धीनि मालत्यादीनि वै प्रभो । मयाहृतानि पुष्पाणि पूजार्थं प्रतिगृह्यताम् ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "माल्यादीनि सुगन्धीनि",
+      "gloss": {
+        "hi": "मालाएँ आदि, सुगंधित",
+        "en": "garlands and the like, fragrant",
+        "bho": "माला वगैरह, सुगंधित"
+      }
+    },
+    {
+      "sa": "मालत्यादीनि",
+      "gloss": {
+        "hi": "मालती (चमेली) आदि",
+        "en": "malati (jasmine) and others",
+        "bho": "मालती (चमेली) वगैरह"
+      }
+    },
+    {
+      "sa": "वै प्रभो",
+      "gloss": {
+        "hi": "हे प्रभो",
+        "en": "O Lord",
+        "bho": "हे परभु"
+      }
+    },
+    {
+      "sa": "मया आहृतानि पुष्पाणि",
+      "gloss": {
+        "hi": "मेरे लाए फूल",
+        "en": "the flowers I have brought",
+        "bho": "हमार ले आइल फूल"
+      }
+    },
+    {
+      "sa": "पूजार्थं प्रतिगृह्यताम्",
+      "gloss": {
+        "hi": "पूजा के लिए स्वीकार हों",
+        "en": "be accepted for the worship",
+        "bho": "पूजा खातिर स्वीकार होखसु"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे प्रभो, मालती आदि सुगंधित फूल और मालाएँ, जो मैं लाया हूँ, पूजा के लिए स्वीकार हों।",
+    "en": "O Lord, may the fragrant flowers and garlands of jasmine and the rest that I have brought be accepted for the worship.",
+    "bho": "हे परभु, मालती वगैरह सुगंधित फूल आ माला, जे हम ले आइल बानी, पूजा खातिर स्वीकार होखसु।"
+  },
+  "explanation": {
+    "hi": "**पुष्प** का श्लोक — VS 12.77 'ओषधीः प्रति मोदध्वम्' के बाद, फूल और माला चढ़ाते हुए; गणेश पर दूर्वा, शिव पर बिल्वपत्र, विष्णु पर तुलसी यहीं जुड़ते हैं। फूल अँगूठे, मध्यमा और अनामिका से पकड़कर चढ़ाने और बासी या सूँघा फूल न चढ़ाने के नियम पोथी के पुष्प-प्रकरण में हैं। पाठ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 195) से लिया गया है और [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) से जाँचा गया है। यह पौराणिक छंद का उपचार-श्लोक है, जिसे पंडित वैदिक मंत्र के बाद पढ़ता है और फिर नाम-वाक्य (ॐ … नमः, … समर्पयामि) बोलता है; जो वैदिक मंत्र न पढ़ सके, वह केवल श्लोक और नाम-वाक्य से भी उपचार कर सकता है।",
+    "en": "The verse of the **pushpa** — after VS 12.77 'oshadhih prati modadhvam', offering flowers and garlands; durva for Ganesha, bilva leaves for Shiva and tulsi for Vishnu join here. The handbook's chapter on flowers gives the rules — hold the flower with thumb, middle and ring finger, never offer a stale or smelt flower. Text from the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (p. 195), checked against the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt). This is the upachara verse in Puranic metre, recited by the pandit after the Vedic mantra and followed by the name-sentence (om … namah, … samarpayami); whoever cannot recite the Vedic mantra may offer with the verse and the name-sentence alone.",
+    "bho": "**पुष्प** के श्लोक — VS 12.77 'ओषधीः प्रति मोदध्वम्' के बाद, फूल आ माला चढ़ावत; गणेश पर दूब, सिव पर बेलपत्र, बिस्नु पर तुलसी इहवें जुड़ेला। फूल अँगूठा, मध्यमा आ अनामिका से पकड़ के चढ़ावे आ बासी भा सूँघल फूल ना चढ़ावे के नियम पोथी के पुष्प-प्रकरन में बा। पाठ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 195) से लिहल गइल बा आ [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) से जाँचल गइल बा। ई पौरानिक छंद के उपचार-श्लोक बा, जेकरा पंडित वैदिक मंत्र के बाद पढ़ेलन आ फेर नाँव-वाक्य (ॐ … नमः, … समर्पयामि) बोलेलन; जे वैदिक मंत्र ना पढ़ सके, ऊ खाली श्लोक आ नाँव-वाक्य से भी उपचार कर सकेला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-nkpp-scan",
+    "retrieved": "2026-11-01",
+    "modified": "OCR मयाहतानि → मयाहृतानि (the Lakshmi-puja print has मयानीतानि)"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit ritual formula (anonymous, pre-modern); Sanskrit text taken from the Gita Press scan under brief §14, no Hindi prose copied",
+  "tags": [
+    "shodashopachar",
+    "pushpa",
+    "panchopachar"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "locator": "NKPP p. 195",
+  "checkedAgainst": [
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "variants": [
+    {
+      "reading": "माल्यादीनि सुगन्धीनि मालत्यादीनि वै प्रभो । मयाहृतानि पुष्पाणि गृहाण परमेश्वर ॥",
+      "note": {
+        "hi": "द्विवेदी पद्धति का पाठ: गृहाण परमेश्वर।",
+        "en": "The Dwivedi reading: grihana parameshvara.",
+        "bho": "द्विवेदी पद्धति के पाठ: गृहाण परमेश्वर।"
+      },
+      "source": "ia-vivah-mvf"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "vs-31-7",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 31.7",
+  "title": {
+    "hi": "तस्माद्यज्ञात्सर्वहुत ऋचः (वस्त्र)",
+    "en": "Tasmad yajnat sarvahuta richah (the garment)",
+    "bho": "तस्माद्यज्ञात्सर्वहुत ऋचः (वस्त्र)"
+  },
+  "devanagari": "तस्मा॑द्य॒ज्ञात् स॑र्व॒हुत॒ ऋचः॒ सामा॑नि जज्ञिरे । छन्दा॑ᳪं᳭सि जज्ञिरे॒ तस्मा॒द्यजु॒स्तस्मा॑दजायत ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "तस्माद् यज्ञात् सर्वहुतः",
+      "gloss": {
+        "hi": "उस सर्वहुत यज्ञ से",
+        "en": "from that all-offered sacrifice",
+        "bho": "ऊ सर्वहुत जग से"
+      }
+    },
+    {
+      "sa": "ऋचः सामानि जज्ञिरे",
+      "gloss": {
+        "hi": "ऋचाएँ और साम उत्पन्न हुए",
+        "en": "the riks and the samans were born",
+        "bho": "रिचा आ साम पैदा भइलन"
+      }
+    },
+    {
+      "sa": "छन्दांसि जज्ञिरे तस्मात्",
+      "gloss": {
+        "hi": "उससे छंद उत्पन्न हुए",
+        "en": "from it the metres were born",
+        "bho": "ओकरा से छंद पैदा भइलन"
+      }
+    },
+    {
+      "sa": "यजुः तस्मात् अजायत",
+      "gloss": {
+        "hi": "उससे यजुः उत्पन्न हुआ",
+        "en": "from it the yajus was born",
+        "bho": "ओकरा से यजुः पैदा भइल"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "उस सर्वहुत यज्ञ से ऋचाएँ और साम उत्पन्न हुए, उससे छंद उत्पन्न हुए और उससे यजुः उत्पन्न हुआ।",
+    "en": "From that all-offered sacrifice the riks and the samans were born; from it the metres were born, and from it the yajus.",
+    "bho": "ऊ सर्वहुत जग से रिचा आ साम पैदा भइलन, ओकरा से छंद पैदा भइलन आ ओकरा से यजुः पैदा भइल।"
+  },
+  "explanation": {
+    "hi": "**वस्त्र** पर — देवता को वस्त्र (मूर्ति हो तो कपड़ा, नहीं तो मौली या कलावा) पहनाते हुए; उपवस्त्र के लिए [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) VS 11.40 'सुजातो ज्योतिषा' पढ़ती है। यह पुरुषसूक्त (शुक्लयजुर्वेद के अध्याय 31) का 7-वाँ मंत्र है; माध्यंदिन षोडशोपचार में पुरुषसूक्त के मंत्र क्रम से एक-एक उपचार पर पढ़े जाते हैं, इसलिए मंत्र का अर्थ उपचार से सीधा नहीं जुड़ता — वह सृष्टि के आदि-पुरुष का वर्णन है। पाठ [संस्कृत विकिस्रोत](https://sa.wikisource.org/) के [शुक्लयजुर्वेद अध्याय 31](https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%AF%E0%A4%9C%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A9%E0%A5%A7) पृष्ठ के स्वर-पाठ से लिया गया और [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) से शब्द-शब्द जाँचा गया।",
+    "en": "At the **vastra** — dressing the deity (cloth for a murti, otherwise a red thread); for the upper cloth the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) recites VS 11.40 'sujato jyotisha'. This is verse 7 of the Purusha-sukta (chapter 31 of the Shukla Yajurveda); the Madhyandina shodashopachara recites the sukta verse by verse, one per offering, so the meaning does not describe the offering itself — it describes the primal Purusha of creation. Text from the svara text of the [Sanskrit Wikisource](https://sa.wikisource.org/) page [Vajasaneyi Samhita 31](https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%AF%E0%A4%9C%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A9%E0%A5%A7), checked word by word against [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm).",
+    "bho": "**वस्त्र** पर — देवता के कपड़ा (मूरति होखे त कपड़ा, ना त मौली भा कलावा) पहिरावत; उपवस्त्र खातिर [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) VS 11.40 'सुजातो ज्योतिषा' पढ़ेला। ई पुरुषसूक्त (शुक्लयजुर्वेद के अध्याय 31) के 7-वाँ मंत्र बा; माध्यंदिन षोडशोपचार में पुरुषसूक्त के मंत्र क्रम से एक-एक उपचार पर पढ़ल जाला, एही से मंत्र के अरथ उपचार से सीधे नइखे जुड़त — ऊ सिरिष्टी के आदि-पुरुष के बरनन बा। पाठ [संस्कृत विकिस्रोत](https://sa.wikisource.org/) के [शुक्लयजुर्वेद अध्याय 31](https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%AF%E0%A4%9C%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A9%E0%A5%A7) पन्ना के स्वर-पाठ से लिहल गइल आ [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) से सब्द-सब्द जाँचल गइल।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-31",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "shodashopachar",
+    "vastra",
+    "purusha-sukta"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

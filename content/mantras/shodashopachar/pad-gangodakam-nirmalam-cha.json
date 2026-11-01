@@ -1,0 +1,107 @@
+{
+  "id": "pad-gangodakam-nirmalam-cha",
+  "kind": "paddhati",
+  "title": {
+    "hi": "गंगोदकं निर्मलं च (पाद्य-श्लोक)",
+    "en": "Gangodakam nirmalam cha (the padya verse)",
+    "bho": "गङ्गोदकं निर्मलं च (पाद्य-श्लोक)"
+  },
+  "devanagari": "गङ्गोदकं निर्मलं च सर्वसौगन्ध्यसंयुतम् । पादप्रक्षालनार्थाय दत्तं मे प्रतिगृह्यताम् ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "गङ्गोदकम्",
+      "gloss": {
+        "hi": "गंगा का जल",
+        "en": "Ganga water",
+        "bho": "गंगा के पानी"
+      }
+    },
+    {
+      "sa": "निर्मलं च",
+      "gloss": {
+        "hi": "और निर्मल",
+        "en": "and pure",
+        "bho": "आ निरमल"
+      }
+    },
+    {
+      "sa": "सर्वसौगन्ध्यसंयुतम्",
+      "gloss": {
+        "hi": "सब सुगंधों से युक्त",
+        "en": "joined with every fragrance",
+        "bho": "सब सुगंध से जुड़ल"
+      }
+    },
+    {
+      "sa": "पादप्रक्षालनार्थाय",
+      "gloss": {
+        "hi": "चरण धोने के लिए",
+        "en": "for washing the feet",
+        "bho": "गोड़ धोवे खातिर"
+      }
+    },
+    {
+      "sa": "दत्तं मे प्रतिगृह्यताम्",
+      "gloss": {
+        "hi": "मेरा दिया स्वीकार हो",
+        "en": "given by me, be accepted",
+        "bho": "हमार दिहल स्वीकार होखे"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "निर्मल, सब सुगंधों से युक्त गंगा-जल चरण धोने के लिए मैंने दिया है; यह स्वीकार हो।",
+    "en": "Pure Ganga water, joined with every fragrance, I have given for washing the feet; may it be accepted.",
+    "bho": "निरमल, सब सुगंध से जुड़ल गंगा-पानी गोड़ धोवे खातिर हम दिहले बानी; ई स्वीकार होखे।"
+  },
+  "explanation": {
+    "hi": "**पाद्य** का श्लोक — VS 31.3 के बाद, आचमनी से जल पात्र में छोड़ते हुए; द्विवेदी पद्धति 'उष्णोदकं' (गुनगुना जल) पढ़ती है, पंचदेव-पूजा में बहुवचन का 'गंगादिसर्वतीर्थेभ्य' श्लोक है। पाठ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 148) से लिया गया है और [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) से जाँचा गया है। यह पौराणिक छंद का उपचार-श्लोक है, जिसे पंडित वैदिक मंत्र के बाद पढ़ता है और फिर नाम-वाक्य (ॐ … नमः, … समर्पयामि) बोलता है; जो वैदिक मंत्र न पढ़ सके, वह केवल श्लोक और नाम-वाक्य से भी उपचार कर सकता है।",
+    "en": "The verse of the **padya** — after VS 31.3, pouring water from the spoon into the dish; the Dwivedi paddhati reads 'ushnodakam' (warm water), and the panchadeva puja has the plural verse 'gangadi-sarvatirthebhya'. Text from the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (p. 148), checked against the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt). This is the upachara verse in Puranic metre, recited by the pandit after the Vedic mantra and followed by the name-sentence (om … namah, … samarpayami); whoever cannot recite the Vedic mantra may offer with the verse and the name-sentence alone.",
+    "bho": "**पाद्य** के श्लोक — VS 31.3 के बाद, आचमनी से पानी बरतन में छोड़त; द्विवेदी पद्धति 'उष्णोदकं' (गुनगुन पानी) पढ़ेला, पंचदेव-पूजा में बहुवचन के 'गङ्गादिसर्वतीर्थेभ्य' श्लोक बा। पाठ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 148) से लिहल गइल बा आ [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) से जाँचल गइल बा। ई पौरानिक छंद के उपचार-श्लोक बा, जेकरा पंडित वैदिक मंत्र के बाद पढ़ेलन आ फेर नाँव-वाक्य (ॐ … नमः, … समर्पयामि) बोलेलन; जे वैदिक मंत्र ना पढ़ सके, ऊ खाली श्लोक आ नाँव-वाक्य से भी उपचार कर सकेला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-nkpp-scan",
+    "retrieved": "2026-11-01",
+    "modified": "OCR गङ्खोदकं → गङ्गोदकं"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit ritual formula (anonymous, pre-modern); Sanskrit text taken from the Gita Press scan under brief §14, no Hindi prose copied",
+  "tags": [
+    "shodashopachar",
+    "padya"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "locator": "NKPP p. 148",
+  "checkedAgainst": [
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "variants": [
+    {
+      "reading": "उष्णोदकं निर्मलं च सर्वसौगन्ध्यसंयुतम् । पादप्रक्षालनार्थाय दत्तं मे प्रतिगृह्यताम् ॥",
+      "note": {
+        "hi": "द्विवेदी पद्धति: उष्णोदकं।",
+        "en": "The Dwivedi paddhati: ushnodakam.",
+        "bho": "द्विवेदी पद्धति: उष्णोदकं।"
+      },
+      "source": "ia-vivah-mvf"
+    },
+    {
+      "reading": "गङ्गादिसर्वतीर्थेभ्य आनीतं तोयमुत्तमम् । पाद्यार्थं सम्प्रदास्यामि गृह्णन्तु परमेश्वराः ॥",
+      "note": {
+        "hi": "पंचदेव-पूजा का बहुवचन श्लोक (पृ. 141)।",
+        "en": "The plural verse of the panchadeva puja (p. 141).",
+        "bho": "पंचदेव-पूजा के बहुवचन श्लोक (पृ. 141)।"
+      },
+      "source": "ia-nkpp-scan"
+    }
+  ]
+}

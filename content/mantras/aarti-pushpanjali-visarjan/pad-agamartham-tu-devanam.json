@@ -1,0 +1,91 @@
+{
+  "id": "pad-agamartham-tu-devanam",
+  "kind": "paddhati",
+  "title": {
+    "hi": "आगमार्थं तु देवानाम् (घंटा-नाद)",
+    "en": "Agamartham tu devanam (the ringing of the bell)",
+    "bho": "आगमार्थं तु देवानाम् (घंटा-नाद)"
+  },
+  "devanagari": "आगमार्थं तु देवानां गमनार्थं तु रक्षसाम् । देवतापूजनार्थाय घण्टानादं करोम्यहम् ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "आगमार्थं तु देवानाम्",
+      "gloss": {
+        "hi": "देवों के आगमन के लिए",
+        "en": "for the coming of the gods",
+        "bho": "देवता लोग के आवे खातिर"
+      }
+    },
+    {
+      "sa": "गमनार्थं तु रक्षसाम्",
+      "gloss": {
+        "hi": "और राक्षसों के जाने के लिए",
+        "en": "and for the going of the demons",
+        "bho": "आ राकस लोग के जाए खातिर"
+      }
+    },
+    {
+      "sa": "देवतापूजनार्थाय",
+      "gloss": {
+        "hi": "देवता की पूजा के लिए",
+        "en": "for the worship of the deity",
+        "bho": "देवता के पूजा खातिर"
+      }
+    },
+    {
+      "sa": "घण्टानादं करोमि अहम्",
+      "gloss": {
+        "hi": "मैं घंटा बजाता हूँ",
+        "en": "I ring the bell",
+        "bho": "हम घंटा बजावत बानी"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "देवों के आगमन और राक्षसों के जाने के लिए, देवता की पूजा के लिए मैं घंटा बजाता हूँ।",
+    "en": "For the coming of the gods and the going of the demons, for the worship of the deity, I ring the bell.",
+    "bho": "देवता लोग के आवे आ राकस लोग के जाए खातिर, देवता के पूजा खातिर हम घंटा बजावत बानी।"
+  },
+  "explanation": {
+    "hi": "आरती से पहले (और पूजा के आरंभ में) **घंटा** बजाने का श्लोक; घंटे को चंदन-पुष्प से सजाकर यह पढ़ा जाता है, फिर घंटा बाईं ओर रखा जाता है। पाठ विकिस्रोत की [आदिशंकराचार्य पूजाविधि](https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83) से, जहाँ यह श्लोक गणेश-स्मरण के बाद 'घंटानादं कृत्वा' के निर्देश के साथ है; [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 135) का दूसरा आधा 'कुरु घंटे वरं नादं देवतास्थानसन्निधौ' पढ़ता है — वह पाठ पाठांतर में है और हिंदी-पट्टी में अधिक सुना जाता है।",
+    "en": "The verse for ringing the **bell** before the aarti (and at the opening of the puja); the bell is decked with sandal and a flower, the verse recited, and the bell set down on the left. Text from the Wikisource [Adi Shankaracharya puja vidhi](https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83), where the verse stands after the Ganesha-smarana with the instruction 'having rung the bell'; the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (p. 135) reads the second half as 'kuru ghante varam nadam devatasthana-sannidhau' — that reading is in variants and is the one more often heard in the Hindi belt.",
+    "bho": "आरती से पहिले (आ पूजा के सुरुआत में) **घंटा** बजावे के श्लोक; घंटा के चंदन-फूल से सजा के ई पढ़ल जाला, फेर घंटा बायाँ ओर रखल जाला। पाठ विकिस्रोत के [आदिसंकराचार्य पूजाबिधि](https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83) से, जहाँ ई श्लोक गणेश-स्मरन के बाद 'घण्टानादं कृत्वा' के निर्देस संगे बा; [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 135) के दूसरका आधा 'कुरु घण्टे वरं नादं देवतास्थानसन्निधौ' पढ़ेला — ऊ पाठ पाठांतर में बा आ हिंदी-पट्टी में बेसी सुनल जाला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-adishankara-pujavidhi",
+    "retrieved": "2026-11-01",
+    "modified": "the bracketed stage direction [इति घण्टानादं कृत्वा] removed"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit puja verses (anonymous, pre-modern); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "aarti-pushpanjali-visarjan",
+    "ghanta"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "locator": "आदिशङ्कराचार्यपूजाविधिः, घण्टानादः",
+  "checkedAgainst": [
+    {
+      "ref": "ia-nkpp-scan",
+      "retrieved": "2026-11-01",
+      "note": "second half reads कुरु घण्टे वरं नादं देवतास्थानसन्निधौ (p. 135)"
+    }
+  ],
+  "variants": [
+    {
+      "reading": "आगमार्थं तु देवानां गमनार्थं च रक्षसाम् । कुरु घण्टे वरं नादं देवतास्थानसन्निधौ ॥",
+      "note": {
+        "hi": "[नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 135) का पाठ — हिंदी-पट्टी की पोथियों में यही रूप प्रचलित है।",
+        "en": "The [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) reading (p. 135) — the form current in the Hindi-belt handbooks.",
+        "bho": "[नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 135) के पाठ — हिंदी-पट्टी के पोथी में इहे रूप चलेला।"
+      },
+      "source": "ia-nkpp-scan"
+    }
+  ]
+}

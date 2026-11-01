@@ -1,0 +1,105 @@
+{
+  "id": "pad-anyatha-sharanam-nasti",
+  "kind": "puranic",
+  "title": {
+    "hi": "अन्यथा शरणं नास्ति (क्षमा-प्रार्थना 2)",
+    "en": "Anyatha sharanam nasti (kshama-prarthana 2)",
+    "bho": "अन्यथा शरणं नास्ति (क्षमा-प्रार्थना 2)"
+  },
+  "devanagari": "अन्यथा शरणं नास्ति त्वमेव शरणं मम । तस्मात् कारुण्यभावेन रक्ष मां परमेश्वर ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "अन्यथा शरणं न अस्ति",
+      "gloss": {
+        "hi": "और कोई शरण नहीं है",
+        "en": "there is no other refuge",
+        "bho": "दूसर कवनो सरन नइखे"
+      }
+    },
+    {
+      "sa": "त्वम् एव शरणं मम",
+      "gloss": {
+        "hi": "तू ही मेरी शरण है",
+        "en": "you alone are my refuge",
+        "bho": "तूहीं हमार सरन हवऽ"
+      }
+    },
+    {
+      "sa": "तस्मात् कारुण्यभावेन",
+      "gloss": {
+        "hi": "इसलिए करुणा-भाव से",
+        "en": "therefore out of compassion",
+        "bho": "एही से करुना-भाव से"
+      }
+    },
+    {
+      "sa": "रक्ष मां परमेश्वर",
+      "gloss": {
+        "hi": "हे परमेश्वर, मेरी रक्षा करो",
+        "en": "protect me, O supreme Lord",
+        "bho": "हे परमेस्वर, हमार रच्छा करीं"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "और कोई शरण नहीं, तू ही मेरी शरण है; इसलिए करुणा-भाव से, हे परमेश्वर, मेरी रक्षा करो।",
+    "en": "There is no other refuge, you alone are my refuge; therefore, out of compassion, protect me, O supreme Lord.",
+    "bho": "दूसर कवनो सरन नइखे, तूहीं हमार सरन हवऽ; एही से करुना-भाव से, हे परमेस्वर, हमार रच्छा करीं।"
+  },
+  "explanation": {
+    "hi": "[[kshama-prarthana]] का दूसरा श्लोक; [नारदपुराण](https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D-_%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A7%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AC%E0%A5%AD) (67.114–115) 'तस्मात्कारुण्यभावेन क्षमस्व परमेश्वर' पढ़ता है, [आदिशंकराचार्य पूजाविधि](https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83) 'रक्ष रक्ष जगद्गुरो'। पाठ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 146) से लिया गया है और [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) से जाँचा गया है।",
+    "en": "The second verse of the [[kshama-prarthana]]; the [Narada Purana](https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D-_%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A7%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AC%E0%A5%AD) (67.114–115) reads 'tasmat karunyabhavena kshamasva parameshvara', the [Adi Shankaracharya puja vidhi](https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83) 'raksha raksha jagadguro'. Text from the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (p. 146), checked against the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt).",
+    "bho": "[[kshama-prarthana]] के दूसरका श्लोक; [नारदपुरान](https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D-_%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A7%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AC%E0%A5%AD) (67.114–115) 'तस्मात्कारुण्यभावेन क्षमस्व परमेश्वर' पढ़ेला, [आदिसंकराचार्य पूजाबिधि](https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83) 'रक्ष रक्ष जगद्गुरो'। पाठ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 146) से लिहल गइल बा आ [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) से जाँचल गइल बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-nkpp-scan",
+    "retrieved": "2026-11-01",
+    "modified": "OCR रक्ष॒ मां → रक्ष मां (stray svara mark removed)"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit ritual formula (anonymous, pre-modern); Sanskrit text taken from the Gita Press scan under brief §14, no Hindi prose copied",
+  "tags": [
+    "aarti-pushpanjali-visarjan",
+    "kshama"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "locator": "1.67.114–115 (paddhati reading)",
+  "checkedAgainst": [
+    {
+      "ref": "ws-narada-purva-67",
+      "retrieved": "2026-11-01",
+      "note": "reads क्षमस्व परमेश्वर"
+    },
+    {
+      "ref": "ws-adishankara-pujavidhi",
+      "retrieved": "2026-11-01",
+      "note": "reads रक्ष रक्ष जगद्गुरो"
+    }
+  ],
+  "variants": [
+    {
+      "reading": "अन्यथा शरणं नास्ति त्वमेव शरणं मम । तस्मात्कारुण्यभावेन क्षमस्व परमेश्वर ॥",
+      "note": {
+        "hi": "[नारदपुराण](https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D-_%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A7%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AC%E0%A5%AD) 1.67.114–115 का पाठ।",
+        "en": "The reading of [Narada Purana](https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D-_%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A7%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AC%E0%A5%AD) 1.67.114–115.",
+        "bho": "[नारदपुरान](https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D-_%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A7%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AC%E0%A5%AD) 1.67.114–115 के पाठ।"
+      },
+      "source": "ws-narada-purva-67"
+    },
+    {
+      "reading": "अन्यथा शरणं नास्ति त्वमेव शरणं मम । तस्मात्कारुण्यभावेन रक्ष रक्ष जगद्गुरो ॥",
+      "note": {
+        "hi": "[आदिशंकराचार्य पूजाविधि](https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83) का गुरु-रूप।",
+        "en": "The guru form of the [Adi Shankaracharya puja vidhi](https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83).",
+        "bho": "[आदिसंकराचार्य पूजाबिधि](https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83) के गुरु-रूप।"
+      },
+      "source": "ws-adishankara-pujavidhi"
+    }
+  ]
+}

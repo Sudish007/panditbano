@@ -1,0 +1,114 @@
+{
+  "id": "pad-avahanam-na-janami",
+  "kind": "puranic",
+  "title": {
+    "hi": "आवाहनं न जानामि (क्षमा-प्रार्थना 1)",
+    "en": "Avahanam na janami (kshama-prarthana 1)",
+    "bho": "आवाहनं न जानामि (क्षमा-प्रार्थना 1)"
+  },
+  "devanagari": "आवाहनं न जानामि न जानामि विसर्जनम् । पूजां चैव न जानामि क्षमस्व परमेश्वर ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "आवाहनं न जानामि",
+      "gloss": {
+        "hi": "मैं आवाहन नहीं जानता",
+        "en": "I do not know the invocation",
+        "bho": "हम आवाहन ना जानीं"
+      }
+    },
+    {
+      "sa": "न जानामि विसर्जनम्",
+      "gloss": {
+        "hi": "विसर्जन नहीं जानता",
+        "en": "I do not know the dismissal",
+        "bho": "बिसर्जन ना जानीं"
+      }
+    },
+    {
+      "sa": "पूजां च एव न जानामि",
+      "gloss": {
+        "hi": "और पूजा भी नहीं जानता",
+        "en": "and the worship too I do not know",
+        "bho": "आ पूजा भी ना जानीं"
+      }
+    },
+    {
+      "sa": "क्षमस्व परमेश्वर",
+      "gloss": {
+        "hi": "हे परमेश्वर, क्षमा करो",
+        "en": "forgive, O supreme Lord",
+        "bho": "हे परमेस्वर, छिमा करीं"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "मैं आवाहन नहीं जानता, विसर्जन नहीं जानता, पूजा भी नहीं जानता; हे परमेश्वर, क्षमा करो।",
+    "en": "I do not know the invocation, I do not know the dismissal, the worship too I do not know; forgive, O supreme Lord.",
+    "bho": "हम आवाहन ना जानीं, बिसर्जन ना जानीं, पूजा भी ना जानीं; हे परमेस्वर, छिमा करीं।"
+  },
+  "explanation": {
+    "hi": "[[kshama-prarthana]] का पहला श्लोक — प्रदक्षिणा-नमस्कार के बाद हाथ जोड़कर, पूजा की कमियों के लिए; देवी के लिए 'क्षमस्व परमेश्वरि'। तीनों क्षमा-श्लोक एक साथ [नारदपुराण](https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D-_%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A7%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AC%E0%A5%AD) (पूर्वार्ध 67.114–117) की पूजा-पद्धति में मिलते हैं — वहाँ यह श्लोक 'पूजां चैव न जानामि त्वं गतिः परमेश्वर' पढ़ता है; पोथी का पाठ यहाँ रखा है, पुराण का पाठांतर में। पार्थिव-पूजन (पृ. 297) 'पूजां नैव हि जानामि' पढ़ता है, [आदिशंकराचार्य पूजाविधि](https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83) गुरु के लिए 'क्षमस्व गुरुसत्तम'। पाठ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 146) से लिया गया है और [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) से जाँचा गया है।",
+    "en": "The first verse of the [[kshama-prarthana]] — said with folded hands after the circumambulation and prostration, for the shortcomings of the worship; for a goddess 'kshamasva parameshvari'. All three kshama verses stand together in the puja-paddhati of the [Narada Purana](https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D-_%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A7%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AC%E0%A5%AD) (purvardha 67.114–117), where this one reads 'pujam chaiva na janami tvam gatih parameshvara'; the handbook text stands here, the Purana's in variants. The parthiva-pujana (p. 297) reads 'pujam naiva hi janami', the [Adi Shankaracharya puja vidhi](https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83) has 'kshamasva gurusattama' for the guru. Text from the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (p. 146), checked against the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt).",
+    "bho": "[[kshama-prarthana]] के पहिला श्लोक — प्रदक्षिणा-परनाम के बाद हाथ जोड़ के, पूजा के कमी खातिर; देवी खातिर 'क्षमस्व परमेश्वरि'। तीनो क्षमा-श्लोक एके संगे [नारदपुरान](https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D-_%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A7%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AC%E0%A5%AD) (पूर्वार्ध 67.114–117) के पूजा-पद्धति में मिलेला — ओहिजा ई श्लोक 'पूजां चैव न जानामि त्वं गतिः परमेश्वर' पढ़ेला; पोथी के पाठ इहाँ रखल बा, पुरान के पाठांतर में। पार्थिव-पूजन (पृ. 297) 'पूजां नैव हि जानामि' पढ़ेला, [आदिसंकराचार्य पूजाबिधि](https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83) गुरु खातिर 'क्षमस्व गुरुसत्तम'। पाठ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 146) से लिहल गइल बा आ [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) से जाँचल गइल बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-nkpp-scan",
+    "retrieved": "2026-11-01",
+    "modified": "as printed (p. 146)"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit ritual formula (anonymous, pre-modern); Sanskrit text taken from the Gita Press scan under brief §14, no Hindi prose copied",
+  "tags": [
+    "aarti-pushpanjali-visarjan",
+    "kshama"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "locator": "1.67.116–117 (paddhati reading)",
+  "checkedAgainst": [
+    {
+      "ref": "ws-narada-purva-67",
+      "retrieved": "2026-11-01",
+      "note": "116–117, reading त्वं गतिः परमेश्वर"
+    },
+    {
+      "ref": "ws-adishankara-pujavidhi",
+      "retrieved": "2026-11-01",
+      "note": "reads पूजाविधिं न जानामि क्षमस्व गुरुसत्तम"
+    }
+  ],
+  "variants": [
+    {
+      "reading": "आवाहनं न जानामि न जानामि विसर्जनम् । पूजां चैव न जानामि त्वं गतिः परमेश्वर ॥",
+      "note": {
+        "hi": "[नारदपुराण](https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D-_%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A7%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AC%E0%A5%AD) 1.67.116–117 का पाठ।",
+        "en": "The reading of [Narada Purana](https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D-_%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A7%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AC%E0%A5%AD) 1.67.116–117.",
+        "bho": "[नारदपुरान](https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D-_%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A7%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AC%E0%A5%AD) 1.67.116–117 के पाठ।"
+      },
+      "source": "ws-narada-purva-67"
+    },
+    {
+      "reading": "आवाहनं न जानामि न जानामि विसर्जनम् । पूजां नैव हि जानामि क्षमस्व परमेश्वर ॥",
+      "note": {
+        "hi": "पार्थिव-पूजन का पाठ (पृ. 297)।",
+        "en": "The parthiva-pujana reading (p. 297).",
+        "bho": "पार्थिव-पूजन के पाठ (पृ. 297)।"
+      },
+      "source": "ia-nkpp-scan"
+    },
+    {
+      "reading": "आवाहनं न जानामि न जानामि विसर्जनम् । पूजाविधिं न जानामि क्षमस्व गुरुसत्तम ॥",
+      "note": {
+        "hi": "[आदिशंकराचार्य पूजाविधि](https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83) का गुरु-रूप।",
+        "en": "The guru form of the [Adi Shankaracharya puja vidhi](https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83).",
+        "bho": "[आदिसंकराचार्य पूजाबिधि](https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83) के गुरु-रूप।"
+      },
+      "source": "ws-adishankara-pujavidhi"
+    }
+  ]
+}

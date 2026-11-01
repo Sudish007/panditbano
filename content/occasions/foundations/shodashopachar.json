@@ -1,0 +1,976 @@
+{
+  "id": "shodashopachar",
+  "code": "F13",
+  "group": "foundations",
+  "phase": 1,
+  "title": {
+    "hi": "षोडशोपचार / पंचोपचार पूजन",
+    "en": "Shodashopachara / panchopachara puja",
+    "bho": "षोडशोपचार / पंचोपचार पूजन"
+  },
+  "lede": {
+    "hi": "हर पूजा का मुख्य ढाँचा — आवाहन से दक्षिणा तक सोलह उपचार, हर एक पर वैदिक मंत्र, पौराणिक श्लोक और नाम-वाक्य; छोटे रूप में पाँच उपचार।",
+    "en": "The core frame of every puja — sixteen offerings from the invocation to the gift, each with its Vedic mantra, Puranic verse and name-sentence; five offerings in the short form.",
+    "bho": "हर पूजा के मुख्य ढाँचा — आवाहन से दक्षिणा ले सोलह उपचार, हर एक पर वैदिक मंत्र, पौरानिक श्लोक आ नाँव-वाक्य; छोट रूप में पाँच उपचार।"
+  },
+  "overview": {
+    "hi": "उपचार का अर्थ है देवता की सेवा का एक-एक कार्य — अतिथि की तरह बुलाना, बैठाना, चरण धोना, स्नान कराना, वस्त्र-गंध-फूल देना, भोजन कराना, पान और दक्षिणा देना। माध्यंदिन (हिंदी-पट्टी की) परंपरा में इन्हें **पुरुषसूक्त** के मंत्रों से क्रम में किया जाता है: आवाहन 31.1, आसन 31.2, पाद्य 31.3, अर्घ्य 31.4, आचमनीय 31.5, स्नान 31.6, वस्त्र 31.7, यज्ञोपवीत 31.8, गंध 31.9, नैवेद्य 31.13, तांबूल 31.14 और पुष्पांजलि 31.16; बीच में अक्षत (3.51), पुष्प (12.77), धूप (1.8), दीप (3.9), दक्षिणा (13.4) और पंचामृत (34.11) के मंत्र जुड़ते हैं। हर मंत्र के बाद पौराणिक छंद का श्लोक और फिर नाम-वाक्य ('ॐ … नमः, … समर्पयामि') आता है — जो मंत्र न पढ़ सके, वह केवल नाम-वाक्य से भी पूरी पूजा कर सकता है, ऐसा [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) स्वयं कहती है।\n\nसोलह की गिनती पोथी-पोथी में थोड़ी बदलती है; यहाँ का क्रम आवाहन, आसन, पाद्य, अर्घ्य, आचमनीय, स्नान (पंचामृत और शुद्धोदक सहित), वस्त्र, यज्ञोपवीत, गंध, अक्षत, पुष्प, धूप, दीप, नैवेद्य, तांबूल, दक्षिणा है और अंत में [[aarti]], [[mantra-pushpanjali]], [[pradakshina]], [[kshama-prarthana]] और [[visarjan]] — जो [आरती-पुष्पांजलि-विसर्जन](/occasions/aarti-pushpanjali-visarjan/) पृष्ठ पर हैं। [[panchopachar]] इसी का छोटा रूप है: गंध, पुष्प, धूप, दीप और नैवेद्य — नित्य पूजा में और समय कम हो तो। यह ढाँचा [गणेश-अंबिका पूजन](/occasions/ganesh-ambika-pujan/), [कलश](/occasions/kalash-sthapana/), [नवग्रह](/occasions/navagraha-sthapana-pujan/) और [मातृका](/occasions/matrika-pujan/) के पूजन में वैसा ही दोहराया जाता है, केवल देवता का नाम बदलता है। मंत्रों का पाठ [संस्कृत विकिस्रोत](https://sa.wikisource.org/) से है और क्रम [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) (पृ. 14) और [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 190–200) से।",
+    "en": "An upachara is one act of service to the deity — welcoming as a guest, seating, washing the feet, bathing, giving cloth, scent and flowers, feeding, offering betel and a gift. In the Madhyandina (Hindi-belt) tradition the acts are performed in order with the verses of the **Purusha-sukta**: invocation 31.1, seat 31.2, water for the feet 31.3, arghya 31.4, water to sip 31.5, bath 31.6, cloth 31.7, sacred thread 31.8, sandal 31.9, food 31.13, betel 31.14 and the flower offering 31.16; the mantras for rice (3.51), flowers (12.77), incense (1.8), lamp (3.9), gift (13.4) and the panchamrita (34.11) are set between them. After every mantra comes a verse in Puranic metre and then the name-sentence ('om … namah, … samarpayami') — whoever cannot recite the mantra may perform the whole puja with the name-sentences alone, as the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) itself says.\n\nThe count of sixteen shifts a little from handbook to handbook; the order here is invocation, seat, water for the feet, arghya, water to sip, bath (with panchamrita and pure water), cloth, sacred thread, sandal, rice, flowers, incense, lamp, food, betel, gift, and at the end the [[aarti]], [[mantra-pushpanjali]], [[pradakshina]], [[kshama-prarthana]] and [[visarjan]] — on the [aarti–pushpanjali–visarjan](/occasions/aarti-pushpanjali-visarjan/) page. The [[panchopachar]] is its short form: sandal, flowers, incense, lamp and food — for the daily puja and when time is short. The frame is repeated unchanged in the worship of [Ganesha and Ambika](/occasions/ganesh-ambika-pujan/), the [kalasha](/occasions/kalash-sthapana/), the [navagraha](/occasions/navagraha-sthapana-pujan/) and the [matrikas](/occasions/matrika-pujan/); only the deity's name changes. The mantra texts come from [Sanskrit Wikisource](https://sa.wikisource.org/), the order from the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) (p. 14) and the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (pp. 190–200).",
+    "bho": "उपचार के अरथ बा देवता के सेवा के एक-एक काम — पाहुन जइसन बोलावल, बइठावल, गोड़ धोवल, नहवावल, कपड़ा-गंध-फूल दिहल, खियावल, पान आ दक्षिणा दिहल। माध्यंदिन (हिंदी-पट्टी के) परंपरा में ई सब **पुरुषसूक्त** के मंत्र से क्रम में कइल जाला: आवाहन 31.1, आसन 31.2, पाद्य 31.3, अर्घ्य 31.4, आचमनीय 31.5, स्नान 31.6, वस्त्र 31.7, यज्ञोपवीत 31.8, गंध 31.9, नैवेद्य 31.13, तांबूल 31.14 आ पुष्पांजलि 31.16; बीच में अछत (3.51), फूल (12.77), धूप (1.8), दीप (3.9), दक्षिणा (13.4) आ पंचामृत (34.11) के मंत्र जुड़ेला। हर मंत्र के बाद पौरानिक छंद के श्लोक आ फेर नाँव-वाक्य ('ॐ … नमः, … समर्पयामि') आवेला — जे मंत्र ना पढ़ सके, ऊ खाली नाँव-वाक्य से भी पूरा पूजा कर सकेला, अइसन [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) खुदे कहेला।\n\nसोलह के गिनती पोथी-पोथी में तनी बदलेला; इहाँ के क्रम आवाहन, आसन, पाद्य, अर्घ्य, आचमनीय, स्नान (पंचामृत आ शुद्धोदक सहित), वस्त्र, यज्ञोपवीत, गंध, अछत, फूल, धूप, दीप, नैवेद्य, तांबूल, दक्षिणा बा आ अंत में [[aarti]], [[mantra-pushpanjali]], [[pradakshina]], [[kshama-prarthana]] आ [[visarjan]] — जे [आरती-पुष्पांजलि-बिसर्जन](/occasions/aarti-pushpanjali-visarjan/) पन्ना पर बा। [[panchopachar]] एकरे छोट रूप बा: गंध, फूल, धूप, दीप आ नैवेद्य — नित्य पूजा में आ समय कम होखे त। ई ढाँचा [गणेश-अंबिका पूजन](/occasions/ganesh-ambika-pujan/), [कलस](/occasions/kalash-sthapana/), [नवग्रह](/occasions/navagraha-sthapana-pujan/) आ [मातृका](/occasions/matrika-pujan/) के पूजन में ओइसहीं दोहरावल जाला, खाली देवता के नाँव बदलेला। मंत्र के पाठ [संस्कृत विकिस्रोत](https://sa.wikisource.org/) से बा आ क्रम [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) (पृ. 14) आ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 190–200) से।"
+  },
+  "when": {
+    "rules": {
+      "hi": "हर पूजा में मुख्य देवता के ध्यान-आवाहन के बाद — [[achaman]], [स्वस्तिवाचन](/occasions/svasti-vachan/), [संकल्प](/occasions/sankalp/), [गणेश-अंबिका](/occasions/ganesh-ambika-pujan/) और [कलश](/occasions/kalash-sthapana/) आदि के बाद; नित्य पूजा में पंचोपचार रूप से रोज़। अपना मुहूर्त नहीं — मुख्य कर्म की तिथि चलती है।",
+      "en": "In every puja after the dhyana and invocation of the main deity — after the [[achaman]], [svasti-vachana](/occasions/svasti-vachan/), [sankalpa](/occasions/sankalp/), [Ganesha–Ambika](/occasions/ganesh-ambika-pujan/) and [kalasha](/occasions/kalash-sthapana/); daily in the five-offering form. No muhurat of its own — the date of the main rite applies.",
+      "bho": "हर पूजा में मुख्य देवता के ध्यान-आवाहन के बाद — [[achaman]], [स्वस्तिवाचन](/occasions/svasti-vachan/), [संकल्प](/occasions/sankalp/), [गणेश-अंबिका](/occasions/ganesh-ambika-pujan/) आ [कलस](/occasions/kalash-sthapana/) वगैरह के बाद; नित्य पूजा में पंचोपचार रूप से रोज। आपन मुहूरत नइखे — मुख्य करम के तिथि चलेला।"
+    },
+    "shubhvela": {
+      "muhurat": null,
+      "festival": null,
+      "vrat": null
+    }
+  },
+  "roles": [
+    {
+      "role": {
+        "hi": "पुरोहित",
+        "en": "Purohit",
+        "bho": "पुरोहित"
+      },
+      "does": {
+        "hi": "हर उपचार पर वैदिक मंत्र और श्लोक पढ़ता है, नाम-वाक्य बोलता है और यजमान को बताता है कि क्या और कैसे चढ़ाना है; बीच-बीच में आचमन का जल दिलाता है।",
+        "en": "Recites the Vedic mantra and the verse at each offering, says the name-sentence and tells the host what to offer and how; has the water to sip given between the offerings.",
+        "bho": "हर उपचार पर वैदिक मंत्र आ श्लोक पढ़ेलन, नाँव-वाक्य बोलेलन आ जजमान के बतावेलन कि का आ कइसे चढ़ावे के बा; बीच-बीच में आचमन के पानी देववावेलन।"
+      }
+    },
+    {
+      "role": {
+        "hi": "यजमान (पत्नी सहित)",
+        "en": "The host (with his wife)",
+        "bho": "जजमान (पत्नी सहित)"
+      },
+      "does": {
+        "hi": "दाहिने हाथ से हर वस्तु देवता पर या उनके सामने चढ़ाता है, जल आचमनी से पात्र में छोड़ता है, भोग पर जल का घेरा डालता है; पत्नी दाहिनी ओर बैठकर साथ देती है।",
+        "en": "Offers each item with the right hand onto or before the deity, pours the water from the spoon into the dish, draws the water ring around the food; his wife sits on his right and joins in.",
+        "bho": "दहिना हाथ से हर चीज देवता पर भा उनका आगे चढ़ावेलन, पानी आचमनी से बरतन में छोड़ेलन, भोग पर पानी के घेरा डालेलन; पत्नी दहिना ओर बइठ के संगे देली।"
+      }
+    },
+    {
+      "role": {
+        "hi": "घर के लोग",
+        "en": "The family",
+        "bho": "घर के लोग"
+      },
+      "does": {
+        "hi": "सामग्री क्रम से हाथ में देते हैं, भोग की थाली और आरती की तैयारी रखते हैं; चढ़ाई हुई वस्तुएँ बाद में प्रसाद के रूप में बँटती हैं।",
+        "en": "Hand over the items in order, keep the food plate and the aarti ready; the offered things are later shared as prasad.",
+        "bho": "सामग्री क्रम से हाथ में देलन, भोग के थारी आ आरती के तइयारी रखेलन; चढ़ावल चीज बाद में परसाद के रूप में बँटेला।"
+      }
+    }
+  ],
+  "samagri": [
+    {
+      "id": "asan-chauki",
+      "item": {
+        "hi": "चौकी पर लाल या पीला वस्त्र, देवता का प्रतीक/मूर्ति",
+        "en": "A low stool with red or yellow cloth, the deity's token or murti",
+        "bho": "चउकी पर लाल भा पियर कपड़ा, देवता के प्रतीक/मूरति"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "jal-patra-achamani",
+      "item": {
+        "hi": "जल-पात्र, आचमनी (चम्मच) और जल गिराने का पात्र",
+        "en": "A water vessel, the spoon and a dish to receive the water",
+        "bho": "पानी के बरतन, आचमनी (चम्मच) आ पानी गिरावे के बरतन"
+      },
+      "qty": "1-1-1",
+      "must": true
+    },
+    {
+      "id": "akshat",
+      "item": {
+        "hi": "अक्षत — साबुत चावल, रोली से रँगे",
+        "en": "Unbroken rice tinged with roli",
+        "bho": "अछत — साबुत चाउर, रोरी से रँगल"
+      },
+      "qty": "1 कटोरी",
+      "must": true
+    },
+    {
+      "id": "chandan-roli",
+      "item": {
+        "hi": "चंदन (घिसा), रोली, कुंकुम",
+        "en": "Sandal paste, roli, kumkum",
+        "bho": "चंदन (घिसल), रोरी, कुंकुम"
+      },
+      "qty": "थोड़ा",
+      "must": true
+    },
+    {
+      "id": "pushp-mala",
+      "item": {
+        "hi": "फूल और माला (गणेश पर दूर्वा, शिव पर बिल्वपत्र, विष्णु पर तुलसी)",
+        "en": "Flowers and a garland (durva for Ganesha, bilva for Shiva, tulsi for Vishnu)",
+        "bho": "फूल आ माला (गणेश पर दूब, सिव पर बेलपत्र, बिस्नु पर तुलसी)"
+      },
+      "qty": "यथाशक्ति",
+      "must": true
+    },
+    {
+      "id": "panchamrit-dravya",
+      "item": {
+        "hi": "पंचामृत के लिए दूध, दही, घी, मधु, शक्कर",
+        "en": "Milk, curd, ghee, honey and sugar for the panchamrita",
+        "bho": "पंचामृत खातिर दूध, दही, घीव, मधु, चीनी"
+      },
+      "qty": "थोड़ा-थोड़ा",
+      "note": {
+        "hi": "मूर्ति हो तो; सुपारी या चित्र पर केवल जल के छींटे।",
+        "en": "Only for a murti; a betel nut or a picture gets a sprinkle of water.",
+        "bho": "मूरति होखे त; सुपारी भा चित्र पर खाली पानी के छींटा।"
+      }
+    },
+    {
+      "id": "gangajal",
+      "item": {
+        "hi": "गंगाजल या शुद्ध जल (शुद्धोदक-स्नान)",
+        "en": "Ganga water or clean water for the pure-water bath",
+        "bho": "गंगाजल भा सुद्ध पानी (शुद्धोदक-स्नान)"
+      },
+      "qty": "1 लोटा",
+      "must": true
+    },
+    {
+      "id": "vastra-mauli",
+      "item": {
+        "hi": "वस्त्र (मूर्ति के लिए कपड़ा) या मौली/कलावा",
+        "en": "Cloth for a murti, or a red thread",
+        "bho": "कपड़ा (मूरति खातिर) भा मौली/कलावा"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "janeu",
+      "item": {
+        "hi": "जनेऊ (देवी के लिए कंचुकी/उपवस्त्र)",
+        "en": "A sacred thread (janeu); for a goddess a bodice cloth",
+        "bho": "जनेऊ (देवी खातिर कंचुकी/उपवस्त्र)"
+      },
+      "qty": "1"
+    },
+    {
+      "id": "sindoor-abir",
+      "item": {
+        "hi": "सिंदूर, अबीर, गुलाल, हल्दी, इत्र",
+        "en": "Sindoor, abir, gulal, turmeric, perfume",
+        "bho": "सिंदूर, अबीर, गुलाल, हरदी, इतर"
+      },
+      "qty": "थोड़ा"
+    },
+    {
+      "id": "dhoop",
+      "item": {
+        "hi": "धूप या अगरबत्ती",
+        "en": "Incense or agarbatti",
+        "bho": "धूप भा अगरबत्ती"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "deep",
+      "item": {
+        "hi": "घी का दीपक और बत्ती (तेल का दीपक बाईं ओर अलग)",
+        "en": "A ghee lamp with wick (an oil lamp separately on the left)",
+        "bho": "घीव के दीया आ बाती (तेल के दीया बायाँ ओर अलगे)"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "naivedya",
+      "item": {
+        "hi": "नैवेद्य — मिठाई, फल, मेवा; भोग की थाली और तुलसी-पत्र",
+        "en": "Food offering — sweets, fruit, nuts; the plate and a tulsi leaf",
+        "bho": "नैवेद्य — मिठाई, फल, मेवा; भोग के थारी आ तुलसी-पत्ता"
+      },
+      "qty": "1 थाली",
+      "must": true
+    },
+    {
+      "id": "paan-supari",
+      "item": {
+        "hi": "पान, सुपारी, इलायची, लौंग (तांबूल)",
+        "en": "Betel leaf, areca nut, cardamom, clove (tambula)",
+        "bho": "पान, सुपारी, इलाइची, लौंग (तांबूल)"
+      },
+      "qty": "2-2"
+    },
+    {
+      "id": "dakshina-dravya",
+      "item": {
+        "hi": "दक्षिणा का द्रव्य (सिक्का/नोट) और ऋतुफल",
+        "en": "Money for the dakshina and seasonal fruit",
+        "bho": "दक्षिणा के पइसा (सिक्का/नोट) आ ऋतुफल"
+      },
+      "qty": "यथाशक्ति",
+      "must": true
+    }
+  ],
+  "parts": [
+    {
+      "id": "purvanga",
+      "title": {
+        "hi": "पूर्वांग — ध्यान, आवाहन, प्रतिष्ठा",
+        "en": "Preliminaries — dhyana, invocation, installing",
+        "bho": "पूर्वांग — ध्यान, आवाहन, प्रतिष्ठा"
+      },
+      "summary": {
+        "hi": "देवता को बुलाकर प्रतीक में स्थापित करना।",
+        "en": "Calling the deity and installing it in the token.",
+        "bho": "देवता के बोला के प्रतीक में थापल।"
+      }
+    },
+    {
+      "id": "upachar",
+      "title": {
+        "hi": "षोडशोपचार — आसन से दक्षिणा",
+        "en": "The sixteen offerings — seat to gift",
+        "bho": "षोडशोपचार — आसन से दक्षिणा"
+      },
+      "summary": {
+        "hi": "हर उपचार: वैदिक मंत्र, श्लोक, नाम-वाक्य, वस्तु।",
+        "en": "Each offering: Vedic mantra, verse, name-sentence, item.",
+        "bho": "हर उपचार: वैदिक मंत्र, श्लोक, नाँव-वाक्य, चीज।"
+      }
+    },
+    {
+      "id": "uttaranga",
+      "title": {
+        "hi": "उत्तरांग — आरती से विसर्जन",
+        "en": "Closing — aarti to dismissal",
+        "bho": "उत्तरांग — आरती से बिसर्जन"
+      },
+      "summary": {
+        "hi": "आरती-पुष्पांजलि-विसर्जन पृष्ठ पर विस्तार।",
+        "en": "Detailed on the aarti–pushpanjali–visarjan page.",
+        "bho": "आरती-पुष्पांजलि-बिसर्जन पन्ना पर बिस्तार।"
+      }
+    }
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "part": "purvanga",
+      "layer": "paddhati",
+      "action": {
+        "hi": "आसन और स्थान की तैयारी: [[achaman]], पवित्रीकरण और [संकल्प](/occasions/sankalp/) हो चुका हो। चौकी पर वस्त्र बिछाकर देवता का प्रतीक या मूर्ति रखें; जल-पात्र, घंटी और धूप बाईं ओर, घी का दीपक और शंख दाहिनी ओर, चंदन-अक्षत-फूल सामने; भोग की थाली अभी ढककर अलग रखें। यजमान पूर्व या उत्तर मुख बैठे।",
+        "en": "Preparing the seat and the place: the [[achaman]], pavitrikarana and [sankalpa](/occasions/sankalp/) are already done. Spread the cloth on the stool and set the deity's token or murti; water vessel, bell and incense on the left, the ghee lamp and conch on the right, sandal, rice and flowers in front; keep the food plate covered to one side for now. The host sits facing east or north.",
+        "bho": "आसन आ ठाँव के तइयारी: [[achaman]], पवित्रीकरन आ [संकल्प](/occasions/sankalp/) हो गइल होखे। चउकी पर कपड़ा बिछा के देवता के प्रतीक भा मूरति रखीं; पानी के बरतन, घंटी आ धूप बायाँ ओर, घीव के दीया आ संख दहिना ओर, चंदन-अछत-फूल आगे; भोग के थारी अबहीं ढँक के अलगे रखीं। जजमान पूरब भा उत्तर मुँह बइठसु।"
+      },
+      "note": {
+        "hi": "वस्तुओं की दिशा का यह नियम [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) के देवपूजा-प्रकरण (पृ. 131) से है।",
+        "en": "The placing of the items follows the devapuja chapter of the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (p. 131).",
+        "bho": "चीज के दिसा के ई नियम [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) के देवपूजा-प्रकरन (पृ. 131) से बा।"
+      },
+      "samagriIds": [
+        "asan-chauki",
+        "jal-patra-achamani"
+      ],
+      "minutes": 3
+    },
+    {
+      "n": 2,
+      "part": "purvanga",
+      "layer": "paddhati",
+      "action": {
+        "hi": "ध्यान — हाथ में अक्षत-पुष्प लेकर देवता का ध्यान-श्लोक पढ़ा जाता है: गणेश का 'गजाननं भूतगणादिसेवितं', विष्णु, शिव, सूर्य, दुर्गा के अपने ध्यान; यजमान हाथ जोड़े सुनता है। ध्यान-श्लोक देवता के पृष्ठ पर हैं (जैसे [गणेश-अंबिका](/occasions/ganesh-ambika-pujan/), [नवग्रह](/occasions/navagraha-sthapana-pujan/))।",
+        "en": "Dhyana — holding rice and flowers, the deity's dhyana verse is recited: 'gajananam bhutaganadi-sevitam' for Ganesha, and the own verses of Vishnu, Shiva, Surya, Durga; the host listens with folded hands. The dhyana verses are on the deity pages (such as [Ganesha–Ambika](/occasions/ganesh-ambika-pujan/), [navagraha](/occasions/navagraha-sthapana-pujan/)).",
+        "bho": "ध्यान — हाथ में अछत-फूल लेके देवता के ध्यान-श्लोक पढ़ल जाला: गणेश के 'गजाननं भूतगणादिसेवितं', बिस्नु, सिव, सुरुज, दुर्गा के आपन-आपन ध्यान; जजमान हाथ जोड़ के सुनेलन। ध्यान-श्लोक देवता के पन्ना पर बा (जइसे [गणेश-अंबिका](/occasions/ganesh-ambika-pujan/), [नवग्रह](/occasions/navagraha-sthapana-pujan/))।"
+      },
+      "panditSays": {
+        "sa": "ॐ {देवता} नमः । ध्यानार्थं अक्षतपुष्पाणि समर्पयामि ।",
+        "hi": "पंडित ध्यान-श्लोक पढ़कर यह वाक्य बोलता है; यजमान अक्षत-पुष्प प्रतीक पर छोड़ता है। {देवता} की जगह देवता का चतुर्थी-रूप (गणपतये, गौर्यै, विष्णवे…)।",
+        "en": "The pandit recites the dhyana verse and says this sentence; the host drops the rice and flowers onto the token. {देवता} stands for the deity's dative form (ganapataye, gauryai, vishnave …).",
+        "bho": "पंडित ध्यान-श्लोक पढ़ के ई वाक्य बोलेलन; जजमान अछत-फूल प्रतीक पर छोड़ेलन। {देवता} के ठाँव देवता के चतुर्थी-रूप (गणपतये, गौर्यै, विष्णवे…)।"
+      },
+      "samagriIds": [
+        "akshat",
+        "pushp-mala"
+      ],
+      "minutes": 2
+    },
+    {
+      "n": 3,
+      "part": "purvanga",
+      "layer": "vedic",
+      "action": {
+        "hi": "आवाहन: पंडित VS 31.1 'सहस्रशीर्षा पुरुषः' और 'आगच्छ भगवन् देव' पढ़कर आवाहन-वाक्य बोलता है; यजमान अक्षत-पुष्प प्रतीक पर छोड़ता है। मंदिर की प्रतिष्ठित मूर्ति, शालग्राम या ज्योति में आवाहन नहीं होता — वहाँ इसी मंत्र से पुष्पांजलि दी जाती है।",
+        "en": "Avahana: the pandit recites VS 31.1 'sahasrashirsha purushah' and 'agachchha bhagavan deva' and says the invocation sentence; the host releases rice and flowers onto the token. A consecrated temple image, a shaligrama or a flame is not invoked — there a flower offering is made with the same mantra.",
+        "bho": "आवाहन: पंडित VS 31.1 'सहस्रशीर्षा पुरुषः' आ 'आगच्छ भगवन् देव' पढ़ के आवाहन-वाक्य बोलेलन; जजमान अछत-फूल प्रतीक पर छोड़ेलन। मंदिर के परतिष्ठित मूरति, सालिग्राम भा जोत में आवाहन ना होला — ओहिजा एही मंत्र से पुष्पांजलि दिहल जाला।"
+      },
+      "mantraIds": [
+        "vs-31-1",
+        "pad-agachchha-bhagavan-deva"
+      ],
+      "panditSays": {
+        "sa": "ॐ भूर्भुवः स्वः {देवता} नमः । {देवता} आवाहयामि स्थापयामि पूजयामि च । आवाहनार्थे अक्षतपुष्पाणि समर्पयामि ।",
+        "hi": "पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है।",
+        "en": "The pandit recites the Vedic mantra and the verse, then says the name-sentence; the host offers the item.",
+        "bho": "पंडित वैदिक मंत्र आ श्लोक पढ़ के नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन।"
+      },
+      "samagriIds": [
+        "akshat",
+        "pushp-mala"
+      ],
+      "minutes": 2,
+      "important": true
+    },
+    {
+      "n": 4,
+      "part": "purvanga",
+      "layer": "vedic",
+      "action": {
+        "hi": "प्रतिष्ठा: VS 2.13 'मनो जूतिर्जुषतामाज्यस्य' और 'अस्यै प्राणाः प्रतिष्ठंतु' पढ़कर पंडित प्रतीक पर अक्षत छोड़ता है और कहता है 'सुप्रतिष्ठितो वरदो भव' — नई मूर्ति, कलश, सुपारी या मिट्टी के प्रतीक पर ही; फिर आसन के लिए अक्षत।",
+        "en": "Pratishtha: reciting VS 2.13 'mano jutir jushatam ajyasya' and 'asyai pranah pratishthantu' the pandit drops rice onto the token and says 'supratishthito varado bhava' — only over a new murti, a kalasha, a betel nut or a clay token; then rice for the seat.",
+        "bho": "प्रतिष्ठा: VS 2.13 'मनो जूतिर्जुषतामाज्यस्य' आ 'अस्यै प्राणाः प्रतिष्ठन्तु' पढ़ के पंडित प्रतीक पर अछत छोड़ेलन आ कहेलन 'सुप्रतिष्ठितो वरदो भव' — नवका मूरति, कलस, सुपारी भा माटी के प्रतीक पर ही; फेर आसन खातिर अछत।"
+      },
+      "mantraIds": [
+        "vs-2-13",
+        "pad-asyai-pranah-pratishthantu"
+      ],
+      "panditSays": {
+        "sa": "{देवता} सुप्रतिष्ठितो वरदो भव । प्रतिष्ठापूर्वकम् आसनार्थे अक्षतान् समर्पयामि {देवता} नमः ।",
+        "hi": "पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है।",
+        "en": "The pandit recites the Vedic mantra and the verse, then says the name-sentence; the host offers the item.",
+        "bho": "पंडित वैदिक मंत्र आ श्लोक पढ़ के नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन।"
+      },
+      "samagriIds": [
+        "akshat"
+      ],
+      "minutes": 1
+    },
+    {
+      "n": 5,
+      "part": "upachar",
+      "layer": "vedic",
+      "action": {
+        "hi": "आसन: पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है। अक्षत या फूल आसन के रूप में।",
+        "en": "Asana — the seat: the pandit recites the mantra and the verse and says the name-sentence; the host offers the item. Rice or a flower stands for the seat.",
+        "bho": "आसन: पंडित मंत्र आ श्लोक पढ़ेलन आ नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन। अछत भा फूल आसन के रूप में।"
+      },
+      "mantraIds": [
+        "vs-31-2",
+        "pad-anekaratna-samyuktam"
+      ],
+      "panditSays": {
+        "sa": "ॐ {देवता} नमः । आसनार्थे अक्षतान् समर्पयामि ।",
+        "hi": "पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है।",
+        "en": "The pandit recites the Vedic mantra and the verse, then says the name-sentence; the host offers the item.",
+        "bho": "पंडित वैदिक मंत्र आ श्लोक पढ़ के नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन।"
+      },
+      "samagriIds": [
+        "akshat"
+      ],
+      "minutes": 1
+    },
+    {
+      "n": 6,
+      "part": "upachar",
+      "layer": "vedic",
+      "action": {
+        "hi": "पाद्य: पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है। आचमनी से जल पात्र में।",
+        "en": "Padya — water for the feet: the pandit recites the mantra and the verse and says the name-sentence; the host offers the item. Water from the spoon into the dish.",
+        "bho": "पाद्य: पंडित मंत्र आ श्लोक पढ़ेलन आ नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन। आचमनी से पानी बरतन में।"
+      },
+      "mantraIds": [
+        "vs-31-3",
+        "pad-gangodakam-nirmalam-cha"
+      ],
+      "panditSays": {
+        "sa": "ॐ {देवता} नमः । पादयोः पाद्यं समर्पयामि ।",
+        "hi": "पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है।",
+        "en": "The pandit recites the Vedic mantra and the verse, then says the name-sentence; the host offers the item.",
+        "bho": "पंडित वैदिक मंत्र आ श्लोक पढ़ के नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन।"
+      },
+      "samagriIds": [
+        "jal-patra-achamani"
+      ],
+      "minutes": 1
+    },
+    {
+      "n": 7,
+      "part": "upachar",
+      "layer": "vedic",
+      "action": {
+        "hi": "अर्घ्य: पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है। गंध-अक्षत-फूल मिला जल, देवता के हाथों में देने की भावना से।",
+        "en": "Arghya: the pandit recites the mantra and the verse and says the name-sentence; the host offers the item. Water with sandal, rice and flower, offered as into the deity's hands.",
+        "bho": "अर्घ्य: पंडित मंत्र आ श्लोक पढ़ेलन आ नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन। गंध-अछत-फूल मिलल पानी, देवता के हाथ में देवे के भाव से।"
+      },
+      "mantraIds": [
+        "vs-31-4",
+        "pad-arghyam-grihana-devesha"
+      ],
+      "panditSays": {
+        "sa": "ॐ {देवता} नमः । हस्तयोः अर्घ्यं समर्पयामि ।",
+        "hi": "पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है।",
+        "en": "The pandit recites the Vedic mantra and the verse, then says the name-sentence; the host offers the item.",
+        "bho": "पंडित वैदिक मंत्र आ श्लोक पढ़ के नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन।"
+      },
+      "samagriIds": [
+        "jal-patra-achamani",
+        "chandan-roli",
+        "akshat"
+      ],
+      "minutes": 1
+    },
+    {
+      "n": 8,
+      "part": "upachar",
+      "layer": "vedic",
+      "action": {
+        "hi": "आचमनीय: पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है। कपूर-सुवासित जल; आगे हर स्नान और भोग के बाद यही वाक्य दोहराया जाता है।",
+        "en": "Achamaniya — water to sip: the pandit recites the mantra and the verse and says the name-sentence; the host offers the item. Camphor-scented water; the same sentence is repeated after every later bath and after the food.",
+        "bho": "आचमनीय: पंडित मंत्र आ श्लोक पढ़ेलन आ नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन। कपूर-बसावल पानी; आगे हर स्नान आ भोग के बाद इहे वाक्य दोहरावल जाला।"
+      },
+      "mantraIds": [
+        "vs-31-5",
+        "pad-karpurena-sugandhena"
+      ],
+      "panditSays": {
+        "sa": "ॐ {देवता} नमः । आचमनीयं जलं समर्पयामि ।",
+        "hi": "पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है।",
+        "en": "The pandit recites the Vedic mantra and the verse, then says the name-sentence; the host offers the item.",
+        "bho": "पंडित वैदिक मंत्र आ श्लोक पढ़ के नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन।"
+      },
+      "samagriIds": [
+        "jal-patra-achamani"
+      ],
+      "minutes": 1
+    },
+    {
+      "n": 9,
+      "part": "upachar",
+      "layer": "vedic",
+      "action": {
+        "hi": "स्नान: पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है। शुद्ध जल से; सुपारी-चित्र पर छींटे।",
+        "en": "Snana — the bath: the pandit recites the mantra and the verse and says the name-sentence; the host offers the item. With clean water; a sprinkle for a betel nut or a picture.",
+        "bho": "स्नान: पंडित मंत्र आ श्लोक पढ़ेलन आ नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन। सुद्ध पानी से; सुपारी-चित्र पर छींटा।"
+      },
+      "mantraIds": [
+        "vs-31-6",
+        "pad-ganga-sarasvati-tire"
+      ],
+      "panditSays": {
+        "sa": "ॐ {देवता} नमः । स्नानीयं जलं समर्पयामि । स्नानान्ते आचमनीयं जलं समर्पयामि ।",
+        "hi": "पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है।",
+        "en": "The pandit recites the Vedic mantra and the verse, then says the name-sentence; the host offers the item.",
+        "bho": "पंडित वैदिक मंत्र आ श्लोक पढ़ के नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन।"
+      },
+      "samagriIds": [
+        "jal-patra-achamani"
+      ],
+      "minutes": 1
+    },
+    {
+      "n": 10,
+      "part": "upachar",
+      "layer": "vedic",
+      "action": {
+        "hi": "पंचामृत-स्नान: पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है। पाँचों द्रव्य मिलाकर एक साथ; विस्तार में दूध (VS 18.26), दही (23.32), घी (17.88), मधु (13.27–28) और शक्कर (9.3) अलग-अलग अपने मंत्र से — हर एक के बाद शुद्ध जल।",
+        "en": "Panchamrita-snana: the pandit recites the mantra and the verse and says the name-sentence; the host offers the item. The five mixed and offered together; in the long form milk (VS 18.26), curd (23.32), ghee (17.88), honey (13.27–28) and sugar (9.3) each with its own mantra, clean water after each.",
+        "bho": "पंचामृत-स्नान: पंडित मंत्र आ श्लोक पढ़ेलन आ नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन। पाँचो चीज मिला के एके संगे; बिस्तार में दूध (VS 18.26), दही (23.32), घीव (17.88), मधु (13.27–28) आ चीनी (9.3) अलगे-अलगे आपन मंत्र से — हर एक के बाद सुद्ध पानी।"
+      },
+      "mantraIds": [
+        "vs-34-11",
+        "pad-payo-dadhi-ghritam-chaiva"
+      ],
+      "panditSays": {
+        "sa": "ॐ {देवता} नमः । पञ्चामृतस्नानं समर्पयामि । पञ्चामृतस्नानान्ते शुद्धोदकस्नानं समर्पयामि ।",
+        "hi": "पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है।",
+        "en": "The pandit recites the Vedic mantra and the verse, then says the name-sentence; the host offers the item.",
+        "bho": "पंडित वैदिक मंत्र आ श्लोक पढ़ के नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन।"
+      },
+      "samagriIds": [
+        "panchamrit-dravya"
+      ],
+      "minutes": 1
+    },
+    {
+      "n": 11,
+      "part": "upachar",
+      "layer": "vedic",
+      "action": {
+        "hi": "शुद्धोदक-स्नान: पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है। गंगाजल या शुद्ध जल; फिर मूर्ति पोंछकर आसन पर रखें।",
+        "en": "Shuddhodaka-snana — the pure-water bath: the pandit recites the mantra and the verse and says the name-sentence; the host offers the item. Ganga water or clean water; then wipe the murti and set it back on its seat.",
+        "bho": "शुद्धोदक-स्नान: पंडित मंत्र आ श्लोक पढ़ेलन आ नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन। गंगाजल भा सुद्ध पानी; फेर मूरति पोंछ के आसन पर रखीं।"
+      },
+      "mantraIds": [
+        "vs-24-3",
+        "pad-mandakinyas-tu-yad-vari"
+      ],
+      "panditSays": {
+        "sa": "ॐ {देवता} नमः । शुद्धोदकस्नानं समर्पयामि । शुद्धोदकस्नानान्ते आचमनीयं जलं समर्पयामि ।",
+        "hi": "पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है।",
+        "en": "The pandit recites the Vedic mantra and the verse, then says the name-sentence; the host offers the item.",
+        "bho": "पंडित वैदिक मंत्र आ श्लोक पढ़ के नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन।"
+      },
+      "samagriIds": [
+        "gangajal"
+      ],
+      "minutes": 1
+    },
+    {
+      "n": 12,
+      "part": "upachar",
+      "layer": "vedic",
+      "action": {
+        "hi": "वस्त्र और उपवस्त्र: पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है। मूर्ति पर कपड़ा, प्रतीक पर मौली; उपवस्त्र VS 11.40 'सुजातो ज्योतिषा' से।",
+        "en": "Vastra and upavastra — cloth: the pandit recites the mantra and the verse and says the name-sentence; the host offers the item. Cloth on a murti, a red thread on a token; the upper cloth with VS 11.40 'sujato jyotisha'.",
+        "bho": "वस्त्र आ उपवस्त्र: पंडित मंत्र आ श्लोक पढ़ेलन आ नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन। मूरति पर कपड़ा, प्रतीक पर मौली; उपवस्त्र VS 11.40 'सुजातो ज्योतिषा' से।"
+      },
+      "mantraIds": [
+        "vs-31-7",
+        "pad-shitavatoshna-santranam",
+        "vs-11-40"
+      ],
+      "panditSays": {
+        "sa": "ॐ {देवता} नमः । वस्त्रं समर्पयामि । वस्त्रान्ते आचमनीयं जलं समर्पयामि । उपवस्त्रं वा रक्तसूत्रं समर्पयामि ।",
+        "hi": "पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है।",
+        "en": "The pandit recites the Vedic mantra and the verse, then says the name-sentence; the host offers the item.",
+        "bho": "पंडित वैदिक मंत्र आ श्लोक पढ़ के नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन।"
+      },
+      "samagriIds": [
+        "vastra-mauli"
+      ],
+      "minutes": 1
+    },
+    {
+      "n": 13,
+      "part": "upachar",
+      "layer": "vedic",
+      "action": {
+        "hi": "यज्ञोपवीत: पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है। देवी पर यज्ञोपवीत नहीं — कंचुकी या उपवस्त्र।",
+        "en": "Yajnopavita — the sacred thread: the pandit recites the mantra and the verse and says the name-sentence; the host offers the item. No thread for a goddess — a bodice cloth instead.",
+        "bho": "यज्ञोपवीत: पंडित मंत्र आ श्लोक पढ़ेलन आ नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन। देवी पर जनेऊ ना — कंचुकी भा उपवस्त्र।"
+      },
+      "mantraIds": [
+        "vs-31-8",
+        "pad-yajnopavitam-paramam-pavitram"
+      ],
+      "panditSays": {
+        "sa": "ॐ {देवता} नमः । यज्ञोपवीतं समर्पयामि । यज्ञोपवीतान्ते आचमनीयं जलं समर्पयामि ।",
+        "hi": "पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है।",
+        "en": "The pandit recites the Vedic mantra and the verse, then says the name-sentence; the host offers the item.",
+        "bho": "पंडित वैदिक मंत्र आ श्लोक पढ़ के नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन।"
+      },
+      "samagriIds": [
+        "janeu"
+      ],
+      "minutes": 1
+    },
+    {
+      "n": 14,
+      "part": "upachar",
+      "layer": "vedic",
+      "action": {
+        "hi": "गंध (चंदन): पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है। अनामिका से; यहाँ से [[panchopachar]] के पाँच उपचार शुरू होते हैं।",
+        "en": "Gandha — sandal: the pandit recites the mantra and the verse and says the name-sentence; the host offers the item. With the ring finger; the five offerings of the [[panchopachar]] begin here.",
+        "bho": "गंध (चंदन): पंडित मंत्र आ श्लोक पढ़ेलन आ नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन। अनामिका से; इहाँ से [[panchopachar]] के पाँच उपचार सुरू होला।"
+      },
+      "mantraIds": [
+        "vs-31-9",
+        "pad-shrikhandam-chandanam-divyam"
+      ],
+      "panditSays": {
+        "sa": "ॐ {देवता} नमः । चन्दनानुलेपनं समर्पयामि ।",
+        "hi": "पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है।",
+        "en": "The pandit recites the Vedic mantra and the verse, then says the name-sentence; the host offers the item.",
+        "bho": "पंडित वैदिक मंत्र आ श्लोक पढ़ के नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन।"
+      },
+      "samagriIds": [
+        "chandan-roli"
+      ],
+      "minutes": 1
+    },
+    {
+      "n": 15,
+      "part": "upachar",
+      "layer": "vedic",
+      "action": {
+        "hi": "अक्षत: पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है। रोली से रँगे साबुत चावल; शिव पर जौ या सफ़ेद अक्षत।",
+        "en": "Akshata — unbroken rice: the pandit recites the mantra and the verse and says the name-sentence; the host offers the item. Whole rice tinged with roli; barley or plain rice for Shiva.",
+        "bho": "अछत: पंडित मंत्र आ श्लोक पढ़ेलन आ नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन। रोरी से रँगल साबुत चाउर; सिव पर जौ भा उज्जर अछत।"
+      },
+      "mantraIds": [
+        "vs-3-51",
+        "pad-akshatash-cha-surashreshtha"
+      ],
+      "panditSays": {
+        "sa": "ॐ {देवता} नमः । अक्षतान् समर्पयामि ।",
+        "hi": "पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है।",
+        "en": "The pandit recites the Vedic mantra and the verse, then says the name-sentence; the host offers the item.",
+        "bho": "पंडित वैदिक मंत्र आ श्लोक पढ़ के नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन।"
+      },
+      "samagriIds": [
+        "akshat"
+      ],
+      "minutes": 1
+    },
+    {
+      "n": 16,
+      "part": "upachar",
+      "layer": "vedic",
+      "action": {
+        "hi": "पुष्प और पुष्पमाला: पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है। गणेश पर दूर्वा, शिव पर बिल्वपत्र, विष्णु पर तुलसी यहीं; फूल अँगूठे, मध्यमा और अनामिका से पकड़कर।",
+        "en": "Pushpa — flowers and garland: the pandit recites the mantra and the verse and says the name-sentence; the host offers the item. Durva for Ganesha, bilva for Shiva, tulsi for Vishnu here; hold the flower with thumb, middle and ring finger.",
+        "bho": "फूल आ माला: पंडित मंत्र आ श्लोक पढ़ेलन आ नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन। गणेश पर दूब, सिव पर बेलपत्र, बिस्नु पर तुलसी इहवें; फूल अँगूठा, मध्यमा आ अनामिका से पकड़ के।"
+      },
+      "mantraIds": [
+        "vs-12-77",
+        "pad-malyadini-sugandhini"
+      ],
+      "panditSays": {
+        "sa": "ॐ {देवता} नमः । पुष्पाणि पुष्पमालां च समर्पयामि ।",
+        "hi": "पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है।",
+        "en": "The pandit recites the Vedic mantra and the verse, then says the name-sentence; the host offers the item.",
+        "bho": "पंडित वैदिक मंत्र आ श्लोक पढ़ के नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन।"
+      },
+      "samagriIds": [
+        "pushp-mala"
+      ],
+      "minutes": 1
+    },
+    {
+      "n": 17,
+      "part": "upachar",
+      "layer": "vedic",
+      "action": {
+        "hi": "सिंदूर, अबीर-गुलाल, सुगंधि: पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है। सिंदूर गणेश और देवी पर (VS 17.95 'सिंधोरिव प्राध्वने' के साथ), अबीर-गुलाल-इत्र सब पर।",
+        "en": "Sindoor, abir-gulal and scent: the pandit recites the mantra and the verse and says the name-sentence; the host offers the item. Sindoor for Ganesha and the goddess (with VS 17.95 'sindhor iva pradhvane'), the powders and perfume for all.",
+        "bho": "सिंदूर, अबीर-गुलाल, सुगंधि: पंडित मंत्र आ श्लोक पढ़ेलन आ नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन। सिंदूर गणेश आ देवी पर (VS 17.95 'सिन्धोरिव प्राध्वने' संगे), अबीर-गुलाल-इतर सब पर।"
+      },
+      "mantraIds": [
+        "vs-29-51",
+        "pad-abiram-cha-gulalam-cha"
+      ],
+      "panditSays": {
+        "sa": "ॐ {देवता} नमः । सिन्दूरं समर्पयामि । नानापरिमलद्रव्याणि समर्पयामि ।",
+        "hi": "पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है।",
+        "en": "The pandit recites the Vedic mantra and the verse, then says the name-sentence; the host offers the item.",
+        "bho": "पंडित वैदिक मंत्र आ श्लोक पढ़ के नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन।"
+      },
+      "samagriIds": [
+        "sindoor-abir"
+      ],
+      "minutes": 1
+    },
+    {
+      "n": 18,
+      "part": "upachar",
+      "layer": "vedic",
+      "action": {
+        "hi": "धूप: पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है। भोग की थाली सामने रखकर, जल का चौकोर घेरा डालकर, तब धूप-दीप।",
+        "en": "Dhupa — incense: the pandit recites the mantra and the verse and says the name-sentence; the host offers the item. Set the food plate in front inside a square of water, then incense and lamp.",
+        "bho": "धूप: पंडित मंत्र आ श्लोक पढ़ेलन आ नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन। भोग के थारी आगे रख के, पानी के चौकोर घेरा डाल के, तब धूप-दीप।"
+      },
+      "mantraIds": [
+        "vs-1-8",
+        "pad-vanaspati-rasodbhuto"
+      ],
+      "panditSays": {
+        "sa": "ॐ {देवता} नमः । धूपमाघ्रापयामि ।",
+        "hi": "पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है।",
+        "en": "The pandit recites the Vedic mantra and the verse, then says the name-sentence; the host offers the item.",
+        "bho": "पंडित वैदिक मंत्र आ श्लोक पढ़ के नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन।"
+      },
+      "samagriIds": [
+        "dhoop"
+      ],
+      "minutes": 1
+    },
+    {
+      "n": 19,
+      "part": "upachar",
+      "layer": "vedic",
+      "action": {
+        "hi": "दीप: पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है। घी का दीपक दिखाकर हाथ धो लें ('ॐ हृषीकेशाय नमः')।",
+        "en": "Dipa — the lamp: the pandit recites the mantra and the verse and says the name-sentence; the host offers the item. Show the ghee lamp, then wash the hands ('om hrishikeshaya namah').",
+        "bho": "दीप: पंडित मंत्र आ श्लोक पढ़ेलन आ नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन। घीव के दीया देखा के हाथ धो लीं ('ॐ हृषीकेशाय नमः')।"
+      },
+      "mantraIds": [
+        "vs-3-9",
+        "pad-sajyam-cha-varti-samyuktam"
+      ],
+      "panditSays": {
+        "sa": "ॐ {देवता} नमः । दीपं दर्शयामि । हस्तौ प्रक्षालयामि ।",
+        "hi": "पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है।",
+        "en": "The pandit recites the Vedic mantra and the verse, then says the name-sentence; the host offers the item.",
+        "bho": "पंडित वैदिक मंत्र आ श्लोक पढ़ के नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन।"
+      },
+      "samagriIds": [
+        "deep"
+      ],
+      "minutes": 1
+    },
+    {
+      "n": 20,
+      "part": "upachar",
+      "layer": "vedic",
+      "action": {
+        "hi": "नैवेद्य: पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है। थाली पर तुलसी या फूल रखकर, प्राण-आहुतियाँ बोलते हुए; फिर कुछ क्षण मौन (भोग का ध्यान), फिर आचमन।",
+        "en": "Naivedya — the food offering: the pandit recites the mantra and the verse and says the name-sentence; the host offers the item. Place tulsi or a flower on the plate, say the prana offerings; then a few moments of silence (the deity eats), then water to sip.",
+        "bho": "नैवेद्य: पंडित मंत्र आ श्लोक पढ़ेलन आ नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन। थारी पर तुलसी भा फूल रख के, प्रान-आहुति बोलत; फेर कुछ छन मौन (भोग के ध्यान), फेर आचमन।"
+      },
+      "mantraIds": [
+        "vs-31-13",
+        "pad-sharkara-khanda-khadyani",
+        "pad-amritopastaranam-asi"
+      ],
+      "panditSays": {
+        "sa": "ॐ {देवता} नमः । नैवेद्यं निवेदयामि । नैवेद्यान्ते आचमनीयं जलं समर्पयामि ।",
+        "hi": "पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है।",
+        "en": "The pandit recites the Vedic mantra and the verse, then says the name-sentence; the host offers the item.",
+        "bho": "पंडित वैदिक मंत्र आ श्लोक पढ़ के नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन।"
+      },
+      "samagriIds": [
+        "naivedya"
+      ],
+      "minutes": 1
+    },
+    {
+      "n": 21,
+      "part": "upachar",
+      "layer": "vedic",
+      "action": {
+        "hi": "ऋतुफल, उत्तरापोऽशन, करोद्वर्तन: पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है। मौसमी फल; भोजन के बाद हाथ-मुँह धोने का जल और हाथ में चंदन (करोद्वर्तन VS 20.27 'अंशुना ते अंशुः' के साथ)।",
+        "en": "Ritufala, uttarapo'shana, karodvartana: the pandit recites the mantra and the verse and says the name-sentence; the host offers the item. Seasonal fruit; water for hands and mouth after the meal and sandal for the hands (karodvartana with VS 20.27 'anshuna te anshuh').",
+        "bho": "ऋतुफल, उत्तरापोऽशन, करोद्वर्तन: पंडित मंत्र आ श्लोक पढ़ेलन आ नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन। मौसमी फल; खाना के बाद हाथ-मुँह धोवे के पानी आ हाथ में चंदन (करोद्वर्तन VS 20.27 'अंशुना ते अंशुः' संगे)।"
+      },
+      "mantraIds": [
+        "vs-12-89",
+        "pad-idam-phalam-maya-deva"
+      ],
+      "panditSays": {
+        "sa": "ॐ {देवता} नमः । ऋतुफलानि समर्पयामि । फलान्ते आचमनीयं जलं समर्पयामि । उत्तरापोऽशनार्थं हस्तप्रक्षालनार्थं मुखप्रक्षालनार्थं च जलं समर्पयामि । करोद्वर्तनकं चन्दनं समर्पयामि ।",
+        "hi": "पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है।",
+        "en": "The pandit recites the Vedic mantra and the verse, then says the name-sentence; the host offers the item.",
+        "bho": "पंडित वैदिक मंत्र आ श्लोक पढ़ के नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन।"
+      },
+      "samagriIds": [
+        "dakshina-dravya",
+        "jal-patra-achamani",
+        "chandan-roli"
+      ],
+      "minutes": 1
+    },
+    {
+      "n": 22,
+      "part": "upachar",
+      "layer": "vedic",
+      "action": {
+        "hi": "तांबूल: पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है। पान पर सुपारी, इलायची, लौंग।",
+        "en": "Tambula — betel: the pandit recites the mantra and the verse and says the name-sentence; the host offers the item. Betel leaf with areca nut, cardamom and clove.",
+        "bho": "तांबूल: पंडित मंत्र आ श्लोक पढ़ेलन आ नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन। पान पर सुपारी, इलाइची, लौंग।"
+      },
+      "mantraIds": [
+        "vs-31-14",
+        "pad-pugiphalam-mahad-divyam"
+      ],
+      "panditSays": {
+        "sa": "ॐ {देवता} नमः । मुखवासार्थं एलालवङ्गपूगीफलसहितं ताम्बूलं समर्पयामि ।",
+        "hi": "पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है।",
+        "en": "The pandit recites the Vedic mantra and the verse, then says the name-sentence; the host offers the item.",
+        "bho": "पंडित वैदिक मंत्र आ श्लोक पढ़ के नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन।"
+      },
+      "samagriIds": [
+        "paan-supari"
+      ],
+      "minutes": 1
+    },
+    {
+      "n": 23,
+      "part": "upachar",
+      "layer": "vedic",
+      "action": {
+        "hi": "दक्षिणा: पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है। सिक्का या नोट देवता के सामने; यह देवता की दक्षिणा है, पंडित की नहीं।",
+        "en": "Dakshina — the gift: the pandit recites the mantra and the verse and says the name-sentence; the host offers the item. A coin or note before the deity; this is the deity's gift, not the pandit's fee.",
+        "bho": "दक्षिणा: पंडित मंत्र आ श्लोक पढ़ेलन आ नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन। सिक्का भा नोट देवता के आगे; ई देवता के दक्षिणा बा, पंडित के ना।"
+      },
+      "mantraIds": [
+        "vs-13-4",
+        "pad-hiranyagarbha-garbhastham"
+      ],
+      "panditSays": {
+        "sa": "ॐ {देवता} नमः । कृतायाः पूजायाः साद्गुण्यार्थं द्रव्यदक्षिणां समर्पयामि ।",
+        "hi": "पंडित वैदिक मंत्र और श्लोक पढ़कर नाम-वाक्य बोलता है; यजमान वस्तु चढ़ाता है।",
+        "en": "The pandit recites the Vedic mantra and the verse, then says the name-sentence; the host offers the item.",
+        "bho": "पंडित वैदिक मंत्र आ श्लोक पढ़ के नाँव-वाक्य बोलेलन; जजमान चीज चढ़ावेलन।"
+      },
+      "samagriIds": [
+        "dakshina-dravya"
+      ],
+      "minutes": 1
+    },
+    {
+      "n": 24,
+      "part": "uttaranga",
+      "layer": "paddhati",
+      "action": {
+        "hi": "आरती से विसर्जन तक — आरती, मंत्रपुष्पांजलि, प्रदक्षिणा, प्रार्थना, क्षमा-प्रार्थना, समर्पण और (कर्म के अंत में) विसर्जन; पूरा विधान [आरती-पुष्पांजलि-विसर्जन](/occasions/aarti-pushpanjali-visarjan/) पृष्ठ पर। समर्पण का वाक्य बोलकर यजमान जल छोड़ता है।",
+        "en": "From the aarti to the dismissal — aarti, mantra-pushpanjali, circumambulation, prayer, kshama-prarthana, the offering-up and (at the end of the whole rite) the dismissal; the full procedure is on the [aarti–pushpanjali–visarjan](/occasions/aarti-pushpanjali-visarjan/) page. The host says the sentence of offering-up and releases water.",
+        "bho": "आरती से बिसर्जन तक — आरती, मंत्रपुष्पांजलि, परिकरमा, प्रार्थना, क्षमा-प्रार्थना, समर्पन आ (करम के अंत में) बिसर्जन; पूरा बिधान [आरती-पुष्पांजलि-बिसर्जन](/occasions/aarti-pushpanjali-visarjan/) पन्ना पर। समर्पन के वाक्य बोल के जजमान पानी छोड़ेलन।"
+      },
+      "mantraIds": [
+        "vs-19-48",
+        "vs-34-32",
+        "pad-kadali-garbha-sambhutam",
+        "vs-31-16",
+        "pad-nana-sugandhi-pushpani",
+        "pad-yani-kani-cha-papani",
+        "pad-avahanam-na-janami",
+        "pad-mantrahinam-kriyahinam"
+      ],
+      "panditSays": {
+        "sa": "अनया पूजया {देवता} प्रीयताम् न मम ।",
+        "hi": "पंडित समर्पण-वाक्य बोलता है; यजमान जल छोड़ता है।",
+        "en": "The pandit says the sentence of offering-up; the host releases water.",
+        "bho": "पंडित समर्पन-वाक्य बोलेलन; जजमान पानी छोड़ेलन।"
+      },
+      "minutes": 10
+    }
+  ],
+  "variants": [
+    {
+      "region": "nkpp-vedic",
+      "source": "ia-nkpp-scan",
+      "what": {
+        "hi": "पोथी-भेद — [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 190–200) पुरुषसूक्त की जगह हर उपचार पर अलग वैदिक मंत्र रखती है: आवाहन 23.19/23.18, प्रतिष्ठा 2.13, पाद्य-अर्घ्य-आचमनीय-स्नानीय एक साथ 1.10 'देवस्य त्वा सवितुः प्रसवे', दुग्ध 18.26, दधि 23.32, घृत 17.88, मधु 13.27–28, शर्करा 9.3, पंचामृत 34.11, गंधोदक 20.27, शुद्धोदक 24.3, वस्त्र ऋग्वेद 3.8.4, उपवस्त्र 11.40, चंदन 12.98, अक्षत 3.51, पुष्प 12.77, दूर्वा 13.20, सिंदूर 17.95, अबीर 29.51, धूप 1.8, दीप 3.9, नैवेद्य 31.13, ऋतुफल 12.89, करोद्वर्तन 20.27, तांबूल 31.14, दक्षिणा 13.4, आरती 19.48 + 34.32, पुष्पांजलि 31.16, प्रदक्षिणा 16.61।",
+        "en": "The [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (pp. 190–200) gives each offering its own Vedic mantra instead of the Purusha-sukta: invocation 23.19/23.18, installing 2.13, padya to snaniya together 1.10 'devasya tva savituh prasave', milk 18.26, curd 23.32, ghee 17.88, honey 13.27–28, sugar 9.3, panchamrita 34.11, scented water 20.27, pure water 24.3, cloth RV 3.8.4, upper cloth 11.40, sandal 12.98, rice 3.51, flowers 12.77, durva 13.20, sindoor 17.95, abir 29.51, incense 1.8, lamp 3.9, food 31.13, fruit 12.89, karodvartana 20.27, betel 31.14, gift 13.4, aarti 19.48 + 34.32, pushpanjali 31.16, circumambulation 16.61.",
+        "bho": "पोथी-भेद — [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 190–200) पुरुषसूक्त के ठाँव हर उपचार पर अलगे वैदिक मंत्र रखेला: आवाहन 23.19/23.18, प्रतिष्ठा 2.13, पाद्य-अर्घ्य-आचमनीय-स्नानीय एके संगे 1.10 'देवस्य त्वा सवितुः प्रसवे', दूध 18.26, दही 23.32, घीव 17.88, मधु 13.27–28, चीनी 9.3, पंचामृत 34.11, गंधोदक 20.27, शुद्धोदक 24.3, कपड़ा ऋग्वेद 3.8.4, उपवस्त्र 11.40, चंदन 12.98, अछत 3.51, फूल 12.77, दूब 13.20, सिंदूर 17.95, अबीर 29.51, धूप 1.8, दीप 3.9, नैवेद्य 31.13, ऋतुफल 12.89, करोद्वर्तन 20.27, तांबूल 31.14, दक्षिणा 13.4, आरती 19.48 + 34.32, पुष्पांजलि 31.16, परिकरमा 16.61।"
+      }
+    },
+    {
+      "region": "panchopachar",
+      "source": "ia-nkpp-scan",
+      "what": {
+        "hi": "पंचोपचार — गंध, पुष्प, धूप, दीप, नैवेद्य (चरण 14, 16, 18, 19, 20) — नित्य पूजा का, समय कम होने का और कलश-नवग्रह-मातृका जैसे अंग-देवताओं का रूप; केवल नाम-वाक्य से भी होता है। पोथी इसके बीच की वस्तुएँ न हों तो 'मनसा परिकल्प्य समर्पयामि' (मन से कल्पना कर अर्पित करता हूँ) कहने का नियम देती है।",
+        "en": "The panchopachara — sandal, flowers, incense, lamp, food (steps 14, 16, 18, 19, 20) — is the form for the daily puja, for shortage of time and for the attendant deities such as kalasha, navagraha and matrikas; it can be done with the name-sentences alone. For any item that is missing the handbook has the rule to say 'manasa parikalpya samarpayami' (I offer it imagined in the mind).",
+        "bho": "पंचोपचार — गंध, फूल, धूप, दीप, नैवेद्य (चरन 14, 16, 18, 19, 20) — नित्य पूजा के, समय कम होखे के आ कलस-नवग्रह-मातृका जइसन अंग-देवता के रूप; खाली नाँव-वाक्य से भी होला। पोथी कवनो चीज ना होखे त 'मनसा परिकल्प्य समर्पयामि' (मन से कल्पना कर के अरपित करत बानी) कहे के नियम देला।"
+      }
+    },
+    {
+      "region": "samskararatnamala",
+      "source": "ws-samskararatnamala-1-01",
+      "what": {
+        "hi": "दक्खिनी माध्यंदिन डाइजेस्ट [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) का नियम: पूजा दो तरह की है — षोडशोपचार या पंचोपचार; प्रतिष्ठित मूर्ति में आवाहन-विसर्जन नहीं होते, इसलिए वहाँ चौदह उपचार हैं, या उनकी जगह मंत्रपुष्पांजलि देकर सोलह पूरे किए जाते हैं; नई मूर्ति में सोलह ही। विसर्जन कर्म के अंत में होता है, बीच में नहीं।",
+        "en": "The rule of the Deccan Madhyandina digest, the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D): worship is of two kinds, sixteen offerings or five; for an established image there is no invocation and no dismissal, so fourteen offerings remain, or the mantra-pushpanjali takes their place to make sixteen; a new image gets the full sixteen. The dismissal comes at the end of the whole rite, not in the middle.",
+        "bho": "दक्खिनी माध्यंदिन डाइजेस्ट [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) के नियम: पूजा दू तरह के बा — षोडशोपचार भा पंचोपचार; परतिष्ठित मूरति में आवाहन-बिसर्जन ना होला, एही से ओहिजा चउदह उपचार बा, भा ओकरा ठाँव मंत्रपुष्पांजलि देके सोलह पूरा कइल जाला; नवका मूरति में सोलहे। बिसर्जन करम के अंत में होला, बीच में ना।"
+      }
+    },
+    {
+      "region": "manas-puja",
+      "source": "ia-nkpp-scan",
+      "what": {
+        "hi": "मानस पूजा: [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 132–133) बाहरी पूजा से पहले मन में की जाने वाली पूजा का छोटा विधान देती है — पाँच तत्त्वों (पृथ्वी, आकाश, वायु, अग्नि, जल) के बीज-अक्षरों से गंध, पुष्प, धूप, दीप और नैवेद्य की कल्पना और अंत में सर्वोपचार का समर्पण; परंपरा में इसे बाहरी पूजा का पूरक माना जाता है।",
+        "en": "Manasa puja: the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (pp. 132–133) sets out a short procedure for the worship done in the mind before the outer puja — the five offerings imagined through the seed syllables of earth, space, air, fire and water, and at the end the offering of all upacharas; tradition treats it as the complement of the outer puja.",
+        "bho": "मानस पूजा: [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 132–133) बहरी पूजा से पहिले मन में कइल जाए वाला पूजा के छोट बिधान देला — पाँच तत्व (पृथ्वी, अकास, हवा, अगिन, पानी) के बीज-अक्षर से गंध, फूल, धूप, दीप आ नैवेद्य के कल्पना आ अंत में सर्वोपचार के समर्पन; परंपरा में एकरा बहरी पूजा के पूरक मानल जाला।"
+      }
+    }
+  ],
+  "faq": [
+    {
+      "q": {
+        "hi": "पाँच उपचार और सोलह उपचार में कब क्या चुनें?",
+        "en": "When are five offerings enough and when are sixteen needed?",
+        "bho": "पाँच उपचार आ सोलह उपचार में कब का चुनल जाव?"
+      },
+      "a": {
+        "hi": "नित्य घर की पूजा, कलश-नवग्रह-मातृका जैसे अंग-देवता और समय की कमी — पंचोपचार; मुख्य देवता की विशेष पूजा (कथा, व्रत, संस्कार, नई मूर्ति) — षोडशोपचार। पोथियाँ कहती हैं कि जो मंत्र न पढ़ सके, वह नाम-वाक्य से करे; श्रद्धा घटती नहीं।",
+        "en": "The daily home puja, the attendant deities such as kalasha, navagraha and matrikas, and shortage of time call for the five; the special worship of the main deity (katha, vrat, samskara, a new murti) for the sixteen. The handbooks say whoever cannot recite the mantras should use the name-sentences; nothing of the devotion is lost.",
+        "bho": "नित्य घर के पूजा, कलस-नवग्रह-मातृका जइसन अंग-देवता आ समय के कमी — पंचोपचार; मुख्य देवता के बिसेस पूजा (कथा, बरत, संस्कार, नवका मूरति) — षोडशोपचार। पोथी कहेला कि जे मंत्र ना पढ़ सके, ऊ नाँव-वाक्य से करे; सरधा घटे ना।"
+      }
+    },
+    {
+      "q": {
+        "hi": "कोई उपचार-वस्तु न हो तो?",
+        "en": "What if an item for an offering is missing?",
+        "bho": "कवनो उपचार-चीज ना होखे त?"
+      },
+      "a": {
+        "hi": "[नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) का नियम है: उस उपचार पर '… मनसा परिकल्प्य समर्पयामि' कहें — जैसे आभूषण न हो तो 'आभूषणं मनसा परिकल्प्य समर्पयामि'; वस्तु के बदले अक्षत भी चढ़ाया जाता है।",
+        "en": "The rule of the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur): say '… manasa parikalpya samarpayami' for that offering — if there is no ornament, 'abhushanam manasa parikalpya samarpayami'; rice is also offered in place of the missing item.",
+        "bho": "[नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) के नियम बा: ऊ उपचार पर '… मनसा परिकल्प्य समर्पयामि' कहीं — जइसे गहना ना होखे त 'आभूषणं मनसा परिकल्प्य समर्पयामि'; चीज के बदले अछत भी चढ़ावल जाला।"
+      }
+    },
+    {
+      "q": {
+        "hi": "मंदिर की प्रतिष्ठित मूर्ति पर आवाहन और विसर्जन करें?",
+        "en": "Should an established temple image be invoked and dismissed?",
+        "bho": "मंदिर के परतिष्ठित मूरति पर आवाहन आ बिसर्जन कइल जाव?"
+      },
+      "a": {
+        "hi": "नहीं — पोथी और [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) दोनों कहती हैं कि प्रतिष्ठित मूर्ति, शालग्राम, बाणलिंग, अग्नि और जल में आवाहन नहीं होता; उनकी जगह पुष्पांजलि दी जाती है और अंत में विसर्जन भी नहीं। आवाहन-विसर्जन नई मूर्ति, कलश, सुपारी और मिट्टी के प्रतीकों पर होते हैं।",
+        "en": "No — the handbook and the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) both say that an established image, a shaligrama, a bana-linga, fire and water are not invoked; a flower offering takes the place of the invocation, and there is no dismissal at the end. Invocation and dismissal belong to a new murti, the kalasha, a betel nut and clay tokens.",
+        "bho": "ना — पोथी आ [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) दुनो कहेला कि परतिष्ठित मूरति, सालिग्राम, बानलिंग, अगिन आ पानी में आवाहन ना होला; ओकरा ठाँव पुष्पांजलि दिहल जाला आ अंत में बिसर्जन भी ना। आवाहन-बिसर्जन नवका मूरति, कलस, सुपारी आ माटी के प्रतीक पर होला।"
+      }
+    },
+    {
+      "q": {
+        "hi": "देवी की पूजा में यज्ञोपवीत और पुरुष-रूप के वाक्य कैसे बदलें?",
+        "en": "How do the thread and the masculine sentences change in a goddess puja?",
+        "bho": "देवी के पूजा में जनेऊ आ पुरुष-रूप के वाक्य कइसे बदलल जाव?"
+      },
+      "a": {
+        "hi": "यज्ञोपवीत की जगह कंचुकी या उपवस्त्र चढ़ता है; श्लोकों में संबोधन स्त्रीलिंग हो जाता है (परमेश्वर → परमेश्वरि, सुरश्रेष्ठ → सुरश्रेष्ठे, देवेश → देवेशि) और नाम-वाक्य में चतुर्थी '-ायै' (गौर्यै, लक्ष्म्यै, दुर्गायै) — पोथी यही नियम देती है और लक्ष्मी-पूजन में उसका उदाहरण छापती है।",
+        "en": "A bodice cloth replaces the sacred thread; the vocatives of the verses turn feminine (parameshvara → parameshvari, surashreshtha → surashreshthe, devesha → deveshi) and the name-sentence takes the dative '-ayai' (gauryai, lakshmyai, durgayai) — the handbook gives this rule and prints the Lakshmi puja as its example.",
+        "bho": "जनेऊ के ठाँव कंचुकी भा उपवस्त्र चढ़ेला; श्लोक में संबोधन स्त्रीलिंग हो जाला (परमेश्वर → परमेश्वरि, सुरश्रेष्ठ → सुरश्रेष्ठे, देवेश → देवेशि) आ नाँव-वाक्य में चतुर्थी '-ायै' (गौर्यै, लक्ष्म्यै, दुर्गायै) — पोथी इहे नियम देला आ लक्ष्मी-पूजन में ओकर उदाहरन छापेला।"
+      }
+    },
+    {
+      "q": {
+        "hi": "हर स्नान और भोग के बाद आचमन का जल क्यों?",
+        "en": "Why is water to sip given after every bath and after the food?",
+        "bho": "हर स्नान आ भोग के बाद आचमन के पानी काहे?"
+      },
+      "a": {
+        "hi": "उपचार अतिथि-सेवा का रूप है: नहाने के बाद और खाने के बाद अतिथि को कुल्ला और हाथ-मुँह धोने का जल दिया जाता है, इसलिए हर स्नान के बाद 'स्नानांते आचमनीयं जलं समर्पयामि' और भोग के बाद 'उत्तरापोऽशन' (भोजन के बाद का जल) और हस्त-मुख-प्रक्षालन का जल आता है।",
+        "en": "The offerings follow the pattern of serving a guest: after a bath and after a meal the guest is given water to rinse the mouth and wash hands and face; hence 'snanante achamaniyam jalam samarpayami' after each bath, and after the food the 'uttarapo'shana' (the water after the meal) and water for hands and mouth.",
+        "bho": "उपचार पाहुन-सेवा के रूप बा: नहइला के बाद आ खइला के बाद पाहुन के कुल्ला आ हाथ-मुँह धोवे के पानी दिहल जाला, एही से हर स्नान के बाद 'स्नानान्ते आचमनीयं जलं समर्पयामि' आ भोग के बाद 'उत्तरापोऽशन' (खाना के बाद के पानी) आ हाथ-मुँह धोवे के पानी आवेला।"
+      }
+    }
+  ],
+  "sources": [
+    "ws-syv-31",
+    "ws-syv-34",
+    "ws-syv-24",
+    "ws-syv-29",
+    "ws-syv-03",
+    "ws-syv-01",
+    "ws-syv-13",
+    "ws-syv-02",
+    "titus-vs",
+    "ia-vivah-mvf",
+    "ia-nkpp-scan",
+    "ws-samskararatnamala-1-01",
+    "ws-baudhayana-gs-2",
+    "ws-agni-167",
+    "ws-matsya-267",
+    "ws-syv-11",
+    "ws-syv-12"
+  ],
+  "tags": [
+    "foundations",
+    "shodashopachar",
+    "panchopachar",
+    "upachara"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

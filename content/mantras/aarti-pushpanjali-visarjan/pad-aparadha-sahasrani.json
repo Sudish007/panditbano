@@ -1,0 +1,106 @@
+{
+  "id": "pad-aparadha-sahasrani",
+  "kind": "puranic",
+  "title": {
+    "hi": "अपराधसहस्राणि (क्षमा-प्रार्थना 3)",
+    "en": "Aparadha-sahasrani (kshama-prarthana 3)",
+    "bho": "अपराधसहस्राणि (क्षमा-प्रार्थना 3)"
+  },
+  "devanagari": "अपराधसहस्राणि क्रियन्तेऽहर्निशं मया । दासोऽयमिति मां मत्वा क्षमस्व जगतां पते ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "अपराधसहस्राणि",
+      "gloss": {
+        "hi": "हज़ारों अपराध",
+        "en": "thousands of offences",
+        "bho": "हजारन अपराध"
+      }
+    },
+    {
+      "sa": "क्रियन्ते अहर्निशं मया",
+      "gloss": {
+        "hi": "मुझसे दिन-रात होते हैं",
+        "en": "are done by me day and night",
+        "bho": "हमरा से दिन-रात होला"
+      }
+    },
+    {
+      "sa": "दासः अयम् इति मां मत्वा",
+      "gloss": {
+        "hi": "'यह दास है' — ऐसा मुझे मानकर",
+        "en": "thinking of me as 'this is a servant'",
+        "bho": "'ई दास बा' — अइसन हमरा मान के"
+      }
+    },
+    {
+      "sa": "क्षमस्व जगतां पते",
+      "gloss": {
+        "hi": "हे जगत् के स्वामी, क्षमा करो",
+        "en": "forgive, O lord of the worlds",
+        "bho": "हे जगत के मालिक, छिमा करीं"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "मुझसे दिन-रात हज़ारों अपराध होते हैं; 'यह दास है' — ऐसा मानकर, हे जगत् के स्वामी, क्षमा करो।",
+    "en": "Thousands of offences are done by me day and night; thinking of me as your servant, forgive, O lord of the worlds.",
+    "bho": "हमरा से दिन-रात हजारन अपराध होला; 'ई दास बा' — अइसन मान के, हे जगत के मालिक, छिमा करीं।"
+  },
+  "explanation": {
+    "hi": "[[kshama-prarthana]] का तीसरा श्लोक। पाठ [नारदपुराण](https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D-_%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A7%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AC%E0%A5%AD) (पूर्वार्ध 67.115–116) से — पुराण का 'क्षमस्व जगतां पते' हर देवता पर चलता है, इसलिए यही मुख्य पाठ रखा है; [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) इसे लक्ष्मी-पूजन में 'क्षमस्व परमेश्वरि' (पृ. 276) रूप में देती है और [आदिशंकराचार्य पूजाविधि](https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83) गुरु के लिए 'क्षमस्व गुरुपुंगव' — दोनों पाठांतर में।",
+    "en": "The third verse of the [[kshama-prarthana]]. Text from the [Narada Purana](https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D-_%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A7%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AC%E0%A5%AD) (purvardha 67.115–116) — the Purana's 'kshamasva jagatam pate' fits every deity, which is why it stands as the main reading; the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) gives it in the Lakshmi puja as 'kshamasva parameshvari' (p. 276) and the [Adi Shankaracharya puja vidhi](https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83) as 'kshamasva gurupungava' for the guru — both in variants.",
+    "bho": "[[kshama-prarthana]] के तीसरका श्लोक। पाठ [नारदपुरान](https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D-_%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A7%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AC%E0%A5%AD) (पूर्वार्ध 67.115–116) से — पुरान के 'क्षमस्व जगतां पते' हर देवता पर चलेला, एही से इहे मुख्य पाठ रखल बा; [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) एकरा लक्ष्मी-पूजन में 'क्षमस्व परमेश्वरि' (पृ. 276) रूप में देला आ [आदिसंकराचार्य पूजाबिधि](https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83) गुरु खातिर 'क्षमस्व गुरुपुङ्गव' — दुनो पाठांतर में।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-narada-purva-67",
+    "retrieved": "2026-11-01",
+    "modified": "क्रियंतेऽहर्न्निशं → क्रियन्तेऽहर्निशं (anusvara written as the conjunct; the doubled न of the e-text dropped); the half-verse numbers removed; dandas set"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Puranic / classical Sanskrit (ancient, public domain); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "aarti-pushpanjali-visarjan",
+    "kshama"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "text": "narada-purana",
+  "locator": "1.67.115–116",
+  "checkedAgainst": [
+    {
+      "ref": "ia-nkpp-scan",
+      "retrieved": "2026-11-01",
+      "note": "p. 276 (Lakshmi puja): क्षमस्व परमेश्वरि"
+    },
+    {
+      "ref": "ws-adishankara-pujavidhi",
+      "retrieved": "2026-11-01",
+      "note": "क्षमस्व गुरुपुङ्गव"
+    }
+  ],
+  "variants": [
+    {
+      "reading": "अपराधसहस्राणि क्रियन्तेऽहर्निशं मया । दासोऽयमिति मां मत्वा क्षमस्व परमेश्वरि ॥",
+      "note": {
+        "hi": "[नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur), लक्ष्मी-पूजन (पृ. 276) — देवी-रूप; पुरुष देवता के लिए पोथियाँ 'क्षमस्व परमेश्वर' बोलती हैं।",
+        "en": "[Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur), Lakshmi puja (p. 276) — the goddess form; for a male deity the handbooks say 'kshamasva parameshvara'.",
+        "bho": "[नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur), लक्ष्मी-पूजन (पृ. 276) — देवी-रूप; पुरुष देवता खातिर पोथी 'क्षमस्व परमेश्वर' बोलेला।"
+      },
+      "source": "ia-nkpp-scan"
+    },
+    {
+      "reading": "अपराधसहस्राणि क्रियन्तेऽहर्निशं मया । दासोऽयमिति मां मत्वा क्षमस्व गुरुपुङ्गव ॥",
+      "note": {
+        "hi": "[आदिशंकराचार्य पूजाविधि](https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83) का गुरु-रूप।",
+        "en": "The guru form of the [Adi Shankaracharya puja vidhi](https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83).",
+        "bho": "[आदिसंकराचार्य पूजाबिधि](https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83) के गुरु-रूप।"
+      },
+      "source": "ws-adishankara-pujavidhi"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "pad-tvameva-mata-cha-pita",
+  "kind": "puranic",
+  "title": {
+    "hi": "त्वमेव माता च पिता त्वमेव (प्रार्थना-श्लोक)",
+    "en": "Tvam eva mata cha pita tvam eva (the prayer verse)",
+    "bho": "त्वमेव माता च पिता त्वमेव (प्रार्थना के श्लोक)"
+  },
+  "devanagari": "त्वमेव माता च पिता त्वमेव त्वमेव बन्धुश्च सखा त्वमेव । त्वमेव विद्या द्रविणं त्वमेव त्वमेव सर्वं मम देव देव ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "त्वम् एव माता च पिता त्वम् एव",
+      "gloss": {
+        "hi": "तू ही माता है, तू ही पिता",
+        "en": "you alone are mother, you alone father",
+        "bho": "तूहीं माई हवऽ, तूहीं बाबूजी"
+      }
+    },
+    {
+      "sa": "त्वम् एव बन्धुः च सखा त्वम् एव",
+      "gloss": {
+        "hi": "तू ही बंधु, तू ही सखा",
+        "en": "you alone kinsman, you alone friend",
+        "bho": "तूहीं भाई-बंधु, तूहीं संघतिया"
+      }
+    },
+    {
+      "sa": "त्वम् एव विद्या द्रविणं त्वम् एव",
+      "gloss": {
+        "hi": "तू ही विद्या, तू ही धन",
+        "en": "you alone knowledge, you alone wealth",
+        "bho": "तूहीं बिद्या, तूहीं धन"
+      }
+    },
+    {
+      "sa": "त्वम् एव सर्वं मम देव देव",
+      "gloss": {
+        "hi": "हे देवों के देव, तू ही मेरा सब कुछ",
+        "en": "you alone are my all, O God of gods",
+        "bho": "हे देवन के देव, तूहीं हमार सब कुछ"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "तू ही माता है, तू ही पिता; तू ही बंधु, तू ही सखा; तू ही विद्या, तू ही धन; हे देवों के देव, तू ही मेरा सब कुछ है।",
+    "en": "You alone are mother, you alone father; you alone kinsman, you alone friend; you alone knowledge, you alone wealth; you alone are my all, O God of gods.",
+    "bho": "तूहीं माई हवऽ, तूहीं बाबूजी; तूहीं भाई-बंधु, तूहीं संघतिया; तूहीं बिद्या, तूहीं धन; हे देवन के देव, तूहीं हमार सब कुछ हवऽ।"
+  },
+  "explanation": {
+    "hi": "आरती और क्षमा-प्रार्थना के बीच हाथ जोड़कर पढ़ा जाने वाला **प्रार्थना-श्लोक**; हर देवता पर चलता है, इसलिए पोथियाँ इसे शिव और लक्ष्मी दोनों की पूजा में देती हैं। यह [पांडवगीता](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%B5%E0%A4%97%E0%A5%80%E0%A4%A4%E0%A4%BE) (प्रपन्न-गीता) का 12-वाँ श्लोक है, जहाँ इसे गांधारी के मुख से कहा गया है; पाठ विकिस्रोत से, [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 276, 297) से जाँचा।",
+    "en": "The **prayer verse** recited with folded hands between the aarti and the kshama-prarthana; it fits every deity, so the handbooks give it in the Shiva and the Lakshmi puja alike. It is verse 12 of the [Pandava Gita](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%B5%E0%A4%97%E0%A5%80%E0%A4%A4%E0%A4%BE) (Prapanna Gita), where Gandhari speaks it; text from Wikisource, checked against the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (pp. 276, 297).",
+    "bho": "आरती आ क्षमा-प्रार्थना के बीच हाथ जोड़ के पढ़ल जाए वाला **प्रार्थना-श्लोक**; हर देवता पर चलेला, एही से पोथी एकरा सिव आ लक्ष्मी दुनो के पूजा में देला। ई [पांडवगीता](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%B5%E0%A4%97%E0%A5%80%E0%A4%A4%E0%A4%BE) (प्रपन्न-गीता) के 12-वाँ श्लोक बा, जहाँ ई गांधारी के मुँह से कहल गइल बा; पाठ विकिस्रोत से, [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 276, 297) से जाँचल।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-pandavagita",
+    "retrieved": "2026-11-01",
+    "modified": "the verse number ॥१२॥ and the speaker label [गान्धारी] removed; the pada break set with ।"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Puranic / classical Sanskrit (ancient, public domain); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "aarti-pushpanjali-visarjan",
+    "prarthana"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "text": "pandava-gita",
+  "locator": "verse 12 (Gandhari)",
+  "checkedAgainst": [
+    {
+      "ref": "ia-nkpp-scan",
+      "retrieved": "2026-11-01",
+      "note": "pp. 276 and 297: identical text (देवदेव written as one word)"
+    }
+  ]
+}
