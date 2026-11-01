@@ -29,7 +29,7 @@ export const ROUTES = [
   { pageType: "katha", pattern: "kathas/{slug}/", phase: 1, precache: "runtime", sitemap: true, og: "own", expand: (d) => list(d.kathas).map((k) => ({ slug: k.slug })) },
   { pageType: "katha-adhyaya", pattern: "kathas/{slug}/{n}/", phase: 1, precache: "runtime", sitemap: true, og: "own", expand: (d) => list(d.kathas).flatMap((k) => list(k.adhyayas).map((a) => ({ slug: k.slug, n: a.n }))) },
   { pageType: "glossary-index", pattern: "glossary/", phase: 1, precache: "static", sitemap: true, og: "type-default", expand: (d) => (list(d.terms).length ? [{}] : []) },
-  { pageType: "term", pattern: "glossary/{termId}/", phase: 1, precache: "runtime", sitemap: true, og: "type-default", expand: (d) => list(d.terms).map((t) => ({ termId: t.id })) },
+  { pageType: "term", pattern: "glossary/{termId}/", phase: 1, precache: "runtime", sitemap: true, og: "type-default", expand: (d) => list(d.terms).filter((t) => t.published !== false).map((t) => ({ termId: t.id })) },
   { pageType: "reference", pattern: "reference/", phase: 1, precache: "static", sitemap: true, og: "type-default", expand: (d) => (list(d.reference).length ? [{}] : []) },
   { pageType: "reference-page", pattern: "reference/{slug}/", phase: 1, precache: "runtime", sitemap: true, og: "own", expand: (d) => list(d.reference).map((r) => ({ slug: r.slug })) },
   { pageType: "search", pattern: "search/", phase: 1, precache: "static", sitemap: true, og: "type-default", expand: (d) => (d.features?.searchPage ? [{}] : []) },

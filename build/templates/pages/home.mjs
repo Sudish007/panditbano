@@ -3,6 +3,7 @@
 import { html, t, icon, extLink, num } from "../lib.mjs";
 import { layout, SHUBHVELA } from "../layout.mjs";
 import { OCCASION_GROUPS } from "../../lib/routes.mjs";
+import { tp } from "../components/names.mjs";
 
 export const GROUP_ICONS = {
   foundations: "i-fire", daily: "i-sun2", birth: "i-child", marriage: "i-rings", home: "i-home",
@@ -14,19 +15,25 @@ const countLine = (lang, parts) => {
   return shown.length ? html`<span class="count">${shown.join(" · ")}</span>` : "";
 };
 
+/** One group card (design §27 item 3): icon + name + computed count + up to 4 example chips. Shared with the search browse page (FEAT-108). */
+export function groupCard(ctx, lang, id, { n = 0, examples = [] } = {}) {
+  const chips = examples.slice(0, 4);
+  return html`<div class="card group-card">
+<a class="gc-head card-link" href="${ctx.R.href(`${lang}/occasions/#${id}`)}">${icon(GROUP_ICONS[id], { cls: "ico", size: 36 })}<span class="t"><strong>${t(lang, `groups.${id}`)}</strong>${n ? html`<span>${t(lang, "counts.pages", { n: num(n) })}</span>` : ""}</span></a>
+${chips.length ? html`<div class="chips">${chips.map((c) => html`<a class="chip" href="${c.href}">${c.title}</a>`)}</div>` : ""}
+</div>`;
+}
+
+/** The ten group cards in the §3.3 order from `counts.groups` and the derived examples. */
+export function groupCards(ctx, lang, { counts = {}, groups = [] }) {
+  const g = counts.groups || {};
+  return OCCASION_GROUPS.map((id) => groupCard(ctx, lang, id, { n: g[id] || 0, examples: (groups.find((x) => x.id === id) || {}).examples || [] }));
+}
+
 export function homeBody(ctx, { lang, counts = {}, groups = [], featured = [] }) {
   const R = ctx.R;
   const L = (p) => R.href(`${lang}/${p}`);
-  const g = counts.groups || {};
-  const groupTiles = OCCASION_GROUPS.map((id) => {
-    const info = groups.find((x) => x.id === id) || {};
-    const n = g[id] || 0;
-    const chips = (info.examples || []).slice(0, 4);
-    return html`<div class="card group-card">
-<a class="gc-head card-link" href="${L(`occasions/#${id}`)}">${icon(GROUP_ICONS[id], { cls: "ico", size: 36 })}<span class="t"><strong>${t(lang, `groups.${id}`)}</strong>${n ? html`<span>${t(lang, "counts.pages", { n: num(n) })}</span>` : ""}</span></a>
-${chips.length ? html`<div class="chips">${chips.map((c) => html`<a class="chip" href="${c.href}">${c.title}</a>`)}</div>` : ""}
-</div>`;
-  });
+  const groupTiles = groupCards(ctx, lang, { counts, groups });
   return html`<section class="hero">
 <div class="hero-text">
 <h1>${t(lang, "site.name")}</h1>
@@ -40,7 +47,7 @@ ${chips.length ? html`<div class="chips">${chips.map((c) => html`<a class="chip"
 <div class="grid grid-md-3">
 <a class="card card-link path-card" href="${L("learn/")}">${icon("i-cap", { cls: "ico", size: 44 })}<h3 class="m0">${t(lang, "home.path_learn_title")}</h3><p class="m0">${t(lang, "home.path_learn_body")}</p>${countLine(lang, [["levels", counts.levels || 0], ["lessons", counts.lessons || 0]])}<span class="more">${t(lang, "home.more")}</span></a>
 <a class="card card-link path-card" href="${L("occasions/")}">${icon("i-list", { cls: "ico", size: 44 })}<h3 class="m0">${t(lang, "home.path_occasions_title")}</h3><p class="m0">${t(lang, "home.path_occasions_body")}</p>${countLine(lang, [["occasions", counts.occasions || 0], ["groups", counts.groupCount || 0]])}<span class="more">${t(lang, "home.more")}</span></a>
-<a class="card card-link path-card" href="${L("texts/")}">${icon("i-om", { cls: "ico", size: 44 })}<h3 class="m0">${t(lang, "home.path_texts_title")}</h3><p class="m0">${t(lang, "home.path_texts_body")}</p>${countLine(lang, [["mantras", counts.mantras || 0], ["verses", counts.verses || 0]])}<span class="more">${t(lang, "home.more")}</span></a>
+<a class="card card-link path-card" href="${L("texts/")}">${icon("i-om", { cls: "ico", size: 44 })}<h3 class="m0">${t(lang, "home.path_texts_title")}</h3><p class="m0">${tp(ctx, lang, "home.path_texts_body")}</p>${countLine(lang, [["mantras", counts.mantras || 0], ["verses", counts.verses || 0]])}<span class="more">${t(lang, "home.more")}</span></a>
 </div></section>
 <section aria-labelledby="h-groups">
 <div class="section-head"><h2 id="h-groups">${t(lang, "home.groups_heading")}</h2><a href="${L("occasions/")}">${counts.occasions ? t(lang, "counts.occasions", { n: num(counts.occasions) }) + " →" : t(lang, "home.all_occasions")}</a></div>
@@ -49,12 +56,12 @@ ${chips.length ? html`<div class="chips">${chips.map((c) => html`<a class="chip"
 <section class="today" aria-labelledby="h-today">
 <div class="card">
 <h2 id="h-today">${t(lang, "home.today_heading")}</h2>
-<p>${t(lang, "honesty.no_dates")} ${t(lang, "home.today_body")}</p>
+<p>${t(lang, "honesty.no_dates")} ${tp(ctx, lang, "home.today_body")}</p>
 <div class="btns">${extLink(lang, `${SHUBHVELA}${lang}/panchang/new-delhi/`, t(lang, "shubhvela.panchang"), { cls: "btn" })}${extLink(lang, `${SHUBHVELA}${lang}/festivals/`, t(lang, "shubhvela.festivals"), { cls: "btn" })}${extLink(lang, `${SHUBHVELA}${lang}/muhurat/`, t(lang, "shubhvela.muhurat"), { cls: "btn" })}</div>
 </div>
 <div class="card">
 <h2>${t(lang, "home.how_heading")}</h2>
-<p>${t(lang, "home.how_body")}</p>
+<p>${tp(ctx, lang, "home.how_body")}</p>
 <p class="m0"><a href="${L("reference/verification/")}">${t(lang, "home.how_link")}</a> · <a href="${L("sources/")}">${t(lang, "home.sources_link")}</a></p>
 </div>
 </section>

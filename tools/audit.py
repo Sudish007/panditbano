@@ -370,7 +370,10 @@ CHECKS_JS = r"""
     const names = (args.sourceNames || []).filter(s => s && s.length >= 4); if (!names.length) return NA('no sources.json#titles / institutions.json yet');
     const main = document.querySelector('main'); if (!main) return NA('no main'); const bad = [];
     const walker = document.createTreeWalker(main, NodeFilter.SHOW_TEXT); let node;
-    while ((node = walker.nextNode())) { const txt = node.textContent; if (!txt.trim()) continue; const inA = !!node.parentElement.closest('a'); if (inA) continue; names.forEach(nm => { if (txt.includes(nm)) bad.push(`"${nm}" unlinked in ${pb.tag(node.parentElement)}`); }); }
+    // prose only: the page's own h1, quiz questions/options (the gate's G16 exempts them too), form labels/legends, buttons,
+    // summaries and Sanskrit text are not citations (FEAT-108)
+    const SKIP = 'a, h1, .quiz, label, legend, button, summary, [lang="sa"], [lang="sa-Latn"]';
+    while ((node = walker.nextNode())) { const txt = node.textContent; if (!txt.trim()) continue; if (node.parentElement.closest(SKIP)) continue; names.forEach(nm => { if (txt.includes(nm)) bad.push(`"${nm}" unlinked in ${pb.tag(node.parentElement)}`); }); }
     return R(bad.length === 0, `${names.length} names checked, ${bad.length} unlinked`, bad.slice(0, 8));
   })();
 
@@ -490,28 +493,35 @@ async (basePath) => {
 
 
 def load_source_names(repo):
+    """UI-19 name list (design §20): sources.json#sources[].titles[] (the names under which prose may cite a source — G16)
+    and institutions.json#institutions[] name + names[] (English and Devanagari forms). Top-level titles[] / names[] lists
+    are accepted too. The registry 'title' field itself is NOT a cite name (FEAT-108: the loader read only top-level keys before)."""
     names = []
-    for rel, keys in (("content/sources.json", ("titles",)), ("content/institutions.json", ("names", "institutions"))):
+
+    def read(rel):
         p = os.path.join(repo, rel)
         if not os.path.isfile(p):
-            continue
+            return None
         try:
             with open(p, encoding="utf-8") as f:
-                d = json.load(f)
+                return json.load(f)
         except Exception:
-            continue
-        for k in keys:
-            v = d.get(k) if isinstance(d, dict) else None
-            if isinstance(v, list):
-                for x in v:
-                    if isinstance(x, str):
-                        names.append(x)
-                    elif isinstance(x, dict):
-                        for kk in ("title", "name", "hi", "en", "bho"):
-                            if isinstance(x.get(kk), str):
-                                names.append(x[kk])
-                            elif isinstance(x.get(kk), dict):
-                                names.extend(s for s in x[kk].values() if isinstance(s, str))
+            return None
+
+    src = read("content/sources.json")
+    if isinstance(src, dict):
+        names.extend(x for x in src.get("titles", []) if isinstance(x, str))
+        for e in src.get("sources", []) or []:
+            if isinstance(e, dict):
+                names.extend(x for x in e.get("titles", []) or [] if isinstance(x, str))
+    inst = read("content/institutions.json")
+    if isinstance(inst, dict):
+        names.extend(x for x in inst.get("names", []) if isinstance(x, str))
+        for e in inst.get("institutions", []) or []:
+            if isinstance(e, dict):
+                if isinstance(e.get("name"), str):
+                    names.append(e["name"])
+                names.extend(x for x in e.get("names", []) or [] if isinstance(x, str))
     return sorted(set(names))
 
 
@@ -621,6 +631,8 @@ class Audit:
                     self.rec(path, w, theme, "UI-23", {"pass": not bad and disp_ok and pre_ok and not foreign, "measure": f"{len(fr['after'])} faces loaded ({len(fr['before'])} before forced load); font-display {sorted(set(fr['displays']))}; {len(fr['preloads'])} preloads; cross-origin {foreign or 'none'}", "detail": fr})
                 # brief §8/§10: shots at 390 + 1440 in both themes, wider layouts light only, never the 320 sweep width
                 if w in self.a.shot_widths and w >= 390 and (theme == "light" or w in (390, 1440)):
+                    pg.evaluate("window.scrollTo(0, 0)")  # the UI-25 focus walk leaves the page scrolled to its end (FEAT-108 fix)
+                    time.sleep(0.2)
                     self.shot(pg, f"{self.a.prefix}-{label}{langs_label}-{theme}-{w}.png")
                     for i, sel in enumerate(self.a.detail):  # scrolled detail shots (shoot.py pattern), 72 px above the target
                         if pg.evaluate("(s) => !!document.querySelector(s)", sel):

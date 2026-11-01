@@ -3,6 +3,7 @@
 // (data-sv="festival" data-sv-id), vrat → /{lang}/vrat/{slug}/, panchang → /{lang}/panchang/new-delhi/ — all rel="external
 // noopener" with the marker; app.mjs upgrades festival/muhurat hrefs with the device clock only.
 import { html, raw, t, extLink } from "../lib.mjs";
+import { tp } from "./names.mjs";
 import { shubhvelaUrl } from "../../lib/derive.mjs";
 import { inlineProse } from "./verse.mjs";
 
@@ -22,7 +23,7 @@ export function whenCard(ctx, lang, occ, { mdCtx, id = "when", heading = "h2" } 
   return html`<section class="card when" id="${id}" aria-labelledby="h-${id}">
 ${raw(`<${H} id="h-${id}">`)}${t(lang, "occasion.sections.when")}${raw(`</${H}>`)}
 ${rules ? html`<p class="prose">${inlineProse(rules, mdCtx)}</p>` : ""}
-<p class="meta">${t(lang, "honesty.no_dates")} ${t(lang, "shubhvela.links_label")}</p>
+<p class="meta">${t(lang, "honesty.no_dates")} ${tp(ctx, lang, "shubhvela.links_label")}</p>
 <div class="btns">${shubhvelaLinks(lang, occ.when)}</div>
 </section>`;
 }

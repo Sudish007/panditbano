@@ -170,3 +170,44 @@ implementation deviations, which every build step appends to.
   on the katha pages and on the `satyanarayan-puja` occasion page). Fixed for every page carrying such a source.
 - **FEAT-107 · texts index**: the ritual-mantra corpus is one compact row card (icon · title · count · arrow) above the text
   cards so it is not an empty band at 1440+; texts with zero published chapters sort last but keep their page.
+- **FEAT-108 · named sources in UI prose and attribution lines are linked by data**: `build/templates/components/names.mjs`
+  builds a name index from `sources.json#sources[].titles[]` and `institutions.json` (name + names[]) and wraps every bare
+  occurrence in an external link — in the home / texts / reference ledes, the honesty notes, the when-card label, the
+  sources-page group headings and the W/S attribution lines (“संस्कृत विकिस्रोत”, “sanskritdocuments.org”). Before this,
+  `tools/audit.py` UI-19 read only the top-level `titles`/`names` keys (which do not exist), so it checked 9 English
+  institution names; it now reads the per-entry lists (176 names) and skips `h1`, `.quiz`, `label`, `legend`, `button`,
+  `summary` and Sanskrit spans (not citations). Several pre-existing bare names on home, texts index and the occasion
+  when-card (“शुभवेला”, “रुद्राष्टाध्यायी”, “संस्कृत विकिस्रोत”) are fixed by the same helper; all page types pass UI-19 at 1440/hi (en/bho spot-checked on 7 pages).
+- **FEAT-108 · the search page exists while `features.search` is false** (design-review MEDIUM 6): a browse page (ten group
+  cards with chips, glossary letter bar, texts) with no `<input>`, no `[data-search]`, no SearchAction; `data.features =
+  { searchPage: true, search }` — the flag switches the page's mode, not its existence. With the flag on, the §14.4 markup
+  renders (input, aria-live count, results region) and FEAT-301 wires `search.mjs`.
+- **FEAT-108 · glossary pages only for terms defined in all three languages** (derive sets `published`; the term route filters
+  on it); the index groups by the first Devanagari letter (hi/bho) or A–Z (en) with a 44-px letter bar and CSS multi-column
+  word lists (not `.grid`, so UI-17's last-row rule does not fight alphabetical groups). The term page's h1 is the display
+  form; the forms card shows the OTHER two languages + Sanskrit (three forms on the page, each fact once), alternates and
+  folk forms as lists (the first-use bracket rule applies in prose); related occasions = `occasions[]` ∪ records whose text
+  marks `[[id]]`; lessons marking the term are listed too.
+- **FEAT-108 · Level 0 institutions table** renders every row of `content/institutions.json` — name linked (hi/bho: the first
+  Devanagari `names[]` form, en: `name`), extra `urls[]` as host links, status chip (fact / to-confirm / uncertain). The
+  registry's `course` and `duration` are language-neutral English strings and render in `lang="en"` cells; a later content
+  item may add hi/bho columns to the registry (noted for C1A-18 / OWNER-TODO).
+- **FEAT-108 · levels card is a `details.rail-fold`** (closed on phones, opened at ≥ 1024 by app.mjs) like every other rail,
+  so the lesson prose comes first at 390.
+- **FEAT-108 · lesson quiz**: `<fieldset data-answer data-fb-ok data-fb-no>` per question, `label.opt` rows (44 px, 22-px radio),
+  per-option “✓ सही / ✗ गलत” + border colour (`--good` / `--accent`) and the question's ok/no sentence; result
+  “{right}/{total} सही”; `pb-quiz:<id> = {right,total,at}`; a closed `<details class="answers">` lists the answers for JS-off.
+  “Done” (rail tick, level progress bar) means a full score; the badge shows any stored score. `quiz.mjs` is 3.9 KB
+  unminified (design §12 cap 3 KB) because it also fills badges, ticks and the progress card on the index/level pages
+  (one module instead of two); `sankalpa.mjs` is 2.6 KB (cap 2 KB) — both well under the 150-KB page budget.
+- **FEAT-108 · sankalpa worked example**: the form card on `/reference/sankalpa/` renders the UI-string example line with
+  `<span data-sankalpa="gotra|name">` slots and, when the `sankalp` occasion exists (C1A-02), every `panditSays.sa` line with
+  `{placeholders}` as a mantra block (one pada per line) whose placeholders become slots labelled from `sankalpa.slot.*`
+  (unknown keys → `[key]`). The fixture has no such occasion, so only the example line is proven here.
+- **FEAT-108 · static pages**: sources = prose + the §14 sentence (UI string, once — the fixture prose no longer repeats it) +
+  the registry grouped by project (title linked, kind, retrieved, `rel="license"` link: CC BY-SA / CC BY-NC-SA / Public Domain
+  Mark by the licence text, else the source's own page) + fonts (OFL link + shipped OFL.txt) + build tools; privacy = prose +
+  the design §9.3 storage-keys table + the R4 §6.3 GitHub sentences. Authors write only the prose part (CONTENT-RULES §8).
+- **FEAT-108 · reference pages use `.prose-wide`** (paragraphs at the reading measure, GFM tables at full column width inside
+  `.table-wrap`); `{{mantra:}}` / `{{sutra:}}` embeds work in lesson, reference and static Markdown (an unresolved id fails the build).
+- **FEAT-108 · `tools/audit.py` shots scroll to the top first** — the UI-25 focus walk left every 390-light shot at the page footer.

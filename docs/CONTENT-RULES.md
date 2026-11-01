@@ -220,6 +220,21 @@ its `hi` sibling FLAGs over 12 characters and FAILs over 40 (G21) — short shar
   `institutions.json#name/names[]` are the strings checked.
 - `{{note:health|grief|astrology}}` inserts the fixed note in Markdown; occasions get it from `sensitive[]`.
 
+### 8.1 Generated blocks on static / reference pages (FEAT-108) — do not repeat them in the prose
+
+- `static/sources.*.md`: the template appends the one neutral brief §14 sentence (UI string `sources.owner_decision`), the
+  source registry grouped by project (every entry with its licence link), the fonts block and the build-tools line. Write only
+  the introductory prose.
+- `static/privacy.*.md`: the template appends the storage-keys table (design §9.3) and the R4 §6.3 GitHub sentences (IP
+  logging, Issues). Write the R4 §6.3 paragraph without those two sentences, or keep them — but the table is generated.
+- `reference/sankalpa.*.md`: the form (gotra, name) and the worked example are generated below the prose; the example lines
+  come from the `sankalp` occasion's `panditSays.sa` — write its placeholders as `{samvatsara} {ayana} {ritu} {masa} {paksha}
+  {tithi} {vara} {nakshatra} {yoga} {karana} {gotra} {name}` (labels exist for these keys; any other key shows as `[key]`).
+- Lesson / reference / static Markdown may embed `{{mantra:<id>}}` (verse block + meaning + link) and `{{sutra:<id>}}`
+  (the quote block); an id that is not in the corpus fails the build.
+- Named sources in UI strings are linked automatically from `sources.json#titles[]`; in Markdown prose you still link them
+  yourself (G16).
+
 ## 9. Review packs (brief §6.4; plan §2.6, §3.5)
 
 Each content item writes `docs/review/<item-id>-bho.md` (≤ 50 EN/BHO pairs from the item, the register decisions you

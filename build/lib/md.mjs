@@ -105,6 +105,9 @@ export function renderMarkdown(body, ctx = {}) {
   return { html: out.join("\n"), links: state.links, terms: state.terms, placeholders: state.placeholders, unresolved: state.unresolved, headings: state.headings };
 }
 
+/** A note handler returns a string (escaped here) or { html } (already-safe markup, e.g. with linked source names). */
+const noteHtml = (n) => (n && typeof n === "object" && typeof n.html === "string" ? n.html : esc(n));
+
 function mergeState(state, r) {
   state.links.push(...r.links);
   state.terms.push(...r.terms);
@@ -120,7 +123,7 @@ function blockPlaceholder(type, arg, C, state) {
   else if (type === "sutra") html = C.sutra(arg);
   else if (type === "note") {
     const text = NOTE_KINDS.includes(arg) ? C.note(arg) : null;
-    html = text ? `<p class="note note-${esc(arg)}" role="note">${esc(text)}</p>` : null;
+    html = text ? `<p class="note note-${esc(arg)}" role="note">${noteHtml(text)}</p>` : null;
   }
   if (html === null) {
     state.unresolved.push({ type, arg });
@@ -159,7 +162,7 @@ export function renderInline(src, ctx = {}, state = { links: [], terms: [], plac
       return hold(`<span class="count" data-count="${esc(arg)}">${esc(Number(n).toLocaleString("en-IN"))}</span>`);
     }
     // block placeholders used inline: render inline fallback
-    const html = type === "note" ? (NOTE_KINDS.includes(arg) && C.note(arg) ? `<span class="note note-${esc(arg)}">${esc(C.note(arg))}</span>` : null) : C[type](arg);
+    const html = type === "note" ? (NOTE_KINDS.includes(arg) && C.note(arg) ? `<span class="note note-${esc(arg)}">${noteHtml(C.note(arg))}</span>` : null) : C[type](arg);
     if (html === null || html === undefined) { state.unresolved.push({ type, arg }); return hold(`<span class="unresolved" data-ref="${esc(type)}:${esc(arg)}">{{${esc(type)}:${esc(arg)}}}</span>`); }
     return hold(html);
   });

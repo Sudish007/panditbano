@@ -8,6 +8,7 @@ import { joinDanda, splitPadas, digitsFor } from "../../lib/deva.mjs";
 import { toIAST, toEasy, ariaPlain } from "../../lib/translit.mjs";
 import { attributionLine, termForms } from "../../lib/derive.mjs";
 import { renderInline } from "../../lib/md.mjs";
+import { linkNames, nameIndex } from "./names.mjs";
 
 export const VERSE_LANGS = ["sa", "awa", "hi"];
 const KIND_CHIP = { vedic: "chip-vedic", puranic: "chip-paddhati", paddhati: "chip-paddhati", folk: "chip-lok", author: "chip-lok" };
@@ -108,7 +109,7 @@ export function mdContext(ctx, lang, derived = {}) {
       const f = termForms(tb, lang);
       return { display: f.display, alt: f.alt, href: R.href(glossary.has(id) ? `${lang}/glossary/${id}/` : `${lang}/glossary/`) };
     },
-    note: (kind) => t(lang, `honesty.${kind}_note`),
+    note: (kind) => ({ html: linkNames(esc(t(lang, `honesty.${kind}_note`)), lang, ctx.names) }),
     count: (key) => (derived.counts && derived.counts[key] !== undefined ? derived.counts[key] : null),
     mantra: () => null,
     verse: () => null,
@@ -194,7 +195,7 @@ const shortUrl = (u) => { const s = u.replace(/^https?:\/\//, "").replace(/\/$/,
  * One attribution line as HTML: “title” (url) → the quoted title linked; "CC BY-SA 4.0 (url)" → a rel="license" link;
  * the registry title linked once where it stands unquoted (B/T/O patterns); any bare (url) left → a shortened link.
  */
-export function attributionHtml(line, lang, entry = null) {
+export function attributionHtml(line, lang, entry = null, names = null) {
   let s = esc(line.text);
   const linked = new Set();
   // The registry URL first, literally: a Wikisource URL may contain ")" (…/खण्डः_५_(अवन्तीखण्डः)/…), which the generic
@@ -227,7 +228,8 @@ export function attributionHtml(line, lang, entry = null) {
     return `${lead}${extAnchor(lang, url, phrase)}`;
   });
   s = s.replace(/\((https?:\/\/[^\s;)]+)/g, (m, url) => (linked.has(url) ? m : `(${extAnchor(lang, url, shortUrl(url))}`));
-  return raw(s);
+  // every bare project / source name left in the line (e.g. "संस्कृत विकिस्रोत", "sanskritdocuments.org") → its registry URL (UI-19)
+  return raw(names ? linkNames(s, lang, names) : s);
 }
 
 /** All attribution lines of a record: its source, then checkedAgainst, then variant sources (deduplicated by ref). */
@@ -254,7 +256,8 @@ export function sourceLine(rec, lang, { sources } = {}) {
 }
 
 /** #sources section of a content page: one attribution line per source of every record (design §4.1). */
-export function sourcesSection(records, lang, { sources, id = "sources", heading = "h2" } = {}) {
+export function sourcesSection(records, lang, { sources, names = null, id = "sources", heading = "h2" } = {}) {
+  const index = names || nameIndex(sources);
   const lines = [];
   const seen = new Set();
   for (const rec of records) for (const a of attributionLines(rec, lang, sources)) if (!seen.has(a.ref)) { seen.add(a.ref); lines.push(a); }
@@ -262,7 +265,7 @@ export function sourcesSection(records, lang, { sources, id = "sources", heading
   const H = heading;
   return html`<section id="${id}" aria-labelledby="h-${id}">
 ${raw(`<${H} id="h-${id}">`)}${t(lang, "verse.source")}${raw(`</${H}>`)}
-<ol class="sources">${lines.map((a) => html`<li data-source="${a.ref}">${attributionHtml(a.line, lang, a.entry)}</li>`)}</ol>
+<ol class="sources">${lines.map((a) => html`<li data-source="${a.ref}">${attributionHtml(a.line, lang, a.entry, index)}</li>`)}</ol>
 </section>`;
 }
 

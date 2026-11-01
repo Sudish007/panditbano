@@ -5,6 +5,7 @@
 import { html, raw, t, icon, num } from "../lib.mjs";
 import { layout } from "../layout.mjs";
 import { kindChip } from "../components/verse.mjs";
+import { tp } from "../components/names.mjs";
 
 export const clip = (s, n = 160) => { const x = String(s ?? "").replace(/\s+/g, " ").trim(); return x.length <= n ? x : x.slice(0, n - 1).replace(/\s+\S*$/, "") + "…"; };
 
@@ -65,7 +66,7 @@ export function textsIndexBody(ctx, { lang, texts, counts = {} }) {
   const R = ctx.R;
   const list = texts.slice().sort((a, b) => (b.publishedCount > 0) - (a.publishedCount > 0) || String(a.title[lang]).localeCompare(String(b.title[lang]), lang === "en" ? "en" : "hi"));
   return html`<div class="page-head">
-<div><h1>${t(lang, "texts.title")}</h1><p class="lede m0">${t(lang, "texts.lede")}</p></div>
+<div><h1>${t(lang, "texts.title")}</h1><p class="lede m0">${tp(ctx, lang, "texts.lede")}</p></div>
 <div class="meta"><span>${t(lang, "counts.mantras", { n: num(counts.mantras || 0) })}</span><span>${t(lang, "counts.chapters", { n: num(counts.chapters || 0) })}</span><span>${t(lang, "counts.verses", { n: num(counts.verses || 0) })}</span></div>
 </div>
 ${counts.mantras ? html`<a class="card card-link mantras-card" href="${R.href(`${lang}/mantras/`)}">${icon("i-om", { cls: "ico", size: 44 })}<div class="t"><h2 class="m0">${t(lang, "mantras.title")}</h2><p class="m0">${t(lang, "texts.mantras_body")}</p></div><span class="count">${t(lang, "counts.mantras", { n: num(counts.mantras) })}</span><span class="more">${t(lang, "home.more")}</span></a>` : ""}

@@ -386,6 +386,91 @@ details.faq .prose { padding-bottom: 14px; }
 .marks th, .marks td { text-align: start; padding: 10px 8px; border-bottom: 1px solid var(--hair); vertical-align: top; }
 .marks th { font-size: var(--fs-meta); color: var(--ink-2); font-weight: 600; }
 .marks .mantra { font-size: calc(var(--fs-body) * 1.5); line-height: 1.9; text-align: start; }
+.marks-card .table-wrap { margin-bottom: 12px; }
+.marks td:last-child { width: 56px; }
+/* quiz feedback (FEAT-108): per-option text + border colour, the question's ok/no sentence, answers readable without JS */
+.opt .txt { flex: 1 1 auto; min-width: 0; }
+.quiz .fbtext { margin: 10px 0 0; }
+.quiz .toolbar .result { font-weight: 600; min-height: 24px; }
+details.answers { border-top: 1px solid var(--hair); margin-top: var(--gap); }
+details.answers summary { cursor: pointer; min-height: var(--control-h); display: flex; align-items: center; justify-content: space-between; gap: 12px; font-weight: 600; list-style: none; padding: 8px 0; }
+details.answers summary::-webkit-details-marker { display: none; }
+details.answers summary::after { content: "+"; color: var(--accent); font-size: 1.4em; flex: none; }
+details.answers[open] summary::after { content: "−"; }
+details.answers ol { max-width: var(--measure); }
+details.answers li { margin: 0.6em 0; }
+/* learn: lesson cards, levels rail, progress badge, related chips, Level 3 checklist card */
+.lesson-card, .ref-card { display: grid; gap: 8px; align-content: start; }
+.lesson-card .chip { justify-self: start; }
+.badge { min-height: 24px; padding: 0 8px; vertical-align: middle; }
+.badge[hidden] { display: none; }
+.levels-card .t .meta { white-space: nowrap; }
+.related { display: grid; gap: 10px; margin: 0; }
+.related > div { display: grid; grid-template-columns: minmax(0, 0.5fr) minmax(0, 2fr); gap: 12px; padding: 8px 0; border-bottom: 1px solid var(--hair); align-items: start; }
+.related dt { font-weight: 600; margin: 0; color: var(--ink-2); font-size: var(--fs-meta); padding-top: 6px; }
+.related dd { margin: 0; }
+.checklist-card .actions { display: flex; flex-wrap: wrap; gap: 10px; }
+.lesson-verse { margin: var(--gap) 0; }
+.lesson-verse .verse { margin-bottom: 8px; }
+/* institutions table (Level 0; decisions.md §10): every name a link, status as a chip, data columns in the registry's language */
+.institutions { width: 100%; border-collapse: collapse; min-width: 640px; }
+.institutions th, .institutions td { text-align: start; padding: 10px 8px; border-bottom: 1px solid var(--hair); vertical-align: top; }
+.institutions thead th { font-size: var(--fs-meta); color: var(--ink-2); font-weight: 600; }
+.institutions tbody th { font-weight: 600; }
+.institutions .alt-urls { display: block; font-weight: 400; color: var(--ink-2); }
+.institutions td[lang="en"] { font-family: var(--font-latin); font-size: var(--fs-meta); }
+/* glossary: 44-px letter bar, multi-column word lists, the forms card */
+.letter-bar { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 var(--gap); }
+.letter-bar a { display: inline-grid; place-items: center; min-width: var(--control-h); min-height: var(--control-h); padding: 0 10px; border: 1px solid var(--hair-strong); border-radius: var(--radius-ctl); background: var(--surface); text-decoration: none; color: var(--ink); font-weight: 600; font-size: var(--fs-meta); }
+.letter-bar a:hover { border-color: var(--accent); color: var(--accent); }
+.letter-bar a[aria-current] { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+.letter-group .section-head h2 { font-family: var(--font-mantra); font-weight: 400; font-size: var(--h2); }
+.term-list { list-style: none; padding: 0; margin: 0; columns: 1; column-gap: var(--gap); }
+.term-list li { break-inside: avoid; margin: 0; padding: 8px 0; border-bottom: 1px solid var(--hair); display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: baseline; min-height: var(--control-h); }
+.term-list li > a { font-weight: 600; }
+@media (min-width: 820px) { .term-list { columns: 2; } }
+@media (min-width: 1440px) { .term-list { columns: 3; } }
+@media (min-width: 1920px) { .term-list { columns: 4; } }
+.term-forms dl { display: grid; gap: 8px; margin: 0 0 12px; }
+.term-forms dl > div { display: grid; grid-template-columns: minmax(0, 0.6fr) minmax(0, 2fr); gap: 12px; padding: 6px 0; border-bottom: 1px solid var(--hair); }
+.term-forms dt { margin: 0; color: var(--ink-2); font-size: var(--fs-meta); font-weight: 600; }
+.term-forms dd { margin: 0; font-size: calc(var(--fs-body) * 1.08); }
+.term-forms dd[lang="sa"] { font-family: var(--font-mantra); }
+.term-forms .label { color: var(--ink-2); font-weight: 600; }
+.term-forms .meta + .meta { margin-top: 6px; }
+.link-list { padding-inline-start: 1.2em; }
+.link-list li { margin: 0.5em 0; }
+/* reference: full-width tables with the prose at the reading measure (design §4.8) */
+.prose-wide > * { max-width: var(--measure); }
+.prose-wide > .table-wrap, .prose-wide > .sutra, .prose-wide > .lesson-verse { max-width: none; }
+.prose-wide > :last-child { margin-bottom: 0; }
+.prose-wide table { width: 100%; border-collapse: collapse; }
+.prose-wide th, .prose-wide td, .keys th, .keys td { text-align: start; padding: 10px 8px; border-bottom: 1px solid var(--hair); vertical-align: top; }
+.prose-wide thead th, .keys thead th { font-size: var(--fs-meta); color: var(--ink-2); font-weight: 600; }
+.keys { width: 100%; border-collapse: collapse; }
+.keys code { font-family: var(--font-latin); font-size: var(--fs-meta); }
+.rail .rail-h.mt { margin-top: var(--gap); }
+/* sankalpa worked example (design §9.3 pb-sankalpa, §18 3.3.7): two 44-px text fields, slots filled by textContent */
+.sankalpa-card .fields { display: grid; gap: 12px; margin-bottom: 12px; }
+@media (min-width: 820px) { .sankalpa-card .fields { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.field { display: grid; gap: 6px; }
+.field .label { font-size: var(--fs-meta); font-weight: 600; color: var(--ink-2); }
+.field input { font: inherit; min-height: var(--control-h); padding: 6px 12px; border: 1px solid var(--hair-strong); border-radius: var(--radius-ctl); background: var(--paper); color: var(--ink); width: 100%; }
+.field input:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+.sankalpa-card .example { font-size: calc(var(--fs-body) * 1.08); max-width: var(--measure); }
+.sankalpa-card .verse { max-width: none; }
+.slot { border-bottom: 2px dotted var(--accent-2); color: var(--ink-2); padding: 0 2px; }
+.slot.filled { color: var(--ink); border-bottom-style: solid; font-weight: 600; }
+/* sources page: the registry grouped by project, fonts + tools pair */
+.src-groups { display: grid; gap: var(--gap); margin-top: var(--gap); }
+@media (min-width: 1440px) { .src-groups { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (min-width: 1920px) { .src-groups { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+.src-group h3 { font-size: var(--h3); }
+.src-list { list-style: none; padding: 0; margin: 0; }
+.src-list li { display: grid; gap: 2px; padding: 8px 0; border-bottom: 1px solid var(--hair); margin: 0; overflow-wrap: anywhere; }
+.src-list li:last-child { border-bottom: 0; }
+.src-list .t { font-weight: 600; }
+.shubhvela-card { display: grid; gap: 10px; align-content: start; }
 
 /* katha */
 .katha-nav { display: flex; gap: 8px; flex-wrap: wrap; }

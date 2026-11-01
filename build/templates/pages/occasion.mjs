@@ -8,6 +8,7 @@ import { html, raw, t, icon, num } from "../lib.mjs";
 import { layout } from "../layout.mjs";
 import { verseBlock, padaSpans, splitBars, sourcesSection, sourceLink, svaraLegend, mdContext, inlineProse } from "../components/verse.mjs";
 import { readingSettings } from "../components/reading-settings.mjs";
+import { tp } from "../components/names.mjs";
 import { samagriCard } from "../components/samagri.mjs";
 import { whenCard } from "../components/when.mjs";
 import { stepCard, stepTitle, stepsOf, layerChip } from "../components/step.mjs";
@@ -92,7 +93,7 @@ function introSection(env) {
   const { lang, occ, mdCtx, ctx, kathasById } = env;
   const kinds = [...new Set((occ.sensitive || []).map((k) => SENSITIVE_KEY[k] || k))];
   // G15 at render: t() throws when the note for a sensitive kind is missing from the UI table
-  const notes = kinds.map((k) => html`<p class="caveat" data-sensitive="${k}">${t(lang, `honesty.${k}_note`)}</p>`);
+  const notes = kinds.map((k) => html`<p class="caveat" data-sensitive="${k}">${tp(ctx, lang, `honesty.${k}_note`)}</p>`);
   const katha = occ.kathaId && kathasById.get(occ.kathaId);
   return html`<section id="intro" class="prose" aria-label="${t(lang, "occasion.sections.intro")}">
 <p>${inlineProse(occ.overview[lang], mdCtx)}</p>

@@ -29,7 +29,17 @@ import { chapterPage } from "./templates/pages/chapter.mjs";
 import { kathasIndexPage } from "./templates/pages/kathas-index.mjs";
 import { kathaPage } from "./templates/pages/katha.mjs";
 import { kathaAdhyayaPage } from "./templates/pages/katha-adhyaya.mjs";
+import { learnIndexPage } from "./templates/pages/learn-index.mjs";
+import { learnLevelPage } from "./templates/pages/learn-level.mjs";
+import { lessonPage } from "./templates/pages/lesson.mjs";
+import { glossaryIndexPage } from "./templates/pages/glossary-index.mjs";
+import { termPage } from "./templates/pages/term.mjs";
+import { referencePage } from "./templates/pages/reference.mjs";
+import { referencePagePage } from "./templates/pages/reference-page.mjs";
+import { staticPage } from "./templates/pages/static.mjs";
+import { searchPage } from "./templates/pages/search.mjs";
 import { embedOfflineManifests } from "./lib/offline.mjs";
+import { nameIndex } from "./templates/components/names.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const R = createRoutes(config);
@@ -44,6 +54,10 @@ export const PAGE_MODULES = {
   "chapter-part": ["translit", "voice", "expand", "tracker"],
   katha: ["translit", "voice", "checklist", "tracker"],
   "katha-adhyaya": ["translit", "voice"],
+  "learn-index": ["quiz"],
+  "learn-level": ["quiz"],
+  lesson: ["translit", "voice", "quiz"],
+  "reference-page": ["translit", "voice", "sankalpa"],
 };
 
 // ---------------------------------------------------------------- helpers
@@ -77,7 +91,8 @@ function stageLoad() {
     if (!data.ui[l]) throw new Error(`content/ui/${l}.json missing`);
     setUI(l, data.ui[l]);
   }
-  data.features = { searchPage: config.features.search };
+  // the search PAGE exists from Phase 1 (browse mode while features.search is false — design-review MEDIUM 6); the engine is the flag
+  data.features = { searchPage: true, search: config.features.search };
   return data;
 }
 
@@ -173,7 +188,16 @@ function stageRender(out, ctx, data, derived) {
           html = kathaAdhyayaPage(ctx, { route, katha, adhyaya: katha.adhyayas.find((a) => a.n === route.params.n), data, derived, occasionsById });
           break;
         }
-        default: break; // templates for the other page types arrive with FEAT-108
+        case "learn-index": html = learnIndexPage(ctx, { route, data, counts: derived.counts }); break;
+        case "learn-level": html = learnLevelPage(ctx, { route, level: data.levels.find((l) => l.level === route.params.level), data }); break;
+        case "lesson": html = lessonPage(ctx, { route, lesson: data.lessons.find((l) => l.id === route.params.lessonId), data, derived }); break;
+        case "glossary-index": html = glossaryIndexPage(ctx, { route, terms: derived.glossaryPages }); break;
+        case "term": html = termPage(ctx, { route, term: derived.glossaryPages.find((g) => g.id === route.params.termId), data, derived }); break;
+        case "reference": html = referencePage(ctx, { route, data }); break;
+        case "reference-page": html = referencePagePage(ctx, { route, ref: data.reference.find((r) => r.slug === route.params.slug), data, derived }); break;
+        case "static": html = staticPage(ctx, { route, page: data.statics.find((s) => s.slug === route.params.slug), data, derived }); break;
+        case "search": html = searchPage(ctx, { route, data, derived }); break;
+        default: throw new Error(`no template for page type "${route.pageType}" (${route.sitePath})`);
       }
       if (html === null) continue;
       const file = route.sitePath.endsWith("/") || route.sitePath === "" ? `${route.sitePath}index.html` : route.sitePath;
@@ -248,7 +272,7 @@ export async function build() {
   const hash = timed("hash", computeHash);
   const out = new Map();
   const assets = timed("assets", () => stageAssets(out, hash));
-  const ctx = { R, ui: data.ui, features: config.features, hash, assets: { css: assets.css, js: assets.js }, modules: assets.modules, themeColors: assets.themeColors };
+  const ctx = { R, ui: data.ui, features: config.features, hash, assets: { css: assets.css, js: assets.js }, modules: assets.modules, themeColors: assets.themeColors, names: nameIndex(data.sources, data.institutions) };
   const pages = timed("render", () => stageRender(out, ctx, data, derived));
   // MEDIUM 5: #pb-offline-urls {id, hash, bytes, urls} on occasion / part / pothi pages, bytes from the rendered output
   const offline = timed("offline", () => embedOfflineManifests(out, { R, ctx, occasions: data.occasions }));

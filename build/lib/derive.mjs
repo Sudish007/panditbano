@@ -212,13 +212,15 @@ export function derive(data, { R = null } = {}) {
     }
   }
   for (const k of data.kathas) k.slug = k.id;
-  // glossary pages: terms with a definition and a term-bank entry
+  // glossary pages: terms with a term-bank entry AND a definition in all three languages (design §3.2; FEAT-108);
+  // `published` is read by the term route so an incomplete record gets no page
   const glossaryPages = [];
   for (const g of data.terms) {
     const tb = termbankById.get(g.id);
     g.slug = g.id;
     g.forms = tb ? { hi: termForms(tb, "hi"), en: termForms(tb, "en"), bho: termForms(tb, "bho"), category: tb.category, evidence: tb.evidence } : null;
-    if (tb) glossaryPages.push(g);
+    g.published = !!tb && hasTri(g.definition);
+    if (g.published) glossaryPages.push(g);
   }
   // counts
   const groups = {};
