@@ -101,7 +101,9 @@ textRefs[{text, chapter | [chapters]}]?, panditSays{sa?, hi, en, bho}?, note{}?,
 `kathaId?`, `textIds[]?`, `tags[]?`, `review`.
 
 Step `action` shape: write it as `<short title> — <prose>` or `<short title>: <prose>` (title ≤ 60 characters, no sentence
-inside it). The renderer takes the title as the step heading (h3, step rail, pothi) and shows only the prose under it; an
+inside it). The renderer takes the title as the step heading (h3, step rail, pothi) and shows only the prose under it (an
+English prose that starts lowercase after the label is capitalised); the FIRST ` — ` within 80 characters wins over a colon,
+so a `label: clause — rest` action gets the whole `label: clause` as its heading — put the dash after the label instead. An
 action without such a title is cut at 72 characters for the heading and then repeated in full. Label fields are plain text
 (no `[[term]]`, no links, no Markdown): `samagri[].item`, `roles[].role`, `faq[].q`, `panditSays`, every `title`; a
 `[[term]]` mark alone as the step title is allowed (the rail shows the term's display form).

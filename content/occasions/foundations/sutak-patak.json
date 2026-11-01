@@ -1,0 +1,358 @@
+{
+  "id": "sutak-patak",
+  "code": "F17",
+  "group": "foundations",
+  "phase": 1,
+  "title": {
+    "hi": "सूतक और पातक के नियम",
+    "en": "Sutak and patak (ritual impurity)",
+    "bho": "सूतक आ पातक के नियम"
+  },
+  "lede": {
+    "hi": "जन्म (सूतक) और मृत्यु (पातक) के बाद परिवार कितने दिन पूजा-पाठ से दूर रहता है, किस पर यह लगता है, क्या रुकता है और क्या चलता रहता है, और अवधि कैसे समाप्त होती है — गृह्यसूत्र, स्मृति और पुराण के वाक्यों के साथ, और आज के परिवारों के प्रचलन के साथ।",
+    "en": "How many days a family stays away from worship after a birth (sutak) and a death (patak), whom it falls on, what pauses and what goes on, and how the period ends — with the sentences of the Grihya Sutra, the smriti and the Purana, and with the practice of today's families.",
+    "bho": "जनम (सूतक) आ मौत (पातक) के बाद परिवार केतना दिन पूजा-पाठ से दूर रहेला, केकरा पर ई लागेला, का रुकेला आ का चलत रहेला, आ अवधि कइसे खतम होला — गृह्यसूत्र, स्मृति आ पुरान के वाक्य संगे, आ आज के परिवार के चलन संगे।"
+  },
+  "overview": {
+    "hi": "जन्म और मृत्यु — दोनों के बाद परिवार कुछ दिन देव-कर्म से दूर रहता है। जन्म की इस अवधि को [[sutak]] (जननाशौच, वृद्धि-अशौच) और मृत्यु की अवधि को पातक (मृताशौच) कहते हैं; शास्त्र दोनों के लिए एक ही शब्द 'अशौच' रखता है। यह पृष्ठ परंपरा के नियम को उसके स्रोतों के साथ दर्ज करता है — [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) की तीन रात और 'कुछ कहते हैं दस', [मनुस्मृति अध्याय 5](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A8%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83) के दस दिन और सपिंड की परिभाषा, और [गरुड़ पुराण, प्रेतकांड अध्याय 5](https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%B0%E0%A5%81%E0%A4%A1%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A4%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83_%28%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83%29/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AB) का जन्म-मृत्यु दोनों में दस दिन — और साथ में हिंदी भाषी परिवारों का आज का प्रचलन। अशौच कोई दोष या दंड नहीं है: परंपरा में इसे शोक और प्रसूति के दिनों में घर को बाहरी कर्मों से छुट्टी देना समझा गया है, जब देवताओं की जगह पितरों और नवजात की देखभाल आगे आती है। कितने दिन, कौन, और क्या-क्या — इन सब में क्षेत्र और कुल का भेद है, और कई परिवार आज अवधि छोटी रखते हैं; यह साइट नियम बताती है, परिवार तय करते हैं। पंडित की भूमिका गिनती बताने और अवधि के अंत में शुद्धि कराने की है — देखें [पंडित की शिष्टाचार-पुस्तिका](/occasions/pandit-shishtachar/)।",
+    "en": "After a birth and after a death alike, the family keeps away from the rites of the gods for some days. The period after a birth is called sutak (jananashaucha, vriddhi-ashaucha) and the one after a death patak (mritashaucha); the shastra uses one word, 'ashaucha', for both. This page records the tradition's rule with its sources — the three nights and 'some say ten' of the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D), the ten days and the definition of a sapinda in [Manusmriti chapter 5](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A8%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83), and the ten days for birth and death alike in the [Garuda Purana Pretakanda 5](https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%B0%E0%A5%81%E0%A4%A1%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A4%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83_%28%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83%29/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AB) — together with the present practice of Hindi-belt families. Ashaucha is neither a fault nor a punishment: tradition has understood it as a release of the household from outward rites in the days of mourning or of a birth, when the care of the ancestors or of the newborn comes before the gods. How many days, who, and what exactly — in all of these region and lineage differ, and many families today keep a shorter period; the site states the rule, families decide. The pandit's part is to give the count and to perform the purification at the end — see the [pandit's book of conduct](/occasions/pandit-shishtachar/).",
+    "bho": "जनम आ मौत — दुनो के बाद परिवार कुछ दिन देव-करम से दूर रहेला। जनम के एह अवधि के [[sutak]] (जननासौच, वृद्धि-असौच) आ मौत के अवधि के पातक (मृतासौच) कहल जाला; शास्त्र दुनो खातिर एके शब्द 'असौच' राखेला। ई पन्ना परंपरा के नियम के ओकर स्रोत संगे लिखेला — [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) के तीन रात आ 'कुछ कहेलन दस', [मनुस्मृति अध्याय 5](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A8%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83) के दस दिन आ सपिंड के परिभाषा, आ [गरुड़ पुराण, प्रेतकांड अध्याय 5](https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%B0%E0%A5%81%E0%A4%A1%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A4%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83_%28%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83%29/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AB) के जनम-मौत दुनो में दस दिन — आ संगे हिंदी भाषी परिवार के आज के चलन। असौच कवनो दोष भा दंड ना: परंपरा में एकरा सोग आ प्रसूति के दिन में घर के बाहरी करम से छुट्टी समझल गइल बा, जब देवता के जगह पितर आ नवजात के देखभाल आगे आवेला। केतना दिन, के, आ का-का — एह सब में इलाका आ कुल के भेद बा, आ कई परिवार आज अवधि छोट राखेला; ई साइट नियम बतावेले, परिवार तय करेला। पंडित के भूमिका गिनती बतावे आ अवधि के अंत में सुद्धि करावे के बा — देखीं [पंडित के शिष्टाचार-पोथी](/occasions/pandit-shishtachar/)।"
+  },
+  "when": {
+    "rules": {
+      "hi": "अवधि घटना के दिन से गिनी जाती है — जन्म या मृत्यु का दिन पहला दिन; दूर रहने वाले संबंधी के लिए समाचार सुनने का दिन। कोई [[muhurat]] नहीं है; अंत की शुद्धि दसवें-ग्यारहवें दिन (मृत्यु में दशगात्र-एकादशाह के क्रम से) होती है। इस अवधि में नया मांगलिक कार्य — विवाह, मुंडन, गृह प्रवेश — आरंभ नहीं किया जाता।",
+      "en": "The period is counted from the day of the event — the day of the birth or death is day one; for a relative living away, the day the news is heard. There is no muhurat; the closing purification falls on the tenth or eleventh day (after a death, in the order of the dashgatra and ekadashah). No new auspicious undertaking — a wedding, a mundan, a griha pravesh — is begun in this period.",
+      "bho": "अवधि घटना के दिन से गिनल जाला — जनम भा मौत के दिन पहिला दिन; दूर रहे वाला नातेदार खातिर खबर सुनला के दिन। कवनो [[muhurat]] नइखे; अंत के सुद्धि दसवाँ-एगारहवाँ दिन (मौत में दशगात्र-एकादशाह के क्रम से) होला। एह अवधि में नया मांगलिक काम — बियाह, मुंडन, गृह प्रवेश — सुरू ना कइल जाला।"
+    },
+    "shubhvela": {
+      "muhurat": null,
+      "festival": null,
+      "vrat": null
+    }
+  },
+  "roles": [
+    {
+      "role": {
+        "hi": "परिवार (घर के सपिंड)",
+        "en": "The household (the sapindas)",
+        "bho": "परिवार (घर के सपिंड लोग)"
+      },
+      "does": {
+        "hi": "अवधि की गिनती रखना; घर के देवताओं की पूजा, मंदिर जाना और मांगलिक कार्य रोकना; माँ-शिशु या शोक-संतप्त की देखभाल; अंत में स्नान और घर की शुद्धि।",
+        "en": "Keeps the count; pauses the worship of the household deities, temple visits and auspicious undertakings; cares for the mother and child or for the bereaved; bathes and purifies the house at the end.",
+        "bho": "अवधि के गिनती राखल; घर के देवता के पूजा, मंदिर जाइल आ मांगलिक काम रोकल; महतारी-बचवा भा सोग में डूबल लोग के देखभाल; अंत में नहान आ घर के सुद्धि।"
+      }
+    },
+    {
+      "role": {
+        "hi": "पुरोहित",
+        "en": "Purohit",
+        "bho": "पुरोहित"
+      },
+      "does": {
+        "hi": "परिवार से संबंध पूछकर अवधि बताना; बीच में पड़ी पूजा के लिए रास्ता सुझाना (टालना या दूसरे संबंधी से कराना); अंत में शुद्धि — गंगाजल-छिड़काव, पुण्याहवाचन, नया जनेऊ।",
+        "en": "Asks about the relationship and gives the period; suggests the way out for a puja that falls in between (postpone, or have another relative perform it); performs the closing purification — sprinkling of Ganga water, punyahavachana, a new sacred thread.",
+        "bho": "परिवार से संबंध पूछ के अवधि बतावल; बीच में पड़ल पूजा खातिर रास्ता बतावल (टालल भा दुसरा नातेदार से करावल); अंत में सुद्धि — गंगाजल-छिड़काव, पुण्याहवाचन, नया जनेऊ।"
+      }
+    },
+    {
+      "role": {
+        "hi": "प्रसूता और शिशु / शोक-संतप्त",
+        "en": "The mother and child / the bereaved",
+        "bho": "प्रसूता आ बचवा / सोग में डूबल लोग"
+      },
+      "does": {
+        "hi": "विश्राम और देखभाल — यही इस अवधि का असली काम है; कोई धार्मिक कर्तव्य इन पर नहीं है।",
+        "en": "Rest and care — that is the real work of this period; no religious duty rests on them.",
+        "bho": "आराम आ देखभाल — इहे एह अवधि के असली काम बा; कवनो धार्मिक कर्तव्य इनका पर नइखे।"
+      }
+    }
+  ],
+  "samagri": [
+    {
+      "id": "gangajal",
+      "item": {
+        "hi": "गंगाजल — अंत की शुद्धि में घर पर छिड़कने के लिए",
+        "en": "Ganga water — to sprinkle through the house at the closing purification",
+        "bho": "गंगाजल — अंत के सुद्धि में घर पर छींटे खातिर"
+      },
+      "qty": "एक लोटा",
+      "must": true
+    },
+    {
+      "id": "kush",
+      "item": {
+        "hi": "कुश या आम के पत्ते — छिड़काव के लिए",
+        "en": "Kusha grass or mango leaves, for sprinkling",
+        "bho": "कुश भा आम के पत्ता — छिड़काव खातिर"
+      },
+      "qty": "थोड़ा",
+      "must": false
+    },
+    {
+      "id": "janeu",
+      "item": {
+        "hi": "नया जनेऊ — घर के जनेऊधारी पुरुषों के लिए",
+        "en": "A new sacred thread for each thread-wearing man of the house",
+        "bho": "नया जनेऊ — घर के जनेऊधारी मरद खातिर"
+      },
+      "qty": "प्रति व्यक्ति 1",
+      "must": false
+    },
+    {
+      "id": "haldi-ubtan",
+      "item": {
+        "hi": "हल्दी, तेल और उबटन — अंतिम दिन के स्नान के लिए",
+        "en": "Turmeric, oil and ubtan paste for the bath of the last day",
+        "bho": "हरदी, तेल आ उबटन — अंतिम दिन के नहान खातिर"
+      },
+      "qty": "थोड़ा",
+      "must": false
+    },
+    {
+      "id": "naya-vastra",
+      "item": {
+        "hi": "धुले या नए वस्त्र — सब के लिए",
+        "en": "Washed or new clothes for everyone",
+        "bho": "धोवल भा नया कपड़ा — सभे खातिर"
+      },
+      "qty": "—",
+      "must": false
+    }
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "layer": "paddhati",
+      "important": true,
+      "action": {
+        "hi": "गिनती तय करना — जन्म पर घर के सपिंडों का सूतक और मृत्यु पर पातक — हिंदी भाषी क्षेत्र में दोनों दस दिन। सबसे पुराना नियम गृह्यसूत्र का है — तीन रात, 'कुछ कहते हैं दस'; स्मृति और पुराण ने दस दिन को मुख्य बनाया। मृत्यु में यह दशगात्र के दस दिन हैं, जिनके बाद एकादशाह, द्वादशाह (सपिंडीकरण) और तेरहवीं आती है।",
+        "en": "Settling the count: the sutak of the household's sapindas at a birth and the patak at a death — ten days each in the Hindi belt. The oldest rule is the Grihya Sutra's — three nights, 'some say ten'; the smriti and the Purana made ten days the main rule. After a death these are the ten days of the dashgatra, followed by the ekadashah, the dwadashah (sapindikarana) and the terahvi.",
+        "bho": "गिनती तय कइल — जनम पर घर के सपिंड लोग के सूतक आ मौत पर पातक — हिंदी भाषी इलाका में दुनो दस दिन। सबसे पुरान नियम गृह्यसूत्र के बा — तीन रात, 'कुछ कहेलन दस'; स्मृति आ पुरान दस दिन के मुख्य बना दिहल। मौत में ई दशगात्र के दस दिन बा, जेकरा बाद एकादशाह, द्वादशाह (सपिंडीकरन) आ तेरही आवेला।"
+      },
+      "mantraIds": [
+        "pgs-3-10-29-30",
+        "pur-manusmriti-5-59",
+        "pur-garuda-preta-5-10"
+      ],
+      "panditSays": {
+        "hi": "आपके घर में जन्म हुआ है, तो दस दिन का सूतक मानिए — दसवें दिन स्नान और शुद्धि के बाद पूजा-पाठ फिर शुरू होगा। मृत्यु हुई है, तो दशगात्र के दस दिन और फिर ग्यारहवें-बारहवें दिन की विधि।",
+        "en": "There has been a birth in your house, so keep the ten days of sutak — after the bath and purification on the tenth day the worship resumes. If there has been a death, the ten days of the dashgatra and then the rites of the eleventh and twelfth day.",
+        "bho": "राउर घर में जनम भइल बा, त दस दिन के सूतक मानीं — दसवाँ दिन नहान आ सुद्धि के बाद पूजा-पाठ फेर सुरू होई। मौत भइल बा, त दशगात्र के दस दिन आ फेर एगारहवाँ-बारहवाँ दिन के विधि।"
+      },
+      "note": {
+        "hi": "पुरानी स्मृतियाँ अवधि को समुदाय के अनुसार भी अलग बताती हैं; आज के हिंदी भाषी व्यवहार में दस दिन का नियम सब पर लागू देखा जाता है और कई परिवार तीन दिन या अस्थि-संचय तक ही मानते हैं — [मनुस्मृति](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A8%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83) 5.59 इन छोटी अवधियों को भी विकल्प के रूप में देती है।",
+        "en": "The older smritis also vary the period by community; in present Hindi-belt practice the ten-day rule is seen applied to all, and many families keep only three days or until the asthi-sanchaya — [Manusmriti](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A8%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83) 5.59 itself offers these shorter lengths as options.",
+        "bho": "पुरान स्मृति अवधि के समुदाय के हिसाब से भी अलगा बतावेली; आज के हिंदी भाषी व्यवहार में दस दिन के नियम सभे पर लागू देखल जाला आ कई परिवार तीन दिन भा अस्थि-संचय तक ही मानेला — [मनुस्मृति](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A8%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83) 5.59 एह छोट अवधि के भी विकल्प के रूप में देले।"
+      }
+    },
+    {
+      "n": 2,
+      "layer": "paddhati",
+      "action": {
+        "hi": "किस पर लगता है — पिता की ओर से सात पीढ़ी तक के संबंधी सपिंड हैं — उन पर पूरी अवधि; उसके आगे के 'समानोदक' पर तीन दिन। विवाहित बेटी, बुआ, मामा-नाना के परिवार कम दिन मानते हैं (प्रचलन में एक से तीन दिन)। जो दूर है, वह समाचार सुनने के दिन से बची अवधि मानता है; अवधि बीत चुकी हो तो एक या तीन रात।",
+        "en": "Whom it falls on: relatives up to the seventh generation on the father's side are sapindas — the full period for them; the 'samanodakas' beyond them keep three days. A married daughter, the father's sisters and the mother's family keep fewer days (one to three in practice). One who is far away keeps the remainder of the period from the day the news is heard; if the period has passed, one or three nights.",
+        "bho": "केकरा पर लागेला — बाबूजी के ओर से सात पीढ़ी तक के नातेदार सपिंड बाड़न — उनका पर पूरा अवधि; ओकरा आगे के 'समानोदक' पर तीन दिन। बियाहल बेटी, फुआ, मामा-नाना के परिवार कम दिन मानेला (चलन में एक से तीन दिन)। जे दूर बा, ऊ खबर सुनला के दिन से बाँचल अवधि मानेला; अवधि बीत गइल होखे त एक भा तीन रात।"
+      },
+      "mantraIds": [
+        "pur-manusmriti-5-60",
+        "pgs-3-10-44-45"
+      ],
+      "panditSays": {
+        "hi": "आप मृतक के कौन हैं? — पट्टीदार हैं तो पूरे दस दिन; बेटी या बुआ के घर में तीन दिन; दूर शहर में हैं तो सुनने के दिन से बाकी दिन।",
+        "en": "How are you related to the departed? — If of the same paternal line, the full ten days; in a daughter's or aunt's house, three days; if you are in a distant city, the remaining days from the day you heard.",
+        "bho": "रउआ मरल आदमी के के हईं? — पट्टीदार हईं त पूरा दस दिन; बेटी भा फुआ के घर में तीन दिन; दूर सहर में बानी त सुनला के दिन से बाकी दिन।"
+      }
+    },
+    {
+      "n": 3,
+      "layer": "lok",
+      "action": {
+        "hi": "क्या रुकता है: घर के देवताओं की पूजा और आरती, मंदिर जाना, तुलसी-पीपल को जल, दान और स्वाध्याय, मांगलिक कार्यों का आरंभ और उनमें जाना, व्रत का आरंभ (चल रहा व्रत मन में रखा जाता है)। क्या चलता रहता है: माँ-शिशु और शोक-संतप्त की देखभाल, घर का भोजन बनना, अंतिम-कर्म की विधियाँ (जो पातक के भीतर ही होती हैं), और ईश्वर का नाम-स्मरण — उस पर कभी रोक नहीं।",
+        "en": "What pauses: the worship and aarti of the household deities, temple visits, water to the Tulsi and the pipal, gifts and Vedic study, the beginning of auspicious works and attending them, the beginning of a vrat (a vrat already running is kept inwardly). What goes on: the care of mother and child or of the bereaved, the cooking of the household, the rites for the dead (which belong inside the patak itself), and remembering God's name — that is never stopped.",
+        "bho": "का रुकेला: घर के देवता के पूजा आ आरती, मंदिर जाइल, तुलसी-पीपर के जल, दान आ स्वाध्याय, मांगलिक काम के सुरुआत आ ओमें जाइल, बरत के सुरुआत (चलत बरत मन में राखल जाला)। का चलत रहेला: महतारी-बचवा आ सोग में डूबल लोग के देखभाल, घर के भोजन बनल, अंतिम-करम के विधि (जे पातक के भीतरे होला), आ ईश्वर के नाँव-सुमिरन — ओह पर कबो रोक ना।"
+      },
+      "mantraIds": [
+        "pur-manusmriti-5-62"
+      ],
+      "panditSays": {
+        "hi": "इन दिनों घर का मंदिर ढका रहे, आरती न हो; नाम-जप करते रहिए। बच्चे के पिता स्नान करके जातकर्म और नामकरण की तैयारी कर सकते हैं — स्मृति का यही कथन है।",
+        "en": "In these days let the home shrine stay covered and the aarti rest; keep repeating the name. The child's father, after a bath, may perform the jatakarma and prepare the naming — that is the smriti's own statement.",
+        "bho": "एह दिन में घर के मंदिर झाँपल रहे, आरती ना होखे; नाँव-जप करत रहीं। बचवा के बाबूजी नहा के जातकरम आ नामकरन के तइयारी कर सकेलन — स्मृति के इहे कथन बा।"
+      },
+      "note": {
+        "hi": "[गरुड़ पुराण](https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%B0%E0%A5%81%E0%A4%A1%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A4%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83_%28%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83%29/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AB) (2.5.4–7) पातक के दिनों की रीति भी बताता है — सादा भोजन, ज़मीन पर शयन, दान-अध्ययन से विराम; यह शोक का अनुशासन है, दंड नहीं। मासिक धर्म के दिनों के लिए घरों में इसी तरह की रोक की परंपरा रही है; यह साइट उस परंपरा को दर्ज करती है, कोई नियम नहीं बनाती — परिवार तय करते हैं।",
+        "en": "The [Garuda Purana](https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%B0%E0%A5%81%E0%A4%A1%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A4%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83_%28%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83%29/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AB) (2.5.4–7) also describes the manner of the patak days — plain food, sleeping on the ground, a pause in gifts and study; it is the discipline of mourning, not a penalty. Households have kept a similar convention of exclusion for the days of menstruation; the site records that convention and makes no rule — families decide.",
+        "bho": "[गरुड़ पुराण](https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%B0%E0%A5%81%E0%A4%A1%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A4%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83_%28%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83%29/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AB) (2.5.4–7) पातक के दिन के रीति भी बतावेला — सादा भोजन, जमीन पर सुतल, दान-अध्ययन से विराम; ई सोग के अनुशासन बा, दंड ना। महीना (मासिक धरम) के दिन खातिर घर में अइसहीं रोक के परंपरा रहल बा; ई साइट ओह परंपरा के लिखेले, कवनो नियम ना बनावे — परिवार तय करेला।"
+      }
+    },
+    {
+      "n": 4,
+      "layer": "lok",
+      "action": {
+        "hi": "जन्म की अवधि के पड़ाव: [[chhathi]] (छठा दिन) और [[barahi]] (बारहवाँ दिन) लोक-परंपरा के उत्सव हैं जो इसी अवधि में पड़ते हैं — छठी पर माँ और शिशु का पहला स्नान-श्रृंगार और षष्ठी देवी की पूजा, बरही पर घर की शुद्धि और पहला बाहर आना। दसवें या ग्यारहवें दिन घर पर गंगाजल छिड़ककर, स्नान और नए वस्त्र से सूतक समाप्त होता है; कुछ परिवार बारहवें दिन या नामकरण के साथ समाप्त मानते हैं।",
+        "en": "The stages of the birth period: the chhathi (sixth day) and the barahi (twelfth day) are folk celebrations that fall within this period — on the chhathi the first bath and adornment of mother and child and the worship of the goddess Shashthi, on the barahi the purification of the house and the first coming out. On the tenth or eleventh day the sutak ends with Ganga water sprinkled through the house, a bath and fresh clothes; some families count it as ending on the twelfth day or with the naming.",
+        "bho": "जनम के अवधि के पड़ाव: [[chhathi]] (छठवाँ दिन) आ [[barahi]] (बारहवाँ दिन) लोक-परंपरा के उत्सव बा जे एही अवधि में पड़ेला — छठी पर महतारी आ बचवा के पहिला नहान-सिंगार आ षष्ठी देवी के पूजा, बरही पर घर के सुद्धि आ पहिला बाहर आइल। दसवाँ भा एगारहवाँ दिन घर पर गंगाजल छींट के, नहान आ नया कपड़ा से सूतक खतम होला; कुछ परिवार बारहवाँ दिन भा नामकरन संगे खतम मानेला।"
+      },
+      "samagriIds": [
+        "gangajal",
+        "kush",
+        "naya-vastra",
+        "haldi-ubtan"
+      ],
+      "panditSays": {
+        "hi": "छठी और बरही घर की रीति से कीजिए — उनमें वैदिक मंत्र नहीं हैं, यह लोकाचार है। दसवें दिन मैं आकर गंगाजल छिड़कूँगा और पुण्याहवाचन करूँगा; उसी दिन से घर का मंदिर खुल जाएगा।",
+        "en": "Do the chhathi and barahi as the house has always done — there are no Vedic mantras in them, they are folk custom. On the tenth day I will come, sprinkle the Ganga water and perform the punyahavachana; from that day the home shrine opens again.",
+        "bho": "छठी आ बरही घर के रीति से करीं — ओमें वैदिक मंत्र नइखे, ई लोकाचार बा। दसवाँ दिन हम आके गंगाजल छींटब आ पुण्याहवाचन करब; ओही दिन से घर के मंदिर खुल जाई।"
+      }
+    },
+    {
+      "n": 5,
+      "layer": "paddhati",
+      "action": {
+        "hi": "मृत्यु की अवधि के पड़ाव: पहले दिन दाह, पहले-तीसरे-सातवें या नवें दिन अस्थि-संचय, दस दिन तक रोज़ पिंडदान (दशगात्र), दसवें दिन घर के बाहर स्नान और क्षौर, ग्यारहवें दिन एकादशाह, बारहवें दिन सपिंडीकरण और तेरहवें दिन ब्रह्मभोज — इसके बाद पातक समाप्त माना जाता है। हर पड़ाव की विधि मृत्यु-संबंधी अवसर-पृष्ठों पर है।",
+        "en": "The stages of the death period: cremation on the first day; gathering of the bones on the first, third, seventh or ninth day; a pinda every day for ten days (the dashgatra); on the tenth day a bath outside the house and the shaving; the ekadashah on the eleventh, the sapindikarana on the twelfth and the brahma-bhoj on the thirteenth — after which the patak is held to have ended. Each stage's procedure is on the death-rite occasion pages.",
+        "bho": "मौत के अवधि के पड़ाव: पहिला दिन दाह, पहिला-तीसरा-सातवाँ भा नवाँ दिन अस्थि-संचय, दस दिन तक रोज पिंडदान (दशगात्र), दसवाँ दिन घर के बाहर नहान आ छौर, एगारहवाँ दिन एकादशाह, बारहवाँ दिन सपिंडीकरन आ तेरहवाँ दिन ब्रह्मभोज — एकरा बाद पातक खतम मानल जाला। हर पड़ाव के विधि मौत-संबंधी अवसर-पन्ना पर बा।"
+      },
+      "mantraIds": [
+        "pur-garuda-preta-5-10"
+      ],
+      "samagriIds": [
+        "janeu",
+        "naya-vastra"
+      ],
+      "panditSays": {
+        "hi": "दसवें दिन सब पुरुष घर के बाहर स्नान करके नया जनेऊ धारण करें; तेरहवें दिन के ब्रह्मभोज के बाद घर फिर पूजा के योग्य है।",
+        "en": "On the tenth day all the men bathe outside the house and put on a new sacred thread; after the brahma-bhoj of the thirteenth day the house is fit for worship again.",
+        "bho": "दसवाँ दिन सब मरद घर के बाहर नहा के नया जनेऊ धारन करसु; तेरहवाँ दिन के ब्रह्मभोज के बाद घर फेर पूजा के जोग बा।"
+      },
+      "note": {
+        "hi": "[गरुड़ पुराण](https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%B0%E0%A5%81%E0%A4%A1%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A4%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83_%28%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83%29/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AB) 2.5.27 दसवें दिन गाँव के बाहर स्नान कहता है; गृह्यसूत्र ग्यारहवें दिन विषम संख्या में ब्राह्मण-भोजन (3.10.48) — यही बाद की तेरहवीं का मूल है। 'तेरहवीं' का नाम और उसका विस्तार क्षेत्र से बदलता है।",
+        "en": "[Garuda Purana](https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%B0%E0%A5%81%E0%A4%A1%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A4%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83_%28%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83%29/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AB) 2.5.27 prescribes the bath outside the village on the tenth day; the Grihya Sutra the feeding of an odd number of Brahmins on the eleventh (3.10.48) — the root of the later terahvi. The name 'terahvi' and its scale vary by region.",
+        "bho": "[गरुड़ पुराण](https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%B0%E0%A5%81%E0%A4%A1%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A4%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83_%28%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83%29/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AB) 2.5.27 दसवाँ दिन गाँव के बाहर नहान कहेला; गृह्यसूत्र एगारहवाँ दिन बिसम गिनती में ब्राह्मण-भोजन (3.10.48) — इहे बाद के तेरही के मूल बा। 'तेरही' के नाँव आ ओकर बिस्तार इलाका से बदलेला।"
+      }
+    },
+    {
+      "n": 6,
+      "layer": "paddhati",
+      "action": {
+        "hi": "बच्चे की मृत्यु पर — शास्त्र अवधि छोटी करता है: दाँत निकलने से पहले तत्काल शुद्धि, मुंडन से पहले एक रात, उपनयन से पहले तीन रात, उसके बाद दस। गृह्यसूत्र दो वर्ष से छोटे बच्चे के लिए एक या तीन रात कहता है और जल-दान नहीं कराता। इन दिनों पंडित का पहला काम परिवार को सहारा देना है; गिनती उसके बाद।",
+        "en": "At the death of a child — the shastra shortens the period: immediate purity before the teeth appear, one night before the mundan, three nights before the upanayana, ten after that. The Grihya Sutra gives one or three nights for a child under two and has no water offering. In these days the pandit's first task is to support the family; the count comes after.",
+        "bho": "लइका के मौत पर — शास्त्र अवधि छोट करेला: दाँत निकलला से पहिले तुरते सुद्धि, मुंडन से पहिले एक रात, उपनयन से पहिले तीन रात, ओकरा बाद दस। गृह्यसूत्र दू बरिस से छोट लइका खातिर एक भा तीन रात कहेला आ जल-दान ना करावे। एह दिन में पंडित के पहिला काम परिवार के सहारा दिहल बा; गिनती ओकरा बाद।"
+      },
+      "mantraIds": [
+        "pur-garuda-preta-5-12"
+      ]
+    },
+    {
+      "n": 7,
+      "layer": "lok",
+      "action": {
+        "hi": "बीच में पड़ी पूजा और आज का प्रचलन: तय विवाह, कथा या गृह प्रवेश सूतक-पातक में पड़े तो परंपरा दो रास्ते देती है — अवधि के बाद तक टालना, या (जहाँ टालना संभव न हो) कर्म दूसरे संबंधी से कराना जिस पर अशौच न हो; वार्षिक पर्व (दीवाली, होली) घर में बिना पूजा के, केवल सादगी से बीतते हैं। कई शहरी परिवार आज सूतक तीन दिन या छठी तक, और पातक तेरहवीं तक मानते हैं। जो रीति परिवार में चली आई है, पंडित उसी से गिनती बताता है।",
+        "en": "A puja that falls in between, and present practice: if a fixed wedding, katha or griha pravesh falls within a sutak or patak, tradition gives two ways — postpone it until after the period, or (where postponing is impossible) have the rite performed by another relative not under the impurity; the annual festivals (Diwali, Holi) pass at home without worship, in plainness. Many urban families today keep the sutak for three days or until the chhathi, and the patak until the terahvi. The pandit gives the count by the usage that has come down in the family.",
+        "bho": "बीच में पड़ल पूजा आ आज के चलन: तय बियाह, कथा भा गृह प्रवेश सूतक-पातक में पड़े त परंपरा दू रास्ता देले — अवधि के बाद तक टालल, भा (जहाँ टालल संभव ना होखे) करम दुसरा नातेदार से करावल जेकरा पर असौच ना होखे; सालाना पर्व (दिवाली, होली) घर में बिना पूजा के, खाली सादगी से बीतेला। कई सहरी परिवार आज सूतक तीन दिन भा छठी तक, आ पातक तेरही तक मानेला। जे रीति परिवार में चलत आइल बा, पंडित ओही से गिनती बतावेलन।"
+      },
+      "panditSays": {
+        "hi": "कथा तय थी और घर में सूतक आ गया — या तो दसवें दिन के बाद रखें, या आपके भाई के घर से करवा लें। जो आपके कुल में होता रहा है, वही करेंगे।",
+        "en": "The katha was fixed and the sutak has come — either hold it after the tenth day, or have it done from your brother's house. We will do what has been done in your family.",
+        "bho": "कथा तय रहे आ घर में सूतक आ गइल — चाहे दसवाँ दिन के बाद राखीं, चाहे राउर भाई के घर से करवा लीं। जे राउर कुल में होत रहल बा, उहे करब।"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "region": "hindi-belt / mithila / bhojpuri",
+      "what": {
+        "hi": "तेरहवीं का नाम और विस्तार क्षेत्र से बदलता है — हिंदी भाषी क्षेत्र में 'तेरहवीं', भोजपुरी में 'तेरही', मिथिला में अपनी रीति; पगड़ी की रस्म पंजाब-हरियाणा-पश्चिमी उत्तर प्रदेश का देशाचार है। पातक की समाप्ति कहीं बारहवें, कहीं तेरहवें दिन मानी जाती है। इन भेदों का कोई एक शास्त्रीय स्रोत नहीं है; 'प्रचलन बदलता है' — यही इस साइट का कथन है।",
+        "en": "The name and scale of the terahvi vary by region — 'terahvi' in the Hindi belt, 'terahi' in Bhojpuri, Mithila's own usage; the pagri ceremony is a regional custom of Punjab, Haryana and western Uttar Pradesh. The end of the patak is counted on the twelfth day in some places and the thirteenth in others. There is no single scriptural source for these differences; 'practice varies' is this site's statement.",
+        "bho": "तेरही के नाँव आ बिस्तार इलाका से बदलेला — हिंदी भाषी इलाका में 'तेरहवीं', भोजपुरी में 'तेरही', मिथिला में आपन रीति; पगड़ी के रसम पंजाब-हरियाना-पच्छिमी उत्तर प्रदेश के देसाचार बा। पातक के खतम कहीं बारहवाँ, कहीं तेरहवाँ दिन मानल जाला। एह भेद के कवनो एक शास्त्रीय स्रोत नइखे; 'चलन बदलेला' — इहे एह साइट के कथन बा।"
+      },
+      "source": "research-decisions"
+    },
+    {
+      "region": "grihyasutra / smriti",
+      "what": {
+        "hi": "गृह्यसूत्र का अपना क्रम दस दिन का नहीं, तीन रात और ग्यारहवें दिन के ब्राह्मण-भोजन का है; दशगात्र-एकादशाह-द्वादशाह-त्रयोदशाह का तेरह दिनी ढाँचा पुराणों ([गरुड़ पुराण सारोद्धार](https://sacred-texts.com/hin/gpu/index.htm)) का है, जिसे हिंदी भाषी पोथियाँ अपनाती हैं। दोनों परतें इस पृष्ठ पर अलग-अलग चिह्नित हैं।",
+        "en": "The Grihya Sutra's own scheme is not ten days but three nights and the feeding of Brahmins on the eleventh day; the thirteen-day frame of dashgatra, ekadashah, dwadashah and trayodashah is Puranic (the [Garuda Purana Saroddhara](https://sacred-texts.com/hin/gpu/index.htm)), adopted by the Hindi-belt handbooks. Both layers are marked separately on this page.",
+        "bho": "गृह्यसूत्र के आपन क्रम दस दिन के ना, तीन रात आ एगारहवाँ दिन के ब्राह्मण-भोजन के बा; दशगात्र-एकादशाह-द्वादशाह-त्रयोदशाह के तेरह दिन के ढाँचा पुरान ([गरुड़ पुराण सारोद्धार](https://sacred-texts.com/hin/gpu/index.htm)) के बा, जेकरा हिंदी भाषी पोथी अपनावेली। दुनो परत एह पन्ना पर अलगा-अलगा चिह्नित बा।"
+      },
+      "source": "research-r1"
+    }
+  ],
+  "faq": [
+    {
+      "q": {
+        "hi": "बच्चा अस्पताल में या दूसरे शहर में जन्मा — सूतक किस घर पर?",
+        "en": "The child was born in a hospital or in another city — on which house does the sutak fall?",
+        "bho": "बचवा अस्पताल में भा दुसरा सहर में जनमल — सूतक कवना घर पर?"
+      },
+      "a": {
+        "hi": "परंपरा में सूतक स्थान से नहीं, संबंध से जुड़ा है — वह पिता के कुल (सपिंडों) पर लगता है, चाहे जन्म कहीं हुआ हो; मायके में हुए जन्म पर मायके के घर में भी प्रचलन से कुछ दिन माने जाते हैं। स्मृति इसे और संकरा करती है — सूतक मुख्यतः माता का, पिता स्नान से शुद्ध। परिवार अपनी रीति से तय करें।",
+        "en": "In tradition the sutak attaches to the relationship, not the place — it falls on the father's lineage (the sapindas) wherever the birth took place; for a birth in the mother's parental home, that house also keeps a few days by custom. The smriti narrows it further — the sutak is chiefly the mother's, the father is clean after a bath. Families settle it by their own usage.",
+        "bho": "परंपरा में सूतक जगह से ना, संबंध से जुड़ल बा — ई बाबूजी के कुल (सपिंड लोग) पर लागेला, जनम कहीं भी भइल होखे; नइहर में भइल जनम पर नइहर के घर में भी चलन से कुछ दिन मानल जाला। स्मृति एकरा अउरी पातर करेले — सूतक मुख्य रूप से महतारी के, बाबूजी नहान से सुद्ध। परिवार आपन रीति से तय करे।"
+      }
+    },
+    {
+      "q": {
+        "hi": "सूतक में चल रहा व्रत या कथा क्या छूट जाता है?",
+        "en": "Does a vrat or katha already under way lapse during the sutak?",
+        "bho": "सूतक में चलत बरत भा कथा छूट जाला?"
+      },
+      "a": {
+        "hi": "नहीं — परंपरा में व्रत मन से रखा जाता है और उसकी पूजा-आरती अवधि के बाद या किसी संबंधी के घर से कराई जाती है; सत्यनारायण कथा जैसी तय कथा टाल दी जाती है या दूसरे घर से होती है। नाम-जप पर कोई रोक नहीं।",
+        "en": "No — in tradition the vrat is kept inwardly and its puja and aarti are done after the period or from a relative's house; a fixed katha such as the Satyanarayan katha is postponed or held from another house. There is no restriction on repeating the name.",
+        "bho": "ना — परंपरा में बरत मन से राखल जाला आ ओकर पूजा-आरती अवधि के बाद भा कवनो नातेदार के घर से करावल जाला; सत्यनारायण कथा जइसन तय कथा टाल दिहल जाला भा दुसरा घर से होला। नाँव-जप पर कवनो रोक नइखे।"
+      }
+    },
+    {
+      "q": {
+        "hi": "दिन कैसे गिने जाते हैं — तारीख़ से या तिथि से?",
+        "en": "How are the days counted — by date or by tithi?",
+        "bho": "दिन कइसे गिनल जाला — तारीख से भा तिथि से?"
+      },
+      "a": {
+        "hi": "घटना का दिन (सूर्योदय से सूर्योदय) पहला दिन है; पोथियाँ दिन से गिनती हैं, तिथि से नहीं, और रात में हुई घटना को अगले सूर्योदय से पहले होने पर पिछले दिन में गिनती हैं। दसवाँ दिन स्नान का, ग्यारहवाँ एकादशाह का। संदेह हो तो पंडित से गिनवा लें।",
+        "en": "The day of the event (sunrise to sunrise) is day one; the handbooks count by days, not tithis, and an event in the night before the next sunrise belongs to the previous day. The tenth day is for the bath, the eleventh for the ekadashah. When in doubt, have the pandit count.",
+        "bho": "घटना के दिन (सूर्योदय से सूर्योदय) पहिला दिन बा; पोथी दिन से गिनेले, तिथि से ना, आ रात में भइल घटना अगिला सूर्योदय से पहिले भइला पर पिछला दिन में गिनल जाला। दसवाँ दिन नहान के, एगारहवाँ एकादशाह के। शंका होखे त पंडित से गिनवा लीं।"
+      }
+    },
+    {
+      "q": {
+        "hi": "विधवा या मासिक धर्म में स्त्री पूजा में क्यों नहीं बैठती — यह नियम है?",
+        "en": "Why does a widow or a menstruating woman not sit in the puja — is that a rule?",
+        "bho": "विधवा भा महीना में मेहरारू पूजा में काहे ना बइठे — ई नियम बा?"
+      },
+      "a": {
+        "hi": "ये दोनों पुराने लोकाचार हैं, इस पृष्ठ के सूतक-पातक से अलग। मासिक धर्म के दिनों में देव-कर्म से दूरी की परंपरा घरों में रही है, और विधवा के मांगलिक कार्यों में आगे न आने की भी; आज बहुत से परिवार इन्हें नहीं मानते, और कई पंडित भी नहीं। यह साइट किसी को रोकने का नियम नहीं बनाती — परंपरा दर्ज है, निर्णय परिवार का है। स्वास्थ्य के प्रश्न चिकित्सक के हैं, पंडित के नहीं।",
+        "en": "Both are old customs, separate from the sutak and patak of this page. Households have kept a convention of distance from the rites of the gods during menstruation, and one of a widow not coming forward in auspicious rites; many families today do not keep them, and many pandits do not either. The site makes no rule that excludes anyone — the convention is recorded, the decision is the family's. Questions of health belong to the doctor, not the pandit.",
+        "bho": "ई दुनो पुरान लोकाचार बा, एह पन्ना के सूतक-पातक से अलगा। महीना के दिन में देव-करम से दूरी के परंपरा घर में रहल बा, आ विधवा के मांगलिक काम में आगे ना आवे के भी; आज बहुते परिवार एकरा ना माने, आ कई पंडित भी ना। ई साइट केहू के रोके के नियम ना बनावे — परंपरा लिखल बा, फैसला परिवार के बा। स्वास्थ्य के सवाल डॉक्टर के बा, पंडित के ना।"
+      }
+    }
+  ],
+  "sensitive": [
+    "health",
+    "grief"
+  ],
+  "sources": [
+    "ws-pgs",
+    "ia-sbe29",
+    "ws-manusmriti-05",
+    "gretil-manu",
+    "ws-garuda-preta-05",
+    "gretil-garuda",
+    "research-r1",
+    "research-decisions"
+  ],
+  "tags": [
+    "foundations",
+    "sutak",
+    "patak",
+    "ashaucha",
+    "antyeshti",
+    "janma"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

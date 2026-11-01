@@ -13,11 +13,13 @@ export const LAYER_CHIP = { vedic: "chip-vedic", paddhati: "chip-paddhati", lok:
  * tail "पंडित…". A label before a colon works the same way ("मार्जन: पंडित…" → head "मार्जन") when the label is ≤ 60
  * characters and holds no sentence boundary (the corpus authors wrote 448 of the 1a steps this way — C1A-01 integrate).
  * Without a dash or label a short action is the title alone; a long one gets a ≤ 72-char head and keeps the full text.
+ * The tail is rendered as its own paragraph under the heading, so a Latin lowercase start ("Whom it falls on: relatives…")
+ * is capitalised (C1A-02 integrate; Devanagari has no case and is untouched).
  */
 export function splitAction(action) {
   const s = String(action ?? "").trim();
   const m = /^(.{2,80}?)\s+[—–]\s+([\s\S]+)$/.exec(s) || /^(.{2,80}?)\s+-\s+([\s\S]+)$/.exec(s) || /^((?:(?!\. |। |; |\? |! ).){2,60}?):\s+(\S[\s\S]*)$/.exec(s);
-  if (m) return { head: m[1].trim(), tail: m[2].trim() };
+  if (m) return { head: m[1].trim(), tail: m[2].trim().replace(/^[a-z]/, (c) => c.toUpperCase()) };
   if (s.length <= 80) return { head: s, tail: "" };
   const cut = s.slice(0, 72);
   const i = Math.max(cut.lastIndexOf(" "), 30);

@@ -1,0 +1,376 @@
+{
+  "id": "pandit-shishtachar",
+  "code": "F16",
+  "group": "foundations",
+  "phase": 1,
+  "title": {
+    "hi": "पंडित की शिष्टाचार-पुस्तिका",
+    "en": "The pandit's book of conduct",
+    "bho": "पंडित के शिष्टाचार-पोथी"
+  },
+  "lede": {
+    "hi": "यजमान से बातचीत, दक्षिणा की साफ़ बात, तीन घंटे की पूजा का समय-प्रबंधन और पोथी में क्या-क्या रहे — वह सब जो मंत्रों के बाहर एक अच्छे पुरोहित को बनाता है।",
+    "en": "Talking with the host, speaking plainly about the dakshina, pacing a three-hour puja and what belongs in the pothi — everything outside the mantras that makes a good purohit.",
+    "bho": "जजमान से बातचीत, दक्खिना के साफ बात, तीन घंटा के पूजा के समय-प्रबंधन आ पोथी में का-का रहे — ऊ सब जे मंत्र के बाहर एक नीक पुरोहित बनावेला।"
+  },
+  "overview": {
+    "hi": "मंत्र शुद्ध हों और क्रम ठीक हो, यह [[purohit]] का आधा काम है; बाकी आधा [[yajman]] के साथ उसका व्यवहार है। यह पृष्ठ उस आधे के लिए है — इसमें कोई मंत्र नहीं, केवल वह रीति जो हिंदी भाषी क्षेत्र के अनुभवी पंडित नए सीखने वालों को सिखाते हैं। तीन संबंध हैं: परिवार से (पहले से बात, साफ़ [[dakshina]], सरल भाषा), परंपरा से ([[pothi]] और [[panchang]] का सम्मान, कुल की रीति को 'भेद' मानना, 'भूल' नहीं), और समय से (पूजा उतनी ही लंबी जितनी कही गई हो)। यहाँ के 'चरण' किसी विधि के नहीं, एक पूजा के दिन के पड़ाव हैं — पहले की बातचीत से विदा तक; 'सामग्री' पंडित का अपना थैला है। गृह्यसूत्र की एक पंक्ति इस पूरे पृष्ठ का आधार है: विवाह और अंत्येष्टि में 'ग्राम' यानी परिवार और देश की रीति प्रमाण है ([पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) 1.8.11–13) — पंडित सिखाता है, पर रीति परिवार की चलती है। सीखने की यह राह हर पढ़ने वाले के लिए खुली है।",
+    "en": "Correct mantras and the right sequence are half of a purohit's work; the other half is how he deals with the host. This page is for that other half — it has no mantras, only the manner that experienced Hindi-belt pandits pass on to beginners. There are three relationships: with the family (a talk beforehand, a plain word about the dakshina, simple language), with the tradition (respect for the pothi and the panchang, treating a family's usage as a 'variant', never as a 'mistake'), and with time (a puja exactly as long as was promised). The 'steps' here are not those of a rite but the stages of a puja day, from the first conversation to leaving; the 'samagri' is the pandit's own bag. One line of the Grihya Sutra underlies the whole page: at weddings and funerals the 'village' — the usage of the family and the region — is the authority ([Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) 1.8.11–13). The pandit teaches, but the family's custom prevails. This path of learning is open to every reader.",
+    "bho": "मंत्र सुद्ध होखे आ क्रम ठीक होखे, ई [[purohit]] के आधा काम बा; बाकी आधा [[yajman]] संगे उनकर व्यवहार बा। ई पन्ना ओह आधा खातिर बा — एमें कवनो मंत्र नइखे, खाली ऊ रीति जे हिंदी भाषी इलाका के अनुभवी पंडित नया सीखे वाला के सिखावेलन। तीन संबंध बा: परिवार से (पहिलहीं बात, साफ [[dakshina]], सरल भाषा), परंपरा से ([[pothi]] आ [[panchang]] के सम्मान, कुल के रीति के 'भेद' मानल, 'भूल' ना), आ समय से (पूजा ओतने लमहर जेतना कहल गइल होखे)। इहाँ के 'चरन' कवनो विधि के ना, एक पूजा के दिन के पड़ाव बा — पहिले के बातचीत से बिदाई तक; 'सामग्री' पंडित के आपन झोरा बा। गृह्यसूत्र के एक पंक्ति एह पूरा पन्ना के आधार बा: बियाह आ अंत्येष्टि में 'ग्राम' माने परिवार आ देस के रीति प्रमान बा ([पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) 1.8.11–13) — पंडित सिखावेलन, बाकिर रीति परिवार के चलेला। सीखे के ई राह हर पढ़े वाला खातिर खुलल बा।"
+  },
+  "when": {
+    "rules": {
+      "hi": "कोई मुहूर्त नहीं — यह पृष्ठ हर अवसर के पहले एक बार पढ़ने के लिए है, और पहली पूजा करवाने से पहले ज़रूर। पूजा की तिथि और [[muhurat]] हर अवसर के अपने पृष्ठ पर हैं; किसी वर्ष की तारीख़ों के लिए [शुभवेला के मुहूर्त-पृष्ठ](https://sudish007.github.io/shubhvela/hi/muhurat/) देखें।",
+      "en": "No muhurat — this page is to be read once before any occasion, and certainly before officiating for the first time. The date and muhurat of a puja are on each occasion's own page; for the dates of any year see [Shubhvela's muhurat pages](https://sudish007.github.io/shubhvela/en/muhurat/).",
+      "bho": "कवनो मुहूरत ना — ई पन्ना हर अवसर से पहिले एक बेर पढ़े खातिर बा, आ पहिला पूजा करवावे से पहिले जरूर। पूजा के तिथि आ [[muhurat]] हर अवसर के आपन पन्ना पर बा; कवनो साल के तारीख खातिर [शुभवेला के मुहूरत-पन्ना](https://sudish007.github.io/shubhvela/bho/muhurat/) देखीं।"
+    },
+    "shubhvela": {
+      "muhurat": null,
+      "festival": null,
+      "vrat": null
+    }
+  },
+  "roles": [
+    {
+      "role": {
+        "hi": "पुरोहित",
+        "en": "Purohit",
+        "bho": "पुरोहित"
+      },
+      "does": {
+        "hi": "पहले से बात करना, सामग्री-सूची भेजना, समय पर पहुँचना, हर क्रिया को यजमान की भाषा में बताना, दक्षिणा की बात पहले और साफ़ करना, पूजा कही गई अवधि में पूरी करना।",
+        "en": "Talks beforehand, sends the samagri list, arrives on time, explains each act in the host's language, settles the dakshina plainly and in advance, finishes the puja within the promised time.",
+        "bho": "पहिलहीं बात कइल, सामग्री-सूची भेजल, समय पर पहुँचल, हर काम जजमान के भाषा में बतावल, दक्खिना के बात पहिले आ साफ कइल, पूजा कहल गइल अवधि में पूरा कइल।"
+      }
+    },
+    {
+      "role": {
+        "hi": "यजमान",
+        "en": "The host",
+        "bho": "जजमान"
+      },
+      "does": {
+        "hi": "अवसर, तिथि, परिवार की रीति, कुलदेवता और गोत्र बताना; सामग्री जुटाना; पूजा में प्रश्न पूछना — यह उसका अधिकार है; दक्षिणा पहले से तय करना।",
+        "en": "Tells the occasion, the date, the family's usage, the family deity and the gotra; gathers the samagri; asks questions during the puja — that is his right; agrees the dakshina in advance.",
+        "bho": "अवसर, तिथि, परिवार के रीति, कुलदेवता आ गोत्र बतावल; सामग्री जुटावल; पूजा में सवाल पूछल — ई उनकर अधिकार बा; दक्खिना पहिलहीं तय कइल।"
+      }
+    },
+    {
+      "role": {
+        "hi": "परिवार",
+        "en": "The family",
+        "bho": "परिवार"
+      },
+      "does": {
+        "hi": "बैठने की जगह, जल, आसन और एक सहायक (जो सामग्री उठाए) देना; बच्चों और फ़ोन का प्रबंध; प्रसाद और भोजन का समय पंडित से मिलाना।",
+        "en": "Provides the seating, water, mats and one helper to pass the materials; manages children and phones; agrees the time of prasad and the meal with the pandit.",
+        "bho": "बइठे के जगह, जल, आसन आ एक सहायक (जे सामग्री उठावे) दिहल; लइकन आ फोन के प्रबंध; परसाद आ भोजन के समय पंडित से मिलावल।"
+      }
+    }
+  ],
+  "samagri": [
+    {
+      "id": "pothi",
+      "item": {
+        "hi": "पोथी — अवसर की पद्धति (क्रम, मंत्र स्वर-चिह्नों के साथ, संकल्प के रिक्त स्थान)",
+        "en": "The pothi — the handbook of the occasion (sequence, mantras with svara marks, the sankalpa blanks)",
+        "bho": "पोथी — अवसर के पद्धति (क्रम, स्वर-चिह्न वाला मंत्र, संकल्प के खाली जगह)"
+      },
+      "qty": "1",
+      "must": true,
+      "note": {
+        "hi": "यह साइट का पोथी-रूप छपा हुआ या फ़ोन में ऑफ़लाइन सहेजा हुआ भी चलता है।",
+        "en": "This site's pothi mode, printed or saved offline on the phone, serves the same purpose.",
+        "bho": "ई साइट के पोथी-रूप छपल भा फोन में ऑफलाइन सहेजल भी चलेला।"
+      }
+    },
+    {
+      "id": "panchang",
+      "item": {
+        "hi": "चालू वर्ष का पंचांग — संकल्प और मुहूर्त के लिए",
+        "en": "This year's panchang — for the sankalpa and the muhurat",
+        "bho": "चालू साल के पंचांग — संकल्प आ मुहूरत खातिर"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "asan",
+      "item": {
+        "hi": "अपना आसन (कुश या ऊन का)",
+        "en": "One's own seat (kusha or wool)",
+        "bho": "आपन आसन (कुश भा ऊन के)"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "kush",
+      "item": {
+        "hi": "कुश — पवित्री और छिड़काव के लिए",
+        "en": "Kusha grass — for the ring and for sprinkling",
+        "bho": "कुश — पवित्री आ छिड़काव खातिर"
+      },
+      "qty": "एक मुट्ठी",
+      "must": true
+    },
+    {
+      "id": "achamani",
+      "item": {
+        "hi": "आचमनी और पंचपात्र",
+        "en": "Achamani spoon and panchapatra",
+        "bho": "आचमनी आ पंचपात्र"
+      },
+      "qty": "1-1",
+      "must": true
+    },
+    {
+      "id": "raksha-sutra",
+      "item": {
+        "hi": "रक्षासूत्र (कलावा) और अतिरिक्त जनेऊ",
+        "en": "Raksha-sutra thread (kalava) and a spare sacred thread",
+        "bho": "रक्षासूत्र (कलावा) आ अतिरिक्त जनेऊ"
+      },
+      "qty": "1 गोला, 2",
+      "must": true
+    },
+    {
+      "id": "kapur",
+      "item": {
+        "hi": "कपूर, माचिस, रुई की बत्ती",
+        "en": "Camphor, matches, cotton wicks",
+        "bho": "कपूर, माचिस, रुई के बाती"
+      },
+      "qty": "थोड़ा",
+      "must": false
+    },
+    {
+      "id": "parchi",
+      "item": {
+        "hi": "कलम और पर्ची — गोत्र, नाम, स्थान, समय लिखने के लिए",
+        "en": "Pen and paper — to note the gotra, names, place and time",
+        "bho": "कलम आ पर्ची — गोत्र, नाँव, जगह, समय लिखे खातिर"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "ghadi",
+      "item": {
+        "hi": "घड़ी — हर पड़ाव का समय देखने के लिए",
+        "en": "A watch — to keep the time of each stage",
+        "bho": "घड़ी — हर पड़ाव के समय देखे खातिर"
+      },
+      "qty": "1",
+      "must": false
+    }
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "layer": "lok",
+      "minutes": 20,
+      "action": {
+        "hi": "पहले दिन की बातचीत: अवसर कौन-सा है, तिथि क्या सोची है (मुहूर्त पंचांग से मिलाएँ), परिवार किस परंपरा और क्षेत्र का है, कुलदेवता और गोत्र क्या है, कौन बैठेगा, कितने लोग होंगे, कितना समय है। इसी बातचीत में सामग्री-सूची दें और दक्षिणा की बात साफ़ करें।",
+        "en": "The first conversation: which occasion, which date is in mind (check the muhurat against the panchang), which tradition and region the family belongs to, the family deity and the gotra, who will sit, how many people, how much time. In this same conversation give the samagri list and speak plainly about the dakshina.",
+        "bho": "पहिला दिन के बातचीत: अवसर कवन बा, तिथि का सोचल बा (मुहूरत पंचांग से मिलाईं), परिवार कवना परंपरा आ इलाका के बा, कुलदेवता आ गोत्र का बा, के बइठी, केतना लोग होई, केतना समय बा। एही बातचीत में सामग्री-सूची दीं आ दक्खिना के बात साफ करीं।"
+      },
+      "samagriIds": [
+        "panchang",
+        "parchi"
+      ],
+      "panditSays": {
+        "hi": "पूजा किस दिन सोची है? उस दिन का मुहूर्त देख लेता हूँ। आपके कुल में यह पूजा किस तरह होती रही है — वही क्रम रखेंगे। सामग्री की सूची मैं भेज देता हूँ, और दक्षिणा की बात भी अभी कर लेते हैं ताकि उस दिन कोई संकोच न रहे।",
+        "en": "Which day do you have in mind? Let me check that day's muhurat. How has this puja been done in your family — we will keep that order. I will send the samagri list, and let us settle the dakshina now too, so that there is no awkwardness on the day.",
+        "bho": "पूजा कवना दिन सोचल बा? ओह दिन के मुहूरत देख लेत बानी। राउर कुल में ई पूजा कइसे होत रहल बा — उहे क्रम राखब। सामग्री के सूची हम भेज देब, आ दक्खिना के बात भी अबहीं कर लीं जा जेसे ओह दिन कवनो संकोच ना रहे।"
+      },
+      "note": {
+        "hi": "सूतक या पातक चल रहा हो तो यही समय है पूछने का — देखें [सूतक-पातक](/occasions/sutak-patak/)। परिवार की रीति पोथी से अलग हो तो उसे 'भेद' कहें, 'गलत' नहीं।",
+        "en": "If a sutak or patak is running, this is the moment to ask — see [sutak and patak](/occasions/sutak-patak/). If the family's usage differs from the pothi, call it a 'variant', not 'wrong'.",
+        "bho": "सूतक भा पातक चलत होखे त इहे समय बा पूछे के — देखीं [सूतक-पातक](/occasions/sutak-patak/)। परिवार के रीति पोथी से अलगा होखे त ओकरा 'भेद' कहीं, 'गलत' ना।"
+      }
+    },
+    {
+      "n": 2,
+      "layer": "paddhati",
+      "minutes": 15,
+      "action": {
+        "hi": "पोथी तैयार करना: अवसर की पद्धति को एक बार पूरा पढ़ें, संकल्प के रिक्त स्थान पर्ची से भर लें, जिन मंत्रों में संदेह हो उन्हें [शुक्ल यजुर्वेद](https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%AF%E0%A4%9C%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83) के मूल से मिला लें, और हर पड़ाव के आगे मिनट लिख लें। जो नहीं पढ़ेंगे, उसे पहले ही तय कर लें — बीच में छोड़ना नहीं।",
+        "en": "Preparing the pothi: read the occasion's procedure through once, fill the sankalpa blanks from the slip, check any mantra in doubt against the [Shukla Yajurveda](https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%AF%E0%A4%9C%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83) text, and write the minutes next to each stage. Decide beforehand what will not be recited — nothing is dropped midway.",
+        "bho": "पोथी तइयार कइल: अवसर के पद्धति एक बेर पूरा पढ़ीं, संकल्प के खाली जगह पर्ची से भर लीं, जे मंत्र में शंका होखे ओकरा [शुक्ल यजुर्वेद](https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%AF%E0%A4%9C%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83) के मूल से मिला लीं, आ हर पड़ाव के आगे मिनट लिख लीं। जे ना पढ़ब, ओकरा पहिलहीं तय कर लीं — बीच में छोड़ल ना।"
+      },
+      "samagriIds": [
+        "pothi",
+        "parchi"
+      ],
+      "note": {
+        "hi": "पोथी में क्या रहे: अवसर का क्रम, हर चरण का मंत्र स्वर-चिह्नों के साथ, पंडित की बोली जाने वाली पंक्ति, संकल्प-वाक्य, सामग्री-सूची, और अंत में आरती-विसर्जन। हिंदी भाषी क्षेत्र के पंडितों की आम पोथी [नित्यकर्म पूजाप्रकाश](https://gitapress.org/product/nitya-karma-pooja-prakash-hindi-gita-press-gorakhpur-publication) जैसी पद्धतियाँ हैं; इस साइट का हर अवसर-पृष्ठ उसी ढंग का पोथी-रूप देता है।",
+        "en": "What the pothi holds: the order of the occasion, each step's mantra with svara marks, the line the pandit speaks, the sankalpa sentence, the samagri list, and at the end the aarti and visarjana. The common pothis of Hindi-belt pandits are handbooks like the [Nitya Karma Puja Prakash](https://gitapress.org/product/nitya-karma-pooja-prakash-hindi-gita-press-gorakhpur-publication); every occasion page of this site offers a pothi mode built the same way.",
+        "bho": "पोथी में का रहे: अवसर के क्रम, हर चरन के मंत्र स्वर-चिह्न संगे, पंडित के बोले वाला पंक्ति, संकल्प-वाक्य, सामग्री-सूची, आ अंत में आरती-विसर्जन। हिंदी भाषी इलाका के पंडित लोग के आम पोथी [नित्यकर्म पूजाप्रकाश](https://gitapress.org/product/nitya-karma-pooja-prakash-hindi-gita-press-gorakhpur-publication) जइसन पद्धति बा; एह साइट के हर अवसर-पन्ना ओही ढंग के पोथी-रूप देला।"
+      }
+    },
+    {
+      "n": 3,
+      "layer": "lok",
+      "minutes": 30,
+      "action": {
+        "hi": "पहुँचना और बैठना: कहे गए समय से आधा घंटा पहले पहुँचें, स्वच्छ धोती-कुर्ता या जो कुल की रीति हो; बड़ों को प्रणाम; पूजा-स्थान देखें — यजमान पूर्व या उत्तर मुख, पंडित उसके दाहिने या सामने; चौकी, कलश और हवन-कुंड की जगह तय करें; सामग्री की सूची से मिलान करें और जो कम हो, उसका विकल्प बताएँ (हर चीज़ के लिए पोथी में छूट है)।",
+        "en": "Arriving and settling: come half an hour before the agreed time, in a clean dhoti-kurta or whatever the family's usage is; greet the elders; look at the puja place — the host faces east or north, the pandit sits to his right or opposite; fix the places of the chauki, the kalash and the havan-kund; check the materials against the list and name a substitute for anything missing (the pothi allows one for everything).",
+        "bho": "पहुँचल आ बइठल: कहल समय से आधा घंटा पहिले पहुँचीं, साफ धोती-कुरता भा जे कुल के रीति होखे; बड़न के परनाम; पूजा-जगह देखीं — जजमान पूरब भा उत्तर मुँह, पंडित उनकर दाहिने भा सामने; चौकी, कलश आ हवन-कुंड के जगह तय करीं; सामग्री के सूची से मिलाईं आ जे कम होखे, ओकर विकल्प बताईं (हर चीज खातिर पोथी में छूट बा)।"
+      },
+      "samagriIds": [
+        "asan",
+        "kush",
+        "achamani",
+        "raksha-sutra",
+        "kapur"
+      ],
+      "panditSays": {
+        "hi": "आप यहाँ पूर्व की ओर मुँह करके बैठिए; आपकी पत्नी आपके दाहिने। पहले मैं बता दूँ कि आज क्या-क्या होगा और कितना समय लगेगा।",
+        "en": "Please sit here facing east; your wife on your right. First let me tell you what will happen today and how long it will take.",
+        "bho": "रउआ इहाँ पूरब ओर मुँह करके बइठीं; राउर घरवाली राउर दाहिने। पहिले हम बता दीं कि आज का-का होई आ केतना समय लागी।"
+      }
+    },
+    {
+      "n": 4,
+      "layer": "paddhati",
+      "minutes": 180,
+      "important": true,
+      "action": {
+        "hi": "पूजा चलाना — तीन घंटे का सामान्य ढाँचा: [आचमन-पवित्रीकरण](/occasions/achaman-pavitrikaran/) और संकल्प 10 मिनट; गणेश-अंबिका पूजन 15; कलश-स्थापना 15; नवग्रह और षोडश मातृका 25; मुख्य पूजन (षोडशोपचार या कथा) 45–60; हवन 40; आरती, पुष्पांजलि, क्षमा-प्रार्थना, विसर्जन 15। हर चरण से पहले एक वाक्य में बताएँ कि अब क्या होगा और यजमान को क्या करना है; मंत्र उतने ही पढ़ें जितने कहे गए हों; प्रश्न का उत्तर दें, डाँट न लगाएँ।",
+        "en": "Running the puja — the usual three-hour frame: [achamana and pavitrikarana](/occasions/achaman-pavitrikaran/) and sankalpa 10 minutes; Ganesh-Ambika pujan 15; kalash sthapana 15; navagraha and the sixteen matrikas 25; the main worship (shodashopachara or katha) 45–60; havan 40; aarti, pushpanjali, kshama-prarthana, visarjana 15. Before each step say in one sentence what comes now and what the host must do; recite as many mantras as were promised; answer questions, never scold.",
+        "bho": "पूजा चलावल — तीन घंटा के आम ढाँचा: [आचमन-पवित्रीकरण](/occasions/achaman-pavitrikaran/) आ संकल्प 10 मिनट; गणेश-अंबिका पूजन 15; कलश-स्थापना 15; नवग्रह आ षोडश मातृका 25; मुख्य पूजन (षोडशोपचार भा कथा) 45–60; हवन 40; आरती, पुष्पांजलि, क्षमा-प्रार्थना, विसर्जन 15। हर चरन से पहिले एक वाक्य में बताईं कि अब का होई आ जजमान के का करे के बा; मंत्र ओतने पढ़ीं जेतना कहल गइल होखे; सवाल के जवाब दीं, डाँट ना लगाईं।"
+      },
+      "samagriIds": [
+        "pothi",
+        "ghadi"
+      ],
+      "panditSays": {
+        "hi": "अब हम गणेश जी और गौरी जी का पूजन करेंगे — आप हर बार जब मैं 'समर्पयामि' कहूँ, थोड़ा अक्षत चढ़ाइए। लगभग पंद्रह मिनट।",
+        "en": "Now we worship Ganesh and Gauri — each time I say 'samarpayami', offer a little rice. About fifteen minutes.",
+        "bho": "अब हमनी के गणेश जी आ गौरी जी के पूजन करब — रउआ हर बेर जब हम 'समर्पयामि' कहीं, तनी अछत चढ़ाईं। लगभग पंद्रह मिनट।"
+      },
+      "note": {
+        "hi": "फ़ोन बजे, बच्चा रोए, कोई उठे — पूजा रुकती नहीं, पंडित की आवाज़ और शांत होती है। कहे गए समय से बहुत आगे जाना यजमान का भरोसा तोड़ता है; समय कम हो तो पहले ही कहें कि कौन-सा चरण संक्षेप में होगा। प्रत्येक चरण का विवरण उस अवसर के पृष्ठ पर है।",
+        "en": "A phone rings, a child cries, someone gets up — the puja does not stop, the pandit's voice only grows calmer. Running far past the promised time breaks the host's trust; if time is short, say in advance which step will be shortened. Each step is described on the page of that occasion.",
+        "bho": "फोन बाजे, लइका रोवे, केहू उठे — पूजा ना रुके, पंडित के आवाज अउरी शांत होला। कहल समय से बहुते आगे जाइल जजमान के भरोसा तूरेला; समय कम होखे त पहिलहीं कहीं कि कवन चरन संछेप में होई। हर चरन के बिवरन ओह अवसर के पन्ना पर बा।"
+      }
+    },
+    {
+      "n": 5,
+      "layer": "lok",
+      "minutes": 10,
+      "important": true,
+      "action": {
+        "hi": "दक्षिणा और दान: पूर्णाहुति या आरती के बाद, विसर्जन से पहले, यजमान पंडित को दक्षिणा देता है — वही जो पहले तय हुई थी, न कम न ज़्यादा माँगी जाती है। परंपरा में माना जाता है कि दक्षिणा से कर्म पूर्ण होता है, इसीलिए यह विधि का अंग है; इसकी बात पूजा के बीच में कभी नहीं होती। साथ के दान (वस्त्र, अन्न, पात्र) का उल्लेख पहले हो चुका हो।",
+        "en": "Dakshina and gifts: after the purnahuti or the aarti, before the visarjana, the host gives the pandit the dakshina — exactly what was agreed, nothing more is asked. Tradition holds that the dakshina completes the rite, which is why it is part of the procedure; it is never discussed in the middle of the puja. Any accompanying gifts (cloth, grain, vessels) should have been mentioned beforehand.",
+        "bho": "दक्खिना आ दान: पूर्णाहुति भा आरती के बाद, विसर्जन से पहिले, जजमान पंडित के दक्खिना देला — उहे जे पहिले तय भइल रहे, ना कम ना बेसी माँगल जाला। परंपरा में मानल जाला कि दक्खिना से करम पूरा होला, एही से ई विधि के अंग बा; एकर बात पूजा के बीच में कबो ना होला। संगे के दान (कपड़ा, अन्न, बरतन) के जिकिर पहिले हो चुकल होखे।"
+      },
+      "panditSays": {
+        "hi": "अब यजमान पंडित को दक्षिणा दें — हाथ में जल और अक्षत लेकर, 'यह दक्षिणा कर्म की पूर्णता के लिए' इस भावना से।",
+        "en": "Now the host gives the pandit the dakshina — with water and rice in hand, with the thought 'this dakshina completes the rite'.",
+        "bho": "अब जजमान पंडित के दक्खिना दें — हाथ में जल आ अछत लेके, 'ई दक्खिना करम के पूरा होखे खातिर' एह भावना से।"
+      },
+      "note": {
+        "hi": "गृह्यसूत्र स्वयं विवाह के अंत में आचार्य को दक्षिणा देने का विधान करता है ([पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) 1.8; [ओल्डेनबर्ग का अनुवाद](https://archive.org/details/india.history.resource.89728)) — यह कोई आधुनिक जोड़ नहीं है। 'सामर्थ्य के अनुसार' परंपरा की अपनी पंक्ति है; जो परिवार कम दे सके, उससे पूजा छोटी नहीं होती।",
+        "en": "The Grihya Sutra itself prescribes the gift to the acharya at the end of the wedding ([Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) 1.8; [Oldenberg's translation](https://archive.org/details/india.history.resource.89728)) — this is no modern addition. 'According to one's means' is the tradition's own phrase; a family that can give less does not get a smaller puja.",
+        "bho": "गृह्यसूत्र खुदे बियाह के अंत में आचार्य के दक्खिना देवे के विधान करेला ([पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) 1.8; [ओल्डेनबर्ग के अनुवाद](https://archive.org/details/india.history.resource.89728)) — ई कवनो नया जोड़ ना। 'सामर्थ्य के अनुसार' परंपरा के आपन पंक्ति बा; जे परिवार कम दे सके, ओकरा से पूजा छोट ना होला।"
+      }
+    },
+    {
+      "n": 6,
+      "layer": "lok",
+      "minutes": 10,
+      "action": {
+        "hi": "विदा और आगे की बात: विसर्जन के बाद परिवार को बताएँ कि कलश का जल कहाँ डालें, प्रसाद कैसे बाँटें, पूजा की सामग्री (नारियल, वस्त्र, पंचमेवा) कहाँ जाए, और अगला पड़ाव क्या है (उद्यापन, तेरहवीं, चौथी, बरसी)। पूजा-स्थान जैसा मिला था, वैसा छोड़ें। कोई फल-वादा न करें — जो परंपरा कहती है, वही कहें।",
+        "en": "Leaving and what comes next: after the visarjana tell the family where the kalash water goes, how the prasad is shared, where the puja materials (coconut, cloth, dry fruit) go, and what the next stage is (udyapan, terahvi, chauthi, barsi). Leave the puja place as it was found. Promise no results — say only what the tradition says.",
+        "bho": "बिदाई आ आगे के बात: विसर्जन के बाद परिवार के बताईं कि कलश के जल कहाँ डालल जाए, परसाद कइसे बाँटल जाए, पूजा के सामग्री (नरियर, कपड़ा, पंचमेवा) कहाँ जाए, आ अगिला पड़ाव का बा (उद्यापन, तेरही, चउथी, बरसी)। पूजा-जगह जइसन मिलल रहे, ओइसन छोड़ीं। कवनो फल-वादा ना करीं — जे परंपरा कहेले, उहे कहीं।"
+      },
+      "panditSays": {
+        "hi": "कलश का जल तुलसी में या किसी पौधे में डाल दीजिए; प्रसाद सबको दीजिए। परंपरा में माना जाता है कि यह पूजा घर में मंगल लाती है — बाकी सब आपके कर्म और भगवान की इच्छा पर है।",
+        "en": "Pour the kalash water at the Tulsi or any plant; give the prasad to all. Tradition holds that this puja brings well-being to the house — the rest rests on your own deeds and on God's will.",
+        "bho": "कलश के जल तुलसी में भा कवनो पौधा में डाल दीं; परसाद सभे के दीं। परंपरा में मानल जाला कि ई पूजा घर में मंगल ले आवेले — बाकी सब राउर करम आ भगवान के इच्छा पर बा।"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "region": "deshachar / kulachar",
+      "what": {
+        "hi": "हर क्षेत्र और कुल की अपनी रीतियाँ हैं — मिथिला में सिंदूरदान केंद्र में है, भोजपुरी क्षेत्र में द्वारपूजा और कोहबर, राजस्थान में तोरण और चार फेरे, पंजाब में सात। गृह्यसूत्र स्वयं कहता है कि विवाह और अंत्येष्टि में ग्राम (देश-कुल की रीति) प्रमाण है; टीकाकार इसे देशाचार, कुलाचार और जात्याचार तक ले जाते हैं। पंडित का काम रीति को शुद्ध मंत्रों से जोड़ना है, उसे काटना नहीं।",
+        "en": "Every region and lineage has its usages — sindoor-daan is central in Mithila, the dwar-puja and kohbar in the Bhojpuri belt, the toran and four rounds in Rajasthan, seven in Punjab. The Grihya Sutra itself says that at weddings and funerals the village (the usage of region and family) is the authority; the commentators extend this to deshachara, kulachara and jatyachara. The pandit's work is to join the usage to correct mantras, not to cut it out.",
+        "bho": "हर इलाका आ कुल के आपन रीति बा — मिथिला में सिंदूरदान केंद्र में बा, भोजपुरी इलाका में दुआर-पूजा आ कोहबर, राजस्थान में तोरन आ चार फेरा, पंजाब में सात। गृह्यसूत्र खुदे कहेला कि बियाह आ अंत्येष्टि में ग्राम (देस-कुल के रीति) प्रमान बा; टीकाकार एकरा देसाचार, कुलाचार आ जात्याचार तक ले जालन। पंडित के काम रीति के सुद्ध मंत्र से जोड़ल बा, ओकरा काटल ना।"
+      },
+      "source": "ws-pgs"
+    }
+  ],
+  "faq": [
+    {
+      "q": {
+        "hi": "दक्षिणा की बात कैसे करें — यह असुविधाजनक लगता है।",
+        "en": "How do we talk about the dakshina — it feels awkward.",
+        "bho": "दक्खिना के बात कइसे करीं — ई असुविधा लागेला।"
+      },
+      "a": {
+        "hi": "पहले दिन की बातचीत में, सामग्री-सूची के साथ, एक वाक्य में: 'इस पूजा की दक्षिणा इतनी होती है; आपकी सामर्थ्य जो हो, वह बता दें।' उस दिन फिर कोई बात नहीं — न बढ़ाना, न याद दिलाना। परंपरा में माना जाता है कि दक्षिणा के बिना कर्म अपूर्ण रहता है, पर उसकी मात्रा सामर्थ्य से तय होती है — यह दोनों पक्ष जानते हैं, इसलिए साफ़ बात संकोच हटाती है, बढ़ाती नहीं।",
+        "en": "In the first conversation, along with the samagri list, in one sentence: 'The dakshina for this puja is usually so much; tell me what your means allow.' On the day nothing more is said — no raising it, no reminders. Tradition holds that a rite stays incomplete without the dakshina, but that its amount is set by one's means — both sides know this, so a plain word removes the awkwardness rather than adding to it.",
+        "bho": "पहिला दिन के बातचीत में, सामग्री-सूची संगे, एक वाक्य में: 'एह पूजा के दक्खिना एतना होला; राउर सामर्थ्य जे होखे, ऊ बता दीं।' ओह दिन फेर कवनो बात ना — ना बढ़ावल, ना याद दिआवल। परंपरा में मानल जाला कि दक्खिना बिना करम अधूरा रहेला, बाकिर ओकर मात्रा सामर्थ्य से तय होला — ई दुनो पच्छ जानेला, एही से साफ बात संकोच हटावेला, बढ़ावे ना।"
+      }
+    },
+    {
+      "q": {
+        "hi": "परिवार की रीति पोथी से अलग हो तो किसकी मानें?",
+        "en": "If the family's usage differs from the pothi, which prevails?",
+        "bho": "परिवार के रीति पोथी से अलगा होखे त केकर मानीं?"
+      },
+      "a": {
+        "hi": "विवाह और अंत्येष्टि में परिवार की — [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) (1.8.11–13) की यही पंक्ति है: 'ग्रामवचनं च कुर्युः … तस्मात्तयोर्ग्रामः प्रमाणम्' — जो गाँव कहे, वह करें; इन दोनों में ग्राम प्रमाण है। मंत्र और उनका क्रम पंडित का क्षेत्र है, लोकाचार परिवार का। दोनों को साथ चलाना ही कला है; रीति को 'गलत' कहना इस साइट की भाषा में नहीं है।",
+        "en": "At weddings and funerals, the family's — this is the line of the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) (1.8.11–13): 'gramavachanam cha kuryuh … tasmat tayor gramah pramanam' — do what the village says; in these two the village is the authority. The mantras and their order are the pandit's domain, the customs the family's. Running both together is the craft; calling a usage 'wrong' is not in this site's vocabulary.",
+        "bho": "बियाह आ अंत्येष्टि में परिवार के — [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) (1.8.11–13) के इहे पंक्ति बा: 'ग्रामवचनं च कुर्युः … तस्मात्तयोर्ग्रामः प्रमाणम्' — जे गाँव कहे, ऊ करीं; एह दुनो में ग्राम प्रमान बा। मंत्र आ उनकर क्रम पंडित के क्षेत्र बा, लोकाचार परिवार के। दुनो के संगे चलावल ही कला बा; रीति के 'गलत' कहल एह साइट के भाषा में नइखे।"
+      }
+    },
+    {
+      "q": {
+        "hi": "कौन पंडित बन सकता है? क्या यह सीखना सबके लिए खुला है?",
+        "en": "Who can become a pandit? Is this learning open to all?",
+        "bho": "के पंडित बन सकेला? ई सीखल सभे खातिर खुलल बा?"
+      },
+      "a": {
+        "hi": "यह साइट किसी को जन्म या लिंग के कारण सीखने या करने से नहीं रोकती — सीखने की राह हर पढ़ने वाले के लिए खुली है। परंपरा में पौरोहित्य ब्राह्मण कुलों में पिता-गुरु से सीखा गया है; आज के विश्वविद्यालयों के कर्मकांड-पौरोहित्य डिप्लोमा हर स्नातक या इंटरमीडिएट पास के लिए खुले हैं, और पुणे की [ज्ञान प्रबोधिनी](https://www.jnanaprabodhini.org/paurohitya/) 1990 से स्त्रियों और सब वर्गों को पुरोहित-प्रशिक्षण देती है। किस परिवार में किसे बुलाया जाए, यह परिवार तय करता है। औपचारिक पाठ्यक्रमों की सूची 'सीखें' स्तर 0 पर है।",
+        "en": "This site stops no one from learning or officiating by reason of birth or sex — the path of learning is open to every reader. In tradition the purohit's craft was learnt within Brahmin families from father and guru; today's university diplomas in karmakanda and paurohitya are open to any graduate or intermediate pass, and [Jnana Prabodhini](https://www.jnanaprabodhini.org/paurohitya/) in Pune has trained women and people of all communities as purohits since 1990. Which family calls whom is the family's decision. The list of formal courses is on Learn level 0.",
+        "bho": "ई साइट केहू के जनम भा लिंग के कारन सीखे भा करे से ना रोके — सीखे के राह हर पढ़े वाला खातिर खुलल बा। परंपरा में पौरोहित्य ब्राह्मण कुल में बाबूजी-गुरु से सीखल गइल बा; आज के विश्वविद्यालय के कर्मकांड-पौरोहित्य डिप्लोमा हर स्नातक भा इंटरमीडिएट पास खातिर खुलल बा, आ पुणे के [ज्ञान प्रबोधिनी](https://www.jnanaprabodhini.org/paurohitya/) 1990 से मेहरारू आ सब वर्ग के पुरोहित-प्रशिक्षन देले। कवना परिवार में केकरा बोलावल जाए, ई परिवार तय करेला। औपचारिक पाठ्यक्रम के सूची 'सीखीं' स्तर 0 पर बा।"
+      }
+    },
+    {
+      "q": {
+        "hi": "पूजा तीन घंटे से छोटी करनी हो तो क्या छोड़ा जाता है?",
+        "en": "If the puja must be shorter than three hours, what is left out?",
+        "bho": "पूजा तीन घंटा से छोट करे के होखे त का छोड़ल जाला?"
+      },
+      "a": {
+        "hi": "पोथियों का क्रम यह है: मुख्य पूजन और संकल्प कभी नहीं छूटते; षोडशोपचार को पंचोपचार किया जा सकता है; नवग्रह-मातृका पूजन 'स्मरण' (नाम-मंत्र से अक्षत) में बदला जा सकता है; हवन की आहुतियाँ घटाई जा सकती हैं, पूर्णाहुति नहीं। जो घटाया जाए, वह यजमान को पहले बताया जाए — छोटी पूजा दोष नहीं है, बिना बताए छोटी करना है।",
+        "en": "The handbooks' order of priority: the main worship and the sankalpa are never dropped; the shodashopachara may become the panchopachara; the navagraha and matrika pujan may be reduced to 'smarana' (rice offered with the name-mantras); the havan's oblations may be fewer, but not the purnahuti. Whatever is shortened is told to the host beforehand — a short puja is no fault; shortening it unannounced is.",
+        "bho": "पोथी के क्रम ई बा: मुख्य पूजन आ संकल्प कबो ना छूटे; षोडशोपचार के पंचोपचार कइल जा सकेला; नवग्रह-मातृका पूजन 'स्मरन' (नाँव-मंत्र से अछत) में बदलल जा सकेला; हवन के आहुति घटावल जा सकेला, पूर्णाहुति ना। जे घटावल जाए, ऊ जजमान के पहिलहीं बतावल जाए — छोट पूजा दोष ना, बिना बतवले छोट कइल दोष बा।"
+      }
+    }
+  ],
+  "sources": [
+    "ws-pgs",
+    "ia-sbe29",
+    "research-r1",
+    "research-decisions",
+    "jnana-prabodhini",
+    "shubhvela"
+  ],
+  "tags": [
+    "foundations",
+    "pandit",
+    "dakshina",
+    "pothi",
+    "yajman"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

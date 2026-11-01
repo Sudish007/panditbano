@@ -205,6 +205,9 @@ test("stepTitle / splitAction: head before the dash, plain text for the rail, lo
   // a label before a colon is a head too (C1A-01 integrate: 448 of the 1a step actions are written "label: prose")
   assert.deepEqual(splitAction("पहली पाँच ऋचाएँ (VS 25.14–18): कल्याणकारी संकल्प आएँ, देवताओं की सुमति हो।"), { head: "पहली पाँच ऋचाएँ (VS 25.14–18)", tail: "कल्याणकारी संकल्प आएँ, देवताओं की सुमति हो।" });
   assert.deepEqual(splitAction("Two shanti mantras: 'dyauh shantih' (VS 36.17) and 'yato yatah samihase' (VS 36.22); then the pandit says — om."), { head: "Two shanti mantras", tail: "'dyauh shantih' (VS 36.17) and 'yato yatah samihase' (VS 36.22); then the pandit says — om." });
+  // the tail is a paragraph of its own: a Latin lowercase start is capitalised (C1A-02 integrate; Devanagari untouched)
+  assert.deepEqual(splitAction("Whom it falls on: relatives up to the seventh generation are sapindas."), { head: "Whom it falls on", tail: "Relatives up to the seventh generation are sapindas." });
+  assert.deepEqual(splitAction("Running the puja — the usual frame: achamana first."), { head: "Running the puja", tail: "The usual frame: achamana first." });
   // a colon after a sentence boundary is not a label: the long action is still cut at a word
   const sent = splitAction("आसन पर पूर्व या उत्तर मुख बैठें। [[achaman]]: दाहिनी हथेली में आचमनी से थोड़ा जल लें और अँगूठे की जड़ से तीन बार पिएँ।");
   assert.ok(sent.head.endsWith("…") && sent.tail.startsWith("आसन"));

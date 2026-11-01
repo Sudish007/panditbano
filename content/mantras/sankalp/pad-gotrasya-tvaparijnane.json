@@ -1,0 +1,80 @@
+{
+  "id": "pad-gotrasya-tvaparijnane",
+  "kind": "paddhati",
+  "locator": "Smriti line quoted in the Samskararatnamala (part 1, prakarana 12, gotra-pravara-nirnaya); the same rule as a sutra in part 2, prakarana 8 (गोत्राज्ञाने काश्यपगोत्रम्)",
+  "title": {
+    "hi": "गोत्र न जानने पर काश्यप गोत्र",
+    "en": "When the gotra is unknown: Kashyapa",
+    "bho": "गोत्र ना जनला पर काश्यप गोत्र"
+  },
+  "devanagari": "गोत्रस्य त्वपरिज्ञाने काश्यपं गोत्रमुच्यते ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "गोत्रस्य तु",
+      "gloss": {
+        "hi": "किंतु गोत्र के",
+        "en": "but of the gotra",
+        "bho": "बाकिर गोत्र के"
+      }
+    },
+    {
+      "sa": "अपरिज्ञाने",
+      "gloss": {
+        "hi": "न जानने पर",
+        "en": "when it is not known",
+        "bho": "ना जनला पर"
+      }
+    },
+    {
+      "sa": "काश्यपं गोत्रम्",
+      "gloss": {
+        "hi": "काश्यप गोत्र",
+        "en": "the Kashyapa gotra",
+        "bho": "काश्यप गोत्र"
+      }
+    },
+    {
+      "sa": "उच्यते",
+      "gloss": {
+        "hi": "कहा जाता है",
+        "en": "is declared",
+        "bho": "कहल जाला"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "किंतु जब गोत्र ज्ञात न हो, तब काश्यप गोत्र कहा जाता है।",
+    "en": "But when the gotra is not known, the gotra is declared to be Kashyapa.",
+    "bho": "बाकिर जब गोत्र मालूम ना होखे, तब काश्यप गोत्र कहल जाला।"
+  },
+  "explanation": {
+    "hi": "[[sankalp]] में [[gotra]] बोलना पड़ता है, और बहुत से परिवार अपना गोत्र नहीं जानते। धर्मशास्त्र के संग्रह-ग्रंथ [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A4%B6%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) (गोपीनाथ भट्ट दीक्षित, गोत्र-प्रवर-निर्णय प्रकरण) में यह स्मृति-वाक्य उद्धृत है और उसकी व्याख्या भी: यह नियम तब है जब पुरोहित या आचार्य का गोत्र न जाना जाए, और विवाह को छोड़कर बाकी कर्मों में — विवाह में गोत्र कुल की पहचान तय करता है, इसलिए वहाँ अनुमान नहीं चलता। उसी ग्रंथ के [श्राद्ध-प्रकरण](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A8%29/%E0%A4%85%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) में सूत्र-रूप में है: 'गोत्राज्ञाने काश्यपगोत्रम्' — गोत्र न जानने पर काश्यप गोत्र; और 'नामाज्ञाने … ब्रह्मविष्णुशिवशब्दैर्व्यवहारः' — पितरों का नाम न जानने पर (पिंडदान छोड़कर) ब्रह्मा, विष्णु, शिव के नाम बोले जाते हैं। व्यवहार में हिंदी भाषी क्षेत्र के पंडित इसी नियम से अज्ञात गोत्र वाले यजमान के लिए 'काश्यप गोत्र' बोलते हैं। परंपरा में इसका कारण यह बताया जाता है कि कश्यप ऋषि सब प्रजा के आदि-पुरुष माने गए हैं। यह केवल कर्म पूरा करने की रीति है — किसी के वंश के बारे में कथन नहीं।",
+    "en": "The sankalpa requires the gotra, and many families do not know theirs. The dharmashastra digest [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A4%B6%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) (Gopinatha Bhatta Dikshita, the section on gotra and pravara) quotes this smriti line and explains it: the rule applies when the gotra of the officiating purohit or acharya is unknown, and in rites other than marriage — at a marriage the gotra decides the lineage, so no guess is allowed there. The same digest's [shraddha section](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A8%29/%E0%A4%85%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) has the rule as a sutra: 'gotrajnane kashyapagotram' — when the gotra is unknown, Kashyapa gotra; and 'namajnane … brahma-vishnu-shiva-shabdair vyavaharah' — when an ancestor's name is unknown, the names Brahma, Vishnu and Shiva are spoken (except in pinda-dana). In practice the pandits of the Hindi belt follow this rule and say 'Kashyapa gotra' for a host who does not know his gotra. Tradition gives as the reason that the sage Kashyapa is counted as the first ancestor of all creatures. It is a convention for completing the rite, not a statement about anyone's descent.",
+    "bho": "[[sankalp]] में [[gotra]] बोले के पड़ेला, आ बहुते परिवार आपन गोत्र ना जानेला। धर्मशास्त्र के संग्रह-ग्रंथ [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A4%B6%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) (गोपीनाथ भट्ट दीक्षित, गोत्र-प्रवर-निर्नय प्रकरन) में ई स्मृति-वाक्य उद्धृत बा आ ओकर व्याख्या भी: ई नियम तब बा जब पुरोहित भा आचार्य के गोत्र ना जानल जाए, आ बियाह छोड़ के बाकी करम में — बियाह में गोत्र कुल के पहचान तय करेला, एही से ओहिजा अनुमान ना चले। ओही ग्रंथ के [श्राद्ध-प्रकरन](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A8%29/%E0%A4%85%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) में सूत्र-रूप में बा: 'गोत्राज्ञाने काश्यपगोत्रम्' — गोत्र ना जनला पर काश्यप गोत्र; आ 'नामाज्ञाने … ब्रह्मविष्णुशिवशब्दैर्व्यवहारः' — पितर के नाँव ना जनला पर (पिंडदान छोड़ के) ब्रह्मा, विष्णु, शिव के नाँव बोलल जाला। व्यवहार में हिंदी भाषी इलाका के पंडित एही नियम से अनजान गोत्र वाला जजमान खातिर 'काश्यप गोत्र' बोलेलन। परंपरा में एकर कारन ई बतावल जाला कि कश्यप ऋषि सब प्रजा के आदि-पुरुष मानल गइल बाड़न। ई खाली करम पूरा करे के रीति बा — केहू के वंश के बारे में कथन ना।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-samskararatnamala-1-12",
+    "retrieved": "2026-11-01",
+    "modified": "the half-shloka is quoted inside the digest's prose ('यत्तु— गोत्रस्य त्वपरिज्ञाने काश्यपं गोत्रमुच्यते । इति'); the quotation marks and इति are dropped and a closing double danda added"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ws-samskararatnamala-2-8",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "smriti verse quoted in a 17th–18th-century dharmashastra digest; Wikisource transcription of the Anandashrama edition CC BY-SA 4.0",
+  "tags": [
+    "sankalp",
+    "gotra",
+    "dharmashastra"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

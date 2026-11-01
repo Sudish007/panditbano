@@ -1,0 +1,101 @@
+{
+  "id": "pur-garuda-preta-5-10",
+  "kind": "puranic",
+  "text": "garud-puran-pretkand",
+  "locator": "Garuda Purana, Preta-khanda (Dharma-khanda) 2.5.10",
+  "title": {
+    "hi": "मृत्यु और जन्म — दोनों में दस दिन",
+    "en": "Death and birth — ten days for both",
+    "bho": "मौत आ जनम — दुनो में दस दिन"
+  },
+  "devanagari": "दशाहं शावमाशौचं सपिण्डेषु विधीयते । जननेऽप्येवमेव स्यान्निपुणं शुद्धिमिच्छताम् ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "दशाहम्",
+      "gloss": {
+        "hi": "दस दिन तक",
+        "en": "for ten days",
+        "bho": "दस दिन तक"
+      }
+    },
+    {
+      "sa": "शावम् आशौचम्",
+      "gloss": {
+        "hi": "मृत्यु का अशौच",
+        "en": "the death impurity",
+        "bho": "मौत के असौच"
+      }
+    },
+    {
+      "sa": "सपिण्डेषु विधीयते",
+      "gloss": {
+        "hi": "सपिंडों के लिए विधान है",
+        "en": "is prescribed for the sapindas",
+        "bho": "सपिंड लोग खातिर विधान बा"
+      }
+    },
+    {
+      "sa": "जनने अपि",
+      "gloss": {
+        "hi": "जन्म में भी",
+        "en": "at a birth too",
+        "bho": "जनम में भी"
+      }
+    },
+    {
+      "sa": "एवम् एव स्यात्",
+      "gloss": {
+        "hi": "ऐसा ही हो",
+        "en": "it is just the same",
+        "bho": "अइसहीं होखे"
+      }
+    },
+    {
+      "sa": "निपुणं शुद्धिम् इच्छताम्",
+      "gloss": {
+        "hi": "पूर्ण शुद्धि चाहने वालों के लिए",
+        "en": "for those who want complete purity",
+        "bho": "पूरा सुद्धि चाहे वाला लोग खातिर"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "सपिंडों के लिए मृत्यु का अशौच दस दिन का है; पूर्ण शुद्धि चाहने वालों के लिए जन्म में भी ऐसा ही है।",
+    "en": "For the sapindas the death impurity is ten days; for those who want complete purity it is just the same at a birth.",
+    "bho": "सपिंड लोग खातिर मौत के असौच दस दिन के बा; पूरा सुद्धि चाहे वाला लोग खातिर जनम में भी अइसहीं बा।"
+  },
+  "explanation": {
+    "hi": "यही श्लोक मनुस्मृति 5.61 में भी है; यहाँ यह [[garud-puran]] के प्रेतकांड (धर्मकांड) के पाँचवें अध्याय में श्रीकृष्ण गरुड़ को अशौच का लक्षण और काल बताते हुए कहते हैं — [गरुड़ पुराण, प्रेतकांड अध्याय 5](https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%B0%E0%A5%81%E0%A4%A1%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A4%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83_%28%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83%29/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AB)। हिंदी भाषी परिवारों में जन्म का सूतक और मृत्यु का पातक दोनों दस दिन के माने जाते हैं, और इस समानता का आधार यही पंक्ति है। 'निपुणं शुद्धिमिच्छताम्' — पूर्ण शुद्धि चाहने वालों के लिए — यह शब्द बताते हैं कि दस दिन स्मृति की दृष्टि में भी कठोर पक्ष है; कम दिन मानना भी शास्त्र-सम्मत विकल्प रहा है (5.59)। इसी अध्याय में आगे अस्थि-संचय के दिन (2.5.15), दस पिंडों का क्रम (2.5.18–22) और दसवें दिन गाँव के बाहर स्नान (2.5.27) आता है — यही वह पाठ है जो तेरह दिनों में घर पर पढ़ा जाता है।",
+    "en": "The same verse stands as Manusmriti 5.61; here Krishna speaks it to Garuda in the fifth chapter of the Garuda Purana's Preta-khanda (Dharma-khanda), defining the impurity and its length — [Garuda Purana Pretakanda 5](https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%B0%E0%A5%81%E0%A4%A1%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A4%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83_%28%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83%29/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AB). Hindi-belt families hold both the sutak of a birth and the patak of a death to be ten days, and this line is the basis of that symmetry. 'Nipunam shuddhim icchatam' — for those who want complete purity — shows that even in the smriti's eyes ten days is the strict side; keeping fewer days has also been a scripturally allowed option (5.59). Later in the same chapter come the days for gathering the bones (2.5.15), the sequence of ten pindas (2.5.18–22) and the bath outside the village on the tenth day (2.5.27) — this is the text read at home over the thirteen days.",
+    "bho": "इहे श्लोक मनुस्मृति 5.61 में भी बा; इहाँ ई [[garud-puran]] के प्रेतकांड (धर्मकांड) के पाँचवाँ अध्याय में श्रीकृष्ण गरुड़ के असौच के लच्छन आ काल बतावत कहेलन — [गरुड़ पुराण, प्रेतकांड अध्याय 5](https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%B0%E0%A5%81%E0%A4%A1%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A4%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83_%28%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83%29/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AB)। हिंदी भाषी परिवार में जनम के सूतक आ मौत के पातक दुनो दस दिन के मानल जाला, आ एह बराबरी के आधार इहे पंक्ति बा। 'निपुणं शुद्धिमिच्छताम्' — पूरा सुद्धि चाहे वाला लोग खातिर — ई शब्द बतावेला कि दस दिन स्मृति के नजर में भी कठोर पच्छ बा; कम दिन मानल भी शास्त्र-सम्मत विकल्प रहल बा (5.59)। एही अध्याय में आगे अस्थि-संचय के दिन (2.5.15), दस पिंडा के क्रम (2.5.18–22) आ दसवाँ दिन गाँव के बाहर नहान (2.5.27) आवेला — इहे ऊ पाठ बा जे तेरह दिन में घर पर पढ़ल जाला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-garuda-preta-05",
+    "retrieved": "2026-11-01",
+    "modified": "verse number ॥ २,५.१० ॥ removed; dandas set"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "gretil-garuda",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ws-manusmriti-05",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Puranic verse (Garuda Purana 2.5.10); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "sutak",
+    "ashaucha",
+    "garuda-purana"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

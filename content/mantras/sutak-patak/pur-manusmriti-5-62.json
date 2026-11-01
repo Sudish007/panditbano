@@ -1,0 +1,97 @@
+{
+  "id": "pur-manusmriti-5-62",
+  "kind": "puranic",
+  "text": "manusmriti",
+  "locator": "Manusmriti 5.62 (5.61 in the critical edition's numbering)",
+  "title": {
+    "hi": "सूतक किस पर — माता पर; पिता स्नान से शुद्ध",
+    "en": "On whom the sutak falls — the mother; the father is clean after a bath",
+    "bho": "सूतक केकरा पर — महतारी पर; बाबूजी नहा के सुद्ध"
+  },
+  "devanagari": "सर्वेषां शावमाशौचं मातापित्रोस्तु सूतकम् । सूतकं मातुरेव स्यादुपस्पृश्य पिता शुचिः ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "सर्वेषाम्",
+      "gloss": {
+        "hi": "सब (सपिंडों) का",
+        "en": "for all (the sapindas)",
+        "bho": "सब (सपिंड लोग) के"
+      }
+    },
+    {
+      "sa": "शावम् आशौचम्",
+      "gloss": {
+        "hi": "मृत्यु का अशौच",
+        "en": "the death impurity",
+        "bho": "मौत के असौच"
+      }
+    },
+    {
+      "sa": "मातापित्रोः तु सूतकम्",
+      "gloss": {
+        "hi": "किंतु सूतक (जन्म का अशौच) माता-पिता का",
+        "en": "but the sutak (birth impurity) is the parents'",
+        "bho": "बाकिर सूतक (जनम के असौच) महतारी-बाबूजी के"
+      }
+    },
+    {
+      "sa": "सूतकं मातुः एव स्यात्",
+      "gloss": {
+        "hi": "सूतक तो माता का ही है",
+        "en": "the sutak is really the mother's alone",
+        "bho": "सूतक त महतारी के ही बा"
+      }
+    },
+    {
+      "sa": "उपस्पृश्य",
+      "gloss": {
+        "hi": "स्नान (जल-स्पर्श) करके",
+        "en": "having bathed (touched water)",
+        "bho": "नहा के (जल छू के)"
+      }
+    },
+    {
+      "sa": "पिता शुचिः",
+      "gloss": {
+        "hi": "पिता शुद्ध है",
+        "en": "the father is clean",
+        "bho": "बाबूजी सुद्ध बाड़न"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "मृत्यु का अशौच सब (सपिंडों) पर है, किंतु जन्म का सूतक माता-पिता पर; और सूतक वास्तव में माता का ही है — पिता स्नान करके शुद्ध हो जाता है।",
+    "en": "The death impurity falls on all (the sapindas), but the birth sutak on the parents; and the sutak is really the mother's alone — the father is clean after a bath.",
+    "bho": "मौत के असौच सब (सपिंड लोग) पर बा, बाकिर जनम के सूतक महतारी-बाबूजी पर; आ सूतक असल में महतारी के ही बा — बाबूजी नहा के सुद्ध हो जालन।"
+  },
+  "explanation": {
+    "hi": "जन्म के [[sutak]] पर स्मृति का अपना मत यहाँ साफ़ है: दस दिन का सूतक मुख्यतः प्रसूता माता का है, और पिता स्नान करके शुद्ध माना जाता है — इसीलिए [[jatakarma]] और नामकरण की तैयारी पिता सूतक में ही कर सकता है। हिंदी भाषी क्षेत्र का व्यवहार इससे व्यापक है: पूरा घर दस दिन (कहीं ग्यारह या बारह) तक मंदिर नहीं जाता और घर के देवताओं को नहीं छूता; [[chhathi]] और [[barahi]] इसी अवधि के पड़ाव हैं। यह साइट दोनों दर्ज करती है — स्मृति की संकरी रेखा और लोक की चौड़ी रेखा — और परिवार अपने कुल की रीति से तय करते हैं। श्लोक [मनुस्मृति अध्याय 5](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A8%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83) में 5.62 पर है; समीक्षित संस्करण में यही 5.61 है।",
+    "en": "On the sutak of a birth the smriti's own view is plain here: the ten-day sutak belongs chiefly to the mother who has given birth, and the father is held to be clean after a bath — which is why the father can perform the jatakarma and prepare the naming while the sutak runs. Hindi-belt practice is wider than this: the whole household stays away from the temple and does not touch the household deities for ten days (eleven or twelve in places); the chhathi and barahi are the stages of this same period. The site records both — the narrow line of the smriti and the broad line of custom — and families decide by their own lineage's usage. The verse stands at 5.62 in [Manusmriti chapter 5](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A8%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83); the critical edition numbers it 5.61.",
+    "bho": "जनम के [[sutak]] पर स्मृति के आपन मत इहाँ साफ बा: दस दिन के सूतक मुख्य रूप से जनम देवे वाली महतारी के बा, आ बाबूजी नहा के सुद्ध मानल जालन — एही से [[jatakarma]] आ नामकरन के तइयारी बाबूजी सूतक में ही कर सकेलन। हिंदी भाषी इलाका के व्यवहार एकरा से चाकर बा: पूरा घर दस दिन (कहीं एगारह भा बारह) तक मंदिर ना जाला आ घर के देवता के ना छूवेला; [[chhathi]] आ [[barahi]] एही अवधि के पड़ाव बा। ई साइट दुनो लिखेले — स्मृति के पातर रेखा आ लोक के चाकर रेखा — आ परिवार आपन कुल के रीति से तय करेला। श्लोक [मनुस्मृति अध्याय 5](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A8%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83) में 5.62 पर बा; समीक्षित संस्करन में इहे 5.61 बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-manusmriti-05",
+    "retrieved": "2026-11-01",
+    "modified": "sandhi joined (शावं आशौचं → शावमाशौचं); the bracketed alternative number [६१] and the verse number removed; dandas set"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "gretil-manu",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "smriti verse (Manusmriti); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "sutak",
+    "janma",
+    "manusmriti"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

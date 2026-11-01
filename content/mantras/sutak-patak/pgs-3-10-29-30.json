@@ -1,0 +1,81 @@
+{
+  "id": "pgs-3-10-29-30",
+  "kind": "vedic",
+  "text": "paraskara-grihya-sutra",
+  "locator": "PGS 3.10.29–30",
+  "title": {
+    "hi": "मृत्यु का अशौच — गृह्यसूत्र का नियम",
+    "en": "The impurity after a death — the Grihya Sutra's rule",
+    "bho": "मौत के असौच — गृह्यसूत्र के नियम"
+  },
+  "devanagari": "त्रिरात्रं शावमाशौचम् । दशरात्रमित्येके ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "त्रिरात्रम्",
+      "gloss": {
+        "hi": "तीन रात तक",
+        "en": "for three nights",
+        "bho": "तीन रात तक"
+      }
+    },
+    {
+      "sa": "शावम् आशौचम्",
+      "gloss": {
+        "hi": "शव (मृत्यु) से होने वाला अशौच",
+        "en": "the impurity arising from a death (shava, the body)",
+        "bho": "शव (मौत) से होखे वाला असौच"
+      }
+    },
+    {
+      "sa": "दशरात्रम्",
+      "gloss": {
+        "hi": "दस रात तक",
+        "en": "for ten nights",
+        "bho": "दस रात तक"
+      }
+    },
+    {
+      "sa": "इति एके",
+      "gloss": {
+        "hi": "ऐसा कुछ (आचार्य) कहते हैं",
+        "en": "so say some (teachers)",
+        "bho": "अइसन कुछ (आचार्य) कहेलन"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "मृत्यु का अशौच तीन रात का होता है; कुछ आचार्य कहते हैं — दस रात का।",
+    "en": "The impurity after a death lasts three nights; some teachers say ten nights.",
+    "bho": "मौत के असौच तीन रात के होला; कुछ आचार्य कहेलन — दस रात के।"
+  },
+  "explanation": {
+    "hi": "यह [[sutak]]-पातक पर सबसे पुरानी पंक्ति है जो हिंदी भाषी क्षेत्र की परंपरा के मूल ग्रंथ [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) के तीसरे कांड की दसवीं कंडिका (उदक-कर्म, जल-दान की विधि) में आती है। सूत्रकार पहले तीन रात कहता है और फिर दर्ज करता है कि कुछ आचार्य दस रात मानते हैं — यानी दोनों मत गृह्यसूत्र के समय से ही चल रहे हैं। बाद की स्मृतियों और पुराणों ने दस दिन को मुख्य नियम बनाया, और आज हिंदी भाषी परिवार इसी दस दिन को मानते हैं। इसी कंडिका में आगे लिखा है कि इस अवधि में स्वाध्याय नहीं होता और नित्य कर्म रोके जाते हैं (सूत्र 31–32), और ग्यारहवें दिन विषम संख्या में ब्राह्मणों को भोजन कराया जाता है (सूत्र 48) — यही बाद के [[ekadashah]] का बीज है।",
+    "en": "This is the oldest line on sutak and patak, from the root text of the Hindi-belt tradition, the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D), third kanda, tenth kandika (the udaka-karma, the water offering for the dead). The sutra-maker first says three nights and then records that some teachers hold ten — so both views have run side by side since the time of the Grihya Sutra. The later smritis and Puranas made ten days the main rule, and Hindi-belt families keep those ten days today. The same kandika goes on to say that during this period there is no Vedic study and the daily rites are suspended (sutras 31–32), and that on the eleventh day an odd number of Brahmins is fed (sutra 48) — the seed of the later ekadashah.",
+    "bho": "ई [[sutak]]-पातक पर सबसे पुरान पंक्ति बा जे हिंदी भाषी इलाका के परंपरा के मूल ग्रंथ [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) के तीसरा कांड के दसवाँ कंडिका (उदक-करम, जल-दान के विधि) में आवेला। सूत्रकार पहिले तीन रात कहेलन आ फेर लिखेलन कि कुछ आचार्य दस रात मानेलन — माने दुनो मत गृह्यसूत्र के समय से ही चलत बा। बाद के स्मृति आ पुरान दस दिन के मुख्य नियम बना दिहल, आ आज हिंदी भाषी परिवार एही दस दिन के मानेला। एही कंडिका में आगे लिखल बा कि एह अवधि में स्वाध्याय ना होला आ नित्य करम रोकल जाला (सूत्र 31–32), आ एगारहवाँ दिन बिसम गिनती में ब्राह्मण लोग के भोजन करावल जाला (सूत्र 48) — इहे बाद के [[ekadashah]] के बीया बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-pgs",
+    "retrieved": "2026-11-01",
+    "modified": "the two sutras (numbered २९ and ३० on the page) joined into one record; the sutra numbers removed; danda and double danda added"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-sbe29",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit sutra; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "sutak",
+    "ashaucha",
+    "antyeshti"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

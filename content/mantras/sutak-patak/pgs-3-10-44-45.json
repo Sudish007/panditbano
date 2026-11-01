@@ -1,0 +1,97 @@
+{
+  "id": "pgs-3-10-44-45",
+  "kind": "vedic",
+  "text": "paraskara-grihya-sutra",
+  "locator": "PGS 3.10.44–45",
+  "title": {
+    "hi": "दूर रहने वाले संबंधी का अशौच",
+    "en": "The impurity of a relative who is away",
+    "bho": "दूर रहे वाला नातेदार के असौच"
+  },
+  "devanagari": "प्रोषितश्चेत्प्रेयाच्छ्रवणप्रभृति कृतोदकाः कालशेषमासीरन् । अतीतश्चेदेकरात्रं त्रिरात्रं वा ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "प्रोषितः चेत् प्रेयात्",
+      "gloss": {
+        "hi": "यदि (संबंधी) प्रवास में मरे",
+        "en": "if (the relative) dies while away from home",
+        "bho": "अगर (नातेदार) परदेस में मरे"
+      }
+    },
+    {
+      "sa": "श्रवणप्रभृति",
+      "gloss": {
+        "hi": "समाचार सुनने से लेकर",
+        "en": "from the hearing (of the news)",
+        "bho": "खबर सुनला से लेके"
+      }
+    },
+    {
+      "sa": "कृतोदकाः",
+      "gloss": {
+        "hi": "जल-दान करके",
+        "en": "having made the water offering",
+        "bho": "जल-दान करके"
+      }
+    },
+    {
+      "sa": "कालशेषम् आसीरन्",
+      "gloss": {
+        "hi": "शेष अवधि तक (अशौच में) रहें",
+        "en": "they remain (impure) for the rest of the period",
+        "bho": "बाकी अवधि तक (असौच में) रहसु"
+      }
+    },
+    {
+      "sa": "अतीतः चेत्",
+      "gloss": {
+        "hi": "यदि (अवधि) बीत चुकी हो",
+        "en": "if (the period) has already passed",
+        "bho": "अगर (अवधि) बीत गइल होखे"
+      }
+    },
+    {
+      "sa": "एकरात्रं त्रिरात्रं वा",
+      "gloss": {
+        "hi": "एक रात या तीन रात",
+        "en": "one night or three nights",
+        "bho": "एक रात भा तीन रात"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "यदि संबंधी दूर प्रवास में मरे, तो समाचार सुनने के दिन से जल-दान करके बची हुई अवधि तक अशौच रखें; यदि अवधि बीत चुकी हो, तो एक रात या तीन रात।",
+    "en": "If the relative dies while away, then from the day the news is heard they make the water offering and keep the impurity for whatever remains of the period; if the period has already passed, one night or three nights.",
+    "bho": "अगर नातेदार दूर परदेस में मरे, त खबर सुनला के दिन से जल-दान करके बाँचल अवधि तक असौच राखसु; अगर अवधि बीत गइल होखे, त एक रात भा तीन रात।"
+  },
+  "explanation": {
+    "hi": "आज के परिवारों के लिए यह सूत्र बहुत काम का है — शहर में रहने वाले बेटे-बेटियों को गाँव की मृत्यु की खबर देर से मिलती है, या विदेश से आना संभव नहीं होता। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) (3.10.44–45) का नियम सीधा है: अशौच सुनने के दिन से गिना जाता है और मूल अवधि के बचे हुए दिनों तक चलता है; अगर दस दिन पहले ही बीत चुके हों तो केवल एक या तीन रात। यही सिद्धांत स्मृतियों में भी है। परंपरा में माना जाता है कि अशौच व्यक्ति से जुड़ा है, स्थान से नहीं — इसलिए दूर रहने वाला सपिंड भी, सुनते ही, जल-दान (तर्पण) करके अवधि रखता है। परिवार अपने पंडित से गिनती तय करें।",
+    "en": "For today's families this sutra matters a great deal — sons and daughters living in the city hear of a death in the village late, or cannot travel from abroad. The rule of the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) (3.10.44–45) is plain: the impurity is counted from the day the news is heard and runs for whatever is left of the original period; if the ten days have already passed, only one or three nights. The smritis carry the same principle. Tradition holds that the impurity attaches to the person, not the place — so a sapinda who lives far away also, on hearing, makes the water offering (tarpana) and keeps the period. Families settle the count with their pandit.",
+    "bho": "आज के परिवार खातिर ई सूत्र बहुते काम के बा — सहर में रहे वाला बेटा-बेटी के गाँव के मौत के खबर देर से मिलेला, भा बिदेस से आइल संभव ना होला। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) (3.10.44–45) के नियम सीधा बा: असौच सुनला के दिन से गिनल जाला आ मूल अवधि के बाँचल दिन तक चलेला; अगर दस दिन पहिलहीं बीत गइल होखे त खाली एक भा तीन रात। इहे सिद्धांत स्मृति में भी बा। परंपरा में मानल जाला कि असौच आदमी से जुड़ल बा, जगह से ना — एही से दूर रहे वाला सपिंड भी, सुनते, जल-दान (तर्पन) करके अवधि राखेला। परिवार आपन पंडित से गिनती तय करे।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-pgs",
+    "retrieved": "2026-11-01",
+    "modified": "the two sutras (४४, ४५) joined into one record; sutra numbers removed; danda and double danda added"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-sbe29",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit sutra; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "sutak",
+    "ashaucha",
+    "antyeshti"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

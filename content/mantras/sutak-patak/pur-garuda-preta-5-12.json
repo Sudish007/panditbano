@@ -1,0 +1,117 @@
+{
+  "id": "pur-garuda-preta-5-12",
+  "kind": "puranic",
+  "text": "garud-puran-pretkand",
+  "locator": "Garuda Purana, Preta-khanda (Dharma-khanda) 2.5.12",
+  "title": {
+    "hi": "बच्चे की मृत्यु पर अशौच की अवधि",
+    "en": "The length of impurity when a child dies",
+    "bho": "लइका के मौत पर असौच के अवधि"
+  },
+  "devanagari": "आदन्तजननात्सद्य आ चौलान्नैशिकी स्मृता । त्रिरात्रमा व्रतादेशाद्दशरात्रमतः परम् ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "आ दन्तजननात्",
+      "gloss": {
+        "hi": "दाँत निकलने तक",
+        "en": "up to the appearance of the teeth",
+        "bho": "दाँत निकलला तक"
+      }
+    },
+    {
+      "sa": "सद्यः",
+      "gloss": {
+        "hi": "तत्काल (शुद्धि; कोई अवधि नहीं)",
+        "en": "at once (purity; no period)",
+        "bho": "तुरते (सुद्धि; कवनो अवधि ना)"
+      }
+    },
+    {
+      "sa": "आ चौलात्",
+      "gloss": {
+        "hi": "चूड़ाकरण (मुंडन) तक",
+        "en": "up to the chudakarana (first tonsure)",
+        "bho": "चूड़ाकरन (मुंडन) तक"
+      }
+    },
+    {
+      "sa": "नैशिकी स्मृता",
+      "gloss": {
+        "hi": "एक रात की कही गई है",
+        "en": "is held to be of one night",
+        "bho": "एक रात के कहल गइल बा"
+      }
+    },
+    {
+      "sa": "आ व्रतादेशात्",
+      "gloss": {
+        "hi": "व्रतादेश (उपनयन) तक",
+        "en": "up to the vratadesha (the upanayana)",
+        "bho": "व्रतादेस (उपनयन) तक"
+      }
+    },
+    {
+      "sa": "त्रिरात्रम्",
+      "gloss": {
+        "hi": "तीन रात",
+        "en": "three nights",
+        "bho": "तीन रात"
+      }
+    },
+    {
+      "sa": "अतः परम् दशरात्रम्",
+      "gloss": {
+        "hi": "उसके बाद दस रात",
+        "en": "after that, ten nights",
+        "bho": "ओकरा बाद दस रात"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "दाँत निकलने से पहले (की मृत्यु पर) शुद्धि तत्काल है; चूड़ाकरण तक एक रात की; उपनयन तक तीन रात की; उसके बाद दस रात की।",
+    "en": "(At the death of a child) before the teeth appear, purity is immediate; up to the chudakarana, one night; up to the upanayana, three nights; after that, ten nights.",
+    "bho": "दाँत निकलला से पहिले (के मौत पर) सुद्धि तुरते बा; चूड़ाकरन तक एक रात के; उपनयन तक तीन रात के; ओकरा बाद दस रात के।"
+  },
+  "explanation": {
+    "hi": "शास्त्र बच्चे की मृत्यु पर अशौच की अवधि आयु और संस्कार के पड़ाव से छोटी करता है — यह [गरुड़ पुराण, प्रेतकांड अध्याय 5](https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%B0%E0%A5%81%E0%A4%A1%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A4%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83_%28%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83%29/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AB) का कथन है और [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) (3.10.2–5) भी दो वर्ष से छोटे बच्चे के लिए एक या तीन रात कहता है। [[garud-puran]] का ही आचारकांड (1.106.13) यही श्लोक 'आदंतजन्मनः सद्यः आचूडं नैशिकी स्मृता' के पाठ से देता है — पाठांतर नीचे है। यह पृष्ठ केवल परंपरा की गिनती दर्ज करता है; शोक में डूबे परिवार के लिए पंडित का काम गिनती से पहले सहारा देना है, और रीति परिवार के साथ मिलकर तय होती है।",
+    "en": "The shastra shortens the period of impurity at a child's death according to age and the samskaras reached — this is the statement of the [Garuda Purana Pretakanda 5](https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%B0%E0%A5%81%E0%A4%A1%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A4%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83_%28%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83%29/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AB), and the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) (3.10.2–5) likewise gives one or three nights for a child under two. The Garuda Purana's own Achara-khanda (1.106.13) has the same verse with the reading 'adantajanmanah sadyah achudam naishiki smrita' — the variant is given below. This page only records the tradition's count; for a family in grief the pandit's first task is support, and the observance is settled together with the family.",
+    "bho": "शास्त्र लइका के मौत पर असौच के अवधि उमिर आ संस्कार के पड़ाव से छोट करेला — ई [गरुड़ पुराण, प्रेतकांड अध्याय 5](https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%B0%E0%A5%81%E0%A4%A1%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A4%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83_%28%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83%29/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AB) के कथन बा आ [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) (3.10.2–5) भी दू बरिस से छोट लइका खातिर एक भा तीन रात कहेला। [[garud-puran]] के ही आचारकांड (1.106.13) इहे श्लोक 'आदन्तजन्मनः सद्यः आचूडं नैशिकी स्मृता' के पाठ से देला — पाठांतर नीचे बा। ई पन्ना खाली परंपरा के गिनती लिखेला; सोग में डूबल परिवार खातिर पंडित के पहिला काम गिनती से पहिले सहारा दिहल बा, आ रीति परिवार संगे मिल के तय होला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-garuda-preta-05",
+    "retrieved": "2026-11-01",
+    "modified": "the transcription's आदन्तजननत्सद्य corrected to आदन्तजननात्सद्य (ablative, as the parallel 1.106.13 and the sense require; GRETIL has the same slip); verse number removed; dandas set"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "gretil-garuda",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "variants": [
+    {
+      "reading": "आदन्तजन्मनः सद्यः आचूडं नैशिकी स्मृता । त्रिरात्रमा व्रतादेशाद्दशरात्रमतः परम् ॥",
+      "note": {
+        "hi": "आचारकांड 1.106.13 का पाठ — अर्थ वही।",
+        "en": "The reading of the Achara-khanda, 1.106.13 — same sense.",
+        "bho": "आचारकांड 1.106.13 के पाठ — अरथ उहे।"
+      },
+      "source": "gretil-garuda"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Puranic verse (Garuda Purana 2.5.12); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "sutak",
+    "ashaucha",
+    "garuda-purana",
+    "grief"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1427,6 +1427,154 @@
       ],
       "note": "Collection of the Upanishadic shanti mantras of all four Vedas with svara (सह नाववतु, शं नो मित्रः, भद्रं कर्णेभिः, पूर्णमदः, the Taittiriya ghosha-shanti …). Used to verify the shanti ṛks shared with VS 36 (शं नो मित्रः, शं नो वातः, अहानि शं, शं नो देवीः, आपो हि ष्ठा — Taittiriya variants noted) and to state which shanti mantras are not Shukla-Yajurvedic.",
       "locator": "whole file"
+    },
+    {
+      "id": "ws-garuda-preta-05",
+      "project": "wikisource",
+      "title": "गरुडपुराणम्/प्रेतकाण्डः (धर्मकाण्डः)/अध्यायः ५",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%B0%E0%A5%81%E0%A4%A1%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A4%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83_%28%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%83%29/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AB",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "गरुडपुराण प्रेतकाण्ड अध्याय 5",
+        "Garuda Purana Pretakanda 5"
+      ],
+      "note": "Preta-khanda (Dharma-khanda) chapter 5, Krishna to Garuda: the return from the cremation ground (2,5.1–7), the definition and lengths of ashaucha — ten days for sapindas at a death and likewise at a birth (2,5.10), three nights for samanodakas (2,5.11), the shorter periods for children (2,5.12) — asthi-sanchaya days (2,5.15), the ten pindas and the tenth-day bath (2,5.17–27). Second source: GRETIL sa_garuDapurANa.txt (garp_2,5.x numbering agrees).",
+      "wikisourceLang": "sa",
+      "locator": "GP 2.5"
+    },
+    {
+      "id": "ws-manusmriti-05",
+      "project": "wikisource",
+      "title": "मनुस्मृतिः/पञ्चमोध्यायः",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A8%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "मनुस्मृति अध्याय 5",
+        "Manusmriti chapter 5"
+      ],
+      "note": "Manusmriti 5.57–5.104 is the ashaucha section (प्रेतशुद्धि, द्रव्यशुद्धि). The e-text prints the sandhi dissolved (शावं आशौचं, त्र्यहं एकाहं एव) and carries the alternative numbering of the critical edition in brackets (५.६२[६१]); records join the sandhi as the printed editions do and say so in source.modified. Second source: GRETIL sa_manusmRti.txt (Manu_5.59–62; the GRETIL file notes 5.61 is absent from Olivelle's edition, so 5.62 = M 5.61).",
+      "wikisourceLang": "sa",
+      "locator": "Manu 5.57–104"
+    },
+    {
+      "id": "gretil-manu",
+      "project": "gretil",
+      "title": "Manusmrti (GRETIL plaintext, sa_manusmRti.txt)",
+      "url": "http://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_manusmRti.txt",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-NC-SA 4.0 (encoding); work itself public domain",
+      "kind": "verify",
+      "secondSourceAvailable": false,
+      "titles": [
+        "GRETIL Manusmriti",
+        "Manusmriti (GRETIL)"
+      ],
+      "note": "IAST plaintext with Olivelle's concordance in brackets; used only to verify the Wikisource readings of Manu 5.59–5.62.",
+      "locator": "Manu_5.57–5.63"
+    },
+    {
+      "id": "ws-samskararatnamala-1-12",
+      "project": "wikisource",
+      "title": "संस्काररत्नमाला (भागः १)/द्वादशं प्रकरणम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A4%B6%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription of the Anandashrama edition); work itself public domain (Gopinatha Bhatta Dikshita, 17th–18th c.)",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "संस्काररत्नमाला",
+        "Samskararatnamala"
+      ],
+      "note": "Dharmashastra digest; the twelfth prakarana (gotra-pravara-nirnaya) quotes the smriti line गोत्रस्य त्वपरिज्ञाने काश्यपं गोत्रमुच्यते and glosses it as applying when the gotra of the purohit or acharya is unknown, in matters other than marriage. The page is a proofread-page transclusion; the text was read through the MediaWiki API (action=parse&prop=text). Second source: the same digest's part 2 (shraddha prakaranas) stating गोत्राज्ञाने काश्यपगोत्रम्.",
+      "wikisourceLang": "sa",
+      "locator": "SRM 1, prakarana 12 (gotra-pravara)"
+    },
+    {
+      "id": "ws-samskararatnamala-2-8",
+      "project": "wikisource",
+      "title": "संस्काररत्नमाला (भागः २)/अष्टमं प्रकरणम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A8%29/%E0%A4%85%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription of the Anandashrama edition); work itself public domain",
+      "kind": "verify",
+      "secondSourceAvailable": false,
+      "titles": [
+        "संस्काररत्नमाला भाग 2",
+        "Samskararatnamala part 2"
+      ],
+      "note": "Shraddha prakarana: नामाज्ञाने पिण्डदानव्यतिरिक्तकर्मसु ब्रह्मविष्णुशिवशब्दैर्व्यवहारः । गोत्राज्ञाने काश्यपगोत्रम् — when an ancestor's name is unknown, the names Brahma, Vishnu and Shiva stand in (except in pinda-dana); when the gotra is unknown, Kashyapa gotra. Used to verify the gotra fallback quoted in part 1.",
+      "wikisourceLang": "sa",
+      "locator": "SRM 2, prakarana 8 (shraddha)"
+    },
+    {
+      "id": "ws-nityakarmavidhi",
+      "project": "wikisource",
+      "title": "नित्यकर्मविधिः",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "verify",
+      "secondSourceAvailable": false,
+      "titles": [
+        "नित्यकर्मविधिः (विकिस्रोत)",
+        "Nityakarmavidhi (Wikisource)"
+      ],
+      "note": "A Shukla-Yajurvedic nitya-karma manual (snana, sandhya, tarpana, deva-puja). Its river-bath sankalpa opens ओं तत्सत् ब्रह्म अद्य … अमुकमासस्य अमुकपक्षस्य तिथावमुकायां … श्रीनारायणप्रीत्यर्थं … स्नानमहं करिष्ये and its tarpana names each ancestor as अमुकोऽमुकगोत्रः — used to verify the short sankalpa pattern and the ॐ तत्सत् opening some pothis use. Fetched by lane A (C1A-01) on 2026-11-01.",
+      "wikisourceLang": "sa",
+      "locator": "snana-vidhi sankalpa; tarpana"
+    },
+    {
+      "id": "dp-sankalpa",
+      "project": "other",
+      "title": "Drik Panchang — सङ्कल्प मन्त्र utility (sankalpa.html, Hindi)",
+      "url": "https://www.drikpanchang.com/panchang/sankalpa/sankalpa.html?lang=hi",
+      "retrieved": "2026-11-01",
+      "licence": "© drikpanchang.com (all images and data); used for verification only, nothing copied",
+      "kind": "verify",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Drik Panchang sankalpa utility"
+      ],
+      "note": "Fills the full Hindi-belt sankalpa frame with live panchang values for a chosen city. Used to verify the frame wording of the Dwivedi paddhati (it reads अद्यैतस्य ब्रह्मणोऽह्नि द्वितीये परार्धे … भूर्लोके भारतवर्षे जम्बूद्वीपे भरतखण्डे आर्यावर्तान्तर्गतब्रह्मावर्तस्य …, inserts the Vikram year as श्रीमन्नृपतिवीरविक्रमादित्यसमयतः … संख्यापरिमिते प्रवर्तमानसंवत्सरे, and ends with a generic purpose clause) and to confirm the samvatsara name सिद्धार्थी for Vikram 2083 (Kartik 2026, New Delhi). Its own note: samvatsara, lunar month, ayana and ritu are those current at sunrise; the other elements are computed for the moment of the sankalpa.",
+      "locator": "sankalpa utility, fetched for 2026-11-01"
+    },
+    {
+      "id": "gp-nitya-karma-puja-prakash",
+      "project": "publisher",
+      "title": "Nitya Karma Pooja Prakash (नित्यकर्म पूजाप्रकाश), Gita Press code 592",
+      "url": "https://gitapress.org/product/nitya-karma-pooja-prakash-hindi-gita-press-gorakhpur-publication",
+      "retrieved": "2026-11-01",
+      "licence": "Copyrighted Gita Press edition; bibliography entry and sequence facts only, no text reproduced (R4 section 4.5)",
+      "kind": "edition",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Nitya Karma Puja Prakash",
+        "नित्यकर्म पूजाप्रकाश"
+      ],
+      "publisher": "Gita Press, Gorakhpur",
+      "note": "Hindi; 384 pp.; author Pandit Lalbihari Mishra per the product page (R1 section H1). Sandhya-vandana, panchopachara and shodashopachara puja."
+    },
+    {
+      "id": "sacred-texts-gpu",
+      "project": "other",
+      "title": "The Garuda Purana (Saroddhara), tr. Ernest Wood and S. V. Subrahmanyam, 1911 — sacred-texts.com reading copy",
+      "url": "https://sacred-texts.com/hin/gpu/index.htm",
+      "retrieved": "2026-11-01",
+      "licence": "Public domain translation (1911) — link only",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Garuda Purana Saroddhara (Wood and Subrahmanyam)",
+        "गरुड़ पुराण सारोद्धार (वुड और सुब्रह्मण्यम)"
+      ],
+      "year": "1911",
+      "note": "16-chapter Saroddhara numbering (decisions.md section A, 2.4)."
     }
   ]
 }

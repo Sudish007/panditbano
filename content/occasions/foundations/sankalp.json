@@ -1,0 +1,393 @@
+{
+  "id": "sankalp",
+  "code": "F04",
+  "group": "foundations",
+  "phase": 1,
+  "title": {
+    "hi": "संकल्प",
+    "en": "Sankalpa",
+    "bho": "संकल्प"
+  },
+  "lede": {
+    "hi": "हर पूजा की वह घोषणा जिसमें यजमान हाथ में जल लेकर समय, स्थान, अपना गोत्र-नाम और कर्म का उद्देश्य बोलता है — पूरा ढाँचा, हर अंग को पंचांग से पढ़ने की विधि और एक भरा हुआ उदाहरण।",
+    "en": "The declaration that opens every puja: with water in hand the host names the time, the place, his gotra and name, and the purpose of the rite — the full frame, how to read each limb from a panchang, and a worked example.",
+    "bho": "हर पूजा के ऊ घोसना जेमें जजमान हाथ में जल लेके समय, जगह, आपन गोत्र-नाँव आ करम के उद्देश्य बोलेला — पूरा ढाँचा, हर अंग के पंचांग से पढ़े के तरीका आ एक भरल उदाहरन।"
+  },
+  "overview": {
+    "hi": "[[sankalp]] का अर्थ है 'दृढ़ निश्चय' — पर [[puja]] में यह एक वाक्य है जो हर कर्म की पहली सीढ़ी है। [आचमन-पवित्रीकरण-प्राणायाम](/occasions/achaman-pavitrikaran/) के बाद [[yajman]] दाहिने हाथ में जल, [[akshat]], फूल और द्रव्य लेता है और [[purohit]] के साथ-साथ बोलता है: कौन-से कल्प, मन्वंतर और युग में, किस द्वीप और देश में, किस [[samvatsar]], [[ayan]], [[ritu]], [[maas]], [[paksha]], [[tithi]], [[vaar]], [[nakshatra]], [[yoga]] और [[karan]] में, किस [[gotra]] का कौन, किस फल के लिए कौन-सा कर्म कर रहा है। वाक्य पूरा होते ही जल ज़मीन या थाली में छोड़ दिया जाता है — परंपरा में माना जाता है कि जल गिरने के साथ संकल्प बँध जाता है और उसके बाद कर्म बीच में नहीं छोड़ा जाता। ढाँचा [[paddhati]] (पोथी-परंपरा) का है, वेद का मंत्र नहीं; पर इसी वाक्य में पंडित की पंचांग-विद्या और परिवार की पहचान दोनों एक साथ सुनाई देती हैं। इस पृष्ठ पर पूरा ढाँचा, छोटा नित्य-रूप, गोत्र न जानने पर क्या बोला जाए, और पंचांग से हर अंग पढ़ने की विधि है; भरा हुआ उदाहरण [संकल्प संदर्भ-पृष्ठ](/reference/sankalpa/) पर है। तिथि-नक्षत्र की गणना यह साइट नहीं करती — उसके लिए [शुभवेला का पंचांग](https://sudish007.github.io/shubhvela/hi/panchang/) देखें।",
+    "en": "Sankalpa means 'firm resolve' — but in a puja it is a sentence, the first step of every rite. After the [achamana, pavitrikarana and pranayama](/occasions/achaman-pavitrikaran/) the host takes water, rice, a flower and a coin in the right hand and speaks along with the purohit: in which kalpa, manvantara and yuga, on which continent and in which land, in which samvatsara, ayana, season, month, fortnight, tithi, weekday, nakshatra, yoga and karana, who of which gotra is performing which rite, and for what fruit. As soon as the sentence ends the water is let fall to the ground or into a plate — tradition holds that the resolve is bound as the water falls, and after that the rite is not left half-done. The frame belongs to the handbooks (paddhati), not to the Veda; yet in this one sentence the pandit's knowledge of the panchang and the family's identity are heard together. This page gives the full frame, the short daily form, what to say when the gotra is unknown, and how to read each limb from a panchang; the worked example is on the [sankalpa reference page](/reference/sankalpa/). The site does not compute tithis and nakshatras — for those see [Shubhvela's panchang](https://sudish007.github.io/shubhvela/en/panchang/).",
+    "bho": "[[sankalp]] के अरथ बा 'पक्का निश्चय' — बाकिर [[puja]] में ई एक वाक्य बा जे हर करम के पहिला सीढ़ी बा। [आचमन-पवित्रीकरण-प्राणायाम](/occasions/achaman-pavitrikaran/) के बाद [[yajman]] दाहिना हाथ में जल, [[akshat]], फूल आ द्रव्य लेला आ [[purohit]] संगे-संगे बोलेला: कवना कल्प, मन्वंतर आ जुग में, कवना द्वीप आ देस में, कवना [[samvatsar]], [[ayan]], [[ritu]], [[maas]], [[paksha]], [[tithi]], [[vaar]], [[nakshatra]], [[yoga]] आ [[karan]] में, कवना [[gotra]] के के, कवना फल खातिर कवन करम करत बा। वाक्य पूरा भइला पर जल जमीन भा थरिया में छोड़ दिहल जाला — परंपरा में मानल जाला कि जल गिरला पर संकल्प बन्ह जाला आ ओकरा बाद करम बीच में ना छोड़ल जाला। ढाँचा [[paddhati]] (पोथी-परंपरा) के बा, वेद के मंत्र ना; बाकिर एही एक वाक्य में पंडित के पंचांग-विद्या आ परिवार के पहचान दुनो एक संगे सुनाई देला। एह पन्ना पर पूरा ढाँचा, छोट नित्य-रूप, गोत्र ना जनला पर का बोलल जाए, आ पंचांग से हर अंग पढ़े के तरीका बा; भरल उदाहरन [संकल्प संदर्भ-पन्ना](/reference/sankalpa/) पर बा। तिथि-नछत्र के गिनती ई साइट ना करे — ओकरा खातिर [शुभवेला के पंचांग](https://sudish007.github.io/shubhvela/bho/panchang/) देखीं।"
+  },
+  "when": {
+    "rules": {
+      "hi": "हर पूजा, [[havan]], [[sanskar]], [[vrat]] और [[katha]] के आरंभ में — आचमन, पवित्रीकरण और प्राणायाम के ठीक बाद, गणेश-अंबिका पूजन से पहले। संकल्प का अपना कोई [[muhurat]] नहीं है; जिस कर्म का यह अंग है, उसकी तिथि और मुहूर्त उस कर्म के पृष्ठ पर हैं। संकल्प में बोले जाने वाले तिथि, नक्षत्र, योग और करण उसी समय के पंचांग से लिए जाते हैं जब पूजा हो रही है।",
+      "en": "At the start of every puja, havan, samskara, vrat and katha — right after the achamana, pavitrikarana and pranayama, before the Ganesh-Ambika pujan. The sankalpa has no muhurat of its own; the date and muhurat belong to the rite it opens and are given on that rite's page. The tithi, nakshatra, yoga and karana spoken in the sankalpa are taken from the panchang for the time the puja is actually taking place.",
+      "bho": "हर पूजा, [[havan]], [[sanskar]], [[vrat]] आ [[katha]] के सुरुआत में — आचमन, पवित्रीकरण आ प्राणायाम के ठीक बाद, गणेश-अंबिका पूजन से पहिले। संकल्प के आपन कवनो [[muhurat]] नइखे; जे करम के ई अंग बा, ओकर तिथि आ मुहूरत ओह करम के पन्ना पर बा। संकल्प में बोलल जाए वाला तिथि, नछत्र, योग आ करन ओही समय के पंचांग से लिहल जाला जब पूजा होखत बा।"
+    },
+    "shubhvela": {
+      "muhurat": null,
+      "festival": null,
+      "vrat": null
+    }
+  },
+  "roles": [
+    {
+      "role": {
+        "hi": "पुरोहित",
+        "en": "Purohit",
+        "bho": "पुरोहित"
+      },
+      "does": {
+        "hi": "पंचांग से उस दिन के अंग पढ़कर ढाँचे के रिक्त स्थान भरना; वाक्य को छोटे-छोटे टुकड़ों में बोलना ताकि यजमान दोहरा सके; गोत्र-नाम पहले से पर्ची पर लिखवा लेना।",
+        "en": "Reads the day's limbs from the panchang and fills the blanks of the frame; speaks the sentence in short pieces so the host can repeat; has the gotra and names written on a slip beforehand.",
+        "bho": "पंचांग से ओह दिन के अंग पढ़ के ढाँचा के खाली जगह भरल; वाक्य के छोट-छोट टुकड़ा में बोलल जेसे जजमान दोहरा सके; गोत्र-नाँव पहिलहीं पर्ची पर लिखवा लेवल।"
+      }
+    },
+    {
+      "role": {
+        "hi": "यजमान (और पत्नी)",
+        "en": "The host (and his wife)",
+        "bho": "जजमान (आ घरवाली)"
+      },
+      "does": {
+        "hi": "दाहिने हाथ में जल-अक्षत-द्रव्य लेकर पूर्व या उत्तर मुख बैठना; पंडित के पीछे-पीछे वाक्य दोहराना; अंत में जल छोड़ना। पत्नी दाहिने हाथ से पति की बाँह या पात्र छूकर साथ बैठती है।",
+        "en": "Sits facing east or north with water, rice and the coin in the right hand; repeats the sentence after the pandit; lets the water fall at the end. The wife sits beside him touching his right arm or the vessel.",
+        "bho": "दाहिना हाथ में जल-अछत-द्रव्य लेके पूरब भा उत्तर मुँह बइठल; पंडित के पाछे-पाछे वाक्य दोहरावल; अंत में जल छोड़ल। घरवाली दाहिना हाथ से मरद के बाँह भा बरतन छू के संगे बइठेली।"
+      }
+    },
+    {
+      "role": {
+        "hi": "परिवार",
+        "en": "The family",
+        "bho": "परिवार"
+      },
+      "does": {
+        "hi": "चुप बैठकर सुनना; जिनके नाम से संकल्प हो रहा हो (जैसे बच्चे के संस्कार में बच्चा), वे यजमान के पास बैठते हैं।",
+        "en": "Sits and listens; those in whose name the sankalpa is made (the child at a childhood samskara, for instance) sit next to the host.",
+        "bho": "चुप बइठ के सुनल; जेकरा नाँव से संकल्प होखत होखे (जइसे लइका के संस्कार में लइका), ऊ जजमान के लगे बइठेला।"
+      }
+    }
+  ],
+  "samagri": [
+    {
+      "id": "jal-patra",
+      "item": {
+        "hi": "जल-पात्र — पंचपात्र या लोटा, जल से भरा",
+        "en": "Water vessel — a panchapatra or lota, filled",
+        "bho": "जल-बरतन — पंचपात्र भा लोटा, जल से भरल"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "akshat",
+      "item": {
+        "hi": "अक्षत (बिना टूटे चावल) — मुट्ठी भर",
+        "en": "Unbroken rice (akshata) — a handful",
+        "bho": "अच्छत (बिना टूटल चाउर) — मुट्ठी भर"
+      },
+      "qty": "थोड़ा",
+      "must": true
+    },
+    {
+      "id": "pushp",
+      "item": {
+        "hi": "पुष्प और सुपारी — हाथ में रखने के लिए",
+        "en": "A flower and a betel nut, to hold in the hand",
+        "bho": "फूल आ सुपारी — हाथ में राखे खातिर"
+      },
+      "qty": "1–1",
+      "must": false
+    },
+    {
+      "id": "dravya",
+      "item": {
+        "hi": "द्रव्य — एक सिक्का (संकल्प का दान)",
+        "en": "A coin (the dravya, the offering of the sankalpa)",
+        "bho": "द्रव्य — एक सिक्का (संकल्प के दान)"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "kush",
+      "item": {
+        "hi": "कुश — पवित्री के लिए (हो तो)",
+        "en": "Kusha grass for the ring (pavitri), if at hand",
+        "bho": "कुश — पवित्री खातिर (होखे त)"
+      },
+      "qty": "2 तिनके",
+      "must": false
+    },
+    {
+      "id": "panchang",
+      "item": {
+        "hi": "चालू वर्ष का पंचांग — या शुभवेला फ़ोन पर खुला हुआ",
+        "en": "This year's panchang — or Shubhvela open on the phone",
+        "bho": "चालू साल के पंचांग — भा शुभवेला फोन पर खुलल"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "parchi",
+      "item": {
+        "hi": "पर्ची — गोत्र, यजमान और परिवार के नाम, स्थान, कर्म का नाम",
+        "en": "A slip of paper — gotra, the host's and family's names, the place, the rite's name",
+        "bho": "पर्ची — गोत्र, जजमान आ परिवार के नाँव, जगह, करम के नाँव"
+      },
+      "qty": "1",
+      "must": true,
+      "note": {
+        "hi": "गोत्र न पता हो तो नीचे का प्रश्न देखें।",
+        "en": "If the gotra is not known, see the question below.",
+        "bho": "गोत्र ना पता होखे त नीचे के सवाल देखीं।"
+      }
+    }
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "layer": "paddhati",
+      "minutes": 1,
+      "action": {
+        "hi": "हाथ में जल-अक्षत-द्रव्य — आचमन, पवित्रीकरण और प्राणायाम पूरा करके यजमान दाहिने हाथ की हथेली में जल, अक्षत, फूल, सुपारी और सिक्का लेता है; बाएँ हाथ से दाहिने को नीचे से थामता है। पत्नी दाहिने हाथ से पति की बाँह छूती है। पंडित पर्ची से गोत्र-नाम और पंचांग से उस दिन के अंग पढ़ लेता है।",
+        "en": "Water, rice and the coin in hand — With the achamana, pavitrikarana and pranayama done, the host takes water, rice, a flower, a betel nut and a coin in the right palm, supporting the right hand with the left. The wife touches his right arm. The pandit reads the gotra and names from the slip and the day's limbs from the panchang.",
+        "bho": "हाथ में जल-अछत-द्रव्य — आचमन, पवित्रीकरण आ प्राणायाम पूरा करके जजमान दाहिना हाथ के हथेली में जल, अछत, फूल, सुपारी आ सिक्का लेला; बाईं हाथ से दाहिना के नीचे से थामेला। घरवाली दाहिना हाथ से मरद के बाँह छूवेली। पंडित पर्ची से गोत्र-नाँव आ पंचांग से ओह दिन के अंग पढ़ लेलन।"
+      },
+      "samagriIds": [
+        "jal-patra",
+        "akshat",
+        "pushp",
+        "dravya",
+        "panchang",
+        "parchi"
+      ],
+      "panditSays": {
+        "hi": "हथेली में जल, अक्षत, फूल और द्रव्य लीजिए। जो मैं बोलूँ, उसे टुकड़ों में दोहराइए।",
+        "en": "Take water, rice, a flower and the coin in the palm. Repeat after me, piece by piece.",
+        "bho": "हथेली में जल, अछत, फूल आ द्रव्य लीं। जे हम बोलीं, ओकरा टुकड़ा-टुकड़ा में दोहराईं।"
+      }
+    },
+    {
+      "n": 2,
+      "layer": "paddhati",
+      "minutes": 1,
+      "important": true,
+      "action": {
+        "hi": "विष्णु-स्मरण और महाकाल-महादेश — पंडित ढाँचे का पहला भाग बोलता है — तीन बार विष्णु का नाम, फिर परार्ध, कल्प, मन्वंतर, युग और चरण, फिर द्वीप, खंड, देश और नगर का नाम। यजमान हर टुकड़ा दोहराता है।",
+        "en": "Vishnu-smarana and the great time and place: the pandit speaks the first part of the frame — Vishnu's name three times, then the parardha, kalpa, manvantara, yuga and its quarter, then the continent, region, land and the name of the town. The host repeats each piece.",
+        "bho": "विष्णु-सुमिरन आ महाकाल-महादेस — पंडित ढाँचा के पहिला भाग बोलेलन — तीन बेर विष्णु के नाँव, फेर परार्ध, कल्प, मन्वंतर, जुग आ चरन, फेर द्वीप, खंड, देस आ नगर के नाँव। जजमान हर टुकड़ा दोहरावेला।"
+      },
+      "mantraIds": [
+        "pad-vishnur-vishnur-vishnuh"
+      ],
+      "panditSays": {
+        "sa": "ॐ विष्णुर्विष्णुर्विष्णुः श्रीमद्भगवतो महापुरुषस्य विष्णोराज्ञया प्रवर्तमानस्य ब्रह्मणो द्वितीयपरार्धे श्रीश्वेतवाराहकल्पे वैवस्वतमन्वन्तरे अष्टाविंशतितमे कलियुगे कलिप्रथमचरणे जम्बूद्वीपे भरतखण्डे आर्यावर्तैकदेशे {देश}देशे {नगर}नगरे",
+        "hi": "यह भाग हर संकल्प में एक जैसा रहता है — केवल अंत में अपने देश (राज्य) और नगर या गाँव का नाम जोड़ा जाता है।",
+        "en": "This part is the same in every sankalpa — only the name of the land (state) and the town or village is added at the end.",
+        "bho": "ई भाग हर संकल्प में एके जइसन रहेला — खाली अंत में आपन देस (राज) आ नगर भा गाँव के नाँव जोड़ल जाला।"
+      },
+      "note": {
+        "hi": "विदेश में हो रही पूजा में 'आर्यावर्तैकदेशे' की जगह पोथियाँ उस देश और नगर का नाम बोलने देती हैं — जैसे 'अमेरिकादेशे शिकागोनगरे'; कुछ पंडित 'जंबूद्वीपे' को भी छोड़ देते हैं। यह व्यवहार है, नियम नहीं।",
+        "en": "For a puja held abroad the handbooks let the name of that country and city replace 'Aryavartaikadeshe' — 'Amerika-deshe Chicago-nagare', for instance; some pandits also drop 'Jambudvipe'. This is practice, not a rule.",
+        "bho": "बिदेस में होखत पूजा में 'आर्यावर्तैकदेशे' के जगह पोथी ओह देस आ सहर के नाँव बोले देले — जइसे 'अमेरिकादेशे शिकागोनगरे'; कुछ पंडित 'जम्बूद्वीपे' भी छोड़ देलन। ई व्यवहार बा, नियम ना।"
+      }
+    },
+    {
+      "n": 3,
+      "layer": "paddhati",
+      "minutes": 2,
+      "important": true,
+      "action": {
+        "hi": "पंचांग के अंग और परिचय: पंडित उस दिन के संवत्सर, अयन, ऋतु, मास, पक्ष, तिथि, नक्षत्र, योग, करण और वार बोलता है (जहाँ पंचांग दे वहाँ सूर्य-चंद्र की राशि भी), फिर यजमान का गोत्र और नाम; यजमान दोहराता है। पत्नी के साथ करने पर 'सपत्नीकोऽहं' और परिवार के लिए 'सकुटुंबस्य मम' जोड़ा जाता है।",
+        "en": "The limbs of the panchang and the identity: the pandit speaks the day's samvatsara, ayana, season, month, fortnight, tithi, nakshatra, yoga, karana and weekday (and the signs of the Sun and Moon where the panchang gives them), then the host's gotra and name; the host repeats. When the wife joins, 'sapatniko'ham' is added, and for the family 'sakutumbasya mama'.",
+        "bho": "पंचांग के अंग आ परिचय: पंडित ओह दिन के संवत्सर, अयन, ऋतु, महीना, पच्छ, तिथि, नछत्र, योग, करन आ बार बोलेलन (जहाँ पंचांग देवे ओहिजा सूरज-चाँद के राशि भी), फेर जजमान के गोत्र आ नाँव; जजमान दोहरावेला। घरवाली संगे कइला पर 'सपत्नीकोऽहं' आ परिवार खातिर 'सकुटुम्बस्य मम' जोड़ल जाला।"
+      },
+      "mantraIds": [
+        "pad-vishnur-vishnur-vishnuh"
+      ],
+      "samagriIds": [
+        "panchang",
+        "parchi"
+      ],
+      "panditSays": {
+        "sa": "{संवत्सर}नामसंवत्सरे {अयन}अयने {ऋतु}ऋतौ {मास}मासे {पक्ष}पक्षे {तिथि}तिथौ {नक्षत्र}नक्षत्रे {योग}योगे {करण}करणे {वार}वासरे एवं ग्रहगुणगणविशेषणविशिष्टायां शुभपुण्यतिथौ {गोत्र}गोत्रोत्पन्नः {नाम} अहं",
+        "hi": "अब आज की तिथि — पंचांग से पढ़कर बोल रहा हूँ — और फिर आपका गोत्र और नाम। जैसा मैं कहूँ, वैसा दोहराइए।",
+        "en": "Now today's date — I am reading it from the panchang — and then your gotra and name. Repeat exactly as I say.",
+        "bho": "अब आज के तिथि — पंचांग से पढ़ के बोलत बानी — आ फेर राउर गोत्र आ नाँव। जइसे हम कहीं, ओइसे दोहराईं।"
+      },
+      "note": {
+        "hi": "हर अंग को पंचांग से कैसे पढ़ें — [शुभवेला का पंचांग](https://sudish007.github.io/shubhvela/hi/panchang/) के दिन-कार्ड में तिथि, नक्षत्र, योग और करण उनके समाप्ति-समय के साथ, संवत और पूर्णिमांत/अमांत मास दिए रहते हैं; अयन और ऋतु महीने से तय होते हैं। पूरी सारणी और भरा हुआ उदाहरण [संकल्प संदर्भ-पृष्ठ](/reference/sankalpa/) पर।",
+        "en": "How to read each limb from a panchang — the day card of [Shubhvela's panchang](https://sudish007.github.io/shubhvela/en/panchang/) gives the tithi, nakshatra, yoga and karana with the time each ends, the samvat and the purnimanta/amanta month; the ayana and season follow from the month. The full table and a worked example are on the [sankalpa reference page](/reference/sankalpa/).",
+        "bho": "हर अंग के पंचांग से कइसे पढ़ीं — [शुभवेला के पंचांग](https://sudish007.github.io/shubhvela/bho/panchang/) के दिन-कार्ड में तिथि, नछत्र, योग आ करन उनकर खतम होखे के समय संगे, संवत आ पूर्णिमांत/अमांत महीना दिहल रहेला; अयन आ ऋतु महीना से तय होला। पूरा सारनी आ भरल उदाहरन [संकल्प संदर्भ-पन्ना](/reference/sankalpa/) पर।"
+      }
+    },
+    {
+      "n": 4,
+      "layer": "paddhati",
+      "minutes": 1,
+      "important": true,
+      "action": {
+        "hi": "उद्देश्य और कर्म: पंडित बोलता है कि यह कर्म किस फल के लिए और किस देवता की प्रसन्नता के लिए हो रहा है, और कर्म का नाम — जैसे 'सत्यनारायण-व्रत-कथा', 'गृहप्रवेश', 'विवाह'। वाक्य 'करिष्ये' (मैं करूँगा) पर पूरा होता है; यजमान दोहराता है।",
+        "en": "The purpose and the rite: the pandit states for what fruit and for the pleasure of which deity the rite is being done, and the name of the rite — 'Satyanarayan-vrat-katha', 'griha-pravesh', 'vivah'. The sentence closes on 'karishye' (I shall perform); the host repeats.",
+        "bho": "उद्देश्य आ करम: पंडित बोलेलन कि ई करम कवना फल खातिर आ कवना देवता के खुसी खातिर होखत बा, आ करम के नाँव — जइसे 'सत्यनारायण-व्रत-कथा', 'गृहप्रवेश', 'विवाह'। वाक्य 'करिष्ये' (हम करब) पर पूरा होला; जजमान दोहरावेला।"
+      },
+      "panditSays": {
+        "sa": "मम सकुटुम्बस्य सपरिवारस्य क्षेमस्थैर्यायुरारोग्यैश्वर्याभिवृद्ध्यर्थं श्रुतिस्मृतिपुराणोक्तफलप्राप्त्यर्थं श्री{देवता}प्रीत्यर्थं {कर्म} करिष्ये ॥",
+        "hi": "'…करिष्ये' — मैं यह कर्म करूँगा। बोलिए: करिष्ये।",
+        "en": "'…karishye' — I shall perform this rite. Say: karishye.",
+        "bho": "'…करिष्ये' — हम ई करम करब। बोलीं: करिष्ये।"
+      },
+      "note": {
+        "hi": "उद्देश्य-वाक्य कर्म के साथ बदलता है: विवाह में कन्यादान का संकल्प कन्या के पिता का अलग वाक्य है, श्राद्ध में पितरों के नाम-गोत्र जुड़ते हैं, व्रत में 'व्रतं करिष्ये' और उद्यापन में 'उद्यापनं करिष्ये' बोला जाता है। हर अवसर के पृष्ठ पर उसका अपना संकल्प-वाक्य है।",
+        "en": "The purpose clause changes with the rite: at a wedding the kanyadaan sankalpa is the bride's father's own sentence, at a shraddha the ancestors' names and gotra are added, for a vrat one says 'vratam karishye' and at its close 'udyapanam karishye'. Each occasion page carries its own sankalpa sentence.",
+        "bho": "उद्देश्य-वाक्य करम संगे बदलेला: बियाह में कन्यादान के संकल्प कन्या के बाबूजी के अलगा वाक्य बा, श्राद्ध में पितर लोग के नाँव-गोत्र जुड़ेला, बरत में 'व्रतं करिष्ये' आ उद्यापन में 'उद्यापनं करिष्ये' बोलल जाला। हर अवसर के पन्ना पर ओकर आपन संकल्प-वाक्य बा।"
+      }
+    },
+    {
+      "n": 5,
+      "layer": "paddhati",
+      "minutes": 1,
+      "action": {
+        "hi": "जल छोड़ना: 'करिष्ये' के साथ यजमान हथेली का जल-अक्षत-द्रव्य सामने की थाली या ज़मीन पर छोड़ देता है और हाथ जोड़ता है। सिक्का और सुपारी पंडित की थाली में या पूजा-स्थान पर रखे जाते हैं। इसके बाद गणेश-अंबिका पूजन और कलश-स्थापना शुरू होती है।",
+        "en": "Letting the water fall: with 'karishye' the host lets the water, rice and coin fall from the palm into the plate in front or onto the ground, and folds his hands. The coin and betel nut go into the pandit's plate or onto the puja seat. The Ganesh-Ambika pujan and kalash sthapana follow.",
+        "bho": "जल छोड़ल: 'करिष्ये' संगे जजमान हथेली के जल-अछत-द्रव्य आगे के थरिया भा जमीन पर छोड़ देला आ हाथ जोड़ेला। सिक्का आ सुपारी पंडित के थरिया में भा पूजा-जगह पर राखल जाला। एकरा बाद गणेश-अंबिका पूजन आ कलश-स्थापना सुरू होला।"
+      },
+      "samagriIds": [
+        "jal-patra",
+        "dravya"
+      ],
+      "panditSays": {
+        "hi": "जल छोड़ दीजिए। संकल्प हो गया — अब बीच में उठना नहीं।",
+        "en": "Let the water fall. The sankalpa is made — now no getting up in between.",
+        "bho": "जल छोड़ दीं। संकल्प हो गइल — अब बीच में उठल ना।"
+      },
+      "note": {
+        "hi": "परंपरा में माना जाता है कि छोड़ा हुआ जल संकल्प का साक्षी है। बहु-दिन के अनुष्ठान (नवरात्र, सप्ताह) में संकल्प पहले दिन एक बार होता है और रोज़ छोटा संकल्प दोहराया जाता है।",
+        "en": "Tradition holds that the water let fall is the witness of the resolve. In a rite of several days (Navratri, a saptah) the sankalpa is made once on the first day and a short sankalpa is repeated daily.",
+        "bho": "परंपरा में मानल जाला कि छोड़ल जल संकल्प के गवाह बा। कई दिन के अनुष्ठान (नवरात्र, सप्ताह) में संकल्प पहिला दिन एक बेर होला आ रोज छोट संकल्प दोहरावल जाला।"
+      }
+    },
+    {
+      "n": 6,
+      "layer": "paddhati",
+      "minutes": 1,
+      "action": {
+        "hi": "नित्य कर्म का छोटा रूप: संध्या, स्नान, जप या रोज़ की पूजा में पूरा देश-काल नहीं बोला जाता — केवल मास, पक्ष, तिथि, वार और उद्देश्य, एक साँस में।",
+        "en": "The short form for the daily rites: in the sandhya, the bath, japa or the daily puja the whole statement of place and time is not spoken — only the month, fortnight, tithi, weekday and purpose, in one breath.",
+        "bho": "नित्य करम के छोट रूप: संझा, नहान, जप भा रोज के पूजा में पूरा देस-काल ना बोलल जाला — खाली महीना, पच्छ, तिथि, बार आ उद्देश्य, एक साँस में।"
+      },
+      "mantraIds": [
+        "pad-atradya-mahamangalya"
+      ],
+      "panditSays": {
+        "sa": "ॐ अत्राद्य महामाङ्गल्यफलप्रदमासोत्तमे मासे {मास}मासे {पक्ष}पक्षे {तिथि}तिथौ {वार}वासरे ममोपात्तदुरितक्षयार्थं श्रीपरमेश्वरप्रीत्यर्थं {कर्म} करिष्ये ॥",
+        "hi": "रोज़ के कर्म में इतना ही संकल्प पर्याप्त है।",
+        "en": "For a daily rite this much sankalpa is enough.",
+        "bho": "रोज के करम में एतने संकल्प काफी बा।"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "region": "purnimanta / amanta",
+      "what": {
+        "hi": "हिंदी भाषी क्षेत्र का पंचांग पूर्णिमांत है — महीना पूर्णिमा के अगले दिन से शुरू होता है — इसलिए कृष्ण पक्ष में बोला जाने वाला मास महाराष्ट्र, गुजरात और दक्षिण के अमांत पंचांग से एक नाम आगे होता है (हमारा 'कार्तिक कृष्ण' उनका 'आश्विन कृष्ण' है)। [शुभवेला](https://sudish007.github.io/shubhvela/hi/panchang/) दोनों नाम दिखाता है; संकल्प में अपने क्षेत्र का मास बोला जाता है।",
+        "en": "The Hindi belt's panchang is purnimanta — the month begins the day after the full moon — so the month spoken in the dark fortnight is one name ahead of the amanta panchang of Maharashtra, Gujarat and the south (our 'Kartik krishna' is their 'Ashvin krishna'). [Shubhvela](https://sudish007.github.io/shubhvela/en/panchang/) shows both names; in the sankalpa the month of one's own region is spoken.",
+        "bho": "हिंदी भाषी इलाका के पंचांग पूर्णिमांत बा — महीना पूर्णिमा के अगिला दिन से सुरू होला — एही से कृष्ण पच्छ में बोलल जाए वाला महीना महाराष्ट्र, गुजरात आ दक्खिन के अमांत पंचांग से एक नाँव आगे होला (हमनी के 'कातिक कृष्ण' उनकर 'आसिन कृष्ण' बा)। [शुभवेला](https://sudish007.github.io/shubhvela/bho/panchang/) दुनो नाँव देखावेला; संकल्प में आपन इलाका के महीना बोलल जाला।"
+      },
+      "source": "shubhvela"
+    },
+    {
+      "region": "pothi-bhed",
+      "what": {
+        "hi": "पोथियों में ढाँचे के छोटे-बड़े रूप मिलते हैं: कुछ 'अद्यैतस्य ब्रह्मणोऽह्नि द्वितीये परार्धे' और 'भूर्लोके भारतवर्षे' जोड़ती हैं और विक्रम संवत् की संख्या बोलती हैं; कुछ योग-करण छोड़ देती हैं; कुछ 'ॐ तत्सत्' से शुरू करती हैं। अर्थ सब में एक है।",
+        "en": "The handbooks give longer and shorter forms of the frame: some add 'adyaitasya brahmano'hni dvitiye parardhe' and 'bhurloke Bharatavarshe' and speak the Vikram year as a number; some leave out the yoga and karana; some begin with 'om tat sat'. The sense is the same in all.",
+        "bho": "पोथी में ढाँचा के छोट-बड़ रूप मिलेला: कुछ 'अद्यैतस्य ब्रह्मणोऽह्नि द्वितीये परार्धे' आ 'भूर्लोके भारतवर्षे' जोड़ेली आ विक्रम संवत के गिनती बोलेली; कुछ योग-करन छोड़ देली; कुछ 'ॐ तत्सत्' से सुरू करेली। अरथ सब में एके बा।"
+      },
+      "source": "dp-sankalpa"
+    }
+  ],
+  "faq": [
+    {
+      "q": {
+        "hi": "हमें अपना गोत्र नहीं पता — संकल्प में क्या बोलें?",
+        "en": "We do not know our gotra — what do we say in the sankalpa?",
+        "bho": "हमनी के आपन गोत्र ना पता — संकल्प में का बोलीं?"
+      },
+      "a": {
+        "hi": "धर्मशास्त्र का नियम है — [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A4%B6%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) में उद्धृत 'गोत्रस्य त्वपरिज्ञाने काश्यपं गोत्रमुच्यते': गोत्र न जानने पर काश्यप गोत्र बोला जाता है। परंपरा में इसका कारण यह बताया जाता है कि कश्यप ऋषि सब प्रजा के आदि-पुरुष माने गए हैं। यह कर्म पूरा करने की रीति है, किसी के वंश के बारे में कथन नहीं। पहले बड़े-बूढ़ों, कुल-पुरोहित या पुराने विवाह-पत्र में गोत्र खोज लेना अच्छा है; विवाह में गोत्र का प्रश्न अलग है, वहाँ अनुमान नहीं चलता।",
+        "en": "The dharmashastra rule, quoted in the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A4%B6%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) — 'gotrasya tvaparijnane kashyapam gotram uchyate' — says that when the gotra is unknown, Kashyapa gotra is spoken. Tradition gives as the reason that the sage Kashyapa is counted as the first ancestor of all creatures. It is a convention for completing the rite, not a statement about anyone's descent. It is worth asking the elders, the family purohit or an old wedding letter first; at a marriage the gotra question is a different matter, and no guess is made there.",
+        "bho": "धर्मशास्त्र के नियम बा — [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A4%B6%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) में उद्धृत 'गोत्रस्य त्वपरिज्ञाने काश्यपं गोत्रमुच्यते': गोत्र ना जनला पर काश्यप गोत्र बोलल जाला। परंपरा में एकर कारन ई बतावल जाला कि कश्यप ऋषि सब प्रजा के आदि-पुरुष मानल गइल बाड़न। ई करम पूरा करे के रीति बा, केहू के वंश के बारे में कथन ना। पहिले बड़-बुजुर्ग, कुल-पुरोहित भा पुरान बियाह के चिट्ठी में गोत्र खोज लेवल नीक बा; बियाह में गोत्र के सवाल अलगा बा, ओहिजा अनुमान ना चले।"
+      }
+    },
+    {
+      "q": {
+        "hi": "संकल्प कौन बोलता है — पंडित या यजमान?",
+        "en": "Who speaks the sankalpa — the pandit or the host?",
+        "bho": "संकल्प के बोलेला — पंडित भा जजमान?"
+      },
+      "a": {
+        "hi": "दोनों: वाक्य यजमान का है ('अहं … करिष्ये' — मैं करूँगा), इसलिए उसे यजमान को ही बोलना चाहिए; पंडित उसे टुकड़ों में सुनाता है और यजमान दोहराता है। जिस परिवार में यजमान संस्कृत उच्चारण में असमर्थ हो, वहाँ पोथियों की छूट है कि पंडित वाक्य बोले और यजमान 'करिष्ये' और जल छोड़ने की क्रिया करे।",
+        "en": "Both: the sentence is the host's ('aham … karishye' — I shall perform), so the host should speak it; the pandit gives it in pieces and the host repeats. Where the host cannot manage the Sanskrit, the handbooks allow the pandit to speak the sentence while the host says 'karishye' and performs the letting-fall of the water.",
+        "bho": "दुनो: वाक्य जजमान के बा ('अहं … करिष्ये' — हम करब), एही से एकरा जजमाने के बोले के चाहीं; पंडित एकरा टुकड़ा में सुनावेलन आ जजमान दोहरावेला। जे परिवार में जजमान संस्कृत उच्चारन ना कर पावे, ओहिजा पोथी के छूट बा कि पंडित वाक्य बोलसु आ जजमान 'करिष्ये' आ जल छोड़े के काम करे।"
+      }
+    },
+    {
+      "q": {
+        "hi": "महिला अकेले व्रत या कथा का संकल्प करे तो वाक्य कैसे बदलता है?",
+        "en": "When a woman makes the sankalpa for a vrat or katha on her own, how does the sentence change?",
+        "bho": "मेहरारू अकेले बरत भा कथा के संकल्प करे त वाक्य कइसे बदलेला?"
+      },
+      "a": {
+        "hi": "वही ढाँचा रहता है, केवल अपने लिए स्त्रीलिंग रूप आते हैं — 'अमुकगोत्रोत्पन्ना अमुकनाम्नी अहं … करिष्ये' — और विवाहिता पति के गोत्र से, अविवाहिता पिता के गोत्र से परिचय देती है; यही पोथियों का प्रचलन है। हिंदी भाषी क्षेत्र में करवा चौथ, तीज, जिउतिया जैसे व्रतों का संकल्प स्त्रियाँ स्वयं करती हैं। परिवार की रीति अंतिम है।",
+        "en": "The frame stays the same; only the feminine forms are used for oneself — 'amuka-gotrotpanna amuka-namni aham … karishye' — and a married woman gives the husband's gotra, an unmarried one her father's; that is the usage of the handbooks. In the Hindi belt women make the sankalpa of vrats like Karwa Chauth, Teej and Jitiya themselves. The family's custom has the last word.",
+        "bho": "उहे ढाँचा रहेला, खाली आपन खातिर स्त्रीलिंग रूप आवेला — 'अमुकगोत्रोत्पन्ना अमुकनाम्नी अहं … करिष्ये' — आ बियाहल मेहरारू मरद के गोत्र से, कुँवारी बाबूजी के गोत्र से परिचय देली; इहे पोथी के चलन बा। हिंदी भाषी इलाका में करवा चौथ, तीज, जिउतिया जइसन बरत के संकल्प मेहरारू लोग खुदे करेला। परिवार के रीति अंतिम बा।"
+      }
+    },
+    {
+      "q": {
+        "hi": "पंचांग में तिथि या नक्षत्र दिन में बदल रहा हो तो कौन-सा बोलें?",
+        "en": "If the tithi or nakshatra changes during the day, which one do we say?",
+        "bho": "पंचांग में तिथि भा नछत्र दिन में बदलत होखे त कवन बोलीं?"
+      },
+      "a": {
+        "hi": "पोथियों का प्रचलन: संवत्सर, मास, अयन और ऋतु सूर्योदय के समय के लिए जाते हैं; तिथि, नक्षत्र, योग, करण और वार उस घड़ी के, जब संकल्प बोला जा रहा है — पंचांग-साधन भी इसी नियम से गिनते हैं। [शुभवेला](https://sudish007.github.io/shubhvela/hi/panchang/) का दिन-कार्ड हर अंग के साथ उसकी समाप्ति का समय देता है: यदि पूजा उस समय के बाद है तो अगला अंग लें। व्रत-त्योहार जिस तिथि से बँधे हैं, उनमें वही तिथि बोली जाती है जिसके लिए व्रत है।",
+        "en": "The handbooks' usage: the samvatsara, month, ayana and season are taken as at sunrise; the tithi, nakshatra, yoga, karana and weekday as at the moment the sankalpa is spoken — panchang utilities count the same way. [Shubhvela](https://sudish007.github.io/shubhvela/en/panchang/)'s day card gives the time each limb ends: if the puja is after that time, take the next one. For a vrat or festival tied to a tithi, the tithi the vrat is for is the one spoken.",
+        "bho": "पोथी के चलन: संवत्सर, महीना, अयन आ ऋतु सूर्योदय के समय के लिहल जाला; तिथि, नछत्र, योग, करन आ बार ओह घरी के, जब संकल्प बोलल जात बा — पंचांग-साधन भी एही नियम से गिनेला। [शुभवेला](https://sudish007.github.io/shubhvela/bho/panchang/) के दिन-कार्ड हर अंग संगे ओकर खतम होखे के समय देला: अगर पूजा ओह समय के बाद बा त अगिला अंग लीं। बरत-तेवहार जे तिथि से बान्हल बा, ओमें उहे तिथि बोलल जाला जेकरा खातिर बरत बा।"
+      }
+    },
+    {
+      "q": {
+        "hi": "संकल्प वेद का मंत्र है?",
+        "en": "Is the sankalpa a Vedic mantra?",
+        "bho": "संकल्प वेद के मंत्र बा?"
+      },
+      "a": {
+        "hi": "नहीं — यह पद्धति (पोथी-परंपरा) का संस्कृत वाक्य है, जिसका ढाँचा पुराणों के काल-गणना (कल्प, मन्वंतर, युग) और पंचांग से बना है; [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) जैसी हर पोथी में यही शब्द हैं। वेद के मंत्र इसके बाद के चरणों — मार्जन, गणेश-पूजन, कलश — में आते हैं। इसीलिए इस पृष्ठ के चरण 'पद्धति' चिह्न से हैं।",
+        "en": "No — it is a Sanskrit sentence of the handbook tradition (paddhati), whose frame is built from the Puranic reckoning of time (kalpa, manvantara, yuga) and from the panchang; every handbook, such as the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt), has the same words. The Vedic mantras come in the steps that follow — the marjana, the Ganesh pujan, the kalash. That is why the steps on this page carry the 'paddhati' label.",
+        "bho": "ना — ई पद्धति (पोथी-परंपरा) के संस्कृत वाक्य बा, जेकर ढाँचा पुरान के काल-गिनती (कल्प, मन्वंतर, जुग) आ पंचांग से बनल बा; [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) जइसन हर पोथी में इहे शब्द बा। वेद के मंत्र एकरा बाद के चरन — मार्जन, गणेश-पूजन, कलश — में आवेला। एही से एह पन्ना के चरन 'पद्धति' चिह्न से बा।"
+      }
+    }
+  ],
+  "sources": [
+    "ia-vivah-mvf",
+    "dp-sankalpa",
+    "sd-syv-sandhya",
+    "ws-nityakarmavidhi",
+    "ws-samskararatnamala-1-12",
+    "ws-samskararatnamala-2-8",
+    "shubhvela"
+  ],
+  "tags": [
+    "foundations",
+    "sankalp",
+    "panchang",
+    "gotra"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

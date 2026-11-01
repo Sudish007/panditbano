@@ -1,0 +1,287 @@
+{
+  "id": "pad-vishnur-vishnur-vishnuh",
+  "kind": "paddhati",
+  "locator": "Hindi-belt paddhati sankalpa frame (Vivah Sanskar Paddhati, Dwivedi 2020, vara-sankalpa; same wording in the kanyadaan sankalpa)",
+  "title": {
+    "hi": "संकल्प-वाक्य — देश-काल का पूरा ढाँचा",
+    "en": "The sankalpa frame — the full statement of place and time",
+    "bho": "संकल्प-वाक्य — देस-काल के पूरा ढाँचा"
+  },
+  "devanagari": "ॐ विष्णुर्विष्णुर्विष्णुः श्रीमद्भगवतो महापुरुषस्य विष्णोराज्ञया प्रवर्तमानस्य ब्रह्मणो द्वितीयपरार्धे श्रीश्वेतवाराहकल्पे वैवस्वतमन्वन्तरे अष्टाविंशतितमे कलियुगे कलिप्रथमचरणे जम्बूद्वीपे भरतखण्डे आर्यावर्तैकदेशे अमुकनगरे अमुकसंवत्सरे अमुकायने अमुकऋतौ अमुकमासे अमुकपक्षे अमुकतिथौ अमुकनक्षत्रे अमुकयोगे अमुककरणे अमुकवासरे अमुकराशिस्थिते सूर्ये अमुकराशिस्थिते चन्द्रे शेषेषु ग्रहेषु यथायथाराशिस्थानस्थितेषु सत्सु एवं ग्रहगुणगणविशेषणविशिष्टायां शुभमुहूर्ते अमुकगोत्रः अमुकशर्माहं अमुककर्म करिष्ये ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "ॐ विष्णुर्विष्णुर्विष्णुः",
+      "gloss": {
+        "hi": "विष्णु, विष्णु, विष्णु (तीन बार स्मरण)",
+        "en": "Vishnu, Vishnu, Vishnu (remembered thrice)",
+        "bho": "विष्णु, विष्णु, विष्णु (तीन बेर सुमिरन)"
+      }
+    },
+    {
+      "sa": "श्रीमद्भगवतो महापुरुषस्य विष्णोः",
+      "gloss": {
+        "hi": "श्रीमान भगवान महापुरुष विष्णु की",
+        "en": "of the glorious Lord, the great Person Vishnu",
+        "bho": "श्रीमान भगवान महापुरुष विष्णु के"
+      }
+    },
+    {
+      "sa": "आज्ञया प्रवर्तमानस्य",
+      "gloss": {
+        "hi": "आज्ञा से चलते हुए (इस सृष्टि-चक्र में)",
+        "en": "proceeding by whose command (this cycle of creation)",
+        "bho": "आज्ञा से चलत (एह सृष्टि-चक्र में)"
+      }
+    },
+    {
+      "sa": "ब्रह्मणो द्वितीयपरार्धे",
+      "gloss": {
+        "hi": "ब्रह्मा की आयु के दूसरे परार्ध में",
+        "en": "in the second half (parardha) of Brahma's life",
+        "bho": "ब्रह्मा के उमिर के दुसरा परार्ध में"
+      }
+    },
+    {
+      "sa": "श्रीश्वेतवाराहकल्पे",
+      "gloss": {
+        "hi": "श्वेतवाराह नाम के कल्प में",
+        "en": "in the kalpa called Shvetavaraha",
+        "bho": "श्वेतवाराह नाँव के कल्प में"
+      }
+    },
+    {
+      "sa": "वैवस्वतमन्वन्तरे",
+      "gloss": {
+        "hi": "वैवस्वत मनु के मन्वंतर में",
+        "en": "in the manvantara of Vaivasvata Manu",
+        "bho": "वैवस्वत मनु के मन्वंतर में"
+      }
+    },
+    {
+      "sa": "अष्टाविंशतितमे कलियुगे",
+      "gloss": {
+        "hi": "अट्ठाईसवें चतुर्युग के कलियुग में",
+        "en": "in the Kali-yuga of the twenty-eighth cycle of four ages",
+        "bho": "अट्ठाइसवाँ चार-जुग के कलिजुग में"
+      }
+    },
+    {
+      "sa": "कलिप्रथमचरणे",
+      "gloss": {
+        "hi": "कलियुग के पहले चरण में",
+        "en": "in the first quarter of the Kali-yuga",
+        "bho": "कलिजुग के पहिला चरन में"
+      }
+    },
+    {
+      "sa": "जम्बूद्वीपे",
+      "gloss": {
+        "hi": "जंबूद्वीप में",
+        "en": "on the Jambu continent",
+        "bho": "जंबूद्वीप में"
+      }
+    },
+    {
+      "sa": "भरतखण्डे",
+      "gloss": {
+        "hi": "भरतखंड में",
+        "en": "in the Bharata region",
+        "bho": "भरतखंड में"
+      }
+    },
+    {
+      "sa": "आर्यावर्तैकदेशे",
+      "gloss": {
+        "hi": "आर्यावर्त के एक देश में",
+        "en": "in one land of Aryavarta",
+        "bho": "आर्यावर्त के एक देस में"
+      }
+    },
+    {
+      "sa": "अमुकनगरे",
+      "gloss": {
+        "hi": "अमुक नगर में (नगर या गाँव का नाम)",
+        "en": "in such-and-such town (the name of the town or village)",
+        "bho": "अमुक नगर में (नगर भा गाँव के नाँव)"
+      }
+    },
+    {
+      "sa": "अमुकसंवत्सरे",
+      "gloss": {
+        "hi": "अमुक नाम के संवत्सर में",
+        "en": "in the samvatsara named so-and-so",
+        "bho": "अमुक नाँव के संवत्सर में"
+      }
+    },
+    {
+      "sa": "अमुकायने",
+      "gloss": {
+        "hi": "अमुक अयन में (उत्तरायण या दक्षिणायन)",
+        "en": "in such ayana (uttarayana or dakshinayana)",
+        "bho": "अमुक अयन में (उत्तरायन भा दक्खिनायन)"
+      }
+    },
+    {
+      "sa": "अमुकऋतौ",
+      "gloss": {
+        "hi": "अमुक ऋतु में",
+        "en": "in such season",
+        "bho": "अमुक ऋतु में"
+      }
+    },
+    {
+      "sa": "अमुकमासे",
+      "gloss": {
+        "hi": "अमुक मास में",
+        "en": "in such month",
+        "bho": "अमुक महीना में"
+      }
+    },
+    {
+      "sa": "अमुकपक्षे",
+      "gloss": {
+        "hi": "अमुक पक्ष में (शुक्ल या कृष्ण)",
+        "en": "in such fortnight (bright or dark)",
+        "bho": "अमुक पच्छ में (शुक्ल भा कृष्ण)"
+      }
+    },
+    {
+      "sa": "अमुकतिथौ",
+      "gloss": {
+        "hi": "अमुक तिथि में",
+        "en": "on such tithi",
+        "bho": "अमुक तिथि में"
+      }
+    },
+    {
+      "sa": "अमुकनक्षत्रे",
+      "gloss": {
+        "hi": "अमुक नक्षत्र में",
+        "en": "under such nakshatra",
+        "bho": "अमुक नछत्र में"
+      }
+    },
+    {
+      "sa": "अमुकयोगे",
+      "gloss": {
+        "hi": "अमुक योग में",
+        "en": "in such yoga",
+        "bho": "अमुक योग में"
+      }
+    },
+    {
+      "sa": "अमुककरणे",
+      "gloss": {
+        "hi": "अमुक करण में",
+        "en": "in such karana",
+        "bho": "अमुक करन में"
+      }
+    },
+    {
+      "sa": "अमुकवासरे",
+      "gloss": {
+        "hi": "अमुक वार को",
+        "en": "on such weekday",
+        "bho": "अमुक बार के दिन"
+      }
+    },
+    {
+      "sa": "अमुकराशिस्थिते सूर्ये",
+      "gloss": {
+        "hi": "सूर्य के अमुक राशि में रहते",
+        "en": "the Sun standing in such sign",
+        "bho": "सूरज के अमुक राशि में रहते"
+      }
+    },
+    {
+      "sa": "अमुकराशिस्थिते चन्द्रे",
+      "gloss": {
+        "hi": "चंद्र के अमुक राशि में रहते",
+        "en": "the Moon standing in such sign",
+        "bho": "चाँद के अमुक राशि में रहते"
+      }
+    },
+    {
+      "sa": "शेषेषु ग्रहेषु यथायथाराशिस्थानस्थितेषु सत्सु",
+      "gloss": {
+        "hi": "शेष ग्रहों के अपनी-अपनी राशि और स्थान में रहते हुए",
+        "en": "the other planets standing in their own signs and places",
+        "bho": "बाकी ग्रह आपन-आपन राशि आ जगह में रहते"
+      }
+    },
+    {
+      "sa": "एवं ग्रहगुणगणविशेषणविशिष्टायां शुभमुहूर्ते",
+      "gloss": {
+        "hi": "इस प्रकार ग्रहों और गुणों की विशेषताओं वाले शुभ मुहूर्त में",
+        "en": "in this auspicious moment marked by these planets and qualities",
+        "bho": "अइसन ग्रह आ गुन के बिसेसता वाला सुभ मुहूरत में"
+      }
+    },
+    {
+      "sa": "अमुकगोत्रः अमुकशर्माहं",
+      "gloss": {
+        "hi": "अमुक गोत्र का, अमुक नाम वाला मैं",
+        "en": "I, of such gotra, named so-and-so",
+        "bho": "अमुक गोत्र के, अमुक नाँव वाला हम"
+      }
+    },
+    {
+      "sa": "अमुककर्म करिष्ये",
+      "gloss": {
+        "hi": "अमुक कर्म करूँगा",
+        "en": "shall perform such-and-such rite",
+        "bho": "अमुक करम करब"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "विष्णु, विष्णु, विष्णु। श्रीमान भगवान महापुरुष विष्णु की आज्ञा से चलते इस सृष्टि-चक्र में, ब्रह्मा की आयु के दूसरे परार्ध में, श्वेतवाराह कल्प में, वैवस्वत मन्वंतर में, अट्ठाईसवें कलियुग के पहले चरण में, जंबूद्वीप के भरतखंड में, आर्यावर्त के एक देश के अमुक नगर में; अमुक संवत्सर, अयन, ऋतु, मास, पक्ष, तिथि, नक्षत्र, योग, करण और वार में; सूर्य और चंद्र के अमुक राशि में और शेष ग्रहों के अपने-अपने स्थान में रहते — ऐसे ग्रह-गुणों वाले शुभ मुहूर्त में, अमुक गोत्र का अमुक नाम वाला मैं अमुक कर्म करूँगा।",
+    "en": "Vishnu, Vishnu, Vishnu. In this cycle of creation that runs by the command of the glorious Lord, the great Person Vishnu; in the second half of Brahma's life, in the Shvetavaraha kalpa, in the manvantara of Vaivasvata, in the first quarter of the Kali-yuga of the twenty-eighth cycle; on the Jambu continent, in the Bharata region, in one land of Aryavarta, in such-and-such town; in such samvatsara, ayana, season, month, fortnight, tithi, nakshatra, yoga, karana and weekday; with the Sun and the Moon in such signs and the other planets in their own places — in this auspicious moment so marked, I, of such gotra and such name, shall perform such-and-such rite.",
+    "bho": "विष्णु, विष्णु, विष्णु। श्रीमान भगवान महापुरुष विष्णु के आज्ञा से चलत एह सृष्टि-चक्र में, ब्रह्मा के उमिर के दुसरा परार्ध में, श्वेतवाराह कल्प में, वैवस्वत मन्वंतर में, अट्ठाइसवाँ कलिजुग के पहिला चरन में, जंबूद्वीप के भरतखंड में, आर्यावर्त के एक देस के अमुक नगर में; अमुक संवत्सर, अयन, ऋतु, महीना, पच्छ, तिथि, नछत्र, योग, करन आ बार में; सूरज आ चाँद के अमुक राशि में आ बाकी ग्रह आपन-आपन जगह में रहते — अइसन ग्रह-गुन वाला सुभ मुहूरत में, अमुक गोत्र के अमुक नाँव वाला हम अमुक करम करब।"
+  },
+  "explanation": {
+    "hi": "यह [[sankalp]] का वह ढाँचा है जो हिंदी भाषी क्षेत्र की लगभग हर [[paddhati]] में एक ही क्रम से मिलता है: पहले तीन बार विष्णु का स्मरण, फिर महाकाल (परार्ध, कल्प, मन्वंतर, युग, चरण) और महादेश (द्वीप, खंड, देश, नगर), फिर [[panchang]] के अंग — [[samvatsar]], [[ayan]], [[ritu]], [[maas]], [[paksha]], [[tithi]], [[nakshatra]], [[yoga]], [[karan]], [[vaar]] और सूर्य-चंद्र की राशि — और अंत में [[yajman]] का [[gotra]], नाम और कर्म। जहाँ 'अमुक' लिखा है, वहाँ पंडित उस दिन के पंचांग से असली शब्द भरता है; पोथियाँ इसी तरह 'अमुक' या रिक्त स्थान छापती हैं। पाठ [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) से लिया गया है, जिसमें वर-संकल्प और कन्यादान-संकल्प दोनों इसी ढाँचे से शुरू होते हैं; उस पोथी का विवाह-विशेष उद्देश्य-वाक्य यहाँ 'अमुककर्म करिष्ये' से बदला गया है, ताकि यही ढाँचा हर पूजा में लगे। कुछ पोथियाँ 'अद्यैतस्य ब्रह्मणोऽह्नि द्वितीये परार्धे' और 'आर्यावर्तांतर्गत ब्रह्मावर्त-एकदेशे' जोड़ती हैं और विक्रम संवत् की संख्या भी बोलती हैं — यह पाठांतर नीचे दिया है। पूरा उदाहरण और हर अंग को पंचांग से पढ़ने की विधि [संकल्प संदर्भ-पृष्ठ](/reference/sankalpa/) पर है।",
+    "en": "This is the frame of the sankalpa found in almost every Hindi-belt handbook (paddhati) in the same order: Vishnu's name three times; then the great time (parardha, kalpa, manvantara, yuga, quarter) and the great place (continent, region, land, town); then the limbs of the panchang — samvatsara, ayana, season, month, fortnight, tithi, nakshatra, yoga, karana, weekday and the signs of the Sun and Moon — and finally the host's gotra, name and the rite itself. Wherever the text says 'amuka' (so-and-so) the pandit fills in the real word from the day's panchang; the printed handbooks leave the same blanks. The text is taken from the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt), where both the groom's sankalpa and the kanyadaan sankalpa open with this frame; that handbook's wedding-specific purpose clause is replaced here by 'amuka-karma karishye' so that the same frame serves every puja. Some handbooks add 'adyaitasya brahmano'hni dvitiye parardhe' and 'Aryavartantargata-Brahmavarta-ekadeshe' and also speak the Vikram year as a number — that reading is given below. The worked example and how to read each limb from a panchang are on the [sankalpa reference page](/reference/sankalpa/).",
+    "bho": "ई [[sankalp]] के ऊ ढाँचा बा जे हिंदी भाषी इलाका के लगभग हर [[paddhati]] में एके क्रम से मिलेला: पहिले तीन बेर विष्णु के सुमिरन, फेर महाकाल (परार्ध, कल्प, मन्वंतर, जुग, चरन) आ महादेस (द्वीप, खंड, देस, नगर), फेर [[panchang]] के अंग — [[samvatsar]], [[ayan]], [[ritu]], [[maas]], [[paksha]], [[tithi]], [[nakshatra]], [[yoga]], [[karan]], [[vaar]] आ सूरज-चाँद के राशि — आ अंत में [[yajman]] के [[gotra]], नाँव आ करम। जहाँ 'अमुक' लिखल बा, ओहिजा पंडित ओह दिन के पंचांग से असली शब्द भरेलन; पोथी भी अइसहीं 'अमुक' भा खाली जगह छापेले। पाठ [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) से लिहल गइल बा, जेमें वर-संकल्प आ कन्यादान-संकल्प दुनो एही ढाँचा से सुरू होला; ओह पोथी के बियाह-बिसेस उद्देश्य-वाक्य इहाँ 'अमुककर्म करिष्ये' से बदलल गइल बा, जेसे इहे ढाँचा हर पूजा में लागे। कुछ पोथी 'अद्यैतस्य ब्रह्मणोऽह्नि द्वितीये परार्धे' आ 'आर्यावर्तांतर्गत ब्रह्मावर्त-एकदेशे' जोड़ेली आ विक्रम संवत के गिनती भी बोलेली — ई पाठांतर नीचे दिहल बा। पूरा उदाहरन आ हर अंग के पंचांग से पढ़े के तरीका [संकल्प संदर्भ-पन्ना](/reference/sankalpa/) पर बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-vivah-mvf",
+    "retrieved": "2026-11-01",
+    "modified": "blank dots (.....) filled with the traditional placeholder अमुक (as the edition's own kanyadaan sankalpa does); OCR spacing inside compounds closed; OCR ३/3» restored to ॐ; शुभमुहृर्ते → शुभमुहूर्ते; the wedding-specific purpose clause replaced by अमुककर्म करिष्ये"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "dp-sankalpa",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ws-nityakarmavidhi",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "variants": [
+    {
+      "reading": "ॐ विष्णुर्विष्णुर्विष्णुः । श्रीमद्भगवतो महापुरुषस्य विष्णोराज्ञया प्रवर्तमानस्य अद्यैतस्य ब्रह्मणोऽह्नि द्वितीये परार्धे श्रीश्वेतवाराहकल्पे वैवस्वतमन्वन्तरे अष्टाविंशतितमे युगे कलियुगे कलिप्रथमचरणे भूर्लोके भारतवर्षे जम्बूद्वीपे भरतखण्डे आर्यावर्तान्तर्गतब्रह्मावर्तस्य अमुकक्षेत्रे अमुकनाम्नि नगरे देवब्राह्मणानां सन्निधौ श्रीमन्नृपतिवीरविक्रमादित्यसमयतः अमुकसंख्यापरिमिते प्रवर्तमानसंवत्सरे प्रभवादिषष्टिसंवत्सराणां मध्ये अमुकनामसंवत्सरे",
+      "note": {
+        "hi": "कई पोथियाँ और पंचांग-साधन 'अद्यैतस्य ब्रह्मणोऽह्नि' (ब्रह्मा के आज के दिन में), 'भूर्लोके भारतवर्षे' और 'आर्यावर्तांतर्गत ब्रह्मावर्त' जोड़ते हैं, और संवत्सर के नाम से पहले विक्रम संवत् की संख्या बोलते हैं।",
+        "en": "Many handbooks and panchang utilities add 'adyaitasya brahmano'hni' (on this present day of Brahma), 'bhurloke Bharatavarshe' and 'Aryavarta's Brahmavarta', and speak the Vikram year as a number before the samvatsara's name.",
+        "bho": "कई पोथी आ पंचांग-साधन 'अद्यैतस्य ब्रह्मणोऽह्नि' (ब्रह्मा के आज के दिन में), 'भूर्लोके भारतवर्षे' आ 'आर्यावर्तांतर्गत ब्रह्मावर्त' जोड़ेली, आ संवत्सर के नाँव से पहिले विक्रम संवत के गिनती बोलेली।"
+      },
+      "source": "dp-sankalpa"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional anonymous paddhati formula (pre-modern wording, found in every Hindi-belt handbook); copied from a 2020 edition's OCR — brief §14 applies to the edition, the formula itself is public domain",
+  "tags": [
+    "sankalp",
+    "paddhati",
+    "panchang"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}
