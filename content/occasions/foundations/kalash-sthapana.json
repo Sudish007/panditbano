@@ -1,0 +1,545 @@
+{
+  "id": "kalash-sthapana",
+  "code": "F06",
+  "group": "foundations",
+  "phase": 1,
+  "title": {
+    "hi": "कलश स्थापना",
+    "en": "Kalasha sthapana",
+    "bho": "कलश स्थापना"
+  },
+  "lede": {
+    "hi": "जल से भरा कलश — भूमि-स्पर्श से दीपक तक ग्यारह वैदिक मंत्रों के साथ उसकी स्थापना, उसमें वरुण और सब देवताओं-तीर्थों का आवाहन, और उसका पूजन; हर बड़ी पूजा का 'जल-मंदिर'।",
+    "en": "The water-filled kalasha — its setting with eleven Vedic mantras from touching the ground to lighting the lamp, the invocation of Varuna and of all the deities and holy waters into it, and its worship; the 'water shrine' of every major puja.",
+    "bho": "जल से भरल कलश — भूमि-स्पर्श से दीया तक एगारह वैदिक मंत्र संगे ओकर स्थापना, ओह में वरुन आ सब देवता-तीरथ के आवाहन, आ ओकर पूजन; हर बड़ पूजा के 'जल-मंदिर'।"
+  },
+  "overview": {
+    "hi": "[[kalash]] — ताँबे, पीतल या मिट्टी का जल-भरा घड़ा — उत्तर भारत की पूजा में देवताओं का आसन और [[varun]] का रूप है। [[kalash-sthapana]] में पंडित भूमि छूकर, धान्य बिछाकर, कलश रखकर, जल भरकर उसमें आम्रपल्लव, सुपारी, मौली और सिक्का डालता है, ऊपर पूर्णपात्र और नारियल रखता है, दीपक जलाता है, फिर 'तत्त्वा यामि' (VS 18.49) से वरुण का और 'कलशस्य मुखे विष्णुः' से सब देवताओं-वेदों-तीर्थों का आवाहन करता है। हर वस्तु का अपना वैदिक मंत्र है — ये मंत्र [[yajurved]] के हैं, पर उनका कलश में विनियोग [[paddhati]]-परंपरा का है, [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) का नहीं। क्रम यहाँ [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) का है, जिसे [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) के कलश-स्थापन से मिलाया गया है; जहाँ दोनों अलग मंत्र देती हैं, वहाँ हर मंत्र-पृष्ठ पर दूसरा पाठ दर्ज है। कलश [[ganesh-ambika-pujan]] के बाद और नवग्रह-मातृका पूजन के पहले स्थापित होता है; [[punyahavachan]], नवरात्र की [[ghatasthapana]], गृहप्रवेश और विवाह-मंडप में इसी ढाँचे का उपयोग है। परंपरा में माना जाता है कि स्थापित कलश का जल सब तीर्थों का जल है और उससे पूजा के अंत में [[abhishek]] किया जाता है।",
+    "en": "The kalasha — a water-filled pot of copper, brass or clay — is in North Indian worship the seat of the deities and the form of Varuna. In the kalasha sthapana the pandit touches the ground, spreads grain, sets the pot, fills it with water, drops in mango leaves, a betel nut, red thread and a coin, sets the full vessel and the coconut on top, lights the lamp, and then invokes Varuna with 'tat tva yami' (VS 18.49) and all the gods, Vedas and holy waters with 'kalashasya mukhe vishnuh'. Each item has its own Vedic mantra — the mantras are from the Yajurveda, but their application to the kalasha is the handbook tradition's, not the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D)'s. The order here is that of the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt), compared with the kalasha section of the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D); where the two give different mantras, the other reading is recorded on each mantra page. The kalasha is set after the Ganesha-Ambika puja and before the navagraha and matrika worship; the punyaha-vachana, the Navratri ghatasthapana, the house-entry and the wedding pavilion all use this same frame. Tradition holds that the water of the installed kalasha is the water of all holy places and is used for the sprinkling at the end of the puja.",
+    "bho": "[[kalash]] — तामा, पीतल भा माटी के जल-भरल घइला — उत्तर भारत के पूजा में देवता लोग के आसन आ [[varun]] के रूप बा। [[kalash-sthapana]] में पंडित भूमि छू के, धान्य बिछा के, कलश राख के, जल भर के ओह में आम के पल्लव, सुपारी, मौली आ सिक्का डालेलन, ऊपर पूर्णपात्र आ नरियर राखेलन, दीया जरावेलन, फेर 'तत्त्वा यामि' (VS 18.49) से वरुन के आ 'कलशस्य मुखे विष्णुः' से सब देवता-वेद-तीरथ के आवाहन करेलन। हर चीज के आपन वैदिक मंत्र बा — ई मंत्र [[yajurved]] के बा, बाकिर उनकर कलश में बिनियोग [[paddhati]]-परंपरा के बा, [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) के ना। क्रम इहाँ [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) के बा, जेकरा [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) के कलश-स्थापन से मिलावल गइल बा; जहाँ दुनो अलगा मंत्र देला, ओहिजा हर मंत्र-पन्ना पर दोसरा पाठ दरज बा। कलश [[ganesh-ambika-pujan]] के बाद आ नवग्रह-मातृका पूजन के पहिले स्थापित होला; [[punyahavachan]], नवरात्र के [[ghatasthapana]], गृहप्रवेश आ बियाह-मड़वा में एही ढाँचा के उपयोग बा। परंपरा में मानल जाला कि स्थापित कलश के जल सब तीरथ के जल बा आ ओकरा से पूजा के अंत में [[abhishek]] कइल जाला।"
+  },
+  "when": {
+    "rules": {
+      "hi": "हर बड़ी पूजा, संस्कार, हवन और कथा में — गणेश-अंबिका पूजन के बाद, नवग्रह और मातृका पूजन के पहले; नवरात्र की घटस्थापना प्रतिपदा को प्रातः इसी विधि से होती है (तिथि-मुहूर्त के लिए [Shubhvela](https://sudish007.github.io/shubhvela/) देखें)। अलग मुहूर्त नहीं; मुख्य कर्म का समय ही कलश का समय है।",
+      "en": "In every major puja, samskara, havan and katha — after the Ganesha-Ambika puja, before the navagraha and matrika worship; the Navratri ghatasthapana follows this procedure on the morning of the first tithi (see [Shubhvela](https://sudish007.github.io/shubhvela/) for dates and muhurat). No separate muhurat; the time of the main rite is the time of the kalasha.",
+      "bho": "हर बड़ पूजा, संस्कार, हवन आ कथा में — गणेश-अंबिका पूजन के बाद, नवग्रह आ मातृका पूजन के पहिले; नवरात्र के घटस्थापना परतिपदा के भोर में एही बिधि से होला (तिथि-मुहूरत खातिर [Shubhvela](https://sudish007.github.io/shubhvela/) देखीं)। अलगा मुहूरत ना; मुख्य करम के समय ही कलश के समय बा।"
+    },
+    "shubhvela": {
+      "muhurat": null,
+      "festival": null,
+      "vrat": null
+    }
+  },
+  "roles": [
+    {
+      "role": {
+        "hi": "पुरोहित",
+        "en": "Purohit",
+        "bho": "पुरोहित"
+      },
+      "does": {
+        "hi": "हर वस्तु का मंत्र पढ़ना, वरुण और कलश-देवताओं का आवाहन, कलश का पूजन; यजमान को बताना कि कब क्या डालें।",
+        "en": "Recites the mantra of each item, invokes Varuna and the kalasha deities, worships the kalasha; tells the host when to put in what.",
+        "bho": "हर चीज के मंत्र पढ़ल, वरुन आ कलश-देवता के आवाहन, कलश के पूजन; जजमान के बतावल कि कब का डालीं।"
+      }
+    },
+    {
+      "role": {
+        "hi": "यजमान",
+        "en": "The host",
+        "bho": "जजमान"
+      },
+      "does": {
+        "hi": "भूमि छूना, धान्य बिछाना, कलश रखना और भरना, हर वस्तु कलश में डालना, नारियल और दीपक रखना, अंत में अक्षत-पुष्प से कलश का पूजन।",
+        "en": "Touches the ground, spreads the grain, sets and fills the kalasha, drops in each item, sets the coconut and the lamp, and at the end worships the kalasha with rice and flowers.",
+        "bho": "भूमि छूवल, धान्य बिछावल, कलश राखल आ भरल, हर चीज कलश में डालल, नरियर आ दीया राखल, अंत में अछत-फूल से कलश के पूजन।"
+      }
+    }
+  ],
+  "samagri": [
+    {
+      "id": "kalash",
+      "item": {
+        "hi": "कलश — ताँबे, पीतल या मिट्टी का, बिना छेद का, नया या धुला",
+        "en": "The kalasha — copper, brass or clay, without a hole, new or washed",
+        "bho": "कलश — तामा, पीतल भा माटी के, बिना छेद के, नया भा धोवल"
+      },
+      "qty": "1 (पुण्याहवाचन में 2)",
+      "must": true
+    },
+    {
+      "id": "saptadhanya",
+      "item": {
+        "hi": "सप्तधान्य या अक्षत — कलश के नीचे बिछाने के लिए",
+        "en": "Seven grains or rice — to spread under the kalasha",
+        "bho": "सतधान्य भा अछत — कलश के नीचे बिछावे खातिर"
+      },
+      "qty": "एक मुट्ठी",
+      "must": true
+    },
+    {
+      "id": "jal",
+      "item": {
+        "hi": "शुद्ध जल (गंगाजल मिला हो तो अच्छा)",
+        "en": "Clean water (with Ganga water added if available)",
+        "bho": "सुद्ध जल (गंगाजल मिलल होखे त नीक)"
+      },
+      "qty": "कलश भर",
+      "must": true
+    },
+    {
+      "id": "aam-pallav",
+      "item": {
+        "hi": "आम के पाँच या सात पत्ते (आम्रपल्लव)",
+        "en": "Five or seven mango leaves",
+        "bho": "आम के पाँच भा सात पत्ता"
+      },
+      "qty": "5–7",
+      "must": true
+    },
+    {
+      "id": "supari",
+      "item": {
+        "hi": "सुपारी",
+        "en": "Betel nut",
+        "bho": "सुपारी"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "moli",
+      "item": {
+        "hi": "मौली (कलावा) — कलश के कंठ में लपेटने के लिए",
+        "en": "Red thread (mauli, kalava) — to wrap round the neck of the kalasha",
+        "bho": "मौली (कलावा) — कलश के कंठ में लपेटे खातिर"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "sikka",
+      "item": {
+        "hi": "सिक्का या सोने-चाँदी का टुकड़ा (द्रव्य)",
+        "en": "A coin or a piece of gold or silver",
+        "bho": "सिक्का भा सोना-चानी के टुकड़ा"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "purnapatra",
+      "item": {
+        "hi": "पूर्णपात्र — चावल भरी कटोरी या जौ भरा प्याला, कलश के मुख पर",
+        "en": "The full vessel — a bowl of rice or barley set on the mouth of the kalasha",
+        "bho": "पूर्णपात्र — चाउर भरल कटोरी भा जौ भरल पियाला, कलश के मुँह पर"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "nariyal",
+      "item": {
+        "hi": "नारियल — लाल कपड़े में लिपटा, मौली बाँधा",
+        "en": "Coconut — wrapped in red cloth and tied with red thread",
+        "bho": "नरियर — लाल कपड़ा में लिपटल, मौली बान्हल"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "deep",
+      "item": {
+        "hi": "दीप — घी या तेल का दीया, कलश के पास या पूर्णपात्र पर",
+        "en": "A ghee or oil lamp, beside the kalasha or on the full vessel",
+        "bho": "दीया — घी भा तेल के दीया, कलश के लगे भा पूर्णपात्र पर"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "roli-akshat",
+      "item": {
+        "hi": "रोली, अक्षत, पुष्प — स्वस्तिक और पूजन के लिए",
+        "en": "Roli, rice and flowers — for the svastika and the worship",
+        "bho": "रोरी, अच्छत, फूल — सातिया आ पूजन खातिर"
+      },
+      "qty": "थोड़ा",
+      "must": true
+    },
+    {
+      "id": "gandh-dhup",
+      "item": {
+        "hi": "गंध, धूप, नैवेद्य — कलश-पूजन के पंचोपचार",
+        "en": "Sandal paste, incense and food — for the five offerings to the kalasha",
+        "bho": "गंध, धूप आ नैवेद्य — कलश-पूजन के पंचोपचार खातिर"
+      },
+      "qty": "थोड़ा",
+      "must": false
+    }
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "layer": "lok",
+      "minutes": 2,
+      "action": {
+        "hi": "भूमि पर स्वस्तिक या अष्टदल — पूजा-स्थल के उत्तर-पूर्व (ईशान) या पूजा की चौकी के पास ज़मीन पर रोली से स्वस्तिक या अष्टदल बनाएँ (रेखांकन के लिए लोकाचार; [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 'रंगवल्लिका से भूमि सजाने' की बात करती है)। फिर पंडित भूमि को छूकर 'ॐ भूरसि भूमिरसि' (VS 13.18) पढ़े।",
+        "en": "Svastika or lotus on the ground — On the ground to the north-east of the puja area or beside the puja stool draw a svastika or an eight-petal lotus with roli (a customary marking; the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) speaks of 'decorating the ground with rangavallika'). Then the pandit touches the ground and recites 'om bhur asi bhumir asi' (VS 13.18).",
+        "bho": "जमीन पर सातिया भा अठदल — पूजा-जगह के उत्तर-पूरब (ईसान) भा पूजा के चौकी के लगे जमीन पर रोरी से सातिया भा अठदल बनाईं (रेखांकन खातिर लोकाचार; [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 'रंगवल्लिका से भूमि सजावे' के बात करेला)। फेर पंडित भूमि के छू के 'ॐ भूरसि भूमिरसि' (VS 13.18) पढ़सु।"
+      },
+      "mantraIds": [
+        "vs-13-18"
+      ],
+      "samagriIds": [
+        "roli-akshat"
+      ],
+      "panditSays": {
+        "hi": "यजमान, ज़मीन को दाहिने हाथ से छूकर प्रणाम कीजिए — यह पृथिवी माता की अनुमति है।",
+        "en": "Host, touch the ground with your right hand and bow — this asks Mother Earth's leave.",
+        "bho": "जजमान, जमीन के दहिना हाथ से छू के परनाम करीं — ई धरती माई के अनुमति बा।"
+      }
+    },
+    {
+      "n": 2,
+      "layer": "vedic",
+      "minutes": 1,
+      "action": {
+        "hi": "स्वस्तिक पर सप्तधान्य या अक्षत का ढेर बिछाएँ — 'ॐ ओषधयः समवदंत' (VS 12.96)।",
+        "en": "Spread the heap of seven grains or rice on the svastika — 'om oshadhayah sam avadanta' (VS 12.96).",
+        "bho": "सातिया पर सतधान्य भा अछत के ढेर बिछाईं — 'ॐ ओषधयः समवदंत' (VS 12.96)।"
+      },
+      "mantraIds": [
+        "vs-12-96"
+      ],
+      "samagriIds": [
+        "saptadhanya"
+      ]
+    },
+    {
+      "n": 3,
+      "layer": "vedic",
+      "minutes": 1,
+      "action": {
+        "hi": "धान्य के ढेर पर कलश रखें — 'ॐ आ जिघ्र कलशं मह्या त्वा' (VS 8.42)। कलश का मुख ऊपर, बिना छेद का हो।",
+        "en": "Set the kalasha on the heap of grain — 'om a jighra kalasham mahya tva' (VS 8.42). Its mouth up, no hole in it.",
+        "bho": "धान्य के ढेर पर कलश राखीं — 'ॐ आ जिघ्र कलशं मह्या त्वा' (VS 8.42)। कलश के मुँह ऊपर, बिना छेद के होखे।"
+      },
+      "important": true,
+      "mantraIds": [
+        "vs-8-42"
+      ],
+      "samagriIds": [
+        "kalash"
+      ]
+    },
+    {
+      "n": 4,
+      "layer": "vedic",
+      "minutes": 1,
+      "action": {
+        "hi": "कलश में जल भरें (गंगाजल मिलाकर) — 'ॐ वरुणस्योत्तंभनमसि' (VS 4.36)। [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) यहाँ नदी-सूक्त 'इमं मे गंगे यमुने' पढ़ती है।",
+        "en": "Fill the kalasha with water (Ganga water added) — 'om varunasyottambhanam asi' (VS 4.36). The [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) uses the river hymn 'imam me gange yamune' here.",
+        "bho": "कलश में जल भरीं (गंगाजल मिला के) — 'ॐ वरुणस्योत्तंभनमसि' (VS 4.36)। [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) इहाँ नदी-सूक्त 'इमं मे गंगे यमुने' पढ़ेला।"
+      },
+      "important": true,
+      "mantraIds": [
+        "vs-4-36"
+      ],
+      "samagriIds": [
+        "jal"
+      ]
+    },
+    {
+      "n": 5,
+      "layer": "vedic",
+      "minutes": 1,
+      "action": {
+        "hi": "कलश में आम्रपल्लव (आम के पत्ते) डालें — 'ॐ अंबे अंबिके अंबालिके' (VS 23.18); 'अंब' और 'आम्र' की ध्वनि-साम्य से पोथियाँ यही मंत्र लगाती हैं। [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) पंचपल्लव (बड़, पीपल, पाकड़, जामुन, आम) के लिए 'अश्वत्थे वो निषदनं' देती है।",
+        "en": "Drop the mango leaves into the kalasha — 'om ambe ambike ambalike' (VS 23.18); the handbooks apply this mantra for the likeness of sound between 'amba' and 'amra'. The [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) gives 'ashvatthe vo nishadanam' for the five leaves (banyan, pipal, pakar, jamun, mango).",
+        "bho": "कलश में आम के पत्ता डालीं — 'ॐ अंबे अंबिके अंबालिके' (VS 23.18); 'अंब' आ 'आम्र' के धुन-साम्य से पोथी इहे मंत्र लगावेला। [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) पंचपल्लव (बड़, पीपर, पाकड़, जामुन, आम) खातिर 'अश्वत्थे वो निषदनं' देला।"
+      },
+      "mantraIds": [
+        "vs-23-18"
+      ],
+      "samagriIds": [
+        "aam-pallav"
+      ]
+    },
+    {
+      "n": 6,
+      "layer": "vedic",
+      "minutes": 1,
+      "action": {
+        "hi": "कलश में सुपारी डालें — 'ॐ याः फलिनीर्या अफला' (VS 12.89)।",
+        "en": "Drop the betel nut into the kalasha — 'om yah phalinir ya aphala' (VS 12.89).",
+        "bho": "कलश में सुपारी डालीं — 'ॐ याः फलिनीर्या अफला' (VS 12.89)।"
+      },
+      "mantraIds": [
+        "vs-12-89"
+      ],
+      "samagriIds": [
+        "supari"
+      ]
+    },
+    {
+      "n": 7,
+      "layer": "vedic",
+      "minutes": 1,
+      "action": {
+        "hi": "कलश के कंठ में मौली लपेटें (या वस्त्र) — 'ॐ सुजातो ज्योतिषा सह' (VS 11.40)।",
+        "en": "Wrap the red thread (or a cloth) round the neck of the kalasha — 'om sujato jyotisha saha' (VS 11.40).",
+        "bho": "कलश के कंठ में मौली लपेटीं (भा बस्तर) — 'ॐ सुजातो ज्योतिषा सह' (VS 11.40)।"
+      },
+      "mantraIds": [
+        "vs-11-40"
+      ],
+      "samagriIds": [
+        "moli"
+      ]
+    },
+    {
+      "n": 8,
+      "layer": "vedic",
+      "minutes": 1,
+      "action": {
+        "hi": "कलश में सिक्का या सोना-चाँदी (द्रव्य) डालें — 'ॐ हिरण्यगर्भः समवर्तताग्रे' (VS 13.4)।",
+        "en": "Drop the coin or the piece of gold or silver into the kalasha — 'om hiranyagarbhah sam avartatagre' (VS 13.4).",
+        "bho": "कलश में सिक्का भा सोना-चानी डालीं — 'ॐ हिरण्यगर्भः समवर्तताग्रे' (VS 13.4)।"
+      },
+      "mantraIds": [
+        "vs-13-4"
+      ],
+      "samagriIds": [
+        "sikka"
+      ]
+    },
+    {
+      "n": 9,
+      "layer": "vedic",
+      "minutes": 1,
+      "action": {
+        "hi": "कलश के मुख पर पूर्णपात्र (चावल या जौ भरी कटोरी) रखें — 'ॐ पूर्णा दर्वि परा पत' (VS 3.49)।",
+        "en": "Set the full vessel (a bowl of rice or barley) on the mouth of the kalasha — 'om purna darvi para pata' (VS 3.49).",
+        "bho": "कलश के मुँह पर पूर्णपात्र (चाउर भा जौ भरल कटोरी) राखीं — 'ॐ पूर्णा दर्वि परा पत' (VS 3.49)।"
+      },
+      "mantraIds": [
+        "vs-3-49"
+      ],
+      "samagriIds": [
+        "purnapatra"
+      ]
+    },
+    {
+      "n": 10,
+      "layer": "vedic",
+      "minutes": 1,
+      "action": {
+        "hi": "पूर्णपात्र पर लाल कपड़े में लिपटा नारियल रखें — 'ॐ श्रीश्च ते लक्ष्मीश्च' (VS 31.22)। कहीं नारियल की जगह केवल पूर्णपात्र और दीपक रखा जाता है।",
+        "en": "Set the coconut, wrapped in red cloth, on the full vessel — 'om shrish cha te lakshmish cha' (VS 31.22). In some places only the full vessel and the lamp are set instead of the coconut.",
+        "bho": "पूर्णपात्र पर लाल कपड़ा में लिपटल नरियर राखीं — 'ॐ श्रीश्च ते लक्ष्मीश्च' (VS 31.22)। कहीं नरियर के जगह खाली पूर्णपात्र आ दीया राखल जाला।"
+      },
+      "mantraIds": [
+        "vs-31-22"
+      ],
+      "samagriIds": [
+        "nariyal"
+      ]
+    },
+    {
+      "n": 11,
+      "layer": "vedic",
+      "minutes": 1,
+      "action": {
+        "hi": "कलश के पास (या पूर्णपात्र पर) दीपक जलाकर रखें — 'ॐ अग्निर्ज्योतिर्ज्योतिरग्निः स्वाहा' (VS 3.9)।",
+        "en": "Light the lamp and set it beside the kalasha (or on the full vessel) — 'om agnir jyotir jyotir agnih svaha' (VS 3.9).",
+        "bho": "कलश के लगे (भा पूर्णपात्र पर) दीया जरा के राखीं — 'ॐ अग्निर्ज्योतिर्ज्योतिरग्निः स्वाहा' (VS 3.9)।"
+      },
+      "mantraIds": [
+        "vs-3-9"
+      ],
+      "samagriIds": [
+        "deep"
+      ]
+    },
+    {
+      "n": 12,
+      "layer": "vedic",
+      "minutes": 2,
+      "action": {
+        "hi": "वरुण आवाहन: यजमान हाथ में अक्षत-पुष्प ले; पंडित 'ॐ तत्त्वा यामि ब्रह्मणा वंदमानः' (VS 18.49) पढ़े और आवाहन-वाक्य बोले; यजमान अक्षत-पुष्प कलश पर छोड़े।",
+        "en": "Invocation of Varuna: the host takes rice and flowers; the pandit recites 'om tat tva yami brahmana vandamanah' (VS 18.49) and says the invocation sentence; the host drops the rice and flowers on the kalasha.",
+        "bho": "वरुन आवाहन: जजमान हाथ में अछत-फूल लेवे; पंडित 'ॐ तत्त्वा यामि ब्रह्मणा वंदमानः' (VS 18.49) पढ़सु आ आवाहन-वाक्य बोलसु; जजमान अछत-फूल कलश पर छोड़े।"
+      },
+      "important": true,
+      "mantraIds": [
+        "vs-18-49"
+      ],
+      "samagriIds": [
+        "roli-akshat"
+      ],
+      "panditSays": {
+        "sa": "अस्मिन् कलशे वरुणं साङ्गं सपरिवारं सायुधं सशक्तिकमावाहयामि । ॐ भूर्भुवः स्वः भो वरुण इहागच्छ इह तिष्ठ । स्थापयामि पूजयामि मम पूजां गृहाण । ॐ अपां पतये वरुणाय नमः ।",
+        "hi": "इस कलश में अंग, परिवार, आयुध और शक्ति सहित वरुण का आवाहन करता हूँ — हे वरुण, यहाँ आइए, यहाँ विराजिए; मेरी पूजा स्वीकार कीजिए। जल के स्वामी वरुण को नमस्कार।",
+        "en": "Into this kalasha I invoke Varuna with his limbs, family, weapons and powers — O Varuna, come here, stay here; accept my worship. Salutation to Varuna, lord of the waters.",
+        "bho": "एह कलश में अंग, परिवार, आयुध आ सक्ति सहित वरुन के आवाहन करत बानी — हे वरुन, इहाँ आईं, इहाँ बिराजीं; हमार पूजा स्वीकार करीं। जल के मालिक वरुन के परनाम।"
+      }
+    },
+    {
+      "n": 13,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "कलश-देवता ध्यान और तीर्थ आवाहन: पंडित 'कलशस्य मुखे विष्णुः' के चार श्लोक और 'गंगे च यमुने चैव' पढ़े; यजमान कलश पर अक्षत छोड़े। [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) इसके बाद उत्तर कलश में 'मातृदेवो भव, पितृदेवो भव, आचार्यदेवो भव, अतिथिदेवो भव' कहकर अक्षत डालती है।",
+        "en": "Dhyana of the kalasha deities and invocation of the rivers: the pandit recites the four verses 'kalashasya mukhe vishnuh' and 'gange cha yamune chaiva'; the host drops rice on the kalasha. The [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) then drops rice into the northern kalasha saying 'matridevo bhava, pitridevo bhava, acharyadevo bhava, atithidevo bhava'.",
+        "bho": "कलश-देवता धियान आ तीरथ आवाहन: पंडित 'कलशस्य मुखे विष्णुः' के चार श्लोक आ 'गंगे च यमुने चैव' पढ़सु; जजमान कलश पर अछत छोड़े। [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) एकरा बाद उत्तर कलश में 'मातृदेवो भव, पितृदेवो भव, आचार्यदेवो भव, अतिथिदेवो भव' कह के अछत डालेला।"
+      },
+      "important": true,
+      "mantraIds": [
+        "pad-kalashasya-mukhe-vishnuh",
+        "pad-gange-cha-yamune"
+      ],
+      "samagriIds": [
+        "roli-akshat"
+      ]
+    },
+    {
+      "n": 14,
+      "layer": "vedic",
+      "minutes": 1,
+      "action": {
+        "hi": "प्रतिष्ठा: 'ॐ मनो जूतिर्जुषतामाज्यस्य' (VS 2.13) पढ़कर कलश पर अक्षत छोड़ें और कहें 'वरुणाद्यावाहितदेवताः सुप्रतिष्ठिता वरदा भवंतु'।",
+        "en": "Pratishtha: reciting 'om mano jutir jushatam ajyasya' (VS 2.13) drop rice on the kalasha and say 'varunadyavahita-devatah supratishthita varada bhavantu'.",
+        "bho": "प्रतिष्ठा: 'ॐ मनो जूतिर्जुषतामाज्यस्य' (VS 2.13) पढ़ के कलश पर अछत छोड़ीं आ कहीं 'वरुणाद्यावाहितदेवताः सुप्रतिष्ठिता वरदा भवन्तु'।"
+      },
+      "mantraIds": [
+        "vs-2-13"
+      ],
+      "samagriIds": [
+        "roli-akshat"
+      ],
+      "panditSays": {
+        "sa": "वरुणाद्यावाहितदेवताः सुप्रतिष्ठिता वरदा भवन्तु ।",
+        "hi": "वरुण आदि आवाहित देवता सुप्रतिष्ठित होकर वर देने वाले हों।",
+        "en": "May Varuna and the invoked deities, well installed, be givers of boons.",
+        "bho": "वरुन आदि आवाहित देवता सुप्रतिष्ठित होके बर देवे वाला होखसु।"
+      }
+    },
+    {
+      "n": 15,
+      "layer": "paddhati",
+      "minutes": 4,
+      "action": {
+        "hi": "कलश-पूजन — 'ॐ अपां पतये वरुणाय नमः' कहकर पंचोपचार — गंध (VS 31.9), पुष्प (VS 12.77), धूप (VS 1.8), दीप (VS 3.9), नैवेद्य (VS 31.13); कलश के चारों ओर रोली-अक्षत लगाकर चार वेदों का पूजन (पूर्व ऋग्वेद, दक्षिण यजुर्वेद, पश्चिम सामवेद, उत्तर अथर्ववेद) और अंत में समर्पण-वाक्य।",
+        "en": "Worship of the kalasha — with 'om apam pataye varunaya namah' the five offerings — fragrant paste (VS 31.9), flowers (VS 12.77), incense (VS 1.8), lamp (VS 3.9), food (VS 31.13); roli and rice on the four sides of the kalasha for the four Vedas (Rig east, Yajur south, Sama west, Atharva north), and at the end the sentence of dedication.",
+        "bho": "कलश-पूजन — 'ॐ अपां पतये वरुणाय नमः' कह के पंचोपचार — गंध (VS 31.9), फूल (VS 12.77), धूप (VS 1.8), दीया (VS 3.9), नैवेद्य (VS 31.13); कलश के चारो ओर रोरी-अछत लगा के चार वेद के पूजन (पूरब ऋग्वेद, दक्खिन यजुर्वेद, पच्छिम सामवेद, उत्तर अथर्ववेद) आ अंत में समर्पन-वाक्य।"
+      },
+      "mantraIds": [
+        "vs-31-9",
+        "vs-12-77",
+        "vs-1-8",
+        "vs-3-9",
+        "vs-31-13"
+      ],
+      "samagriIds": [
+        "gandh-dhup",
+        "roli-akshat"
+      ],
+      "panditSays": {
+        "sa": "ॐ अपां पतये वरुणाय नमः । पूर्वे ऋग्वेदाय नमः । दक्षिणे यजुर्वेदाय नमः । पश्चिमे सामवेदाय नमः । उत्तरे अथर्ववेदाय नमः । अनेन कृतेन पूजनेन कलशे वरुणाद्यावाहिता देवताः प्रीयन्ताम् न मम ।",
+        "hi": "जल के स्वामी वरुण को नमस्कार; पूर्व में ऋग्वेद, दक्षिण में यजुर्वेद, पश्चिम में सामवेद, उत्तर में अथर्ववेद को नमस्कार। इस पूजन से कलश में आवाहित वरुण आदि देवता प्रसन्न हों — यह मेरा नहीं।",
+        "en": "Salutation to Varuna, lord of the waters; to the Rigveda in the east, the Yajurveda in the south, the Samaveda in the west, the Atharvaveda in the north. By this worship may Varuna and the deities invoked into the kalasha be pleased — it is not mine.",
+        "bho": "जल के मालिक वरुन के परनाम; पूरब में ऋग्वेद, दक्खिन में यजुर्वेद, पच्छिम में सामवेद, उत्तर में अथर्ववेद के परनाम। एह पूजन से कलश में आवाहित वरुन आदि देवता परसन्न होखसु — ई हमार ना।"
+      },
+      "note": {
+        "hi": "कलश पूरे कर्म तक स्थापित रहता है; अंत में विसर्जन के बाद इसका जल अभिषेक में छिड़का जाता है और घर में छींटा जाता है। कलश को कर्म के बीच हिलाना नहीं चाहिए — [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) दक्षिण कलश को 'स्थिर' कहती है।",
+        "en": "The kalasha stays installed until the end of the rite; after the visarjana its water is sprinkled in the abhisheka and about the house. The kalasha should not be moved during the rite — the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) calls the southern kalasha 'fixed'.",
+        "bho": "कलश पूरा करम तक स्थापित रहेला; अंत में बिसर्जन के बाद एकर जल अभिषेक में छींटल जाला आ घर में छींटल जाला। कलश के करम के बीच हिलावल ना चाहीं — [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) दक्खिन कलश के 'स्थिर' कहेला।"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "region": "samskararatnamala",
+      "what": {
+        "hi": "[संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) (पुण्याहवाचन के प्रसंग में) दो कलश रखती है, भूमि-स्पर्श 'मही द्यौः' से, जल 'इमं मे गंगे' से, गंध 'गंधद्वारां' से, सर्वौषधि 'या जाता ओषधयः' से, दूर्वा 'कांडात्कांडात्' से, पंचपल्लव 'अश्वत्थे वो' से, फल 'याः फलिनीः' से, हिरण्य 'अग्नेरेतश्चंद्रम्' से, पंचरत्न 'बृहस्पते जुषस्व नः' से, वस्त्र 'युवा सुवासाः' से और पूर्णपात्र 'पूर्णा दर्वि' से करती है; वरुण का आवाहन उत्तर कलश में।",
+        "en": "The [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) (in the punyaha-vachana) sets two kalashas and uses 'mahi dyauh' for touching the ground, 'imam me gange' for the water, 'gandhadvaram' for the paste, 'ya jata oshadhayah' for the herbs, 'kandat kandat' for durva, 'ashvatthe vo' for the five leaves, 'yah phalinih' for the fruit, 'agner etash chandram' for the gold, 'brihaspate jushasva nah' for the five gems, 'yuva suvasah' for the cloth and 'purna darvi' for the full vessel; Varuna is invoked into the northern kalasha.",
+        "bho": "[संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) (पुण्याहवाचन के प्रसंग में) दू कलश राखेला, भूमि-स्पर्श 'मही द्यौः' से, जल 'इमं मे गंगे' से, गंध 'गंधद्वारां' से, सर्वौषधि VS 12.75 से, दूब 'कांडात्कांडात्' से, पंचपल्लव 'अश्वत्थे वो' से, फल 'याः फलिनीः' से, हिरण्य 'अग्नेरेतश्चंद्रम्' से, पंचरत्न 'बृहस्पते जुषस्व नः' से, बस्तर 'युवा सुवासाः' से आ पूर्णपात्र 'पूर्णा दर्वि' से करेला; वरुन के आवाहन उत्तर कलश में।"
+      },
+      "source": "ws-samskararatnamala-1-01"
+    },
+    {
+      "region": "pothi-bhed",
+      "what": {
+        "hi": "हिंदी-पट्टी की कई पोथियाँ कलश में चंदन, सर्वौषधि, दूर्वा, पंचपल्लव, सप्तमृत्तिका और पंचरत्न भी डालती हैं (हर वस्तु का अलग वैदिक मंत्र); नवरात्र की [[ghatasthapana]] में कलश के पास मिट्टी के पात्र में जौ (जवारे) बोए जाते हैं। इस साइट की शोध-सूची विष्णु-मंत्र 'इदं विष्णुर्विचक्रमे' (VS 5.15) को भी कलश के मंत्रों में गिनती है; जिस पोथी का क्रम यहाँ दिया है वह इसे कलश में नहीं छापती, इसलिए यह मंत्र संदर्भ के लिए कलश के मंत्रों में रखा है, क्रम में नहीं। देश-कुल का आचार प्रमाण है ([पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) 1.8.11–13)।",
+        "en": "Many Hindi-belt handbooks also put sandal paste, the herbs, durva, the five leaves, the seven earths and the five gems into the kalasha (each with its own Vedic mantra); in the Navratri ghatasthapana barley is sown in an earthen tray beside the kalasha. This site's research inventory also counts the Vishnu mantra 'idam vishnur vichakrame' (VS 5.15) among the kalasha mantras; the handbook whose order is given here does not print it in the kalasha rite, so the mantra is kept among the kalasha mantras for reference, not in the sequence. The custom of region and family is the authority ([Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) 1.8.11–13).",
+        "bho": "हिंदी-पट्टी के ढेर पोथी कलश में चंदन, सर्वौषधि, दूब, पंचपल्लव, सतमृत्तिका आ पंचरत्न भी डालेला (हर चीज के अलगा वैदिक मंत्र); नवरात्र के [[ghatasthapana]] में कलश के लगे माटी के बरतन में जौ (जवारा) बोअल जाला। एह साइट के सोध-सूची विष्णु-मंत्र 'इदं विष्णुर्विचक्रमे' (VS 5.15) के भी कलश के मंत्र में गिनेले; जे पोथी के क्रम इहाँ दिहल बा ऊ एकरा कलश में ना छापे, एही से ई मंत्र संदर्भ खातिर कलश के मंत्र में राखल बा, क्रम में ना। देस-कुल के आचार परमान बा ([पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) 1.8.11–13)।"
+      },
+      "source": "ia-vivah-mvf"
+    }
+  ],
+  "faq": [
+    {
+      "q": {
+        "hi": "कलश में वरुण का ही आवाहन क्यों?",
+        "en": "Why is it Varuna who is invoked into the kalasha?",
+        "bho": "कलश में वरुन के ही आवाहन काहे?"
+      },
+      "a": {
+        "hi": "वेद में [[varun]] जल के अधिपति हैं ('अपां पतये वरुणाय नमः'), इसलिए जल-भरा कलश उनका आसन माना जाता है; 'तत्त्वा यामि' (VS 18.49) उनकी प्रसिद्ध ऋचा है। 'कलशस्य मुखे विष्णुः' के अनुसार कलश में विष्णु, रुद्र, ब्रह्मा, मातृकाएँ, चारों वेद और सब तीर्थ भी माने जाते हैं।",
+        "en": "In the Veda Varuna is the lord of the waters ('apam pataye varunaya namah'), so the water-filled kalasha is regarded as his seat; 'tat tva yami' (VS 18.49) is his well-known rk. According to 'kalashasya mukhe vishnuh' the kalasha also holds Vishnu, Rudra, Brahma, the Mothers, the four Vedas and all the holy waters.",
+        "bho": "वेद में [[varun]] जल के अधिपति बाड़न ('अपां पतये वरुणाय नमः'), एही से जल-भरल कलश उनकर आसन मानल जाला; 'तत्त्वा यामि' (VS 18.49) उनकर परसिद्ध ऋचा बा। 'कलशस्य मुखे विष्णुः' के अनुसार कलश में विष्णु, रुद्र, ब्रह्मा, मातृका, चारो वेद आ सब तीरथ भी मानल जालन।"
+      }
+    },
+    {
+      "q": {
+        "hi": "कलश किस धातु का हो और कहाँ रखें?",
+        "en": "Of what metal should the kalasha be, and where is it set?",
+        "bho": "कलश कवन धातु के होखे आ कहाँ राखीं?"
+      },
+      "a": {
+        "hi": "[संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) विष्णुधर्मोत्तर का वचन देती है — सोना, चाँदी, ताँबा या मिट्टी का; छेद न हो। घरों में ताँबा-पीतल या मिट्टी चलता है। स्थान: पूजा-वेदी के उत्तर-पूर्व या चौकी के पास; पुण्याहवाचन में दो कलश (दक्षिण स्थिर, उत्तर चल)।",
+        "en": "The [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) quotes the Vishnudharmottara — gold, silver, copper or clay, without a hole. In homes copper, brass or clay is used. Place: to the north-east of the altar or beside the stool; in the punyaha-vachana two kalashas (the southern fixed, the northern movable).",
+        "bho": "[संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) विष्णुधर्मोत्तर के बचन देला — सोना, चानी, तामा भा माटी के; छेद ना होखे। घर में तामा-पीतल भा माटी चलेला। जगह: पूजा-बेदी के उत्तर-पूरब भा चौकी के लगे; पुण्याहवाचन में दू कलश (दक्खिन स्थिर, उत्तर चल)।"
+      }
+    },
+    {
+      "q": {
+        "hi": "कलश का जल बाद में क्या करें?",
+        "en": "What is done with the kalasha water afterwards?",
+        "bho": "कलश के जल बाद में का करीं?"
+      },
+      "a": {
+        "hi": "विसर्जन के बाद पंडित आम्रपल्लव से यजमान, परिवार और घर पर इसका छींटा (अभिषेक) देता है — [[punyahavachan]] में 'द्रुपदादिव' और 'आपो हि ष्ठा' के साथ। बचा जल तुलसी या किसी पौधे में डालें, नाली में नहीं; नारियल प्रसाद में फोड़ा जाता है या देवस्थान पर रखा जाता है।",
+        "en": "After the visarjana the pandit sprinkles it with mango leaves on the host, the family and the house — in the punyaha-vachana with 'drupadad iva' and 'apo hi shtha'. Leftover water goes to the tulsi or another plant, not down the drain; the coconut is broken for prasad or placed at the shrine.",
+        "bho": "बिसर्जन के बाद पंडित आम के पल्लव से जजमान, परिवार आ घर पर एकर छींटा (अभिषेक) देलन — [[punyahavachan]] में 'द्रुपदादिव' आ 'आपो हि ष्ठा' संगे। बाचल जल तुलसी भा कवनो गाछ में डालीं, नाली में ना; नरियर परसाद में फोड़ल जाला भा देवस्थान पर राखल जाला।"
+      }
+    }
+  ],
+  "sources": [
+    "ws-syv-13",
+    "ws-syv-12",
+    "ws-syv-08",
+    "ws-syv-04",
+    "ws-syv-23",
+    "ws-syv-11",
+    "ws-syv-03",
+    "ws-syv-31",
+    "ws-syv-18",
+    "ws-syv-02",
+    "ws-syv-05",
+    "ws-samskararatnamala-1-01",
+    "ia-vivah-mvf",
+    "ws-adishankara-pujavidhi",
+    "titus-vs"
+  ],
+  "tags": [
+    "foundations",
+    "kalash",
+    "varuna"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

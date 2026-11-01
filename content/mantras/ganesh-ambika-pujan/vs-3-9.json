@@ -1,0 +1,113 @@
+{
+  "id": "vs-3-9",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 3.9",
+  "title": {
+    "hi": "अग्निर्ज्योतिर्ज्योतिरग्निः (दीप)",
+    "en": "Agnir jyotir jyotir agnih (dipa)",
+    "bho": "अग्निर्ज्योतिर्ज्योतिरग्निः (दीया)"
+  },
+  "devanagari": "अ॒ग्निर्ज्योति॒र्ज्योति॑र॒ग्निः स्वाहा॑ । सूर्यो॒ ज्योति॒र्ज्योतिः॒ सूर्यः॒ स्वाहा॑ । अ॒ग्निर्वर्चो॒ ज्योति॒र्वर्चः॒ स्वाहा॑ । सूर्यो॒ वर्चो॒ ज्योति॒र्वर्चः॒ स्वाहा॑ । ज्योतिः॒ सूर्यः॒ सूर्यो॒ ज्योतिः॒ स्वाहा॑ ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "अग्निः ज्योतिः",
+      "gloss": {
+        "hi": "अग्नि ज्योति है",
+        "en": "Agni is light",
+        "bho": "अग्नि ज्योति बा"
+      }
+    },
+    {
+      "sa": "ज्योतिः अग्निः",
+      "gloss": {
+        "hi": "ज्योति अग्नि है",
+        "en": "light is Agni",
+        "bho": "ज्योति अग्नि बा"
+      }
+    },
+    {
+      "sa": "स्वाहा",
+      "gloss": {
+        "hi": "स्वाहा (आहुति का शब्द)",
+        "en": "svaha (the word of offering)",
+        "bho": "स्वाहा (आहुति के शब्द)"
+      }
+    },
+    {
+      "sa": "सूर्यः ज्योतिः",
+      "gloss": {
+        "hi": "सूर्य ज्योति है",
+        "en": "the Sun is light",
+        "bho": "सूरज ज्योति बा"
+      }
+    },
+    {
+      "sa": "ज्योतिः सूर्यः",
+      "gloss": {
+        "hi": "ज्योति सूर्य है",
+        "en": "light is the Sun",
+        "bho": "ज्योति सूरज बा"
+      }
+    },
+    {
+      "sa": "अग्निः वर्चः",
+      "gloss": {
+        "hi": "अग्नि तेज है",
+        "en": "Agni is radiance",
+        "bho": "अग्नि तेज बा"
+      }
+    },
+    {
+      "sa": "ज्योतिः वर्चः",
+      "gloss": {
+        "hi": "ज्योति तेज है",
+        "en": "light is radiance",
+        "bho": "ज्योति तेज बा"
+      }
+    },
+    {
+      "sa": "सूर्यः वर्चः",
+      "gloss": {
+        "hi": "सूर्य तेज है",
+        "en": "the Sun is radiance",
+        "bho": "सूरज तेज बा"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "अग्नि ज्योति है, ज्योति अग्नि है — स्वाहा। सूर्य ज्योति है, ज्योति सूर्य है — स्वाहा। अग्नि तेज है, ज्योति तेज है — स्वाहा। सूर्य तेज है, ज्योति तेज है — स्वाहा। ज्योति सूर्य है, सूर्य ज्योति है — स्वाहा।",
+    "en": "Agni is light, light is Agni — svaha. The Sun is light, light is the Sun — svaha. Agni is radiance, light is radiance — svaha. The Sun is radiance, light is radiance — svaha. Light is the Sun, the Sun is light — svaha.",
+    "bho": "अग्नि ज्योति बा, ज्योति अग्नि बा — स्वाहा। सूरज ज्योति बा, ज्योति सूरज बा — स्वाहा। अग्नि तेज बा, ज्योति तेज बा — स्वाहा। सूरज तेज बा, ज्योति तेज बा — स्वाहा। ज्योति सूरज बा, सूरज ज्योति बा — स्वाहा।"
+  },
+  "explanation": {
+    "hi": "[[yajurved]] के तीसरे अध्याय का यह अग्निहोत्र-मंत्र है — सायं अग्नि की और प्रातः सूर्य की आहुति के वाक्य। पोथियाँ इसे [[deep]] का मंत्र बनाती हैं: पंडित इसे पढ़कर देवता को दीप दिखाता है ('दीपं दर्शयामि') और [[kalash-sthapana]] में कलश के पास या पूर्णपात्र पर दीपक रखता है। यही [[shodashopachar]] का दीप-मंत्र है।",
+    "en": "This agnihotra mantra of the third adhyaya of the Yajurveda gives the offering formulas to Agni in the evening and to the Sun in the morning. The handbooks make it the lamp mantra: the pandit recites it while showing the lamp to the deity ('dipam darshayami') and, in the kalasha sthapana, while placing the lamp beside the kalasha or on the full vessel. It is the lamp mantra of the shodashopachara.",
+    "bho": "[[yajurved]] के तिसरका अध्याय के ई अग्निहोत्र-मंत्र बा — साँझ के अग्नि आ भोर के सूरज के आहुति के वाक्य। पोथी एकरा [[deep]] के मंत्र बनावेला: पंडित ई पढ़ के देवता के दीया देखावेलन ('दीपं दर्शयामि') आ [[kalash-sthapana]] में कलश के लगे भा पूर्णपात्र पर दीया राखेलन। इहे [[shodashopachar]] के दीया-मंत्र बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-03",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "upachara",
+    "dipa",
+    "agnihotra"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

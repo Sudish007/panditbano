@@ -1,0 +1,98 @@
+{
+  "id": "pur-markandeya-85-7",
+  "kind": "puranic",
+  "title": {
+    "hi": "नमो देव्यै महादेव्यै (गौरी ध्यान)",
+    "en": "Namo devyai mahadevyai (Gauri dhyana)",
+    "bho": "नमो देव्यै महादेव्यै (गौरी धियान)"
+  },
+  "devanagari": "नमो देव्यै महादेव्यै शिवायै सततं नमः । नमः प्रकृत्यै भद्रायै नियताः प्रणताः स्म ताम् ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "नमः देव्यै",
+      "gloss": {
+        "hi": "देवी को नमस्कार",
+        "en": "salutation to the Goddess",
+        "bho": "देवी के परनाम"
+      }
+    },
+    {
+      "sa": "महादेव्यै",
+      "gloss": {
+        "hi": "महादेवी को",
+        "en": "to the great Goddess",
+        "bho": "महादेवी के"
+      }
+    },
+    {
+      "sa": "शिवायै सततं नमः",
+      "gloss": {
+        "hi": "कल्याणमयी को सदा नमस्कार",
+        "en": "to the auspicious one, salutation always",
+        "bho": "कल्यानमयी के हमेसा परनाम"
+      }
+    },
+    {
+      "sa": "नमः प्रकृत्यै भद्रायै",
+      "gloss": {
+        "hi": "प्रकृति-रूपा, भद्रा को नमस्कार",
+        "en": "salutation to Prakriti, the gracious",
+        "bho": "प्रकृति-रूपा, भद्रा के परनाम"
+      }
+    },
+    {
+      "sa": "नियताः",
+      "gloss": {
+        "hi": "संयत होकर",
+        "en": "with restraint",
+        "bho": "संयत होके"
+      }
+    },
+    {
+      "sa": "प्रणताः स्म ताम्",
+      "gloss": {
+        "hi": "हम उसके आगे झुके हैं",
+        "en": "we have bowed down to her",
+        "bho": "हमनी ओकरा आगे झुकल बानी"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "देवी को नमस्कार, महादेवी को नमस्कार; कल्याणमयी शिवा को सदा नमस्कार। प्रकृति-रूपा भद्रा को नमस्कार — संयत होकर हम उसके आगे झुके हैं।",
+    "en": "Salutation to the Goddess, to the great Goddess; to the auspicious Shiva salutation always. Salutation to Prakriti, the gracious one — with restraint we have bowed down to her.",
+    "bho": "देवी के परनाम, महादेवी के परनाम; कल्यानमयी शिवा के हमेसा परनाम। प्रकृति-रूपा भद्रा के परनाम — संयत होके हमनी ओकरा आगे झुकल बानी।"
+  },
+  "explanation": {
+    "hi": "[मार्कंडेय पुराण](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A5%87%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A6%E0%A5%AE%E0%A5%A7-%E0%A5%A6%E0%A5%AE%E0%A5%AB) के देवी-माहात्म्य (दुर्गासप्तशती) के पाँचवें अध्याय का यह श्लोक देवताओं की स्तुति का पहला पद है (अध्याय 85.7 विकिस्रोत की गिनती में; सप्तशती में 5.9)। पोथियाँ इसे [[ganesh-ambika-pujan]] में गौरी-अंबिका के [[dhyan]] के रूप में पढ़ती हैं — [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) में 'गौरी ध्यानम्' के नीचे यही है। पूरी स्तुति (5.9–5.82) देवी के नवरात्र-पाठ में आती है।",
+    "en": "This verse of the fifth chapter of the Devi-mahatmya (Durga Saptashati) in the [Markandeya Purana](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A5%87%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A6%E0%A5%AE%E0%A5%A7-%E0%A5%A6%E0%A5%AE%E0%A5%AB) opens the hymn of the gods (85.7 in the Wikisource chapter count; 5.9 in the Saptashati). The handbooks recite it in the Ganesha-Ambika puja as the dhyana of Gauri-Ambika — in the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) it stands under 'Gauri dhyanam'. The whole hymn (5.9–5.82) belongs to the Navratri recitation of the Saptashati.",
+    "bho": "[मार्कंडेय पुरान](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A5%87%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A6%E0%A5%AE%E0%A5%A7-%E0%A5%A6%E0%A5%AE%E0%A5%AB) के देवी-माहात्म्य (दुर्गासप्तशती) के पाँचवाँ अध्याय के ई श्लोक देवता लोग के स्तुति के पहिला पद बा (अध्याय 85.7 विकिस्रोत के गिनती में; सप्तशती में 5.9)। पोथी एकरा [[ganesh-ambika-pujan]] में गौरी-अंबिका के [[dhyan]] के रूप में पढ़ेला — [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) में 'गौरी ध्यानम्' के नीचे इहे बा। पूरा स्तुति (5.9–5.82) देवी के नवरात्र-पाठ में आवेला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-markandeya-81-85",
+    "retrieved": "2026-11-01",
+    "modified": false
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit (Markandeya Purana); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "gauri",
+    "ambika",
+    "dhyan",
+    "saptashati"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "text": "markandeya-purana",
+  "locator": "Markandeya Purana 85.7 (Devi-mahatmya / Durga Saptashati 5.9)",
+  "checkedAgainst": [
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ]
+}

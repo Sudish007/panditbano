@@ -1,0 +1,139 @@
+{
+  "id": "vs-1-8",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 1.8",
+  "title": {
+    "hi": "धूरसि धूर्व (धूप)",
+    "en": "Dhur asi dhurva (dhupa)",
+    "bho": "धूरसि धूर्व (धूप)"
+  },
+  "devanagari": "धूर॑सि॒ धूर्व॒ धूर्व॑न्तं॒ धूर्व॒ तं यो॒ऽस्मान्धूर्व॑ति॒ तं धू॑र्व॒ यं व॒यं धूर्वा॑मः । दे॒वाना॑मसि॒ वह्नि॑तम॒ᳪं᳭ सस्नि॑तमं॒ पप्रि॑तमं॒ जुष्ट॑तमं देव॒हूत॑मम् ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "धूः असि",
+      "gloss": {
+        "hi": "तू धूर्व (नाश करने वाला) है",
+        "en": "you are the destroyer (dhur)",
+        "bho": "तू धूर्व (नास करे वाला) हउअ"
+      }
+    },
+    {
+      "sa": "धूर्व धूर्वन्तम्",
+      "gloss": {
+        "hi": "नाश करने वाले का नाश कर",
+        "en": "destroy the destroyer",
+        "bho": "नास करे वाला के नास कर"
+      }
+    },
+    {
+      "sa": "धूर्व तं यः अस्मान् धूर्वति",
+      "gloss": {
+        "hi": "जो हमें नष्ट करना चाहे, उसे नष्ट कर",
+        "en": "destroy him who would destroy us",
+        "bho": "जे हमनी के नास कइल चाहे, ओकरा नास कर"
+      }
+    },
+    {
+      "sa": "तं धूर्व यं वयं धूर्वामः",
+      "gloss": {
+        "hi": "जिसे हम नष्ट करना चाहें, उसे नष्ट कर",
+        "en": "destroy him whom we would destroy",
+        "bho": "जेकरा हमनी नास कइल चाहीं, ओकरा नास कर"
+      }
+    },
+    {
+      "sa": "देवानाम् असि",
+      "gloss": {
+        "hi": "तू देवों का है",
+        "en": "you are of the gods",
+        "bho": "तू देवता लोग के हउअ"
+      }
+    },
+    {
+      "sa": "वह्नितमम्",
+      "gloss": {
+        "hi": "सबसे अच्छा वाहक",
+        "en": "best carrier",
+        "bho": "सबसे नीक ढोवे वाला"
+      }
+    },
+    {
+      "sa": "सस्नितमम्",
+      "gloss": {
+        "hi": "सबसे शुद्ध",
+        "en": "most purifying",
+        "bho": "सबसे सुद्ध"
+      }
+    },
+    {
+      "sa": "पप्रितमम्",
+      "gloss": {
+        "hi": "सबसे अधिक भरने (तृप्त करने) वाला",
+        "en": "most satisfying",
+        "bho": "सबसे बेसी तिरपित करे वाला"
+      }
+    },
+    {
+      "sa": "जुष्टतमम्",
+      "gloss": {
+        "hi": "सबसे प्रिय",
+        "en": "most pleasing",
+        "bho": "सबसे प्रिय"
+      }
+    },
+    {
+      "sa": "देवहूतमम्",
+      "gloss": {
+        "hi": "देवों को सबसे अच्छी तरह बुलाने वाला",
+        "en": "best invoker of the gods",
+        "bho": "देवता लोग के सबसे नीक से बोलावे वाला"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "तू नाश करने वाला है; नाश करने वाले का नाश कर। जो हमें नष्ट करना चाहे उसे नष्ट कर, जिसे हम नष्ट करना चाहें उसे नष्ट कर। तू देवों का सबसे अच्छा वाहक, सबसे शुद्ध, सबसे तृप्त करने वाला, सबसे प्रिय और देवों को सबसे अच्छी तरह बुलाने वाला है।",
+    "en": "You are the destroyer; destroy the destroyer. Destroy him who would destroy us, destroy him whom we would destroy. You are of the gods the best carrier, the most purifying, the most satisfying, the most pleasing, the best invoker of the gods.",
+    "bho": "तू नास करे वाला हउअ; नास करे वाला के नास कर। जे हमनी के नास कइल चाहे ओकरा नास कर, जेकरा हमनी नास कइल चाहीं ओकरा नास कर। तू देवता लोग के सबसे नीक ढोवे वाला, सबसे सुद्ध, सबसे तिरपित करे वाला, सबसे प्रिय आ देवता लोग के सबसे नीक से बोलावे वाला हउअ।"
+  },
+  "explanation": {
+    "hi": "[[yajurved]] के पहले अध्याय का यह मंत्र दर्शपूर्णमास यज्ञ में शकट (गाड़ी) के धुर (जुआ) को संबोधित है — 'धूः' का अर्थ धुर भी है और नाश करने वाला भी, महीधर दोनों अर्थ देते हैं। पोथियाँ 'धूः' की ध्वनि के कारण इसे धूप दिखाने का मंत्र बनाती हैं: पंडित इसे पढ़कर देवता को धूप दिखाता है और कहता है 'धूपमाघ्रापयामि'। यही [[shodashopachar]] का धूप-मंत्र है।",
+    "en": "This mantra of the first adhyaya of the Yajurveda addresses, in the new- and full-moon sacrifice, the yoke-pole (dhur) of the cart — 'dhuh' means both the pole and the destroyer, and Mahidhara gives both senses. The handbooks, led by the sound 'dhuh', make it the mantra for showing incense: the pandit recites it while waving the dhupa before the deity and says 'dhupam aghrapayami'. It is the incense mantra of the shodashopachara.",
+    "bho": "[[yajurved]] के पहिला अध्याय के ई मंत्र दर्शपूर्णमास यज्ञ में गाड़ी के धुर (जुआ) के संबोधित बा — 'धूः' के अरथ धुर भी बा आ नास करे वाला भी, महीधर दुनो अरथ देलन। पोथी 'धूः' के धुन के कारन एकरा धूप देखावे के मंत्र बनावेला: पंडित ई पढ़ के देवता के धूप देखावेलन आ कहेलन 'धूपमाघ्रापयामि'। इहे [[shodashopachar]] के धूप-मंत्र बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-01",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "upachara",
+    "dhupa"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "variants": [
+    {
+      "reading": "सम्नितमम्",
+      "note": {
+        "hi": "विकिस्रोत का पद-पाठ और [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) 'सम्नितमम्' पढ़ते हैं; स्वर-पाठ और माध्यंदिन संस्करण 'सस्नितमम्' — यहाँ स्वर-पाठ रखा है।",
+        "en": "The Wikisource pada text and [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) read 'samnitamam'; the accented text and the Madhyandina editions read 'sasnitamam', kept here.",
+        "bho": "विकिस्रोत के पद-पाठ आ [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) 'सम्नितमम्' पढ़ेला; स्वर-पाठ आ माध्यंदिन संस्करन 'सस्नितमम्' — इहाँ स्वर-पाठ राखल गइल बा।"
+      },
+      "source": "titus-vs"
+    }
+  ]
+}

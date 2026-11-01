@@ -1,0 +1,127 @@
+{
+  "id": "pad-punyaham-bhavanto-bruvantu",
+  "kind": "paddhati",
+  "title": {
+    "hi": "पुण्याहं भवंतो ब्रुवंतु (तीन वाचन)",
+    "en": "Punyaham bhavanto bruvantu (the three proclamations)",
+    "bho": "पुण्याहं भवंतो ब्रुवंतु (तीन वाचन)"
+  },
+  "devanagari": "मह्यं सकुटुम्बाय महाजनान्नमस्कुर्वाणायाशीर्वचनमपेक्षमाणायामुककर्मणः पुण्याहं भवन्तो ब्रुवन्तु । ॐ पुण्याहम् ॐ पुण्याहम् ॐ पुण्याहम् ॥ मह्यं सकुटुम्बाय महाजनान्नमस्कुर्वाणायाशीर्वचनमपेक्षमाणायामुककर्मणः स्वस्ति भवन्तो ब्रुवन्तु । ॐ स्वस्ति ॐ स्वस्ति ॐ स्वस्ति ॥ मह्यं सकुटुम्बाय महाजनान्नमस्कुर्वाणायाशीर्वचनमपेक्षमाणायामुककर्मण ऋद्धिं भवन्तो ब्रुवन्तु । ॐ ऋध्यताम् ॐ ऋध्यताम् ॐ ऋध्यताम् ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "मह्यं सकुटुम्बाय",
+      "gloss": {
+        "hi": "कुटुंब सहित मुझ (यजमान) के लिए",
+        "en": "for me (the host) with my family",
+        "bho": "कुटुम सहित हमरा (जजमान) खातिर"
+      }
+    },
+    {
+      "sa": "महाजनान् नमस्कुर्वाणाय",
+      "gloss": {
+        "hi": "जो महाजनों (सभा के ब्राह्मणों) को नमस्कार कर रहा है",
+        "en": "who bows to the assembled brahmanas",
+        "bho": "जे महाजन (सभा के ब्राह्मन) लोग के परनाम करत बा"
+      }
+    },
+    {
+      "sa": "आशीर्वचनम् अपेक्षमाणाय",
+      "gloss": {
+        "hi": "आशीर्वाद की अपेक्षा रखने वाले के लिए",
+        "en": "who awaits their blessing",
+        "bho": "असीस के अपेच्छा राखे वाला खातिर"
+      }
+    },
+    {
+      "sa": "अमुककर्मणः",
+      "gloss": {
+        "hi": "अमुक (इस नाम के) कर्म का",
+        "en": "of such-and-such rite",
+        "bho": "अमुक (एह नाँव के) करम के"
+      }
+    },
+    {
+      "sa": "पुण्याहं भवन्तो ब्रुवन्तु",
+      "gloss": {
+        "hi": "आप लोग 'पुण्याह' (पवित्र दिन) कहें",
+        "en": "may you proclaim 'punyaha' (an auspicious day)",
+        "bho": "रउआ लोग 'पुण्याह' (पबित्र दिन) कहीं"
+      }
+    },
+    {
+      "sa": "ॐ पुण्याहम्",
+      "gloss": {
+        "hi": "ॐ पुण्य दिन है (तीन बार)",
+        "en": "Om, it is an auspicious day (thrice)",
+        "bho": "ॐ पुन्न दिन बा (तीन बेर)"
+      }
+    },
+    {
+      "sa": "स्वस्ति भवन्तो ब्रुवन्तु",
+      "gloss": {
+        "hi": "आप लोग 'स्वस्ति' (कल्याण) कहें",
+        "en": "may you proclaim 'svasti' (well-being)",
+        "bho": "रउआ लोग 'स्वस्ति' (कल्यान) कहीं"
+      }
+    },
+    {
+      "sa": "ॐ स्वस्ति",
+      "gloss": {
+        "hi": "ॐ कल्याण हो (तीन बार)",
+        "en": "Om, well-being (thrice)",
+        "bho": "ॐ कल्यान होखे (तीन बेर)"
+      }
+    },
+    {
+      "sa": "ऋद्धिं भवन्तो ब्रुवन्तु",
+      "gloss": {
+        "hi": "आप लोग 'ऋद्धि' (समृद्धि) कहें",
+        "en": "may you proclaim 'riddhi' (prosperity)",
+        "bho": "रउआ लोग 'ऋद्धि' (समृद्धि) कहीं"
+      }
+    },
+    {
+      "sa": "ॐ ऋध्यताम्",
+      "gloss": {
+        "hi": "ॐ समृद्ध हो (तीन बार)",
+        "en": "Om, may it prosper (thrice)",
+        "bho": "ॐ समृद्ध होखे (तीन बेर)"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "कुटुंब सहित, महाजनों को नमस्कार करते और आशीर्वाद की अपेक्षा रखते मुझ (यजमान) के अमुक कर्म का — 'पुण्याह' आप लोग कहें। (ब्राह्मण:) ॐ पुण्याह, ॐ पुण्याह, ॐ पुण्याह। … 'स्वस्ति' आप लोग कहें। ॐ स्वस्ति, ॐ स्वस्ति, ॐ स्वस्ति। … 'ऋद्धि' आप लोग कहें। ॐ ऋध्यताम्, ॐ ऋध्यताम्, ॐ ऋध्यताम्।",
+    "en": "For me, the host, with my family, who bow to the assembled brahmanas and await their blessing — of such-and-such rite, may you proclaim 'punyaha' (an auspicious day). (The brahmanas:) Om punyaha, om punyaha, om punyaha. … may you proclaim 'svasti' (well-being). Om svasti, om svasti, om svasti. … may you proclaim 'riddhi' (prosperity). Om, may it prosper — thrice.",
+    "bho": "कुटुम सहित, महाजन लोग के परनाम करत आ असीस के अपेच्छा राखत हमरा (जजमान) के अमुक करम के — 'पुण्याह' रउआ लोग कहीं। (ब्राह्मन लोग:) ॐ पुण्याह, ॐ पुण्याह, ॐ पुण्याह। … 'स्वस्ति' रउआ लोग कहीं। ॐ स्वस्ति, ॐ स्वस्ति, ॐ स्वस्ति। … 'ऋद्धि' रउआ लोग कहीं। ॐ ऋध्यताम्, ॐ ऋध्यताम्, ॐ ऋध्यताम्।"
+  },
+  "explanation": {
+    "hi": "[[punyahavachan]] का हृदय: यजमान तीन बार तीन बातें माँगता है — यह दिन पुण्य (शुभ) घोषित हो, कल्याण हो, समृद्धि हो — और उपस्थित ब्राह्मण हर बार तीन-तीन बार उत्तर देते हैं। 'अमुककर्मणः' की जगह पंडित उस कर्म का नाम लेता है (जैसे 'विवाहकर्मणः', 'नामकरणकर्मणः'); पत्नी सहित यजमान के लिए 'सकुटुंबाय' कहा जाता है। यह रूप [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) के प्रयोग से लिया है और [बौधायन गृह्यशेषसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AC%E0%A5%8C%E0%A4%A7%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D/%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%A8%E0%A4%83_%E0%A5%A7) 1.10 के मूल से मिलाया है, जहाँ 'वाचयिता पुण्याहं भवंतो ब्रुवंतु — ॐ पुण्याहम् इतीतरे प्रत्याहुः, एवमेव त्रिः' है। हिंदी-पट्टी की छोटी पोथियों में प्रायः केवल 'ॐ पुण्याहं भवंतो ब्रुवंतु' वाला संक्षिप्त रूप रहता है। परंपरा में माना जाता है कि ब्राह्मणों के इस वचन से दिन और नक्षत्र कर्म के लिए पवित्र हो जाते हैं (बौधायन: 'अहश्च नक्षत्रं च पूते भवतः')।",
+    "en": "The heart of the punyaha-vachana: the host asks three times for three things — that the day be declared auspicious, that there be well-being, that there be prosperity — and the brahmanas present answer three times each. In place of 'amuka-karmanah' the pandit names the rite (for example 'vivaha-karmanah', 'namakarana-karmanah'); 'sakutumbaya' is said for the host together with his wife. This form is taken from the procedure in the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) and compared with the original in the [Baudhayana Grihyashesha-sutra](https://sa.wikisource.org/wiki/%E0%A4%AC%E0%A5%8C%E0%A4%A7%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D/%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%A8%E0%A4%83_%E0%A5%A7) 1.10, which reads 'the reciter says punyaham bhavanto bruvantu — the others answer om punyaham, and so thrice'. The short Hindi-belt handbooks usually keep only the brief 'om punyaham bhavanto bruvantu' form. Tradition holds that by this word of the brahmanas the day and the nakshatra become pure for the rite (Baudhayana: 'ahash cha nakshatram cha pute bhavatah').",
+    "bho": "[[punyahavachan]] के हृदय: जजमान तीन बेर तीन बात माँगेला — ई दिन पुन्न (सुभ) घोषित होखे, कल्यान होखे, समृद्धि होखे — आ उपस्थित ब्राह्मन लोग हर बेर तीन-तीन बेर जवाब देलन। 'अमुककर्मणः' के जगह पंडित ओह करम के नाँव लेलन (जइसे 'विवाहकर्मणः', 'नामकरणकर्मणः'); पत्नी सहित जजमान खातिर 'सकुटुम्बाय' कहल जाला। ई रूप [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) के प्रयोग से लिहल बा आ [बौधायन गृह्यशेषसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AC%E0%A5%8C%E0%A4%A7%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D/%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%A8%E0%A4%83_%E0%A5%A7) 1.10 के मूल से मिलावल बा, जहाँ 'वाचयिता पुण्याहं भवन्तो ब्रुवन्तु — ॐ पुण्याहम् इतीतरे प्रत्याहुः, एवमेव त्रिः' बा। हिंदी-पट्टी के छोट पोथी में प्रायः खाली 'ॐ पुण्याहं भवंतो ब्रुवंतु' वाला संछिप्त रूप रहेला। परंपरा में मानल जाला कि ब्राह्मन लोग के एह बचन से दिन आ नक्षत्र करम खातिर पबित्र हो जाला (बौधायन: 'अहश्च नक्षत्रं च पूते भवतः')।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-samskararatnamala-1-01",
+    "retrieved": "2026-11-01",
+    "modified": "composed from the digest's prayoga, which gives each call once with the instruction 'iti trir vadet / iti trir viprah': the long address repeated for the three calls, the threefold answers written out with ॐ as the digest instructs; sandhi of the digest kept"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "pre-modern paddhati text as given in the Samskararatnamala (Gopinatha Bhatta Dikshita, 17th–18th c.); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "punyaha",
+    "vachana"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "locator": "bhaga 1, prakarana 1 (punyahavachana-prayoga); Baudhayana Grihyashesha 1.10",
+  "checkedAgainst": [
+    {
+      "ref": "ws-baudhayana-gs-shesha-1",
+      "retrieved": "2026-11-01"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "vs-31-13",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 31.13",
+  "title": {
+    "hi": "नाभ्या आसीदंतरिक्षम् (नैवेद्य)",
+    "en": "Nabhya asid antariksham (naivedya)",
+    "bho": "नाभ्या आसीदन्तरिक्षम् (नैवेद्य)"
+  },
+  "devanagari": "नाभ्या॑ आसीद॒न्तरि॑क्षᳪं᳭ शी॒र्ष्णो द्यौः॒ सम॑वर्तत । प॒द्भ्यां भूमि॒र्दिशः॒ श्रोत्रा॒त्तथा॑ लो॒काँ२ अ॑कल्पयन् ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "नाभ्याः",
+      "gloss": {
+        "hi": "नाभि से",
+        "en": "from the navel",
+        "bho": "नाभि से"
+      }
+    },
+    {
+      "sa": "आसीत् अन्तरिक्षम्",
+      "gloss": {
+        "hi": "अंतरिक्ष हुआ",
+        "en": "came the mid-space",
+        "bho": "अंतरिक्ष भइल"
+      }
+    },
+    {
+      "sa": "शीर्ष्णः",
+      "gloss": {
+        "hi": "सिर से",
+        "en": "from the head",
+        "bho": "माथा से"
+      }
+    },
+    {
+      "sa": "द्यौः समवर्तत",
+      "gloss": {
+        "hi": "आकाश (द्युलोक) बना",
+        "en": "the sky came to be",
+        "bho": "अकास बनल"
+      }
+    },
+    {
+      "sa": "पद्भ्याम्",
+      "gloss": {
+        "hi": "पैरों से",
+        "en": "from the feet",
+        "bho": "गोड़ से"
+      }
+    },
+    {
+      "sa": "भूमिः",
+      "gloss": {
+        "hi": "भूमि",
+        "en": "the earth",
+        "bho": "धरती"
+      }
+    },
+    {
+      "sa": "दिशः श्रोत्रात्",
+      "gloss": {
+        "hi": "कानों से दिशाएँ",
+        "en": "the directions from the ear",
+        "bho": "कान से दिसा"
+      }
+    },
+    {
+      "sa": "तथा लोकान् अकल्पयन्",
+      "gloss": {
+        "hi": "इस प्रकार लोकों की रचना की",
+        "en": "thus they fashioned the worlds",
+        "bho": "अइसे लोक सब के रचना कइल"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "उस (पुरुष) की नाभि से अंतरिक्ष हुआ, सिर से आकाश बना, पैरों से भूमि और कानों से दिशाएँ — इस प्रकार (देवों ने) लोकों की रचना की।",
+    "en": "From his navel came the mid-space, from his head the sky came to be, from his feet the earth, from his ear the directions — thus they fashioned the worlds.",
+    "bho": "ओह (पुरुष) के नाभि से अंतरिक्ष भइल, माथा से अकास बनल, गोड़ से धरती आ कान से दिसा — अइसे (देवता लोग) लोक सब के रचना कइल।"
+  },
+  "explanation": {
+    "hi": "पुरुष-सूक्त (VS 31) की तेरहवीं ऋचा, जिसमें विराट् पुरुष के अंगों से लोकों की उत्पत्ति कही गई है। पोथियाँ 'नाभि' शब्द के कारण इसे [[naivedya]] का मंत्र बनाती हैं: पंडित इसे पढ़कर देवता के सामने भोग (मिठाई, फल) रखता है, फिर 'प्राणाय स्वाहा' आदि पाँच वाक्य कहकर भोग समर्पित करता है। यही [[shodashopachar]] का नैवेद्य-मंत्र है।",
+    "en": "The thirteenth rk of the Purusha-sukta (VS 31), telling how the worlds arose from the limbs of the cosmic Purusha. Because of the word 'navel' the handbooks make it the naivedya mantra: the pandit recites it while placing the food offering (sweets, fruit) before the deity, then offers it with the five formulas 'pranaya svaha' and so on. It is the naivedya mantra of the shodashopachara.",
+    "bho": "पुरुष-सूक्त (VS 31) के तेरहवीं ऋचा, जेह में विराट पुरुष के अंग से लोक सब के उतपत्ति कहल गइल बा। पोथी 'नाभि' शब्द के कारन एकरा [[naivedya]] के मंत्र बनावेला: पंडित ई पढ़ के देवता के आगे भोग (मिठाई, फल) राखेलन, फेर 'प्राणाय स्वाहा' आदि पाँच वाक्य कह के भोग समर्पित करेलन। इहे [[shodashopachar]] के नैवेद्य-मंत्र बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-31",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "upachara",
+    "naivedya",
+    "purusha-sukta"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -201,7 +201,7 @@ details.rail-fold summary h3, details.rail-fold summary .rail-h { margin: 0; }
 .mantra .vn { color: var(--accent); }
 .iast { font-family: var(--font-mantra); font-size: calc(var(--fs-body) * 1.02); line-height: 1.7; color: var(--ink-2); text-align: var(--mantra-align); margin: 8px 0 0; font-style: normal; }
 .roman-easy { font-family: var(--font-latin); font-size: var(--fs-meta); color: var(--ink-2); text-align: var(--mantra-align); margin: 8px 0 0; }
-.iast, .roman-easy { overflow-wrap: anywhere; } /* a Vedic sandhi run transliterates to one 40-letter Latin token (VS 25.21 sthirairaṅgaistuṣṭuvāṃsastanūbhirvyaśemahi) that must wrap at 390 (UI-01, UI-27) */
+.iast, .roman-easy, .mantra, .says .sa { overflow-wrap: anywhere; } /* a Vedic sandhi run transliterates to one 40-letter Latin token (VS 25.21 sthirairaṅgaistuṣṭuvāṃsastanūbhirvyaśemahi) that must wrap at 390 (UI-01, UI-27); the Devanagari itself can be one 50-akshara sandhi compound (Samskararatnamala महाजनान्नमस्कुर्वाणायाशीर्वचनमपेक्षमाणायामुककर्मणः, C1A-03) — a pada longer than the measure may wrap (design §27 item 1), so the same rule applies to .mantra and to the pandit's Sanskrit line (.says .sa, व्रतनियमतपःस्वाध्यायक्रतुदमदानविशिष्टानां under the UI-27 letter-spacing) */
 :root[data-translit="iast"] .roman-easy, :root[data-translit="easy"] .iast, :root[data-translit="off"] .iast, :root[data-translit="off"] .roman-easy { display: none; }
 .verse-tools { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; margin-top: 14px; justify-content: var(--mantra-justify); }
 .verse-tools .note { font-size: var(--fs-small); color: var(--ink-2); flex: 1 1 100%; text-align: var(--mantra-align); }
@@ -551,7 +551,7 @@ details.meaning .card { margin-top: 12px; }
 .pothi-bar .spacer { flex: 1 1 auto; }
 .pothi-title { text-align: center; padding: var(--gap) 0 0; }
 .pothi-title h1 { margin-bottom: 0.2em; }
-.pothi-steps { display: grid; gap: var(--gap); margin-top: var(--gap); }
+.pothi-steps { display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--gap); margin-top: var(--gap); } /* minmax(0, 1fr): a grid item's min-width:auto let one unbreakable word widen every pothi step to 530 px at 390 (UI-01; C1A-03 punyaha-vachan pothi) */
 @media (min-width: 1440px) { .pothi-steps { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 .pothi-step { background: var(--surface); border: 1px solid var(--hair); border-radius: var(--radius); padding: clamp(20px, 2vw, 40px); break-inside: avoid; }
 .pothi-step .no { font-family: var(--font-display); font-weight: var(--display-weight); color: var(--accent); font-size: calc(var(--fs-body) * 1.1 * var(--pothi-scale, 1)); margin: 0 0 6px; }

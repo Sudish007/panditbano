@@ -1,0 +1,112 @@
+{
+  "id": "vs-12-77",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 12.77",
+  "title": {
+    "hi": "ओषधीः प्रति मोदध्वं (पुष्प)",
+    "en": "Oshadhih prati modadhvam (pushpa)",
+    "bho": "ओषधीः प्रति मोदध्वं (फूल)"
+  },
+  "devanagari": "ओष॑धीः॒ प्रति॑ मोदध्वं॒ पुष्प॑वतीः प्र॒सूव॑रीः । अश्वा॑ इव स॒जित्व॑रीर्वी॒रुधः॑ पारयि॒ष्णवः॑ ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "ओषधीः",
+      "gloss": {
+        "hi": "हे ओषधियो",
+        "en": "O plants",
+        "bho": "हे ओषधि लोग"
+      }
+    },
+    {
+      "sa": "प्रति मोदध्वम्",
+      "gloss": {
+        "hi": "प्रसन्न हो",
+        "en": "rejoice",
+        "bho": "खुस होखीं"
+      }
+    },
+    {
+      "sa": "पुष्पवतीः",
+      "gloss": {
+        "hi": "फूलों वाली",
+        "en": "flowering",
+        "bho": "फूल वाली"
+      }
+    },
+    {
+      "sa": "प्रसूवरीः",
+      "gloss": {
+        "hi": "फल देने वाली",
+        "en": "fruit-bearing",
+        "bho": "फल देवे वाली"
+      }
+    },
+    {
+      "sa": "अश्वाः इव",
+      "gloss": {
+        "hi": "घोड़ियों की तरह",
+        "en": "like mares",
+        "bho": "घोड़ी जइसन"
+      }
+    },
+    {
+      "sa": "सजित्वरीः",
+      "gloss": {
+        "hi": "साथ जीतने वाली",
+        "en": "winning together",
+        "bho": "संगे जीते वाली"
+      }
+    },
+    {
+      "sa": "वीरुधः",
+      "gloss": {
+        "hi": "लताएँ",
+        "en": "creepers",
+        "bho": "लता"
+      }
+    },
+    {
+      "sa": "पारयिष्ण्वः",
+      "gloss": {
+        "hi": "पार लगाने वाली",
+        "en": "carrying across (to safety)",
+        "bho": "पार लगावे वाली"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे फूलों वाली, फल देने वाली ओषधियो, प्रसन्न हो — तुम घोड़ियों की तरह साथ-साथ जीतने वाली, पार लगाने वाली लताएँ हो।",
+    "en": "Rejoice, O plants, flowering and fruit-bearing — you are creepers that win together like mares and carry (us) across.",
+    "bho": "हे फूल वाली, फल देवे वाली ओषधि लोग, खुस होखीं — रउआ घोड़ी जइसन संगे-संगे जीते वाली, पार लगावे वाली लता हईं।"
+  },
+  "explanation": {
+    "hi": "VS 12 की यह ऋचा ओषधियों (वनस्पतियों) की स्तुति है। पोथियाँ इसे पुष्प चढ़ाने का मंत्र बनाती हैं — 'पुष्पवतीः' शब्द इसका कारण है। [[ganesh-ambika-pujan]] में पंडित यह पढ़कर देवता पर फूल या माला चढ़ाता है और कहता है 'पुष्पं समर्पयामि'। यह [[shodashopachar]] का भी पुष्प-मंत्र है।",
+    "en": "This rk of VS 12 praises the plants. The handbooks make it the mantra for offering flowers — the word 'pushpavatih' (flowering) is the reason. In the Ganesha-Ambika puja the pandit recites it while offering flowers or a garland and says 'pushpam samarpayami'. It is the flower mantra of the shodashopachara too.",
+    "bho": "VS 12 के ई ऋचा ओषधि (बनस्पति) के स्तुति बा। पोथी एकरा फूल चढ़ावे के मंत्र बनावेला — 'पुष्पवतीः' शब्द एकर कारन बा। [[ganesh-ambika-pujan]] में पंडित ई पढ़ के देवता पर फूल भा माला चढ़ावेलन आ कहेलन 'पुष्पं समर्पयामि'। ई [[shodashopachar]] के भी फूल-मंत्र बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-12",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "upachara",
+    "pushpa"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "vs-4-36",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 4.36",
+  "title": {
+    "hi": "वरुणस्योत्तंभनमसि (जल भरना)",
+    "en": "Varunasyottambhanam asi (filling the water)",
+    "bho": "वरुणस्योत्तंभनमसि (जल भरल)"
+  },
+  "devanagari": "वरु॑णस्यो॒त्तम्भ॑नमसि वरु॑णस्य स्कम्भ॒सर्ज॑नी स्थो वरु॑णस्य ऋत॒सद॑न्यसि॒ वरु॑णस्य ऋत॒सद॑नमसि वरु॑णस्य ऋत॒सद॑न॒मा सी॑द ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "वरुणस्य",
+      "gloss": {
+        "hi": "वरुण का",
+        "en": "of Varuna",
+        "bho": "वरुन के"
+      }
+    },
+    {
+      "sa": "उत्तम्भनम् असि",
+      "gloss": {
+        "hi": "तू सहारा (स्तंभ) है",
+        "en": "you are the support",
+        "bho": "तू सहारा (खंभा) हउ"
+      }
+    },
+    {
+      "sa": "स्कम्भसर्जनी स्थः",
+      "gloss": {
+        "hi": "तुम दोनों स्तंभ को दृढ़ करने वाले हो",
+        "en": "you two are the fasteners of the pillar",
+        "bho": "तू दुनो खंभा के दृढ़ करे वाला हउ"
+      }
+    },
+    {
+      "sa": "ऋतसदनी असि",
+      "gloss": {
+        "hi": "तू ऋत (सत्य-यज्ञ) का आसन है",
+        "en": "you are the seat of rita (sacred order)",
+        "bho": "तू ऋत (सत्य-यज्ञ) के आसन हउ"
+      }
+    },
+    {
+      "sa": "ऋतसदनम् असि",
+      "gloss": {
+        "hi": "तू ऋत का सदन है",
+        "en": "you are the abode of rita",
+        "bho": "तू ऋत के सदन हउ"
+      }
+    },
+    {
+      "sa": "ऋतसदनम् आसीद",
+      "gloss": {
+        "hi": "ऋत के सदन पर बैठ",
+        "en": "sit down on the seat of rita",
+        "bho": "ऋत के सदन पर बइठ"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "तू वरुण का सहारा है; तुम दोनों वरुण के स्तंभ को दृढ़ करने वाले हो; तू वरुण के ऋत का आसन है, तू वरुण के ऋत का सदन है; वरुण के ऋत-सदन पर बैठ।",
+    "en": "You are Varuna's support; you two are the fasteners of Varuna's pillar; you are the seat of Varuna's rita, you are the abode of Varuna's rita; sit down on Varuna's seat of rita.",
+    "bho": "तू वरुन के सहारा हउ; तू दुनो वरुन के खंभा के दृढ़ करे वाला हउ; तू वरुन के ऋत के आसन हउ, तू वरुन के ऋत के सदन हउ; वरुन के ऋत-सदन पर बइठ।"
+  },
+  "explanation": {
+    "hi": "[[yajurved]] के चौथे अध्याय (सोम-क्रय प्रकरण) का यजुः, जिसमें सोम रखने के पात्र और आसन को [[varun]] का सहारा कहा गया है। पोथियाँ 'वरुण' शब्द के कारण इसे कलश में जल भरने का मंत्र बनाती हैं — जल के देवता वरुण हैं। [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) यही देती है; [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) यहाँ 'इमं मे गंगे यमुने' (नदी-सूक्त) पढ़ती है।",
+    "en": "A yajus of the fourth adhyaya of the Yajurveda (the buying of the Soma), in which the vessel and the seat of the Soma are called the support of Varuna. Because of the word 'Varuna' the handbooks make it the mantra for filling the kalasha with water — Varuna is the deity of the waters. The [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) gives this; the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) uses 'imam me gange yamune' (the river hymn) here.",
+    "bho": "[[yajurved]] के चउथा अध्याय (सोम-क्रय प्रकरन) के यजुः, जेह में सोम राखे के बरतन आ आसन के [[varun]] के सहारा कहल गइल बा। पोथी 'वरुण' शब्द के कारन एकरा कलश में जल भरे के मंत्र बनावेला — जल के देवता वरुन बाड़न। [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) इहे देला; [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) इहाँ 'इमं मे गंगे यमुने' (नदी-सूक्त) पढ़ेला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-04",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "kalash",
+    "jala",
+    "varuna"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

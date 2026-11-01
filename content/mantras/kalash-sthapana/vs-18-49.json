@@ -1,0 +1,113 @@
+{
+  "id": "vs-18-49",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 18.49",
+  "title": {
+    "hi": "तत्त्वा यामि ब्रह्मणा वंदमानः (वरुण आवाहन)",
+    "en": "Tat tva yami brahmana vandamanah (invoking Varuna)",
+    "bho": "तत्त्वा यामि ब्रह्मणा वंदमानः (वरुन आवाहन)"
+  },
+  "devanagari": "तत्त्वा॑ यामि॒ ब्रह्म॑णा॒ वन्द॑मान॒स्तदाशा॑स्ते॒ यज॑मानो ह॒विर्भिः॑ । अहे॑डमानो वरुणे॒ह बो॒ध्युरु॑शᳪं᳭स॒ मा न॒ आयुः॒ प्र मो॑षीः ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "तत् त्वा यामि",
+      "gloss": {
+        "hi": "उसके लिए मैं तुझसे याचना करता हूँ",
+        "en": "for that I come to you (with prayer)",
+        "bho": "ओकरा खातिर हम तोहरा से याचना करत बानी"
+      }
+    },
+    {
+      "sa": "ब्रह्मणा वन्दमानः",
+      "gloss": {
+        "hi": "मंत्र (स्तुति) से वंदना करता हुआ",
+        "en": "praising you with the sacred word",
+        "bho": "मंत्र (स्तुति) से बंदना करत"
+      }
+    },
+    {
+      "sa": "तत् आ शास्ते",
+      "gloss": {
+        "hi": "उसी की आशा करता है",
+        "en": "that too asks",
+        "bho": "ओही के आसा करेला"
+      }
+    },
+    {
+      "sa": "यजमानः हविर्भिः",
+      "gloss": {
+        "hi": "यजमान हवियों से",
+        "en": "the sacrificer with his offerings",
+        "bho": "जजमान हवि से"
+      }
+    },
+    {
+      "sa": "अहेडमानः",
+      "gloss": {
+        "hi": "क्रोध न करता हुआ",
+        "en": "not angry",
+        "bho": "बिना रिसियाइल"
+      }
+    },
+    {
+      "sa": "वरुण इह बोधि",
+      "gloss": {
+        "hi": "हे वरुण, यहाँ (हमारी ओर) ध्यान दे",
+        "en": "O Varuna, take heed here",
+        "bho": "हे वरुन, इहाँ धियान दे"
+      }
+    },
+    {
+      "sa": "उरुशंस",
+      "gloss": {
+        "hi": "हे बहुतों से स्तुत",
+        "en": "O widely praised",
+        "bho": "हे बहुत से स्तुत"
+      }
+    },
+    {
+      "sa": "मा नः आयुः प्र मोषीः",
+      "gloss": {
+        "hi": "हमारी आयु न हर",
+        "en": "do not steal away our life",
+        "bho": "हमनी के उमिर मत हर"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "उसके लिए मैं मंत्र से वंदना करता हुआ तुझसे याचना करता हूँ; यजमान हवियों से उसी की आशा करता है। हे बहुतों से स्तुत वरुण, क्रोध न करते हुए यहाँ हमारी ओर ध्यान दे; हमारी आयु न हर।",
+    "en": "For that I come to you, praising you with the sacred word; that too the sacrificer asks with his offerings. O widely praised Varuna, not angry, take heed of us here; do not steal away our life.",
+    "bho": "ओकरा खातिर हम मंत्र से बंदना करत तोहरा से याचना करत बानी; जजमान हवि से ओही के आसा करेला। हे बहुत से स्तुत वरुन, बिना रिसियाइल इहाँ हमनी के ओर धियान दे; हमनी के उमिर मत हर।"
+  },
+  "explanation": {
+    "hi": "ऋग्वेद 1.24.11 की शुनःशेप-ऋचा, जो [[yajurved]] में VS 18.49 (और 21.2) के रूप में है। यह [[varun]] का मुख्य आवाहन-मंत्र है — [[kalash-sthapana]] में कलश को जल का रूप मानकर उसमें वरुण का आवाहन इसी से किया जाता है; पंडित इसके बाद कहता है 'अस्मिन् कलशे वरुणं सांगं सपरिवारं … आवाहयामि'। [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) का विनियोग 'वरुणावाहने' है। [[punyahavachan]] के कलश में भी यही मंत्र है।",
+    "en": "The Shunahshepa rk, Rigveda 1.24.11, carried by the Yajurveda as VS 18.49 (and 21.2). It is the principal invocation of Varuna — in the kalasha sthapana, the kalasha being taken as the form of the waters, Varuna is invoked into it with this mantra; the pandit then says 'asmin kalashe varunam sangam saparivaram … avahayami'. The [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) gives its application as 'varuna-avahane'. The kalasha of the punyaha-vachana takes the same mantra.",
+    "bho": "ऋग्वेद 1.24.11 के शुनःशेप-ऋचा, जे [[yajurved]] में VS 18.49 (आ 21.2) के रूप में बा। ई [[varun]] के मुख्य आवाहन-मंत्र बा — [[kalash-sthapana]] में कलश के जल के रूप मान के ओह में वरुन के आवाहन एही से कइल जाला; पंडित एकरा बाद कहेलन 'अस्मिन् कलशे वरुणं साङ्गं सपरिवारं … आवाहयामि'। [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) के विनियोग 'वरुणावाहने' बा। [[punyahavachan]] के कलश में भी इहे मंत्र बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-18",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "kalash",
+    "varuna",
+    "avahan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

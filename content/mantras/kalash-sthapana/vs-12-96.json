@@ -1,0 +1,113 @@
+{
+  "id": "vs-12-96",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 12.96",
+  "title": {
+    "hi": "ओषधयः समवदंत (धान्य)",
+    "en": "Oshadhayah sam avadanta (the grain)",
+    "bho": "ओषधयः समवदंत (धान्य)"
+  },
+  "devanagari": "ओष॑धयः॒ सम॑वदन्त॒ सोमे॑न स॒ह राज्ञा॑ । यस्मै॑ कृ॒णोति॑ ब्राह्म॒णस्तᳪं᳭ रा॑जन् पारयामसि ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "ओषधयः",
+      "gloss": {
+        "hi": "ओषधियाँ (अन्न-वनस्पतियाँ)",
+        "en": "the plants",
+        "bho": "ओषधि (अन्न-बनस्पति)"
+      }
+    },
+    {
+      "sa": "समवदन्त",
+      "gloss": {
+        "hi": "आपस में बोलीं",
+        "en": "spoke together",
+        "bho": "आपस में बोलली"
+      }
+    },
+    {
+      "sa": "सोमेन सह राज्ञा",
+      "gloss": {
+        "hi": "राजा सोम के साथ",
+        "en": "with King Soma",
+        "bho": "राजा सोम के संगे"
+      }
+    },
+    {
+      "sa": "यस्मै",
+      "gloss": {
+        "hi": "जिसके लिए",
+        "en": "for whom",
+        "bho": "जेकरा खातिर"
+      }
+    },
+    {
+      "sa": "कृणोति ब्राह्मणः",
+      "gloss": {
+        "hi": "ब्राह्मण (वैद्य) उपचार करता है",
+        "en": "the brahmana (healer) works",
+        "bho": "ब्राह्मन (बैद) उपचार करेला"
+      }
+    },
+    {
+      "sa": "तम्",
+      "gloss": {
+        "hi": "उसे",
+        "en": "him",
+        "bho": "ओकरा"
+      }
+    },
+    {
+      "sa": "राजन्",
+      "gloss": {
+        "hi": "हे राजा",
+        "en": "O King",
+        "bho": "हे राजा"
+      }
+    },
+    {
+      "sa": "पारयामसि",
+      "gloss": {
+        "hi": "हम पार लगाते हैं",
+        "en": "we carry across",
+        "bho": "हमनी पार लगावत बानी"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "ओषधियाँ राजा सोम के साथ आपस में बोलीं — हे राजा, जिसके लिए ब्राह्मण (उपचार) करता है, उसे हम पार लगा देती हैं।",
+    "en": "The plants spoke together with King Soma: 'O King, for whom the brahmana works, him we carry across.'",
+    "bho": "ओषधि लोग राजा सोम के संगे आपस में बोलली — हे राजा, जेकरा खातिर ब्राह्मन (उपचार) करेला, ओकरा हमनी पार लगा देत बानी।"
+  },
+  "explanation": {
+    "hi": "[[yajurved]] के बारहवें अध्याय के ओषधि-सूक्त (VS 12.75–101) की ऋचा। पोथियाँ इसे [[kalash-sthapana]] में तब पढ़ती हैं जब कलश के नीचे सप्तधान्य या अक्षत का ढेर बिछाया जाता है — अन्न भी ओषधि है, इसीलिए यह मंत्र चुना गया। [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) और [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) दोनों यही मंत्र देती हैं। ऋचा का मूल प्रसंग ओषधियों की चिकित्सा-शक्ति की स्तुति है; कलश में यह केवल अन्न रखने का मंत्र है।",
+    "en": "A rk of the plant hymn (VS 12.75–101) in the twelfth adhyaya of the Yajurveda. The handbooks recite it in the kalasha sthapana when the heap of seven grains or rice is spread under the kalasha — grain too is a plant, which is why this mantra was chosen. Both the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) and the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) give it. The rk's own context praises the plants' power as medicine; in the kalasha rite it is only the mantra for laying the grain.",
+    "bho": "[[yajurved]] के बारहवाँ अध्याय के ओषधि-सूक्त (VS 12.75–101) के ऋचा। पोथी एकरा [[kalash-sthapana]] में तब पढ़ेला जब कलश के नीचे सतधान्य भा अछत के ढेर बिछावल जाला — अन्न भी ओषधि बा, एही से ई मंत्र चुनल गइल। [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) आ [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) दुनो इहे मंत्र देला। ऋचा के मूल प्रसंग ओषधि के चिकित्सा-शक्ति के स्तुति बा; कलश में ई खाली अन्न राखे के मंत्र बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-12",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "kalash",
+    "dhanya",
+    "oshadhi"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

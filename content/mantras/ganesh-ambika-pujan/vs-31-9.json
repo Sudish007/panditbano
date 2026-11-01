@@ -1,0 +1,145 @@
+{
+  "id": "vs-31-9",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 31.9",
+  "title": {
+    "hi": "तं यज्ञं बर्हिषि प्रौक्षन् (गंध)",
+    "en": "Tam yajnam barhishi praukshan (gandha)",
+    "bho": "तं यज्ञं बर्हिषि प्रौक्षन् (गंध)"
+  },
+  "devanagari": "तं य॒ज्ञं ब॒र्हिषि॒ प्रौक्ष॒न् पुरु॑षं जा॒तम॑ग्र॒तः । तेन॑ दे॒वा अ॑यजन्त सा॒ध्या ऋष॑यश्च॒ ये ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "तम्",
+      "gloss": {
+        "hi": "उस",
+        "en": "that",
+        "bho": "ओह"
+      }
+    },
+    {
+      "sa": "यज्ञम्",
+      "gloss": {
+        "hi": "यज्ञ (रूप पुरुष) को",
+        "en": "sacrifice (the Purusha as offering)",
+        "bho": "यज्ञ (रूप पुरुष) के"
+      }
+    },
+    {
+      "sa": "बर्हिषि",
+      "gloss": {
+        "hi": "कुश के आसन पर",
+        "en": "on the sacred grass",
+        "bho": "कुस के आसन पर"
+      }
+    },
+    {
+      "sa": "प्रौक्षन्",
+      "gloss": {
+        "hi": "उन्होंने सींचा",
+        "en": "they sprinkled",
+        "bho": "ऊ लोग सींचल"
+      }
+    },
+    {
+      "sa": "पुरुषम्",
+      "gloss": {
+        "hi": "पुरुष को",
+        "en": "the Purusha",
+        "bho": "पुरुष के"
+      }
+    },
+    {
+      "sa": "जातम् अग्रतः",
+      "gloss": {
+        "hi": "सबसे पहले जन्मे",
+        "en": "born in the beginning",
+        "bho": "सबसे पहिले जनमल"
+      }
+    },
+    {
+      "sa": "तेन",
+      "gloss": {
+        "hi": "उससे",
+        "en": "with him",
+        "bho": "ओकरा से"
+      }
+    },
+    {
+      "sa": "देवाः",
+      "gloss": {
+        "hi": "देवों ने",
+        "en": "the gods",
+        "bho": "देवता लोग"
+      }
+    },
+    {
+      "sa": "अयजन्त",
+      "gloss": {
+        "hi": "यज्ञ किया",
+        "en": "sacrificed",
+        "bho": "यज्ञ कइल"
+      }
+    },
+    {
+      "sa": "साध्याः",
+      "gloss": {
+        "hi": "साध्य (देवगण)",
+        "en": "the Sadhyas",
+        "bho": "साध्य (देवगन)"
+      }
+    },
+    {
+      "sa": "ऋषयः च",
+      "gloss": {
+        "hi": "और ऋषियों ने",
+        "en": "and the sages",
+        "bho": "आ ऋषि लोग"
+      }
+    },
+    {
+      "sa": "ये",
+      "gloss": {
+        "hi": "जो (थे)",
+        "en": "who (were there)",
+        "bho": "जे (रहलन)"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "सबसे पहले जन्मे उस यज्ञ-रूप पुरुष को उन्होंने कुश के आसन पर (जल से) सींचा; उससे देवों, साध्यों और ऋषियों ने यज्ञ किया।",
+    "en": "That Purusha, born in the beginning, they sprinkled as the offering on the sacred grass; with him the gods, the Sadhyas and the sages sacrificed.",
+    "bho": "सबसे पहिले जनमल ओह यज्ञ-रूप पुरुष के ऊ लोग कुस के आसन पर (जल से) सींचल; ओकरा से देवता, साध्य आ ऋषि लोग यज्ञ कइल।"
+  },
+  "explanation": {
+    "hi": "यह [[yajurved]] के पुरुष-सूक्त (VS 31) की नौवीं ऋचा है। माध्यंदिन पोथियाँ पूरे पुरुष-सूक्त को [[shodashopachar]] के मंत्रों की तरह बाँटती हैं — 'सींचा' (प्रौक्षन्) शब्द के कारण यह ऋचा गंध-चंदन चढ़ाते समय पढ़ी जाती है। [[ganesh-ambika-pujan]] और [[kalash-sthapana]] में पंडित इसे पढ़कर देवता पर चंदन लगाता है; साथ में पद्धति का वाक्य 'गंधं समर्पयामि' कहा जाता है।",
+    "en": "This is the ninth rk of the Purusha-sukta (VS 31) of the Yajurveda. The Madhyandina handbooks distribute the whole Purusha-sukta over the sixteen upacharas — because of the word 'they sprinkled' (praukshan) this rk accompanies the offering of fragrant paste (gandha, chandana). In the Ganesha-Ambika puja and the kalasha sthapana the pandit recites it while putting sandal paste on the deity, adding the handbook line 'gandham samarpayami'.",
+    "bho": "ई [[yajurved]] के पुरुष-सूक्त (VS 31) के नवमी ऋचा बा। माध्यंदिन पोथी पूरा पुरुष-सूक्त के [[shodashopachar]] के मंत्र जइसन बाँटेला — 'सींचल' (प्रौक्षन्) शब्द के कारन ई ऋचा गंध-चंदन चढ़ावत घरी पढ़ल जाला। [[ganesh-ambika-pujan]] आ [[kalash-sthapana]] में पंडित एकरा पढ़ के देवता पर चंदन लगावेलन; संगे पद्धति के वाक्य 'गन्धं समर्पयामि' कहल जाला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-31",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "upachara",
+    "gandha",
+    "purusha-sukta"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

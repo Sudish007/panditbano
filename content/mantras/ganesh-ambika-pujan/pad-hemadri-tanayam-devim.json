@@ -1,0 +1,97 @@
+{
+  "id": "pad-hemadri-tanayam-devim",
+  "kind": "paddhati",
+  "title": {
+    "hi": "हेमाद्रितनयां देवीं (गौरी आवाहन)",
+    "en": "Hemadri-tanayam devim (invoking Gauri)",
+    "bho": "हेमाद्रितनयां देवीं (गौरी आवाहन)"
+  },
+  "devanagari": "हेमाद्रितनयां देवीं वरदां शङ्करप्रियाम् । लम्बोदरस्य जननीं गौरीमावाहयाम्यहम् ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "हेमाद्रितनयाम्",
+      "gloss": {
+        "hi": "हिमालय (स्वर्ण-पर्वत) की पुत्री को",
+        "en": "the daughter of the golden mountain (Himalaya)",
+        "bho": "हिमालय (सोना-पहाड़) के बेटी के"
+      }
+    },
+    {
+      "sa": "देवीम्",
+      "gloss": {
+        "hi": "देवी को",
+        "en": "the Goddess",
+        "bho": "देवी के"
+      }
+    },
+    {
+      "sa": "वरदाम्",
+      "gloss": {
+        "hi": "वर देने वाली को",
+        "en": "the giver of boons",
+        "bho": "बर देवे वाली के"
+      }
+    },
+    {
+      "sa": "शङ्करप्रियाम्",
+      "gloss": {
+        "hi": "शंकर की प्रिया को",
+        "en": "the beloved of Shankara",
+        "bho": "शंकर के प्रिया के"
+      }
+    },
+    {
+      "sa": "लम्बोदरस्य जननीम्",
+      "gloss": {
+        "hi": "लंबोदर (गणेश) की माता को",
+        "en": "the mother of Lambodara (Ganesha)",
+        "bho": "लंबोदर (गणेश) के माई के"
+      }
+    },
+    {
+      "sa": "गौरीम्",
+      "gloss": {
+        "hi": "गौरी को",
+        "en": "Gauri",
+        "bho": "गौरी के"
+      }
+    },
+    {
+      "sa": "आवाहयामि अहम्",
+      "gloss": {
+        "hi": "मैं आवाहन करता हूँ",
+        "en": "I invoke",
+        "bho": "हम आवाहन करत बानी"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हिमालय की पुत्री, वर देने वाली, शंकर की प्रिया, लंबोदर गणेश की माता देवी गौरी का मैं आवाहन करता हूँ।",
+    "en": "I invoke the Goddess Gauri — daughter of the golden mountain, giver of boons, beloved of Shankara, mother of Lambodara Ganesha.",
+    "bho": "हिमालय के बेटी, बर देवे वाली, शंकर के प्रिया, लंबोदर गणेश के माई देवी गौरी के हम आवाहन करत बानी।"
+  },
+  "explanation": {
+    "hi": "गौरी के [[avahan]] का पोथी-श्लोक, जो [[ganesh-ambika-pujan]] में 'नमो देव्यै' के बाद और 'ॐ भूर्भुवः स्वः गौर्यै नमः, गौरीमावाहयामि स्थापयामि' के पहले पढ़ा जाता है। इसका कोई पुराण-स्रोत हमें नहीं मिला — यह [[paddhati]]-परंपरा का श्लोक है; पाठ [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) से लिया है और [संस्कृत विकिस्रोत](https://sa.wikisource.org/) पर इसकी खोज खाली रही, इसलिए दूसरा स्रोत दर्ज नहीं है। अंबिका का वैदिक मंत्र 'अंबे अंबिके' (VS 23.18) इसके साथ पढ़ा जाता है।",
+    "en": "The handbook verse for invoking Gauri, recited in the Ganesha-Ambika puja after 'namo devyai' and before 'om bhur bhuvah svah gauryai namah, gaurim avahayami sthapayami'. We found no Puranic source for it — it is a verse of the handbook tradition; the text is taken from the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) and a search of [Sanskrit Wikisource](https://sa.wikisource.org/) returned nothing, so no second source is recorded. The Vedic Ambika mantra 'ambe ambike' (VS 23.18) is recited with it.",
+    "bho": "गौरी के [[avahan]] के पोथी-श्लोक, जे [[ganesh-ambika-pujan]] में 'नमो देव्यै' के बाद आ 'ॐ भूर्भुवः स्वः गौर्यै नमः, गौरीमावाहयामि स्थापयामि' के पहिले पढ़ल जाला। एकर कवनो पुरान-स्रोत हमनी के ना मिलल — ई [[paddhati]]-परंपरा के श्लोक बा; पाठ [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) से लिहल बा आ [संस्कृत विकिस्रोत](https://sa.wikisource.org/) पर एकर खोज खाली रहल, एही से दोसरा स्रोत दरज नइखे। अंबिका के वैदिक मंत्र 'अंबे अंबिके' (VS 23.18) एकरा संगे पढ़ल जाला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-vivah-mvf",
+    "retrieved": "2026-11-01",
+    "modified": "OCR of the 2020 handbook: हेमद्रितनायां → हेमाद्रितनयां, शंकरप्रियाम् → शङ्करप्रियाम्, गौरीं आवाह्याम्यहम् → गौरीमावाहयाम्यहम् (sandhi, OCR slip); the handbook's leading ॐ dropped"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "paddhati verse of the Madhyandina handbook tradition; author unknown, pre-modern; OCR of a 2020 handbook used as the copy source, text normalised",
+  "tags": [
+    "gauri",
+    "ambika",
+    "avahan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

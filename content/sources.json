@@ -1575,6 +1575,178 @@
       ],
       "year": "1911",
       "note": "16-chapter Saroddhara numbering (decisions.md section A, 2.4)."
+    },
+    {
+      "id": "ws-syv-04",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः ०४",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_०४",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 4",
+        "Vajasaneyi Samhita 4"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 4; pada text labelled NN.M with the svara text below it (R2 S20). Second source: TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 4"
+    },
+    {
+      "id": "ws-syv-11",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः ११",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_११",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 11",
+        "Vajasaneyi Samhita 11"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 11; pada text labelled NN.M with the svara text below it (R2 S20). Second source: TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 11"
+    },
+    {
+      "id": "ws-syv-12",
+      "project": "wikisource",
+      "title": "शुक्लयजुर्वेदः/अध्यायः १२",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_१२",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "शुक्लयजुर्वेद अध्याय 12",
+        "Vajasaneyi Samhita 12"
+      ],
+      "note": "Madhyandina Vajasaneyi Samhita adhyaya 12; pada text labelled NN.M with the svara text below it (R2 S20). Second source: TITUS.",
+      "wikisourceLang": "sa",
+      "locator": "VS 12"
+    },
+    {
+      "id": "ws-samskararatnamala-1-01",
+      "project": "wikisource",
+      "title": "संस्काररत्नमाला (भागः १)/प्रथमं प्रकरणम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription of the Anandashrama edition); work itself public domain (Gopinatha Bhatta Dikshita, 17th–18th c.)",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "संस्काररत्नमाला (प्रथम प्रकरण)",
+        "Samskararatnamala (first prakarana)"
+      ],
+      "note": "Madhyandina dharmashastra digest; the first prakarana gives the Ganapati-pujana, the kalasha-sthapana with per-item mantra pratikas and vinyoga, and the complete punyahavachana-prayoga (Baudhayana-based, 71 ashirvakyas). Proofread-page transclusion read through the MediaWiki API (action=parse&prop=text). Second source for the punyaha formulas: Baudhayana Grihyashesha 1.10 (ws-baudhayana-gs-shesha-1); for the kalasha and Ganapati verses: the Dwivedi 2020 paddhati OCR (ia-vivah-mvf).",
+      "wikisourceLang": "sa",
+      "locator": "SRM 1, prakarana 1 (Ganapati-pujana, kalasha-sthapana, punyahavachana)"
+    },
+    {
+      "id": "ws-adishankara-pujavidhi",
+      "project": "wikisource",
+      "title": "आदिशङ्कराचार्यपूजाविधिः",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "आदिशंकराचार्य पूजाविधि",
+        "Adi Shankaracharya puja vidhi"
+      ],
+      "note": "A South Indian puja manual on Wikisource; its kalasharchana section carries the kalasha-devata verses (कलशस्य मुखे विष्णुः … दुरितक्षयकारकाः) and the tirtha invocation गङ्गे च यमुने. Used as copy source for गङ्गे च यमुने and as check for कलशस्य मुखे. Second source: the Dwivedi 2020 paddhati OCR (ia-vivah-mvf).",
+      "wikisourceLang": "sa"
+    },
+    {
+      "id": "ws-markandeya-81-85",
+      "project": "wikisource",
+      "title": "मार्कण्डेयपुराणम्/अध्यायः ०८१-०८५",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A5%87%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A6%E0%A5%AE%E0%A5%A7-%E0%A5%A6%E0%A5%AE%E0%A5%AB",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "मार्कण्डेयपुराण अध्याय 81–85",
+        "Markandeya Purana 81–85"
+      ],
+      "note": "Devi-mahatmya chapters 1–5 (Durga Saptashati) inside the Markandeya Purana; verse numbers as chapter.verse (85.7 = Saptashati 5.9). Second source: sanskritdocuments durga700 (sd-durga700) and the Dwivedi 2020 paddhati OCR.",
+      "wikisourceLang": "sa",
+      "locator": "Markandeya Purana 81–85"
+    },
+    {
+      "id": "ws-markandeya-91-93",
+      "project": "wikisource",
+      "title": "मार्कण्डेयपुराणम्/अध्यायः ९१-९३",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A5%87%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A7-%E0%A5%AF%E0%A5%A9",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "मार्कण्डेयपुराण अध्याय 91–93",
+        "Markandeya Purana 91–93"
+      ],
+      "note": "Devi-mahatmya chapters 11–13 (Narayani-stuti etc.); 91.4 = Saptashati 11.5 त्वं वैष्णवी, 91.9 = 11.10 सर्वमङ्गलमाङ्गल्ये. Typing slip तेवं वै for त्वं वै at 91.4. Second source: sd-durga700 and the Dwivedi 2020 paddhati OCR.",
+      "wikisourceLang": "sa",
+      "locator": "Markandeya Purana 91–93"
+    },
+    {
+      "id": "ws-bphs-1",
+      "project": "wikisource",
+      "title": "बृहत्पाराशरहोराशास्त्रम्/अध्यायः १ (सृष्टिक्रमकथा)",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%AC%E0%A5%83%E0%A4%B9%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%B6%E0%A4%B0%E0%A4%B9%E0%A5%8B%E0%A4%B0%E0%A4%BE%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A7_%28%E0%A4%B8%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%95%E0%A4%A5%E0%A4%BE%29",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "verify",
+      "secondSourceAvailable": false,
+      "titles": [
+        "बृहत्पाराशर होराशास्त्र",
+        "Brihat Parashara Hora Shastra"
+      ],
+      "note": "Opening benediction carries the Ganesha dhyana गजाननं भूतगणादिसेवितं with the reading फलसारभक्षणम् / शोकविनाशकारणं — used to check the handbook reading.",
+      "wikisourceLang": "sa"
+    },
+    {
+      "id": "ws-baudhayana-gs-shesha-1",
+      "project": "wikisource",
+      "title": "बौधायनगृह्यसूत्रम्/गृह्यशेषः/प्रश्नः १",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%AC%E0%A5%8C%E0%A4%A7%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D/%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%A8%E0%A4%83_%E0%A5%A7",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "verify",
+      "secondSourceAvailable": false,
+      "titles": [
+        "बौधायन गृह्यशेषसूत्र",
+        "Baudhayana Grihyashesha-sutra"
+      ],
+      "note": "Grihyashesha prashna 1, adhyaya 10 = the original punyahavachana procedure (ॐ आपः — शिवा आपः सन्तु; शान्तिरस्तु … शिवं कर्मास्तु; पुण्याहं भवन्तो ब्रुवन्तु ×3; marjana with surabhimati etc.). Verification source for the Samskararatnamala prayoga.",
+      "wikisourceLang": "sa",
+      "locator": "BaudhGSS 1.10"
+    },
+    {
+      "id": "ia-vasishthi-havan-paddhati-1941",
+      "project": "archive",
+      "title": "Vasishthi Havan Paddhati with Bhasha Tika (Sarayu Prasad Sharma \"Dvijendra\", ed. Balmukund Shastri; Vishveshvar Press, Kashi, 1941)",
+      "url": "https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller",
+      "retrieved": "2026-11-01",
+      "licence": "public domain (1941 Indian print; archive.org CC0 marking)",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "वासिष्ठी हवन-पद्धति",
+        "वासिष्ठी हवन पद्धति",
+        "वासिष्ठीहवनपद्धति",
+        "Vasishthi Havan Paddhati",
+        "Vasishthi Havana Paddhati"
+      ],
+      "note": "The classic Hindi-belt havan handbook (Madhyandina): kushakandika, aghara/ajyabhaga, mahavyahriti, panchavaruni, navagraha samidha shloka (अर्कः पलाशः खदिरो …), purnahuti sankalpa with पूर्णा दर्वि (VS 3.49), barhir-homa (VS 8.21), bhasma tryayusha places, closing यज्ञसूची verses. OCR (djvu.txt) used; readings checked against the 1939 Gayghat edition (CwUb_vasishthi-havan-paddhati-with-hindi-tika-gayghat-varanasi-1939-bhargav-pustakala), the Nitya Karma Puja Prakash scan and the Dwivedi vivah paddhati.",
+      "item": "couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller",
+      "publisher": "Vishveshvar Press, Bulanala, Kashi (Karm Babu Baijnath Prasad, book-seller)",
+      "year": "1941"
     }
   ]
 }

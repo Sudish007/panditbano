@@ -1,0 +1,449 @@
+{
+  "id": "punyaha-vachan",
+  "code": "F07",
+  "group": "foundations",
+  "phase": 1,
+  "title": {
+    "hi": "पुण्याहवाचन",
+    "en": "Punyaha-vachana",
+    "bho": "पुण्याहवाचन"
+  },
+  "lede": {
+    "hi": "ब्राह्मणों से 'पुण्याह' — शुभ दिन — की घोषणा: यजमान जल, गंध, अक्षत, फूल, तांबूल और दक्षिणा देकर पूछता है, ब्राह्मण तीन-तीन बार 'ॐ पुण्याहम्, ॐ स्वस्ति, ॐ ऋध्यताम्' कहते हैं, इकहत्तर आशीर्वाक्य बोले जाते हैं और कलश-जल से अभिषेक होता है।",
+    "en": "The brahmanas' proclamation of a 'punyaha', an auspicious day: the host offers water, paste, rice, flowers, betel and dakshina and asks, the brahmanas answer thrice each 'om punyaham, om svasti, om ridhyatam', seventy-one blessings are spoken, and the kalasha water is sprinkled.",
+    "bho": "ब्राह्मन लोग से 'पुण्याह' — सुभ दिन — के घोषना: जजमान जल, गंध, अछत, फूल, तांबूल आ दक्षिणा देके पूछेला, ब्राह्मन लोग तीन-तीन बेर 'ॐ पुण्याहम्, ॐ स्वस्ति, ॐ ऋध्यताम्' कहेलन, एकहत्तर असीस-वाक्य बोलल जाला आ कलश-जल से अभिषेक होला।"
+  },
+  "overview": {
+    "hi": "[[punyahavachan]] का अर्थ है 'पुण्य दिन का वाचन (घोषणा)': संस्कार या बड़े कर्म से पहले यजमान उपस्थित [[brahman]]ों से कहलवाता है कि यह दिन, नक्षत्र और कर्म शुभ हैं। बौधायन गृह्यसूत्र कहता है कि इस वचन से 'दिन और नक्षत्र पवित्र हो जाते हैं' — यही इसकी परंपरागत समझ है। यह [[paddhati]]-परंपरा का कर्म है और उत्तर भारत में मातृका-पूजन तथा नांदी श्राद्ध के साथ 'पुण्याहवाचन-मातृकापूजन-नांदीश्राद्ध' की तिकड़ी में हर संस्कार का पूर्वांग है; [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) में इसका अलग प्रयोग नहीं है, इसलिए इसका पाठ पद्धतियों से लिया जाता है। यहाँ पूरा प्रयोग [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) के 'सकलशिष्टपरिगृहीत' (सब शिष्टों द्वारा स्वीकृत) प्रयोग से लिया है, जो [बौधायन गृह्यशेषसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AC%E0%A5%8C%E0%A4%A7%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D/%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%A8%E0%A4%83_%E0%A5%A7) 1.10 पर आधारित है: संकल्प → [[ganesh-ambika-pujan]] → दो कलशों की [[kalash-sthapana]] → ब्राह्मण-पूजन के वाक्य → वाचन की अनुज्ञा → मंगल-ऋचाएँ → इकहत्तर आशीर्वाक्य → तीन बार 'पुण्याहं भवंतो ब्रुवंतु' → कलश-जल से अभिषेक → शांति। हिंदी-पट्टी की पोथियाँ इसी का छोटा रूप रखती हैं (कुछ वाक्य और तीन वाचन); परिवार अपने पंडित का रूप मानें। शोध-सूची में इस कर्म का सटीक मंत्र-समूह 'अनिश्चित' था; यह पृष्ठ एक पूर्व-आधुनिक पद्धति-ग्रंथ का पूरा पाठ देकर उस कमी को भरता है।",
+    "en": "Punyaha-vachana means 'the proclamation of an auspicious day': before a samskara or any major rite the host has the assembled brahmanas declare that the day, the nakshatra and the rite are auspicious. The Baudhayana Grihya Sutra says that by this word 'the day and the nakshatra become pure' — that is its traditional understanding. It is a rite of the handbook tradition and, in North India, forms with the matrika worship and the nandi shraddha the triad 'punyahavachana – matrikapujana – nandishraddha' that precedes every samskara; the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) has no separate procedure for it, so its text is taken from the handbooks. Here the whole procedure follows the one 'accepted by all the learned' in the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D), based on the [Baudhayana Grihyashesha-sutra](https://sa.wikisource.org/wiki/%E0%A4%AC%E0%A5%8C%E0%A4%A7%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D/%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%A8%E0%A4%83_%E0%A5%A7) 1.10: sankalpa → Ganesha-Ambika puja → kalasha sthapana with two kalashas → the sentences honouring the brahmanas → leave to proclaim → auspicious rks → the seventy-one blessings → 'punyaham bhavanto bruvantu' thrice → sprinkling with kalasha water → shanti. The Hindi-belt handbooks keep a shortened form of the same (a few sentences and the three proclamations); families should follow their own pandit's form. The research inventory marked the exact mantra set of this rite 'uncertain'; this page fills that gap with the complete text of a pre-modern handbook digest.",
+    "bho": "[[punyahavachan]] के अरथ बा 'पुन्न दिन के वाचन (घोषना)': संस्कार भा बड़ करम से पहिले जजमान उपस्थित [[brahman]] लोग से कहवावेला कि ई दिन, नक्षत्र आ करम सुभ बा। बौधायन गृह्यसूत्र कहेला कि एह बचन से 'दिन आ नक्षत्र पबित्र हो जाला' — इहे एकर परंपरागत समझ बा। ई [[paddhati]]-परंपरा के करम बा आ उत्तर भारत में मातृका-पूजन तथा नांदी श्राद्ध संगे 'पुण्याहवाचन-मातृकापूजन-नान्दीश्राद्ध' के तिकड़ी में हर संस्कार के पूर्वांग बा; [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) में एकर अलगा प्रयोग नइखे, एही से एकर पाठ पद्धति से लिहल जाला। इहाँ पूरा प्रयोग [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) के 'सकलशिष्टपरिगृहीत' (सब सिष्ट लोग के स्वीकारल) प्रयोग से लिहल बा, जे [बौधायन गृह्यशेषसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AC%E0%A5%8C%E0%A4%A7%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D/%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%A8%E0%A4%83_%E0%A5%A7) 1.10 पर आधारित बा: संकल्प → [[ganesh-ambika-pujan]] → दू कलश के [[kalash-sthapana]] → ब्राह्मन-पूजन के वाक्य → वाचन के अनुज्ञा → मंगल-ऋचा → एकहत्तर असीस-वाक्य → तीन बेर 'पुण्याहं भवन्तो ब्रुवन्तु' → कलश-जल से अभिषेक → शांति। हिंदी-पट्टी के पोथी एही के छोट रूप राखेला (कुछ वाक्य आ तीन वाचन); परिवार आपन पंडित के रूप मानसु। सोध-सूची में एह करम के सटीक मंत्र-समूह 'अनिश्चित' रहे; ई पन्ना एगो पूर्व-आधुनिक पद्धति-ग्रंथ के पूरा पाठ देके ओह कमी के भरेला।"
+  },
+  "when": {
+    "rules": {
+      "hi": "हर संस्कार (नामकरण, अन्नप्राशन, मुंडन, जनेऊ, विवाह), गृहप्रवेश, वास्तुशांति, ग्रहशांति और बड़े यज्ञ के पूर्वांग में — संकल्प और गणेश-अंबिका पूजन के बाद, मातृका-पूजन और नांदी श्राद्ध के पहले; शुभ कर्म में दो कलश, शांति-कर्म में एक। कई परिवार संस्कार से एक दिन पहले भी करते हैं। तिथि मुख्य कर्म की ([Shubhvela](https://sudish007.github.io/shubhvela/) पर)।",
+      "en": "As the preliminary of every samskara (naming, first feeding, tonsure, sacred thread, wedding), house-entry, vastu shanti, graha shanti and large yajna — after the sankalpa and the Ganesha-Ambika puja, before the matrika worship and the nandi shraddha; two kalashas for an auspicious rite, one for a shanti rite. Many families perform it the day before the samskara. The date is that of the main rite (on [Shubhvela](https://sudish007.github.io/shubhvela/)).",
+      "bho": "हर संस्कार (नामकरन, अन्नप्रासन, मुंडन, जनेऊ, बियाह), गृहप्रवेश, वास्तुशांति, ग्रहशांति आ बड़ जग के पूर्वांग में — संकल्प आ गणेश-अंबिका पूजन के बाद, मातृका-पूजन आ नांदी श्राद्ध के पहिले; सुभ करम में दू कलश, शांति-करम में एक। ढेर परिवार संस्कार से एक दिन पहिले भी करेला। तिथि मुख्य करम के ([Shubhvela](https://sudish007.github.io/shubhvela/) पर)।"
+    },
+    "shubhvela": {
+      "muhurat": null,
+      "festival": null,
+      "vrat": null
+    }
+  },
+  "roles": [
+    {
+      "role": {
+        "hi": "यजमान (पत्नी सहित)",
+        "en": "The host (with his wife)",
+        "bho": "जजमान (पत्नी सहित)"
+      },
+      "does": {
+        "hi": "पूर्व मुख बैठकर, पत्नी दाहिने; ब्राह्मणों को जल-गंध-अक्षत-फूल-तांबूल-दक्षिणा देना; आशीर्वाक्य बोलना (या पंडित के साथ दोहराना); तीन बार 'पुण्याहं भवंतो ब्रुवंतु' कहना।",
+        "en": "Sits facing east with his wife to his right; gives water, paste, rice, flowers, betel and dakshina to the brahmanas; speaks the blessing sentences (or repeats them after the pandit); says 'punyaham bhavanto bruvantu' thrice.",
+        "bho": "पूरब मुँह बइठ के, पत्नी दहिने; ब्राह्मन लोग के जल-गंध-अछत-फूल-तांबूल-दक्षिणा देवल; असीस-वाक्य बोलल (भा पंडित संगे दोहरावल); तीन बेर 'पुण्याहं भवन्तो ब्रुवन्तु' कहल।"
+      }
+    },
+    {
+      "role": {
+        "hi": "पुरोहित (वाचयिता)",
+        "en": "The purohit (the reciter)",
+        "bho": "पुरोहित (वाचयिता)"
+      },
+      "does": {
+        "hi": "संकल्प कराना, कलश स्थापित करना, यजमान के लिए वाक्य और मंत्र पढ़ना, क्रम संभालना; प्रायः वही ब्राह्मण-पक्ष का भी उत्तर बोल देता है जब और ब्राह्मण न हों।",
+        "en": "Leads the sankalpa, sets the kalashas, recites the sentences and mantras for the host, keeps the order; often also speaks the brahmanas' answers when no other brahmana is present.",
+        "bho": "संकल्प करावल, कलश स्थापित करल, जजमान खातिर वाक्य आ मंत्र पढ़ल, क्रम सम्हारल; प्रायः उहे ब्राह्मन-पच्छ के जवाब भी बोल देलन जब दोसर ब्राह्मन ना होखसु।"
+      }
+    },
+    {
+      "role": {
+        "hi": "ब्राह्मण (दो या चार)",
+        "en": "The brahmanas (two or four)",
+        "bho": "ब्राह्मन (दू भा चार)"
+      },
+      "does": {
+        "hi": "यजमान के उत्तर (पूर्व मुख) बैठना, हाथ में दूर्वा-कुश लेना, हर वस्तु स्वीकार कर 'पांतु', 'अस्तु' कहना, तीन बार 'ॐ पुण्याहम्' आदि कहना, अंत में कलश-जल से यजमान-दंपती पर अभिषेक।",
+        "en": "Sit to the host's north facing east with durva and kusha in hand, accept each item saying 'pantu', 'astu', say 'om punyaham' and the rest thrice, and at the end sprinkle the couple with kalasha water.",
+        "bho": "जजमान के उत्तर (पूरब मुँह) बइठल, हाथ में दूब-कुस लिहल, हर चीज स्वीकार कर के 'पान्तु', 'अस्तु' कहल, तीन बेर 'ॐ पुण्याहम्' आदि कहल, अंत में कलश-जल से जजमान-दंपती पर अभिषेक।"
+      }
+    }
+  ],
+  "samagri": [
+    {
+      "id": "kalash",
+      "item": {
+        "hi": "दो कलश (शुभ कर्म में; शांति-कर्म में एक) — पूरी कलश-सामग्री के लिए कलश स्थापना पृष्ठ देखें",
+        "en": "Two kalashas (for an auspicious rite; one for a shanti rite) — see the kalasha sthapana page for the full kalasha list",
+        "bho": "दू कलश (सुभ करम में; शांति-करम में एक) — पूरा कलश-सामग्री खातिर कलश स्थापना पन्ना देखीं"
+      },
+      "qty": "2",
+      "must": true
+    },
+    {
+      "id": "akshat",
+      "item": {
+        "hi": "अक्षत (धान मिले चावल — 'अक्षत' शब्द से बौधायन यही लेते हैं)",
+        "en": "Rice mixed with unhusked grain (that is what Baudhayana means by 'akshata')",
+        "bho": "अच्छत (धान मिलल चाउर — 'अक्षत' शब्द से बौधायन इहे लेलन)"
+      },
+      "qty": "दो मुट्ठी",
+      "must": true
+    },
+    {
+      "id": "gandh",
+      "item": {
+        "hi": "गंध — चंदन",
+        "en": "Sandal paste",
+        "bho": "गंध — चंदन"
+      },
+      "qty": "थोड़ा",
+      "must": true
+    },
+    {
+      "id": "pushp",
+      "item": {
+        "hi": "पुष्प और दूर्वा-कुश (ब्राह्मणों के हाथ के लिए)",
+        "en": "Flowers and durva-kusha (for the brahmanas' hands)",
+        "bho": "फूल आ दूब-कुस (ब्राह्मन लोग के हाथ खातिर)"
+      },
+      "qty": "यथेष्ट",
+      "must": true
+    },
+    {
+      "id": "tambul",
+      "item": {
+        "hi": "तांबूल — पान, सुपारी, इलायची",
+        "en": "Betel leaf, nut and cardamom",
+        "bho": "तांबूल — पान, सुपारी, इलायची"
+      },
+      "qty": "ब्राह्मण-संख्या",
+      "must": true
+    },
+    {
+      "id": "dakshina",
+      "item": {
+        "hi": "दक्षिणा — हर ब्राह्मण के लिए",
+        "en": "Dakshina for each brahmana",
+        "bho": "दक्षिणा — हर ब्राह्मन खातिर"
+      },
+      "qty": "ब्राह्मण-संख्या",
+      "must": true
+    },
+    {
+      "id": "aam-pallav",
+      "item": {
+        "hi": "आम के पत्ते या कुश — अभिषेक के लिए",
+        "en": "Mango leaves or kusha — for the sprinkling",
+        "bho": "आम के पत्ता भा कुस — अभिषेक खातिर"
+      },
+      "qty": "5",
+      "must": true
+    },
+    {
+      "id": "patra",
+      "item": {
+        "hi": "एक पात्र — वाक्यों पर जल की बूँद गिराने के लिए",
+        "en": "A vessel — to receive the drops of water at the sentences",
+        "bho": "एगो बरतन — वाक्य पर जल के बूँद गिरावे खातिर"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "asan",
+      "item": {
+        "hi": "ब्राह्मणों और यजमान-दंपती के आसन",
+        "en": "Seats for the brahmanas and the couple",
+        "bho": "ब्राह्मन लोग आ जजमान-दंपती के आसन"
+      },
+      "qty": "यथेष्ट",
+      "must": true
+    }
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "layer": "paddhati",
+      "minutes": 3,
+      "action": {
+        "hi": "बैठक: यजमान पूर्व मुख, पत्नी उसके दाहिने; ब्राह्मण यजमान के उत्तर में पूर्व मुख (या दाहिने उत्तर मुख), हाथ में दूर्वा-कुश। आचमन-प्राणायाम के बाद [संकल्प](/occasions/sankalp/): मुख्य कर्म का नाम लेकर 'तदंगत्वेन पुण्याहवाचनं मातृकापूजनं नांदीश्राद्धं च करिष्ये'।",
+        "en": "Seating: the host faces east, his wife to his right; the brahmanas sit to the host's north facing east (or to his right facing north), durva and kusha in hand. After the achamana and pranayama the [sankalpa](/occasions/sankalp/): naming the main rite, 'tadangatvena punyahavachanam matrikapujanam nandishraddham cha karishye'.",
+        "bho": "बइठक: जजमान पूरब मुँह, पत्नी उनकर दहिने; ब्राह्मन लोग जजमान के उत्तर में पूरब मुँह (भा दहिने उत्तर मुँह), हाथ में दूब-कुस। आचमन-प्रानायाम के बाद [संकल्प](/occasions/sankalp/): मुख्य करम के नाँव लेके 'तदङ्गत्वेन पुण्याहवाचनं मातृकापूजनं नान्दीश्राद्धं च करिष्ये'।"
+      },
+      "mantraIds": [
+        "pad-vishnur-vishnur-vishnuh"
+      ],
+      "samagriIds": [
+        "asan",
+        "akshat"
+      ],
+      "panditSays": {
+        "sa": "{अमुक}कर्म करिष्ये । तदङ्गत्वेन पुण्याहवाचनं मातृकापूजनं नान्दीश्राद्धं च करिष्ये ।",
+        "hi": "(संकल्प के अंत में:) अमुक कर्म करूँगा; उसके अंग के रूप में पुण्याहवाचन, मातृका-पूजन और नांदी श्राद्ध करूँगा।",
+        "en": "(At the end of the sankalpa:) I shall perform such-and-such rite; as its parts I shall perform the punyaha-vachana, the matrika worship and the nandi shraddha.",
+        "bho": "(संकल्प के अंत में:) अमुक करम करब; ओकरा अंग के रूप में पुण्याहवाचन, मातृका-पूजन आ नांदी श्राद्ध करब।"
+      }
+    },
+    {
+      "n": 2,
+      "layer": "paddhati",
+      "minutes": 10,
+      "action": {
+        "hi": "गणेश-पूजन और कलश स्थापना — [गणेश-अंबिका पूजन](/occasions/ganesh-ambika-pujan/) संक्षेप में ('गणानां त्वा' से आवाहन), फिर [कलश स्थापना](/occasions/kalash-sthapana/) — शुभ कर्म में दो कलश पास-पास (दक्षिण का स्थिर, उत्तर का चल); 'तत्त्वा यामि' (VS 18.49) से उत्तर कलश में वरुण का आवाहन और 'कलशस्य मुखे विष्णुः' से देवताओं का।",
+        "en": "Ganesha puja and kalasha sthapana — The [Ganesha-Ambika puja](/occasions/ganesh-ambika-pujan/) in brief (invocation with 'gananam tva'), then the [kalasha sthapana](/occasions/kalash-sthapana/) — for an auspicious rite two kalashas side by side (the southern fixed, the northern movable); Varuna is invoked into the northern kalasha with 'tat tva yami' (VS 18.49) and the deities with 'kalashasya mukhe vishnuh'.",
+        "bho": "गणेश-पूजन आ कलश स्थापना — [गणेश-अंबिका पूजन](/occasions/ganesh-ambika-pujan/) संछेप में ('गणानां त्वा' से आवाहन), फेर [कलश स्थापना](/occasions/kalash-sthapana/) — सुभ करम में दू कलश लगे-लगे (दक्खिन के स्थिर, उत्तर के चल); 'तत्त्वा यामि' (VS 18.49) से उत्तर कलश में वरुन के आवाहन आ 'कलशस्य मुखे विष्णुः' से देवता लोग के।"
+      },
+      "mantraIds": [
+        "vs-23-19",
+        "vs-18-49",
+        "pad-kalashasya-mukhe-vishnuh"
+      ],
+      "samagriIds": [
+        "kalash"
+      ]
+    },
+    {
+      "n": 3,
+      "layer": "paddhati",
+      "minutes": 3,
+      "action": {
+        "hi": "उत्तर कलश का जल और आशीष — उत्तर कलश से जल लेकर यजमान घुटने टेककर उसे सिर के पास हाथ में रखे और आशीष माँगे; ब्राह्मण 'संतु', 'अस्तु' कहें।",
+        "en": "Water from the northern kalasha — Taking water from the northern kalasha, the host kneels, holds it in his hands near his head and asks for the blessing; the brahmanas answer 'santu', 'astu'.",
+        "bho": "उत्तर कलश के जल आ असीस — उत्तर कलश से जल लेके जजमान घुटना टेक के ओकरा माथा के लगे हाथ में राखे आ असीस माँगे; ब्राह्मन लोग 'सन्तु', 'अस्तु' कहसु।"
+      },
+      "samagriIds": [
+        "kalash"
+      ],
+      "panditSays": {
+        "sa": "एताः सत्या आशिषः सन्तु । दीर्घा नागा नद्यो गिरयस्त्रीणि विष्णुपदानि च । तेनायुष्प्रमाणेन पुण्याहं दीर्घमायुरस्तु ।",
+        "hi": "ये आशीष सत्य हों। नाग, नदियाँ, पर्वत और विष्णु के तीन पद दीर्घ हैं — उस आयु-प्रमाण से यह पुण्य दिन दीर्घायु देने वाला हो। (ब्राह्मण: संतु, अस्तु।)",
+        "en": "May these blessings be true. Long are the serpents, the rivers, the mountains and the three strides of Vishnu — by that measure of life may this auspicious day give long life. (The brahmanas: santu, astu.)",
+        "bho": "ई असीस सत्य होखे। नाग, नदी, पहाड़ आ विष्णु के तीन पद दीर्घ बा — ओह उमिर-परमान से ई पुन्न दिन लमहर उमिर देवे वाला होखे। (ब्राह्मन लोग: सन्तु, अस्तु।)"
+      }
+    },
+    {
+      "n": 4,
+      "layer": "paddhati",
+      "minutes": 5,
+      "action": {
+        "hi": "ब्राह्मण-पूजन: यजमान हर ब्राह्मण के हाथ में क्रम से जल, गंध, अक्षत, फूल, तांबूल और दक्षिणा देता है और हर वस्तु के साथ 'शिवा आपः संतु … दक्षिणाः पांतु' के वाक्य बोलता है; ब्राह्मण 'पांतु', 'अस्तु' कहकर स्वीकार करते हैं। अंत में 'दीर्घमायुः श्रेयः …' के दो वाक्यों से यजमान प्रार्थना करता है।",
+        "en": "Honouring the brahmanas: the host places in each brahmana's hands in turn water, paste, rice, flowers, betel and dakshina, saying with each item the sentences 'shiva apah santu … dakshinah pantu'; the brahmanas accept with 'pantu', 'astu'. At the end the host prays with the two sentences 'dirgham ayuh shreyah …'.",
+        "bho": "ब्राह्मन-पूजन: जजमान हर ब्राह्मन के हाथ में क्रम से जल, गंध, अछत, फूल, तांबूल आ दक्षिणा देला आ हर चीज संगे 'शिवा आपः सन्तु … दक्षिणाः पान्तु' के वाक्य बोलेला; ब्राह्मन लोग 'पान्तु', 'अस्तु' कह के स्वीकार करेलन। अंत में 'दीर्घमायुः श्रेयः …' के दू वाक्य से जजमान प्रार्थना करेला।"
+      },
+      "important": true,
+      "mantraIds": [
+        "pad-shiva-apah-santu"
+      ],
+      "samagriIds": [
+        "gandh",
+        "akshat",
+        "pushp",
+        "tambul",
+        "dakshina"
+      ]
+    },
+    {
+      "n": 5,
+      "layer": "paddhati",
+      "minutes": 1,
+      "action": {
+        "hi": "वाचन की अनुज्ञा: यजमान कहता है 'ॐकार को आदि करके, ऋक्-यजुः-साम का आशीर्वचन, बहुत ऋषियों का माना हुआ — आपकी अनुज्ञा से पुण्य पुण्याह का वाचन करूँगा'; ब्राह्मण कहते हैं 'वाच्यताम्' (वाचन करें)।",
+        "en": "Leave to proclaim: the host says 'with Omkara first, the blessing of Rik, Yajus and Saman approved by many sages — with your leave I shall have the holy punyaha proclaimed'; the brahmanas say 'vachyatam' (let it be proclaimed).",
+        "bho": "वाचन के अनुज्ञा: जजमान कहेला 'ॐकार के आदि कर के, ऋक्-यजुः-साम के आशीर्वचन, बहुत ऋषि के मानल — राउर अनुज्ञा से पुन्न पुण्याह के वाचन करब'; ब्राह्मन लोग कहेलन 'वाच्यताम्' (वाचन करीं)।"
+      },
+      "panditSays": {
+        "sa": "यं कृत्वा सर्ववेदयज्ञक्रियाकरणकारम्भाः शुभाः शोभनाः प्रवर्तन्ते तमहमोंकारमादिं कृत्वा ऋग्यजुःसामाशीर्वचनं बह्वृषिमतं संविज्ञातं भवद्भिरनुज्ञातः पुण्यं पुण्याहं वाचयिष्ये । वाच्यताम् ।",
+        "hi": "जिसे आदि करके वेद-यज्ञ की सब क्रियाओं के आरंभ शुभ होते हैं, उस ॐकार को आदि करके, ऋक्-यजुः-साम का बहुत ऋषियों द्वारा माना हुआ आशीर्वचन — आपकी अनुज्ञा से मैं पुण्य पुण्याह का वाचन कराऊँगा। (ब्राह्मण: वाच्यताम् — कराइए।)",
+        "en": "Beginning with that Omkara by which every undertaking of Veda and sacrifice begins well, the blessing of Rik, Yajus and Saman approved by many sages — with your leave I shall have the holy punyaha proclaimed. (The brahmanas: vachyatam — let it be proclaimed.)",
+        "bho": "जेकरा आदि कर के वेद-जग के सब किरिया के सुरुआत सुभ होला, ओह ॐकार के आदि कर के, ऋक्-यजुः-साम के बहुत ऋषि के मानल आशीर्वचन — राउर अनुज्ञा से हम पुन्न पुण्याह के वाचन कराएब। (ब्राह्मन लोग: वाच्यताम् — कराईं।)"
+      }
+    },
+    {
+      "n": 6,
+      "layer": "vedic",
+      "minutes": 3,
+      "action": {
+        "hi": "मंगल-ऋचाएँ: पंडित 'भद्रं कर्णेभिः' (VS 25.21) और 'स्वस्ति न इंद्रो' (VS 25.19) आदि पढ़ता है — [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) यहाँ 'द्रविणोदा', 'सविता पश्चातात्', 'नवो नवो भवति', 'उच्चा दिवि', 'आप उंदंतु', 'यस्त्वा हृदा' जैसी ऋग्वेदीय ऋचाएँ भी प्रतीक रूप में देती है; उनमें से यजुर्वेद में उपलब्ध दो यहाँ पूरी दी हैं। फिर यजमान कहता है 'मनः समाधीयताम्' — ब्राह्मण: 'समाहितमनसः स्मः'; 'प्रसीदंतु भवंतः' — 'प्रसन्नाः स्मः'।",
+        "en": "Auspicious rks: the pandit recites 'bhadram karnebhih' (VS 25.21), 'svasti na indro' (VS 25.19) and others — the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) also lists by their opening words Rigvedic rks such as 'dravinoda', 'savita pashchatat', 'navo navo bhavati', 'uchcha divi', 'apa undantu', 'yas tva hrida'; the two of them available in the Yajurveda are given here in full. Then the host says 'manah samadhiyatam' — the brahmanas: 'samahitamanasah smah'; 'prasidantu bhavantah' — 'prasannah smah'.",
+        "bho": "मंगल-ऋचा: पंडित 'भद्रं कर्णेभिः' (VS 25.21) आ 'स्वस्ति न इंद्रो' (VS 25.19) आदि पढ़ेलन — [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) इहाँ 'द्रविणोदा', 'सविता पश्चातात्', 'नवो नवो भवति', 'उच्चा दिवि', 'यस्त्वा हृदा' जइसन ऋग्वेदीय ऋचा भी प्रतीक रूप में देला; ओह में से यजुर्वेद में मिले वाला दू इहाँ पूरा दिहल बा। फेर जजमान कहेला 'मनः समाधीयताम्' — ब्राह्मन लोग: 'समाहितमनसः स्मः'; 'प्रसीदन्तु भवन्तः' — 'प्रसन्नाः स्मः'।"
+      },
+      "mantraIds": [
+        "vs-25-21",
+        "vs-25-19"
+      ],
+      "panditSays": {
+        "sa": "व्रतनियमतपःस्वाध्यायक्रतुदमदानविशिष्टानां ब्राह्मणानां मनः समाधीयताम् । समाहितमनसः स्मः । प्रसीदन्तु भवन्तः । प्रसन्नाः स्मः ।",
+        "hi": "व्रत, नियम, तप, स्वाध्याय, यज्ञ, दम और दान से विशिष्ट ब्राह्मणों का मन एकाग्र हो। (ब्राह्मण: हमारा मन एकाग्र है।) आप प्रसन्न हों। (ब्राह्मण: हम प्रसन्न हैं।)",
+        "en": "May the minds of the brahmanas, distinguished by vows, discipline, austerity, study, sacrifice, restraint and giving, be composed. (The brahmanas: our minds are composed.) May you be gracious. (The brahmanas: we are gracious.)",
+        "bho": "बरत, नियम, तप, स्वाध्याय, जग, दम आ दान से बिसिष्ट ब्राह्मन लोग के मन एकाग्र होखे। (ब्राह्मन लोग: हमनी के मन एकाग्र बा।) रउआ परसन्न होखीं। (ब्राह्मन लोग: हमनी परसन्न बानी।)"
+      }
+    },
+    {
+      "n": 7,
+      "layer": "paddhati",
+      "minutes": 6,
+      "action": {
+        "hi": "इकहत्तर आशीर्वाक्य: यजमान (या उसके लिए पंडित) 'शांतिरस्तु, पुष्टिरस्तु …' से 'भगवान् स्वामी महासेनः प्रीयताम्' तक एक-एक वाक्य बोलता है और हर वाक्य पर उत्तर कलश से जल की एक बूँद पात्र में छोड़ता है; ब्राह्मण 'अस्तु', 'प्रीयंताम्', 'शाम्यंतु' आदि कहते हैं। 'अरिष्टनिरसनमस्तु', 'यत्पापं तत्प्रतिहतमस्तु' और 'हता ब्रह्मद्विषः' से 'शत्रवः पराभवं यांतु' तक के वाक्यों पर जल पात्र के बाहर उत्तर में गिराया जाता है।",
+        "en": "The seventy-one blessings: the host (or the pandit for him) speaks sentence by sentence from 'shantir astu, pushtir astu …' to 'bhagavan svami mahasenah priyatam', letting a drop of water from the northern kalasha fall into the vessel at each; the brahmanas answer 'astu', 'priyantam', 'shamyantu' and so on. At 'arishta-nirasanam astu', 'yat papam tat pratihatam astu' and the sentences from 'hata brahmadvishah' to 'shatravah parabhavam yantu' the water is dropped outside the vessel, to the north.",
+        "bho": "एकहत्तर असीस-वाक्य: जजमान (भा ओकरा खातिर पंडित) 'शान्तिरस्तु, पुष्टिरस्तु …' से 'भगवान् स्वामी महासेनः प्रीयताम्' तक एक-एक वाक्य बोलेला आ हर वाक्य पर उत्तर कलश से जल के एक बूँद बरतन में छोड़ेला; ब्राह्मन लोग 'अस्तु', 'प्रीयन्ताम्', 'शाम्यन्तु' आदि कहेलन। 'अरिष्टनिरसनमस्तु', 'यत्पापं तत्प्रतिहतमस्तु' आ 'हता ब्रह्मद्विषः' से 'शत्रवः पराभवं यान्तु' तक के वाक्य पर जल बरतन के बाहर उत्तर में गिरावल जाला।"
+      },
+      "important": true,
+      "mantraIds": [
+        "pad-shantir-astu-pushtir-astu"
+      ],
+      "samagriIds": [
+        "patra",
+        "kalash"
+      ]
+    },
+    {
+      "n": 8,
+      "layer": "paddhati",
+      "minutes": 3,
+      "action": {
+        "hi": "तीन वाचन — यजमान कहता है 'पुण्याहकालान् वाचयिष्ये' — 'वाच्यताम्'; फिर कर्म का नाम लेकर तीन बार 'पुण्याहं भवंतो ब्रुवंतु' — ब्राह्मण तीन बार 'ॐ पुण्याहम्'; तीन बार 'स्वस्ति भवंतो ब्रुवंतु' — 'ॐ स्वस्ति'; तीन बार 'ऋद्धिं भवंतो ब्रुवंतु' — 'ॐ ऋध्यताम्'। [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) हर वाचन के बाद यजुर्वेदीय-ब्राह्मण वाक्य (जैसे 'स्वस्ति न इंद्रो', 'श्रिये जातः') पढ़वाती है।",
+        "en": "The three proclamations — the host says 'punyahakalan vachayishye' — 'vachyatam'; then, naming the rite, thrice 'punyaham bhavanto bruvantu' — the brahmanas thrice 'om punyaham'; thrice 'svasti bhavanto bruvantu' — 'om svasti'; thrice 'riddhim bhavanto bruvantu' — 'om ridhyatam'. The [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) has Vedic and Brahmana passages (such as 'svasti na indro', 'shriye jatah') recited after each proclamation.",
+        "bho": "तीन वाचन — जजमान कहेला 'पुण्याहकालान् वाचयिष्ये' — 'वाच्यताम्'; फेर करम के नाँव लेके तीन बेर 'पुण्याहं भवन्तो ब्रुवन्तु' — ब्राह्मन लोग तीन बेर 'ॐ पुण्याहम्'; तीन बेर 'स्वस्ति भवन्तो ब्रुवन्तु' — 'ॐ स्वस्ति'; तीन बेर 'ऋद्धिं भवन्तो ब्रुवन्तु' — 'ॐ ऋध्यताम्'। [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) हर वाचन के बाद वैदिक-ब्राह्मन वाक्य (जइसे 'स्वस्ति न इंद्रो', 'श्रिये जातः') पढ़वावेला।"
+      },
+      "important": true,
+      "mantraIds": [
+        "pad-punyaham-bhavanto-bruvantu",
+        "vs-25-19"
+      ]
+    },
+    {
+      "n": 9,
+      "layer": "vedic",
+      "minutes": 2,
+      "action": {
+        "hi": "अभिषेक: ब्राह्मण उत्तर कलश का जल आम्रपल्लव या कुश से यजमान-दंपती (और उपस्थित जनों) पर छिड़कते हैं — 'ॐ द्रुपदादिव मुमुचानः' (VS 20.20) और 'ॐ आपो हि ष्ठा मयोभुवः' (VS 36.14–16); बौधायन के अनुसार सुरभिमती, अब्लिंग, वारुणी, हिरण्यवर्णा और पावमानी ऋचाओं से मार्जन होता है, जिनमें 'आपो हि ष्ठा' अब्लिंग मंत्र हैं। फिर यजमान 'ॐ भूर्भुवः स्वः' का जप करता है।",
+        "en": "The sprinkling: the brahmanas sprinkle the water of the northern kalasha with mango leaves or kusha on the couple (and those present) — 'om drupadad iva mumuchanah' (VS 20.20) and 'om apo hi shtha mayobhuvah' (VS 36.14–16); according to Baudhayana the sprinkling is done with the surabhimati, ablinga, varuni, hiranyavarna and pavamani rks, of which 'apo hi shtha' are the ablinga mantras. Then the host repeats 'om bhur bhuvah svah'.",
+        "bho": "अभिषेक: ब्राह्मन लोग उत्तर कलश के जल आम के पल्लव भा कुस से जजमान-दंपती (आ उपस्थित लोग) पर छींटेलन — 'ॐ द्रुपदादिव मुमुचानः' (VS 20.20) आ 'ॐ आपो हि ष्ठा मयोभुवः' (VS 36.14–16); बौधायन के अनुसार सुरभिमती, अब्लिंग, वारुनी, हिरण्यवर्णा आ पावमानी ऋचा से मार्जन होला, जेह में 'आपो हि ष्ठा' अब्लिंग मंत्र बा। फेर जजमान 'ॐ भूर्भुवः स्वः' के जप करेला।"
+      },
+      "important": true,
+      "mantraIds": [
+        "vs-20-20",
+        "vs-36-14",
+        "vs-36-15",
+        "vs-36-16"
+      ],
+      "samagriIds": [
+        "aam-pallav",
+        "kalash"
+      ]
+    },
+    {
+      "n": 10,
+      "layer": "vedic",
+      "minutes": 2,
+      "action": {
+        "hi": "समापन: 'ॐ द्यौः शांतिः' (VS 36.17) का [शांतिपाठ](/occasions/shanti-path/), ब्राह्मणों को नमस्कार और दक्षिणा, आचमन। इसके बाद मातृका-पूजन और नांदी श्राद्ध (उनके अपने पृष्ठ आएँगे)। उत्तर कलश का बचा जल अंत में घर में छींटा जाता है।",
+        "en": "Closing: the [shanti-patha](/occasions/shanti-path/) 'om dyauh shantih' (VS 36.17), salutation and dakshina to the brahmanas, achamana. The matrika worship and the nandi shraddha follow (their own pages will come). The remaining water of the northern kalasha is sprinkled about the house at the end.",
+        "bho": "समापन: 'ॐ द्यौः शांतिः' (VS 36.17) के [शांतिपाठ](/occasions/shanti-path/), ब्राह्मन लोग के परनाम आ दक्षिणा, आचमन। एकरा बाद मातृका-पूजन आ नांदी श्राद्ध (उनकर आपन पन्ना आई)। उत्तर कलश के बाचल जल अंत में घर में छींटल जाला।"
+      },
+      "mantraIds": [
+        "vs-36-17",
+        "pad-keshavaya-namah"
+      ],
+      "samagriIds": [
+        "dakshina"
+      ],
+      "panditSays": {
+        "sa": "ॐ सुशान्तिर्भवतु ।",
+        "hi": "ॐ सुशांतिर्भवतु — अच्छी शांति हो।",
+        "en": "Om sushantir bhavatu — may there be good peace.",
+        "bho": "ॐ सुशांतिर्भवतु — नीक शांति होखे।"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "region": "hindi-patti",
+      "what": {
+        "hi": "हिंदी-पट्टी की पोथियाँ पुण्याहवाचन को छोटा रखती हैं: संकल्प, कलश, ब्राह्मणों को अक्षत देना, कुछ आशीर्वाक्य, तीन बार 'ॐ पुण्याहं भवंतो ब्रुवंतु / ॐ पुण्याहम्' आदि, 'द्रुपदादिव' और 'आपो हि ष्ठा' से अभिषेक — प्रायः दस मिनट। यहाँ दिया पूरा प्रयोग उसका मूल है; पंडित जितना चुनें, क्रम यही रहता है। शोध-सूची में इस कर्म का मंत्र-समूह 'अनिश्चित' था — पोथी-भेद यहाँ सबसे अधिक है।",
+        "en": "The Hindi-belt handbooks keep the punyaha-vachana short: sankalpa, kalasha, rice into the brahmanas' hands, a few blessing sentences, thrice 'om punyaham bhavanto bruvantu / om punyaham' and the rest, sprinkling with 'drupadad iva' and 'apo hi shtha' — often ten minutes. The full procedure given here is their source; however much a pandit selects, the order stays the same. The research inventory marked the mantra set of this rite 'uncertain' — handbooks differ here more than anywhere else.",
+        "bho": "हिंदी-पट्टी के पोथी पुण्याहवाचन के छोट राखेला: संकल्प, कलश, ब्राह्मन लोग के अछत देवल, कुछ असीस-वाक्य, तीन बेर 'ॐ पुण्याहं भवन्तो ब्रुवन्तु / ॐ पुण्याहम्' आदि, 'द्रुपदादिव' आ 'आपो हि ष्ठा' से अभिषेक — प्रायः दस मिनट। इहाँ दिहल पूरा प्रयोग ओकर मूल बा; पंडित जतना चुनसु, क्रम इहे रहेला। सोध-सूची में एह करम के मंत्र-समूह 'अनिश्चित' रहे — पोथी-भेद इहाँ सबसे बेसी बा।"
+      },
+      "source": "research-decisions"
+    },
+    {
+      "region": "baudhayana",
+      "what": {
+        "hi": "[बौधायन गृह्यशेषसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AC%E0%A5%8C%E0%A4%A7%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D/%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%A8%E0%A4%83_%E0%A5%A7) 1.10 का मूल रूप: चार ब्राह्मण खड़े होकर, वाचयिता जल-कुंभ लिए, पत्नियाँ उसके दाहिने; 'ॐ आपः — शिवा आपः संतु' से उपचार, 'इडा देवहूः' का जप, 'शांतिरस्तु … शिवं कर्मास्तु' के सात वाक्य, कर्म-देवता का नाम लेकर 'असौ प्रीयताम्', तीन वाचन, और अंत में सुरभिमती आदि ऋचाओं से मार्जन। इस पृष्ठ का प्रयोग इसी को इकहत्तर वाक्यों तक विस्तार देता है।",
+        "en": "The original in the [Baudhayana Grihyashesha-sutra](https://sa.wikisource.org/wiki/%E0%A4%AC%E0%A5%8C%E0%A4%A7%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D/%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%A8%E0%A4%83_%E0%A5%A7) 1.10: four brahmanas standing, the reciter holding the water pot, the wives to his right; offerings with 'om apah — shiva apah santu', the japa 'ida devahuh', the seven sentences 'shantir astu … shivam karmastu', 'asau priyatam' naming the rite's deity, the three proclamations, then the sprinkling with the surabhimati and other rks. The digest followed on this page expands this to seventy-one sentences.",
+        "bho": "[बौधायन गृह्यशेषसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AC%E0%A5%8C%E0%A4%A7%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D/%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%A8%E0%A4%83_%E0%A5%A7) 1.10 के मूल रूप: चार ब्राह्मन ठाड़ होके, वाचयिता जल-कुंभ लेले, पत्नी लोग उनकर दहिने; 'ॐ आपः — शिवा आपः सन्तु' से उपचार, 'इडा देवहूः' के जप, 'शान्तिरस्तु … शिवं कर्मास्तु' के सात वाक्य, करम-देवता के नाँव लेके 'असौ प्रीयताम्', तीन वाचन, आ अंत में सुरभिमती आदि ऋचा से मार्जन। एह पन्ना के प्रयोग एही के एकहत्तर वाक्य तक बिस्तार देला।"
+      },
+      "source": "ws-baudhayana-gs-shesha-1"
+    }
+  ],
+  "faq": [
+    {
+      "q": {
+        "hi": "पुण्याहवाचन और स्वस्तिवाचन में क्या अंतर है?",
+        "en": "How does the punyaha-vachana differ from the svasti-vachana?",
+        "bho": "पुण्याहवाचन आ स्वस्तिवाचन में का अंतर बा?"
+      },
+      "a": {
+        "hi": "[स्वस्तिवाचन](/occasions/svasti-vachan/) पंडित का पाठ है — ऋग्वेद/यजुर्वेद की ऋचाएँ जिन्हें यजमान सुनता है। पुण्याहवाचन संवाद है — यजमान माँगता है और ब्राह्मण घोषित करते हैं कि दिन शुभ है; उसमें कलश, ब्राह्मण-पूजन और अभिषेक भी हैं। [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) दोनों को अलग कर्म मानती है, पर हिंदी-पट्टी में छोटी पूजाओं में प्रायः केवल स्वस्तिवाचन होता है और पुण्याहवाचन संस्कारों में।",
+        "en": "The [svasti-vachana](/occasions/svasti-vachan/) is the pandit's recitation — Rigvedic/Yajurvedic rks the host listens to. The punyaha-vachana is a dialogue — the host asks and the brahmanas declare the day auspicious; it also has the kalasha, the honouring of the brahmanas and the sprinkling. The [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) treats them as separate rites; in the Hindi belt small pujas usually have only the svasti-vachana, and the punyaha-vachana belongs to the samskaras.",
+        "bho": "[स्वस्तिवाचन](/occasions/svasti-vachan/) पंडित के पाठ बा — ऋग्वेद/यजुर्वेद के ऋचा जेकरा जजमान सुनेला। पुण्याहवाचन संवाद बा — जजमान माँगेला आ ब्राह्मन लोग घोषित करेलन कि दिन सुभ बा; ओह में कलश, ब्राह्मन-पूजन आ अभिषेक भी बा। [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) दुनो के अलगा करम मानेला, बाकिर हिंदी-पट्टी में छोट पूजा में प्रायः खाली स्वस्तिवाचन होला आ पुण्याहवाचन संस्कार में।"
+      }
+    },
+    {
+      "q": {
+        "hi": "ब्राह्मण उपलब्ध न हों तो?",
+        "en": "What if no brahmanas are available?",
+        "bho": "ब्राह्मन ना मिलसु त?"
+      },
+      "a": {
+        "hi": "व्यवहार में पुरोहित स्वयं ब्राह्मण-पक्ष का उत्तर बोल देता है और परिवार के बड़े-बूढ़े 'अस्तु' कहते हैं; पोथियाँ कम से कम दो ब्राह्मणों का उल्लेख करती हैं, बौधायन चार का। यह परिवार और पंडित का निर्णय है — साइट केवल ग्रंथ का रूप बताती है।",
+        "en": "In practice the purohit speaks the brahmanas' answers himself and the elders of the family say 'astu'; the handbooks mention at least two brahmanas, Baudhayana four. This is the family's and the pandit's decision — the site only reports the form in the texts.",
+        "bho": "ब्यवहार में पुरोहित खुदे ब्राह्मन-पच्छ के जवाब बोल देलन आ परिवार के बड़-बूढ़ 'अस्तु' कहेलन; पोथी कम से कम दू ब्राह्मन के उल्लेख करेला, बौधायन चार के। ई परिवार आ पंडित के निर्नय बा — साइट खाली ग्रंथ के रूप बतावेले।"
+      }
+    },
+    {
+      "q": {
+        "hi": "कुछ वाक्यों पर जल बाहर क्यों गिराया जाता है?",
+        "en": "Why is the water dropped outside at some sentences?",
+        "bho": "कुछ वाक्य पर जल बाहर काहे गिरावल जाला?"
+      },
+      "a": {
+        "hi": "'अरिष्ट दूर हो', 'पाप नष्ट हो' और 'विरोधी नष्ट हों' जैसे नौ वाक्य निवारण के हैं, आशीष के नहीं — इसलिए उनका जल संग्रह-पात्र में नहीं, बाहर उत्तर दिशा में छोड़ा जाता है; [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) इसे 'संप्रदाय' (परंपरा) कहती है।",
+        "en": "The nine sentences such as 'may ill be averted', 'may sin be struck down' and 'may adversaries be destroyed' are sentences of warding off, not of blessing — so their water is let fall not into the collecting vessel but outside, to the north; the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) calls this the 'sampradaya' (received practice).",
+        "bho": "'अरिष्ट दूर होखे', 'पाप नास होखे' आ 'बिरोधी नास होखसु' जइसन नौ वाक्य निवारन के बा, असीस के ना — एही से उनकर जल संग्रह-बरतन में ना, बाहर उत्तर दिसा में छोड़ल जाला; [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) एकरा 'संप्रदाय' (परंपरा) कहेला।"
+      }
+    },
+    {
+      "q": {
+        "hi": "क्या पुण्याहवाचन से कोई फल मिलता है?",
+        "en": "Does the punyaha-vachana bring any result?",
+        "bho": "का पुण्याहवाचन से कवनो फल मिलेला?"
+      },
+      "a": {
+        "hi": "परंपरा में माना जाता है कि ब्राह्मणों के इस वचन से दिन और नक्षत्र कर्म के लिए अनुकूल और पवित्र हो जाते हैं (बौधायन का कथन); साइट इसे आशीर्वाद और मंगल-कामना के रूप में प्रस्तुत करती है, किसी परिणाम के दावे के रूप में नहीं।",
+        "en": "Tradition holds that by this word of the brahmanas the day and the nakshatra become favourable and pure for the rite (Baudhayana's statement); the site presents it as blessing and good wishes, not as a claim of results.",
+        "bho": "परंपरा में मानल जाला कि ब्राह्मन लोग के एह बचन से दिन आ नक्षत्र करम खातिर अनुकूल आ पबित्र हो जाला (बौधायन के कथन); साइट एकरा असीस आ मंगल-कामना के रूप में रखेले, कवनो परिनाम के दावा के रूप में ना।"
+      }
+    }
+  ],
+  "sources": [
+    "ws-samskararatnamala-1-01",
+    "ws-baudhayana-gs-shesha-1",
+    "ws-syv-20",
+    "ws-syv-25",
+    "ws-syv-36",
+    "ws-syv-18",
+    "ws-syv-23",
+    "titus-vs",
+    "research-decisions"
+  ],
+  "tags": [
+    "foundations",
+    "punyaha",
+    "brahman"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

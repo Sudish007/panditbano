@@ -1,0 +1,132 @@
+{
+  "id": "vs-3-49",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 3.49",
+  "title": {
+    "hi": "पूर्णाहुति — पूर्णा दर्वि परा पत",
+    "en": "Purna darvi para pata (the purnahuti)",
+    "bho": "पूर्णाहुति — पूर्णा दर्वि परा पत"
+  },
+  "devanagari": "पू॒र्णा द॑र्वि॒ परा॑ पत॒ सुपू॑र्णा॒ पुन॒रा प॑त । व॒स्नेव॒ विक्री॑णावहा॒ इष॒मूर्ज॑ᳪं᳭ शतक्रतो ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "पूर्णा",
+      "gloss": {
+        "hi": "भरी हुई",
+        "en": "full",
+        "bho": "भरल"
+      }
+    },
+    {
+      "sa": "दर्वि",
+      "gloss": {
+        "hi": "हे दर्वी (काठ की हवन-चम्मच, स्रुवा)",
+        "en": "O ladle (darvi)",
+        "bho": "हे दर्वी (काठ के हवन-चमचा, स्रुवा)"
+      }
+    },
+    {
+      "sa": "परा पत",
+      "gloss": {
+        "hi": "दूर जाओ (देवों की ओर उड़ो)",
+        "en": "fly away (to the gods)",
+        "bho": "दूर जा (देवता लोग के ओर उड़)"
+      }
+    },
+    {
+      "sa": "सुपूर्णा",
+      "gloss": {
+        "hi": "अच्छी तरह भरकर",
+        "en": "well filled",
+        "bho": "नीक से भर के"
+      }
+    },
+    {
+      "sa": "पुनः आ पत",
+      "gloss": {
+        "hi": "फिर वापस आओ",
+        "en": "fly back again",
+        "bho": "फेर लवट आव"
+      }
+    },
+    {
+      "sa": "वस्ना इव",
+      "gloss": {
+        "hi": "मूल्य (के बदले) की तरह",
+        "en": "as if for a price",
+        "bho": "दाम (के बदला) जइसन"
+      }
+    },
+    {
+      "sa": "विक्रीणावहै",
+      "gloss": {
+        "hi": "हम दोनों लेन-देन करें",
+        "en": "let us two trade",
+        "bho": "हमनी दुनो लेन-देन करीं"
+      }
+    },
+    {
+      "sa": "इषम्",
+      "gloss": {
+        "hi": "अन्न",
+        "en": "food",
+        "bho": "अन्न"
+      }
+    },
+    {
+      "sa": "ऊर्जम्",
+      "gloss": {
+        "hi": "बल, रस",
+        "en": "strength, sap",
+        "bho": "बल, रस"
+      }
+    },
+    {
+      "sa": "शतक्रतो",
+      "gloss": {
+        "hi": "हे शतक्रतु (इंद्र, सौ कर्मों वाले)",
+        "en": "O Shatakratu (Indra, of a hundred powers)",
+        "bho": "हे शतक्रतु (इंद्र, सौ करम वाला)"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे दर्वी! भरी हुई दूर जाओ और अच्छी तरह भरकर फिर लौट आओ। हे शतक्रतु (इंद्र)! मूल्य के बदले की तरह हम दोनों अन्न और बल का लेन-देन करें।",
+    "en": "O ladle, fly away full, and well filled fly back again. O Shatakratu (Indra), let us two trade food and strength as if for a price.",
+    "bho": "हे दर्वी! भरल दूर जा आ नीक से भर के फेर लवट आव। हे शतक्रतु (इंद्र)! दाम के बदला जइसन हमनी दुनो अन्न आ बल के लेन-देन करीं।"
+  },
+  "explanation": {
+    "hi": "शुक्ल यजुर्वेद के तीसरे अध्याय (3.49) का यह यजुस् मूलतः साकमेध पर्व में दर्वी (काठ की चम्मच) से पूर्ण-आहुति देने का मंत्र है — उवट बताते हैं कि यह \"ऐंद्री अनुष्टुप्\" है और इसमें पहले दर्वी से और फिर इंद्र से कहा गया है। \"वस्नेव विक्रीणावहै\" का अर्थ महीधर \"मूल्य की तरह लेन-देन\" करते हैं: यजमान हवि देता है, देव अन्न और बल देते हैं — यज्ञ का यह आदान-प्रदान वाला भाव इस मंत्र में साफ़ दिखता है। उत्तर भारत की हवन-पोथियाँ [[purnahuti]] का मुख्य मंत्र इसे ही बनाती हैं: [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) में यजमान पत्नी के साथ आचार्य का दाहिना कंधा छूता है, पान-सुपारी वाला नारियल (या घी से भरी स्रुवा) अग्नि में देता है और यही मंत्र \"स्वाहा\" के साथ पढ़ा जाता है; विवाह-पद्धति में कलश पर पूर्णपात्र रखने के लिए भी यही आता है। कई पोथियाँ इसके साथ \"सप्त ते अग्ने\" (VS 17.79) और \"ॐ पूर्णमदः\" भी पढ़ती हैं। (ध्यान दें: पुराने संदर्भ-सूचियों में यह 3.48 लिखा मिलता है; माध्यंदिन संहिता में इसकी संख्या 3.49 है।)",
+    "en": "This yajus of the third adhyaya of the Shukla Yajurveda (3.49) is originally the mantra of the full offering made with the darvi (wooden ladle) at the Sakamedha festival — Uvata notes it is an Indra anushtubh addressed first to the ladle and then to Indra. Mahidhara explains \"vasneva vikrinavahai\" as trading as if for a price: the yajaman gives the offering, the god gives food and strength — the give-and-take idea of the sacrifice shows plainly here. The North Indian havan handbooks make it the main mantra of the purnahuti: in the [Vasishthi Havan Paddhati](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) the yajaman with his wife touches the acharya's right shoulder, a coconut with betel (or a ladle full of ghee) is given to the fire and this mantra is recited with \"svaha\"; the wedding handbook uses it also for placing the purnapatra on the kalasha. Many handbooks add \"sapta te agne\" (VS 17.79) and \"om purnam adah\" to it. (Note: older reference lists cite it as 3.48; in the Madhyandina Samhita its number is 3.49.)",
+    "bho": "शुक्ल यजुर्वेद के तीसरा अध्याय (3.49) के ई यजुस् असल में साकमेध परब में दर्वी (काठ के चमचा) से पूरा आहुति देबे के मंत्र बा — उवट बतावेलन कि ई \"ऐंद्री अनुष्टुप्\" बा आ एह में पहिले दर्वी से आ फेर इंद्र से कहल गइल बा। \"वस्नेव विक्रीणावहै\" के अरथ महीधर \"दाम जइसन लेन-देन\" करेलन: जजमान हवि देला, देवता अन्न आ बल देलन — यज्ञ के ई आदान-प्रदान वाला भाव एह मंत्र में साफ लउकेला। उत्तर भारत के हवन-पोथी [[purnahuti]] के मुख्य मंत्र एही के बनावेला: [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) में जजमान मेहरारू संगे आचार्य के दाहिना कान्ह छूवेला, पान-सुपारी वाला नरियर (भा घी से भरल स्रुवा) आगि में देला आ इहे मंत्र \"स्वाहा\" संगे पढ़ल जाला; बियाह-पद्धति में कलश पर पूर्णपात्र राखे खातिर भी इहे आवेला। ढेर पोथी एकरा संगे \"सप्त ते अग्ने\" (VS 17.79) आ \"ॐ पूर्णमदः\" भी पढ़ेला। (धियान दीं: पुरान संदर्भ-सूची में ई 3.48 लिखल मिलेला; माध्यंदिन संहिता में एकर संख्या 3.49 बा।)"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-03",
+    "retrieved": "2026-11-01",
+    "modified": "।। n ।। → ॥ and the verse number removed; line breaks removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vasishthi-havan-paddhati-1941",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "havan",
+    "purnahuti"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

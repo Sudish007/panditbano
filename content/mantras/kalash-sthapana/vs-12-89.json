@@ -1,0 +1,97 @@
+{
+  "id": "vs-12-89",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 12.89",
+  "title": {
+    "hi": "याः फलिनीर्या अफला (सुपारी-फल)",
+    "en": "Yah phalinir ya aphala (betel nut, fruit)",
+    "bho": "याः फलिनीर्या अफला (सुपारी-फल)"
+  },
+  "devanagari": "याः फ॒लिनी॒र्या अ॑फ॒ला अ॑पु॒ष्पा याश्च॑ पु॒ष्पिणीः॑ । बृह॒स्पति॑प्रसूता॒स्ता नो॑ मुञ्च॒न्त्वᳪं᳭ह॑सः ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "याः फलिनीः",
+      "gloss": {
+        "hi": "जो फल वाली",
+        "en": "those that bear fruit",
+        "bho": "जे फल वाली"
+      }
+    },
+    {
+      "sa": "याः अफलाः",
+      "gloss": {
+        "hi": "जो बिना फल की",
+        "en": "those without fruit",
+        "bho": "जे बिना फल के"
+      }
+    },
+    {
+      "sa": "अपुष्पाः",
+      "gloss": {
+        "hi": "बिना फूल की",
+        "en": "flowerless",
+        "bho": "बिना फूल के"
+      }
+    },
+    {
+      "sa": "याः च पुष्पिणीः",
+      "gloss": {
+        "hi": "और जो फूल वाली",
+        "en": "and those that flower",
+        "bho": "आ जे फूल वाली"
+      }
+    },
+    {
+      "sa": "बृहस्पतिप्रसूताः",
+      "gloss": {
+        "hi": "बृहस्पति से उत्पन्न",
+        "en": "brought forth by Brihaspati",
+        "bho": "बृहस्पति से उपजल"
+      }
+    },
+    {
+      "sa": "ताः नः मुञ्चन्तु अंहसः",
+      "gloss": {
+        "hi": "वे हमें पाप (संकट) से छुड़ाएँ",
+        "en": "may they free us from distress",
+        "bho": "ऊ हमनी के पाप (संकट) से छोड़ावसु"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "जो ओषधियाँ फल वाली हैं, जो बिना फल की, जो बिना फूल की और जो फूल वाली हैं — बृहस्पति से उत्पन्न वे सब हमें पाप और संकट से छुड़ाएँ।",
+    "en": "The plants that bear fruit, those without fruit, the flowerless and the flowering — brought forth by Brihaspati, may they all free us from distress.",
+    "bho": "जे ओषधि फल वाली बाड़ी, जे बिना फल के, जे बिना फूल के आ जे फूल वाली बाड़ी — बृहस्पति से उपजल ऊ सब हमनी के पाप आ संकट से छोड़ावसु।"
+  },
+  "explanation": {
+    "hi": "ओषधि-सूक्त (VS 12) की ऋचा। 'फलिनीः' शब्द के कारण पोथियाँ इसे कलश में [[supari]] (पूगीफल) या कोई फल डालते समय पढ़ती हैं; कई पोथियाँ कलश पर [[nariyal]] रखते समय भी इसी को दोहराती हैं। [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) का विनियोग 'फलप्रक्षेपणे' है।",
+    "en": "A rk of the plant hymn (VS 12). Because of the word 'phalinih' (fruit-bearing) the handbooks recite it when a betel nut (pugiphala) or any fruit is dropped into the kalasha; many handbooks repeat it when the coconut is set on the kalasha. The [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) gives its application as 'phala-prakshepane'.",
+    "bho": "ओषधि-सूक्त (VS 12) के ऋचा। 'फलिनीः' शब्द के कारन पोथी एकरा कलश में [[supari]] (पूगीफल) भा कवनो फल डालत घरी पढ़ेला; ढेर पोथी कलश पर [[nariyal]] राखत घरी भी एही के दोहरावेला। [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) के विनियोग 'फलप्रक्षेपणे' बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-12",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "kalash",
+    "supari",
+    "phala"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

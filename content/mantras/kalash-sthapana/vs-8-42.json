@@ -1,0 +1,112 @@
+{
+  "id": "vs-8-42",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 8.42",
+  "title": {
+    "hi": "आ जिघ्र कलशं (कलश-स्थापन)",
+    "en": "A jighra kalasham (placing the kalasha)",
+    "bho": "आ जिघ्र कलशं (कलश-स्थापन)"
+  },
+  "devanagari": "आ जि॑घ्र क॒लशं॑ म॒ह्या त्वा॑ विश॒न्त्विन्द॑वः। पुन॑रू॒र्जा नि व॑र्तस्व॒ सा नः॑ स॒हस्रं॑ धुक्ष्वो॒रुधा॑रा॒ पय॑स्वती॒ पुन॒र्मा वि॑शताद्र॒यिः ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "आ जिघ्र",
+      "gloss": {
+        "hi": "सूँघ (ग्रहण कर)",
+        "en": "smell (take in)",
+        "bho": "सूँघ (ग्रहन कर)"
+      }
+    },
+    {
+      "sa": "कलशम्",
+      "gloss": {
+        "hi": "कलश को",
+        "en": "the kalasha",
+        "bho": "कलश के"
+      }
+    },
+    {
+      "sa": "मह्या",
+      "gloss": {
+        "hi": "हे महती (बड़ी)",
+        "en": "O great one",
+        "bho": "हे महती"
+      }
+    },
+    {
+      "sa": "त्वा विशन्तु इन्दवः",
+      "gloss": {
+        "hi": "तुझमें सोम-बिंदु प्रवेश करें",
+        "en": "may the drops of Soma enter you",
+        "bho": "तोहरा में सोम-बिंदु घुसे"
+      }
+    },
+    {
+      "sa": "पुनः ऊर्जा निवर्तस्व",
+      "gloss": {
+        "hi": "फिर बल (रस) के साथ लौट",
+        "en": "return again with strength (sap)",
+        "bho": "फेर बल (रस) संगे लवट"
+      }
+    },
+    {
+      "sa": "सा नः सहस्रं धुक्ष्व",
+      "gloss": {
+        "hi": "वह तू हमें हज़ार (धाराएँ) दुह",
+        "en": "yield us a thousand (streams)",
+        "bho": "ऊ तू हमनी के हजार (धार) दूह"
+      }
+    },
+    {
+      "sa": "उरुधारा पयस्वती",
+      "gloss": {
+        "hi": "चौड़ी धारा वाली, दूधवाली",
+        "en": "broad-streamed, rich in milk",
+        "bho": "चाकर धार वाली, दूध वाली"
+      }
+    },
+    {
+      "sa": "पुनः मा विशताद् रयिः",
+      "gloss": {
+        "hi": "धन फिर मुझमें आए",
+        "en": "may wealth come to me again",
+        "bho": "धन फेर हमरा में आवे"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे महती, कलश को सूँघ (ग्रहण कर); सोम-बिंदु तुझमें प्रवेश करें। फिर बल के साथ लौट; चौड़ी धारा वाली, दूधवाली तू हमें हज़ार धाराएँ दुह; धन फिर मुझमें आए।",
+    "en": "O great one, take in the kalasha; may the drops of Soma enter you. Return again with strength; broad-streamed and rich in milk, yield us a thousand streams; may wealth come to me again.",
+    "bho": "हे महती, कलश के सूँघ (ग्रहन कर); सोम-बिंदु तोहरा में घुसे। फेर बल संगे लवट; चाकर धार वाली, दूध वाली तू हमनी के हजार धार दूह; धन फेर हमरा में आवे।"
+  },
+  "explanation": {
+    "hi": "[[yajurved]] के आठवें अध्याय (सोमयाग) का मंत्र, जिसमें सोम से खाली हुए कलश को संबोधित किया गया है। 'कलश' शब्द के कारण पोथियों में [[kalash-sthapana]] का मुख्य मंत्र यही है — पंडित धान्य के ढेर पर कलश रखते हुए इसे पढ़ता है। [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) इसका विनियोग 'कलशस्थापने' लिखती है; विकिस्रोत की टिप्पणी इस मंत्र के ऋषि भर्ग और देवता विष्णु बताती है।",
+    "en": "A mantra of the eighth adhyaya of the Yajurveda (the Soma sacrifice), addressed to the kalasha emptied of Soma. Because of the word 'kalasha' it is the principal mantra of the kalasha sthapana in the handbooks — the pandit recites it while setting the kalasha on the heap of grain. The [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) gives its application as 'kalasha-sthapane'; the Wikisource note names the rishi Bharga and the deity Vishnu for this mantra.",
+    "bho": "[[yajurved]] के आठवाँ अध्याय (सोमयाग) के मंत्र, जेह में सोम से खाली भइल कलश के संबोधित कइल गइल बा। 'कलश' शब्द के कारन पोथी में [[kalash-sthapana]] के मुख्य मंत्र इहे बा — पंडित धान्य के ढेर पर कलश राखत घरी एकरा पढ़ेलन। [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) एकर विनियोग 'कलशस्थापने' लिखेला; विकिस्रोत के टिप्पनी एह मंत्र के ऋषि भर्ग आ देवता विष्णु बतावेले।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-08",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः; ।। n ।। → ॥ and the verse number removed; the Wikisource footnote marker and the section link removed; line breaks removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "kalash",
+    "sthapana"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,436 @@
+{
+  "id": "ganesh-ambika-pujan",
+  "code": "F05",
+  "group": "foundations",
+  "phase": 1,
+  "title": {
+    "hi": "गणेश-अंबिका पूजन",
+    "en": "Ganesha-Ambika puja",
+    "bho": "गणेश-अंबिका पूजन"
+  },
+  "lede": {
+    "hi": "हर पूजा का पहला पूजन — विघ्नहर्ता गणेश और माता अंबिका (गौरी) का ध्यान, आवाहन, प्रतिष्ठा, उपचार, विशेष अर्घ्य और प्रार्थना; वैदिक ऋचाएँ 'गणानां त्वा' और 'अंबे अंबिके' इसके केंद्र में हैं।",
+    "en": "The first worship of every puja — dhyana, invocation, installation, offerings, the special arghya and the prayer to Ganesha the remover of obstacles and Mother Ambika (Gauri); the Vedic rks 'gananam tva' and 'ambe ambike' are at its centre.",
+    "bho": "हर पूजा के पहिला पूजन — बिघनहर्ता गणेश आ माई अंबिका (गौरी) के धियान, आवाहन, प्रतिष्ठा, उपचार, बिसेस अरघ आ प्रार्थना; वैदिक ऋचा 'गणानां त्वा' आ 'अंबे अंबिके' एकर केंद्र में बा।"
+  },
+  "overview": {
+    "hi": "उत्तर भारत की हर पूजा, संस्कार और हवन [[sankalp]] के तुरंत बाद [[ganesh-ambika-pujan]] से शुरू होता है: परंपरा में माना जाता है कि [[ganesh]] विघ्न हटाते हैं और उनके साथ पूजी गई अंबिका (गौरी, पार्वती) कार्य को मंगलमय बनाती हैं। यह पूजन [[paddhati]]-परंपरा का ढाँचा है — वैदिक मंत्र 'गणानां त्वा' (VS 23.19) और 'अंबे अंबिके' (VS 23.18) [[yajurved]] के हैं, पर उन्हें गणेश-गौरी के आवाहन में लगाना पोथियों की व्यवस्था है, [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) की नहीं; साइट इसे वैसा ही बताती है। क्रम यहाँ [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) का है और [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) (गोपीनाथ भट्ट की माध्यंदिन पद्धति-संहिता) से मिलाया गया है: ध्यान → आवाहन-स्थापन → प्रतिष्ठा → [[panchopachar]] या [[shodashopachar]] → विशेष [[arghya]] → प्रार्थना-नमस्कार। गणेश के रूप में प्रायः सुपारी या अक्षत-पुंज पर मौली लपेटकर, और गौरी के रूप में हल्दी की गाँठ या सुपारी रखी जाती है; मूर्ति हो तो वह भी चलती है। [[visarjan]] पूरे कर्म के अंत में होता है, इस पूजन के बाद नहीं।",
+    "en": "Every North Indian puja, samskara and havan begins, right after the sankalpa, with the Ganesha-Ambika puja: tradition holds that Ganesha removes obstacles and that Ambika (Gauri, Parvati), worshipped with him, makes the undertaking auspicious. The worship is the frame of the handbook tradition — the Vedic mantras 'gananam tva' (VS 23.19) and 'ambe ambike' (VS 23.18) are from the Yajurveda, but using them to invoke Ganesha and Gauri is the handbooks' arrangement, not the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D)'s; the site says so plainly. The order here is that of the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt), compared with the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) (Gopinatha Bhatta's Madhyandina digest): dhyana → invocation and installation → pratishtha → panchopachara or shodashopachara → the special arghya → prayer and salutation. Ganesha is usually represented by a betel nut or a heap of rice wrapped in red thread, Gauri by a lump of turmeric or a betel nut; a murti serves as well. The visarjana comes at the end of the whole rite, not after this worship.",
+    "bho": "उत्तर भारत के हर पूजा, संस्कार आ हवन [[sankalp]] के तुरते बाद [[ganesh-ambika-pujan]] से सुरू होला: परंपरा में मानल जाला कि [[ganesh]] बिघन हटावेलन आ उनका संगे पूजल अंबिका (गौरी, पार्वती) काम के मंगलमय बनावेली। ई पूजन [[paddhati]]-परंपरा के ढाँचा बा — वैदिक मंत्र 'गणानां त्वा' (VS 23.19) आ 'अंबे अंबिके' (VS 23.18) [[yajurved]] के बा, बाकिर उनका गणेश-गौरी के आवाहन में लगावल पोथी के ब्यवस्था बा, [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) के ना; साइट एकरा ओइसहीं बतावेले। क्रम इहाँ [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) के बा आ [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) (गोपीनाथ भट्ट के माध्यंदिन पद्धति-संहिता) से मिलावल गइल बा: धियान → आवाहन-स्थापन → प्रतिष्ठा → [[panchopachar]] भा [[shodashopachar]] → बिसेस [[arghya]] → प्रार्थना-परनाम। गणेश के रूप में प्रायः सुपारी भा अछत-पुंज पर मौली लपेट के, आ गौरी के रूप में हरदी के गाँठ भा सुपारी राखल जाला; मूरति होखे त ऊ भी चलेला। [[visarjan]] पूरा करम के अंत में होला, एह पूजन के बाद ना।"
+  },
+  "when": {
+    "rules": {
+      "hi": "हर पूजा, हवन, संस्कार, कथा और गृहप्रवेश के आरंभ में — [[achaman]], स्वस्तिवाचन और संकल्प के बाद, कलश-स्थापना के पहले। अलग मुहूर्त नहीं; मुख्य कर्म की तिथि देखी जाती है। [[ganesh-chaturthi]] का अलग पूजन इस ढाँचे पर ही विस्तार है।",
+      "en": "At the start of every puja, havan, samskara, katha and house-entry — after the achamana, the svasti-vachana and the sankalpa, before the kalasha sthapana. No separate muhurat; the date is that of the main rite. The separate worship of Ganesh Chaturthi is an expansion of this same frame.",
+      "bho": "हर पूजा, हवन, संस्कार, कथा आ गृहप्रवेश के सुरुआत में — [[achaman]], स्वस्तिवाचन आ संकल्प के बाद, कलश-स्थापना के पहिले। अलगा मुहूरत ना; मुख्य करम के तिथि देखल जाला। [[ganesh-chaturthi]] के अलगा पूजन एही ढाँचा पर बिस्तार बा।"
+    },
+    "shubhvela": {
+      "muhurat": null,
+      "festival": null,
+      "vrat": null
+    }
+  },
+  "roles": [
+    {
+      "role": {
+        "hi": "पुरोहित",
+        "en": "Purohit",
+        "bho": "पुरोहित"
+      },
+      "does": {
+        "hi": "ध्यान-श्लोक और वैदिक मंत्र पढ़ना, हर उपचार का वाक्य बोलना, यजमान को बताना कि क्या चढ़ाना है।",
+        "en": "Recites the dhyana verses and the Vedic mantras, says the sentence of each upachara, tells the host what to offer.",
+        "bho": "धियान-श्लोक आ वैदिक मंत्र पढ़ल, हर उपचार के वाक्य बोलल, जजमान के बतावल कि का चढ़ावे के बा।"
+      }
+    },
+    {
+      "role": {
+        "hi": "यजमान (पत्नी सहित)",
+        "en": "The host (with his wife)",
+        "bho": "जजमान (पत्नी सहित)"
+      },
+      "does": {
+        "hi": "हाथ में अक्षत-पुष्प लेकर आवाहन सुनना, हर उपचार की वस्तु गणेश-गौरी पर चढ़ाना, अंत में हाथ जोड़कर प्रार्थना।",
+        "en": "Holds rice and flowers during the invocation, offers each item to Ganesha and Gauri, and prays with folded hands at the end.",
+        "bho": "हाथ में अछत-फूल लेके आवाहन सुनल, हर उपचार के चीज गणेश-गौरी पर चढ़ावल, अंत में हाथ जोड़ के प्रार्थना।"
+      }
+    }
+  ],
+  "samagri": [
+    {
+      "id": "ganesh-pratik",
+      "item": {
+        "hi": "गणेश का प्रतीक — सुपारी या अक्षत-पुंज पर मौली, अथवा छोटी मूर्ति",
+        "en": "A token of Ganesha — a betel nut or a heap of rice with red thread, or a small murti",
+        "bho": "गणेश के प्रतीक — सुपारी भा अछत-पुंज पर मौली, भा छोट मूरति"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "gauri-pratik",
+      "item": {
+        "hi": "गौरी का प्रतीक — हल्दी की गाँठ या सुपारी (गणेश के दाहिने)",
+        "en": "A token of Gauri — a lump of turmeric or a betel nut (to Ganesha's right)",
+        "bho": "गौरी के प्रतीक — हरदी के गाँठ भा सुपारी (गणेश के दहिने)"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "chauki",
+      "item": {
+        "hi": "चौकी या थाली, लाल/पीला वस्त्र बिछाकर",
+        "en": "A low stool or plate spread with a red or yellow cloth",
+        "bho": "चौकी भा थरिया, लाल/पियर कपड़ा बिछा के"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "akshat",
+      "item": {
+        "hi": "अक्षत (हल्दी या रोली से रंगे)",
+        "en": "Unbroken rice tinted with turmeric or roli",
+        "bho": "अच्छत (हरदी भा रोरी से रंगल)"
+      },
+      "qty": "एक कटोरी",
+      "must": true
+    },
+    {
+      "id": "pushp",
+      "item": {
+        "hi": "पुष्प, दूर्वा और माला",
+        "en": "Flowers, durva grass and a garland",
+        "bho": "फूल, दूब आ माला"
+      },
+      "qty": "यथेष्ट",
+      "must": true
+    },
+    {
+      "id": "gandh",
+      "item": {
+        "hi": "गंध — चंदन, रोली, सिंदूर",
+        "en": "Sandal paste, roli, sindoor",
+        "bho": "गंध — चंदन, रोरी आ सिंदूर"
+      },
+      "qty": "थोड़ा",
+      "must": true
+    },
+    {
+      "id": "dhup-deep",
+      "item": {
+        "hi": "धूप (अगरबत्ती) और दीप (घी का दीया)",
+        "en": "Incense and a ghee lamp",
+        "bho": "धूप (अगरबत्ती) आ दीया (घी के दीया)"
+      },
+      "qty": "1 + 1",
+      "must": true
+    },
+    {
+      "id": "naivedya",
+      "item": {
+        "hi": "नैवेद्य — मिठाई, फल, तांबूल (पान-सुपारी)",
+        "en": "Food offering — sweets, fruit, betel",
+        "bho": "नैवेद्य — मिठाई, फल आ तांबूल (पान-सुपारी)"
+      },
+      "qty": "थोड़ा",
+      "must": true
+    },
+    {
+      "id": "arghya-patra",
+      "item": {
+        "hi": "विशेष अर्घ्य के लिए ताँबे का पात्र — जल, चंदन, अक्षत, फल, फूल, दूर्वा, दक्षिणा",
+        "en": "A copper vessel for the special arghya — water, sandal, rice, fruit, flower, durva, dakshina",
+        "bho": "बिसेस अरघ खातिर तामा के बरतन — जल, चंदन, अछत, फल, फूल, दूब, दक्षिणा"
+      },
+      "qty": "1",
+      "must": false
+    },
+    {
+      "id": "jal-patra",
+      "item": {
+        "hi": "जल-पात्र और आचमनी",
+        "en": "Water vessel and spoon",
+        "bho": "जल-बरतन आ आचमनी"
+      },
+      "qty": "1",
+      "must": true
+    }
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "चौकी पर प्रतीक की स्थापना — चौकी पर वस्त्र बिछाकर बीच में गणेश का प्रतीक और उसके दाहिनी ओर गौरी का प्रतीक रखें। यजमान (पत्नी सहित) पूर्व या उत्तर मुख बैठे, हाथ में अक्षत-पुष्प ले। आचमन, [स्वस्तिवाचन](/occasions/svasti-vachan/) और [संकल्प](/occasions/sankalp/) पहले हो चुके हैं; संकल्प के वाक्य में 'निर्विघ्नतासिद्ध्यर्थं गणपत्यादि पूजनं करिष्ये' कहा गया है।",
+        "en": "Tokens on the stool — Spread the cloth on the stool, set the token of Ganesha in the middle and Gauri's to its right. The host (with his wife) sits facing east or north with rice and flowers in hand. The achamana, the [svasti-vachana](/occasions/svasti-vachan/) and the [sankalpa](/occasions/sankalp/) are already done; the sankalpa sentence has said 'nirvighnata-siddhyartham ganapatyadi pujanam karishye'.",
+        "bho": "चौकी पर प्रतीक के स्थापना — चौकी पर कपड़ा बिछा के बीच में गणेश के प्रतीक आ ओकरा दहिने गौरी के प्रतीक राखीं। जजमान (पत्नी सहित) पूरब भा उत्तर मुँह बइठे, हाथ में अछत-फूल लेवे। आचमन, [स्वस्तिवाचन](/occasions/svasti-vachan/) आ [संकल्प](/occasions/sankalp/) पहिले हो चुकल बा; संकल्प के वाक्य में 'निर्विघ्नतासिद्ध्यर्थं गणपत्यादि पूजनं करिष्ये' कहल गइल बा।"
+      },
+      "samagriIds": [
+        "ganesh-pratik",
+        "gauri-pratik",
+        "chauki",
+        "akshat",
+        "pushp"
+      ],
+      "panditSays": {
+        "hi": "हाथ में अक्षत और फूल लीजिए; पहले गणेश जी और गौरी माता का ध्यान करेंगे।",
+        "en": "Take rice and flowers in your hands; first we meditate on Ganesha and Mother Gauri.",
+        "bho": "हाथ में अछत आ फूल लीं; पहिले गणेश जी आ गौरी माई के धियान करब।"
+      }
+    },
+    {
+      "n": 2,
+      "layer": "vedic",
+      "minutes": 2,
+      "important": true,
+      "action": {
+        "hi": "गणेश ध्यान: पंडित 'ॐ गणानां त्वा गणपतिं हवामहे' (VS 23.19) और 'गजाननं भूतगणादिसेवितं' पढ़ता है; यजमान हाथ जोड़े सुनता है।",
+        "en": "Ganesha dhyana: the pandit recites 'om gananam tva ganapatim havamahe' (VS 23.19) and 'gajananam bhutaganadi sevitam'; the host listens with folded hands.",
+        "bho": "गणेश धियान: पंडित 'ॐ गणानां त्वा गणपतिं हवामहे' (VS 23.19) आ 'गजाननं भूतगणादिसेवितं' पढ़ेलन; जजमान हाथ जोड़ले सुनेला।"
+      },
+      "mantraIds": [
+        "vs-23-19",
+        "pad-gajananam-bhutaganadi"
+      ]
+    },
+    {
+      "n": 3,
+      "layer": "paddhati",
+      "minutes": 1,
+      "important": true,
+      "action": {
+        "hi": "गणेश आवाहन-स्थापन: पंडित आवाहन-वाक्य बोलता है और यजमान गणेश के प्रतीक पर अक्षत-पुष्प छोड़ता है। [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 'ऋद्धिसिद्धिसहिताय गणपतये नमः' कहती है; हिंदी-पट्टी की पोथियाँ 'सिद्धिबुद्धिसहिताय' भी बोलती हैं।",
+        "en": "Invocation and installation of Ganesha: the pandit says the invocation sentence and the host drops rice and flowers on the token of Ganesha. The [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) says 'riddhi-siddhi-sahitaya ganapataye namah'; Hindi-belt handbooks also say 'siddhi-buddhi-sahitaya'.",
+        "bho": "गणेश आवाहन-स्थापन: पंडित आवाहन-वाक्य बोलेलन आ जजमान गणेश के प्रतीक पर अछत-फूल छोड़ेला। [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 'ऋद्धिसिद्धिसहिताय गणपतये नमः' कहेला; हिंदी-पट्टी के पोथी 'सिद्धिबुद्धिसहिताय' भी बोलेला।"
+      },
+      "samagriIds": [
+        "akshat",
+        "pushp"
+      ],
+      "panditSays": {
+        "sa": "ॐ भूर्भुवः स्वः गणपतये नमः । गणपतिमावाहयामि स्थापयामि पूजयामि ।",
+        "hi": "ॐ भूर्भुवः स्वः गणपतये नमः — गणपति का आवाहन, स्थापन और पूजन करता हूँ। (यजमान अक्षत-पुष्प चढ़ाए।)",
+        "en": "Om bhur bhuvah svah ganapataye namah — I invoke, install and worship Ganapati. (The host offers rice and flowers.)",
+        "bho": "ॐ भूर्भुवः स्वः गणपतये नमः — गणपति के आवाहन, स्थापन आ पूजन करत बानी। (जजमान अछत-फूल चढ़ावे।)"
+      }
+    },
+    {
+      "n": 4,
+      "layer": "vedic",
+      "minutes": 2,
+      "important": true,
+      "action": {
+        "hi": "गौरी ध्यान-आवाहन: 'नमो देव्यै महादेव्यै' और 'हेमाद्रितनयां देवीं' पढ़कर पंडित आवाहन-वाक्य बोलता है; साथ में अंबिका की वैदिक ऋचा 'ॐ अंबे अंबिके' (VS 23.18)। यजमान गौरी के प्रतीक पर अक्षत-पुष्प छोड़ता है।",
+        "en": "Gauri dhyana and invocation: after 'namo devyai mahadevyai' and 'hemadri-tanayam devim' the pandit says the invocation sentence, with the Vedic Ambika rk 'om ambe ambike' (VS 23.18). The host drops rice and flowers on the token of Gauri.",
+        "bho": "गौरी धियान-आवाहन: 'नमो देव्यै महादेव्यै' आ 'हेमाद्रितनयां देवीं' पढ़ के पंडित आवाहन-वाक्य बोलेलन; संगे अंबिका के वैदिक ऋचा 'ॐ अंबे अंबिके' (VS 23.18)। जजमान गौरी के प्रतीक पर अछत-फूल छोड़ेला।"
+      },
+      "mantraIds": [
+        "pur-markandeya-85-7",
+        "pad-hemadri-tanayam-devim",
+        "vs-23-18"
+      ],
+      "samagriIds": [
+        "akshat",
+        "pushp"
+      ],
+      "panditSays": {
+        "sa": "ॐ भूर्भुवः स्वः गौर्यै नमः । गौरीमावाहयामि स्थापयामि पूजयामि ।",
+        "hi": "ॐ भूर्भुवः स्वः गौर्यै नमः — गौरी का आवाहन, स्थापन और पूजन करता हूँ।",
+        "en": "Om bhur bhuvah svah gauryai namah — I invoke, install and worship Gauri.",
+        "bho": "ॐ भूर्भुवः स्वः गौर्यै नमः — गौरी के आवाहन, स्थापन आ पूजन करत बानी।"
+      }
+    },
+    {
+      "n": 5,
+      "layer": "vedic",
+      "minutes": 1,
+      "action": {
+        "hi": "प्रतिष्ठा: 'ॐ मनो जूतिर्जुषतामाज्यस्य' (VS 2.13) पढ़कर पंडित दोनों प्रतीकों पर अक्षत छोड़ता है और कहता है 'गणेशांबिके सुप्रतिष्ठिते वरदे भवेताम्'। [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) यहाँ 'नर्य प्रजां मे पाहि' पढ़ती है — पोथी-भेद।",
+        "en": "Pratishtha: reciting 'om mano jutir jushatam ajyasya' (VS 2.13) the pandit drops rice on both tokens and says 'ganeshambike supratishthite varade bhavetam'. The [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) uses 'narya prajam me pahi' here — a difference between handbooks.",
+        "bho": "प्रतिष्ठा: 'ॐ मनो जूतिर्जुषतामाज्यस्य' (VS 2.13) पढ़ के पंडित दुनो प्रतीक पर अछत छोड़ेलन आ कहेलन 'गणेशाम्बिके सुप्रतिष्ठिते वरदे भवेताम्'। [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) इहाँ 'नर्य प्रजां मे पाहि' पढ़ेला — पोथी-भेद।"
+      },
+      "mantraIds": [
+        "vs-2-13"
+      ],
+      "samagriIds": [
+        "akshat"
+      ],
+      "panditSays": {
+        "sa": "अस्यै प्राणाः प्रतिष्ठन्तु अस्यै प्राणाः क्षरन्तु च । अस्यै देवत्वमर्चायै मामहेति च कश्चन ॥ गणेशाम्बिके सुप्रतिष्ठिते वरदे भवेताम् ।",
+        "hi": "इस अर्चा (प्रतीक) में प्राण प्रतिष्ठित हों — गणेश और अंबिका सुप्रतिष्ठित होकर वर देने वाले हों।",
+        "en": "May the breaths be established in this image — may Ganesha and Ambika, well installed, be givers of boons.",
+        "bho": "एह अर्चा (प्रतीक) में प्रान प्रतिष्ठित होखे — गणेश आ अंबिका सुप्रतिष्ठित होके बर देवे वाला होखसु।"
+      }
+    },
+    {
+      "n": 6,
+      "layer": "paddhati",
+      "minutes": 8,
+      "important": true,
+      "action": {
+        "hi": "[[panchopachar]] या [[shodashopachar]] पूजन: हर उपचार पर पंडित वैदिक मंत्र पढ़ता है और नाम-वाक्य बोलता है, यजमान वस्तु चढ़ाता है — गंध (VS 31.9), पुष्प-माला-दूर्वा (VS 12.77), धूप (VS 1.8), दीप (VS 3.9), नैवेद्य (VS 31.13) और फिर आचमन के लिए जल, तांबूल, दक्षिणा। सोलह उपचारों का पूरा क्रम (आसन, पाद्य, अर्घ्य, स्नान, वस्त्र, यज्ञोपवीत आदि) षोडशोपचार पृष्ठ पर आएगा; घर की छोटी पूजा में पाँच उपचार पर्याप्त माने जाते हैं।",
+        "en": "Panchopachara or shodashopachara: for each upachara the pandit recites the Vedic mantra and says the name sentence while the host offers the item — fragrant paste (VS 31.9), flowers, garland and durva (VS 12.77), incense (VS 1.8), lamp (VS 3.9), food (VS 31.13), then water for sipping, betel and dakshina. The full order of sixteen (seat, padya, arghya, bath, cloth, sacred thread and so on) will be given on the shodashopachara page; for a small home puja five upacharas are held sufficient.",
+        "bho": "[[panchopachar]] भा [[shodashopachar]] पूजन: हर उपचार पर पंडित वैदिक मंत्र पढ़ेलन आ नाँव-वाक्य बोलेलन, जजमान चीज चढ़ावेला — गंध (VS 31.9), फूल-माला-दूब (VS 12.77), धूप (VS 1.8), दीया (VS 3.9), नैवेद्य (VS 31.13) आ फेर आचमन खातिर जल, तांबूल, दक्षिणा। सोरह उपचार के पूरा क्रम (आसन, पाद्य, अरघ, स्नान, बस्तर, जनेऊ आदि) षोडशोपचार पन्ना पर आई; घर के छोट पूजा में पाँच उपचार पर्याप्त मानल जाला।"
+      },
+      "mantraIds": [
+        "vs-31-9",
+        "vs-12-77",
+        "vs-1-8",
+        "vs-3-9",
+        "vs-31-13"
+      ],
+      "samagriIds": [
+        "gandh",
+        "pushp",
+        "dhup-deep",
+        "naivedya",
+        "jal-patra"
+      ],
+      "panditSays": {
+        "sa": "ॐ गणेशाम्बिकाभ्यां नमः । गन्धं समर्पयामि । पुष्पाणि समर्पयामि । धूपमाघ्रापयामि । दीपं दर्शयामि । नैवेद्यं निवेदयामि । आचमनीयं जलं समर्पयामि । ताम्बूलं समर्पयामि । दक्षिणां समर्पयामि ।",
+        "hi": "गणेश और अंबिका को नमस्कार — गंध, पुष्प, धूप, दीप, नैवेद्य, आचमन-जल, तांबूल और दक्षिणा समर्पित करता हूँ। (हर वाक्य पर यजमान वह वस्तु चढ़ाए।)",
+        "en": "Salutation to Ganesha and Ambika — I offer fragrant paste, flowers, incense, lamp, food, water for sipping, betel and dakshina. (At each sentence the host offers that item.)",
+        "bho": "गणेश आ अंबिका के परनाम — गंध, फूल, धूप, दीया, नैवेद्य, आचमन-जल, तांबूल आ दक्षिणा समर्पित करत बानी। (हर वाक्य पर जजमान ऊ चीज चढ़ावे।)"
+      }
+    },
+    {
+      "n": 7,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "विशेष अर्घ्य: ताँबे के पात्र में जल, चंदन, अक्षत, फल, फूल, दूर्वा और दक्षिणा रखकर यजमान दोनों हाथों से उठाए; पंडित 'रक्ष रक्ष गणाध्यक्ष' के दो श्लोक पढ़े; यजमान अर्घ्य गणेश-गौरी के आगे छोड़े।",
+        "en": "The special arghya: the host lifts with both hands a copper vessel holding water, sandal, rice, fruit, flowers, durva and dakshina; the pandit recites the two verses 'raksha raksha ganadhyaksha'; the host pours the arghya before Ganesha and Gauri.",
+        "bho": "बिसेस अरघ: तामा के बरतन में जल, चंदन, अछत, फल, फूल, दूब आ दक्षिणा राख के जजमान दुनो हाथ से उठावे; पंडित 'रक्ष रक्ष गणाध्यक्ष' के दू श्लोक पढ़सु; जजमान अरघ गणेश-गौरी के आगे छोड़े।"
+      },
+      "mantraIds": [
+        "pad-raksha-raksha-ganadhyaksha"
+      ],
+      "samagriIds": [
+        "arghya-patra"
+      ],
+      "panditSays": {
+        "sa": "अनेन सफलार्घ्येण वरदोऽस्तु सदा मम । गणेशाम्बिकाभ्यां नमः विशेषार्घ्यं समर्पयामि ।",
+        "hi": "इस सफल अर्घ्य से (गणेश) सदा मुझे वर देने वाले हों — गणेश-अंबिका को विशेष अर्घ्य समर्पित करता हूँ।",
+        "en": "By this fruitful arghya may (Ganesha) ever be my giver of boons — I offer the special arghya to Ganesha and Ambika.",
+        "bho": "एह सफल अरघ से (गणेश) हमेसा हमरा के बर देवे वाला होखसु — गणेश-अंबिका के बिसेस अरघ समर्पित करत बानी।"
+      }
+    },
+    {
+      "n": 8,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "प्रार्थना और नमस्कार: सब लोग हाथ जोड़कर खड़े या बैठे रहें; पंडित 'विघ्नेश्वराय वरदाय' और 'त्वं वैष्णवी शक्तिः' पढ़े, फिर समर्पण-वाक्य 'अनया पूजया गणेशांबिके प्रीयेताम्, न मम'। गणेश-गौरी का विसर्जन अभी नहीं — पूरे कर्म के अंत में, [[visarjan]] के साथ।",
+        "en": "Prayer and salutation: all stand or sit with folded hands; the pandit recites 'vighneshvaraya varadaya' and 'tvam vaishnavi shaktih', then the sentence of dedication 'anaya pujaya ganeshambike priyetam, na mama'. Ganesha and Gauri are not dismissed now — only at the end of the whole rite, with the visarjana.",
+        "bho": "प्रार्थना आ परनाम: सभे हाथ जोड़ के ठाड़ भा बइठल रहे; पंडित 'विघ्नेश्वराय वरदाय' आ 'त्वं वैष्णवी शक्तिः' पढ़सु, फेर समर्पन-वाक्य 'अनया पूजया गणेशाम्बिके प्रीयेताम्, न मम'। गणेश-गौरी के बिसर्जन अबहीं ना — पूरा करम के अंत में, [[visarjan]] संगे।"
+      },
+      "mantraIds": [
+        "pad-vighneshvaraya-varadaya",
+        "pur-markandeya-91-4"
+      ],
+      "panditSays": {
+        "sa": "अनया पूजया गणेशाम्बिके प्रीयेताम् न मम ।",
+        "hi": "इस पूजा से गणेश और अंबिका प्रसन्न हों — यह मेरा नहीं (उनका है)।",
+        "en": "By this worship may Ganesha and Ambika be pleased — it is not mine (but theirs).",
+        "bho": "एह पूजा से गणेश आ अंबिका परसन्न होखसु — ई हमार ना (उनकर बा)।"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "region": "samskararatnamala",
+      "what": {
+        "hi": "[संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) (दक्षिण-पश्चिम की माध्यंदिन परंपरा) गणपति का आवाहन 'ऋद्धिसिद्धिसहिताय गणपतये नमः' से और प्रतिष्ठा 'नर्य प्रजां मे पाहि' से करती है, अंबिका को गणेश के साथ नहीं बल्कि मातृका-पूजन में पूजती है, और अंत में 'मंत्रहीनं क्रियाहीनं' तथा 'वक्रतुंड महाकाय' की प्रार्थना जोड़ती है।",
+        "en": "The [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) (the Madhyandina tradition of the south-west) invokes Ganapati with 'riddhi-siddhi-sahitaya ganapataye namah', installs him with 'narya prajam me pahi', worships Ambika not beside Ganesha but in the matrika puja, and adds the prayers 'mantrahinam kriyahinam' and 'vakratunda mahakaya' at the end.",
+        "bho": "[संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) (दक्खिन-पच्छिम के माध्यंदिन परंपरा) गणपति के आवाहन 'ऋद्धिसिद्धिसहिताय गणपतये नमः' से आ प्रतिष्ठा 'नर्य प्रजां मे पाहि' से करेला, अंबिका के गणेश संगे ना बलुक मातृका-पूजन में पूजेला, आ अंत में 'मन्त्रहीनं क्रियाहीनं' तथा 'वक्रतुण्ड महाकाय' के प्रार्थना जोड़ेला।"
+      },
+      "source": "ws-samskararatnamala-1-01"
+    },
+    {
+      "region": "pothi-bhed",
+      "what": {
+        "hi": "हिंदी-पट्टी की पोथियों में गणेश के बारह नामों ('सुमुखश्चैकदंतश्च') और 'वक्रतुंड महाकाय' का पाठ प्रायः मंगलाचरण में, इस पूजन से पहले आता है; कुछ पोथियाँ गौरी के लिए 'सर्वमंगलमांगल्ये' पढ़ती हैं। पूजा-विधि में देश और कुल का आचार ही प्रमाण है — [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) 1.8.11–13 विवाह के प्रसंग में कहता है कि (लोकाचार में) 'ग्राम ही प्रमाण है'।",
+        "en": "In the Hindi-belt handbooks the twelve names of Ganesha ('sumukhash chaikadantash cha') and 'vakratunda mahakaya' are usually recited in the opening benediction, before this worship; some handbooks recite 'sarvamangala-mangalye' for Gauri. In matters of procedure the custom of the region and the family is the authority — the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) 1.8.11–13 says, in the context of the wedding, that (in customary matters) 'the village is the authority'.",
+        "bho": "हिंदी-पट्टी के पोथी में गणेश के बारह नाँव ('सुमुखश्चैकदंतश्च') आ 'वक्रतुंड महाकाय' के पाठ प्रायः मंगलाचरन में, एह पूजन से पहिले आवेला; कुछ पोथी गौरी खातिर 'सर्वमंगलमांगल्ये' पढ़ेला। पूजा-बिधि में देस आ कुल के आचार ही परमान बा — [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) 1.8.11–13 बियाह के प्रसंग में कहेला कि (लोकाचार में) 'गाँव ही परमान बा'।"
+      },
+      "source": "ia-vivah-mvf"
+    }
+  ],
+  "faq": [
+    {
+      "q": {
+        "hi": "गणेश के साथ अंबिका (गौरी) की पूजा क्यों होती है?",
+        "en": "Why is Ambika (Gauri) worshipped together with Ganesha?",
+        "bho": "गणेश संगे अंबिका (गौरी) के पूजा काहे होला?"
+      },
+      "a": {
+        "hi": "परंपरा में माना जाता है कि माता-पुत्र की यह जोड़ी कार्य को निर्विघ्न और मंगलमय बनाती है; पोथियाँ गौरी को गणेश के दाहिने स्थापित करती हैं। [[yajurved]] की ऋचा 'अंबे अंबिके' (VS 23.18) 'अंबा-अंबिका' शब्दों के कारण अंबिका का आवाहन-मंत्र बन गई — यह पद्धति-परंपरा का प्रयोग है।",
+        "en": "Tradition holds that this pair of mother and son makes the undertaking unobstructed and auspicious; the handbooks install Gauri to Ganesha's right. The Yajurveda rk 'ambe ambike' (VS 23.18) became the invocation of Ambika because of the words 'amba, ambika' — a usage of the handbook tradition.",
+        "bho": "परंपरा में मानल जाला कि माई-बेटा के ई जोड़ी काम के निर्बिघन आ मंगलमय बनावेले; पोथी गौरी के गणेश के दहिने स्थापित करेला। [[yajurved]] के ऋचा 'अंबे अंबिके' (VS 23.18) 'अंबा-अंबिका' शब्द के कारन अंबिका के आवाहन-मंत्र बन गइल — ई पद्धति-परंपरा के प्रयोग बा।"
+      }
+    },
+    {
+      "q": {
+        "hi": "मूर्ति न हो तो गणेश किसमें पूजे जाएँ?",
+        "en": "If there is no murti, in what is Ganesha worshipped?",
+        "bho": "मूरति ना होखे त गणेश केह में पूजल जासु?"
+      },
+      "a": {
+        "hi": "सुपारी पर मौली लपेटकर, या अक्षत के पुंज पर, या हल्दी से बनी गाँठ पर — पोथियाँ 'अक्षतपुंज पर' स्थापन लिखती हैं। गौरी के लिए हल्दी की गाँठ प्रचलित है। प्रतीक को आवाहन के बाद देवता ही माना जाता है।",
+        "en": "In a betel nut wrapped in red thread, or on a heap of rice, or in a lump of turmeric — the handbooks write 'installed on a heap of rice'. For Gauri a lump of turmeric is common. After the invocation the token is regarded as the deity.",
+        "bho": "सुपारी पर मौली लपेट के, भा अछत के पुंज पर, भा हरदी के गाँठ पर — पोथी 'अक्षतपुंज पर' स्थापन लिखेला। गौरी खातिर हरदी के गाँठ परचलित बा। प्रतीक के आवाहन के बाद देवता ही मानल जाला।"
+      }
+    },
+    {
+      "q": {
+        "hi": "क्या इस पूजन के बाद गणेश का विसर्जन कर दें?",
+        "en": "Should Ganesha be dismissed after this worship?",
+        "bho": "का एह पूजन के बाद गणेश के बिसर्जन कर दीं?"
+      },
+      "a": {
+        "hi": "नहीं। [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) स्पष्ट कहती है 'विसर्जनं तु कर्मसमाप्त्यंते' — विसर्जन पूरे कर्म की समाप्ति पर होता है। गणेश-गौरी पूरी पूजा में उपस्थित माने जाते हैं और अंत में सब देवताओं के साथ विदा किए जाते हैं।",
+        "en": "No. The [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) says plainly 'visarjanam tu karma-samaptyante' — the dismissal comes at the close of the whole rite. Ganesha and Gauri are regarded as present through the entire puja and are bid farewell with all the deities at the end.",
+        "bho": "ना। [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) साफ कहेला 'विसर्जनं तु कर्मसमाप्त्यन्ते' — बिसर्जन पूरा करम के समाप्ति पर होला। गणेश-गौरी पूरा पूजा में उपस्थित मानल जालन आ अंत में सब देवता संगे बिदा कइल जालन।"
+      }
+    },
+    {
+      "q": {
+        "hi": "पाँच उपचार और सोलह उपचार में क्या चुनें?",
+        "en": "Five upacharas or sixteen — which to choose?",
+        "bho": "पाँच उपचार आ सोरह उपचार में का चुनीं?"
+      },
+      "a": {
+        "hi": "समय और अवसर पर निर्भर है: बड़े संस्कार और हवन में षोडशोपचार, घर की छोटी पूजा और प्रतिदिन के पूजन में पंचोपचार (गंध, पुष्प, धूप, दीप, नैवेद्य)। [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) दोनों की छूट देती है — 'पंचोपचार या षोडशोपचार पूजन कर दें'।",
+        "en": "It depends on time and occasion: the sixteen for large samskaras and havans, the five (fragrant paste, flowers, incense, lamp, food) for a small home puja and daily worship. The [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) allows either — 'perform the panchopachara or the shodashopachara'.",
+        "bho": "समय आ अवसर पर निर्भर बा: बड़ संस्कार आ हवन में षोडशोपचार, घर के छोट पूजा आ रोज के पूजन में पंचोपचार (गंध, फूल, धूप, दीया, नैवेद्य)। [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) दुनो के छूट देला — पंचोपचार भा षोडशोपचार, जवन सुभीता होखे।"
+      }
+    }
+  ],
+  "sources": [
+    "ws-syv-23",
+    "ws-syv-31",
+    "ws-syv-12",
+    "ws-syv-01",
+    "ws-syv-03",
+    "ws-syv-02",
+    "ws-samskararatnamala-1-01",
+    "ia-vivah-mvf",
+    "ws-markandeya-81-85",
+    "ws-markandeya-91-93",
+    "ws-bphs-1",
+    "titus-vs"
+  ],
+  "tags": [
+    "foundations",
+    "ganesh",
+    "ambika",
+    "pujan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

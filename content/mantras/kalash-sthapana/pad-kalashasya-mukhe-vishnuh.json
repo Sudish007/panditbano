@@ -1,0 +1,174 @@
+{
+  "id": "pad-kalashasya-mukhe-vishnuh",
+  "kind": "paddhati",
+  "title": {
+    "hi": "कलशस्य मुखे विष्णुः (कलश-देवता ध्यान)",
+    "en": "Kalashasya mukhe vishnuh (the deities of the kalasha)",
+    "bho": "कलशस्य मुखे विष्णुः (कलश-देवता धियान)"
+  },
+  "devanagari": "कलशस्य मुखे विष्णुः कण्ठे रुद्रः समाश्रितः । मूले त्वस्य स्थितो ब्रह्मा मध्ये मातृगणाः स्मृताः ॥ कुक्षौ तु सागराः सर्वे सप्तद्वीपा वसुन्धरा । ऋग्वेदोऽथ यजुर्वेदः सामवेदो ह्यथर्वणः ॥ अङ्गैश्च सहिताः सर्वे कलशं तु समाश्रिताः । अत्र गायत्री सावित्री शान्तिः पुष्टिकरी तथा ॥ सर्वे समुद्राः सरितस्तीर्थानि जलदा नदाः । आयान्तु देवपूजार्थं दुरितक्षयकारकाः ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "कलशस्य मुखे विष्णुः",
+      "gloss": {
+        "hi": "कलश के मुख पर विष्णु",
+        "en": "at the mouth of the kalasha, Vishnu",
+        "bho": "कलश के मुँह पर विष्णु"
+      }
+    },
+    {
+      "sa": "कण्ठे रुद्रः समाश्रितः",
+      "gloss": {
+        "hi": "कंठ में रुद्र विराजे हैं",
+        "en": "at the neck Rudra abides",
+        "bho": "कंठ में रुद्र बिराजेलन"
+      }
+    },
+    {
+      "sa": "मूले तु अस्य स्थितः ब्रह्मा",
+      "gloss": {
+        "hi": "इसके मूल में ब्रह्मा",
+        "en": "at its base Brahma",
+        "bho": "एकर मूल में ब्रह्मा"
+      }
+    },
+    {
+      "sa": "मध्ये मातृगणाः स्मृताः",
+      "gloss": {
+        "hi": "मध्य में मातृगण माने गए हैं",
+        "en": "in the middle the Mothers are held to be",
+        "bho": "बीच में मातृगन मानल गइल बाड़ी"
+      }
+    },
+    {
+      "sa": "कुक्षौ तु सागराः सर्वे",
+      "gloss": {
+        "hi": "उदर में सब सागर",
+        "en": "in the belly all the oceans",
+        "bho": "पेट में सब सागर"
+      }
+    },
+    {
+      "sa": "सप्तद्वीपा वसुन्धरा",
+      "gloss": {
+        "hi": "सात द्वीपों वाली पृथ्वी",
+        "en": "the seven-continent earth",
+        "bho": "सात दीप वाली धरती"
+      }
+    },
+    {
+      "sa": "ऋग्वेदः अथ यजुर्वेदः सामवेदः हि अथर्वणः",
+      "gloss": {
+        "hi": "ऋग्वेद, यजुर्वेद, सामवेद और अथर्ववेद",
+        "en": "the Rig, Yajur, Sama and Atharva Vedas",
+        "bho": "ऋग्वेद, यजुर्वेद, सामवेद आ अथर्ववेद"
+      }
+    },
+    {
+      "sa": "अङ्गैः च सहिताः सर्वे",
+      "gloss": {
+        "hi": "अपने अंगों (शाखाओं) सहित सब",
+        "en": "all with their limbs (branches)",
+        "bho": "आपन अंग (साखा) सहित सब"
+      }
+    },
+    {
+      "sa": "कलशं तु समाश्रिताः",
+      "gloss": {
+        "hi": "कलश में आश्रित हैं",
+        "en": "rest in the kalasha",
+        "bho": "कलश में आस्रित बाड़न"
+      }
+    },
+    {
+      "sa": "अत्र गायत्री सावित्री",
+      "gloss": {
+        "hi": "यहाँ गायत्री, सावित्री",
+        "en": "here Gayatri, Savitri",
+        "bho": "इहाँ गायत्री, सावित्री"
+      }
+    },
+    {
+      "sa": "शान्तिः पुष्टिकरी तथा",
+      "gloss": {
+        "hi": "और शांति, पुष्टि देने वाली",
+        "en": "and Shanti, the giver of nourishment",
+        "bho": "आ शांति, पुष्टि देवे वाली"
+      }
+    },
+    {
+      "sa": "सर्वे समुद्राः सरितः तीर्थानि जलदाः नदाः",
+      "gloss": {
+        "hi": "सब समुद्र, नदियाँ, तीर्थ, मेघ और नद",
+        "en": "all the seas, rivers, holy waters, clouds and streams",
+        "bho": "सब समुंदर, नदी, तीरथ, मेघ आ नद"
+      }
+    },
+    {
+      "sa": "आयान्तु देवपूजार्थम्",
+      "gloss": {
+        "hi": "देव-पूजा के लिए आएँ",
+        "en": "may they come for the worship of the gods",
+        "bho": "देव-पूजा खातिर आवसु"
+      }
+    },
+    {
+      "sa": "दुरितक्षयकारकाः",
+      "gloss": {
+        "hi": "पाप का क्षय करने वाले",
+        "en": "destroyers of sin",
+        "bho": "पाप के छय करे वाला"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "कलश के मुख पर विष्णु, कंठ में रुद्र विराजे हैं; इसके मूल में ब्रह्मा और मध्य में मातृगण माने गए हैं। इसके उदर में सब सागर और सात द्वीपों वाली पृथ्वी हैं; ऋग्वेद, यजुर्वेद, सामवेद और अथर्ववेद अपने अंगों सहित सब कलश में आश्रित हैं। यहाँ गायत्री, सावित्री और पुष्टि देने वाली शांति हैं। सब समुद्र, नदियाँ, तीर्थ, मेघ और नद — पाप का क्षय करने वाले — देव-पूजा के लिए आएँ।",
+    "en": "At the mouth of the kalasha abides Vishnu, at its neck Rudra; at its base Brahma, and in the middle the Mothers are held to be. In its belly are all the oceans and the seven-continent earth; the Rig, Yajur, Sama and Atharva Vedas with all their branches rest in the kalasha. Here are Gayatri, Savitri and Shanti the giver of nourishment. May all the seas, rivers, holy waters, clouds and streams, destroyers of sin, come for the worship of the gods.",
+    "bho": "कलश के मुँह पर विष्णु, कंठ में रुद्र बिराजेलन; एकर मूल में ब्रह्मा आ बीच में मातृगन मानल गइल बाड़ी। एकर पेट में सब सागर आ सात दीप वाली धरती बाड़ी; ऋग्वेद, यजुर्वेद, सामवेद आ अथर्ववेद आपन अंग सहित सब कलश में आस्रित बाड़न। इहाँ गायत्री, सावित्री आ पुष्टि देवे वाली शांति बाड़ी। सब समुंदर, नदी, तीरथ, मेघ आ नद — पाप के छय करे वाला — देव-पूजा खातिर आवसु।"
+  },
+  "explanation": {
+    "hi": "[[kalash-sthapana]] का [[dhyan]]-पाठ: वरुण-आवाहन के बाद पंडित इन चार श्लोकों से कलश में सब देवताओं, वेदों और तीर्थों की उपस्थिति मानता है, फिर 'गंगे च यमुने' से नदियों का आवाहन करता है। यह पोथी-परंपरा का पाठ है, पुराणों में अनेक रूपों में मिलता है। मुख्य पाठ [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) का है (चौथे श्लोक का पूर्वार्ध 'सर्वे समुद्राः…' वहाँ छूटा है, जिसे [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) की प्रतीक 'कलशस्य मुखे विष्णुः० सर्वे समुद्राः० दुरितक्षयकारकाः' और विकिस्रोत की [आदिशंकराचार्य पूजाविधि](https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83) से पूरा किया है)। विकिस्रोत का दाक्षिणात्य पाठ कुछ पदों में अलग है — 'मूले तत्र', 'सामवेदोऽप्यथर्वणः', 'कलशांबु समाश्रिताः', 'गायत्री चात्र', 'आयांतु गुरुपूजार्थं' — वह विकल्प में दर्ज है।",
+    "en": "The dhyana text of the kalasha sthapana: after invoking Varuna the pandit uses these four verses to hold all the gods, the Vedas and the holy waters present in the kalasha, and then invokes the rivers with 'gange cha yamune'. It is a text of the handbook tradition, found in several forms in the Puranas. The main reading is that of the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) (the first half of the fourth verse, 'sarve samudrah…', is missing there and has been completed from the pratika 'kalashasya mukhe vishnuh … sarve samudrah … duritakshayakarakah' of the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) and from the [Adi Shankaracharya puja vidhi](https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83) on Wikisource). The southern reading on Wikisource differs in a few words — 'mule tatra', 'samavedo'py atharvanah', 'kalashambu samashritah', 'gayatri chatra', 'ayantu gurupujartham' — recorded as a variant.",
+    "bho": "[[kalash-sthapana]] के [[dhyan]]-पाठ: वरुन-आवाहन के बाद पंडित एह चार श्लोक से कलश में सब देवता, वेद आ तीरथ के उपस्थिति मानेलन, फेर 'गंगे च यमुने' से नदी सब के आवाहन करेलन। ई पोथी-परंपरा के पाठ बा, पुरान में कई रूप में मिलेला। मुख्य पाठ [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) के बा (चउथा श्लोक के पूर्वार्ध 'सर्वे समुद्राः…' ओहिजा छूटल बा, जेकरा [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) के प्रतीक 'कलशस्य मुखे विष्णुः० सर्वे समुद्राः० दुरितक्षयकारकाः' आ विकिस्रोत के [आदिशंकराचार्य पूजाविधि](https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83) से पूरा कइल गइल बा)। विकिस्रोत के दक्खिनी पाठ कुछ पद में अलगा बा — 'मूले तत्र', 'सामवेदोऽप्यथर्वणः', 'कलशाम्बु समाश्रिताः', 'गायत्री चात्र', 'आयान्तु गुरुपूजार्थं' — ऊ बिकल्प में दरज बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-vivah-mvf",
+    "retrieved": "2026-11-01",
+    "modified": "OCR of the 2020 handbook: रुद्र समाश्रिताः → रुद्रः समाश्रितः, मात्र-गणाः → मातृगणाः, सागरा → सागराः, वसुंधरा → वसुन्धरा, ऋग्वेदोथ → ऋग्वेदोऽथ, अंगैश्च सहिता → अङ्गैश्च सहिताः, कलशन्तु → कलशं तु, देव पूजार्थ → देवपूजार्थं; the first half of verse 4 (सर्वे समुद्राः सरितस्तीर्थानि जलदा नदाः) supplied from the Samskararatnamala pratika and the Wikisource puja-vidhi page"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "paddhati verses of the Madhyandina handbook tradition (also in the Puranas and in South Indian puja manuals); OCR of a 2020 handbook as the copy source, completed from Wikisource",
+  "tags": [
+    "kalash",
+    "dhyan",
+    "varuna"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ws-adishankara-pujavidhi",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ws-samskararatnamala-1-01",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "variants": [
+    {
+      "reading": "कलशस्य मुखे विष्णुः कण्ठे रुद्रः समाश्रितः । मूले तत्र स्थितो ब्रह्मा मध्ये मातृगणाः स्मृताः ॥ कुक्षौ तु सागराः सर्वे सप्तद्वीपा वसुन्धरा । ऋग्वेदोऽथ यजुर्वेदः सामवेदोऽप्यथर्वणः ॥ अङ्गैश्च सहिताः सर्वे कलशाम्बु समाश्रिताः । गायत्री चात्र सावित्री शान्तिः पुष्टिकरी तथा ॥ सर्वे समुद्राः सरितः तीर्थानि जलदा नदाः । आयान्तु गुरुपूजार्थं दुरितक्षयकारकाः ॥",
+      "note": {
+        "hi": "विकिस्रोत की [आदिशंकराचार्य पूजाविधि](https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83) का पाठ।",
+        "en": "Reading of the [Adi Shankaracharya puja vidhi](https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83) on Wikisource.",
+        "bho": "विकिस्रोत के [आदिशंकराचार्य पूजाविधि](https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83) के पाठ।"
+      },
+      "source": "ws-adishankara-pujavidhi"
+    }
+  ]
+}

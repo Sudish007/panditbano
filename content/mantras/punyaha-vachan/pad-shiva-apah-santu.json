@@ -1,0 +1,167 @@
+{
+  "id": "pad-shiva-apah-santu",
+  "kind": "paddhati",
+  "title": {
+    "hi": "शिवा आपः संतु (ब्राह्मण-पूजन के वाक्य)",
+    "en": "Shiva apah santu (the sentences of honouring the brahmanas)",
+    "bho": "शिवा आपः संतु (ब्राह्मन-पूजन के वाक्य)"
+  },
+  "devanagari": "शिवा आपः सन्तु । सौमनस्यमस्तु । अक्षतं चारिष्टं चास्तु । गन्धाः पान्तु । सौमङ्गल्यं चास्तु । अक्षताः पान्तु । आयुष्यमस्तु । पुष्पाणि पान्तु । सौश्रियमस्तु । ताम्बूलानि पान्तु । ऐश्वर्यमस्तु । दक्षिणाः पान्तु । बहुदेयं चास्तु । दीर्घमायुः श्रेयः शान्तिः पुष्टिस्तुष्टिश्चास्तु । श्रीर्यशो विद्या विनयो वित्तं बहुपुत्रं चायुष्यं चास्तु ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "शिवाः आपः सन्तु",
+      "gloss": {
+        "hi": "जल कल्याणकारी हों",
+        "en": "may the waters be kindly",
+        "bho": "जल कल्यानकारी होखे"
+      }
+    },
+    {
+      "sa": "सौमनस्यम् अस्तु",
+      "gloss": {
+        "hi": "मन की प्रसन्नता हो",
+        "en": "may there be good cheer",
+        "bho": "मन के खुसी होखे"
+      }
+    },
+    {
+      "sa": "अक्षतं च अरिष्टं च अस्तु",
+      "gloss": {
+        "hi": "अखंडता और निर्विघ्नता हो",
+        "en": "may there be wholeness and freedom from harm",
+        "bho": "अखंडता आ निर्बिघनता होखे"
+      }
+    },
+    {
+      "sa": "गन्धाः पान्तु",
+      "gloss": {
+        "hi": "गंध रक्षा करें",
+        "en": "may the fragrances protect",
+        "bho": "गंध रच्छा करे"
+      }
+    },
+    {
+      "sa": "सौमङ्गल्यं च अस्तु",
+      "gloss": {
+        "hi": "सौभाग्य हो",
+        "en": "may there be good fortune",
+        "bho": "सौभाग्य होखे"
+      }
+    },
+    {
+      "sa": "अक्षताः पान्तु",
+      "gloss": {
+        "hi": "अक्षत रक्षा करें",
+        "en": "may the rice protect",
+        "bho": "अछत रच्छा करे"
+      }
+    },
+    {
+      "sa": "आयुष्यम् अस्तु",
+      "gloss": {
+        "hi": "दीर्घायु हो",
+        "en": "may there be long life",
+        "bho": "लमहर उमिर होखे"
+      }
+    },
+    {
+      "sa": "पुष्पाणि पान्तु",
+      "gloss": {
+        "hi": "फूल रक्षा करें",
+        "en": "may the flowers protect",
+        "bho": "फूल रच्छा करे"
+      }
+    },
+    {
+      "sa": "सौश्रियम् अस्तु",
+      "gloss": {
+        "hi": "सुंदर श्री हो",
+        "en": "may there be good fortune and beauty",
+        "bho": "नीक श्री होखे"
+      }
+    },
+    {
+      "sa": "ताम्बूलानि पान्तु",
+      "gloss": {
+        "hi": "तांबूल रक्षा करें",
+        "en": "may the betel protect",
+        "bho": "तांबूल रच्छा करे"
+      }
+    },
+    {
+      "sa": "ऐश्वर्यम् अस्तु",
+      "gloss": {
+        "hi": "ऐश्वर्य हो",
+        "en": "may there be lordship",
+        "bho": "ऐस्वर्य होखे"
+      }
+    },
+    {
+      "sa": "दक्षिणाः पान्तु",
+      "gloss": {
+        "hi": "दक्षिणाएँ रक्षा करें",
+        "en": "may the gifts protect",
+        "bho": "दक्षिणा रच्छा करे"
+      }
+    },
+    {
+      "sa": "बहुदेयं च अस्तु",
+      "gloss": {
+        "hi": "और बहुत देने की सामर्थ्य हो",
+        "en": "and may there be much to give",
+        "bho": "आ ढेर देवे के सामरथ होखे"
+      }
+    },
+    {
+      "sa": "दीर्घम् आयुः श्रेयः शान्तिः पुष्टिः तुष्टिः च अस्तु",
+      "gloss": {
+        "hi": "दीर्घ आयु, श्रेय, शांति, पुष्टि और तुष्टि हो",
+        "en": "may there be long life, welfare, peace, nourishment and contentment",
+        "bho": "लमहर उमिर, श्रेय, शांति, पुष्टि आ तुष्टि होखे"
+      }
+    },
+    {
+      "sa": "श्रीः यशः विद्या विनयः वित्तं बहुपुत्रं च आयुष्यं च अस्तु",
+      "gloss": {
+        "hi": "श्री, यश, विद्या, विनय, धन, बहुत संतान और आयु हो",
+        "en": "may there be fortune, fame, learning, humility, wealth, many children and long life",
+        "bho": "श्री, जस, बिद्या, बिनय, धन, ढेर संतान आ उमिर होखे"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "जल कल्याणकारी हों; मन प्रसन्न हो; अखंडता और निर्विघ्नता हो। गंध रक्षा करें, सौभाग्य हो; अक्षत रक्षा करें, दीर्घायु हो; फूल रक्षा करें, श्री हो; तांबूल रक्षा करें, ऐश्वर्य हो; दक्षिणाएँ रक्षा करें और बहुत देने की सामर्थ्य हो। दीर्घ आयु, श्रेय, शांति, पुष्टि और तुष्टि हो; श्री, यश, विद्या, विनय, धन, बहुत संतान और आयु हो।",
+    "en": "May the waters be kindly; may there be good cheer; may there be wholeness and freedom from harm. May the fragrances protect — may there be good fortune; may the rice protect — long life; may the flowers protect — fortune and beauty; may the betel protect — lordship; may the gifts protect, and may there be much to give. May there be long life, welfare, peace, nourishment and contentment; fortune, fame, learning, humility, wealth, many children and long life.",
+    "bho": "जल कल्यानकारी होखे; मन खुस होखे; अखंडता आ निर्बिघनता होखे। गंध रच्छा करे, सौभाग्य होखे; अछत रच्छा करे, लमहर उमिर होखे; फूल रच्छा करे, श्री होखे; तांबूल रच्छा करे, ऐस्वर्य होखे; दक्षिणा रच्छा करे आ ढेर देवे के सामरथ होखे। लमहर उमिर, श्रेय, शांति, पुष्टि आ तुष्टि होखे; श्री, जस, बिद्या, बिनय, धन, ढेर संतान आ उमिर होखे।"
+  },
+  "explanation": {
+    "hi": "[[punyahavachan]] का पहला भाग: यजमान ब्राह्मणों के हाथ में जल, गंध, अक्षत, फूल, तांबूल और दक्षिणा देता है और हर वस्तु के साथ ये वाक्य बोलता है; ब्राह्मण 'पांतु', 'अस्तु' कहकर उत्तर देते हैं। यह बौधायन का प्रयोग है, जिसे [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 'सकलशिष्टपरिगृहीत' (सब शिष्टों का माना हुआ) प्रयोग कहकर देती है; मूल सूत्र [बौधायन गृह्यशेषसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AC%E0%A5%8C%E0%A4%A7%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D/%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%A8%E0%A4%83_%E0%A5%A7) 1.10 में है। हिंदी-पट्टी की पोथियाँ इन्हीं वाक्यों को छोटे रूप में रखती हैं।",
+    "en": "The first part of the punyaha-vachana: the host places water, fragrant paste, rice, flowers, betel and dakshina in the hands of the brahmanas, saying these sentences with each item; the brahmanas answer 'pantu', 'astu'. This is Baudhayana's procedure, which the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) gives as the procedure 'accepted by all the learned'; the sutra itself is in the [Baudhayana Grihyashesha-sutra](https://sa.wikisource.org/wiki/%E0%A4%AC%E0%A5%8C%E0%A4%A7%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D/%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%A8%E0%A4%83_%E0%A5%A7) 1.10. The Hindi-belt handbooks keep these sentences in a shorter form.",
+    "bho": "[[punyahavachan]] के पहिला भाग: जजमान ब्राह्मन लोग के हाथ में जल, गंध, अछत, फूल, तांबूल आ दक्षिणा देला आ हर चीज संगे ई वाक्य बोलेला; ब्राह्मन लोग 'पान्तु', 'अस्तु' कह के जवाब देलन। ई बौधायन के प्रयोग बा, जेकरा [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 'सकलशिष्टपरिगृहीत' (सब सिष्ट लोग के मानल) प्रयोग कह के देला; मूल सूत्र [बौधायन गृह्यशेषसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AC%E0%A5%8C%E0%A4%A7%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D/%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%A8%E0%A4%83_%E0%A5%A7) 1.10 में बा। हिंदी-पट्टी के पोथी एही वाक्य के छोट रूप में राखेला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-samskararatnamala-1-01",
+    "retrieved": "2026-11-01",
+    "modified": "the digest's commas between sentences set as ।; final ॥ added; nothing else changed"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "pre-modern paddhati text as given in the Samskararatnamala (Gopinatha Bhatta Dikshita, 17th–18th c.); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "punyaha",
+    "brahman-pujan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "locator": "bhaga 1, prakarana 1 (punyahavachana-prayoga)",
+  "checkedAgainst": [
+    {
+      "ref": "ws-baudhayana-gs-shesha-1",
+      "retrieved": "2026-11-01"
+    }
+  ]
+}

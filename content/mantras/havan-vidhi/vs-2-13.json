@@ -1,0 +1,157 @@
+{
+  "id": "vs-2-13",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 2.13",
+  "title": {
+    "hi": "प्रतिष्ठा-मंत्र — मनो जूतिर्जुषताम्",
+    "en": "Mano jutir jushatam (the pratishtha mantra)",
+    "bho": "प्रतिष्ठा-मंत्र — मनो जूतिर्जुषताम्"
+  },
+  "devanagari": "मनो॑ जू॒तिर्जु॑षता॒माज्य॑स्य॒ बृह॒स्पति॑र्य॒ज्ञमि॒मं त॑नोत्वरि॑ष्टं य॒ज्ञᳪं᳭ समि॒मं द॑धातु । विश्वे॑दे॒वास॑ इ॒ह मा॑दयन्ता॒मो३म्प्रति॑ष्ठ ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "मनः",
+      "gloss": {
+        "hi": "मन",
+        "en": "the mind",
+        "bho": "मन"
+      }
+    },
+    {
+      "sa": "जूतिः",
+      "gloss": {
+        "hi": "वेगवान्, प्रेरित",
+        "en": "swift, impelled",
+        "bho": "फुरतीला, प्रेरित"
+      }
+    },
+    {
+      "sa": "जुषताम्",
+      "gloss": {
+        "hi": "प्रसन्नता से स्वीकार करे",
+        "en": "may it relish, accept",
+        "bho": "खुसी से स्वीकार करे"
+      }
+    },
+    {
+      "sa": "आज्यस्य",
+      "gloss": {
+        "hi": "घी (आज्य) को",
+        "en": "the ghee (ajya)",
+        "bho": "घी (आज्य) के"
+      }
+    },
+    {
+      "sa": "बृहस्पतिः",
+      "gloss": {
+        "hi": "बृहस्पति (देवगुरु, पवित्र वाणी के अधिपति)",
+        "en": "Brihaspati, lord of the sacred word",
+        "bho": "बृहस्पति (देवगुरु, पवित्र बोली के मालिक)"
+      }
+    },
+    {
+      "sa": "यज्ञम् इमम्",
+      "gloss": {
+        "hi": "इस यज्ञ को",
+        "en": "this yajna",
+        "bho": "एह यज्ञ के"
+      }
+    },
+    {
+      "sa": "तनोतु",
+      "gloss": {
+        "hi": "विस्तार दे, पूरा करे",
+        "en": "may he extend, carry through",
+        "bho": "बढ़ावसु, पूरा करसु"
+      }
+    },
+    {
+      "sa": "अरिष्टम्",
+      "gloss": {
+        "hi": "बिना विघ्न, अखंड",
+        "en": "unharmed, unbroken",
+        "bho": "बिना बिघन, अखंड"
+      }
+    },
+    {
+      "sa": "सम् दधातु",
+      "gloss": {
+        "hi": "पूरा करके स्थापित करे",
+        "en": "may he establish whole",
+        "bho": "पूरा कर के थिर करसु"
+      }
+    },
+    {
+      "sa": "विश्वे देवासः",
+      "gloss": {
+        "hi": "सब देवता",
+        "en": "all the gods",
+        "bho": "सब देवता"
+      }
+    },
+    {
+      "sa": "इह",
+      "gloss": {
+        "hi": "यहाँ (इस कर्म में)",
+        "en": "here, in this rite",
+        "bho": "इहाँ (एह काम में)"
+      }
+    },
+    {
+      "sa": "मादयन्ताम्",
+      "gloss": {
+        "hi": "आनंदित हों",
+        "en": "may they rejoice",
+        "bho": "आनंदित होखसु"
+      }
+    },
+    {
+      "sa": "ओ३म् प्रतिष्ठ",
+      "gloss": {
+        "hi": "ॐ — प्रतिष्ठित हो, स्थिर हो",
+        "en": "Om — be established, stand firm",
+        "bho": "ॐ — प्रतिष्ठित होखीं, थिर होखीं"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "मन घी (आज्य) को प्रसन्नता से स्वीकार करे; बृहस्पति इस यज्ञ को विस्तार दें और इसे बिना विघ्न पूरा करके स्थापित करें; सब देवता यहाँ आनंदित हों। ॐ — प्रतिष्ठित हो।",
+    "en": "May the swift mind relish the ghee; may Brihaspati extend this yajna and establish it whole and unharmed; may all the gods rejoice here. Om — be established.",
+    "bho": "मन घी (आज्य) के खुसी से स्वीकार करे; बृहस्पति एह यज्ञ के बढ़ावसु आ एकरा बिना बिघन पूरा कर के थिर करसु; सब देवता इहाँ आनंदित होखसु। ॐ — प्रतिष्ठित होखीं।"
+  },
+  "explanation": {
+    "hi": "शुक्ल यजुर्वेद के दूसरे अध्याय (2.13) का यह यजुस् मूलतः दर्शपूर्णमास इष्टि में इडा-भक्षण के बाद यज्ञ को फिर से जोड़ने का मंत्र है — उवट और महीधर दोनों \"प्रतिष्ठ\" को \"प्रकर्षेण तिष्ठ\" (दृढ़ता से स्थित हो) समझाते हैं। इसके अंतिम शब्द \"ओ३म् प्रतिष्ठ\" के कारण पद्धतियों ने इसे हर प्रतिष्ठा का मंत्र बना लिया: [[kalash]], मातृका-मंडल, [[navagraha]], प्रतिमा और [[havan]] की अग्नि — सबकी स्थापना के बाद [[purohit]] अक्षत छोड़ते हुए यही पढ़ता है। हवन में [[agni-sthapana]] के बाद कुंड में रखी अग्नि पर अक्षत छोड़ते हुए इसे पढ़ा जाता है; उसके बाद अग्नि का ध्यान और [[panchopachar]] पूजन होता है। ध्यान दें कि मंत्र के बीच का \"ओ३म्\" प्लुत (तीन मात्रा लंबा) है — पोथियों में इसे \"ओ३म्\" या \"ओम्\" दोनों तरह लिखा मिलता है।",
+    "en": "This yajus of the second adhyaya of the Shukla Yajurveda (2.13) is, in its original setting, the mantra that joins the sacrifice together again in the new- and full-moon ishti after the ida has been eaten; Uvata and Mahidhara both gloss \"pratishtha\" as \"stand firmly\". Because of its closing words \"om pratishtha\" the handbooks made it the mantra of every pratishtha: the kalasha, the matrika diagram, the navagraha, an image and the fire of the havan are all \"established\" with it, the purohit dropping rice grains as he recites. In the havan it is recited over the fire just placed in the kund; the meditation on Agni and the five-fold worship follow. Note that the \"om\" inside the mantra is pluta, held for three measures — the handbooks print it either as \"o3m\" or plainly as \"om\".",
+    "bho": "शुक्ल यजुर्वेद के दोसरा अध्याय (2.13) के ई यजुस् असल में दर्शपूर्णमास इष्टि में इडा-भक्षन के बाद यज्ञ के फेर से जोड़े वाला मंत्र बा — उवट आ महीधर दुनो \"प्रतिष्ठ\" के \"प्रकर्षेण तिष्ठ\" (मजबूती से थिर होखीं) बतावेलन। एकर आखिरी सब्द \"ओ३म् प्रतिष्ठ\" के कारन पद्धति में ई हर प्रतिष्ठा के मंत्र बन गइल: [[kalash]], मातृका-मंडल, [[navagraha]], प्रतिमा आ [[havan]] के आगि — सब के स्थापना के बाद [[purohit]] अछत छोड़त इहे पढ़ेलन। हवन में [[agni-sthapana]] के बाद कुंड में राखल आगि पर अछत छोड़त एकरा पढ़ल जाला; ओकरा बाद अग्नि के ध्यान आ [[panchopachar]] पूजन होला। धियान दीं कि मंत्र के बीच के \"ओ३म्\" प्लुत (तीन मात्रा लमहर) बा — पोथी में एकरा \"ओ३म्\" भा \"ओम्\" दुनो तरह लिखल मिलेला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-02",
+    "retrieved": "2026-11-01",
+    "modified": "।। n ।। → ॥ and the verse number removed; line breaks removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "havan",
+    "pratishtha",
+    "agni-sthapana"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

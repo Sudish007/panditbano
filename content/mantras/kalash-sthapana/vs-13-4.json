@@ -1,0 +1,113 @@
+{
+  "id": "vs-13-4",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 13.4",
+  "title": {
+    "hi": "हिरण्यगर्भः समवर्तताग्रे (द्रव्य)",
+    "en": "Hiranyagarbhah sam avartatagre (the coin)",
+    "bho": "हिरण्यगर्भः समवर्तताग्रे (द्रव्य)"
+  },
+  "devanagari": "हि॒र॒ण्य॒ग॒र्भः सम॑वर्त॒ताग्रे॑ भू॒तस्य॑ जा॒तः पति॒रेक॑ आसीत् । स दा॑धार पृथि॒वीं द्यामु॒तेमां कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "हिरण्यगर्भः",
+      "gloss": {
+        "hi": "हिरण्यगर्भ (सोने के गर्भ वाला प्रजापति)",
+        "en": "Hiranyagarbha (the golden germ)",
+        "bho": "हिरण्यगर्भ (सोना के गरभ वाला प्रजापति)"
+      }
+    },
+    {
+      "sa": "समवर्तत अग्रे",
+      "gloss": {
+        "hi": "आरंभ में प्रकट हुआ",
+        "en": "arose in the beginning",
+        "bho": "सुरुआत में परगट भइल"
+      }
+    },
+    {
+      "sa": "भूतस्य जातः",
+      "gloss": {
+        "hi": "सृष्टि का जन्मा हुआ",
+        "en": "born of all that is",
+        "bho": "सृष्टि के जनमल"
+      }
+    },
+    {
+      "sa": "पतिः एकः आसीत्",
+      "gloss": {
+        "hi": "एक ही स्वामी था",
+        "en": "was the one lord",
+        "bho": "एके मालिक रहलन"
+      }
+    },
+    {
+      "sa": "सः दाधार",
+      "gloss": {
+        "hi": "उसने धारण किया",
+        "en": "he upheld",
+        "bho": "ऊ धारन कइलन"
+      }
+    },
+    {
+      "sa": "पृथिवीं द्याम् उत इमाम्",
+      "gloss": {
+        "hi": "पृथिवी और इस आकाश को",
+        "en": "the earth and this sky",
+        "bho": "पृथिवी आ ई अकास के"
+      }
+    },
+    {
+      "sa": "कस्मै देवाय",
+      "gloss": {
+        "hi": "किस (क = प्रजापति) देव को",
+        "en": "to which god (Ka, Prajapati)",
+        "bho": "कवन (क = प्रजापति) देव के"
+      }
+    },
+    {
+      "sa": "हविषा विधेम",
+      "gloss": {
+        "hi": "हवि से पूजें",
+        "en": "shall we serve with the offering",
+        "bho": "हवि से पूजीं"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "आरंभ में हिरण्यगर्भ प्रकट हुआ; सृष्टि का जन्मा हुआ वह एक ही स्वामी था। उसने पृथिवी और इस आकाश को धारण किया। उस 'क' (प्रजापति) देव को हम हवि से पूजें।",
+    "en": "In the beginning Hiranyagarbha arose; born of all that is, he was the one lord. He upheld the earth and this sky. Which god (Ka, Prajapati) shall we serve with the offering?",
+    "bho": "सुरुआत में हिरण्यगर्भ परगट भइल; सृष्टि के जनमल ऊ एके मालिक रहलन। ऊ पृथिवी आ ई अकास के धारन कइलन। ओह 'क' (प्रजापति) देव के हमनी हवि से पूजीं।"
+  },
+  "explanation": {
+    "hi": "ऋग्वेद 10.121.1 का प्रसिद्ध हिरण्यगर्भ-सूक्त, जो [[yajurved]] के तेरहवें अध्याय में VS 13.4 के रूप में है (VS 23.1 और 25.10 में भी आता है)। 'हिरण्य' (सोना) शब्द के कारण पोथियाँ इसे कलश में सिक्का या [[dakshina]]-द्रव्य डालते समय पढ़ती हैं, और [[shodashopachar]] में दक्षिणा चढ़ाने का मंत्र भी यही है। [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) हिरण्य-प्रक्षेप के लिए 'अग्नेरेतश्चंद्रम्' देती है — पोथी-भेद।",
+    "en": "The famous Hiranyagarbha verse, Rigveda 10.121.1, carried by the Yajurveda as VS 13.4 (it recurs at VS 23.1 and 25.10). Because of the word 'hiranya' (gold) the handbooks recite it while dropping a coin or the dakshina money into the kalasha, and it is also the mantra for offering dakshina in the shodashopachara. The [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) gives 'agner etash chandram' for the gold — a difference between handbooks.",
+    "bho": "ऋग्वेद 10.121.1 के परसिद्ध हिरण्यगर्भ-सूक्त, जे [[yajurved]] के तेरहवाँ अध्याय में VS 13.4 के रूप में बा (VS 23.1 आ 25.10 में भी आवेला)। 'हिरण्य' (सोना) शब्द के कारन पोथी एकरा कलश में सिक्का भा [[dakshina]]-द्रव्य डालत घरी पढ़ेला, आ [[shodashopachar]] में दक्षिणा चढ़ावे के मंत्र भी इहे बा। [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) हिरण्य-प्रक्षेप खातिर 'अग्नेरेतश्चन्द्रम्' देला — पोथी-भेद।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-13",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "kalash",
+    "hiranya",
+    "dakshina"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "vs-11-40",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 11.40",
+  "title": {
+    "hi": "सुजातो ज्योतिषा सह (सूत्र-मौली)",
+    "en": "Sujato jyotisha saha (the thread)",
+    "bho": "सुजातो ज्योतिषा सह (सूत-मौली)"
+  },
+  "devanagari": "सुजा॑तो॒ ज्योति॑षा स॒ह शर्म॒ वरू॑थ॒माऽस॑द॒त्स्वः॑ । वासो॑ अग्ने वि॒श्वरू॑प॒ᳪं᳭ सं व्य॑यस्व विभावसो ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "सुजातः",
+      "gloss": {
+        "hi": "सुंदर जन्मा",
+        "en": "well-born",
+        "bho": "सुंदर जनमल"
+      }
+    },
+    {
+      "sa": "ज्योतिषा सह",
+      "gloss": {
+        "hi": "ज्योति के साथ",
+        "en": "with light",
+        "bho": "ज्योति संगे"
+      }
+    },
+    {
+      "sa": "शर्म वरूथम्",
+      "gloss": {
+        "hi": "सुख देने वाले आश्रय (वस्त्र) को",
+        "en": "the sheltering cover",
+        "bho": "सुख देवे वाला आसरा (बस्तर) के"
+      }
+    },
+    {
+      "sa": "आसदत् स्वः",
+      "gloss": {
+        "hi": "स्व (प्रकाश) में बैठा",
+        "en": "has settled in the light",
+        "bho": "स्व (अँजोर) में बइठल"
+      }
+    },
+    {
+      "sa": "वासः अग्ने",
+      "gloss": {
+        "hi": "हे अग्नि, वस्त्र",
+        "en": "O Agni, the garment",
+        "bho": "हे अग्नि, बस्तर"
+      }
+    },
+    {
+      "sa": "विश्वरूपम्",
+      "gloss": {
+        "hi": "सब रूपों वाला",
+        "en": "of every form",
+        "bho": "सब रूप वाला"
+      }
+    },
+    {
+      "sa": "संव्ययस्व",
+      "gloss": {
+        "hi": "पहन (लपेट)",
+        "en": "put on (wrap around)",
+        "bho": "पहिर (लपेट)"
+      }
+    },
+    {
+      "sa": "विभावसो",
+      "gloss": {
+        "hi": "हे प्रकाशरूप धन वाले",
+        "en": "O you whose wealth is light",
+        "bho": "हे अँजोर-रूप धन वाला"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "सुंदर जन्मा (अग्नि) ज्योति के साथ सुखदायी आश्रय में, प्रकाश में बैठा है। हे प्रकाश-धन अग्नि, सब रूपों वाला वस्त्र पहन।",
+    "en": "Well-born, together with light, (Agni) has settled in the sheltering cover, in the light. O Agni whose wealth is light, put on the garment of every form.",
+    "bho": "सुंदर जनमल (अग्नि) ज्योति संगे सुखदायी आसरा में, अँजोर में बइठल बा। हे अँजोर-धन अग्नि, सब रूप वाला बस्तर पहिर।"
+  },
+  "explanation": {
+    "hi": "[[yajurved]] के ग्यारहवें अध्याय (अग्निचयन, उखा-प्रकरण) का मंत्र, जिसमें अग्नि को वस्त्र पहनने के लिए कहा गया है। 'वासः … संव्ययस्व' के कारण पोथियाँ इसे कलश के कंठ में मौली-सूत्र या वस्त्र लपेटते समय पढ़ती हैं — [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) 'कलश में मौली लपेट दें' लिखती है। [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) कलश-वेष्टन के लिए 'युवा सुवासाः' (ऋग्वेद 3.8.4) देती है।",
+    "en": "A mantra of the eleventh adhyaya of the Yajurveda (fire-altar, the ukha section), bidding Agni put on a garment. Because of 'vasah … samvyayasva' the handbooks recite it while wrapping the red thread (mauli) or a cloth round the neck of the kalasha — the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) says 'wrap the mauli round the kalasha'. The [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) gives 'yuva suvasah' (Rigveda 3.8.4) for wrapping the kalasha.",
+    "bho": "[[yajurved]] के एगारहवाँ अध्याय (अग्निचयन, उखा-प्रकरन) के मंत्र, जेह में अग्नि के बस्तर पहिरे खातिर कहल गइल बा। 'वासः … संव्ययस्व' के कारन पोथी एकरा कलश के कंठ में मौली-सूत भा बस्तर लपेटत घरी पढ़ेला — [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) 'कलश में मौली लपेट दें' लिखेला। [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) कलश-वेष्टन खातिर 'युवा सुवासाः' (ऋग्वेद 3.8.4) देला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-11",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "kalash",
+    "sutra",
+    "vastra"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

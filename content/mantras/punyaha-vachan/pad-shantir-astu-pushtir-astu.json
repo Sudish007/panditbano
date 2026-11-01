@@ -1,0 +1,255 @@
+{
+  "id": "pad-shantir-astu-pushtir-astu",
+  "kind": "paddhati",
+  "title": {
+    "hi": "शांतिरस्तु पुष्टिरस्तु (इकहत्तर आशीर्वाक्य)",
+    "en": "Shantir astu pushtir astu (the seventy-one blessings)",
+    "bho": "शांतिरस्तु पुष्टिरस्तु (एकहत्तर असीस-वाक्य)"
+  },
+  "devanagari": "शान्तिरस्तु । पुष्टिरस्तु । तुष्टिरस्तु । वृद्धिरस्तु । अविघ्नमस्तु । आयुष्यमस्तु । आरोग्यमस्तु । शिवं कर्मास्तु । कर्मसमृद्धिरस्तु । धर्मसमृद्धिरस्तु । वेदसमृद्धिरस्तु । शास्त्रसमृद्धिरस्तु । पुत्रसमृद्धिरस्तु । धनधान्यसमृद्धिरस्तु । इष्टसंपदस्तु । अरिष्टनिरसनमस्तु । यत्पापं तत्प्रतिहतमस्तु । यच्छ्रेयस्तदस्तु । उत्तरे कर्मण्यविघ्नमस्तु । उत्तरोत्तरमहरहरभिवृद्धिरस्तु । उत्तरोत्तराः क्रियाः शुभाः शोभनाः संपद्यन्ताम् । तिथिकरणमुहूर्तनक्षत्रसंपदस्तु । तिथिकरणमुहूर्तनक्षत्रग्रहलग्नाधिदेवताः प्रीयन्ताम् । तिथिकरणे मुहूर्तनक्षत्रे सग्रहे सदैवते प्रीयेताम् । दुर्गापाञ्चाल्यौ प्रीयेताम् । अग्निपुरोगा विश्वे देवाः प्रीयन्ताम् । इन्द्रपुरोगा मरुद्गणाः प्रीयन्ताम् । ब्रह्मपुरोगाः सर्वे वेदाः प्रीयन्ताम् । विष्णुपुरोगाः सर्वे देवाः प्रीयन्ताम् । माहेश्वरीपुरोगा उमामातरः प्रीयन्ताम् । वसिष्ठपुरोगा ऋषिगणाः प्रीयन्ताम् । अरुन्धतीपुरोगा एकपत्न्यः प्रीयन्ताम् । ऋषयश्छन्दांस्याचार्या देवा वेदा यज्ञाश्च प्रीयन्ताम् । ब्रह्म च ब्राह्मणाश्च प्रीयन्ताम् । श्रीसरस्वत्यौ प्रीयेताम् । श्रद्धामेधे प्रीयेताम् । भगवती कात्यायनी प्रीयताम् । भगवती माहेश्वरी प्रीयताम् । भगवती पुष्टिकरी प्रीयताम् । भगवती तुष्टिकरी प्रीयताम् । भगवती ऋद्धिकरी प्रीयताम् । भगवती वृद्धिकरी प्रीयताम् । भगवन्तौ विघ्नविनायकौ प्रीयेताम् । भगवान्स्वामी महादेवो महासेनः सपत्नीकः ससुतः सपार्षदः सर्वस्थानगतः प्रीयताम् । हरिहरहिरण्यगर्भाः प्रीयन्ताम् । सर्वा ग्रामदेवताः प्रीयन्ताम् । सर्वाः कुलदेवताः प्रीयन्ताम् । सर्वा इष्टदेवताः प्रीयन्ताम् । हता ब्रह्मद्विषः । हताः परिपन्थिनः । हता अस्य कर्मणो विघ्नकर्तारः । शत्रवः पराभवं यान्तु । शाम्यन्तु घोराणि । शाम्यन्तु पापानि । शाम्यन्त्वीतयः । शुभानि वर्धन्ताम् । शिवा आपः सन्तु । शिवा ऋतवः सन्तु । शिवा अग्नयः सन्तु । शिवा आहुतयः सन्तु । शिवा ओषधयः सन्तु । शिवा वनस्पतयः सन्तु । शिवा अतिथयः सन्तु । अहोरात्रे शिवे स्याताम् । निकामे निकामे नः पर्जन्यो वर्षतु । फलिन्यो न ओषधयः पच्यन्ताम् । योगक्षेमो नः कल्पताम् । आदित्यपुरोगाः सर्वे ग्रहाः प्रीयन्ताम् । भगवान्नारायणः प्रीयताम् । भगवान्पर्जन्यः प्रीयताम् । भगवान्स्वामी महासेनः प्रीयताम् ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "शान्तिः अस्तु",
+      "gloss": {
+        "hi": "शांति हो",
+        "en": "may there be peace",
+        "bho": "शांति होखे"
+      }
+    },
+    {
+      "sa": "पुष्टिः अस्तु",
+      "gloss": {
+        "hi": "पुष्टि हो",
+        "en": "may there be nourishment",
+        "bho": "पुष्टि होखे"
+      }
+    },
+    {
+      "sa": "तुष्टिः अस्तु",
+      "gloss": {
+        "hi": "तुष्टि हो",
+        "en": "may there be contentment",
+        "bho": "तुष्टि होखे"
+      }
+    },
+    {
+      "sa": "वृद्धिः अस्तु",
+      "gloss": {
+        "hi": "वृद्धि हो",
+        "en": "may there be growth",
+        "bho": "बढ़ंती होखे"
+      }
+    },
+    {
+      "sa": "अविघ्नम् अस्तु",
+      "gloss": {
+        "hi": "विघ्न न हो",
+        "en": "may there be no obstacle",
+        "bho": "बिघन ना होखे"
+      }
+    },
+    {
+      "sa": "आयुष्यम् अस्तु",
+      "gloss": {
+        "hi": "आयु हो",
+        "en": "may there be long life",
+        "bho": "उमिर होखे"
+      }
+    },
+    {
+      "sa": "आरोग्यम् अस्तु",
+      "gloss": {
+        "hi": "नीरोगता हो",
+        "en": "may there be freedom from illness",
+        "bho": "निरोगता होखे"
+      }
+    },
+    {
+      "sa": "शिवं कर्म अस्तु",
+      "gloss": {
+        "hi": "कर्म मंगलमय हो",
+        "en": "may the rite be auspicious",
+        "bho": "करम मंगलमय होखे"
+      }
+    },
+    {
+      "sa": "कर्मसमृद्धिः अस्तु",
+      "gloss": {
+        "hi": "कर्म की समृद्धि हो",
+        "en": "may the rite prosper",
+        "bho": "करम के समृद्धि होखे"
+      }
+    },
+    {
+      "sa": "इष्टसंपत् अस्तु",
+      "gloss": {
+        "hi": "इष्ट संपत्ति हो",
+        "en": "may wished-for wealth come",
+        "bho": "इष्ट संपत्ति होखे"
+      }
+    },
+    {
+      "sa": "यत् पापं तत् प्रतिहतम् अस्तु",
+      "gloss": {
+        "hi": "जो पाप है वह नष्ट हो",
+        "en": "whatever sin there is, may it be struck down",
+        "bho": "जे पाप बा ऊ नास होखे"
+      }
+    },
+    {
+      "sa": "यत् श्रेयः तत् अस्तु",
+      "gloss": {
+        "hi": "जो श्रेय है वह हो",
+        "en": "whatever is good, may that be",
+        "bho": "जे श्रेय बा ऊ होखे"
+      }
+    },
+    {
+      "sa": "उत्तरे कर्मणि अविघ्नम् अस्तु",
+      "gloss": {
+        "hi": "आगे के कर्म में विघ्न न हो",
+        "en": "may the following rite be unhindered",
+        "bho": "आगे के करम में बिघन ना होखे"
+      }
+    },
+    {
+      "sa": "उत्तरोत्तराः क्रियाः शुभाः शोभनाः संपद्यन्ताम्",
+      "gloss": {
+        "hi": "आगे की क्रियाएँ शुभ और सुंदर रूप में पूरी हों",
+        "en": "may each following act be accomplished auspiciously and well",
+        "bho": "आगे के किरिया सुभ आ सुंदर रूप में पूरा होखे"
+      }
+    },
+    {
+      "sa": "तिथिकरणमुहूर्तनक्षत्रग्रहलग्नाधिदेवताः प्रीयन्ताम्",
+      "gloss": {
+        "hi": "तिथि, करण, मुहूर्त, नक्षत्र, ग्रह और लग्न के अधिदेवता प्रसन्न हों",
+        "en": "may the deities of the tithi, karana, muhurta, nakshatra, planets and lagna be pleased",
+        "bho": "तिथि, करन, मुहूरत, नक्षत्र, ग्रह आ लगन के अधिदेवता परसन्न होखसु"
+      }
+    },
+    {
+      "sa": "अग्निपुरोगाः विश्वे देवाः प्रीयन्ताम्",
+      "gloss": {
+        "hi": "अग्नि के नेतृत्व में सब देव प्रसन्न हों",
+        "en": "may all the gods led by Agni be pleased",
+        "bho": "अग्नि के अगुआई में सब देवता परसन्न होखसु"
+      }
+    },
+    {
+      "sa": "ब्रह्म च ब्राह्मणाः च प्रीयन्ताम्",
+      "gloss": {
+        "hi": "वेद और ब्राह्मण प्रसन्न हों",
+        "en": "may the Veda and the brahmanas be pleased",
+        "bho": "वेद आ ब्राह्मन लोग परसन्न होखसु"
+      }
+    },
+    {
+      "sa": "भगवन्तौ विघ्नविनायकौ प्रीयेताम्",
+      "gloss": {
+        "hi": "भगवान विघ्न-विनायक दोनों प्रसन्न हों",
+        "en": "may the two lords Vighna and Vinayaka be pleased",
+        "bho": "भगवान बिघन-विनायक दुनो परसन्न होखसु"
+      }
+    },
+    {
+      "sa": "सर्वाः कुलदेवताः प्रीयन्ताम्",
+      "gloss": {
+        "hi": "सब कुलदेवता प्रसन्न हों",
+        "en": "may all the family deities be pleased",
+        "bho": "सब कुलदेवता परसन्न होखसु"
+      }
+    },
+    {
+      "sa": "हताः अस्य कर्मणः विघ्नकर्तारः",
+      "gloss": {
+        "hi": "इस कर्म में विघ्न डालने वाले नष्ट हों",
+        "en": "struck down be those who would obstruct this rite",
+        "bho": "एह करम में बिघन डाले वाला नास होखसु"
+      }
+    },
+    {
+      "sa": "शाम्यन्तु पापानि",
+      "gloss": {
+        "hi": "पाप शांत हों",
+        "en": "may sins be stilled",
+        "bho": "पाप सांत होखे"
+      }
+    },
+    {
+      "sa": "शिवाः आपः सन्तु",
+      "gloss": {
+        "hi": "जल कल्याणकारी हों",
+        "en": "may the waters be kindly",
+        "bho": "जल कल्यानकारी होखे"
+      }
+    },
+    {
+      "sa": "निकामे निकामे नः पर्जन्यः वर्षतु",
+      "gloss": {
+        "hi": "इच्छा-इच्छा पर हमारे लिए मेघ बरसे",
+        "en": "may the rain-cloud rain for us whenever desired",
+        "bho": "इच्छा-इच्छा पर हमनी खातिर मेघ बरसे"
+      }
+    },
+    {
+      "sa": "फलिन्यः नः ओषधयः पच्यन्ताम्",
+      "gloss": {
+        "hi": "हमारी ओषधियाँ (फसलें) फल के साथ पकें",
+        "en": "may our plants ripen bearing fruit",
+        "bho": "हमनी के ओषधि (फसल) फल संगे पाके"
+      }
+    },
+    {
+      "sa": "योगक्षेमः नः कल्पताम्",
+      "gloss": {
+        "hi": "हमारा योग-क्षेम (प्राप्ति और रक्षा) सिद्ध हो",
+        "en": "may our gain and safety be assured",
+        "bho": "हमनी के योग-छेम (पावल आ रच्छा) सिद्ध होखे"
+      }
+    },
+    {
+      "sa": "भगवान् नारायणः प्रीयताम्",
+      "gloss": {
+        "hi": "भगवान नारायण प्रसन्न हों",
+        "en": "may Lord Narayana be pleased",
+        "bho": "भगवान नारायन परसन्न होखसु"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "शांति हो, पुष्टि हो, तुष्टि हो, वृद्धि हो, विघ्न न हो, आयु हो, नीरोगता हो, कर्म मंगलमय हो; कर्म, धर्म, वेद, शास्त्र, संतान और धन-धान्य की समृद्धि हो; इष्ट संपत्ति हो, अरिष्ट दूर हो, जो पाप है वह नष्ट हो, जो श्रेय है वह हो; आगे के कर्म में विघ्न न हो, दिन-दिन वृद्धि हो, आगे की क्रियाएँ शुभ रूप में पूरी हों। तिथि, करण, मुहूर्त, नक्षत्र, ग्रह और लग्न के देवता प्रसन्न हों; दुर्गा और पांचाली, अग्नि के साथ विश्वेदेव, इंद्र के साथ मरुद्गण, ब्रह्मा के साथ वेद, विष्णु के साथ सब देव, माहेश्वरी के साथ मातृकाएँ, वसिष्ठ के साथ ऋषि, अरुंधती के साथ पतिव्रताएँ, ऋषि-छंद-आचार्य-देव-वेद-यज्ञ, वेद और ब्राह्मण, श्री और सरस्वती, श्रद्धा और मेधा, भगवती कात्यायनी-माहेश्वरी-पुष्टिकरी-तुष्टिकरी-ऋद्धिकरी-वृद्धिकरी, विघ्न-विनायक, परिवार सहित स्वामी महासेन, हरि-हर-हिरण्यगर्भ, सब ग्राम-देवता, कुल-देवता और इष्ट-देवता प्रसन्न हों। वेद-द्वेषी, विरोधी और इस कर्म में विघ्न डालने वाले नष्ट हों; शत्रु पराजित हों; घोर, पाप और आपदाएँ शांत हों; शुभ बढ़े; जल, ऋतु, अग्नि, आहुति, ओषधि, वनस्पति और अतिथि कल्याणकारी हों; दिन-रात मंगलमय हों; इच्छा पर मेघ बरसे; फसलें फल के साथ पकें; हमारा योग-क्षेम सिद्ध हो; सूर्य के साथ सब ग्रह, भगवान नारायण, पर्जन्य और स्वामी महासेन प्रसन्न हों।",
+    "en": "May there be peace, nourishment, contentment, growth; no obstacle; long life; freedom from illness; may the rite be auspicious; may rite, dharma, Veda, shastra, children, wealth and grain prosper; may wished-for wealth come and ill be averted; whatever sin there is, may it be struck down, whatever is good, may that be; may the following rite be unhindered, may there be growth day by day, may each following act be accomplished well. May the deities of tithi, karana, muhurta, nakshatra, planets and lagna be pleased; Durga and Panchali; all the gods led by Agni; the Maruts led by Indra; the Vedas led by Brahma; all the gods led by Vishnu; the Mothers led by Maheshvari; the sages led by Vasishtha; the devoted wives led by Arundhati; sages, metres, teachers, gods, Vedas and sacrifices; the Veda and the brahmanas; Shri and Sarasvati; Shraddha and Medha; the Goddess as Katyayani, Maheshvari, Pushtikari, Tushtikari, Riddhikari and Vriddhikari; the lords Vighna and Vinayaka; Lord Mahasena with his wife, son and attendants; Hari, Hara and Hiranyagarbha; all village, family and chosen deities — may they be pleased. Struck down be the haters of the Veda, the adversaries and those who would obstruct this rite; may enemies be defeated; may horrors, sins and calamities be stilled; may good things grow; may the waters, seasons, fires, oblations, plants, trees and guests be kindly; may day and night be auspicious; may the rain-cloud rain whenever desired; may the plants ripen bearing fruit; may our gain and safety be assured; may all the planets led by the Sun, Lord Narayana, Parjanya and Lord Mahasena be pleased.",
+    "bho": "शांति होखे, पुष्टि होखे, तुष्टि होखे, बढ़ंती होखे, बिघन ना होखे, उमिर होखे, निरोगता होखे, करम मंगलमय होखे; करम, धरम, वेद, सास्त्र, संतान आ धन-धान के समृद्धि होखे; इष्ट संपत्ति होखे, अरिष्ट दूर होखे, जे पाप बा ऊ नास होखे, जे श्रेय बा ऊ होखे; आगे के करम में बिघन ना होखे, दिन-दिन बढ़ंती होखे, आगे के किरिया सुभ रूप में पूरा होखे। तिथि, करन, मुहूरत, नक्षत्र, ग्रह आ लगन के देवता परसन्न होखसु; दुर्गा आ पांचाली, अग्नि संगे विश्वेदेव, इंद्र संगे मरुद्गन, ब्रह्मा संगे वेद, विष्णु संगे सब देवता, माहेश्वरी संगे मातृका, वसिष्ठ संगे ऋषि, अरुंधती संगे पतिब्रता लोग, ऋषि-छंद-आचार्य-देव-वेद-यज्ञ, वेद आ ब्राह्मन, श्री आ सरस्वती, श्रद्धा आ मेधा, भगवती कात्यायनी-माहेश्वरी-पुष्टिकरी-तुष्टिकरी-ऋद्धिकरी-वृद्धिकरी, बिघन-विनायक, परिवार सहित स्वामी महासेन, हरि-हर-हिरण्यगर्भ, सब गाँव-देवता, कुल-देवता आ इष्ट-देवता परसन्न होखसु। वेद-द्वेषी, बिरोधी आ एह करम में बिघन डाले वाला नास होखसु; सत्रु हारसु; घोर, पाप आ आपदा सांत होखे; सुभ बढ़े; जल, ऋतु, अग्नि, आहुति, ओषधि, बनस्पति आ अतिथि कल्यानकारी होखसु; दिन-रात मंगलमय होखे; इच्छा पर मेघ बरसे; फसल फल संगे पाके; हमनी के योग-छेम सिद्ध होखे; सूरज संगे सब ग्रह, भगवान नारायन, पर्जन्य आ स्वामी महासेन परसन्न होखसु।"
+  },
+  "explanation": {
+    "hi": "[[punyahavachan]] के इकहत्तर आशीर्वाक्य, जिन्हें यजमान (या उसके लिए पंडित) एक-एक कर बोलता है और ब्राह्मण 'अस्तु', 'प्रीयंताम्', 'शाम्यंतु' आदि कहकर उत्तर देते हैं; हर वाक्य पर कलश-जल की एक बूँद पात्र में छोड़ी जाती है — 'अरिष्टनिरसनमस्तु', 'यत्पापं तत्प्रतिहतमस्तु' और 'हता ब्रह्मद्विषः' से 'शत्रवः पराभवं यांतु' तक के नौ वाक्यों पर जल पात्र के बाहर उत्तर दिशा में गिराया जाता है। पाठ [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) के 'सकलशिष्टपरिगृहीत' प्रयोग का है, जहाँ वाक्य 1 से 71 तक गिने गए हैं; [बौधायन गृह्यशेषसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AC%E0%A5%8C%E0%A4%A7%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D/%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%A8%E0%A4%83_%E0%A5%A7) 1.10 में इसका छोटा मूल ('शांतिरस्तु पुष्टिरस्तु … शिवं कर्मास्तु') है। हिंदी-पट्टी की पोथियाँ इन्हीं में से कुछ वाक्य रखती हैं। परंपरा में माना जाता है कि यह वाचन कर्म के पूरे काल, स्थान और देवताओं को अनुकूल करता है; साइट इसे ब्राह्मणों के आशीर्वाद के रूप में प्रस्तुत करती है, किसी फल के दावे के रूप में नहीं।",
+    "en": "The seventy-one blessing sentences of the punyaha-vachana, spoken one by one by the host (or by the pandit on his behalf) and answered by the brahmanas with 'astu', 'priyantam', 'shamyantu' and so on; at each sentence a drop of kalasha water is let fall into the vessel — at 'arishta-nirasanam astu', 'yat papam tat pratihatam astu' and the nine sentences from 'hata brahmadvishah' to 'shatravah parabhavam yantu' the water is poured outside the vessel, to the north. The text is the 'procedure accepted by all the learned' of the [Samskararatnamala](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D), where the sentences are numbered 1 to 71; the [Baudhayana Grihyashesha-sutra](https://sa.wikisource.org/wiki/%E0%A4%AC%E0%A5%8C%E0%A4%A7%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D/%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%A8%E0%A4%83_%E0%A5%A7) 1.10 has its short original ('shantir astu pushtir astu … shivam karmastu'). The Hindi-belt handbooks keep a selection of these sentences. Tradition holds that this proclamation makes the whole time, place and deities of the rite favourable; the site presents it as the blessing of the brahmanas, not as a claim of results.",
+    "bho": "[[punyahavachan]] के एकहत्तर असीस-वाक्य, जेकरा जजमान (भा ओकरा खातिर पंडित) एक-एक कर के बोलेला आ ब्राह्मन लोग 'अस्तु', 'प्रीयन्ताम्', 'शाम्यन्तु' आदि कह के जवाब देलन; हर वाक्य पर कलश-जल के एक बूँद बरतन में छोड़ल जाला — 'अरिष्टनिरसनमस्तु', 'यत्पापं तत्प्रतिहतमस्तु' आ 'हता ब्रह्मद्विषः' से 'शत्रवः पराभवं यान्तु' तक के नौ वाक्य पर जल बरतन के बाहर उत्तर दिसा में गिरावल जाला। पाठ [संस्काररत्नमाला](https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE_%28%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A7%29/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) के 'सकलशिष्टपरिगृहीत' प्रयोग के बा, जहाँ वाक्य 1 से 71 तक गिनल गइल बा; [बौधायन गृह्यशेषसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AC%E0%A5%8C%E0%A4%A7%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D/%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%A8%E0%A4%83_%E0%A5%A7) 1.10 में एकर छोट मूल ('शान्तिरस्तु पुष्टिरस्तु … शिवं कर्मास्तु') बा। हिंदी-पट्टी के पोथी एही में से कुछ वाक्य राखेला। परंपरा में मानल जाला कि ई वाचन करम के पूरा काल, जगह आ देवता के अनुकूल करेला; साइट एकरा ब्राह्मन लोग के असीस के रूप में रखेले, कवनो फल के दावा के रूप में ना।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-samskararatnamala-1-01",
+    "retrieved": "2026-11-01",
+    "modified": "the digest's serial numbers 1–71 removed and the sentences separated by ।; typing slip ऋषयश्छदांस्याचार्या → ऋषयश्छन्दांस्याचार्या; nothing else changed"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "pre-modern paddhati text as given in the Samskararatnamala (Gopinatha Bhatta Dikshita, 17th–18th c.); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "punyaha",
+    "ashirvada"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "locator": "bhaga 1, prakarana 1 (punyahavachana-prayoga, 71 vakyas)",
+  "checkedAgainst": [
+    {
+      "ref": "ws-baudhayana-gs-shesha-1",
+      "retrieved": "2026-11-01"
+    }
+  ]
+}
