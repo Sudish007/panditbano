@@ -1,0 +1,574 @@
+{
+  "id": "matrika-pujan",
+  "code": "F09",
+  "group": "foundations",
+  "phase": 1,
+  "title": {
+    "hi": "षोडश मातृका और सप्त घृत मातृका पूजन",
+    "en": "Shodasha matrika and sapta-ghrita-matrika worship",
+    "bho": "सोरह मातृका आ सात घी-मातृका पूजन"
+  },
+  "lede": {
+    "hi": "गौरी से कुलदेवी तक सोलह मातृकाओं की सोलह कोष्ठकों में स्थापना और पूजन, फिर दीवार या पाटे पर घी की सात धाराओं (वसोर्धारा) में सात घृत-मातृकाओं का पूजन और आयुष्य-वाचन — विवाह, उपनयन, गृहप्रवेश जैसे हर मंगल-कार्य का पूर्वांग।",
+    "en": "The sixteen matrikas, Gauri to the family deity, installed and worshipped in sixteen cells; then the seven ghee-matrikas in seven ghee streams (the vasordhara) on the wall or a board, with the ayushya blessing — the opening of every auspicious rite: wedding, upanayana, house-entry.",
+    "bho": "गौरी से कुलदेवी तक सोरह मातृका के सोरह कोठरी में स्थापना आ पूजन, फेर देवाल भा पाटा पर घी के सात धार (वसोर्धारा) में सात घी-मातृका के पूजन आ आयुष्य-वाचन — बियाह, उपनयन, गृहप्रवेश जइसन हर मंगल-काम के पूर्वांग।"
+  },
+  "overview": {
+    "hi": "[[matrika]] (माताएँ) पूजन उत्तर भारत के हर वृद्धि-कर्म — विवाह, उपनयन, मुंडन, गृहप्रवेश, यज्ञ — के पूर्वांग का अंग है: [[ganesh-ambika-pujan]] और [[kalash-sthapana]] के बाद, [[navagraha-pujan]] के साथ और [[nandi-shraddha]] से पहले। इसके दो भाग हैं। पहला [[shodash-matrika]]: पूजक के दाहिनी ओर पाँच खड़ी और पाँच पड़ी रेखाओं से सोलह कोष्ठक बनते हैं; पश्चिम से पूर्व की ओर एक-एक कोष्ठक में गौरी, पद्मा, शची, मेधा, सावित्री, विजया, जया, देवसेना, स्वधा, स्वाहा, मातृकाएँ, लोकमाताएँ, धृति, पुष्टि, तुष्टि और कुलदेवी का आवाहन होता है — पहले कोष्ठक में गौरी से पहले गणेश, इसी से नाम-श्लोक कहता है 'गणेशेनाधिका ह्येता'। दूसरा [[sapta-ghrit-matrika]]: आग्नेय कोण में दीवार या पाटे पर स्वस्तिक, 'श्रीः' और सात बिंदुओं का त्रिकोण बनाकर 'वसोः पवित्रमसि' (VS 1.3) से घी की सात धाराएँ दी जाती हैं — यही [[vasordhara]] है — और उनमें श्री, लक्ष्मी, धृति, मेधा, पुष्टि, श्रद्धा, सरस्वती का आवाहन; अंत में ब्राह्मण आयुष्य-मंत्र (VS 34.50–52) और स्मृति के आशीर्वाद-श्लोक पढ़ते हैं। क्रम और वाक्य यहाँ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 221–225) के हैं, जिन्हें [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) और [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) से मिलाया गया है। यह पूरा प्रकरण [[paddhati]]-परंपरा का है — [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) में मातृका-पूजन नहीं है; मातृकाओं की सूचियाँ पोथियों में थोड़ी-थोड़ी अलग हैं (पाठांतर देखें)। भोजपुरी अंचल में विवाह का मातृका-पूजन [[kohbar]] की दीवार पर गोबर की पिंडियों पर होता है और घी की धार नाउन देती है — यह लोकाचार नीचे पाठांतर में।",
+    "en": "The worship of the matrikas (the Mothers) belongs to the opening part of every vriddhi rite of North India — wedding, upanayana, mundan, house-entry, yajna: after the Ganesha-Ambika worship and the kalasha, together with the navagraha worship and before the nandi shraddha. It has two parts. First the sixteen matrikas: to the right of the worshipper five vertical and five horizontal lines make sixteen cells; from west to east, one cell each, Gauri, Padma, Shachi, Medha, Savitri, Vijaya, Jaya, Devasena, Svadha, Svaha, the Mothers, the World-Mothers, Dhriti, Pushti, Tushti and the family deity are invoked — Ganesha before Gauri in the first cell, which is why the name verse says 'ganeshena adhika hy eta'. Second the seven ghee-matrikas: in the south-east corner, on the wall or a board, a svastika, the letters 'shrih' and a triangle of seven dots are drawn and seven streams of ghee poured with 'vasoh pavitram asi' (VS 1.3) — this is the vasordhara — and Shri, Lakshmi, Dhriti, Medha, Pushti, Shraddha and Saraswati are invoked into them; at the end the Brahmins recite the ayushya mantras (VS 34.50–52) and the smriti verses of blessing. The order and the sentences here are those of the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (pp. 221–225), compared with the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) and the [Vasishthi Havan Paddhati](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller). The whole section belongs to the handbook tradition — the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) has no matrika worship — and the lists of the matrikas differ a little between handbooks (see the variants). In the Bhojpuri region the wedding's matrika worship is done on lumps of cow dung on the kohbar wall and the barber's wife pours the ghee stream — that custom is in the variants below.",
+    "bho": "[[matrika]] (माई लोग) पूजन उत्तर भारत के हर बृद्धि-करम — बियाह, उपनयन, मुंडन, गृहप्रवेश, जग्य — के पूर्वांग के अंग बा: [[ganesh-ambika-pujan]] आ [[kalash-sthapana]] के बाद, [[navagraha-pujan]] संगे आ [[nandi-shraddha]] से पहिले। एकर दू भाग बा। पहिला [[shodash-matrika]]: पूजक के दहिने ओर पाँच ठाड़ आ पाँच पड़ल रेखा से सोरह कोठरी बनेला; पच्छिम से पूरब के ओर एक-एक कोठरी में गौरी, पद्मा, शची, मेधा, सावित्री, विजया, जया, देवसेना, स्वधा, स्वाहा, माई लोग, लोकमाई लोग, धृति, पुष्टि, तुष्टि आ कुलदेवी के आवाहन होला — पहिला कोठरी में गौरी से पहिले गणेश, एही से नाँव-श्लोक कहेला 'गणेशेनाधिका ह्येता'। दुसरा [[sapta-ghrit-matrika]]: आग्नेय कोन में देवाल भा पाटा पर सातिया, 'श्रीः' आ सात बिंदु के तिकोन बना के 'वसोः पवित्रमसि' (VS 1.3) से घी के सात धार दिहल जाला — इहे [[vasordhara]] बा — आ ओह में श्री, लक्ष्मी, धृति, मेधा, पुष्टि, श्रद्धा, सरस्वती के आवाहन; अंत में ब्राह्मन लोग आयुष्य-मंत्र (VS 34.50–52) आ स्मृति के आसीर्वाद-श्लोक पढ़ेलन। क्रम आ वाक्य इहाँ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 221–225) के बा, जेकरा [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) आ [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) से मिलावल गइल बा। ई पूरा प्रकरन [[paddhati]]-परंपरा के बा — [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) में मातृका-पूजन नइखे; मातृका के सूची पोथी में थोड़-थोड़ अलगा बा (पाठांतर देखीं)। भोजपुरी अंचल में बियाह के मातृका-पूजन [[kohbar]] के देवाल पर गोबर के पिंडी पर होला आ घी के धार नाउन देली — ई लोकाचार नीचे पाठांतर में।"
+  },
+  "when": {
+    "rules": {
+      "hi": "हर वृद्धि-कर्म (विवाह, उपनयन, मुंडन, अन्नप्राशन, गृहप्रवेश, यज्ञ) के पूर्वांग में — कलश और नवग्रह के साथ, नांदी-श्राद्ध से पहले; विवाह में प्रायः मुख्य दिन की सुबह या एक दिन पहले मंडप-पूजन के साथ। मुख्य कर्म का मुहूर्त ही इसका समय है (तिथि-मुहूर्त के लिए [Shubhvela](https://sudish007.github.io/shubhvela/) देखें)। श्राद्ध और अंत्येष्टि में मातृका-पूजन नहीं होता।",
+      "en": "In the opening part of every vriddhi rite (wedding, upanayana, mundan, first feeding, house-entry, yajna) — with the kalasha and the navagrahas, before the nandi shraddha; at a wedding usually on the morning of the main day or a day earlier with the pavilion worship. The muhurat of the main rite is its time (see [Shubhvela](https://sudish007.github.io/shubhvela/) for dates and muhurat). There is no matrika worship in a shraddha or a funeral.",
+      "bho": "हर बृद्धि-करम (बियाह, उपनयन, मुंडन, अन्नप्राशन, गृहप्रवेश, जग्य) के पूर्वांग में — कलश आ नवग्रह संगे, नांदी-श्राद्ध से पहिले; बियाह में प्रायः मुख्य दिन के भोर भा एक दिन पहिले मड़वा-पूजन संगे। मुख्य करम के मुहूरत ही एकर समय बा (तिथि-मुहूरत खातिर [Shubhvela](https://sudish007.github.io/shubhvela/) देखीं)। श्राद्ध आ अंत्येष्टि में मातृका-पूजन ना होला।"
+    },
+    "shubhvela": {
+      "muhurat": null,
+      "festival": null,
+      "vrat": null
+    }
+  },
+  "roles": [
+    {
+      "role": {
+        "hi": "पुरोहित",
+        "en": "Purohit",
+        "bho": "पुरोहित"
+      },
+      "does": {
+        "hi": "मंडल और वसोर्धारा बनवाना, सोलह और सात आवाहन-वाक्य पढ़ना, प्रतिष्ठा, पूजन, प्रार्थना; आयुष्य-मंत्र पढ़ना या ब्राह्मणों से पढ़वाना।",
+        "en": "Has the mandala and the vasordhara drawn, says the sixteen and the seven invocation sentences, leads the consecration, worship and prayer; recites the ayushya mantras or has the Brahmins recite them.",
+        "bho": "मंडल आ वसोर्धारा बनवावल, सोरह आ सात आवाहन-वाक्य पढ़ल, प्रतिष्ठा, पूजन, प्रार्थना; आयुष्य-मंत्र पढ़ल भा ब्राह्मन लोग से पढ़वावल।"
+      }
+    },
+    {
+      "role": {
+        "hi": "यजमान (पत्नी सहित)",
+        "en": "The host (with his wife)",
+        "bho": "जजमान (पत्नी सहित)"
+      },
+      "does": {
+        "hi": "हर आवाहन पर कोष्ठक में अक्षत-पुष्प छोड़ना, घी की धाराएँ देना, गुड़ से रेखाएँ जोड़ना, फल चढ़ाना, अंजलि में पुष्प लेकर आयुष्य-मंत्र सुनना, ब्राह्मणों को दक्षिणा।",
+        "en": "Drops rice and flowers into each cell at the invocation, pours the ghee streams, joins the lines with jaggery, offers the fruit, hears the ayushya mantras with flowers cupped in his hands, gives dakshina to the Brahmins.",
+        "bho": "हर आवाहन पर कोठरी में अछत-फूल छोड़ल, घी के धार देवल, गुड़ से रेखा जोड़ल, फल चढ़ावल, अँजुरी में फूल लेके आयुष्य-मंत्र सुनल, ब्राह्मन लोग के दक्षिणा।"
+      }
+    },
+    {
+      "role": {
+        "hi": "ब्राह्मण (वाचक)",
+        "en": "Brahmins (reciters)",
+        "bho": "ब्राह्मन (वाचक)"
+      },
+      "does": {
+        "hi": "अंत में आयुष्य-मंत्र और आशीर्वाद-श्लोक पढ़ना, 'शतं जीवंतु भवंतः' कहना।",
+        "en": "Recite the ayushya mantras and the blessing verses at the end and say 'shatam jivantu bhavantah'.",
+        "bho": "अंत में आयुष्य-मंत्र आ आसीर्वाद-श्लोक पढ़ल, 'शतं जीवन्तु भवन्तः' कहल।"
+      }
+    }
+  ],
+  "samagri": [
+    {
+      "id": "chauki",
+      "item": {
+        "hi": "चौकी या पाटा — मातृका-मंडल के लिए पूजक के दाहिनी ओर; वसोर्धारा के लिए आग्नेय कोण की दीवार या दूसरा पाटा",
+        "en": "A low stool or board for the matrika mandala to the right of the worshipper; the wall of the south-east corner or a second board for the vasordhara",
+        "bho": "चौकी भा पाटा — मातृका-मंडल खातिर पूजक के दहिने ओर; वसोर्धारा खातिर आग्नेय कोन के देवाल भा दुसरा पाटा"
+      },
+      "qty": "1–2",
+      "must": true
+    },
+    {
+      "id": "rekha",
+      "item": {
+        "hi": "रोली, सिंदूर या ऐपन — सोलह कोष्ठकों की रेखाएँ, स्वस्तिक, 'श्रीः' और सात बिंदु",
+        "en": "Roli, sindoor or aipan — for the lines of the sixteen cells, the svastika, the letters 'shrih' and the seven dots",
+        "bho": "रोरी, सिंदूर भा ऐपन — सोरह कोठरी के रेखा, सातिया, 'श्रीः' आ सात बिंदु"
+      },
+      "qty": "थोड़ा",
+      "must": true
+    },
+    {
+      "id": "dhanya",
+      "item": {
+        "hi": "लाल अक्षत, गेहूँ या जौ — हर कोष्ठक में बिछाने के लिए",
+        "en": "Red rice, wheat or barley — to spread in each cell",
+        "bho": "लाल अच्छत, गोहूँ भा जौ — हर कोठरी में बिछावे खातिर"
+      },
+      "qty": "एक मुट्ठी",
+      "must": true
+    },
+    {
+      "id": "supari-haldi",
+      "item": {
+        "hi": "सुपारी या हल्दी की गाँठें — हर मातृका के प्रतीक के लिए (लोकाचार; भोजपुरी अंचल में गोबर की पिंडियाँ)",
+        "en": "Betel nuts or lumps of turmeric as the tokens of the matrikas (customary; lumps of cow dung in the Bhojpuri region)",
+        "bho": "सुपारी भा हरदी के गाँठ — हर मातृका के परतीक खातिर (लोकाचार; भोजपुरी अंचल में गोबर के पिंडी)"
+      },
+      "qty": "17",
+      "must": true
+    },
+    {
+      "id": "ghee",
+      "item": {
+        "hi": "घी (या दूध) — वसोर्धारा की सात धाराओं के लिए, एक छोटी कटोरी में",
+        "en": "Ghee (or milk) for the seven streams of the vasordhara, in a small bowl",
+        "bho": "घी (भा दूध) — वसोर्धारा के सात धार खातिर, एगो छोट कटोरी में"
+      },
+      "qty": "50 ग्राम",
+      "must": true
+    },
+    {
+      "id": "gud",
+      "item": {
+        "hi": "गुड़ — धाराओं की रेखाएँ जोड़ने और मातृकाओं के नैवेद्य के लिए",
+        "en": "Jaggery — to join the lines of the streams and for the matrikas' food offering",
+        "bho": "गुड़ — धार के रेखा जोड़े आ मातृका के नैवेद्य खातिर"
+      },
+      "qty": "थोड़ा",
+      "must": true
+    },
+    {
+      "id": "pushp-akshat",
+      "item": {
+        "hi": "पुष्प और अक्षत — आवाहन और अंजलि के लिए",
+        "en": "Flowers and rice for the invocations and for the cupped hands",
+        "bho": "फूल आ अच्छत — आवाहन आ अँजुरी खातिर"
+      },
+      "qty": "थोड़े",
+      "must": true
+    },
+    {
+      "id": "phal",
+      "item": {
+        "hi": "नारियल या दूसरा फल — प्रार्थना के बाद मातृकाओं को अर्पण",
+        "en": "A coconut or another fruit, offered to the matrikas after the prayer",
+        "bho": "नरियर भा दुसरा फल — प्रार्थना के बाद मातृका के अर्पन"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "gandh-dhup-deep",
+      "item": {
+        "hi": "गंध, धूप, दीप, नैवेद्य (घी और गुड़ के साथ), तांबूल, दक्षिणा — यज्ञोपवीत नहीं",
+        "en": "Sandal paste, incense, lamp, food (with ghee and jaggery), betel and dakshina — no sacred thread",
+        "bho": "गंध, धूप, दीया, नैवेद्य (घी आ गुड़ संगे), तांबूल, दक्षिणा — जनेऊ ना"
+      },
+      "qty": "थोड़ा",
+      "must": true
+    },
+    {
+      "id": "dakshina-brahman",
+      "item": {
+        "hi": "आयुष्य-मंत्र पढ़ने वाले ब्राह्मणों की दक्षिणा",
+        "en": "Dakshina for the Brahmins who recite the ayushya mantras",
+        "bho": "आयुष्य-मंत्र पढ़े वाला ब्राह्मन लोग के दक्षिणा"
+      },
+      "qty": "यथाशक्ति",
+      "must": false
+    }
+  ],
+  "parts": [
+    {
+      "id": "shodasha",
+      "title": {
+        "hi": "षोडश मातृका",
+        "en": "The sixteen matrikas",
+        "bho": "सोरह मातृका"
+      },
+      "summary": {
+        "hi": "सोलह कोष्ठकों में गणेश-गौरी से कुलदेवी तक का आवाहन, प्रतिष्ठा, पूजन और प्रार्थना।",
+        "en": "Invocation of Ganesha and Gauri to the family deity in sixteen cells, consecration, worship and prayer.",
+        "bho": "सोरह कोठरी में गणेश-गौरी से कुलदेवी तक के आवाहन, प्रतिष्ठा, पूजन आ प्रार्थना।"
+      }
+    },
+    {
+      "id": "ghrita",
+      "title": {
+        "hi": "सप्त घृत मातृका (वसोर्धारा)",
+        "en": "The seven ghee-matrikas (vasordhara)",
+        "bho": "सात घी-मातृका (वसोर्धारा)"
+      },
+      "summary": {
+        "hi": "घी की सात धाराएँ, सात देवियों का आवाहन-पूजन, प्रार्थना और आयुष्य-वाचन।",
+        "en": "Seven streams of ghee, the invocation and worship of the seven goddesses, prayer and the ayushya blessing.",
+        "bho": "घी के सात धार, सात देवी के आवाहन-पूजन, प्रार्थना आ आयुष्य-वाचन।"
+      }
+    }
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "part": "shodasha",
+      "layer": "lok",
+      "minutes": 5,
+      "action": {
+        "hi": "मातृका-मंडल की रचना — पूजक के दाहिनी ओर चौकी या पाटे पर रोली या ऐपन से पाँच खड़ी और पाँच पड़ी रेखाएँ खींचें — सोलह कोष्ठक। हर कोष्ठक में लाल अक्षत, गेहूँ या जौ बिछाएँ और प्रतीक के लिए सुपारी या हल्दी की गाँठ रखें (पहले कोष्ठक में दो — गणेश और गौरी)। भोजपुरी अंचल में विवाह का यह मंडल [[kohbar]] की दीवार पर गोबर की सत्रह पिंडियों से बनता है ([विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt))।",
+        "en": "Drawing the matrika mandala — To the right of the worshipper draw five vertical and five horizontal lines with roli or aipan on a stool or board — sixteen cells. In each cell spread red rice, wheat or barley and set a betel nut or a lump of turmeric as the token (two in the first cell — Ganesha and Gauri). In the Bhojpuri region the wedding's mandala is made of seventeen lumps of cow dung on the kohbar wall ([Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt)).",
+        "bho": "मातृका-मंडल के रचना — पूजक के दहिने ओर चौकी भा पाटा पर रोरी भा ऐपन से पाँच ठाड़ आ पाँच पड़ल रेखा खींचीं — सोरह कोठरी। हर कोठरी में लाल अछत, गोहूँ भा जौ बिछाईं आ परतीक खातिर सुपारी भा हरदी के गाँठ राखीं (पहिला कोठरी में दू — गणेश आ गौरी)। भोजपुरी अंचल में बियाह के ई मंडल [[kohbar]] के देवाल पर गोबर के सतरह पिंडी से बनेला ([विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt))।"
+      },
+      "samagriIds": [
+        "chauki",
+        "rekha",
+        "dhanya",
+        "supari-haldi"
+      ],
+      "panditSays": {
+        "hi": "यजमान, ये सोलह घर सोलह माताओं के हैं; पहले घर में गौरी के साथ गणेश जी भी बैठेंगे।",
+        "en": "Host, these sixteen squares belong to the sixteen Mothers; in the first square Ganesha sits with Gauri.",
+        "bho": "जजमान, ई सोरह घर सोरह माई लोग के बा; पहिला घर में गौरी संगे गणेश जी भी बइठिहें।"
+      }
+    },
+    {
+      "n": 2,
+      "part": "shodasha",
+      "layer": "vedic",
+      "minutes": 1,
+      "action": {
+        "hi": "अंबिका की ऋचा — पंडित अंबिका की वैदिक ऋचा 'ॐ अंबे अंबिके अंबालिके' (VS 23.18) पढ़े — [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) मातृका-प्रकरण इसी से खोलती है — और फिर नाम-श्लोक 'गौरी पद्मा शची मेधा'; यजमान हाथ जोड़े सुने।",
+        "en": "The rk of Ambika — The pandit recites the Vedic rk of Ambika 'om ambe ambike ambalike' (VS 23.18) — the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) opens its matrika section with it — and then the name verse 'gauri padma shachi medha'; the host listens with folded hands.",
+        "bho": "अंबिका के ऋचा — पंडित अंबिका के वैदिक ऋचा 'ॐ अंबे अंबिके अंबालिके' (VS 23.18) पढ़सु — [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) मातृका-प्रकरन एही से खोलेला — आ फेर नाँव-श्लोक 'गौरी पद्मा शची मेधा'; जजमान हाथ जोड़ले सुने।"
+      },
+      "mantraIds": [
+        "vs-23-18",
+        "pad-gauri-padma-shachi-medha"
+      ]
+    },
+    {
+      "n": 3,
+      "part": "shodasha",
+      "layer": "paddhati",
+      "minutes": 4,
+      "action": {
+        "hi": "आवाहन-स्थापन — पश्चिम से पूर्व की ओर एक-एक कोष्ठक में पंडित वाक्य बोले: 'ॐ गणपतये नमः, गणपतिमावाहयामि स्थापयामि', 'ॐ गौर्यै नमः, गौरीमावाहयामि स्थापयामि' … 'ॐ आत्मनः कुलदेवतायै नमः' तक सत्रह वाक्य — और यजमान हर वाक्य पर उस कोष्ठक में अक्षत-पुष्प छोड़े।",
+        "en": "Invocation and installation — from west to east, one cell at a time, the pandit says the sentence: 'om ganapataye namah, ganapatim avahayami sthapayami', 'om gauryai namah, gaurim avahayami sthapayami' … seventeen sentences down to 'om atmanah kuladevatayai namah' — and at each the host drops rice and flowers into that cell.",
+        "bho": "आवाहन-स्थापन — पच्छिम से पूरब के ओर एक-एक कोठरी में पंडित वाक्य बोलसु: 'ॐ गणपतये नमः, गणपतिमावाहयामि स्थापयामि', 'ॐ गौर्यै नमः, गौरीमावाहयामि स्थापयामि' … 'ॐ आत्मनः कुलदेवतायै नमः' तक सतरह वाक्य — आ जजमान हर वाक्य पर ओह कोठरी में अछत-फूल छोड़े।"
+      },
+      "mantraIds": [
+        "pad-shodasha-matrika-avahana"
+      ],
+      "samagriIds": [
+        "pushp-akshat"
+      ],
+      "panditSays": {
+        "hi": "हर नाम पर उसी घर में अक्षत और फूल छोड़िए — पश्चिम से पूर्व की ओर।",
+        "en": "At each name drop rice and flowers into that square — from west to east.",
+        "bho": "हर नाँव पर ओही घर में अछत आ फूल छोड़ीं — पच्छिम से पूरब के ओर।"
+      }
+    },
+    {
+      "n": 4,
+      "part": "shodasha",
+      "layer": "vedic",
+      "minutes": 1,
+      "action": {
+        "hi": "प्रतिष्ठा: हाथ में अक्षत लेकर 'ॐ मनो जूतिर्जुषतामाज्यस्य' (VS 2.13) पढ़ते हुए पंडित मातृका-मंडल पर अक्षत छोड़े।",
+        "en": "Consecration: with rice in hand the pandit recites 'om mano jutir jushatam ajyasya' (VS 2.13) and drops the rice on the matrika mandala.",
+        "bho": "प्रतिष्ठा: हाथ में अछत लेके 'ॐ मनो जूतिर्जुषतामाज्यस्य' (VS 2.13) पढ़त पंडित मातृका-मंडल पर अछत छोड़सु।"
+      },
+      "mantraIds": [
+        "vs-2-13"
+      ],
+      "panditSays": {
+        "sa": "अस्मिन् मातृकामण्डले आवाहिता गणेशसहितगौर्यादिषोडशमातरः सुप्रतिष्ठिता वरदा भवन्तु ॥",
+        "hi": "इस मातृका-मंडल में आवाहित गणेश सहित गौरी आदि सोलह माताएँ सुप्रतिष्ठित और वरदायिनी हों।",
+        "en": "May the sixteen Mothers beginning with Gauri, with Ganesha, invoked into this matrika mandala, be well installed and givers of boons.",
+        "bho": "एह मातृका-मंडल में आवाहित गणेश सहित गौरी आदि सोरह माई लोग सुप्रतिष्ठित आ बर देवे वाली होखसु।"
+      }
+    },
+    {
+      "n": 5,
+      "part": "shodasha",
+      "layer": "paddhati",
+      "minutes": 4,
+      "action": {
+        "hi": "पूजन: नाम-मंत्र 'ॐ गणेशसहितगौर्यादिषोडशमातृकाभ्यो नमः' से गंध, अक्षत, पुष्प, धूप, दीप, नैवेद्य (घी और गुड़ के साथ), तांबूल, दक्षिणा — हर उपचार पर पंडित वाक्य बोले, यजमान वस्तु चढ़ाए। [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) के तीन नियम: मातृकाओं को यज्ञोपवीत नहीं; नैवेद्य में घी-गुड़ अवश्य; विशेष अर्घ्य नहीं।",
+        "en": "Worship: with the name mantra 'om ganesha-sahita-gauryadi-shodasha-matrikabhyo namah' offer fragrant paste, rice, flowers, incense, lamp, food (with ghee and jaggery), betel and dakshina — at each upachara the pandit says the sentence, the host offers the item. Three rules of the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur): no sacred thread for the matrikas; ghee and jaggery always with the food; no special arghya.",
+        "bho": "पूजन: नाँव-मंत्र 'ॐ गणेशसहितगौर्यादिषोडशमातृकाभ्यो नमः' से गंध, अछत, फूल, धूप, दीया, नैवेद्य (घी आ गुड़ संगे), तांबूल, दक्षिणा — हर उपचार पर पंडित वाक्य बोलसु, जजमान चीज चढ़ावे। [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) के तीन नियम: मातृका के जनेऊ ना; नैवेद्य में घी-गुड़ जरूर; बिसेस अरघ ना।"
+      },
+      "mantraIds": [
+        "pad-ganesha-sahita-gauryadi-shodasha-matrikabhyo-namah"
+      ],
+      "samagriIds": [
+        "gandh-dhup-deep",
+        "gud"
+      ],
+      "panditSays": {
+        "hi": "गणेश सहित गौरी आदि सोलह माताओं को प्रणाम — गंध, अक्षत, पुष्प, धूप, दीप, घी-गुड़ के साथ नैवेद्य, तांबूल और दक्षिणा समर्पित करता हूँ।",
+        "en": "Salutation to the sixteen Mothers beginning with Gauri, with Ganesha — I offer fragrant paste, rice, flowers, incense, lamp, food with ghee and jaggery, betel and dakshina.",
+        "bho": "गणेश सहित गौरी आदि सोरह माई लोग के परनाम — गंध, अछत, फूल, धूप, दीया, घी-गुड़ संगे नैवेद्य, तांबूल आ दक्षिणा समर्पित करत बानी।"
+      }
+    },
+    {
+      "n": 6,
+      "part": "shodasha",
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "फल-अर्पण और प्रार्थना: यजमान अंजलि में नारियल या फल लेकर प्रार्थना-श्लोक सुने, फल मंडल पर चढ़ाए और हाथ जोड़कर वृद्धि-वाक्य कहे; फिर समर्पण-वाक्य के साथ अक्षत छोड़कर प्रणाम। विसर्जन अभी नहीं — पूरे कर्म के अंत में।",
+        "en": "Fruit offering and prayer: the host hears the prayer verse with a coconut or fruit cupped in his hands, sets the fruit on the mandala and says the sentence of increase with folded hands; then rice is dropped with the sentence of dedication and all bow. No dismissal yet — at the end of the whole rite.",
+        "bho": "फल-अर्पन आ प्रार्थना: जजमान अँजुरी में नरियर भा फल लेके प्रार्थना-श्लोक सुने, फल मंडल पर चढ़ावे आ हाथ जोड़ के बढ़ती-वाक्य कहे; फेर समर्पन-वाक्य संगे अछत छोड़ के परनाम। बिसर्जन अबहीं ना — पूरा करम के अंत में।"
+      },
+      "mantraIds": [
+        "pad-ayur-arogyam-aishvaryam"
+      ],
+      "samagriIds": [
+        "phal"
+      ],
+      "panditSays": {
+        "sa": "गेहे वृद्धिशतानि भवन्तु । उत्तरे कर्मण्यविघ्नमस्तु ॥ अनया पूजया गणेशसहितगौर्यादिषोडशमातरः प्रीयन्तां न मम ॥",
+        "hi": "घर में सौ-सौ वृद्धियाँ हों; आगे के कर्म में विघ्न न हो। इस पूजा से गणेश सहित सोलह माताएँ प्रसन्न हों — यह मेरा नहीं।",
+        "en": "May a hundred increases be in the house; may the rite ahead be unobstructed. By this worship may the sixteen Mothers with Ganesha be pleased — it is not mine.",
+        "bho": "घर में सौ-सौ बढ़ती होखे; आगे के करम में बिघन ना होखे। एह पूजा से गणेश सहित सोरह माई लोग परसन्न होखसु — ई हमार ना।"
+      }
+    },
+    {
+      "n": 7,
+      "part": "ghrita",
+      "layer": "paddhati",
+      "minutes": 4,
+      "action": {
+        "hi": "वसोर्धारा बनाना: आग्नेय कोण में दीवार पर या पाटे पर प्रादेशमात्र (बित्ते भर) जगह में रोली या सिंदूर से स्वस्तिक बनाकर 'श्रीः' लिखें; उसके नीचे एक बिंदु, फिर दक्षिण से उत्तर की ओर दो, तीन … सात बिंदुओं की पंक्तियाँ — एक त्रिकोण ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) पृ. 223–224; [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) का 1939 संस्करण भी यही क्रम देता है)। नियम-श्लोक 'कुड्यलग्नां वसोर्धारां' के अनुसार धाराएँ दीवार से लगी हों, न बहुत नीची न ऊँची।",
+        "en": "Drawing the vasordhara: in the south-east corner, on the wall or a board, in a space of one span, draw a svastika with roli or sindoor and write 'shrih'; below it one dot, then rows of two, three … seven dots from south to north — a triangle ([Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) pp. 223–224; the 1939 edition of the [Vasishthi Havan Paddhati](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) gives the same order). By the rule verse 'kudyalagnam vasordharam' the streams are set against the wall, neither too low nor too high.",
+        "bho": "वसोर्धारा बनावल: आग्नेय कोन में देवाल पर भा पाटा पर बित्ता भर जगह में रोरी भा सेनुर से सातिया बना के 'श्रीः' लिखीं; ओकरा नीचे एक बिंदु, फेर दक्खिन से उत्तर के ओर दू, तीन … सात बिंदु के पाँत — एगो तिकोन ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) पृ. 223–224; [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) के 1939 संस्करन भी इहे क्रम देला)। नियम-श्लोक 'कुड्यलग्नां वसोर्धारां' के अनुसार धार देवाल से लागल होखे, ना बहुत नीचे ना ऊँच।"
+      },
+      "mantraIds": [
+        "pad-kudyalagnam-vasordharam"
+      ],
+      "samagriIds": [
+        "rekha"
+      ]
+    },
+    {
+      "n": 8,
+      "part": "ghrita",
+      "layer": "vedic",
+      "minutes": 2,
+      "action": {
+        "hi": "घृत-धारा: 'ॐ वसोः पवित्रमसि शतधारं' (VS 1.3) पढ़ते हुए यजमान (या पंडित) नीचे की सात बिंदुओं पर घी या दूध की सात धाराएँ ऊपर से नीचे दें; फिर उसी मंत्र से गुड़ लगाकर बिंदुओं की रेखाओं को जोड़ें। भोजपुरी विवाह में यह धार कोहबर की दीवार पर नाउन देती है (लोकाचार, [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt))।",
+        "en": "The ghee streams: reciting 'om vasoh pavitram asi shatadharam' (VS 1.3) the host (or the pandit) draws seven streams of ghee or milk from top to bottom over the seven lower dots; then, with the same mantra, joins the lines of dots with jaggery. In a Bhojpuri wedding the barber's wife pours this stream on the kohbar wall (custom, [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt)).",
+        "bho": "घी-धार: 'ॐ वसोः पवित्रमसि शतधारं' (VS 1.3) पढ़त जजमान (भा पंडित) नीचे के सात बिंदु पर घी भा दूध के सात धार ऊपर से नीचे दे; फेर ओही मंत्र से गुड़ लगा के बिंदु के रेखा जोड़े। भोजपुरी बियाह में ई धार कोहबर के देवाल पर नाउन देली (लोकाचार, [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt))।"
+      },
+      "mantraIds": [
+        "vs-1-3"
+      ],
+      "samagriIds": [
+        "ghee",
+        "gud"
+      ],
+      "panditSays": {
+        "hi": "यजमान, कटोरी से सात बार घी की धार ऊपर से नीचे दीजिए — हर बिंदु पर एक; फिर गुड़ से रेखाएँ जोड़िए।",
+        "en": "Host, pour seven streams of ghee from the bowl, top to bottom — one over each dot; then join the lines with jaggery.",
+        "bho": "जजमान, कटोरी से सात बेर घी के धार ऊपर से नीचे दीं — हर बिंदु पर एक; फेर गुड़ से रेखा जोड़ीं।"
+      }
+    },
+    {
+      "n": 9,
+      "part": "ghrita",
+      "layer": "paddhati",
+      "minutes": 3,
+      "action": {
+        "hi": "सात घृत-मातृकाओं का आवाहन-स्थापन: 'ॐ भूर्भुवः स्वः श्रिये नमः, श्रियमावाहयामि स्थापयामि' से 'सरस्वत्यै नमः' तक सात वाक्य — हर धारा पर अक्षत-पुष्प; साथ में नाम-श्लोक 'श्रीर्लक्ष्मीर्धृतिर्मेधा'। [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) इन्हें 'ॐ भूर्भुवः स्वः घृतमातृभ्यो नमः' से एक साथ भी बुलाती है।",
+        "en": "Invocation and installation of the seven ghee-matrikas: seven sentences from 'om bhur bhuvah svah shriye namah, shriyam avahayami sthapayami' to 'sarasvatyai namah' — rice and flowers on each stream; with them the name verse 'shrir lakshmir dhritir medha'. The [Vasishthi Havan Paddhati](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) also calls them together with 'om bhur bhuvah svah ghrita-matribhyo namah'.",
+        "bho": "सात घी-मातृका के आवाहन-स्थापन: 'ॐ भूर्भुवः स्वः श्रिये नमः, श्रियमावाहयामि स्थापयामि' से 'सरस्वत्यै नमः' तक सात वाक्य — हर धार पर अछत-फूल; संगे नाँव-श्लोक 'श्रीर्लक्ष्मीर्धृतिर्मेधा'। [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) एकनी के 'ॐ भूर्भुवः स्वः घृतमातृभ्यो नमः' से एक संगे भी बोलावेला।"
+      },
+      "mantraIds": [
+        "pad-sapta-ghrita-matrika-avahana",
+        "pad-shrir-lakshmir-dhritir-medha"
+      ],
+      "samagriIds": [
+        "pushp-akshat"
+      ]
+    },
+    {
+      "n": 10,
+      "part": "ghrita",
+      "layer": "vedic",
+      "minutes": 3,
+      "action": {
+        "hi": "प्रतिष्ठा और पूजन: 'ॐ एतं ते देव सवितर्यज्ञं प्राहुः' (VS 2.12) से अक्षत छोड़कर प्रतिष्ठा; फिर नाम-मंत्र 'ॐ भूर्भुवः स्वः सप्तघृतमातृकाभ्यो नमः' से यथालब्ध उपचार — गंध, अक्षत, पुष्प, धूप, दीप, नैवेद्य।",
+        "en": "Consecration and worship: drop rice with 'om etam te deva savitar yajnam prahuh' (VS 2.12); then, with the name mantra 'om bhur bhuvah svah sapta-ghrita-matrikabhyo namah', the upacharas as available — fragrant paste, rice, flowers, incense, lamp, food.",
+        "bho": "प्रतिष्ठा आ पूजन: 'ॐ एतं ते देव सवितर्यज्ञं प्राहुः' (VS 2.12) से अछत छोड़ के प्रतिष्ठा; फेर नाँव-मंत्र 'ॐ भूर्भुवः स्वः सप्तघृतमातृकाभ्यो नमः' से जवन मिले ऊ उपचार — गंध, अछत, फूल, धूप, दीया, नैवेद्य।"
+      },
+      "mantraIds": [
+        "vs-2-12"
+      ],
+      "samagriIds": [
+        "gandh-dhup-deep"
+      ],
+      "panditSays": {
+        "sa": "ॐ भूर्भुवः स्वः सप्तघृतमातृकाभ्यो नमः । सर्वोपचारार्थे गन्धाक्षतपुष्पाणि समर्पयामि ॥",
+        "hi": "सात घृत-मातृकाओं को प्रणाम — सब उपचारों के लिए गंध, अक्षत और पुष्प समर्पित करता हूँ।",
+        "en": "Salutation to the seven ghee-matrikas — for all the upacharas I offer fragrant paste, rice and flowers.",
+        "bho": "सात घी-मातृका के परनाम — सब उपचार खातिर गंध, अछत आ फूल समर्पित करत बानी।"
+      }
+    },
+    {
+      "n": 11,
+      "part": "ghrita",
+      "layer": "paddhati",
+      "minutes": 1,
+      "action": {
+        "hi": "प्रार्थना और समर्पण: हाथ जोड़कर 'यदंगत्वेन भो देव्यः' पढ़ें; फिर समर्पण-वाक्य के साथ मंडल पर अक्षत छोड़ें।",
+        "en": "Prayer and dedication: recite 'yad angatvena bho devyah' with folded hands; then drop rice on the mandala with the sentence of dedication.",
+        "bho": "प्रार्थना आ समर्पन: हाथ जोड़ के 'यदंगत्वेन भो देव्यः' पढ़ीं; फेर समर्पन-वाक्य संगे मंडल पर अछत छोड़ीं।"
+      },
+      "mantraIds": [
+        "pad-yadangatvena-bho-devyah"
+      ],
+      "panditSays": {
+        "sa": "अनया पूजया वसोर्धारादेवताः प्रीयन्तां न मम ॥",
+        "hi": "इस पूजा से वसोर्धारा की देवियाँ प्रसन्न हों — यह मेरा नहीं।",
+        "en": "By this worship may the goddesses of the vasordhara be pleased — it is not mine.",
+        "bho": "एह पूजा से वसोर्धारा के देवी लोग परसन्न होखसु — ई हमार ना।"
+      }
+    },
+    {
+      "n": 12,
+      "part": "ghrita",
+      "layer": "vedic",
+      "minutes": 3,
+      "action": {
+        "hi": "आयुष्य-वाचन: यजमान अंजलि में पुष्प लेकर बैठे; ब्राह्मण (या पंडित) तीन आयुष्य-मंत्र 'आयुष्यं वर्चस्यं' (VS 34.50), 'न तद्रक्षांसि' (VS 34.51), 'यदाबध्नन् दाक्षायणा' (VS 34.52) और फिर स्मृति के तीन श्लोक 'यदायुष्यं चिरं देवाः' पढ़ें और 'शतं जीवंतु भवंतः' कहें; यजमान अंजलि के पुष्प वसोर्धारा पर चढ़ाए ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) पृ. 225)।",
+        "en": "The ayushya recitation: the host sits with flowers cupped in his hands; the Brahmins (or the pandit) recite the three ayushya mantras 'ayushyam varchasyam' (VS 34.50), 'na tad rakshamsi' (VS 34.51), 'yad abadhnan dakshayana' (VS 34.52) and then the three smriti verses 'yad ayushyam chiram devah', and say 'shatam jivantu bhavantah'; the host offers the flowers from his hands on the vasordhara ([Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) p. 225).",
+        "bho": "आयुष्य-वाचन: जजमान अँजुरी में फूल लेके बइठे; ब्राह्मन लोग (भा पंडित) तीन आयुष्य-मंत्र 'आयुष्यं वर्चस्यं' (VS 34.50), 'न तद्रक्षांसि' (VS 34.51), 'यदाबध्नन् दाक्षायणा' (VS 34.52) आ फेर स्मृति के तीन श्लोक 'यदायुष्यं चिरं देवाः' पढ़सु आ 'शतं जीवन्तु भवन्तः' कहसु; जजमान अँजुरी के फूल वसोर्धारा पर चढ़ावे ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) पृ. 225)।"
+      },
+      "mantraIds": [
+        "vs-34-50",
+        "vs-34-51",
+        "vs-34-52",
+        "pad-yad-ayushyam-chiram-devah"
+      ],
+      "samagriIds": [
+        "pushp-akshat"
+      ],
+      "panditSays": {
+        "hi": "यजमान, दोनों हाथ जोड़कर फूल लीजिए और आशीर्वाद के मंत्र सुनिए; अंत में फूल धाराओं पर चढ़ा दीजिए।",
+        "en": "Host, cup the flowers in both hands and hear the mantras of blessing; at the end lay the flowers on the streams.",
+        "bho": "जजमान, दुनो हाथ जोड़ के फूल लीं आ आसीर्वाद के मंत्र सुनीं; अंत में फूल धार पर चढ़ा दीं।"
+      }
+    },
+    {
+      "n": 13,
+      "part": "ghrita",
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "दक्षिणा-संकल्प: आयुष्य-मंत्र पढ़ने वाले ब्राह्मणों को यजमान संकल्प के साथ दक्षिणा दे ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) पृ. 225)। मातृकाओं का विसर्जन पूरे कर्म के अंत में सब देवताओं के साथ होता है।",
+        "en": "Dakshina sankalpa: the host gives dakshina with a sankalpa to the Brahmins who recited the ayushya mantras ([Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) p. 225). The matrikas are bid farewell at the end of the whole rite with all the deities.",
+        "bho": "दक्षिणा-संकल्प: आयुष्य-मंत्र पढ़े वाला ब्राह्मन लोग के जजमान संकल्प संगे दक्षिणा दे ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) पृ. 225)। मातृका के बिसर्जन पूरा करम के अंत में सब देवता संगे होला।"
+      },
+      "samagriIds": [
+        "dakshina-brahman"
+      ],
+      "panditSays": {
+        "sa": "ॐ अद्य कृतैतदायुष्यवाचनकर्मणः साङ्गतासिद्ध्यर्थं तत्सम्पूर्णफलप्राप्त्यर्थं च आयुष्यवाचकेभ्यो ब्राह्मणेभ्यो यथाशक्ति मनसोद्दिष्टां दक्षिणां विभज्य दातुमहमुत्सृजे ॥",
+        "hi": "आज किए गए इस आयुष्य-वाचन की पूर्णता और पूरे फल के लिए आयुष्य-वाचक ब्राह्मणों को यथाशक्ति, मन में सोची दक्षिणा बाँटकर देता हूँ।",
+        "en": "For the completeness and full fruit of this ayushya recitation done today, I give to the reciting Brahmins, as I can, the dakshina I have resolved in my mind, divided among them.",
+        "bho": "आज कइल एह आयुष्य-वाचन के पूरा होखे आ पूरा फल खातिर आयुष्य-वाचक ब्राह्मन लोग के यथाशक्ति, मन में सोचल दक्षिणा बाँट के देत बानी।"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "region": "bhojpuri",
+      "what": {
+        "hi": "भोजपुरी विवाह ([विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) का कोहबर-प्रकरण): सोलह मातृकाएँ [[kohbar]] की दीवार पर गोबर की सत्रह पिंडियों पर; वसोर्धारा के समय वर-वधू अपने बाल कोहबर की दीवार से छुआते हैं और नाउन घी की धार देती है (लोकाचार); इसके बाद द्वारमातृका, कीर्ति-लक्ष्मी आदि चौदह गृहमातृकाएँ, छह विघ्नमातृकाएँ, सात जलमातृकाएँ और सात मध्यमातृकाएँ भी पूजी जाती हैं।",
+        "en": "The Bhojpuri wedding (kohbar section of the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt)): the sixteen matrikas on seventeen lumps of cow dung on the kohbar wall; at the vasordhara the couple touch their hair to the kohbar wall and the barber's wife pours the ghee stream (custom); then the door-matrikas, the fourteen house-matrikas Kirti, Lakshmi and the rest, the six vighna-matrikas, the seven water-matrikas and the seven middle-matrikas are worshipped as well.",
+        "bho": "भोजपुरी बियाह ([विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) के कोहबर-प्रकरन): सोरह मातृका [[kohbar]] के देवाल पर गोबर के सतरह पिंडी पर; वसोर्धारा के समय दुलहा-दुलहिन आपन केस कोहबर के देवाल से छुआवेलन आ नाउन घी के धार देली (लोकाचार); एकरा बाद द्वारमातृका, कीर्ति-लक्ष्मी आदि चौदह गृहमातृका, छव विघ्नमातृका, सात जलमातृका आ सात मध्यमातृका भी पूजल जाली।"
+      },
+      "source": "ia-vivah-mvf"
+    },
+    {
+      "region": "vasishthi",
+      "what": {
+        "hi": "[वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) घृत-मातृकाओं की धाराएँ 'पाँच या सात' कहती है — न अधिक न कम — और सातों को एक साथ 'ॐ भूर्भुवः स्वः घृतमातृभ्यो नमः' से पंचोपचार पूजती है; उसका 1939 संस्करण परशुराम के वचन में सात नामों में 'प्रज्ञा' गिनता है और रुद्रयामल का वचन देता है कि धाराएँ दूध से भी दी जा सकती हैं।",
+        "en": "The [Vasishthi Havan Paddhati](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) says the streams of the ghee-matrikas are 'five or seven' — no more, no fewer — and worships all seven together with 'om bhur bhuvah svah ghrita-matribhyo namah' and the five upacharas; its 1939 edition counts 'Prajna' among the seven names in Parashurama's verse and quotes the Rudrayamala that the streams may also be of milk.",
+        "bho": "[वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) घी-मातृका के धार 'पाँच भा सात' कहेला — ना बेसी ना कम — आ सातों के एक संगे 'ॐ भूर्भुवः स्वः घृतमातृभ्यो नमः' से पंचोपचार पूजेला; ओकर 1939 संस्करन परशुराम के वचन में सात नाँव में 'प्रज्ञा' गिनेला आ रुद्रयामल के वचन देला कि धार दूध से भी दिहल जा सकेला।"
+      },
+      "source": "ia-vasishthi-havan-paddhati-1941"
+    },
+    {
+      "region": "matsya",
+      "what": {
+        "hi": "[मत्स्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.53 ग्रह-यज्ञ के अभिषेक में चौदह 'धर्मपत्नी' माताओं का नाम लेता है — कीर्ति, लक्ष्मी, धृति, मेधा, पुष्टि, श्रद्धा, क्रिया, मति, बुद्धि, लज्जा, वपु, शांति, तुष्टि, कांति — यही पोथियों की 'गृहमातृका' सूची है; सोलह और सात की सूचियाँ पुराण में नहीं, पद्धति-ग्रंथों में हैं।",
+        "en": "The [Matsya Purana](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.53 names fourteen 'dharma-patni' mothers in the sprinkling of the graha-yajna — Kirti, Lakshmi, Dhriti, Medha, Pushti, Shraddha, Kriya, Mati, Buddhi, Lajja, Vapu, Shanti, Tushti, Kanti — the handbooks' list of 'house-matrikas'; the lists of sixteen and seven are not in the Purana but in the handbook literature.",
+        "bho": "[मत्स्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.53 ग्रह-जग्य के अभिषेक में चौदह 'धर्मपत्नी' माई लोग के नाँव लेला — कीर्ति, लक्ष्मी, धृति, मेधा, पुष्टि, श्रद्धा, क्रिया, मति, बुद्धि, लज्जा, वपु, सांति, तुष्टि, कांति — इहे पोथी के 'गृहमातृका' सूची बा; सोरह आ सात के सूची पुराण में ना, पद्धति-ग्रंथ में बा।"
+      },
+      "source": "ws-matsya-93"
+    }
+  ],
+  "faq": [
+    {
+      "q": {
+        "hi": "माताओं के साथ गणेश क्यों?",
+        "en": "Why Ganesha with the Mothers?",
+        "bho": "माई लोग संगे गणेश काहे?"
+      },
+      "a": {
+        "hi": "नाम-श्लोक स्वयं कहता है 'गणेशेनाधिका ह्येता' — गणेश को मिलाकर ये सोलह; पहले कोष्ठक में गौरी से पहले उनके पुत्र गणेश का आवाहन होता है और पूजन का नाम-मंत्र 'गणेशसहित' से शुरू होता है। परंपरा में माना जाता है कि विघ्नहर्ता की उपस्थिति में माताओं का पूजन निर्विघ्न पूरा होता है।",
+        "en": "The name verse itself says 'ganeshena adhika hy eta' — these sixteen, with Ganesha added; in the first cell her son Ganesha is invoked before Gauri, and the name mantra of the worship begins 'ganesha-sahita'. Tradition holds that in the presence of the remover of obstacles the worship of the Mothers is completed unobstructed.",
+        "bho": "नाँव-श्लोक खुदे कहेला 'गणेशेनाधिका ह्येता' — गणेश के मिला के ई सोरह; पहिला कोठरी में गौरी से पहिले उनकर बेटा गणेश के आवाहन होला आ पूजन के नाँव-मंत्र 'गणेशसहित' से सुरू होला। परंपरा में मानल जाला कि बिघनहर्ता के उपस्थिति में माई लोग के पूजन बिना बिघन पूरा होला।"
+      }
+    },
+    {
+      "q": {
+        "hi": "वसोर्धारा क्या है?",
+        "en": "What is the vasordhara?",
+        "bho": "वसोर्धारा का बा?"
+      },
+      "a": {
+        "hi": "शब्द का अर्थ है 'वसु (धन, देवता) की धारा'। [[yajurved]] 1.3 'वसोः पवित्रमसि शतधारं' में कुश के छन्ने की सौ-हज़ार धाराओं की बात है; पोथियों ने इसी मंत्र से दीवार पर घी की सात धाराएँ देना वसोर्धारा कहा और उनमें सात देवियों का निवास माना। हवन के अंत में घी की लगातार धारा को भी [[vasordhara]] कहते हैं — वह दूसरा विनियोग है।",
+        "en": "The word means 'the stream of Vasu (wealth, the god)'. Yajurveda 1.3 'vasoh pavitram asi shatadharam' speaks of the hundred and thousand streams of the kusha strainer; the handbooks named the seven ghee streams drawn on the wall with this mantra the vasordhara and held seven goddesses to dwell in them. The continuous stream of ghee at the end of a havan is also called vasordhara — that is a second use of the word.",
+        "bho": "शब्द के अरथ बा 'वसु (धन, देवता) के धार'। [[yajurved]] 1.3 'वसोः पवित्रमसि शतधारं' में कुस के छन्ना के सौ-हजार धार के बात बा; पोथी एही मंत्र से देवाल पर घी के सात धार देवे के वसोर्धारा कहल आ ओह में सात देवी के निवास मानल। हवन के अंत में घी के लगातार धार के भी [[vasordhara]] कहल जाला — ऊ दुसरा बिनियोग बा।"
+      }
+    },
+    {
+      "q": {
+        "hi": "क्या मातृका-पूजन वैदिक है?",
+        "en": "Is the matrika worship Vedic?",
+        "bho": "का मातृका-पूजन वैदिक बा?"
+      },
+      "a": {
+        "hi": "नहीं — [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) में मातृका-पूजन नहीं है; यह पौराणिक-पद्धति परत है, जिसमें वैदिक मंत्र (VS 23.18, 1.3, 2.12, 2.13, 34.50–52) पिरोए गए हैं। हर चरण पर 'वैदिक/पद्धति/लोकाचार' की पट्टी यही बताती है। देश-कुल का आचार प्रमाण है — [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) 1.8.11–13 'गाँव ही प्रमाण है' कहता है।",
+        "en": "No — the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) has no matrika worship; it is the Puranic-handbook layer, into which Vedic mantras (VS 23.18, 1.3, 2.12, 2.13, 34.50–52) are threaded. The 'Vedic / handbook / custom' chip on each step says exactly this. The custom of the region and family is the authority — the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) 1.8.11–13 says 'the village is the authority'.",
+        "bho": "ना — [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) में मातृका-पूजन नइखे; ई पौरानिक-पद्धति परत बा, जेह में वैदिक मंत्र (VS 23.18, 1.3, 2.12, 2.13, 34.50–52) पिरोवल बा। हर चरन पर 'वैदिक/पद्धति/लोकाचार' के पट्टी इहे बतावेला। देस-कुल के आचार परमान बा — [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) 1.8.11–13 'गाँव ही परमान बा' कहेला।"
+      }
+    },
+    {
+      "q": {
+        "hi": "घी की धाराएँ कौन देता है?",
+        "en": "Who pours the ghee streams?",
+        "bho": "घी के धार के देला?"
+      },
+      "a": {
+        "hi": "पोथियों में यजमान (या पंडित) मंत्र के साथ देता है; भोजपुरी-मैथिल विवाह में कोहबर की दीवार पर नाउन (नाई की पत्नी) देती है और वर-वधू बाल छुआते हैं — यह लोकाचार है, जिसे [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) भी 'लोकाचार' लिखकर दर्ज करती है।",
+        "en": "In the handbooks the host (or the pandit) pours them with the mantra; in a Bhojpuri or Maithil wedding the barber's wife pours them on the kohbar wall while the couple touch their hair to it — a custom, which the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) also records marked 'lokachar'.",
+        "bho": "पोथी में जजमान (भा पंडित) मंत्र संगे देला; भोजपुरी-मैथिल बियाह में कोहबर के देवाल पर नाउन (नाऊ के पत्नी) देली आ दुलहा-दुलहिन केस छुआवेलन — ई लोकाचार बा, जेकरा [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) भी 'लोकाचार' लिख के दरज करेला।"
+      }
+    }
+  ],
+  "sources": [
+    "ia-nkpp-scan",
+    "ia-vivah-mvf",
+    "ia-vasishthi-havan-paddhati-1941",
+    "ia-vasishthi-havan-paddhati-1939",
+    "ws-syv-01",
+    "ws-syv-02",
+    "ws-syv-23",
+    "ws-syv-34",
+    "ws-matsya-93",
+    "titus-vs"
+  ],
+  "tags": [
+    "foundations",
+    "matrika",
+    "vasordhara"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

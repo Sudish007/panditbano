@@ -1,0 +1,104 @@
+{
+  "id": "vs-29-37",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 29.37",
+  "title": {
+    "hi": "केतुं कृण्वन्नकेतवे (केतु)",
+    "en": "Ketum krinvann aketave (Ketu)",
+    "bho": "केतुं कृण्वन्नकेतवे (केतु)"
+  },
+  "devanagari": "के॒तुं कृ॒ण्वन्न॑के॒तवे॒ पेशो॑ मर्या अपे॒शसे॑ । समु॒षद्भि॑रजायथाः ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "केतुं कृण्वन्",
+      "gloss": {
+        "hi": "(प्रकाश का) चिह्न बनाता हुआ",
+        "en": "making a beacon (of light)",
+        "bho": "(अँजोर के) चिन्हा बनावत"
+      }
+    },
+    {
+      "sa": "अकेतवे",
+      "gloss": {
+        "hi": "चिह्न-रहित (अंधकार) के लिए",
+        "en": "for what has no beacon (the dark)",
+        "bho": "बिना चिन्हा (अन्हार) खातिर"
+      }
+    },
+    {
+      "sa": "पेशः",
+      "gloss": {
+        "hi": "रूप (आकार)",
+        "en": "form",
+        "bho": "रूप"
+      }
+    },
+    {
+      "sa": "मर्याः",
+      "gloss": {
+        "hi": "हे मनुष्यों",
+        "en": "O mortals",
+        "bho": "हे मनई लोग"
+      }
+    },
+    {
+      "sa": "अपेशसे",
+      "gloss": {
+        "hi": "रूप-रहित के लिए",
+        "en": "for the formless",
+        "bho": "बिना रूप खातिर"
+      }
+    },
+    {
+      "sa": "सम् उषद्भिः",
+      "gloss": {
+        "hi": "उषाओं के साथ",
+        "en": "together with the dawns",
+        "bho": "भोर लोग संगे"
+      }
+    },
+    {
+      "sa": "अजायथाः",
+      "gloss": {
+        "hi": "तू उत्पन्न हुआ",
+        "en": "you were born",
+        "bho": "तू जनमल"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे मनुष्यों, अंधकार के लिए प्रकाश का चिह्न और रूप-रहित के लिए रूप बनाते हुए तू (सूर्य/इंद्र) उषाओं के साथ उत्पन्न हुआ।",
+    "en": "Making a beacon for what had none and form for the formless, O mortals, you (the Sun/Indra) were born together with the dawns.",
+    "bho": "हे मनई लोग, अन्हार खातिर अँजोर के चिन्हा आ बिना रूप खातिर रूप बनावत तू (सूर्य/इंद्र) भोर लोग संगे जनमल।"
+  },
+  "explanation": {
+    "hi": "ऋग्वेद 1.6.3 की ऋचा, [[yajurved]] में VS 29.37 (VS 12.11 और 17.53 में भी)। पहला शब्द 'केतुं' है — इसी से पोथियाँ इसे [[ketu]] ग्रह की वैदिक ऋचा मानती हैं; [याज्ञवल्क्यस्मृति](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.301 'केतुं कृण्वन्' को नौवाँ मंत्र गिनती है। केतु मंडल के [[vayavya]] कोण में धूमिल (धूसर) अक्षत पर स्थापित होते हैं ([मत्स्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.12; [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur))। शोध-सूची में स्थान 29.37 या 29.60 अनिश्चित था — [संस्कृत विकिस्रोत](https://sa.wikisource.org/) का स्वर-खंड 'केतुं कृण्वन्नकेतवे' को ।। ३७ ।। और लंबी निविद् 'अग्नये गायत्राय त्रिवृते' को ।। ६० ।। देता है, [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) भी 29.37 — इसलिए VS 29.37 निश्चित।",
+    "en": "Rigveda 1.6.3, carried at VS 29.37 (also at VS 12.11 and 17.53). Its first word is 'ketum' — hence the handbooks make it the Vedic rk of Ketu; the [Yajnavalkya Smriti](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.301 counts 'ketum krinvan' as the ninth mantra. Ketu is installed in the north-west cell on smoke-grey rice ([Matsya Purana](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.12; [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur)). The inventory left the locator uncertain between 29.37 and 29.60: the svara block on [Sanskrit Wikisource](https://sa.wikisource.org/) numbers 'ketum krinvann aketave' ।। ३७ ।। and the long nivid 'agnaye gayatraya trivrite' ।। ६० ।।, and [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) agrees on 29.37 — so VS 29.37 is settled.",
+    "bho": "ऋग्वेद 1.6.3 के ऋचा, [[yajurved]] में VS 29.37 (VS 12.11 आ 17.53 में भी)। पहिला शब्द 'केतुं' बा — एही से पोथी एकरा [[ketu]] ग्रह के वैदिक ऋचा मानेला; [याज्ञवल्क्यस्मृति](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.301 'केतुं कृण्वन्' के नौवाँ मंत्र गिनेला। केतु मंडल के [[vayavya]] कोन में धुआँ-रंग (धूसर) अछत पर स्थापित होलन ([मत्स्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.12; [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur))। शोध-सूची में जगह 29.37 भा 29.60 अनिश्चित रहे — [संस्कृत विकिस्रोत](https://sa.wikisource.org/) के स्वर-खंड 'केतुं कृण्वन्नकेतवे' के ।। ३७ ।। आ लमहर निविद् 'अग्नये गायत्राय त्रिवृते' के ।। ६० ।। देला, [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) भी 29.37 — एही से VS 29.37 तय।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-29",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "navagraha",
+    "ketu"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

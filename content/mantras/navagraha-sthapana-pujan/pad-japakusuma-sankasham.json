@@ -1,0 +1,114 @@
+{
+  "id": "pad-japakusuma-sankasham",
+  "kind": "puranic",
+  "title": {
+    "hi": "जपाकुसुमसंकाशं (सूर्य ध्यान)",
+    "en": "Japakusuma-sankasham (dhyana of Surya)",
+    "bho": "जपाकुसुमसंकाशं (सूर्य धियान)"
+  },
+  "devanagari": "जपाकुसुमसङ्काशं काश्यपेयं महाद्युतिम् । तमोऽरिं सर्वपापघ्नं प्रणतोऽस्मि दिवाकरम् ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "जपाकुसुमसङ्काशम्",
+      "gloss": {
+        "hi": "जपा (अड़हुल) के फूल जैसे लाल",
+        "en": "red like the japa (hibiscus) flower",
+        "bho": "अड़हुल के फूल जइसन लाल"
+      }
+    },
+    {
+      "sa": "काश्यपेयम्",
+      "gloss": {
+        "hi": "कश्यप के पुत्र",
+        "en": "son of Kashyapa",
+        "bho": "कस्यप के बेटा"
+      }
+    },
+    {
+      "sa": "महाद्युतिम्",
+      "gloss": {
+        "hi": "महान तेज वाले",
+        "en": "of great brilliance",
+        "bho": "बड़ तेज वाला"
+      }
+    },
+    {
+      "sa": "तमोऽरिम्",
+      "gloss": {
+        "hi": "अंधकार के शत्रु",
+        "en": "enemy of darkness",
+        "bho": "अन्हार के दुसमन"
+      }
+    },
+    {
+      "sa": "सर्वपापघ्नम्",
+      "gloss": {
+        "hi": "सब पापों के नाशक",
+        "en": "destroyer of all sins",
+        "bho": "सब पाप के नास करे वाला"
+      }
+    },
+    {
+      "sa": "प्रणतोऽस्मि दिवाकरम्",
+      "gloss": {
+        "hi": "दिवाकर (सूर्य) को मैं प्रणाम करता हूँ",
+        "en": "I bow to the day-maker (the Sun)",
+        "bho": "दिवाकर (सूर्य) के हम परनाम करत बानी"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "जपा के फूल जैसे लाल, कश्यप-पुत्र, महान तेज वाले, अंधकार के शत्रु और सब पापों के नाशक दिवाकर सूर्य को मैं प्रणाम करता हूँ।",
+    "en": "I bow to the Sun, the day-maker — red like the japa flower, son of Kashyapa, of great brilliance, enemy of darkness, destroyer of all sins.",
+    "bho": "अड़हुल के फूल जइसन लाल, कस्यप-पुत्र, बड़ तेज वाला, अन्हार के दुसमन आ सब पाप के नास करे वाला दिवाकर सूर्य के हम परनाम करत बानी।"
+  },
+  "explanation": {
+    "hi": "[नवग्रह स्तोत्र](/texts/navagraha-stotra/) का 1 वाँ श्लोक — सूर्य का पौराणिक ध्यान। [[navagraha-pujan]] में वैदिक ऋचा के बाद पंडित यह श्लोक पढ़ता है और फिर नाम-मंत्र से आवाहन-स्थापन करता है; ग्रह का स्थान और रंग मध्य, लाल ([मत्स्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.11–12, 17; [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur))। [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) इस श्लोक का अंतिम पद 'आवाहयाम्यहम्' (मैं आवाहन करता हूँ) में बदलकर पढ़ती है — वह पाठ नीचे पाठांतर में है; [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) स्तोत्र का मूल पाठ ही पढ़ती है। परंपरा में माना जाता है कि ध्यान-श्लोक से ग्रह का रूप मन में बैठता है; यह पूजा-विधि का वर्णन है, फलादेश नहीं।",
+    "en": "Verse 1 of the [Navagraha Stotra](/texts/navagraha-stotra/) — the Puranic dhyana of सूर्य. In the navagraha worship the pandit recites it after the Vedic rk and then invokes and installs the graha with the name mantra; position and colour in the mandala: centre, red ([Matsya Purana](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.11–12, 17; [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur)). The [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) recites it with the last foot changed to 'avahayamy aham' (I invoke) — that reading is given below as a variant; the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) keeps the stotra's text. Tradition holds that the dhyana verse fixes the graha's form in the mind; this is a description of the rite, not a prediction.",
+    "bho": "[नवग्रह स्तोत्र](/texts/navagraha-stotra/) के 1 वाँ श्लोक — सूर्य के पौरानिक धियान। [[navagraha-pujan]] में वैदिक ऋचा के बाद पंडित ई श्लोक पढ़ेलन आ फेर नाँव-मंत्र से आवाहन-स्थापन करेलन; ग्रह के जगह आ रंग बीच, लाल ([मत्स्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.11–12, 17; [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur))। [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) एह श्लोक के अंतिम पद 'आवाहयाम्यहम्' (हम आवाहन करत बानी) में बदल के पढ़ेला — ऊ पाठ नीचे पाठांतर में बा; [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) स्तोत्र के मूल पाठ ही पढ़ेला। परंपरा में मानल जाला कि धियान-श्लोक से ग्रह के रूप मन में बइठेला; ई पूजा-बिधि के बरनन बा, फलादेस ना।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-navagraha-stotra",
+    "retrieved": "2026-11-01",
+    "modified": "verse numbers ॥१॥ … removed; a space set before । and ॥; the two half-verse lines joined; the ॥ रविः ॥ … ॥ फलश्रुतिः ॥ headings and the colophon dropped"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "navagraha",
+    "dhyana",
+    "japakusuma"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "text": "navagraha-stotra",
+  "locator": "Navagraha-stotra 1",
+  "deity": "सूर्य",
+  "checkedAgainst": [
+    {
+      "ref": "sd-navagraha-stotra",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-nkpp-scan",
+      "retrieved": "2026-11-01",
+      "note": "stotra form on p. 328 agrees with Wikisource; the puja section pp. 227–229 adapts the last foot (variant)"
+    }
+  ],
+  "variants": [
+    {
+      "reading": "जपाकुसुमसङ्काशं काश्यपेयं महाद्युतिम् । तमोऽरिं सर्वपापघ्नं सूर्यमावाहयाम्यहम् ॥",
+      "note": {
+        "hi": "[नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 227–229) का आवाहन-पाठ।",
+        "en": "The invocation form of the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (pp. 227–229).",
+        "bho": "[नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 227–229) के आवाहन-पाठ।"
+      },
+      "source": "ia-nkpp-scan"
+    }
+  ]
+}

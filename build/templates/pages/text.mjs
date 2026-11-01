@@ -5,7 +5,7 @@
 import { html, t, num } from "../lib.mjs";
 import { layout } from "../layout.mjs";
 import { kindChip, sourcesSection, mdContext, inlineProse } from "../components/verse.mjs";
-import { textHref, chapterHref, textsCrumbs, langLabel, textCounts, usedInCard, clip } from "./texts-index.mjs";
+import { textHref, chapterHref, textsCrumbs, langLabel, textCounts, usedInCard, clip, excerpt } from "./texts-index.mjs";
 
 export function chapterCard(ctx, lang, text, ch) {
   const kind = ch.verses && ch.verses[0] && ch.verses[0].verseKind ? t(lang, `verse_kind.${ch.verses[0].verseKind}`) : null;
@@ -55,7 +55,7 @@ export function textPage(ctx, { route, text, data, derived, occasionsById }) {
   return layout(ctx, {
     route,
     title: text.title[lang],
-    description: clip(text.intro[lang]),
+    description: excerpt(text.intro[lang], mdContext(ctx, lang, derived)),
     section: "texts",
     ogType: "article",
     crumbs: textsCrumbs(ctx, lang),

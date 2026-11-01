@@ -4,10 +4,21 @@
 // pages live here (textHref, chapterHref, textsCrumbs, langLabel, usedInCard) the way mantra.mjs imports from mantras-index.
 import { html, raw, t, icon, num } from "../lib.mjs";
 import { layout } from "../layout.mjs";
-import { kindChip } from "../components/verse.mjs";
+import { kindChip, mdContext } from "../components/verse.mjs";
 import { tp } from "../components/names.mjs";
+import { proseOnly } from "../../lib/md.mjs";
 
 export const clip = (s, n = 160) => { const x = String(s ?? "").replace(/\s+/g, " ").trim(); return x.length <= n ? x : x.slice(0, n - 1).replace(/\s+\S*$/, "") + "…"; };
+/**
+ * Plain-text excerpt of a prose field (card body, meta description): `[[term]]` → the term's display form (as stepTitle
+ * does), `[text](url)` → its text, Markdown removed, then clipped. The first long text (C1A-04 integrate) showed its
+ * intro's raw `[[navagraha]]` / `[[phalashruti]]` marks on the texts index card.
+ */
+export function excerpt(text, mdCtx = null, n = 160) {
+  let s = String(text ?? "");
+  if (mdCtx) s = s.replace(/\[\[([a-z0-9-]+)\]\]/g, (m, id) => (mdCtx.term(id) || {}).display || m);
+  return clip(proseOnly(s), n);
+}
 
 export const textHref = (ctx, lang, text) => ctx.R.href(`${lang}/texts/${text.slug}/`);
 /** Chapter route; part k ≥ 2 → …/{n}/p{k}/ (design §7.8). */
@@ -53,17 +64,18 @@ export function usedInCard(ctx, lang, text, { derived, occasionsById, chapter = 
   return html`<div class="${cls} used-in">${raw(`<${H} class="rail-h">`)}${t(lang, "texts.used_in")}${raw(`</${H}>`)}<nav aria-label="${t(lang, "texts.used_in")}"><ul>${rows}</ul></nav></div>`;
 }
 
-export function textCard(ctx, text, lang) {
+export function textCard(ctx, text, lang, mdCtx = null) {
   return html`<a class="card card-link text-card" href="${textHref(ctx, lang, text)}">
 <span class="chips">${kindChip(text, lang)}<span class="chip chip-lok">${langLabel(lang, text)}</span></span>
 <h3 class="m0">${text.title[lang]}</h3>
-<p class="m0">${clip(text.intro[lang])}</p>
+<p class="m0">${excerpt(text.intro[lang], mdCtx)}</p>
 <span class="meta">${textCounts(lang, text)}</span>
 </a>`;
 }
 
-export function textsIndexBody(ctx, { lang, texts, counts = {} }) {
+export function textsIndexBody(ctx, { lang, texts, counts = {}, derived = null }) {
   const R = ctx.R;
+  const mdCtx = derived ? mdContext(ctx, lang, derived) : null;
   const list = texts.slice().sort((a, b) => (b.publishedCount > 0) - (a.publishedCount > 0) || String(a.title[lang]).localeCompare(String(b.title[lang]), lang === "en" ? "en" : "hi"));
   return html`<div class="page-head">
 <div><h1>${t(lang, "texts.title")}</h1><p class="lede m0">${tp(ctx, lang, "texts.lede")}</p></div>
@@ -72,11 +84,11 @@ export function textsIndexBody(ctx, { lang, texts, counts = {} }) {
 ${counts.mantras ? html`<a class="card card-link mantras-card" href="${R.href(`${lang}/mantras/`)}">${icon("i-om", { cls: "ico", size: 44 })}<div class="t"><h2 class="m0">${t(lang, "mantras.title")}</h2><p class="m0">${t(lang, "texts.mantras_body")}</p></div><span class="count">${t(lang, "counts.mantras", { n: num(counts.mantras) })}</span><span class="more">${t(lang, "home.more")}</span></a>` : ""}
 <section id="texts" aria-labelledby="h-texts">
 <div class="section-head"><h2 id="h-texts">${t(lang, "texts.heading")}</h2><span class="meta">${t(lang, "counts.pages", { n: num(list.length) })}</span></div>
-<div class="grid grid-md-2 grid-lg-3 grid-xl-4">${list.map((x) => textCard(ctx, x, lang))}</div>
+<div class="grid grid-md-2 grid-lg-3 grid-xl-4">${list.map((x) => textCard(ctx, x, lang, mdCtx))}</div>
 </section>`;
 }
 
-export function textsIndexPage(ctx, { route, texts, counts }) {
+export function textsIndexPage(ctx, { route, texts, counts, derived = null }) {
   const lang = route.lang;
   const R = ctx.R;
   return layout(ctx, {
@@ -85,6 +97,6 @@ export function textsIndexPage(ctx, { route, texts, counts }) {
     description: clip(t(lang, "texts.lede")),
     section: "texts",
     crumbs: [{ href: R.href(`${lang}/`), label: t(lang, "nav.home") }],
-    body: textsIndexBody(ctx, { lang, texts, counts }),
+    body: textsIndexBody(ctx, { lang, texts, counts, derived }),
   });
 }

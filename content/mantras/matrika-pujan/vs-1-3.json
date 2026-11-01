@@ -1,0 +1,105 @@
+{
+  "id": "vs-1-3",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 1.3",
+  "title": {
+    "hi": "वसोः पवित्रमसि (घृत-धारा)",
+    "en": "Vasoh pavitram asi (the ghee streams)",
+    "bho": "वसोः पवित्रमसि (घी-धार)"
+  },
+  "devanagari": "वसोः॑ प॒वित्र॑मसि श॒तधा॑रं॒ वसोः॑ प॒वित्र॑मसि स॒हस्र॑धारम् । दे॒वस्त्वा॑ सवि॒ता पु॑नातु॒ वसोः॑ प॒वित्रे॑ण श॒तधा॑रेण सु॒प्वा काम॑धुक्षः ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "वसोः पवित्रम् असि",
+      "gloss": {
+        "hi": "तू वसु (धन/अग्नि) का पवित्र (छन्ना) है",
+        "en": "you are the strainer of Vasu (wealth / Agni)",
+        "bho": "तू वसु (धन/अग्नि) के पबित्र (छन्ना) बाड़"
+      }
+    },
+    {
+      "sa": "शतधारम्",
+      "gloss": {
+        "hi": "सौ धाराओं वाला",
+        "en": "with a hundred streams",
+        "bho": "सौ धार वाला"
+      }
+    },
+    {
+      "sa": "सहस्रधारम्",
+      "gloss": {
+        "hi": "हज़ार धाराओं वाला",
+        "en": "with a thousand streams",
+        "bho": "हजार धार वाला"
+      }
+    },
+    {
+      "sa": "देवः त्वा सविता पुनातु",
+      "gloss": {
+        "hi": "सविता देव तुझे पवित्र करें",
+        "en": "may the god Savitr purify you",
+        "bho": "सविता देव तोहरा के पबित्र करसु"
+      }
+    },
+    {
+      "sa": "वसोः पवित्रेण शतधारेण",
+      "gloss": {
+        "hi": "वसु के सौ-धारा वाले पवित्र से",
+        "en": "with the hundred-streamed strainer of Vasu",
+        "bho": "वसु के सौ-धार वाला पबित्र से"
+      }
+    },
+    {
+      "sa": "सुप्वा",
+      "gloss": {
+        "hi": "अच्छी तरह छानकर",
+        "en": "straining well",
+        "bho": "नीक से छान के"
+      }
+    },
+    {
+      "sa": "कामधुक्षः",
+      "gloss": {
+        "hi": "तू कामनाओं को दुहने वाला (पूर्ण करने वाला) हो",
+        "en": "be the milker of wishes",
+        "bho": "तू कामना के दुहे वाला होख"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "तू वसु का सौ धाराओं वाला पवित्र है, तू वसु का हज़ार धाराओं वाला पवित्र है। सविता देव तुझे वसु के सौ-धारा वाले पवित्र से अच्छी तरह छानकर पवित्र करें; तू कामनाओं को दुहने वाला हो।",
+    "en": "You are the strainer of Vasu with a hundred streams, you are the strainer of Vasu with a thousand streams. May the god Savitr purify you with the hundred-streamed strainer of Vasu, straining well; be the milker of wishes.",
+    "bho": "तू वसु के सौ धार वाला पबित्र बाड़, तू वसु के हजार धार वाला पबित्र बाड़। सविता देव तोहरा के वसु के सौ-धार वाला पबित्र से नीक से छान के पबित्र करसु; तू कामना के दुहे वाला होख।"
+  },
+  "explanation": {
+    "hi": "[[yajurved]] के पहले अध्याय का तीसरा मंत्र (दर्शपूर्णमास में पवित्र — कुश के छन्ने — को संबोधित)। 'शतधारम्, सहस्रधारम्' (सौ-हज़ार धाराएँ) शब्दों के कारण पोथियाँ इसे [[vasordhara]] — [[sapta-ghrit-matrika]] पूजन में घी की सात धाराएँ देने — का मंत्र बनाती हैं ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) पृ. 224; [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt); [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller))। [[havan]] के अंत की वसोर्धारा (घी की लगातार धारा) में भी यही मंत्र है।",
+    "en": "The third mantra of the first chapter of the Yajurveda (addressed in the new- and full-moon rite to the pavitra, the kusha strainer). For the words 'shatadharam, sahasradharam' (a hundred, a thousand streams) the handbooks make it the mantra of the vasordhara — the seven streams of ghee drawn in the sapta-ghrita-matrika worship ([Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) p. 224; [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt); [Vasishthi Havan Paddhati](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller)). The same mantra accompanies the vasordhara, the continuous stream of ghee, at the end of a havan.",
+    "bho": "[[yajurved]] के पहिला अध्याय के तीसरा मंत्र (दर्शपूर्णमास में पबित्र — कुस के छन्ना — के संबोधित)। 'शतधारम्, सहस्रधारम्' (सौ-हजार धार) शब्द के कारन पोथी एकरा [[vasordhara]] — [[sapta-ghrit-matrika]] पूजन में घी के सात धार देवे — के मंत्र बनावेला ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) पृ. 224; [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt); [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller))। [[havan]] के अंत के वसोर्धारा (घी के लगातार धार) में भी इहे मंत्र बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-01",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "matrika",
+    "vasordhara",
+    "ghrita"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "id": "vs-26-3",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 26.3",
+  "title": {
+    "hi": "बृहस्पते अति यदर्यः (गुरु)",
+    "en": "Brihaspate ati yad aryah (Guru)",
+    "bho": "बृहस्पते अति यदर्यः (गुरु)"
+  },
+  "devanagari": "बृह॑स्पते॒ अति॒ यद॒र्यो अर्हा॑द् द्यु॒मद्वि॒भाति॒ क्रतु॑म॒ज्जने॑षु । यद्दी॒दय॒च्छव॑स ऋतप्रजात॒ तद॒स्मासु॒ द्रवि॑णं धेहि चि॒त्रम् । उ॒प॒या॒मगृ॑हीतोऽसि॒ बृह॒स्पत॑ये त्वै॒ष ते॒ योनि॒र्बृह॒स्पत॑ये त्वा ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "बृहस्पते",
+      "gloss": {
+        "hi": "हे बृहस्पति",
+        "en": "O Brihaspati",
+        "bho": "हे बृहस्पति"
+      }
+    },
+    {
+      "sa": "यत् अर्यः अति अर्हात्",
+      "gloss": {
+        "hi": "जो (धन) शत्रु से भी बढ़कर योग्य हो",
+        "en": "what is worthier than even the rival's",
+        "bho": "जे (धन) दुसमन से भी बढ़ के जोग होखे"
+      }
+    },
+    {
+      "sa": "द्युमत् विभाति",
+      "gloss": {
+        "hi": "तेज से चमकता है",
+        "en": "shines with light",
+        "bho": "तेज से चमकेला"
+      }
+    },
+    {
+      "sa": "क्रतुमत् जनेषु",
+      "gloss": {
+        "hi": "लोगों में बल-बुद्धि वाला",
+        "en": "full of power among men",
+        "bho": "लोग में बल-बुद्धि वाला"
+      }
+    },
+    {
+      "sa": "यत् दीदयत् शवसा",
+      "gloss": {
+        "hi": "जो बल से दीप्त है",
+        "en": "which blazes with strength",
+        "bho": "जे बल से दिपेला"
+      }
+    },
+    {
+      "sa": "ऋतप्रजात",
+      "gloss": {
+        "hi": "हे ऋत (सत्य) से उत्पन्न",
+        "en": "O you born of the Law",
+        "bho": "हे ऋत (सत्य) से जनमल"
+      }
+    },
+    {
+      "sa": "तत् अस्मासु द्रविणं धेहि चित्रम्",
+      "gloss": {
+        "hi": "वह अद्भुत धन हममें स्थापित करो",
+        "en": "that wondrous wealth set in us",
+        "bho": "ऊ अचरज वाला धन हमनी में राखीं"
+      }
+    },
+    {
+      "sa": "उपयामगृहीतः असि",
+      "gloss": {
+        "hi": "तू उपयाम (पात्र) से ग्रहण किया गया है",
+        "en": "you are taken with the upayama cup",
+        "bho": "तू उपयाम (बरतन) से लिहल गइल बाड़"
+      }
+    },
+    {
+      "sa": "बृहस्पतये त्वा",
+      "gloss": {
+        "hi": "तुझे बृहस्पति के लिए",
+        "en": "you for Brihaspati",
+        "bho": "तोहरा बृहस्पति खातिर"
+      }
+    },
+    {
+      "sa": "एष ते योनिः",
+      "gloss": {
+        "hi": "यह तेरा स्थान है",
+        "en": "this is your seat",
+        "bho": "ई तोहार जगह बा"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे ऋत से उत्पन्न बृहस्पति, जो धन शत्रु से भी बढ़कर योग्य है, जो लोगों में तेज से चमकता और बल से दीप्त है, वह अद्भुत धन हममें स्थापित करो। (हे सोम,) तू उपयाम पात्र से ग्रहण किया गया है — तुझे बृहस्पति के लिए; यह तेरा स्थान है — तुझे बृहस्पति के लिए।",
+    "en": "O Brihaspati born of the Law, that wondrous wealth which is worthier than even the rival's, which shines with light and blazes with strength among men — set it in us. (O Soma,) you are taken with the upayama cup — you for Brihaspati; this is your seat — you for Brihaspati.",
+    "bho": "हे ऋत से जनमल बृहस्पति, जे धन दुसमन से भी बढ़ के जोग बा, जे लोग में तेज से चमकेला आ बल से दिपेला, ऊ अचरज वाला धन हमनी में राखीं। (हे सोम,) तू उपयाम बरतन से लिहल गइल बाड़ — तोहरा बृहस्पति खातिर; ई तोहार जगह बा — तोहरा बृहस्पति खातिर।"
+  },
+  "explanation": {
+    "hi": "ऋग्वेद 2.23.15 की बृहस्पति-ऋचा और उसके बाद का सोमग्रह-यजुस् — दोनों मिलकर VS 26.3 हैं; 'बृहस्पते' संबोधन से यह [[guru]] (बृहस्पति) ग्रह की वैदिक ऋचा है। ये नौ ऋचाएँ [याज्ञवल्क्यस्मृति](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.300–301 में ग्रह-क्रम से गिनाई गई हैं (आकृष्णेन, इमं देवा, अग्निर्मूर्धा, उद्बुध्यस्व, बृहस्पतेऽति, अन्नात्परिस्रुतः, शं नो देवीः, कया नश्चित्र, केतुं कृण्वन्) — इसी स्मृति-सूची पर हिंदी-पट्टी की पोथियों का नवग्रह-पूजन टिका है। गुरु मंडल के उत्तर कोष्ठक में पीले अक्षत पर स्थापित होते हैं ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur))। शोध-सूची में इसका स्थान 26.3 या 26.26 अनिश्चित था — [संस्कृत विकिस्रोत](https://sa.wikisource.org/) के 26वें अध्याय का स्वर-खंड 'बृहस्पते अति यदर्यो' को ।। ३ ।। और 'रक्षोहा विश्वचर्षणिः' को ।। २६ ।। देता है, और [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) भी 26.3 — इसलिए यहाँ VS 26.3 निश्चित। [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) पूरा मंत्र (उपयामगृहीतोऽसि तक) पढ़ता है, [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) 'चित्रम्' पर रुकता है; [मत्स्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.35 गुरु के होम के लिए 'बृहस्पते परि दीया रथेन' देता है।",
+    "en": "The Brihaspati rk Rigveda 2.23.15 followed by a yajus of the Soma cup — together VS 26.3; the address 'brihaspate' makes it the Vedic rk of Jupiter (Guru, Brihaspati). These nine rks are listed in graha order in the [Yajnavalkya Smriti](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.300–301 (a krishnena, imam deva, agnir murdha, ud budhyasva, brihaspate ati, annat parisrutah, sham no devih, kaya nash chitra, ketum krinvan); the navagraha worship of the Hindi-belt handbooks rests on this smriti list. Jupiter is installed in the northern cell on yellow rice ([Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur)). The research inventory left its locator uncertain between 26.3 and 26.26: the svara block of chapter 26 on [Sanskrit Wikisource](https://sa.wikisource.org/) numbers 'brihaspate ati yad aryo' ।। ३ ।। and 'rakshoha vishvacharshanih' ।। २६ ।।, and [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) agrees on 26.3 — so VS 26.3 is settled here. The [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) recites the whole mantra (to 'upayamagrihito 'si'), the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) stops at 'chitram'; the [Matsya Purana](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.35 gives 'brihaspate pari diya rathena' for Jupiter's homa instead.",
+    "bho": "ऋग्वेद 2.23.15 के बृहस्पति-ऋचा आ ओकरा बाद के सोमग्रह-यजुस् — दुनो मिल के VS 26.3 बा; 'बृहस्पते' संबोधन से ई [[guru]] (बृहस्पति) ग्रह के वैदिक ऋचा बा। ई नौ ऋचा [याज्ञवल्क्यस्मृति](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.300–301 में ग्रह-क्रम से गिनावल बा (आकृष्णेन, इमं देवा, अग्निर्मूर्धा, उद्बुध्यस्व, बृहस्पतेऽति, अन्नात्परिस्रुतः, शं नो देवीः, कया नश्चित्र, केतुं कृण्वन्) — एही स्मृति-सूची पर हिंदी-पट्टी के पोथी के नवग्रह-पूजन टिकल बा। गुरु मंडल के उत्तर कोठरी में पियर अछत पर स्थापित होलन ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur))। शोध-सूची में एकर जगह 26.3 भा 26.26 अनिश्चित रहे — [संस्कृत विकिस्रोत](https://sa.wikisource.org/) के 26वाँ अध्याय के स्वर-खंड 'बृहस्पते अति यदर्यो' के ।। ३ ।। आ 'रक्षोहा विश्वचर्षणिः' के ।। २६ ।। देला, आ [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) भी 26.3 — एही से इहाँ VS 26.3 तय। [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) पूरा मंत्र (उपयामगृहीतोऽसि तक) पढ़ेला, [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) 'चित्रम्' पर रुकेला; [मत्स्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.35 गुरु के होम खातिर 'बृहस्पते परि दीया रथेन' देला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-26",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "navagraha",
+    "guru",
+    "brihaspati"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "variants": [
+    {
+      "reading": "बृहस्पते अति यदर्यो अर्हाद् द्युमद्विभाति क्रतुमज्जनेषु । यद्दीदयच्छवस ऋतप्रजात तदस्मासु द्रविणं धेहि चित्रम् ॥",
+      "note": {
+        "hi": "[विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) ऋचा को 'चित्रम्' पर रोकती है और सोमग्रह का यजुस् नहीं पढ़ती।",
+        "en": "The [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) ends the rk at 'chitram' and does not recite the Soma-cup yajus.",
+        "bho": "[विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) ऋचा के 'चित्रम्' पर समाप्त करेला आ सोमग्रह के यजुस् ना पढ़ेला।"
+      },
+      "source": "ia-vivah-mvf"
+    }
+  ]
+}

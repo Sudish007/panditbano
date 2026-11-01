@@ -1747,6 +1747,156 @@
       "item": "couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller",
       "publisher": "Vishveshvar Press, Bulanala, Kashi (Karm Babu Baijnath Prasad, book-seller)",
       "year": "1941"
+    },
+    {
+      "id": "ws-yajnavalkya-grahashanti",
+      "project": "wikisource",
+      "title": "याज्ञवल्क्यस्मृतिः/आचाराध्यायः/ग्रहशान्तिप्रकरणम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "reference",
+      "secondSourceAvailable": true,
+      "titles": [
+        "याज्ञवल्क्यस्मृति",
+        "याज्ञवल्क्य स्मृति",
+        "Yajnavalkya Smriti"
+      ],
+      "note": "Acharadhyaya 1.295–1.308 (graha-shanti-prakarana): the list of the nine grahas (1.296), their images and colours (1.297–298), the nine Vedic mantras by incipit (1.300–301 — आकृष्णेन, इमं देवा, अग्निर्मूर्धा, उद्बुध्यस्व, बृहस्पतेऽति, अन्नात्परिस्रुतः, शं नो देवीः, काण्डात्, केतुं कृण्वन्), the samidhas (1.302), the 108/28 ahutis (1.303), the charu per graha (1.304) and the dakshinas (1.306). Smriti authority for the Hindi-belt navagraha mantra set; facts cited in prose, no record copied. Second source: BPHS 84 and Matsya 93.",
+      "wikisourceLang": "sa",
+      "locator": "YS 1.295–308"
+    },
+    {
+      "id": "ws-bphs-84",
+      "project": "wikisource",
+      "title": "बृहत्पाराशरहोराशास्त्रम्/अध्यायः ८४ (ग्रहशान्त्यध्यायः)",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%AC%E0%A5%83%E0%A4%B9%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%B6%E0%A4%B0%E0%A4%B9%E0%A5%8B%E0%A4%B0%E0%A4%BE%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AE%E0%A5%AA_%28%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83%29",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "reference",
+      "secondSourceAvailable": true,
+      "titles": [
+        "बृहत्पाराशर होराशास्त्र",
+        "Brihat Parashara Hora Shastra"
+      ],
+      "note": "Graha-shanti chapter: forms and colours of the nine grahas (84.6–13), the same nine Vedic mantras (84.17–18), the japa counts in bhutasankhya (84.19–20: सप्त रुद्रा दिशो नन्दा नवचन्द्रा नृपास्तथा । त्रिपक्षा अष्टचन्द्राश्च सप्तचन्द्रास्तथैव च — ×1000 → 7000, 11000, 10000, 9000, 19000, 16000, 23000, 18000, 17000), samidhas (84.21), charu and dakshina (84.23–25). Facts cited in prose; the sanskritdocuments puranokta japa prayoga gives 4000 for Budha (variant). Second source: Yajnavalkya Smriti 1.295–308.",
+      "wikisourceLang": "sa",
+      "locator": "BPHS 84"
+    },
+    {
+      "id": "ws-matsya-93",
+      "project": "wikisource",
+      "title": "मत्स्यपुराणम्/अध्यायः ९३",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "reference",
+      "secondSourceAvailable": true,
+      "titles": [
+        "मत्स्यपुराण अध्याय 93",
+        "Matsya Purana 93"
+      ],
+      "note": "Graha-shanti-varnana: the nine-cell mandala with the position of each graha (93.11–12: Surya centre, Chandra SE, Mangala S, Budha NE, Guru N, Shukra E, Shani W, Rahu SW, Ketu NW — identical to the Hindi-belt handbooks), adhidevatas and pratyadhidevatas (93.13–16), colours (93.17), the charu of each graha (93.19–20), the samidhas (93.27–28) and a different set of Vedic homa mantras for Chandra/Budha/Guru/Shukra (93.33–37). Facts cited in prose. Second source: Yajnavalkya Smriti 1.295–308 and BPHS 84.",
+      "wikisourceLang": "sa",
+      "locator": "Matsya Purana 93"
+    },
+    {
+      "id": "ia-nkpp-scan",
+      "project": "archive",
+      "title": "Nitya Karma Puja Prakash (Gita Press, Gorakhpur) — archive.org scan with OCR",
+      "url": "https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur",
+      "retrieved": "2026-11-01",
+      "licence": "Gita Press edition (Hindi prose in copyright) — sequence facts and traditional Sanskrit formulas only; no Hindi prose copied",
+      "kind": "scan",
+      "secondSourceAvailable": false,
+      "titles": [
+        "नित्यकर्म-पूजाप्रकाश",
+        "नित्यकर्म पूजाप्रकाश",
+        "नित्यकर्म पूजा प्रकाश",
+        "Nitya Karma Puja Prakash",
+        "Nityakarma Puja Prakash"
+      ],
+      "note": "Used for the नित्यहोम-विधि (pp. 281–282: pancha-bhu-samskara, अग्निं दूतं sthapana, चत्वारि शृङ्गा dhyana, मुखं यः pranama, three vyahriti ahutis, Gautama's five ahutis, VS 8.13 six ahutis, सप्त ते अग्ने), the भस्म-धारण places (p. 57), the kund smriti verses (बलिवैश्वदेव section) and the balivaishvadeva frame. Gita Press code 592.",
+      "item": "nitya-karma-puja-prakash-gita-press-gorakhpur",
+      "publisher": "Gita Press, Gorakhpur"
+    },
+    {
+      "id": "ia-vasishthi-havan-paddhati-1939",
+      "project": "archive",
+      "title": "Vasishthi Havan Paddhati with Hindi Tika (Gayghat, Varanasi, 1939; Bhargav Pustakalaya) — archive.org scan with OCR",
+      "url": "https://archive.org/details/CwUb_vasishthi-havan-paddhati-with-hindi-tika-gayghat-varanasi-1939-bhargav-pustakala",
+      "retrieved": "2026-11-01",
+      "licence": "public domain (1939 Indian print; archive.org CC0 marking)",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "वासिष्ठी हवन-पद्धति (1939)",
+        "Vasishthi Havan Paddhati (1939 Gayghat edition)"
+      ],
+      "note": "Earlier edition of the same handbook; copy source for the vasordhara rule verse कुड्यलग्नां वसोर्धारां (Karmapradipa quotation, checked against the 1941 edition) and verification source for: the sasvara आयुष्य-मन्त्र (VS 34.50–52) and the smriti ayushya verses (यदायुष्यं चिरं देवाः … with the readings सप्तकल्पान्तजीविनः / दत्तेनायुषा सम्यक्), the vasordhara prayoga (कुड्ये … श्रीः इत्यक्षरं लिखित्वा … एकं बिन्दुं, द्वौ … सप्त बिन्दून्) with the quotations of the Rudrayamala, Karmapradipa (कुड्यलग्नां वसोर्धारां सप्तधारां …) and Parashurama (श्रीश्च लक्ष्मीर्धृतिर्मेधा स्वाहा प्रज्ञा सरस्वती), and the Ashvalayana-grihya-parishishta verse on the grahas' birthplaces (उत्पन्नोऽर्कः कलिङ्गेषु …; Rahu: बर्बरक).",
+      "item": "CwUb_vasishthi-havan-paddhati-with-hindi-tika-gayghat-varanasi-1939-bhargav-pustakala",
+      "publisher": "Bhargav Pustakalaya, Gayghat, Varanasi",
+      "year": "1939"
+    },
+    {
+      "id": "sd-navagraha-stotra",
+      "project": "sanskritdocuments",
+      "title": "navanew — नवग्रहस्तोत्रम् १ (व्यासविरचितम् जपाकुसुमसंकाशं काश्यपेयं महाद्युतिम्), with meanings",
+      "url": "https://sanskritdocuments.org/doc_z_misc_navagraha/navanew.html",
+      "retrieved": "2026-11-01",
+      "licence": "sanskritdocuments.org — personal study and research; verification only, not reproduced",
+      "kind": "verify",
+      "secondSourceAvailable": false,
+      "titles": [
+        "नवग्रहस्तोत्र (sanskritdocuments)",
+        "Navagraha Stotra (sanskritdocuments)"
+      ],
+      "note": "Second digital source for the nine Vyasa verses and the three phalashruti verses (anusvara orthography: संकाशं, नीलांजन; verse 10 numbered, 11–12 unnumbered). Fetched with Playwright page.inner_text (the site answers 406 to plain clients)."
+    },
+    {
+      "id": "sd-ekashloki-navagraha-2",
+      "project": "sanskritdocuments",
+      "title": "ekashlokInavagrahastotram 2 (brahmA murAristripurAntakArI)",
+      "url": "https://sanskritdocuments.org/doc_z_misc_navagraha/ekashlokInavagrahastotram2.html",
+      "retrieved": "2026-11-01",
+      "licence": "sanskritdocuments.org — personal study and research; verification only, not reproduced",
+      "kind": "verify",
+      "secondSourceAvailable": false,
+      "titles": [
+        "एकश्लोकी नवग्रहस्तोत्र 2 (sanskritdocuments)",
+        "Ekashloki Navagraha Stotra 2 (sanskritdocuments)"
+      ],
+      "note": "The ब्रह्मा मुरारिस्त्रिपुरान्तकारी verse in its morning-remembrance form (कुर्वन्तु सर्वे मम सुप्रभातम्); the handbooks' puja form ends सर्वे ग्रहाः शान्तिकरा भवन्तु."
+    },
+    {
+      "id": "sd-ekashloki-navagraha-4",
+      "project": "sanskritdocuments",
+      "title": "ekashlokInavagrahastotram 4 (sUryaH shauryamathanenduruchchapadavIM)",
+      "url": "https://sanskritdocuments.org/doc_z_misc_navagraha/ekashlokInavagrahastotram4.html",
+      "retrieved": "2026-11-01",
+      "licence": "sanskritdocuments.org — personal study and research; verification only, not reproduced",
+      "kind": "verify",
+      "secondSourceAvailable": false,
+      "titles": [
+        "एकश्लोकी नवग्रहस्तोत्र 4 (sanskritdocuments)",
+        "Ekashloki Navagraha Stotra 4 (sanskritdocuments)"
+      ],
+      "note": "The सूर्यः शौर्यमथेन्दुरुच्चपदवीं prayer (Mantrapushpam p. 487) with the readings शौर्यमथनेन्दु, करोतु विपुलं, भवन्तु भवतां सर्वे प्रसन्ना ग्रहाः — the handbooks read करोतु सततं … मम ते सर्वेऽनुकूला ग्रहाः."
+    },
+    {
+      "id": "sd-navagraha-japa-puranokta",
+      "project": "sanskritdocuments",
+      "title": "navagrahamantrajapaprayogaH (purANokta) — पुराणोक्तनवग्रहमन्त्रजपप्रयोगः",
+      "url": "https://sanskritdocuments.org/doc_z_misc_navagraha/navagrahamantrajapaprayogaHpurANokta.html",
+      "retrieved": "2026-11-01",
+      "licence": "sanskritdocuments.org — personal study and research; verification only, not reproduced",
+      "kind": "verify",
+      "secondSourceAvailable": false,
+      "titles": [
+        "पुराणोक्त नवग्रहमंत्र जपप्रयोग (sanskritdocuments)",
+        "Puranokta Navagraha Japa Prayoga (sanskritdocuments)"
+      ],
+      "note": "The nine Puranic पीडाहर verses (ग्रहाणामादिरादित्यो …) with the japa counts रवेः सप्तसहस्राणि … (Budha 4000 against the 9000 of BPHS 84.19) — cited as the variant count."
     }
   ]
 }

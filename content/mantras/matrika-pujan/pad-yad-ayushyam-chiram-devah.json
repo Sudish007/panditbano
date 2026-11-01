@@ -1,0 +1,123 @@
+{
+  "id": "pad-yad-ayushyam-chiram-devah",
+  "kind": "paddhati",
+  "title": {
+    "hi": "यदायुष्यं चिरं देवाः (आयुष्य-वाचन के श्लोक)",
+    "en": "Yad ayushyam chiram devah (the ayushya blessing verses)",
+    "bho": "यदायुष्यं चिरं देवाः (आयुष्य-वाचन वाला श्लोक)"
+  },
+  "devanagari": "यदायुष्यं चिरं देवाः सप्तकल्पान्तजीविषु । ददुस्तेनायुषा युक्ता जीवेम शरदः शतम् ॥ दीर्घा नागा नगा नद्योऽनन्ताः सप्तार्णवा दिशः । अनन्तेनायुषा तेन जीवेम शरदः शतम् ॥ सत्यानि पञ्चभूतानि विनाशरहितानि च । अविनाश्यायुषा तद्वज्जीवेम शरदः शतम् ॥ शतं जीवन्तु भवन्तः ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "यत् आयुष्यं चिरं देवाः ददुः",
+      "gloss": {
+        "hi": "जो दीर्घ आयु देवों ने दी",
+        "en": "the long life that the gods gave",
+        "bho": "जे लमहर उमिर देव लोग दिहलन"
+      }
+    },
+    {
+      "sa": "सप्तकल्पान्तजीविषु",
+      "gloss": {
+        "hi": "सात कल्पों के अंत तक जीने वालों (मार्कंडेय आदि) को",
+        "en": "to those who live to the end of seven kalpas (Markandeya and the like)",
+        "bho": "सात कल्प के अंत तक जिए वाला (मार्कंडेय आदि) के"
+      }
+    },
+    {
+      "sa": "तेन आयुषा युक्ताः जीवेम शरदः शतम्",
+      "gloss": {
+        "hi": "उस आयु से युक्त होकर हम सौ शरद (वर्ष) जीएँ",
+        "en": "endowed with that life may we live a hundred autumns",
+        "bho": "ओह उमिर से जुड़ के हमनी सौ सरद (बरिस) जिईं"
+      }
+    },
+    {
+      "sa": "दीर्घाः नागाः नगाः नद्यः अनन्ताः सप्तार्णवाः दिशः",
+      "gloss": {
+        "hi": "दीर्घायु नाग, पर्वत, नदियाँ, अनंत सात समुद्र और दिशाएँ",
+        "en": "long-lived are the Nagas, the mountains, the rivers, the endless seven oceans and the directions",
+        "bho": "लमहर उमिर वाला नाग, परबत, नदी, अनंत सात समुंदर आ दिसा"
+      }
+    },
+    {
+      "sa": "अनन्तेन आयुषा तेन जीवेम",
+      "gloss": {
+        "hi": "उस अनंत आयु से हम जीएँ",
+        "en": "by that endless life may we live",
+        "bho": "ओह अनंत उमिर से हमनी जिईं"
+      }
+    },
+    {
+      "sa": "सत्यानि पञ्चभूतानि विनाशरहितानि च",
+      "gloss": {
+        "hi": "सत्य और अविनाशी पाँच महाभूत",
+        "en": "the five great elements, real and indestructible",
+        "bho": "सत्य आ अबिनासी पाँच महाभूत"
+      }
+    },
+    {
+      "sa": "अविनाश्य आयुषा तद्वत् जीवेम",
+      "gloss": {
+        "hi": "वैसी ही अविनाशी आयु से हम जीएँ",
+        "en": "by such an indestructible life may we live",
+        "bho": "ओइसन अबिनासी उमिर से हमनी जिईं"
+      }
+    },
+    {
+      "sa": "शतं जीवन्तु भवन्तः",
+      "gloss": {
+        "hi": "(ब्राह्मणों का आशीर्वाद:) आप सौ वर्ष जीएँ",
+        "en": "(the Brahmins' blessing:) may you live a hundred years",
+        "bho": "(ब्राह्मन लोग के आसीर्वाद:) रउआ सौ बरिस जिईं"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "जो दीर्घ आयु देवों ने सात कल्पों तक जीने वालों को दी, उस आयु से युक्त होकर हम सौ शरद जीएँ। नाग, पर्वत, नदियाँ, अनंत सात समुद्र और दिशाएँ दीर्घायु हैं — उस अनंत आयु से हम सौ शरद जीएँ। पाँच महाभूत सत्य और अविनाशी हैं — वैसी अविनाशी आयु से हम सौ शरद जीएँ। (ब्राह्मण:) आप सौ वर्ष जीएँ।",
+    "en": "The long life the gods gave to those who live to the end of seven kalpas — endowed with that life may we live a hundred autumns. Long-lived are the Nagas, the mountains, the rivers, the endless seven oceans and the directions — by that endless life may we live a hundred autumns. The five great elements are real and indestructible — by such an indestructible life may we live a hundred autumns. (The Brahmins:) May you live a hundred years.",
+    "bho": "जे लमहर उमिर देव लोग सात कल्प तक जिए वाला के दिहलन, ओह उमिर से जुड़ के हमनी सौ सरद जिईं। नाग, परबत, नदी, अनंत सात समुंदर आ दिसा लमहर उमिर वाला बा — ओह अनंत उमिर से हमनी सौ सरद जिईं। पाँच महाभूत सत्य आ अबिनासी बा — ओइसन अबिनासी उमिर से हमनी सौ सरद जिईं। (ब्राह्मन लोग:) रउआ सौ बरिस जिईं।"
+  },
+  "explanation": {
+    "hi": "[[sapta-ghrit-matrika]] पूजन के अंत का आयुष्य-वाचन: वैदिक आयुष्य-मंत्रों (VS 34.50–52) के बाद ब्राह्मण ये तीन स्मृति-श्लोक पढ़ते हैं और 'शतं जीवंतु भवंतः' कहकर आशीर्वाद देते हैं; यजमान अंजलि के पुष्प मंडल पर चढ़ाता है ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) पृ. 225)। [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) का 1939 संस्करण इन्हें 'सप्तकल्पांतजीविनः', 'दत्तेनायुषा सम्यक्' और 'दीर्घा नागास्तथा नद्यः समुद्रा गिरयो दिशः' पढ़ता है — पाठांतर नीचे। आयु की यह कामना आशीर्वाद की भाषा है; साइट इसे किसी परिणाम से नहीं जोड़ती।",
+    "en": "The ayushya recitation that ends the sapta-ghrita-matrika worship: after the Vedic ayushya mantras (VS 34.50–52) the Brahmins recite these three smriti verses and give the blessing 'shatam jivantu bhavantah'; the host offers the flowers from his cupped hands on the mandala ([Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) p. 225). The 1939 edition of the [Vasishthi Havan Paddhati](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) reads 'sapta-kalpanta-jivinah', 'dattenayusha samyak' and 'dirgha nagas tatha nadyah samudra girayo dishah' — variant below. The wish for long life is the language of blessing; the site attaches no result to it.",
+    "bho": "[[sapta-ghrit-matrika]] पूजन के अंत के आयुष्य-वाचन: वैदिक आयुष्य-मंत्र (VS 34.50–52) के बाद ब्राह्मन लोग ई तीन स्मृति-श्लोक पढ़ेलन आ 'शतं जीवन्तु भवन्तः' कह के आसीर्वाद देलन; जजमान अँजुरी के फूल मंडल पर चढ़ावेला ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) पृ. 225)। [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) के 1939 संस्करन एकनी के 'सप्तकल्पान्तजीविनः', 'दत्तेनायुषा सम्यक्' आ 'दीर्घा नागास्तथा नद्यः समुद्रा गिरयो दिशः' पढ़ेला — पाठांतर नीचे। उमिर के ई कामना आसीर्वाद के भाषा बा; साइट एकरा कवनो परिनाम से ना जोड़े।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-nkpp-scan",
+    "retrieved": "2026-11-01",
+    "modified": "OCR slips corrected (दीर्घां → दीर्घा, अनन्तनायुषा → अनन्तेनायुषा, तद्ज्जीवेम → तद्वज्जीवेम, the stray anusvara in तेन॒ removed); dandas set"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit ritual formula (anonymous, pre-modern); Sanskrit text taken from the Gita Press scan under brief §14, no Hindi prose copied",
+  "tags": [
+    "matrika",
+    "ayushya",
+    "ashirvada"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "locator": "NKPP p. 225 (आयुष्यमन्त्र)",
+  "checkedAgainst": [
+    {
+      "ref": "ia-vasishthi-havan-paddhati-1939",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "variants": [
+    {
+      "reading": "यदायुष्यं चिरं देवाः सप्तकल्पान्तजीविनः । दत्तेनायुषा सम्यक् जीवेम शरदः शतम् ॥ दीर्घा नागास्तथा नद्यः समुद्रा गिरयो दिशः । अनन्तायुषा तद्वत् जीवेम शरदः शतम् ॥",
+      "note": {
+        "hi": "1939 संस्करण का पाठ (ओसीआर से; 'भनंतायुषा' → अनंतायुषा सुधारा)।",
+        "en": "The reading of the 1939 edition (from the OCR; 'bhanantayusha' corrected to anantayusha).",
+        "bho": "1939 संस्करन के पाठ (ओसीआर से; 'भनन्तायुषा' → अनन्तायुषा सुधारल)।"
+      },
+      "source": "ia-vasishthi-havan-paddhati-1939"
+    }
+  ]
+}

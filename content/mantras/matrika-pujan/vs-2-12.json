@@ -1,0 +1,105 @@
+{
+  "id": "vs-2-12",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 2.12",
+  "title": {
+    "hi": "एतं ते देव सवितः (प्रतिष्ठा)",
+    "en": "Etam te deva savitah (pratishtha)",
+    "bho": "एतं ते देव सवितः (प्रतिष्ठा)"
+  },
+  "devanagari": "ए॒तं ते॑ देव सवितर्य॒ज्ञं प्राहु॒र्बृह॒स्पत॑ये ब्र॒ह्मणे॑ । तेन॑ य॒ज्ञम॑व॒ तेन॑ य॒ज्ञप॑तिं॒ तेन॒ माम॑व ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "एतं ते यज्ञम्",
+      "gloss": {
+        "hi": "यह तेरा यज्ञ",
+        "en": "this your sacrifice",
+        "bho": "ई तोहार जग्य"
+      }
+    },
+    {
+      "sa": "देव सवितः",
+      "gloss": {
+        "hi": "हे सविता देव",
+        "en": "O god Savitr",
+        "bho": "हे सविता देव"
+      }
+    },
+    {
+      "sa": "प्राहुः",
+      "gloss": {
+        "hi": "(ऋत्विज) बताते हैं",
+        "en": "they (the priests) announce",
+        "bho": "(ऋत्विज) बतावेलन"
+      }
+    },
+    {
+      "sa": "बृहस्पतये ब्रह्मणे",
+      "gloss": {
+        "hi": "बृहस्पति ब्रह्मा (ऋत्विज) को",
+        "en": "to Brihaspati the brahman priest",
+        "bho": "बृहस्पति ब्रह्मा (ऋत्विज) के"
+      }
+    },
+    {
+      "sa": "तेन यज्ञम् अव",
+      "gloss": {
+        "hi": "उससे यज्ञ की रक्षा करो",
+        "en": "with it protect the sacrifice",
+        "bho": "ओकरा से जग्य के रच्छा करीं"
+      }
+    },
+    {
+      "sa": "तेन यज्ञपतिम्",
+      "gloss": {
+        "hi": "उससे यज्ञपति (यजमान) की",
+        "en": "with it the lord of the sacrifice",
+        "bho": "ओकरा से जग्यपति (जजमान) के"
+      }
+    },
+    {
+      "sa": "तेन माम् अव",
+      "gloss": {
+        "hi": "उससे मेरी रक्षा करो",
+        "en": "with it protect me",
+        "bho": "ओकरा से हमार रच्छा करीं"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे सविता देव, यह तेरा यज्ञ (ऋत्विज) बृहस्पति ब्रह्मा को बताते हैं। उससे यज्ञ की रक्षा करो, उससे यजमान की, उससे मेरी रक्षा करो।",
+    "en": "O god Savitr, this your sacrifice they announce to Brihaspati the brahman priest. With it protect the sacrifice, with it the lord of the sacrifice, with it protect me.",
+    "bho": "हे सविता देव, ई तोहार जग्य (ऋत्विज) बृहस्पति ब्रह्मा के बतावेलन। ओकरा से जग्य के रच्छा करीं, ओकरा से जजमान के, ओकरा से हमार रच्छा करीं।"
+  },
+  "explanation": {
+    "hi": "[[yajurved]] 2.12 — दर्शपूर्णमास में अध्वर्यु का ब्रह्मा से यज्ञ आरंभ की अनुमति लेने का मंत्र, जिसके ठीक बाद 2.13 'मनो जूतिर्जुषताम्' आता है। पोथियाँ 2.13 को देवताओं की प्रतिष्ठा का मुख्य मंत्र मानती हैं और [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 224) [[sapta-ghrit-matrika]] की प्रतिष्ठा के लिए यह 2.12 'एतं ते देव' देता है — 'तेन यज्ञपतिं तेन मामव' (यजमान और मेरी रक्षा) इसका कारण है। घृत-मातृकाओं के आवाहन के बाद पंडित हाथ में अक्षत लेकर इसे पढ़ता है और मंडल पर अक्षत छोड़ता है।",
+    "en": "Yajurveda 2.12 — in the new- and full-moon rite the adhvaryu's mantra asking the brahman priest's leave to begin, immediately followed by 2.13 'mano jutir jushatam'. The handbooks take 2.13 as the main mantra for installing the deities, and the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (p. 224) gives this 2.12 'etam te deva' for the installation of the seven ghee-matrikas — 'tena yajnapatim tena mam ava' (protect the host and me) is the reason. After the invocation of the ghee-matrikas the pandit recites it with rice in hand and drops the rice on the mandala.",
+    "bho": "[[yajurved]] 2.12 — दर्शपूर्णमास में अध्वर्यु के ब्रह्मा से जग्य सुरू करे के अनुमति लेवे के मंत्र, जेकरा ठीक बाद 2.13 'मनो जूतिर्जुषताम्' आवेला। पोथी 2.13 के देवता लोग के प्रतिष्ठा के मुख्य मंत्र मानेला आ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 224) [[sapta-ghrit-matrika]] के प्रतिष्ठा खातिर ई 2.12 'एतं ते देव' देला — 'तेन यज्ञपतिं तेन मामव' (जजमान आ हमार रच्छा) एकर कारन बा। घी-मातृका के आवाहन के बाद पंडित हाथ में अछत लेके एकरा पढ़ेलन आ मंडल पर अछत छोड़ेलन।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-02",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "matrika",
+    "pratishtha",
+    "savitr"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "id": "pad-suryah-shauryam-athendur",
+  "kind": "paddhati",
+  "title": {
+    "hi": "सूर्यः शौर्यमथेंदुरुच्चपदवीं (नवग्रह प्रार्थना)",
+    "en": "Suryah shauryam athendur uchcha-padavim (navagraha prayer)",
+    "bho": "सूर्यः शौर्यमथेंदुरुच्चपदवीं (नवग्रह के प्रार्थना)"
+  },
+  "devanagari": "ॐ सूर्यः शौर्यमथेन्दुरुच्चपदवीं सन्मङ्गलं मङ्गलः सद्बुद्धिं च बुधो गुरुश्च गुरुतां शुक्रः सुखं शं शनिः । राहुर्बाहुबलं करोतु सततं केतुः कुलस्योन्नतिं नित्यं प्रीतिकरा भवन्तु मम ते सर्वेऽनुकूला ग्रहाः ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "सूर्यः शौर्यम्",
+      "gloss": {
+        "hi": "सूर्य शौर्य (वीरता)",
+        "en": "may the Sun (give) valour",
+        "bho": "सूरज सौर्य (बीरता)"
+      }
+    },
+    {
+      "sa": "अथ इन्दुः उच्चपदवीम्",
+      "gloss": {
+        "hi": "और चंद्र ऊँचा पद",
+        "en": "and the Moon high standing",
+        "bho": "आ चंद्र ऊँच पद"
+      }
+    },
+    {
+      "sa": "सन्मङ्गलं मङ्गलः",
+      "gloss": {
+        "hi": "मंगल शुभ-मंगल",
+        "en": "Mars good fortune",
+        "bho": "मंगल सुभ-मंगल"
+      }
+    },
+    {
+      "sa": "सद्बुद्धिं च बुधः",
+      "gloss": {
+        "hi": "बुध सद्बुद्धि",
+        "en": "Mercury good sense",
+        "bho": "बुध सद्बुद्धि"
+      }
+    },
+    {
+      "sa": "गुरुः च गुरुताम्",
+      "gloss": {
+        "hi": "गुरु गुरुता (गौरव)",
+        "en": "Jupiter weight (dignity)",
+        "bho": "गुरु गुरुता (गौरव)"
+      }
+    },
+    {
+      "sa": "शुक्रः सुखम्",
+      "gloss": {
+        "hi": "शुक्र सुख",
+        "en": "Venus happiness",
+        "bho": "शुक्र सुख"
+      }
+    },
+    {
+      "sa": "शं शनिः",
+      "gloss": {
+        "hi": "शनि कल्याण",
+        "en": "Saturn well-being",
+        "bho": "शनि कल्यान"
+      }
+    },
+    {
+      "sa": "राहुः बाहुबलं करोतु सततम्",
+      "gloss": {
+        "hi": "राहु सदा बाहुबल करे",
+        "en": "may Rahu ever give strength of arm",
+        "bho": "राहु सदा बाहुबल करसु"
+      }
+    },
+    {
+      "sa": "केतुः कुलस्य उन्नतिम्",
+      "gloss": {
+        "hi": "केतु कुल की उन्नति",
+        "en": "Ketu the rise of the family",
+        "bho": "केतु कुल के उन्नति"
+      }
+    },
+    {
+      "sa": "नित्यं प्रीतिकराः भवन्तु मम ते सर्वे अनुकूलाः ग्रहाः",
+      "gloss": {
+        "hi": "वे सब ग्रह मुझ पर सदा प्रसन्न और अनुकूल हों",
+        "en": "may all those grahas be ever kindly and favourable to me",
+        "bho": "ऊ सब ग्रह हमरा पर सदा परसन्न आ अनुकूल होखसु"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "सूर्य शौर्य, चंद्र ऊँचा पद, मंगल शुभ-मंगल, बुध सद्बुद्धि, गुरु गौरव, शुक्र सुख और शनि कल्याण करें; राहु सदा बाहुबल और केतु कुल की उन्नति करें — वे सब ग्रह मुझ पर सदा प्रसन्न और अनुकूल हों।",
+    "en": "May the Sun give valour, the Moon high standing, Mars good fortune, Mercury good sense, Jupiter dignity, Venus happiness and Saturn well-being; may Rahu ever give strength of arm and Ketu the rise of the family — may all those grahas be ever kindly and favourable to me.",
+    "bho": "सूरज सौर्य, चंद्र ऊँच पद, मंगल सुभ-मंगल, बुध सद्बुद्धि, गुरु गौरव, शुक्र सुख आ शनि कल्यान करसु; राहु सदा बाहुबल आ केतु कुल के उन्नति करसु — ऊ सब ग्रह हमरा पर सदा परसन्न आ अनुकूल होखसु।"
+  },
+  "explanation": {
+    "hi": "शार्दूलविक्रीडित छंद की नवग्रह-प्रार्थना, जो [[navagraha-pujan]] के अंत में 'ब्रह्मा मुरारिः' के बाद पढ़ी जाती है ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) पृ. 230; [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt))। [sanskritdocuments](https://sanskritdocuments.org/doc_z_misc_navagraha/ekashlokInavagrahastotram4.html) का पाठ 'शौर्यमथनेंदु', 'करोतु विपुलं' और 'भवंतु भवतां सर्वे प्रसन्ना ग्रहाः' पढ़ता है — नीचे पाठांतर में। यह याचना का श्लोक है; इसमें कहे गए फल प्रार्थना की भाषा हैं, साइट का कथन नहीं।",
+    "en": "A navagraha prayer in the shardulavikridita metre, recited at the end of the navagraha worship after 'brahma murarih' ([Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) p. 230; [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt)). The [sanskritdocuments](https://sanskritdocuments.org/doc_z_misc_navagraha/ekashlokInavagrahastotram4.html) text reads 'shauryam athanendu', 'karotu vipulam' and 'bhavantu bhavatam sarve prasanna grahah' — below as a variant. It is a verse of petition; the gifts it names are the language of prayer, not a statement by this site.",
+    "bho": "शार्दूलविक्रीडित छंद के नवग्रह-प्रार्थना, जे [[navagraha-pujan]] के अंत में 'ब्रह्मा मुरारिः' के बाद पढ़ल जाला ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) पृ. 230; [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt))। [sanskritdocuments](https://sanskritdocuments.org/doc_z_misc_navagraha/ekashlokInavagrahastotram4.html) के पाठ 'शौर्यमथनेंदु', 'करोतु विपुलं' आ 'भवंतु भवतां सर्वे प्रसन्ना ग्रहाः' पढ़ेला — नीचे पाठांतर में। ई याचना के श्लोक बा; एह में कहल फल प्रार्थना के भाषा बा, साइट के कथन ना।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-nkpp-scan",
+    "retrieved": "2026-11-01",
+    "modified": "OCR slips शोौर्यम् → शौर्यम्, सन्मङ्खलं → सन्मङ्गलं, राहुबाहुबलं → राहुर्बाहुबलं corrected; the stray anusvara in नित्यं॒ removed; dandas set"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit ritual formula (anonymous, pre-modern); Sanskrit text taken from the Gita Press scan under brief §14, no Hindi prose copied",
+  "tags": [
+    "navagraha",
+    "prarthana"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "locator": "NKPP p. 230",
+  "checkedAgainst": [
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "sd-ekashloki-navagraha-4",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "variants": [
+    {
+      "reading": "ॐ सूर्यः शौर्यमथनेन्दुरुच्चपदवीं सन्मङ्गलं मङ्गलः सद्बुद्धिं च बुधो गुरुश्च गुरुतां शुक्रः सुखं शं शनिः । राहुर्बाहुबलं करोतु विपुलं केतुः कुलस्योन्नतिं नित्यं प्रीतिकरा भवन्तु भवतां सर्वे प्रसन्ना ग्रहाः ॥",
+      "note": {
+        "hi": "एकश्लोकी नवग्रहस्तोत्र 4 ([sanskritdocuments](https://sanskritdocuments.org/doc_z_misc_navagraha/ekashlokInavagrahastotram4.html), मंत्रपुष्पम् पृ. 487) का पाठ — 'भवतां' (आपके लिए) के साथ, आशीर्वाद के रूप में।",
+        "en": "The reading of Ekashloki [Navagraha Stotra](/texts/navagraha-stotra/) 4 ([sanskritdocuments](https://sanskritdocuments.org/doc_z_misc_navagraha/ekashlokInavagrahastotram4.html), Mantrapushpam p. 487) — with 'bhavatam' (for you), as a blessing.",
+        "bho": "एकश्लोकी नवग्रहस्तोत्र 4 ([sanskritdocuments](https://sanskritdocuments.org/doc_z_misc_navagraha/ekashlokInavagrahastotram4.html), मंत्रपुष्पम् पृ. 487) के पाठ — 'भवतां' (रउरा खातिर) संगे, आसीर्वाद के रूप में।"
+      },
+      "source": "sd-ekashloki-navagraha-4"
+    }
+  ]
+}

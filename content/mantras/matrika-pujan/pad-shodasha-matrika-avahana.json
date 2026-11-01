@@ -1,0 +1,184 @@
+{
+  "id": "pad-shodasha-matrika-avahana",
+  "kind": "paddhati",
+  "title": {
+    "hi": "षोडश मातृका आवाहन (गणपति-गौरी से कुलदेवी तक)",
+    "en": "Invocation of the sixteen matrikas (Ganapati and Gauri to the family deity)",
+    "bho": "सोरह मातृका आवाहन (गणपति-गौरी से कुलदेवी तक)"
+  },
+  "devanagari": "ॐ गणपतये नमः गणपतिम् आवाहयामि स्थापयामि । ॐ गौर्यै नमः गौरीम् आवाहयामि स्थापयामि । ॐ पद्मायै नमः पद्माम् आवाहयामि स्थापयामि । ॐ शच्यै नमः शचीम् आवाहयामि स्थापयामि । ॐ मेधायै नमः मेधाम् आवाहयामि स्थापयामि । ॐ सावित्र्यै नमः सावित्रीम् आवाहयामि स्थापयामि । ॐ विजयायै नमः विजयाम् आवाहयामि स्थापयामि । ॐ जयायै नमः जयाम् आवाहयामि स्थापयामि । ॐ देवसेनायै नमः देवसेनाम् आवाहयामि स्थापयामि । ॐ स्वधायै नमः स्वधाम् आवाहयामि स्थापयामि । ॐ स्वाहायै नमः स्वाहाम् आवाहयामि स्थापयामि । ॐ मातृभ्यो नमः मातृः आवाहयामि स्थापयामि । ॐ लोकमातृभ्यो नमः लोकमातृः आवाहयामि स्थापयामि । ॐ धृत्यै नमः धृतिम् आवाहयामि स्थापयामि । ॐ पुष्ट्यै नमः पुष्टिम् आवाहयामि स्थापयामि । ॐ तुष्ट्यै नमः तुष्टिम् आवाहयामि स्थापयामि । ॐ आत्मनः कुलदेवतायै नमः आत्मनः कुलदेवताम् आवाहयामि स्थापयामि ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "ॐ गणपतये नमः गणपतिम् आवाहयामि स्थापयामि",
+      "gloss": {
+        "hi": "गणपति को प्रणाम; गणपति का आवाहन-स्थापन करता हूँ",
+        "en": "salutation to Ganapati; I invoke and install Ganapati",
+        "bho": "गणपति के परनाम; गणपति के आवाहन-स्थापन करत बानी"
+      }
+    },
+    {
+      "sa": "ॐ गौर्यै नमः गौरीम् आवाहयामि स्थापयामि",
+      "gloss": {
+        "hi": "गौरी को प्रणाम; गौरी का आवाहन-स्थापन करता हूँ",
+        "en": "salutation to Gauri; I invoke and install Gauri",
+        "bho": "गौरी के परनाम; गौरी के आवाहन-स्थापन करत बानी"
+      }
+    },
+    {
+      "sa": "ॐ पद्मायै नमः पद्माम् आवाहयामि स्थापयामि",
+      "gloss": {
+        "hi": "पद्मा को प्रणाम; पद्मा का आवाहन-स्थापन करता हूँ",
+        "en": "salutation to Padma; I invoke and install Padma",
+        "bho": "पद्मा के परनाम; पद्मा के आवाहन-स्थापन करत बानी"
+      }
+    },
+    {
+      "sa": "ॐ शच्यै नमः शचीम् आवाहयामि स्थापयामि",
+      "gloss": {
+        "hi": "शची को प्रणाम; शची का आवाहन-स्थापन करता हूँ",
+        "en": "salutation to Shachi; I invoke and install Shachi",
+        "bho": "शची के परनाम; शची के आवाहन-स्थापन करत बानी"
+      }
+    },
+    {
+      "sa": "ॐ मेधायै नमः मेधाम् आवाहयामि स्थापयामि",
+      "gloss": {
+        "hi": "मेधा को प्रणाम; मेधा का आवाहन-स्थापन करता हूँ",
+        "en": "salutation to Medha; I invoke and install Medha",
+        "bho": "मेधा के परनाम; मेधा के आवाहन-स्थापन करत बानी"
+      }
+    },
+    {
+      "sa": "ॐ सावित्र्यै नमः सावित्रीम् आवाहयामि स्थापयामि",
+      "gloss": {
+        "hi": "सावित्री को प्रणाम; सावित्री का आवाहन-स्थापन करता हूँ",
+        "en": "salutation to Savitri; I invoke and install Savitri",
+        "bho": "सावित्री के परनाम; सावित्री के आवाहन-स्थापन करत बानी"
+      }
+    },
+    {
+      "sa": "ॐ विजयायै नमः विजयाम् आवाहयामि स्थापयामि",
+      "gloss": {
+        "hi": "विजया को प्रणाम; विजया का आवाहन-स्थापन करता हूँ",
+        "en": "salutation to Vijaya; I invoke and install Vijaya",
+        "bho": "विजया के परनाम; विजया के आवाहन-स्थापन करत बानी"
+      }
+    },
+    {
+      "sa": "ॐ जयायै नमः जयाम् आवाहयामि स्थापयामि",
+      "gloss": {
+        "hi": "जया को प्रणाम; जया का आवाहन-स्थापन करता हूँ",
+        "en": "salutation to Jaya; I invoke and install Jaya",
+        "bho": "जया के परनाम; जया के आवाहन-स्थापन करत बानी"
+      }
+    },
+    {
+      "sa": "ॐ देवसेनायै नमः देवसेनाम् आवाहयामि स्थापयामि",
+      "gloss": {
+        "hi": "देवसेना को प्रणाम; देवसेना का आवाहन-स्थापन करता हूँ",
+        "en": "salutation to Devasena; I invoke and install Devasena",
+        "bho": "देवसेना के परनाम; देवसेना के आवाहन-स्थापन करत बानी"
+      }
+    },
+    {
+      "sa": "ॐ स्वधायै नमः स्वधाम् आवाहयामि स्थापयामि",
+      "gloss": {
+        "hi": "स्वधा को प्रणाम; स्वधा का आवाहन-स्थापन करता हूँ",
+        "en": "salutation to Svadha; I invoke and install Svadha",
+        "bho": "स्वधा के परनाम; स्वधा के आवाहन-स्थापन करत बानी"
+      }
+    },
+    {
+      "sa": "ॐ स्वाहायै नमः स्वाहाम् आवाहयामि स्थापयामि",
+      "gloss": {
+        "hi": "स्वाहा को प्रणाम; स्वाहा का आवाहन-स्थापन करता हूँ",
+        "en": "salutation to Svaha; I invoke and install Svaha",
+        "bho": "स्वाहा के परनाम; स्वाहा के आवाहन-स्थापन करत बानी"
+      }
+    },
+    {
+      "sa": "ॐ मातृभ्यो नमः मातृः आवाहयामि स्थापयामि",
+      "gloss": {
+        "hi": "मातरः को प्रणाम; मातरः का आवाहन-स्थापन करता हूँ",
+        "en": "salutation to the Mothers; I invoke and install the Mothers",
+        "bho": "मातरः के परनाम; मातरः के आवाहन-स्थापन करत बानी"
+      }
+    },
+    {
+      "sa": "ॐ लोकमातृभ्यो नमः लोकमातृः आवाहयामि स्थापयामि",
+      "gloss": {
+        "hi": "लोकमातरः को प्रणाम; लोकमातरः का आवाहन-स्थापन करता हूँ",
+        "en": "salutation to the World-Mothers; I invoke and install the World-Mothers",
+        "bho": "लोकमातरः के परनाम; लोकमातरः के आवाहन-स्थापन करत बानी"
+      }
+    },
+    {
+      "sa": "ॐ धृत्यै नमः धृतिम् आवाहयामि स्थापयामि",
+      "gloss": {
+        "hi": "धृति को प्रणाम; धृति का आवाहन-स्थापन करता हूँ",
+        "en": "salutation to Dhriti; I invoke and install Dhriti",
+        "bho": "धृति के परनाम; धृति के आवाहन-स्थापन करत बानी"
+      }
+    },
+    {
+      "sa": "ॐ पुष्ट्यै नमः पुष्टिम् आवाहयामि स्थापयामि",
+      "gloss": {
+        "hi": "पुष्टि को प्रणाम; पुष्टि का आवाहन-स्थापन करता हूँ",
+        "en": "salutation to Pushti; I invoke and install Pushti",
+        "bho": "पुष्टि के परनाम; पुष्टि के आवाहन-स्थापन करत बानी"
+      }
+    },
+    {
+      "sa": "ॐ तुष्ट्यै नमः तुष्टिम् आवाहयामि स्थापयामि",
+      "gloss": {
+        "hi": "तुष्टि को प्रणाम; तुष्टि का आवाहन-स्थापन करता हूँ",
+        "en": "salutation to Tushti; I invoke and install Tushti",
+        "bho": "तुष्टि के परनाम; तुष्टि के आवाहन-स्थापन करत बानी"
+      }
+    },
+    {
+      "sa": "ॐ आत्मनः कुलदेवतायै नमः आत्मनः कुलदेवताम् आवाहयामि स्थापयामि",
+      "gloss": {
+        "hi": "आत्मनः कुलदेवता को प्रणाम; आत्मनः कुलदेवता का आवाहन-स्थापन करता हूँ",
+        "en": "salutation to one's own family deity; I invoke and install one's own family deity",
+        "bho": "आत्मनः कुलदेवता के परनाम; आत्मनः कुलदेवता के आवाहन-स्थापन करत बानी"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "(क्रम से) गणपति (गणेश) — पहले कोष्ठक में गौरी के साथ, गौरी (पार्वती), पद्मा (लक्ष्मी), शची (इंद्राणी), मेधा (बुद्धि की देवी), सावित्री, विजया, जया, देवसेना (षष्ठी, कार्तिकेय की पत्नी), स्वधा (पितरों की आहुति की देवी), स्वाहा (अग्नि की आहुति की देवी), मातृकाएँ, लोकमाताएँ, धृति (धैर्य), पुष्टि (पोषण), तुष्टि (संतोष), अपनी कुलदेवी — हर एक को प्रणाम; हर एक का आवाहन और स्थापन करता हूँ।",
+    "en": "(In order) Ganapati (Ganesha) — in the first cell with Gauri, Gauri (Parvati), Padma (Lakshmi), Shachi (Indrani), Medha (intellect), Savitri, Vijaya, Jaya, Devasena (Shashthi, consort of Kartikeya), Svadha (the offering to the ancestors), Svaha (the offering into the fire), the Mothers, the World-Mothers, Dhriti (steadfastness), Pushti (nourishment), Tushti (contentment), one's own family deity — salutation to each; I invoke and install each.",
+    "bho": "(क्रम से) गणपति (गणेश) — पहिला कोठरी में गौरी संगे, गौरी (पार्वती), पद्मा (लक्ष्मी), शची (इंद्रानी), मेधा (बुद्धि के देवी), सावित्री, विजया, जया, देवसेना (छठी, कार्तिकेय के पत्नी), स्वधा (पितर लोग के आहुति के देवी), स्वाहा (अग्नि के आहुति के देवी), माई लोग (मातृका), लोकमाई लोग, धृति (धीरज), पुष्टि (पोसन), तुष्टि (संतोख), आपन कुलदेवी — हर एक के परनाम; हर एक के आवाहन आ स्थापन करत बानी।"
+  },
+  "explanation": {
+    "hi": "[[shodash-matrika]] पूजन के सोलह (गणपति सहित सत्रह) आवाहन-वाक्य, [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 221–222) के पाठ में; [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) वही सूची 'आ.स्था.पू.' (आवाहयामि स्थापयामि पूजयामि) के संकेत से देती है। सोलह कोष्ठकों के मंडल में पश्चिम से पूर्व की ओर एक-एक कोष्ठक में अक्षत-पुष्प छोड़ते हुए पंडित यह वाक्य बोलता है; पहले कोष्ठक में गौरी से पहले गणपति का आवाहन होता है, इसी से नाम-श्लोक कहता है 'गणेशेनाधिका ह्येता' (गणेश को मिलाकर ये सोलह)। मातृकाओं की यह सूची [[paddhati]]-परंपरा की है, [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) में नहीं है; हर मंगल-कार्य (विवाह, उपनयन, गृहप्रवेश, यज्ञ) के पूर्वांग में [[ganesh-ambika-pujan]] और [[kalash-sthapana]] के बाद इसका स्थान है।",
+    "en": "The sixteen (with Ganapati seventeen) invocation sentences of the shodasha-matrika worship, in the text of the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (pp. 221–222); the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) gives the same list with the shorthand 'a.stha.pu.' (avahayami sthapayami pujayami). Dropping rice and flowers into the cells of the sixteen-cell mandala from west to east, the pandit says one sentence per cell; in the first cell Ganapati is invoked before Gauri, which is why the name verse says 'ganeshena adhika hy eta' (these sixteen, with Ganesha added). The list of the matrikas belongs to the handbook tradition and is not in the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D); its place is in the opening part of every auspicious rite (wedding, upanayana, house-entry, yajna), after the Ganesha-Ambika worship and the kalasha.",
+    "bho": "[[shodash-matrika]] पूजन के सोरह (गणपति सहित सतरह) आवाहन-वाक्य, [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 221–222) के पाठ में; [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) ओही सूची 'आ.स्था.पू.' (आवाहयामि स्थापयामि पूजयामि) के संकेत से देला। सोरह कोठरी के मंडल में पच्छिम से पूरब के ओर एक-एक कोठरी में अछत-फूल छोड़त पंडित ई वाक्य बोलेलन; पहिला कोठरी में गौरी से पहिले गणपति के आवाहन होला, एही से नाँव-श्लोक कहेला 'गणेशेनाधिका ह्येता' (गणेश के मिला के ई सोरह)। मातृका के ई सूची [[paddhati]]-परंपरा के बा, [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) में नइखे; हर मंगल-काम (बियाह, उपनयन, गृहप्रवेश, जग्य) के पूर्वांग में [[ganesh-ambika-pujan]] आ [[kalash-sthapana]] के बाद एकर जगह बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-nkpp-scan",
+    "retrieved": "2026-11-01",
+    "modified": "OCR slips corrected (गौय → गौर्यै, पयाये → पद्मायै, श्ये → शच्यै, मेधाये → मेधायै, साविन्ये → सावित्र्यै, स्वधाये → स्वधायै, स्वाहाय → स्वाहायै, मातुः → मातृः, धूत्ये → धृत्यै, युष्ट्ये → पुष्ट्यै); the serial numbers and commas removed; dandas set"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit ritual formula (anonymous, pre-modern); Sanskrit text taken from the Gita Press scan under brief §14, no Hindi prose copied",
+  "tags": [
+    "matrika",
+    "avahana",
+    "shodasha-matrika"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "locator": "NKPP pp. 221–222 (षोडशमातृका-पूजन)",
+  "checkedAgainst": [
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ]
+}

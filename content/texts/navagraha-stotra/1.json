@@ -1,0 +1,221 @@
+{
+  "text": "navagraha-stotra",
+  "n": 1,
+  "title": {
+    "hi": "नवग्रह स्तोत्र — नौ ध्यान-श्लोक और फलश्रुति",
+    "en": "Navagraha Stotra — the nine dhyana verses and the phalashruti",
+    "bho": "नवग्रह स्तोत्र — नौ धियान-श्लोक आ फलश्रुति"
+  },
+  "intro": {
+    "hi": "नौ श्लोक, हर ग्रह का एक — रूप, रंग, वंश और प्रणाम; क्रम सूर्य, चंद्र, मंगल, बुध, गुरु, शुक्र, शनि, राहु, केतु। श्लोक 10–12 फलश्रुति हैं और उसी रूप में लेबल किए गए हैं। पोथियाँ ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur)) पूजा में इन्हीं नौ श्लोकों का अंतिम पद 'आवाहयाम्यहम्' में बदलकर पढ़ती हैं; वह पाठ हर मंत्र-पृष्ठ पर पाठांतर में है।",
+    "en": "Nine verses, one per graha — form, colour, lineage and salutation; order Surya, Chandra, Mangala, Budha, Guru, Shukra, Shani, Rahu, Ketu. Verses 10–12 are the phalashruti and are labelled as such. The handbooks ([Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur)) recite these nine verses in the puja with the last foot changed to 'avahayamy aham'; that reading is on each mantra page as a variant.",
+    "bho": "नौ श्लोक, हर ग्रह के एक — रूप, रंग, वंस आ परनाम; क्रम सूर्य, चंद्र, मंगल, बुध, गुरु, शुक्र, शनि, राहु, केतु। श्लोक 10–12 फलश्रुति बा आ ओही रूप में लेबल कइल बा। पोथी ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur)) पूजा में एही नौ श्लोक के अंतिम पद 'आवाहयाम्यहम्' में बदल के पढ़ेला; ऊ पाठ हर मंत्र-पन्ना पर पाठांतर में बा।"
+  },
+  "locator": "Navagraha-stotra 1–12",
+  "source": {
+    "ref": "ws-navagraha-stotra",
+    "retrieved": "2026-11-01",
+    "modified": "verse numbers ॥१॥ … removed; a space set before । and ॥; the two half-verse lines joined; the ॥ रविः ॥ … ॥ फलश्रुतिः ॥ headings and the colophon dropped"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "sd-navagraha-stotra",
+      "retrieved": "2026-11-01",
+      "note": "same 12 verses; anusvara orthography (संकाशं, नीलांजन, सम्भवम्/संभवम्); verse 10 numbered there, 11–12 unnumbered"
+    },
+    {
+      "ref": "ia-nkpp-scan",
+      "retrieved": "2026-11-01",
+      "note": "p. 328: same text, verses numbered 1–11 (the last two phalashruti verses counted as one block)"
+    }
+  ],
+  "verses": [
+    {
+      "v": 1,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "जपाकुसुमसङ्काशं काश्यपेयं महाद्युतिम् । तमोऽरिं सर्वपापघ्नं प्रणतोऽस्मि दिवाकरम् ॥",
+      "meaning": {
+        "hi": "जपा के फूल जैसे लाल, कश्यप-पुत्र, महान तेज वाले, अंधकार के शत्रु और सब पापों के नाशक दिवाकर सूर्य को मैं प्रणाम करता हूँ।",
+        "en": "I bow to the Sun, the day-maker — red like the japa flower, son of Kashyapa, of great brilliance, enemy of darkness, destroyer of all sins.",
+        "bho": "अड़हुल के फूल जइसन लाल, कस्यप-पुत्र, बड़ तेज वाला, अन्हार के दुसमन आ सब पाप के नास करे वाला दिवाकर सूर्य के हम परनाम करत बानी।"
+      },
+      "tags": [
+        "navagraha",
+        "japakusuma"
+      ]
+    },
+    {
+      "v": 2,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "दधिशङ्खतुषाराभं क्षीरोदार्णवसम्भवम् । नमामि शशिनं सोमं शम्भोर्मुकुटभूषणम् ॥",
+      "meaning": {
+        "hi": "दही, शंख और हिम जैसी श्वेत आभा वाले, क्षीरसागर से उत्पन्न, शिव के मुकुट के आभूषण शशि सोम को मैं प्रणाम करता हूँ।",
+        "en": "I bow to Soma the Moon — white as curd, conch and frost, born of the ocean of milk, the ornament of Shiva's crown.",
+        "bho": "दही, संख आ बरफ जइसन उज्जर आभा वाला, छीरसागर से जनमल, सिव के मुकुट के गहना ससि सोम के हम परनाम करत बानी।"
+      },
+      "tags": [
+        "navagraha",
+        "dadhishankha"
+      ]
+    },
+    {
+      "v": 3,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "धरणीगर्भसम्भूतं विद्युत्कान्तिसमप्रभम् । कुमारं शक्तिहस्तं तं मङ्गलं प्रणमाम्यहम् ॥",
+      "meaning": {
+        "hi": "पृथिवी के गर्भ से उत्पन्न, बिजली जैसे तेज वाले, हाथ में भाला लिए कुमार मंगल को मैं प्रणाम करता हूँ।",
+        "en": "I bow to Mangala — born from the womb of the Earth, bright as lightning, the youth with a spear in his hand.",
+        "bho": "धरती के गरभ से जनमल, बिजुरी जइसन तेज वाला, हाथ में भाला लिहले कुमार मंगल के हम परनाम करत बानी।"
+      },
+      "tags": [
+        "navagraha",
+        "dharanigarbha"
+      ]
+    },
+    {
+      "v": 4,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "प्रियङ्गुकलिकाश्यामं रूपेणाप्रतिमं बुधम् । सौम्यं सौम्यगुणोपेतं तं बुधं प्रणमाम्यहम् ॥",
+      "meaning": {
+        "hi": "प्रियंगु की कली जैसे श्याम रंग वाले, रूप में अनुपम, सोम-पुत्र और सौम्य गुणों से युक्त बुध को मैं प्रणाम करता हूँ।",
+        "en": "I bow to Budha — dark as the bud of the priyangu, of unequalled beauty, son of Soma, endowed with gentle qualities.",
+        "bho": "प्रियंगु के कली जइसन करिया-हरियर रंग वाला, रूप में बेजोड़, सोम-पुत्र आ सौम्य गुन से भरल बुध के हम परनाम करत बानी।"
+      },
+      "tags": [
+        "navagraha",
+        "priyangu"
+      ]
+    },
+    {
+      "v": 5,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "देवानां च ऋषीणां च गुरुं काञ्चनसन्निभम् । बुद्धिभूतं त्रिलोकेशं तं नमामि बृहस्पतिम् ॥",
+      "meaning": {
+        "hi": "देवों और ऋषियों के गुरु, सोने जैसी कांति वाले, बुद्धि के साकार रूप, तीनों लोकों के स्वामी बृहस्पति को मैं प्रणाम करता हूँ।",
+        "en": "I bow to Brihaspati — teacher of the gods and the rishis, like gold in hue, wisdom embodied, lord of the three worlds.",
+        "bho": "देव आ ऋषि लोग के गुरु, सोना जइसन चमक वाला, बुद्धि के मूरत, तीनों लोक के मालिक बृहस्पति के हम परनाम करत बानी।"
+      },
+      "tags": [
+        "navagraha",
+        "devanam"
+      ]
+    },
+    {
+      "v": 6,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "हिमकुन्दमृणालाभं दैत्यानां परमं गुरुम् । सर्वशास्त्रप्रवक्तारं भार्गवं प्रणमाम्यहम् ॥",
+      "meaning": {
+        "hi": "हिम, कुंद और कमल-नाल जैसी श्वेत आभा वाले, दैत्यों के परम गुरु, सब शास्त्रों के प्रवक्ता भार्गव शुक्र को मैं प्रणाम करता हूँ।",
+        "en": "I bow to Shukra of Bhrigu's line — white as frost, the kunda flower and the lotus stalk, supreme teacher of the daityas, expounder of all the shastras.",
+        "bho": "बरफ, कुंद आ कमल-नाल जइसन उज्जर आभा वाला, दैत्य लोग के परम गुरु, सब सास्त्र के बतावे वाला भार्गव शुक्र के हम परनाम करत बानी।"
+      },
+      "tags": [
+        "navagraha",
+        "himakunda"
+      ]
+    },
+    {
+      "v": 7,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "नीलाञ्जनसमाभासं रविपुत्रं यमाग्रजम् । छायामार्तण्डसम्भूतं तं नमामि शनैश्चरम् ॥",
+      "meaning": {
+        "hi": "नीले अंजन जैसी आभा वाले, सूर्य-पुत्र, यम के बड़े भाई, छाया और मार्तंड से उत्पन्न शनैश्चर को मैं प्रणाम करता हूँ।",
+        "en": "I bow to Shanaishchara — dark as blue collyrium, son of the Sun, elder brother of Yama, born of Chhaya and Martanda.",
+        "bho": "नीला अंजन जइसन आभा वाला, सूरज के बेटा, जम के बड़ भाई, छाया आ मार्तंड से जनमल शनैश्चर के हम परनाम करत बानी।"
+      },
+      "tags": [
+        "navagraha",
+        "nilanjana"
+      ]
+    },
+    {
+      "v": 8,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "अर्धकायं महावीर्यं चन्द्रादित्यविमर्दनम् । सिंहिकागर्भसंभूतं तं राहुं प्रणमाम्यहम् ॥",
+      "meaning": {
+        "hi": "आधे शरीर वाले, महान पराक्रमी, चंद्र और सूर्य को ग्रसने वाले, सिंहिका के गर्भ से उत्पन्न राहु को मैं प्रणाम करता हूँ।",
+        "en": "I bow to Rahu — of half a body, of great might, oppressor of the Moon and the Sun, born from the womb of Simhika.",
+        "bho": "आधा देह वाला, बड़ पराक्रमी, चंद्र आ सूरज के ग्रसे वाला, सिंहिका के गरभ से जनमल राहु के हम परनाम करत बानी।"
+      },
+      "tags": [
+        "navagraha",
+        "ardhakayam"
+      ]
+    },
+    {
+      "v": 9,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "पलाशपुष्पसङ्काशं तारकाग्रहमस्तकम् । रौद्रं रौद्रात्मकं घोरं तं केतुं प्रणमाम्यहम् ॥",
+      "meaning": {
+        "hi": "पलाश के फूल जैसे, तारों और ग्रहों के शीर्ष, रौद्र स्वभाव वाले और घोर केतु को मैं प्रणाम करता हूँ।",
+        "en": "I bow to Ketu — like the palasha flower, the head among stars and grahas, fierce of nature and terrible.",
+        "bho": "पलास के फूल जइसन, तारा आ ग्रह लोग के माथ, रौद्र सुभाव वाला आ घोर केतु के हम परनाम करत बानी।"
+      },
+      "tags": [
+        "navagraha",
+        "palasha"
+      ]
+    },
+    {
+      "v": 10,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "इति व्यासमुखोद्गीतं यः पठेत्सुसमाहितः । दिवा वा यदि वा रात्रौ विघ्नशान्तिर्भविष्यति ॥",
+      "meaning": {
+        "hi": "जो इस व्यास-मुख से गाए गए स्तोत्र को एकाग्र मन से दिन में या रात में पढ़ता है, (ग्रंथ कहता है कि) उसके विघ्न शांत होंगे।",
+        "en": "Whoever reads with a steady mind this hymn sung from Vyasa's mouth, by day or by night — (the text says) his obstacles will be stilled.",
+        "bho": "जे एह व्यास-मुख से गावल स्तोत्र के एकाग्र मन से दिन में भा रात में पढ़ेला, (ग्रंथ कहेला कि) ओकर बिघन सांत होखी।"
+      },
+      "phalashruti": true,
+      "tags": [
+        "navagraha",
+        "phalashruti"
+      ]
+    },
+    {
+      "v": 11,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "नरनारीनृपाणां च भवेद्दुःस्वप्ननाशनम् । ऐश्वर्यमतुलं तेषामारोग्यं पुष्टिवर्धनम् ॥",
+      "meaning": {
+        "hi": "(ग्रंथ कहता है कि) नर, नारी और राजाओं के बुरे स्वप्न नष्ट होते हैं; उन्हें अतुल ऐश्वर्य, आरोग्य और पुष्टि की वृद्धि मिलती है।",
+        "en": "(The text says that) for men, women and kings bad dreams are destroyed; theirs are unequalled prosperity, health and growing strength.",
+        "bho": "(ग्रंथ कहेला कि) नर, नारी आ राजा लोग के खराब सपना नास होला; उनका अतुल ऐश्वर्य, आरोग्य आ पुष्टि के बढ़ती मिलेला।"
+      },
+      "phalashruti": true,
+      "tags": [
+        "navagraha",
+        "phalashruti"
+      ]
+    },
+    {
+      "v": 12,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "ग्रहनक्षत्रजाः पीडास्तस्कराग्निसमुद्भवाः । ताः सर्वाः प्रशमं यान्ति व्यासो ब्रूते न संशयः ॥",
+      "meaning": {
+        "hi": "ग्रहों और नक्षत्रों से उत्पन्न पीड़ाएँ, चोर और अग्नि से उत्पन्न पीड़ाएँ — वे सब शांत हो जाती हैं; व्यास कहते हैं, इसमें संशय नहीं। (यह ग्रंथ की अपनी फलश्रुति है।)",
+        "en": "The afflictions born of grahas and nakshatras, those born of thieves and fire — all of them subside; so says Vyasa, without doubt. (This is the text's own phalashruti.)",
+        "bho": "ग्रह आ नक्षत्र से जनमल पीड़ा, चोर आ आगि से जनमल पीड़ा — ऊ सब सांत हो जाला; व्यास कहेलन, एह में संदेह नइखे। (ई ग्रंथ के आपन फलश्रुति बा।)"
+      },
+      "phalashruti": true,
+      "tags": [
+        "navagraha",
+        "phalashruti"
+      ]
+    }
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

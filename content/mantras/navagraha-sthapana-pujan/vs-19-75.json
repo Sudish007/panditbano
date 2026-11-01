@@ -1,0 +1,113 @@
+{
+  "id": "vs-19-75",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 19.75",
+  "title": {
+    "hi": "अन्नात्परिस्रुतो रसं (शुक्र)",
+    "en": "Annat parisruto rasam (Shukra)",
+    "bho": "अन्नात्परिस्रुतो रसं (शुक्र)"
+  },
+  "devanagari": "अन्ना॑त्परि॒स्रुतो॒ रसं॒ ब्रह्म॑णा॒ व्य॑पिबत् क्ष॒त्रं पयः॒ सोमं॑ प्र॒जाप॑तिः । ऋ॒तेन॑ स॒त्यमि॑न्द्रि॒यं वि॒पान॑ᳪं᳭ शु॒क्रमन्ध॑स॒ इन्द्र॑स्येन्द्रि॒यमि॒दं पयो॒ऽमृतं॒ मधु॑ ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "अन्नात् परिस्रुतः रसम्",
+      "gloss": {
+        "hi": "अन्न से छने हुए (सुरा-) रस को",
+        "en": "the juice strained from grain",
+        "bho": "अन्न से छानल रस के"
+      }
+    },
+    {
+      "sa": "ब्रह्मणा व्यपिबत्",
+      "gloss": {
+        "hi": "ब्रह्म (मंत्र) से अलग करके पिया",
+        "en": "drank apart by the brahman (sacred word)",
+        "bho": "ब्रह्म (मंत्र) से अलगा कइके पियलन"
+      }
+    },
+    {
+      "sa": "क्षत्रं पयः सोमं",
+      "gloss": {
+        "hi": "क्षात्र-बल, दूध और सोम को",
+        "en": "dominion, milk and Soma",
+        "bho": "क्षात्र-बल, दूध आ सोम के"
+      }
+    },
+    {
+      "sa": "प्रजापतिः",
+      "gloss": {
+        "hi": "प्रजापति ने",
+        "en": "Prajapati",
+        "bho": "प्रजापति"
+      }
+    },
+    {
+      "sa": "ऋतेन सत्यम् इन्द्रियम्",
+      "gloss": {
+        "hi": "ऋत से सत्य और इंद्रिय-बल",
+        "en": "by the Law, truth and vigour",
+        "bho": "ऋत से सत्य आ इंद्रिय-बल"
+      }
+    },
+    {
+      "sa": "विपानं शुक्रम् अन्धसः",
+      "gloss": {
+        "hi": "अन्न का छना हुआ शुक्र (उज्ज्वल रस)",
+        "en": "the strained bright essence of the grain",
+        "bho": "अन्न के छानल शुक्र (उज्जर रस)"
+      }
+    },
+    {
+      "sa": "इन्द्रस्य इन्द्रियम्",
+      "gloss": {
+        "hi": "इंद्र का बल",
+        "en": "Indra's power",
+        "bho": "इंद्र के बल"
+      }
+    },
+    {
+      "sa": "इदं पयः अमृतं मधु",
+      "gloss": {
+        "hi": "यह दूध, अमृत, मधु",
+        "en": "this milk, nectar, honey",
+        "bho": "ई दूध, अमृत, मधु"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "प्रजापति ने अन्न से छने हुए रस को, क्षात्र-बल को, दूध और सोम को ब्रह्म (मंत्र) के द्वारा अलग-अलग पिया। ऋत से सत्य, इंद्रिय-बल, अन्न का छना हुआ उज्ज्वल सार (शुक्र), इंद्र का बल — यह दूध अमृत है, मधु है।",
+    "en": "Prajapati drank apart, by the sacred word, the juice strained from grain, dominion, milk and Soma. By the Law come truth and vigour, the strained bright essence of the grain, Indra's power — this milk is nectar, is honey.",
+    "bho": "प्रजापति अन्न से छानल रस के, क्षात्र-बल के, दूध आ सोम के ब्रह्म (मंत्र) से अलगा-अलगा पियलन। ऋत से सत्य, इंद्रिय-बल, अन्न के छानल उज्जर सार (शुक्र), इंद्र के बल — ई दूध अमृत बा, मधु बा।"
+  },
+  "explanation": {
+    "hi": "सौत्रामणी-याग (VS 19) की ऋचा, जिसमें 'शुक्रम्' (उज्ज्वल रस) शब्द आता है — इसी शब्द के कारण पोथियाँ इसे [[shukra]] ग्रह की वैदिक ऋचा मानती हैं। ये नौ ऋचाएँ [याज्ञवल्क्यस्मृति](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.300–301 में ग्रह-क्रम से गिनाई गई हैं (आकृष्णेन, इमं देवा, अग्निर्मूर्धा, उद्बुध्यस्व, बृहस्पतेऽति, अन्नात्परिस्रुतः, शं नो देवीः, कया नश्चित्र, केतुं कृण्वन्) — इसी स्मृति-सूची पर हिंदी-पट्टी की पोथियों का नवग्रह-पूजन टिका है। शुक्र मंडल के पूर्व कोष्ठक में सफ़ेद अक्षत पर स्थापित होते हैं ([मत्स्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.12; [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur)); [मत्स्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.36 होम के लिए 'शुक्रं ते अन्यद्' देता है — पोथी-भेद। VS 19 के पृष्ठ पर पद-पाठ 'अन्नात् परिस्रुतः' दो शब्दों में और स्वर-पाठ 'अन्नात्परिस्रुतो' संधि के साथ है।",
+    "en": "A rk of the Sautramani rite (VS 19) containing the word 'shukram' (the bright essence) — for that word the handbooks make it the Vedic rk of Venus (Shukra). These nine rks are listed in graha order in the [Yajnavalkya Smriti](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.300–301 (a krishnena, imam deva, agnir murdha, ud budhyasva, brihaspate ati, annat parisrutah, sham no devih, kaya nash chitra, ketum krinvan); the navagraha worship of the Hindi-belt handbooks rests on this smriti list. Venus is installed in the eastern cell on white rice ([Matsya Purana](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.12; [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur)); the [Matsya Purana](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.36 gives 'shukram te anyad' for the homa instead — a difference between texts. On the Wikisource page of VS 19 the pada text divides 'annat parisrutah' into two words and the svara text joins them in sandhi.",
+    "bho": "सौत्रामणी-याग (VS 19) के ऋचा, जेह में 'शुक्रम्' (उज्जर रस) शब्द आवेला — एही शब्द के कारन पोथी एकरा [[shukra]] ग्रह के वैदिक ऋचा मानेला। ई नौ ऋचा [याज्ञवल्क्यस्मृति](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.300–301 में ग्रह-क्रम से गिनावल बा (आकृष्णेन, इमं देवा, अग्निर्मूर्धा, उद्बुध्यस्व, बृहस्पतेऽति, अन्नात्परिस्रुतः, शं नो देवीः, कया नश्चित्र, केतुं कृण्वन्) — एही स्मृति-सूची पर हिंदी-पट्टी के पोथी के नवग्रह-पूजन टिकल बा। शुक्र मंडल के पूरब कोठरी में उज्जर अछत पर स्थापित होलन ([मत्स्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.12; [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur)); [मत्स्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.36 होम खातिर 'शुक्रं ते अन्यद्' देला — पोथी-भेद। VS 19 के पन्ना पर पद-पाठ 'अन्नात् परिस्रुतः' दू शब्द में आ स्वर-पाठ 'अन्नात्परिस्रुतो' संधि संगे बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-19",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "navagraha",
+    "shukra",
+    "sautramani"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

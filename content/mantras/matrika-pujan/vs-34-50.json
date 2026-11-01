@@ -1,0 +1,109 @@
+{
+  "id": "vs-34-50",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 34.50",
+  "title": {
+    "hi": "आयुष्यं वर्चस्यं (आयुष्य-मंत्र 1)",
+    "en": "Ayushyam varchasyam (ayushya mantra 1)",
+    "bho": "आयुष्यं वर्चस्यं (आयुष्य-मंत्र 1)"
+  },
+  "devanagari": "आ॒यु॒ष्यं॒ वर्च॒स्य॒ᳪं᳭ रा॒यस्पोष॒मौद्भि॑दम् । इ॒दᳪं᳭ हिर॑ण्यं॒ वर्च॑स्व॒ जैत्रा॒यावि॑शतादु॒ माम् ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "आयुष्यम्",
+      "gloss": {
+        "hi": "आयु देने वाला",
+        "en": "giving long life",
+        "bho": "उमिर देवे वाला"
+      }
+    },
+    {
+      "sa": "वर्चस्यम्",
+      "gloss": {
+        "hi": "तेज देने वाला",
+        "en": "giving lustre",
+        "bho": "तेज देवे वाला"
+      }
+    },
+    {
+      "sa": "रायस्पोषम्",
+      "gloss": {
+        "hi": "धन की वृद्धि",
+        "en": "increase of wealth",
+        "bho": "धन के बढ़ती"
+      }
+    },
+    {
+      "sa": "औद्भिदम्",
+      "gloss": {
+        "hi": "(भूमि से) उगने वाला",
+        "en": "sprouting (from the earth)",
+        "bho": "(धरती से) उपजे वाला"
+      }
+    },
+    {
+      "sa": "इदं हिरण्यम्",
+      "gloss": {
+        "hi": "यह सोना",
+        "en": "this gold",
+        "bho": "ई सोना"
+      }
+    },
+    {
+      "sa": "वर्चस्वत्",
+      "gloss": {
+        "hi": "तेजस्वी",
+        "en": "full of lustre",
+        "bho": "तेज वाला"
+      }
+    },
+    {
+      "sa": "जैत्राय आ विशताद् उ माम्",
+      "gloss": {
+        "hi": "विजय के लिए मुझमें प्रवेश करे",
+        "en": "may it enter me for victory",
+        "bho": "जीत खातिर हमरा में घुसे"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "आयु और तेज देने वाला, धन बढ़ाने वाला, भूमि से उगने वाला यह तेजस्वी सोना विजय के लिए मुझमें प्रवेश करे।",
+    "en": "May this lustrous gold — giving long life and lustre, increasing wealth, sprung from the earth — enter me for victory.",
+    "bho": "उमिर आ तेज देवे वाला, धन बढ़ावे वाला, धरती से उपजे वाला ई तेज वाला सोना जीत खातिर हमरा में घुसे।"
+  },
+  "explanation": {
+    "hi": "[[yajurved]] 34.50–52 सोना (हिरण्य) धारण करने के तीन मंत्र हैं — [[raksha-sutra]], कंकण और मौली बाँधने में भी इनका विनियोग है। [[sapta-ghrit-matrika]] पूजन के अंत में ब्राह्मण इन तीनों को 'आयुष्य-मंत्र' के रूप में पढ़ते हैं और यजमान अंजलि में पुष्प लेकर सुनता है ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) पृ. 225; [वासिष्ठी हवन-पद्धति (1939)](https://archive.org/details/CwUb_vasishthi-havan-paddhati-with-hindi-tika-gayghat-varanasi-1939-bhargav-pustakala) इन्हें स्वर के साथ छापती है)। यह पहला मंत्र है; अगले दो VS 34.51 और 34.52 हैं।",
+    "en": "Yajurveda 34.50–52 are the three mantras for putting on gold (hiranya); they are also used for tying the raksha-sutra, the kankana and the red thread. At the end of the sapta-ghrita-matrika worship the Brahmins recite the three as the 'ayushya mantras' while the host listens with flowers cupped in his hands ([Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) p. 225; the [Vasishthi Havan Paddhati (1939 Gayghat edition)](https://archive.org/details/CwUb_vasishthi-havan-paddhati-with-hindi-tika-gayghat-varanasi-1939-bhargav-pustakala) prints them with svara). This is the first; the next two are VS 34.51 and 34.52.",
+    "bho": "[[yajurved]] 34.50–52 सोना (हिरण्य) धारन करे के तीन मंत्र बा — [[raksha-sutra]], कंगन आ मौली बान्हे में भी एकर बिनियोग बा। [[sapta-ghrit-matrika]] पूजन के अंत में ब्राह्मन लोग एह तीनों के 'आयुष्य-मंत्र' के रूप में पढ़ेलन आ जजमान अँजुरी में फूल लेके सुनेला ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) पृ. 225; [वासिष्ठी हवन-पद्धति (1939)](https://archive.org/details/CwUb_vasishthi-havan-paddhati-with-hindi-tika-gayghat-varanasi-1939-bhargav-pustakala) एकरा स्वर संगे छापेला)। ई पहिला मंत्र बा; अगिला दू VS 34.51 आ 34.52 बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-34",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vasishthi-havan-paddhati-1939",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "matrika",
+    "ayushya",
+    "hiranya"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

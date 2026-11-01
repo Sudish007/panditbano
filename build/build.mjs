@@ -193,7 +193,7 @@ function stageRender(out, ctx, data, derived) {
           break;
         }
         case "pothi": html = pothiPage(ctx, { route, occ: occasionsBySlug.get(route.params.slug), data, derived, occasionsById }); break;
-        case "texts-index": html = textsIndexPage(ctx, { route, texts: data.texts, counts: derived.counts }); break;
+        case "texts-index": html = textsIndexPage(ctx, { route, texts: data.texts, counts: derived.counts, derived }); break;
         case "text": html = textPage(ctx, { route, text: textsBySlug.get(route.params.textSlug), data, derived, occasionsById }); break;
         case "chapter":
         case "chapter-part": {

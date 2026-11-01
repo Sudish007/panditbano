@@ -1,0 +1,101 @@
+{
+  "id": "vs-34-51",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 34.51",
+  "title": {
+    "hi": "न तद्रक्षांसि न पिशाचाः (आयुष्य-मंत्र 2)",
+    "en": "Na tad rakshamsi na pishachah (ayushya mantra 2)",
+    "bho": "न तद्रक्षांसि न पिशाचाः (आयुष्य-मंत्र 2)"
+  },
+  "devanagari": "न तद्रक्षा॑ᳪं᳭सि॒ न पि॑शा॒चास्त॑रन्ति दे॒वाना॒मोजः॑ प्रथम॒जᳪं᳭ ह्ये॒तत् । यो बि॒भर्ति॑ दाक्षाय॒णᳪं᳭ हिर॑ण्य॒ᳪं᳭ स दे॒वेषु॑ कृणुते दी॒र्घमायुः॒ स म॑नु॒ष्ये॒षु कृणुते दी॒र्घमायुः॑ ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "न तत् रक्षांसि न पिशाचाः तरन्ति",
+      "gloss": {
+        "hi": "उसे न राक्षस लाँघ सकते हैं, न पिशाच",
+        "en": "neither rakshasas nor pishachas overcome it",
+        "bho": "ओकरा ना राकस लाँघ सकेला, ना पिसाच"
+      }
+    },
+    {
+      "sa": "देवानाम् ओजः",
+      "gloss": {
+        "hi": "(वह) देवों का ओज है",
+        "en": "it is the might of the gods",
+        "bho": "(ऊ) देव लोग के ओज बा"
+      }
+    },
+    {
+      "sa": "प्रथमजं हि एतत्",
+      "gloss": {
+        "hi": "क्योंकि यह पहला जन्मा है",
+        "en": "for it is the first-born",
+        "bho": "काहे कि ई पहिले जनमल बा"
+      }
+    },
+    {
+      "sa": "यः बिभर्ति दाक्षायणं हिरण्यम्",
+      "gloss": {
+        "hi": "जो दाक्षायण (दक्ष-वंशी) सोना धारण करता है",
+        "en": "he who wears the Dakshayana gold",
+        "bho": "जे दाक्षायण (दक्ष-वंस के) सोना धारन करेला"
+      }
+    },
+    {
+      "sa": "सः देवेषु कृणुते दीर्घम् आयुः",
+      "gloss": {
+        "hi": "वह देवों में दीर्घ आयु पाता है",
+        "en": "he wins long life among the gods",
+        "bho": "ऊ देव लोग में लमहर उमिर पावेला"
+      }
+    },
+    {
+      "sa": "सः मनुष्येषु कृणुते दीर्घम् आयुः",
+      "gloss": {
+        "hi": "वह मनुष्यों में दीर्घ आयु पाता है",
+        "en": "he wins long life among men",
+        "bho": "ऊ मनई लोग में लमहर उमिर पावेला"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "उस (सोने) को न राक्षस लाँघ सकते हैं, न पिशाच — यह देवों का ओज है, क्योंकि यह पहला जन्मा है। जो दाक्षायण सोना धारण करता है, वह देवों में दीर्घ आयु पाता है, वह मनुष्यों में दीर्घ आयु पाता है।",
+    "en": "Neither rakshasas nor pishachas overcome it — it is the might of the gods, for it is the first-born. He who wears the Dakshayana gold wins long life among the gods, wins long life among men.",
+    "bho": "ओह (सोना) के ना राकस लाँघ सकेला, ना पिसाच — ई देव लोग के ओज बा, काहे कि ई पहिले जनमल बा। जे दाक्षायण सोना धारन करेला, ऊ देव लोग में लमहर उमिर पावेला, ऊ मनई लोग में लमहर उमिर पावेला।"
+  },
+  "explanation": {
+    "hi": "हिरण्य-धारण के तीन मंत्रों (VS 34.50–52) का दूसरा; 'दाक्षायण हिरण्य' प्रजापति दक्ष के वंश का सोना है, जिसे धारण करने की यह ऋचा प्रशंसा करती है। [[sapta-ghrit-matrika]] पूजन के आयुष्य-वाचन में ब्राह्मण इसे VS 34.50 के बाद पढ़ते हैं ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) पृ. 225; [वासिष्ठी हवन-पद्धति (1939)](https://archive.org/details/CwUb_vasishthi-havan-paddhati-with-hindi-tika-gayghat-varanasi-1939-bhargav-pustakala) में स्वर के साथ)। 'दीर्घमायुः' (दीर्घ आयु) शब्द ही इस खंड को 'आयुष्य-मंत्र' नाम देता है; यह मंत्र का अपना कथन है, साइट का दावा नहीं।",
+    "en": "The second of the three gold mantras (VS 34.50–52); the 'Dakshayana gold' is the gold of Prajapati Daksha's line, whose wearing the rk praises. In the ayushya recitation of the sapta-ghrita-matrika worship the Brahmins recite it after VS 34.50 ([Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) p. 225; with svara in the [Vasishthi Havan Paddhati (1939 Gayghat edition)](https://archive.org/details/CwUb_vasishthi-havan-paddhati-with-hindi-tika-gayghat-varanasi-1939-bhargav-pustakala)). The words 'dirgham ayuh' (long life) give the group its name 'ayushya mantras'; that is the mantra's own statement, not a claim of this site.",
+    "bho": "हिरण्य-धारन के तीन मंत्र (VS 34.50–52) के दुसरा; 'दाक्षायण हिरण्य' प्रजापति दक्ष के वंस के सोना बा, जेकरा धारन करे के ई ऋचा बड़ाई करेला। [[sapta-ghrit-matrika]] पूजन के आयुष्य-वाचन में ब्राह्मन लोग एकरा VS 34.50 के बाद पढ़ेलन ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) पृ. 225; [वासिष्ठी हवन-पद्धति (1939)](https://archive.org/details/CwUb_vasishthi-havan-paddhati-with-hindi-tika-gayghat-varanasi-1939-bhargav-pustakala) में स्वर संगे)। 'दीर्घमायुः' (लमहर उमिर) शब्द ही एह खंड के 'आयुष्य-मंत्र' नाँव देला; ई मंत्र के आपन कथन बा, साइट के दावा ना।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-34",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vasishthi-havan-paddhati-1939",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "matrika",
+    "ayushya",
+    "hiranya"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

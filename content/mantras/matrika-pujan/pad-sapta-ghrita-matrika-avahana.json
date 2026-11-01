@@ -1,0 +1,104 @@
+{
+  "id": "pad-sapta-ghrita-matrika-avahana",
+  "kind": "paddhati",
+  "title": {
+    "hi": "सप्त घृत मातृका आवाहन (श्री से सरस्वती तक)",
+    "en": "Invocation of the seven ghee-matrikas (Shri to Saraswati)",
+    "bho": "सात घी-मातृका आवाहन (श्री से सरस्वती तक)"
+  },
+  "devanagari": "ॐ भूर्भुवः स्वः श्रिये नमः श्रियम् आवाहयामि स्थापयामि । ॐ भूर्भुवः स्वः लक्ष्म्यै नमः लक्ष्मीम् आवाहयामि स्थापयामि । ॐ भूर्भुवः स्वः धृत्यै नमः धृतिम् आवाहयामि स्थापयामि । ॐ भूर्भुवः स्वः मेधायै नमः मेधाम् आवाहयामि स्थापयामि । ॐ भूर्भुवः स्वः पुष्ट्यै नमः पुष्टिम् आवाहयामि स्थापयामि । ॐ भूर्भुवः स्वः श्रद्धायै नमः श्रद्धाम् आवाहयामि स्थापयामि । ॐ भूर्भुवः स्वः सरस्वत्यै नमः सरस्वतीम् आवाहयामि स्थापयामि ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "ॐ भूर्भुवः स्वः श्रिये नमः श्रियम् आवाहयामि स्थापयामि",
+      "gloss": {
+        "hi": "श्री को प्रणाम; श्री का आवाहन-स्थापन करता हूँ",
+        "en": "salutation to Shri; I invoke and install Shri",
+        "bho": "श्री के परनाम; श्री के आवाहन-स्थापन करत बानी"
+      }
+    },
+    {
+      "sa": "ॐ भूर्भुवः स्वः लक्ष्म्यै नमः लक्ष्मीम् आवाहयामि स्थापयामि",
+      "gloss": {
+        "hi": "लक्ष्मी को प्रणाम; लक्ष्मी का आवाहन-स्थापन करता हूँ",
+        "en": "salutation to Lakshmi; I invoke and install Lakshmi",
+        "bho": "लक्ष्मी के परनाम; लक्ष्मी के आवाहन-स्थापन करत बानी"
+      }
+    },
+    {
+      "sa": "ॐ भूर्भुवः स्वः धृत्यै नमः धृतिम् आवाहयामि स्थापयामि",
+      "gloss": {
+        "hi": "धृति को प्रणाम; धृति का आवाहन-स्थापन करता हूँ",
+        "en": "salutation to Dhriti; I invoke and install Dhriti",
+        "bho": "धृति के परनाम; धृति के आवाहन-स्थापन करत बानी"
+      }
+    },
+    {
+      "sa": "ॐ भूर्भुवः स्वः मेधायै नमः मेधाम् आवाहयामि स्थापयामि",
+      "gloss": {
+        "hi": "मेधा को प्रणाम; मेधा का आवाहन-स्थापन करता हूँ",
+        "en": "salutation to Medha; I invoke and install Medha",
+        "bho": "मेधा के परनाम; मेधा के आवाहन-स्थापन करत बानी"
+      }
+    },
+    {
+      "sa": "ॐ भूर्भुवः स्वः पुष्ट्यै नमः पुष्टिम् आवाहयामि स्थापयामि",
+      "gloss": {
+        "hi": "पुष्टि को प्रणाम; पुष्टि का आवाहन-स्थापन करता हूँ",
+        "en": "salutation to Pushti; I invoke and install Pushti",
+        "bho": "पुष्टि के परनाम; पुष्टि के आवाहन-स्थापन करत बानी"
+      }
+    },
+    {
+      "sa": "ॐ भूर्भुवः स्वः श्रद्धायै नमः श्रद्धाम् आवाहयामि स्थापयामि",
+      "gloss": {
+        "hi": "श्रद्धा को प्रणाम; श्रद्धा का आवाहन-स्थापन करता हूँ",
+        "en": "salutation to Shraddha; I invoke and install Shraddha",
+        "bho": "श्रद्धा के परनाम; श्रद्धा के आवाहन-स्थापन करत बानी"
+      }
+    },
+    {
+      "sa": "ॐ भूर्भुवः स्वः सरस्वत्यै नमः सरस्वतीम् आवाहयामि स्थापयामि",
+      "gloss": {
+        "hi": "सरस्वती को प्रणाम; सरस्वती का आवाहन-स्थापन करता हूँ",
+        "en": "salutation to Saraswati; I invoke and install Saraswati",
+        "bho": "सरस्वती के परनाम; सरस्वती के आवाहन-स्थापन करत बानी"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "ॐ भूः भुवः स्वः — श्री, लक्ष्मी, धृति, मेधा, पुष्टि, श्रद्धा और सरस्वती को प्रणाम; हर एक का आवाहन और स्थापन करता हूँ।",
+    "en": "Om bhuh bhuvah svah — salutation to Shri, Lakshmi, Dhriti, Medha, Pushti, Shraddha and Saraswati; I invoke and install each.",
+    "bho": "ॐ भूः भुवः स्वः — श्री, लक्ष्मी, धृति, मेधा, पुष्टि, श्रद्धा आ सरस्वती के परनाम; हर एक के आवाहन आ स्थापन करत बानी।"
+  },
+  "explanation": {
+    "hi": "[[sapta-ghrit-matrika]] — [[vasordhara]] की सात घी-धाराओं में निवास करने वाली सात देवियों — के आवाहन-वाक्य ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) पृ. 224; [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt))। घी की धाराएँ देने और गुड़ से रेखाएँ जोड़ने के बाद हर धारा पर अक्षत-पुष्प छोड़ते हुए पंडित एक-एक वाक्य बोलता है। [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) इन्हें एक साथ 'ॐ भूर्भुवः स्वः घृतमातृभ्यो नमः' से पूजती है — पोथी-भेद।",
+    "en": "The invocation sentences of the seven ghee-matrikas — the seven goddesses held to dwell in the seven ghee streams of the vasordhara ([Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) p. 224; [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt)). After the ghee streams are drawn and the lines joined with jaggery, the pandit says one sentence per stream while rice and flowers are dropped on it. The [Vasishthi Havan Paddhati](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) worships them together with 'om bhur bhuvah svah ghrita-matribhyo namah' — a difference between handbooks.",
+    "bho": "[[sapta-ghrit-matrika]] — [[vasordhara]] के सात घी-धार में निवास करे वाली सात देवी — के आवाहन-वाक्य ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) पृ. 224; [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt))। घी के धार देवे आ गुड़ से रेखा जोड़े के बाद हर धार पर अछत-फूल छोड़त पंडित एक-एक वाक्य बोलेलन। [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) एकनी के एक संगे 'ॐ भूर्भुवः स्वः घृतमातृभ्यो नमः' से पूजेला — पोथी-भेद।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-nkpp-scan",
+    "retrieved": "2026-11-01",
+    "modified": "OCR slips corrected (लक्ष्ये → लक्ष्म्यै, मेधाये → मेधायै, भूभुंवः/भुभुवः → भूर्भुवः, सरस्वत्ये → सरस्वत्यै); commas removed; dandas set"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit ritual formula (anonymous, pre-modern); Sanskrit text taken from the Gita Press scan under brief §14, no Hindi prose copied",
+  "tags": [
+    "matrika",
+    "avahana",
+    "ghrita-matrika"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "locator": "NKPP p. 224 (सप्तघृतमातृका-पूजन)",
+  "checkedAgainst": [
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ]
+}

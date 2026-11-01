@@ -1,0 +1,79 @@
+{
+  "id": "pad-ayur-arogyam-aishvaryam",
+  "kind": "paddhati",
+  "title": {
+    "hi": "आयुरारोग्यमैश्वर्यं ददध्वं (मातृका प्रार्थना)",
+    "en": "Ayur arogyam aishvaryam dadadhvam (prayer to the matrikas)",
+    "bho": "आयुरारोग्यमैश्वर्यं ददध्वं (मातृका के प्रार्थना)"
+  },
+  "devanagari": "ॐ आयुरारोग्यमैश्वर्यं ददध्वं मातरो मम । निर्विघ्नं सर्वकार्येषु कुरुध्वं सगणाधिपाः ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "आयुः आरोग्यम् ऐश्वर्यम्",
+      "gloss": {
+        "hi": "आयु, आरोग्य और ऐश्वर्य",
+        "en": "long life, health and prosperity",
+        "bho": "उमिर, आरोग्य आ ऐश्वर्य"
+      }
+    },
+    {
+      "sa": "ददध्वं मातरः मम",
+      "gloss": {
+        "hi": "हे माताओं, मुझे दो",
+        "en": "O Mothers, give me",
+        "bho": "हे माई लोग, हमरा के दीं"
+      }
+    },
+    {
+      "sa": "निर्विघ्नं सर्वकार्येषु कुरुध्वम्",
+      "gloss": {
+        "hi": "सब कार्यों को निर्विघ्न करो",
+        "en": "make all my undertakings free of obstacles",
+        "bho": "सब काम के निर्बिघन करीं"
+      }
+    },
+    {
+      "sa": "सगणाधिपाः",
+      "gloss": {
+        "hi": "गणाधिप (गणेश) के साथ (आप)",
+        "en": "(you) together with the lord of the ganas (Ganesha)",
+        "bho": "गणाधिप (गणेश) संगे (रउआ लोग)"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे माताओं, मुझे आयु, आरोग्य और ऐश्वर्य दो; गणाधिप गणेश के साथ आप मेरे सब कार्यों को निर्विघ्न करो।",
+    "en": "O Mothers, give me long life, health and prosperity; together with Ganesha, lord of the ganas, make all my undertakings free of obstacles.",
+    "bho": "हे माई लोग, हमरा के उमिर, आरोग्य आ ऐश्वर्य दीं; गणाधिप गणेश संगे रउआ लोग हमार सब काम के निर्बिघन करीं।"
+  },
+  "explanation": {
+    "hi": "[[shodash-matrika]] पूजन के अंत का प्रार्थना-श्लोक: यजमान अंजलि में नारियल आदि फल लेकर इसे सुनता है, फिर फल चढ़ाकर हाथ जोड़े कहता है 'गेहे वृद्धिशतानि भवंतु, उत्तरे कर्मण्यविघ्नमस्तु' (घर में सौ-सौ वृद्धियाँ हों, आगे के कर्म में विघ्न न हो) — [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) पृ. 223; [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) में भी यही श्लोक। यह याचना की भाषा है, जिसे साइट उसी रूप में देती है।",
+    "en": "The prayer verse that ends the shodasha-matrika worship: the host hears it with a coconut or other fruit cupped in his hands, then offers the fruit and says with folded hands 'gehe vriddhi-shatani bhavantu, uttare karmany avighnam astu' (may a hundred increases be in the house, may the rite ahead be unobstructed) — [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) p. 223; the same verse in the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt). It is the language of petition, which the site gives as such.",
+    "bho": "[[shodash-matrika]] पूजन के अंत के प्रार्थना-श्लोक: जजमान अँजुरी में नरियर आदि फल लेके एकरा सुनेला, फेर फल चढ़ा के हाथ जोड़ के कहेला 'गेहे वृद्धिशतानि भवन्तु, उत्तरे कर्मण्यविघ्नमस्तु' (घर में सौ-सौ बढ़ती होखे, आगे के करम में बिघन ना होखे) — [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) पृ. 223; [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) में भी इहे श्लोक। ई याचना के भाषा बा, जेकरा साइट ओही रूप में देला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-nkpp-scan",
+    "retrieved": "2026-11-01",
+    "modified": "OCR ददध्वं kept as printed; dandas set"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit ritual formula (anonymous, pre-modern); Sanskrit text taken from the Gita Press scan under brief §14, no Hindi prose copied",
+  "tags": [
+    "matrika",
+    "prarthana"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "locator": "NKPP p. 223",
+  "checkedAgainst": [
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ]
+}

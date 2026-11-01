@@ -1,0 +1,635 @@
+{
+  "id": "navagraha-sthapana-pujan",
+  "code": "F08",
+  "group": "foundations",
+  "phase": 1,
+  "title": {
+    "hi": "नवग्रह स्थापना-पूजन",
+    "en": "Navagraha sthapana and pujan",
+    "bho": "नवग्रह स्थापना-पूजन"
+  },
+  "lede": {
+    "hi": "नौ कोष्ठकों के मंडल में सूर्य से केतु तक नौ ग्रहों की स्थापना — हर ग्रह की वैदिक ऋचा, पौराणिक ध्यान और नाम-मंत्र — फिर प्रतिष्ठा, पूजन और प्रार्थना; हर बड़ी पूजा और हवन का पूर्वांग।",
+    "en": "Installing the nine grahas, Surya to Ketu, in a nine-cell mandala — each with its Vedic rk, Puranic dhyana and name mantra — then consecration, worship and prayer; part of the opening of every major puja and havan.",
+    "bho": "नौ कोठरी के मंडल में सूर्य से केतु तक नौ ग्रह के स्थापना — हर ग्रह के वैदिक ऋचा, पौरानिक धियान आ नाँव-मंत्र — फेर प्रतिष्ठा, पूजन आ प्रार्थना; हर बड़ पूजा आ हवन के पूर्वांग।"
+  },
+  "overview": {
+    "hi": "[[navagraha-pujan]] उत्तर भारत की हर बड़ी पूजा — संस्कार, गृहप्रवेश, हवन, कथा — के पूर्वांग का हिस्सा है: [[ganesh-ambika-pujan]] और [[kalash-sthapana]] के बाद, मातृका-पूजन के साथ। ईशान कोण में चौकी या वेदी पर चार खड़ी और चार पड़ी रेखाओं से नौ कोष्ठक बनाए जाते हैं; बीच में [[surya-graha]], आग्नेय में [[chandra]], दक्षिण में [[mangal]], ईशान में [[budh]], उत्तर में [[guru]], पूर्व में [[shukra]], पश्चिम में [[shani]], नैऋत्य में [[rahu]] और वायव्य में [[ketu]] — यह क्रम [मत्स्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.11–12 का है और हिंदी-पट्टी की पोथियाँ ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur); [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt)) इसे ज्यों का त्यों रखती हैं। हर ग्रह के तीन मंत्र हैं: [[yajurved]] की एक ऋचा (सूची [याज्ञवल्क्यस्मृति](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.300–301 में — ये ऋचाएँ ग्रहों का नाम नहीं लेतीं, पोथी-परंपरा ने शब्द-साम्य से उन्हें ग्रहों को दिया है), [नवग्रह स्तोत्र](/texts/navagraha-stotra/) का एक ध्यान-श्लोक, और देश-गोत्र-रंग वाला आवाहन-वाक्य, जिसका अंत नाम-मंत्र पर है। फिर 'मनो जूतिः' (VS 2.13) से प्रतिष्ठा, एक साझे नाम-मंत्र से [[panchopachar]] या [[shodashopachar]], और दो प्रार्थना-श्लोक। हवन में यही नौ ऋचाएँ नवग्रह-आहुतियों के मंत्र हैं। [[dosh]]-शांति के लिए अलग से किया जाने वाला ग्रह-यज्ञ (जप, समिधा-होम, दान) इसी ढाँचे पर खड़ा है — उसका वर्णन इस साइट पर परंपरा के रूप में है; साइट न कुंडली देखती है, न कोई फल बताती है।",
+    "en": "The navagraha worship belongs to the opening part of every major North Indian puja — samskara, house-entry, havan, katha — after the Ganesha-Ambika worship and the kalasha, together with the matrika worship. In the north-east corner, on a stool or altar, four vertical and four horizontal lines make nine cells: Surya in the centre, Chandra in the south-east, Mangala in the south, Budha in the north-east, Guru in the north, Shukra in the east, Shani in the west, Rahu in the south-west and Ketu in the north-west — the order of the [Matsya Purana](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.11–12, kept unchanged by the Hindi-belt handbooks ([Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur); [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt)). Each graha has three mantras: a rk of the Yajurveda (listed in the [Yajnavalkya Smriti](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.300–301 — these rks do not name the grahas; the handbook tradition assigned them by likeness of words), a dhyana verse from the [Navagraha Stotra](/texts/navagraha-stotra/), and an invocation sentence naming birthplace, gotra and colour that ends in the name mantra. Then consecration with 'mano jutih' (VS 2.13), the five- or sixteen-step worship with one shared name mantra, and two prayer verses. In a havan the same nine rks are the mantras of the navagraha oblations. The separate graha-yajna performed for the pacification of a dosha (japa, samidha homa, gifts) stands on this same frame — this site describes it as tradition; it reads no horoscope and predicts nothing.",
+    "bho": "[[navagraha-pujan]] उत्तर भारत के हर बड़ पूजा — संस्कार, गृहप्रवेश, हवन, कथा — के पूर्वांग के हिस्सा बा: [[ganesh-ambika-pujan]] आ [[kalash-sthapana]] के बाद, मातृका-पूजन संगे। ईसान कोन में चौकी भा बेदी पर चार ठाड़ आ चार पड़ल रेखा से नौ कोठरी बनावल जाला; बीच में [[surya-graha]], आग्नेय में [[chandra]], दक्खिन में [[mangal]], ईसान में [[budh]], उत्तर में [[guru]], पूरब में [[shukra]], पच्छिम में [[shani]], नैऋत्य में [[rahu]] आ वायव्य में [[ketu]] — ई क्रम [मत्स्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.11–12 के बा आ हिंदी-पट्टी के पोथी ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur); [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt)) एकरा जइसन के तइसन राखेला। हर ग्रह के तीन मंत्र बा: [[yajurved]] के एक ऋचा (सूची [याज्ञवल्क्यस्मृति](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.300–301 में — ई ऋचा ग्रह के नाँव ना लेवे, पोथी-परंपरा शब्द-साम्य से एकनी के ग्रह लोग के दे दिहल), [नवग्रह स्तोत्र](/texts/navagraha-stotra/) के एक धियान-श्लोक, आ देस-गोत्र-रंग वाला आवाहन-वाक्य जे नाँव-मंत्र पर समाप्त होला। फेर 'मनो जूतिः' (VS 2.13) से प्रतिष्ठा, एक साझा नाँव-मंत्र से [[panchopachar]] भा [[shodashopachar]], आ दू प्रार्थना-श्लोक। हवन में इहे नौ ऋचा नवग्रह-आहुति के मंत्र बा। [[dosh]]-सांति खातिर अलगा से कइल जाए वाला ग्रह-जग्य (जप, समिधा-होम, दान) एही ढाँचा पर ठाड़ बा — ओकर बरनन एह साइट पर परंपरा के रूप में बा; साइट ना कुंडली देखे, ना कवनो फल बतावे।"
+  },
+  "when": {
+    "rules": {
+      "hi": "हर बड़ी पूजा, संस्कार, हवन और कथा के पूर्वांग में — कलश-स्थापना के बाद, मातृका-पूजन के साथ; मुख्य कर्म का मुहूर्त ही इसका समय है। अलग ग्रह-शांति या ग्रह-यज्ञ के लिए परंपरा शुभ तिथि-वार चुनती है (तिथि और मुहूर्त के लिए [Shubhvela](https://sudish007.github.io/shubhvela/) देखें); यह साइट कोई गणना नहीं करती।",
+      "en": "In the opening part of every major puja, samskara, havan and katha — after the kalasha, together with the matrika worship; the muhurat of the main rite is its time. For a separate graha-shanti or graha-yajna tradition chooses an auspicious tithi and weekday (see [Shubhvela](https://sudish007.github.io/shubhvela/) for dates and muhurat); this site computes nothing.",
+      "bho": "हर बड़ पूजा, संस्कार, हवन आ कथा के पूर्वांग में — कलश-स्थापना के बाद, मातृका-पूजन संगे; मुख्य करम के मुहूरत ही एकर समय बा। अलगा ग्रह-सांति भा ग्रह-जग्य खातिर परंपरा सुभ तिथि-दिन चुनेला (तिथि आ मुहूरत खातिर [Shubhvela](https://sudish007.github.io/shubhvela/) देखीं); ई साइट कवनो गनना ना करे।"
+    },
+    "shubhvela": {
+      "muhurat": null,
+      "festival": null,
+      "vrat": null
+    }
+  },
+  "roles": [
+    {
+      "role": {
+        "hi": "पुरोहित",
+        "en": "Purohit",
+        "bho": "पुरोहित"
+      },
+      "does": {
+        "hi": "मंडल बनवाना, हर ग्रह की ऋचा, ध्यान और आवाहन-वाक्य पढ़ना, प्रतिष्ठा और पूजन कराना, प्रार्थना; हवन में नवग्रह-आहुतियाँ।",
+        "en": "Has the mandala drawn, recites each graha's rk, dhyana and invocation sentence, leads the consecration and worship, says the prayers; in a havan, the navagraha oblations.",
+        "bho": "मंडल बनवावल, हर ग्रह के ऋचा, धियान आ आवाहन-वाक्य पढ़ल, प्रतिष्ठा आ पूजन करावल, प्रार्थना; हवन में नवग्रह-आहुति।"
+      }
+    },
+    {
+      "role": {
+        "hi": "यजमान",
+        "en": "The host",
+        "bho": "जजमान"
+      },
+      "does": {
+        "hi": "हर आवाहन पर उस ग्रह के रंग के अक्षत-पुष्प उसके कोष्ठक में छोड़ना, पूजन की वस्तुएँ चढ़ाना, हाथ जोड़कर प्रार्थना सुनना।",
+        "en": "Drops rice and flowers of the graha's colour into its cell at each invocation, offers the items of worship, hears the prayers with folded hands.",
+        "bho": "हर आवाहन पर ओह ग्रह के रंग के अछत-फूल ओकर कोठरी में छोड़ल, पूजन के चीज चढ़ावल, हाथ जोड़ के प्रार्थना सुनल।"
+      }
+    }
+  ],
+  "samagri": [
+    {
+      "id": "chauki",
+      "item": {
+        "hi": "चौकी या वेदी — ईशान कोण में, लाल या सफ़ेद कपड़ा बिछा",
+        "en": "A low stool or altar in the north-east corner, spread with red or white cloth",
+        "bho": "चौकी भा बेदी — ईसान कोन में, लाल भा उज्जर कपड़ा बिछा के"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "rekha",
+      "item": {
+        "hi": "रोली, ऐपन या रंगे चावल का आटा — नौ कोष्ठकों की रेखाएँ खींचने के लिए",
+        "en": "Roli, aipan or coloured rice flour — to draw the lines of the nine cells",
+        "bho": "रोरी, ऐपन भा रंगल चाउर के आटा — नौ कोठरी के रेखा खींचे खातिर"
+      },
+      "qty": "थोड़ा",
+      "must": true
+    },
+    {
+      "id": "akshat-rang",
+      "item": {
+        "hi": "अक्षत — लाल (रोली से), पीला (हल्दी से), सफ़ेद, हरा और काला (काले तिल) रंगे",
+        "en": "Rice coloured red (roli), yellow (turmeric), left white, green, and black (black sesame)",
+        "bho": "अच्छत — लाल (रोरी से), पियर (हरदी से), उज्जर, हरियर आ करिया (करिया तिल) रंगल"
+      },
+      "qty": "हर रंग एक मुट्ठी",
+      "must": true
+    },
+    {
+      "id": "dhanya",
+      "item": {
+        "hi": "ग्रह के रंग का धान्य कोष्ठक में बिछाने के लिए — गेहूँ/मसूर (लाल), चावल (सफ़ेद), मूँग (हरा), चना (पीला), उड़द (काला); रंग-नियम 1939 की वासिष्ठी पोथी में",
+        "en": "Grain of the graha's colour to spread in the cell — wheat or red lentil (red), rice (white), green gram (green), chickpea (yellow), black gram (black); the colour rule follows the 1939 Vasishthi handbook",
+        "bho": "ग्रह के रंग के धान्य कोठरी में बिछावे खातिर — गोहूँ/मसूर (लाल), चाउर (उज्जर), मूँग (हरियर), चना (पियर), उरद (करिया); रंग-नियम 1939 के वासिष्ठी पोथी में"
+      },
+      "qty": "हर एक एक मुट्ठी",
+      "must": false
+    },
+    {
+      "id": "supari",
+      "item": {
+        "hi": "सुपारी — हर कोष्ठक में ग्रह के प्रतीक के लिए (लोकाचार)",
+        "en": "Betel nuts — one in each cell as the graha's token (customary)",
+        "bho": "सुपारी — हर कोठरी में ग्रह के परतीक खातिर (लोकाचार)"
+      },
+      "qty": "9",
+      "must": true
+    },
+    {
+      "id": "pushp",
+      "item": {
+        "hi": "पुष्प — लाल, सफ़ेद और पीले फूल (ग्रह के रंग के)",
+        "en": "Flowers — red, white and yellow (of the grahas' colours)",
+        "bho": "फूल — लाल, उज्जर आ पियर फूल (ग्रह के रंग के)"
+      },
+      "qty": "थोड़े",
+      "must": true
+    },
+    {
+      "id": "vastra",
+      "item": {
+        "hi": "नौ रंगों के वस्त्र (टुकड़े) — बड़े अनुष्ठान में (स्मृति-नियम 'यथावर्णं वासांसि')",
+        "en": "Cloth pieces in the nine colours — in a large rite (the smriti rule 'yathavarnam vasamsi')",
+        "bho": "नौ रंग के वस्त्र (टुकड़ा) — बड़ अनुष्ठान में (स्मृति-नियम 'यथावर्णं वासांसि')"
+      },
+      "qty": "9",
+      "must": false
+    },
+    {
+      "id": "gandh-dhup-deep",
+      "item": {
+        "hi": "गंध, धूप, दीप, नैवेद्य (गुड़, खीर, फल), तांबूल, दक्षिणा — पूजन के उपचार",
+        "en": "Sandal paste, incense, lamp, food (jaggery, kheer, fruit), betel and dakshina — the upacharas",
+        "bho": "गंध, धूप, दीया, नैवेद्य (गुड़, खीर, फल), तांबूल, दक्षिणा — पूजन के उपचार खातिर"
+      },
+      "qty": "थोड़ा",
+      "must": true
+    },
+    {
+      "id": "jal-patra",
+      "item": {
+        "hi": "जल-पात्र, आचमनी, पंचपात्र",
+        "en": "Water vessel, spoon and panchapatra",
+        "bho": "जल-बरतन, आचमनी, पंचपात्र"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "samidha",
+      "item": {
+        "hi": "नौ समिधा — अर्क, पलाश, खदिर, अपामार्ग, पीपल, गूलर, शमी, दूर्वा, कुश (केवल हवन में)",
+        "en": "The nine fuel sticks — arka, palasha, khadira, apamarga, pippala, udumbara, shami, durva, kusha (havan only)",
+        "bho": "नौ समिधा — अर्क, पलास, खदिर, अपामार्ग, पीपर, गूलर, शमी, दूब, कुस (खाली हवन में)"
+      },
+      "qty": "हर एक 8 या 28",
+      "must": false
+    }
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "layer": "lok",
+      "minutes": 5,
+      "action": {
+        "hi": "नवग्रह-मंडल की रचना — पूजा-स्थल के ईशान कोण में चौकी या वेदी पर कपड़ा बिछाकर रोली या ऐपन से चार खड़ी और चार पड़ी रेखाएँ खींचें — नौ बराबर कोष्ठक बनेंगे। हर कोष्ठक में उस ग्रह के रंग का धान्य या रंगा अक्षत बिछाएँ और ऊपर प्रतीक के लिए एक सुपारी रखें (स्थान और रंग 'कौन ग्रह किस कोष्ठक में' प्रश्न में)। कुछ पोथियाँ हर कोष्ठक में ग्रह की आकृति भी बनाती हैं — गोल सूर्य, अर्धचंद्र, त्रिकोण मंगल, धनुष बुध ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur))।",
+        "en": "Drawing the navagraha mandala — In the north-east corner of the puja area spread a cloth on a stool or altar and draw four vertical and four horizontal lines with roli or aipan — nine equal cells. In each cell spread grain or coloured rice of that graha's colour and set a betel nut on it as the token (positions and colours in the question 'which graha in which cell'). Some handbooks also draw the graha's figure in its cell — a disc for Surya, a half-moon, a triangle for Mangala, a bow for Budha ([Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur)).",
+        "bho": "नवग्रह-मंडल के रचना — पूजा-जगह के ईसान कोन में चौकी भा बेदी पर कपड़ा बिछा के रोरी भा ऐपन से चार ठाड़ आ चार पड़ल रेखा खींचीं — नौ बराबर कोठरी बनी। हर कोठरी में ओह ग्रह के रंग के धान्य भा रंगल अछत बिछाईं आ ऊपर परतीक खातिर एगो सुपारी राखीं (जगह आ रंग 'कवन ग्रह कवना कोठरी में' सवाल में)। कुछ पोथी हर कोठरी में ग्रह के आकृति भी बनावेला — गोल सूर्य, अधचंद्र, तिकोन मंगल, धनुष बुध ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur))।"
+      },
+      "samagriIds": [
+        "chauki",
+        "rekha",
+        "akshat-rang",
+        "dhanya",
+        "supari"
+      ],
+      "panditSays": {
+        "hi": "यजमान, ये नौ घर नौ ग्रहों के आसन हैं — बीच में सूर्य, और चारों ओर आठ। हर घर में उसी रंग का अक्षत डलेगा।",
+        "en": "Host, these nine squares are the seats of the nine grahas — the Sun in the middle and eight around. Each square takes rice of its own colour.",
+        "bho": "जजमान, ई नौ घर नौ ग्रह के आसन बा — बीच में सूर्य, आ चारो ओर आठ। हर घर में ओही रंग के अछत पड़ी।"
+      }
+    },
+    {
+      "n": 2,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "संकल्प: बड़ी पूजा में मुख्य [[sankalp]] पहले ही 'गौरी-गणपति-कलशस्थापनं नवग्रहादीनां स्मरणं पूजनं च करिष्ये' कह चुका है ([विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt)) — तब यहाँ कुछ नहीं। नवग्रह-पूजन अकेला हो (ग्रह-शांति), तो [संकल्प](/occasions/sankalp/) का पूरा ढाँचा ([संकल्प कैसे पढ़ें](/reference/sankalpa/)) और अंत में यह वाक्य।",
+        "en": "Sankalpa: in a large puja the main sankalpa has already said 'gauri-ganapati-kalasha-sthapanam navagrahadinam smaranam pujanam cha karishye' ([Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt)) — then nothing here. When the navagraha worship stands alone (a graha-shanti), use the full [sankalpa](/occasions/sankalp/) frame ([how to read a sankalpa](/reference/sankalpa/)) and end with this sentence.",
+        "bho": "संकल्प: बड़ पूजा में मुख्य [[sankalp]] पहिले ही 'गौरी-गणपति-कलशस्थापनं नवग्रहादीनां स्मरणं पूजनं च करिष्ये' कह चुकल बा ([विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt)) — तब इहाँ कुछ ना। नवग्रह-पूजन अकेले होखे (ग्रह-सांति), त [संकल्प](/occasions/sankalp/) के पूरा ढाँचा ([संकल्प कइसे पढ़ीं](/reference/sankalpa/)) आ अंत में ई वाक्य।"
+      },
+      "mantraIds": [
+        "pad-vishnur-vishnur-vishnuh"
+      ],
+      "panditSays": {
+        "sa": "{गोत्र}गोत्रः {नाम}शर्माहं मम सकुटुम्बस्य सर्वारिष्टनिवृत्तिपूर्वकं शुभताप्राप्त्यर्थं सूर्यादिनवग्रहस्थापनपूजनं करिष्ये ॥",
+        "hi": "… {गोत्र} गोत्र वाला {नाम} मैं, कुटुंब सहित, सब अरिष्टों की निवृत्ति और शुभता के लिए सूर्य आदि नौ ग्रहों की स्थापना और पूजन करता हूँ। (यजमान जल-अक्षत छोड़े।)",
+        "en": "… I, {name} of the {gotra} gotra, with my family, for the removal of all ill and for well-being, perform the installation and worship of the nine grahas beginning with Surya. (The host drops the water and rice.)",
+        "bho": "… {गोत्र} गोत्र वाला {नाम} हम, कुटुंब सहित, सब अरिष्ट के निवृत्ति आ सुभता खातिर सूर्य आदि नौ ग्रह के स्थापना आ पूजन करत बानी। (जजमान जल-अछत छोड़े।)"
+      }
+    },
+    {
+      "n": 3,
+      "layer": "vedic",
+      "minutes": 2,
+      "action": {
+        "hi": "सूर्य का आवाहन-स्थापन: पंडित वैदिक ऋचा 'आ कृष्णेन रजसा' पढ़े, फिर ध्यान-श्लोक 'जपाकुसुमसंकाशं', फिर आवाहन-वाक्य, जिसका अंत 'ॐ सूर्याय नमः' पर है; यजमान लाल रंग के अक्षत-पुष्प मध्य के कोष्ठक में छोड़े।",
+        "en": "Invocation and installation of Surya (the Sun): the pandit recites the Vedic rk 'a krishnena rajasa', then the dhyana verse 'japakusuma-sankasham', then the invocation sentence ending in 'om suryaya namah'; the host drops red rice and flowers into the centre cell.",
+        "bho": "सूर्य के आवाहन-स्थापन: पंडित वैदिक ऋचा 'आ कृष्णेन रजसा' पढ़सु, फेर धियान-श्लोक 'जपाकुसुमसंकाशं', फेर आवाहन-वाक्य जे 'ॐ सूर्याय नमः' पर समाप्त होला; जजमान लाल रंग के अछत-फूल बीच के कोठरी में छोड़े।"
+      },
+      "mantraIds": [
+        "vs-33-43",
+        "pad-japakusuma-sankasham",
+        "pad-suryaya-namah"
+      ],
+      "samagriIds": [
+        "akshat-rang",
+        "pushp"
+      ],
+      "panditSays": {
+        "hi": "सूर्य के घर (मध्य) में लाल अक्षत और फूल छोड़िए।",
+        "en": "Drop red rice and flowers into the centre square of Surya (the Sun).",
+        "bho": "सूर्य के घर (बीच) में लाल अछत आ फूल छोड़ीं।"
+      }
+    },
+    {
+      "n": 4,
+      "layer": "vedic",
+      "minutes": 2,
+      "action": {
+        "hi": "चंद्र का आवाहन-स्थापन: पंडित वैदिक ऋचा 'इमं देवा असपत्नं' पढ़े, फिर ध्यान-श्लोक 'दधिशंखतुषाराभं', फिर आवाहन-वाक्य, जिसका अंत 'ॐ सोमाय नमः' पर है; यजमान सफ़ेद रंग के अक्षत-पुष्प आग्नेय (दक्षिण-पूर्व) के कोष्ठक में छोड़े।",
+        "en": "Invocation and installation of Chandra (the Moon): the pandit recites the Vedic rk 'imam deva asapatnam', then the dhyana verse 'dadhishankha-tusharabham', then the invocation sentence ending in 'om somaya namah'; the host drops white rice and flowers into the south-east cell.",
+        "bho": "चंद्र के आवाहन-स्थापन: पंडित वैदिक ऋचा 'इमं देवा असपत्नं' पढ़सु, फेर धियान-श्लोक 'दधिशंखतुषाराभं', फेर आवाहन-वाक्य जे 'ॐ सोमाय नमः' पर समाप्त होला; जजमान उज्जर रंग के अछत-फूल आग्नेय (दक्खिन-पूरब) के कोठरी में छोड़े।"
+      },
+      "mantraIds": [
+        "vs-10-18",
+        "pad-dadhishankha-tusharabham",
+        "pad-somaya-namah"
+      ],
+      "samagriIds": [
+        "akshat-rang",
+        "pushp"
+      ],
+      "panditSays": {
+        "hi": "चंद्र के घर (आग्नेय (दक्षिण-पूर्व)) में सफ़ेद अक्षत और फूल छोड़िए।",
+        "en": "Drop white rice and flowers into the south-east square of Chandra (the Moon).",
+        "bho": "चंद्र के घर (आग्नेय (दक्खिन-पूरब)) में उज्जर अछत आ फूल छोड़ीं।"
+      }
+    },
+    {
+      "n": 5,
+      "layer": "vedic",
+      "minutes": 2,
+      "action": {
+        "hi": "मंगल का आवाहन-स्थापन: पंडित वैदिक ऋचा 'अग्निर्मूर्धा दिवः' पढ़े, फिर ध्यान-श्लोक 'धरणीगर्भसंभूतं', फिर आवाहन-वाक्य, जिसका अंत 'ॐ भौमाय नमः' पर है; यजमान लाल रंग के अक्षत-पुष्प दक्षिण के कोष्ठक में छोड़े।",
+        "en": "Invocation and installation of Mangala (Mars): the pandit recites the Vedic rk 'agnir murdha divah', then the dhyana verse 'dharanigarbha-sambhutam', then the invocation sentence ending in 'om bhaumaya namah'; the host drops red rice and flowers into the south cell.",
+        "bho": "मंगल के आवाहन-स्थापन: पंडित वैदिक ऋचा 'अग्निर्मूर्धा दिवः' पढ़सु, फेर धियान-श्लोक 'धरणीगर्भसंभूतं', फेर आवाहन-वाक्य जे 'ॐ भौमाय नमः' पर समाप्त होला; जजमान लाल रंग के अछत-फूल दक्खिन के कोठरी में छोड़े।"
+      },
+      "mantraIds": [
+        "vs-3-12",
+        "pad-dharanigarbha-sambhutam",
+        "pad-bhaumaya-namah"
+      ],
+      "samagriIds": [
+        "akshat-rang",
+        "pushp"
+      ],
+      "panditSays": {
+        "hi": "मंगल के घर (दक्षिण) में लाल अक्षत और फूल छोड़िए।",
+        "en": "Drop red rice and flowers into the south square of Mangala (Mars).",
+        "bho": "मंगल के घर (दक्खिन) में लाल अछत आ फूल छोड़ीं।"
+      }
+    },
+    {
+      "n": 6,
+      "layer": "vedic",
+      "minutes": 2,
+      "action": {
+        "hi": "बुध का आवाहन-स्थापन: पंडित वैदिक ऋचा 'उद्बुध्यस्वाग्ने' पढ़े, फिर ध्यान-श्लोक 'प्रियंगुकलिकाश्यामं', फिर आवाहन-वाक्य, जिसका अंत 'ॐ बुधाय नमः' पर है; यजमान हरा या पीला रंग के अक्षत-पुष्प ईशान (उत्तर-पूर्व) के कोष्ठक में छोड़े।",
+        "en": "Invocation and installation of Budha (Mercury): the pandit recites the Vedic rk 'ud budhyasvagne', then the dhyana verse 'priyangu-kalika-shyamam', then the invocation sentence ending in 'om budhaya namah'; the host drops green or yellow rice and flowers into the north-east cell.",
+        "bho": "बुध के आवाहन-स्थापन: पंडित वैदिक ऋचा 'उद्बुध्यस्वाग्ने' पढ़सु, फेर धियान-श्लोक 'प्रियंगुकलिकाश्यामं', फेर आवाहन-वाक्य जे 'ॐ बुधाय नमः' पर समाप्त होला; जजमान हरियर भा पियर रंग के अछत-फूल ईसान (उत्तर-पूरब) के कोठरी में छोड़े।"
+      },
+      "mantraIds": [
+        "vs-15-54",
+        "pad-priyangu-kalika-shyamam",
+        "pad-budhaya-namah"
+      ],
+      "samagriIds": [
+        "akshat-rang",
+        "pushp"
+      ],
+      "panditSays": {
+        "hi": "बुध के घर (ईशान (उत्तर-पूर्व)) में हरा या पीला अक्षत और फूल छोड़िए।",
+        "en": "Drop green or yellow rice and flowers into the north-east square of Budha (Mercury).",
+        "bho": "बुध के घर (ईसान (उत्तर-पूरब)) में हरियर भा पियर अछत आ फूल छोड़ीं।"
+      }
+    },
+    {
+      "n": 7,
+      "layer": "vedic",
+      "minutes": 2,
+      "action": {
+        "hi": "गुरु (बृहस्पति) का आवाहन-स्थापन: पंडित वैदिक ऋचा 'बृहस्पते अति यदर्यः' पढ़े, फिर ध्यान-श्लोक 'देवानां च ऋषीणां च', फिर आवाहन-वाक्य, जिसका अंत 'ॐ बृहस्पतये नमः' पर है; यजमान पीला रंग के अक्षत-पुष्प उत्तर के कोष्ठक में छोड़े।",
+        "en": "Invocation and installation of Guru (Jupiter, Brihaspati): the pandit recites the Vedic rk 'brihaspate ati yad aryah', then the dhyana verse 'devanam cha rishinam cha', then the invocation sentence ending in 'om brihaspataye namah'; the host drops yellow rice and flowers into the north cell.",
+        "bho": "गुरु (बृहस्पति) के आवाहन-स्थापन: पंडित वैदिक ऋचा 'बृहस्पते अति यदर्यः' पढ़सु, फेर धियान-श्लोक 'देवानां च ऋषीणां च', फेर आवाहन-वाक्य जे 'ॐ बृहस्पतये नमः' पर समाप्त होला; जजमान पियर रंग के अछत-फूल उत्तर के कोठरी में छोड़े।"
+      },
+      "mantraIds": [
+        "vs-26-3",
+        "pad-devanam-cha-rishinam-cha",
+        "pad-brihaspataye-namah"
+      ],
+      "samagriIds": [
+        "akshat-rang",
+        "pushp"
+      ],
+      "panditSays": {
+        "hi": "गुरु (बृहस्पति) के घर (उत्तर) में पीला अक्षत और फूल छोड़िए।",
+        "en": "Drop yellow rice and flowers into the north square of Guru (Jupiter, Brihaspati).",
+        "bho": "गुरु (बृहस्पति) के घर (उत्तर) में पियर अछत आ फूल छोड़ीं।"
+      }
+    },
+    {
+      "n": 8,
+      "layer": "vedic",
+      "minutes": 2,
+      "action": {
+        "hi": "शुक्र का आवाहन-स्थापन: पंडित वैदिक ऋचा 'अन्नात्परिस्रुतो रसं' पढ़े, फिर ध्यान-श्लोक 'हिमकुंदमृणालाभं', फिर आवाहन-वाक्य, जिसका अंत 'ॐ शुक्राय नमः' पर है; यजमान सफ़ेद रंग के अक्षत-पुष्प पूर्व के कोष्ठक में छोड़े।",
+        "en": "Invocation and installation of Shukra (Venus): the pandit recites the Vedic rk 'annat parisruto rasam', then the dhyana verse 'himakunda-mrinalabham', then the invocation sentence ending in 'om shukraya namah'; the host drops white rice and flowers into the east cell.",
+        "bho": "शुक्र के आवाहन-स्थापन: पंडित वैदिक ऋचा 'अन्नात्परिस्रुतो रसं' पढ़सु, फेर धियान-श्लोक 'हिमकुंदमृणालाभं', फेर आवाहन-वाक्य जे 'ॐ शुक्राय नमः' पर समाप्त होला; जजमान उज्जर रंग के अछत-फूल पूरब के कोठरी में छोड़े।"
+      },
+      "mantraIds": [
+        "vs-19-75",
+        "pad-himakunda-mrinalabham",
+        "pad-shukraya-namah"
+      ],
+      "samagriIds": [
+        "akshat-rang",
+        "pushp"
+      ],
+      "panditSays": {
+        "hi": "शुक्र के घर (पूर्व) में सफ़ेद अक्षत और फूल छोड़िए।",
+        "en": "Drop white rice and flowers into the east square of Shukra (Venus).",
+        "bho": "शुक्र के घर (पूरब) में उज्जर अछत आ फूल छोड़ीं।"
+      }
+    },
+    {
+      "n": 9,
+      "layer": "vedic",
+      "minutes": 2,
+      "action": {
+        "hi": "शनि का आवाहन-स्थापन: पंडित वैदिक ऋचा 'शं नो देवीरभिष्टये' पढ़े, फिर ध्यान-श्लोक 'नीलांजनसमाभासं', फिर आवाहन-वाक्य, जिसका अंत 'ॐ शनैश्चराय नमः' पर है; यजमान काला रंग के अक्षत-पुष्प पश्चिम के कोष्ठक में छोड़े।",
+        "en": "Invocation and installation of Shani (Saturn): the pandit recites the Vedic rk 'sham no devir abhishtaye', then the dhyana verse 'nilanjana-samabhasam', then the invocation sentence ending in 'om shanaishcharaya namah'; the host drops black rice and flowers into the west cell.",
+        "bho": "शनि के आवाहन-स्थापन: पंडित वैदिक ऋचा 'शं नो देवीरभिष्टये' पढ़सु, फेर धियान-श्लोक 'नीलांजनसमाभासं', फेर आवाहन-वाक्य जे 'ॐ शनैश्चराय नमः' पर समाप्त होला; जजमान करिया रंग के अछत-फूल पच्छिम के कोठरी में छोड़े।"
+      },
+      "mantraIds": [
+        "vs-36-12",
+        "pad-nilanjana-samabhasam",
+        "pad-shanaishcharaya-namah"
+      ],
+      "samagriIds": [
+        "akshat-rang",
+        "pushp"
+      ],
+      "panditSays": {
+        "hi": "शनि के घर (पश्चिम) में काला अक्षत और फूल छोड़िए।",
+        "en": "Drop black rice and flowers into the west square of Shani (Saturn).",
+        "bho": "शनि के घर (पच्छिम) में करिया अछत आ फूल छोड़ीं।"
+      }
+    },
+    {
+      "n": 10,
+      "layer": "vedic",
+      "minutes": 2,
+      "action": {
+        "hi": "राहु का आवाहन-स्थापन: पंडित वैदिक ऋचा 'कया नश्चित्र आ भुवत्' पढ़े, फिर ध्यान-श्लोक 'अर्धकायं महावीर्यं', फिर आवाहन-वाक्य, जिसका अंत 'ॐ राहवे नमः' पर है; यजमान काला रंग के अक्षत-पुष्प नैऋत्य (दक्षिण-पश्चिम) के कोष्ठक में छोड़े।",
+        "en": "Invocation and installation of Rahu: the pandit recites the Vedic rk 'kaya nash chitra a bhuvat', then the dhyana verse 'ardhakayam mahaviryam', then the invocation sentence ending in 'om rahave namah'; the host drops black rice and flowers into the south-west cell.",
+        "bho": "राहु के आवाहन-स्थापन: पंडित वैदिक ऋचा 'कया नश्चित्र आ भुवत्' पढ़सु, फेर धियान-श्लोक 'अर्धकायं महावीर्यं', फेर आवाहन-वाक्य जे 'ॐ राहवे नमः' पर समाप्त होला; जजमान करिया रंग के अछत-फूल नैऋत्य (दक्खिन-पच्छिम) के कोठरी में छोड़े।"
+      },
+      "mantraIds": [
+        "vs-27-39",
+        "pad-ardhakayam-mahaviryam",
+        "pad-rahave-namah"
+      ],
+      "samagriIds": [
+        "akshat-rang",
+        "pushp"
+      ],
+      "panditSays": {
+        "hi": "राहु के घर (नैऋत्य (दक्षिण-पश्चिम)) में काला अक्षत और फूल छोड़िए।",
+        "en": "Drop black rice and flowers into the south-west square of Rahu.",
+        "bho": "राहु के घर (नैऋत्य (दक्खिन-पच्छिम)) में करिया अछत आ फूल छोड़ीं।"
+      }
+    },
+    {
+      "n": 11,
+      "layer": "vedic",
+      "minutes": 2,
+      "action": {
+        "hi": "केतु का आवाहन-स्थापन: पंडित वैदिक ऋचा 'केतुं कृण्वन्नकेतवे' पढ़े, फिर ध्यान-श्लोक 'पलाशपुष्पसंकाशं', फिर आवाहन-वाक्य, जिसका अंत 'ॐ केतवे नमः' पर है; यजमान धूमिल (धूसर) रंग के अक्षत-पुष्प वायव्य (उत्तर-पश्चिम) के कोष्ठक में छोड़े।",
+        "en": "Invocation and installation of Ketu: the pandit recites the Vedic rk 'ketum krinvann aketave', then the dhyana verse 'palasha-pushpa-sankasham', then the invocation sentence ending in 'om ketave namah'; the host drops smoke-grey rice and flowers into the north-west cell.",
+        "bho": "केतु के आवाहन-स्थापन: पंडित वैदिक ऋचा 'केतुं कृण्वन्नकेतवे' पढ़सु, फेर धियान-श्लोक 'पलाशपुष्पसंकाशं', फेर आवाहन-वाक्य जे 'ॐ केतवे नमः' पर समाप्त होला; जजमान धुआँ-रंग रंग के अछत-फूल वायव्य (उत्तर-पच्छिम) के कोठरी में छोड़े।"
+      },
+      "mantraIds": [
+        "vs-29-37",
+        "pad-palasha-pushpa-sankasham",
+        "pad-ketave-namah"
+      ],
+      "samagriIds": [
+        "akshat-rang",
+        "pushp"
+      ],
+      "panditSays": {
+        "hi": "केतु के घर (वायव्य (उत्तर-पश्चिम)) में धूमिल (धूसर) अक्षत और फूल छोड़िए।",
+        "en": "Drop smoke-grey rice and flowers into the north-west square of Ketu.",
+        "bho": "केतु के घर (वायव्य (उत्तर-पच्छिम)) में धुआँ-रंग अछत आ फूल छोड़ीं।"
+      }
+    },
+    {
+      "n": 12,
+      "layer": "vedic",
+      "minutes": 1,
+      "action": {
+        "hi": "प्रतिष्ठा: हाथ में अक्षत लेकर 'ॐ मनो जूतिर्जुषतामाज्यस्य' (VS 2.13) पढ़ते हुए पंडित पूरे मंडल पर अक्षत छोड़े और प्रतिष्ठा-वाक्य कहे।",
+        "en": "Consecration: with rice in hand the pandit recites 'om mano jutir jushatam ajyasya' (VS 2.13), drops the rice over the whole mandala and says the sentence of installation.",
+        "bho": "प्रतिष्ठा: हाथ में अछत लेके 'ॐ मनो जूतिर्जुषतामाज्यस्य' (VS 2.13) पढ़त पंडित पूरा मंडल पर अछत छोड़सु आ प्रतिष्ठा-वाक्य कहसु।"
+      },
+      "mantraIds": [
+        "vs-2-13"
+      ],
+      "panditSays": {
+        "sa": "अस्मिन् नवग्रहमण्डले आवाहिताः सूर्यादिनवग्रहा देवाः सुप्रतिष्ठिता वरदा भवन्तु ॥",
+        "hi": "इस नवग्रह-मंडल में आवाहित सूर्य आदि नौ ग्रह-देव सुप्रतिष्ठित और वरदायी हों।",
+        "en": "May the nine graha-gods beginning with Surya, invoked into this mandala, be well installed and givers of boons.",
+        "bho": "एह नवग्रह-मंडल में आवाहित सूर्य आदि नौ ग्रह-देव सुप्रतिष्ठित आ बर देवे वाला होखसु।"
+      }
+    },
+    {
+      "n": 13,
+      "layer": "paddhati",
+      "minutes": 5,
+      "action": {
+        "hi": "पूजन: साझे नाम-मंत्र 'ॐ आवाहितसूर्यादिनवग्रहेभ्यो देवेभ्यो नमः' से [[panchopachar]] या [[shodashopachar]] — गंध (VS 31.9), पुष्प (VS 12.77), धूप (VS 1.8), दीप (VS 3.9), नैवेद्य (VS 31.13), फिर आचमन-जल, तांबूल, दक्षिणा; हर उपचार पर पंडित वैदिक मंत्र और नाम-मंत्र बोले, यजमान वस्तु मंडल पर चढ़ाए। बड़े अनुष्ठान में ग्रह के रंग के फूल और वस्त्र ([याज्ञवल्क्यस्मृति](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.298)। उपचारों का पूरा क्रम षोडशोपचार-पृष्ठ पर।",
+        "en": "Worship: the five- or sixteen-step worship with the shared name mantra 'om avahita-suryadi-navagrahebhyo devebhyo namah' — fragrant paste (VS 31.9), flowers (VS 12.77), incense (VS 1.8), lamp (VS 3.9), food (VS 31.13), then water for sipping, betel and dakshina; at each upachara the pandit says the Vedic mantra and the name mantra while the host offers the item on the mandala. In a large rite flowers and cloth of the graha's colour ([Yajnavalkya Smriti](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.298). The full order of the upacharas is on the shodashopachara page.",
+        "bho": "पूजन: साझा नाँव-मंत्र 'ॐ आवाहितसूर्यादिनवग्रहेभ्यो देवेभ्यो नमः' से [[panchopachar]] भा [[shodashopachar]] — गंध (VS 31.9), फूल (VS 12.77), धूप (VS 1.8), दीया (VS 3.9), नैवेद्य (VS 31.13), फेर आचमन-जल, तांबूल, दक्षिणा; हर उपचार पर पंडित वैदिक मंत्र आ नाँव-मंत्र बोलसु, जजमान चीज मंडल पर चढ़ावे। बड़ अनुष्ठान में ग्रह के रंग के फूल आ कपड़ा ([याज्ञवल्क्यस्मृति](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.298)। उपचार के पूरा क्रम षोडशोपचार-पन्ना पर।"
+      },
+      "mantraIds": [
+        "pad-avahita-suryadi-navagrahebhyo-namah",
+        "vs-31-9",
+        "vs-12-77",
+        "vs-1-8",
+        "vs-3-9",
+        "vs-31-13"
+      ],
+      "samagriIds": [
+        "gandh-dhup-deep",
+        "vastra",
+        "jal-patra"
+      ],
+      "panditSays": {
+        "hi": "आवाहित सूर्य आदि नौ ग्रह-देवों को प्रणाम — गंध, पुष्प, धूप, दीप, नैवेद्य, आचमन-जल, तांबूल और दक्षिणा समर्पित करता हूँ। (हर वाक्य पर यजमान वह वस्तु चढ़ाए।)",
+        "en": "Salutation to the invoked nine graha-gods beginning with Surya — I offer fragrant paste, flowers, incense, lamp, food, water for sipping, betel and dakshina. (At each sentence the host offers that item.)",
+        "bho": "आवाहित सूर्य आदि नौ ग्रह-देव के परनाम — गंध, फूल, धूप, दीया, नैवेद्य, आचमन-जल, तांबूल आ दक्षिणा समर्पित करत बानी। (हर वाक्य पर जजमान ऊ चीज चढ़ावे।)"
+      }
+    },
+    {
+      "n": 14,
+      "layer": "paddhati",
+      "minutes": 2,
+      "action": {
+        "hi": "प्रार्थना और समर्पण: सब हाथ जोड़ें; पंडित 'ब्रह्मा मुरारिस्त्रिपुरांतकारी' और 'सूर्यः शौर्यमथेंदुरुच्चपदवीं' पढ़े, फिर समर्पण-वाक्य बोलते हुए यजमान मंडल पर अक्षत छोड़े और प्रणाम करे। विसर्जन अभी नहीं — पूरे कर्म के अंत में सब देवताओं के साथ।",
+        "en": "Prayer and dedication: all fold their hands; the pandit recites 'brahma murari tripurantakari' and 'suryah shauryam athendur uchcha-padavim', then says the sentence of dedication while the host drops rice on the mandala and bows. No dismissal yet — it comes at the end of the whole rite with all the deities.",
+        "bho": "प्रार्थना आ समर्पन: सभे हाथ जोड़े; पंडित 'ब्रह्मा मुरारिस्त्रिपुरांतकारी' आ 'सूर्यः शौर्यमथेंदुरुच्चपदवीं' पढ़सु, फेर समर्पन-वाक्य बोलत जजमान मंडल पर अछत छोड़े आ परनाम करे। बिसर्जन अबहीं ना — पूरा करम के अंत में सब देवता संगे।"
+      },
+      "mantraIds": [
+        "pad-brahma-murari-tripurantakari",
+        "pad-suryah-shauryam-athendur"
+      ],
+      "panditSays": {
+        "sa": "अनया पूजया सूर्यादिनवग्रहाः प्रीयन्तां न मम ॥",
+        "hi": "इस पूजा से सूर्य आदि नौ ग्रह प्रसन्न हों — यह मेरा नहीं (उनका है)।",
+        "en": "By this worship may the nine grahas beginning with Surya be pleased — it is not mine (but theirs).",
+        "bho": "एह पूजा से सूर्य आदि नौ ग्रह परसन्न होखसु — ई हमार ना (उनकर बा)।"
+      }
+    },
+    {
+      "n": 15,
+      "layer": "paddhati",
+      "minutes": 5,
+      "action": {
+        "hi": "पूरे स्तोत्र का पाठ (वैकल्पिक) — इच्छा हो तो पूरा [नवग्रह स्तोत्र](/texts/navagraha-stotra/) (नौ श्लोक और फलश्रुति) यहाँ या पूजा के अंत में पढ़ें; ग्रह-शांति में इसी समय ग्रह का जप या जप का संकल्प होता है (संख्याएँ प्रश्नोत्तर में)।",
+        "en": "Reciting the whole stotra (optional) — If wished, read the whole [Navagraha Stotra](/texts/navagraha-stotra/) (nine verses and the phalashruti) here or at the end of the puja; in a graha-shanti the japa of the graha, or the sankalpa for it, comes at this point (counts in the questions).",
+        "bho": "पूरा स्तोत्र के पाठ (वैकल्पिक) — इच्छा होखे त पूरा [नवग्रह स्तोत्र](/texts/navagraha-stotra/) (नौ श्लोक आ फलश्रुति) इहाँ भा पूजा के अंत में पढ़ीं; ग्रह-सांति में एही समय ग्रह के जप भा जप के संकल्प होला (गिनती सवाल-जवाब में)।"
+      },
+      "textRefs": [
+        {
+          "text": "navagraha-stotra",
+          "chapter": 1
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "layer": "paddhati",
+      "minutes": 0,
+      "action": {
+        "hi": "हवन में: हवन-विधि की नवग्रह-आहुतियाँ इन्हीं नौ ऋचाओं से दी जाती हैं — हर ग्रह की अपनी समिधा (अर्क, पलाश, खदिर, अपामार्ग, पीपल, गूलर, शमी, दूर्वा, कुश — [याज्ञवल्क्यस्मृति](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.302) घी-मधु में डुबाकर, हर ग्रह की 108 या 28 आहुति (1.303), फिर घी की आहुति; घर के हवन में हर ग्रह की एक-एक या तीन-तीन आहुति भी चलती है (पोथी-व्यवहार)।",
+        "en": "In a havan: the navagraha oblations of the havan procedure are given with these same nine rks — each graha's own fuel stick (arka, palasha, khadira, apamarga, pippala, udumbara, shami, durva, kusha — [Yajnavalkya Smriti](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.302) dipped in ghee and honey, 108 or 28 oblations per graha (1.303), then an oblation of ghee; in a household havan one or three oblations per graha is also the practice of the handbooks.",
+        "bho": "हवन में: हवन-बिधि के नवग्रह-आहुति एही नौ ऋचा से दिहल जाला — हर ग्रह के आपन समिधा (अर्क, पलास, खदिर, अपामार्ग, पीपर, गूलर, शमी, दूब, कुस — [याज्ञवल्क्यस्मृति](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.302) घी-मधु में डुबा के, हर ग्रह के 108 भा 28 आहुति (1.303), फेर घी के आहुति; घर के हवन में हर ग्रह के एक-एक भा तीन-तीन आहुति भी चलेला (पोथी-व्यवहार)।"
+      },
+      "samagriIds": [
+        "samidha"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "region": "puranic",
+      "what": {
+        "hi": "[याज्ञवल्क्यस्मृति](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.297–298 (और मत्स्यपुराण 93) ग्रहों की मूर्तियाँ ताँबा (सूर्य), स्फटिक (चंद्र), लाल चंदन (मंगल), सोना (बुध, गुरु), चाँदी (शुक्र), लोहा (शनि), सीसा (राहु) और काँसा (केतु) की कहते हैं, या कपड़े पर ग्रहों के रंगों से लिखने की; हर ग्रह का अलग चरु (गुड़-भात, खीर, दही-भात …) और अलग दक्षिणा (धेनु, शंख, बैल, सोना, वस्त्र, घोड़ा, काली गाय, लोहा, बकरा — 1.306)। घर की पूजा में यह सब रंगे अक्षत और एक साझे नैवेद्य में सिमट गया है।",
+        "en": "The [Yajnavalkya Smriti](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.297–298 (and Matsya Purana chapter 93) have images of the grahas in copper (Surya), crystal (Chandra), red sandal (Mangala), gold (Budha, Guru), silver (Shukra), iron (Shani), lead (Rahu) and bronze (Ketu), or drawn on cloth in the grahas' colours; a separate charu for each (jaggery rice, milk rice, curd rice …) and a separate gift (cow, conch, bull, gold, cloth, horse, black cow, iron, goat — 1.306). In the household puja all this has shrunk to coloured rice and one shared food offering.",
+        "bho": "[याज्ञवल्क्यस्मृति](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.297–298 (आ मत्स्यपुराण 93) ग्रह लोग के मूरत तामा (सूर्य), स्फटिक (चंद्र), लाल चंदन (मंगल), सोना (बुध, गुरु), चानी (शुक्र), लोहा (शनि), सीसा (राहु) आ काँसा (केतु) के कहेला, भा कपड़ा पर ग्रह लोग के रंग से लिखे के; हर ग्रह के अलगा चरु (गुड़-भात, खीर, दही-भात …) आ अलगा दक्षिणा (गाय, संख, बरध, सोना, कपड़ा, घोड़ा, करिया गाय, लोहा, बोकरा — 1.306)। घर के पूजा में ई सब रंगल अछत आ एक साझा नैवेद्य में सिमट गइल बा।"
+      },
+      "source": "ws-yajnavalkya-grahashanti"
+    },
+    {
+      "region": "dwivedi",
+      "what": {
+        "hi": "[विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) आवाहन-वाक्य छोटा रखती है — बिना देश, गोत्र और रंग के: 'ॐ भूर्भुवः स्वः सूर्याय नमः, सूर्यमावाहयामि स्थापयामि पूजयामि' — और ऋचा के बाद स्तोत्र का श्लोक उसके मूल पाठ में पढ़ती है; प्रतिष्ठा के बाद हर ग्रह का अलग 'पूजयामि'।",
+        "en": "The [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) keeps the invocation short — without birthplace, gotra and colour: 'om bhur bhuvah svah suryaya namah, suryam avahayami sthapayami pujayami' — and recites the stotra verse in its original text after the rk; after the consecration a separate 'pujayami' for each graha.",
+        "bho": "[विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt) आवाहन-वाक्य छोट राखेला — बिना देस, गोत्र आ रंग के: 'ॐ भूर्भुवः स्वः सूर्याय नमः, सूर्यमावाहयामि स्थापयामि पूजयामि' — आ ऋचा के बाद स्तोत्र के श्लोक ओकर मूल पाठ में पढ़ेला; प्रतिष्ठा के बाद हर ग्रह के अलगा 'पूजयामि'।"
+      },
+      "source": "ia-vivah-mvf"
+    },
+    {
+      "region": "anushthan",
+      "what": {
+        "hi": "उद्यापन, शतचंडी और बड़े यज्ञों में [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 231–239) नौ ग्रहों के साथ उनके अधिदेवता (शिव, उमा, स्कंद, विष्णु, ब्रह्मा, इंद्र, यम, काल, चित्रगुप्त) और प्रत्यधिदेवता (अग्नि, जल, पृथिवी, विष्णु, इंद्र, इंद्राणी, प्रजापति, सर्प, ब्रह्मा) भी स्थापित करती है — यही सूची [मत्स्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.13–16 में है — और फिर पंचलोकपाल, वास्तोष्पति, क्षेत्रपाल और दस दिक्पाल। घर की पूजा में केवल नौ ग्रह।",
+        "en": "At an udyapana, a Shatachandi or a large yajna the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (pp. 231–239) also installs with the nine grahas their presiding deities (Shiva, Uma, Skanda, Vishnu, Brahma, Indra, Yama, Kala, Chitragupta) and co-presiding deities (Agni, Water, Earth, Vishnu, Indra, Indrani, Prajapati, the Serpents, Brahma) — the list of the [Matsya Purana](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.13–16 — and then the five lokapalas, Vastoshpati, Kshetrapala and the ten dikpalas. In the household puja only the nine grahas.",
+        "bho": "उद्यापन, शतचंडी आ बड़ जग्य में [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) (पृ. 231–239) नौ ग्रह संगे उनकर अधिदेवता (सिव, उमा, स्कंद, विष्णु, ब्रह्मा, इंद्र, जम, काल, चित्रगुप्त) आ प्रत्यधिदेवता (अग्नि, जल, पृथिवी, विष्णु, इंद्र, इंद्रानी, प्रजापति, सरप, ब्रह्मा) भी स्थापित करेला — इहे सूची [मत्स्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.13–16 में बा — आ फेर पंचलोकपाल, वास्तोष्पति, क्षेत्रपाल आ दस दिक्पाल। घर के पूजा में खाली नौ ग्रह।"
+      },
+      "source": "ia-nkpp-scan"
+    },
+    {
+      "region": "matsya-homa",
+      "what": {
+        "hi": "[मत्स्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.33–37 हवन के लिए चार ग्रहों के दूसरे मंत्र देता है — चंद्र 'आप्यायस्व', बुध 'अग्ने विवस्वदुषसः', गुरु 'बृहस्पते परि दीया रथेन', शुक्र 'शुक्रं ते अन्यद्'; हिंदी-पट्टी की पोथियाँ नौ ऋचाओं की एक ही सूची (ऊपर) पूजन और हवन दोनों में रखती हैं।",
+        "en": "The [Matsya Purana](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.33–37 gives other mantras for four grahas in the homa — Chandra 'apyayasva', Budha 'agne vivasvad ushasah', Guru 'brihaspate pari diya rathena', Shukra 'shukram te anyad'; the Hindi-belt handbooks keep the one list of nine rks (above) for both the worship and the homa.",
+        "bho": "[मत्स्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.33–37 हवन खातिर चार ग्रह के दुसरा मंत्र देला — चंद्र 'आप्यायस्व', बुध 'अग्ने विवस्वदुषसः', गुरु 'बृहस्पते परि दीया रथेन', शुक्र 'शुक्रं ते अन्यद्'; हिंदी-पट्टी के पोथी नौ ऋचा के एके सूची (ऊपर) पूजन आ हवन दुनो में राखेला।"
+      },
+      "source": "ws-matsya-93"
+    }
+  ],
+  "faq": [
+    {
+      "q": {
+        "hi": "वैदिक ऋचाओं में ग्रहों का नाम क्यों नहीं है?",
+        "en": "Why do the Vedic rks not name the grahas?",
+        "bho": "वैदिक ऋचा में ग्रह लोग के नाँव काहे नइखे?"
+      },
+      "a": {
+        "hi": "नौ ग्रहों की यह सूची (राहु-केतु सहित) पौराणिक काल की है; [[yajurved]] में ग्रह-पूजा नहीं है। [याज्ञवल्क्यस्मृति](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.300–301 ने नौ ऋचाओं को शब्द-साम्य से ग्रहों के साथ जोड़ा — 'उद्बुध्यस्व' बुध को, 'शुक्रम्' शुक्र को, 'केतुं' केतु को, 'सोमो राजा' चंद्र को, 'सविता' सूर्य को — और पोथियाँ उसी को मानती हैं। हर मंत्र-पृष्ठ पर उसका मूल वैदिक संदर्भ और यह जोड़ दोनों लिखे हैं।",
+        "en": "This list of nine grahas (with Rahu and Ketu) is Puranic; the Yajurveda has no graha worship. The [Yajnavalkya Smriti](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.300–301 attached nine rks to the grahas by likeness of words — 'ud budhyasva' to Budha, 'shukram' to Shukra, 'ketum' to Ketu, 'somo raja' to the Moon, 'savita' to the Sun — and the handbooks follow it. Each mantra page gives both the rk's original Vedic setting and this link.",
+        "bho": "नौ ग्रह के ई सूची (राहु-केतु सहित) पौरानिक काल के बा; [[yajurved]] में ग्रह-पूजा नइखे। [याज्ञवल्क्यस्मृति](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.300–301 नौ ऋचा के शब्द-साम्य से ग्रह लोग संगे जोड़ल — 'उद्बुध्यस्व' बुध के, 'शुक्रम्' शुक्र के, 'केतुं' केतु के, 'सोमो राजा' चंद्र के, 'सविता' सूर्य के — आ पोथी ओही के मानेला। हर मंत्र-पन्ना पर ओकर मूल वैदिक संदर्भ आ ई जोड़ दुनो लिखल बा।"
+      }
+    },
+    {
+      "q": {
+        "hi": "कौन ग्रह किस कोष्ठक में और किस रंग से?",
+        "en": "Which graha goes in which cell, and in which colour?",
+        "bho": "कवन ग्रह कवना कोठरी में आ कवना रंग से?"
+      },
+      "a": {
+        "hi": "बीच में सूर्य (लाल), आग्नेय में चंद्र (सफ़ेद), दक्षिण में मंगल (लाल), ईशान में बुध (हरा/पीला), उत्तर में गुरु (पीला), पूर्व में शुक्र (सफ़ेद), पश्चिम में शनि (काला), नैऋत्य में राहु (काला), वायव्य में केतु (धूमिल) — स्थान [मत्स्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.11–12 से, रंग 93.17 और [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) से। रंग उसी के अक्षत, फूल और (बड़े अनुष्ठान में) वस्त्र से दिखाया जाता है।",
+        "en": "Surya in the centre (red), Chandra south-east (white), Mangala south (red), Budha north-east (green or yellow), Guru north (yellow), Shukra east (white), Shani west (black), Rahu south-west (black), Ketu north-west (smoke-grey) — the positions from the [Matsya Purana](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.11–12, the colours from 93.17 and the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur). The colour is shown by the rice, the flowers and, in a large rite, the cloth of that graha.",
+        "bho": "बीच में सूर्य (लाल), आग्नेय में चंद्र (उज्जर), दक्खिन में मंगल (लाल), ईसान में बुध (हरियर/पियर), उत्तर में गुरु (पियर), पूरब में शुक्र (उज्जर), पच्छिम में शनि (करिया), नैऋत्य में राहु (करिया), वायव्य में केतु (धुआँ-रंग) — जगह [मत्स्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.11–12 से, रंग 93.17 आ [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) से। रंग ओही के अछत, फूल आ (बड़ अनुष्ठान में) कपड़ा से देखावल जाला।"
+      }
+    },
+    {
+      "q": {
+        "hi": "ग्रह-शांति के जप और समिधा की संख्याएँ क्या हैं?",
+        "en": "What are the japa and samidha counts of a graha-shanti?",
+        "bho": "ग्रह-सांति के जप आ समिधा के गिनती का बा?"
+      },
+      "a": {
+        "hi": "[बृहत्पाराशर होराशास्त्र](https://sa.wikisource.org/wiki/%E0%A4%AC%E0%A5%83%E0%A4%B9%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%B6%E0%A4%B0%E0%A4%B9%E0%A5%8B%E0%A4%B0%E0%A4%BE%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AE%E0%A5%AA_%28%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83%29) 84.19–20 जप-संख्या भूतसंख्या में देता है — सूर्य 7000, चंद्र 11000, मंगल 10000, बुध 9000, गुरु 19000, शुक्र 16000, शनि 23000, राहु 18000, केतु 17000; पुराणोक्त जप-प्रयोग की एक सूची बुध 4000 और केतु 7000 पढ़ती है। समिधा-होम हर ग्रह के 108 या 28 (उसी स्मृति का 1.303; 1939 की वासिष्ठी पोथी 1008 भी जोड़ती है), घी-मधु या दही-दूध में डुबाकर। परंपरा इन्हें ग्रह-यज्ञ का माप मानती है; यह साइट किसी फल का दावा नहीं करती।",
+        "en": "The [Brihat Parashara Hora Shastra](https://sa.wikisource.org/wiki/%E0%A4%AC%E0%A5%83%E0%A4%B9%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%B6%E0%A4%B0%E0%A4%B9%E0%A5%8B%E0%A4%B0%E0%A4%BE%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AE%E0%A5%AA_%28%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83%29) 84.19–20 gives the japa counts in bhutasankhya — Surya 7000, Chandra 11000, Mangala 10000, Budha 9000, Guru 19000, Shukra 16000, Shani 23000, Rahu 18000, Ketu 17000; one Puranic japa-prayoga list reads Budha 4000 and Ketu 7000. The samidha homa is 108 or 28 per graha (1.303 of the same smriti; the 1939 Vasishthi handbook adds 1008), the sticks dipped in ghee and honey or curd and milk. Tradition takes these as the measure of a graha-yajna; the site claims no result.",
+        "bho": "[बृहत्पाराशर होराशास्त्र](https://sa.wikisource.org/wiki/%E0%A4%AC%E0%A5%83%E0%A4%B9%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%B6%E0%A4%B0%E0%A4%B9%E0%A5%8B%E0%A4%B0%E0%A4%BE%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AE%E0%A5%AA_%28%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83%29) 84.19–20 जप-गिनती भूतसंख्या में देला — सूर्य 7000, चंद्र 11000, मंगल 10000, बुध 9000, गुरु 19000, शुक्र 16000, शनि 23000, राहु 18000, केतु 17000; पुराणोक्त जप-प्रयोग के एगो सूची बुध 4000 आ केतु 7000 पढ़ेला। समिधा-होम हर ग्रह के 108 भा 28 (ओही स्मृति के 1.303; 1939 के वासिष्ठी पोथी 1008 भी जोड़ेला), घी-मधु भा दही-दूध में डुबा के। परंपरा एकनी के ग्रह-जग्य के माप मानेला; ई साइट कवनो फल के दावा ना करे।"
+      }
+    },
+    {
+      "q": {
+        "hi": "क्या नवग्रह-पूजन ज्योतिष है?",
+        "en": "Is the navagraha worship astrology?",
+        "bho": "का नवग्रह-पूजन जोतिस बा?"
+      },
+      "a": {
+        "hi": "पूर्वांग का नवग्रह-पूजन कुंडली देखे बिना, हर पूजा में सबके लिए एक जैसा होता है — यह अनुष्ठान है, गणना नहीं। [[dosh]]-शांति के लिए अलग ग्रह-यज्ञ परंपरा में ज्योतिषी की सलाह से होता है; यह साइट उसकी विधि को परंपरा के रूप में बताती है, कुंडली नहीं देखती और कोई फल नहीं बताती। मुहूर्त और तिथि के लिए [Shubhvela](https://sudish007.github.io/shubhvela/) देखें।",
+        "en": "The navagraha worship of the opening part is done in every puja, for everyone alike, without reading a horoscope — it is an observance, not a calculation. The separate graha-yajna for the pacification of a dosha is, in tradition, done on an astrologer's advice; this site describes its procedure as tradition, reads no horoscope and predicts nothing. For muhurat and dates see [Shubhvela](https://sudish007.github.io/shubhvela/).",
+        "bho": "पूर्वांग के नवग्रह-पूजन कुंडली देखले बिना, हर पूजा में सभे खातिर एके जइसन होला — ई अनुष्ठान बा, गनना ना। [[dosh]]-सांति खातिर अलगा ग्रह-जग्य परंपरा में जोतिसी के सलाह से होला; ई साइट ओकर बिधि के परंपरा के रूप में बतावेला, कुंडली ना देखे आ कवनो फल ना बतावे। मुहूरत आ तिथि खातिर [Shubhvela](https://sudish007.github.io/shubhvela/) देखीं।"
+      }
+    }
+  ],
+  "sources": [
+    "ws-syv-33",
+    "ws-syv-10",
+    "ws-syv-03",
+    "ws-syv-15",
+    "ws-syv-26",
+    "ws-syv-19",
+    "ws-syv-36",
+    "ws-syv-27",
+    "ws-syv-29",
+    "ws-navagraha-stotra",
+    "ia-nkpp-scan",
+    "ia-vivah-mvf",
+    "ws-yajnavalkya-grahashanti",
+    "ws-bphs-84",
+    "ws-matsya-93",
+    "ia-vasishthi-havan-paddhati-1939",
+    "titus-vs"
+  ],
+  "sensitive": [
+    "astrology"
+  ],
+  "tags": [
+    "foundations",
+    "navagraha",
+    "graha"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

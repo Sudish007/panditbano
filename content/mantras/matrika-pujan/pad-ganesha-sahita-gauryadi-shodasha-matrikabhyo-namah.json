@@ -1,0 +1,71 @@
+{
+  "id": "pad-ganesha-sahita-gauryadi-shodasha-matrikabhyo-namah",
+  "kind": "paddhati",
+  "title": {
+    "hi": "ॐ गणेशसहितगौर्यादिषोडशमातृकाभ्यो नमः (पूजन का नाम-मंत्र)",
+    "en": "Om ganesha-sahita-gauryadi-shodasha-matrikabhyo namah (name mantra of the worship)",
+    "bho": "ॐ गणेशसहितगौर्यादिषोडशमातृकाभ्यो नमः (पूजन के नाँव-मंत्र)"
+  },
+  "devanagari": "ॐ गणेशसहितगौर्यादिषोडशमातृकाभ्यो नमः ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "गणेशसहित",
+      "gloss": {
+        "hi": "गणेश सहित",
+        "en": "together with Ganesha",
+        "bho": "गणेश सहित"
+      }
+    },
+    {
+      "sa": "गौर्यादिषोडशमातृकाभ्यः",
+      "gloss": {
+        "hi": "गौरी आदि सोलह मातृकाओं को",
+        "en": "to the sixteen matrikas beginning with Gauri",
+        "bho": "गौरी आदि सोरह मातृका के"
+      }
+    },
+    {
+      "sa": "नमः",
+      "gloss": {
+        "hi": "प्रणाम",
+        "en": "salutation",
+        "bho": "परनाम"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "गणेश सहित गौरी आदि सोलह मातृकाओं को प्रणाम।",
+    "en": "Salutation to the sixteen matrikas beginning with Gauri, together with Ganesha.",
+    "bho": "गणेश सहित गौरी आदि सोरह मातृका के परनाम।"
+  },
+  "explanation": {
+    "hi": "आवाहन और प्रतिष्ठा के बाद सोलह मातृकाओं का गंध-अक्षत-पुष्प आदि से पूजन इसी एक नाम-मंत्र से होता है ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) पृ. 222)। उसी पृष्ठ के तीन विशेष नियम: मातृकाओं को यज्ञोपवीत नहीं चढ़ाया जाता; नैवेद्य के साथ घी और गुड़ भी रखा जाता है; विशेष अर्घ्य नहीं दिया जाता। समर्पण-वाक्य 'अनया पूजया गणेशसहितगौर्यादिषोडशमातरः प्रीयंतां न मम' पूजन के अंत में आता है।",
+    "en": "After the invocation and installation, the worship of the sixteen matrikas with fragrant paste, rice, flowers and the rest goes with this one name mantra ([Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) p. 222). The same page gives three special rules: no sacred thread is offered to the matrikas; ghee and jaggery are set with the food offering; no special arghya is given. The sentence of dedication, 'anaya pujaya ganesha-sahita-gauryadi-shodasha-matarah priyantam na mama', closes the worship.",
+    "bho": "आवाहन आ प्रतिष्ठा के बाद सोरह मातृका के गंध-अछत-फूल आदि से पूजन एही एक नाँव-मंत्र से होला ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) पृ. 222)। ओही पन्ना के तीन बिसेस नियम: मातृका के जनेऊ ना चढ़ावल जाला; नैवेद्य संगे घी आ गुड़ भी राखल जाला; बिसेस अरघ ना दिहल जाला। समर्पन-वाक्य 'अनया पूजया गणेशसहितगौर्यादिषोडशमातरः प्रीयन्तां न मम' पूजन के अंत में आवेला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-nkpp-scan",
+    "retrieved": "2026-11-01",
+    "modified": "OCR षोडशमातकाभ्यो → षोडशमातृकाभ्यो; danda set"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit ritual formula (anonymous, pre-modern); Sanskrit text taken from the Gita Press scan under brief §14, no Hindi prose copied",
+  "tags": [
+    "matrika",
+    "nama-mantra"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "locator": "NKPP p. 222",
+  "checkedAgainst": [
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ]
+}

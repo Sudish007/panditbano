@@ -1,0 +1,131 @@
+{
+  "id": "vs-10-18",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 10.18",
+  "title": {
+    "hi": "इमं देवा असपत्नं (चंद्र)",
+    "en": "Imam deva asapatnam (Chandra)",
+    "bho": "इमं देवा असपत्नं (चंद्र)"
+  },
+  "devanagari": "इ॒मं दे॑वा असप॒त्नᳪं᳭ सु॑वध्वं मह॒ते क्ष॒त्राय॑ मह॒ते ज्यै॑ष्ठ्याय मह॒ते जान॑राज्या॒येन्द्र॑स्येन्द्रि॒याय॑ । इ॒मम॒मुष्य॑ पु॒त्रम॒मुष्यै॑ पु॒त्रमस्यै वि॒श ए॒ष वो॑ऽमी॒ राजा॒ सोमो॒ऽस्माकं॑ ब्राह्म॒णाना॒ᳪं᳭ राजा॑ ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "इमं देवाः",
+      "gloss": {
+        "hi": "हे देवों, इसको",
+        "en": "O gods, this one",
+        "bho": "हे देव लोग, एकरा"
+      }
+    },
+    {
+      "sa": "असपत्नं सुवध्वम्",
+      "gloss": {
+        "hi": "शत्रु-रहित करके अभिषिक्त करो",
+        "en": "consecrate without a rival",
+        "bho": "बिना दुसमन के अभिषेक करीं"
+      }
+    },
+    {
+      "sa": "महते क्षत्राय",
+      "gloss": {
+        "hi": "महान क्षात्र-बल के लिए",
+        "en": "for great dominion",
+        "bho": "बड़ क्षात्र-बल खातिर"
+      }
+    },
+    {
+      "sa": "महते ज्यैष्ठ्याय",
+      "gloss": {
+        "hi": "महान श्रेष्ठता के लिए",
+        "en": "for great eminence",
+        "bho": "बड़ बड़ाई खातिर"
+      }
+    },
+    {
+      "sa": "महते जानराज्याय",
+      "gloss": {
+        "hi": "जनों के महान राज्य के लिए",
+        "en": "for great rule over the people",
+        "bho": "जन लोग के बड़ राज खातिर"
+      }
+    },
+    {
+      "sa": "इन्द्रस्य इन्द्रियाय",
+      "gloss": {
+        "hi": "इंद्र के बल (इंद्रियत्व) के लिए",
+        "en": "for Indra's power",
+        "bho": "इंद्र के बल खातिर"
+      }
+    },
+    {
+      "sa": "इमम् अमुष्य पुत्रम् अमुष्यै पुत्रम्",
+      "gloss": {
+        "hi": "अमुक के पुत्र, अमुकी के पुत्र इसको",
+        "en": "this son of so-and-so, son of so-and-so (mother)",
+        "bho": "अमुक के बेटा, अमुकी के बेटा एकरा"
+      }
+    },
+    {
+      "sa": "अस्यै विशे",
+      "gloss": {
+        "hi": "इस प्रजा के लिए",
+        "en": "for this people",
+        "bho": "एह परजा खातिर"
+      }
+    },
+    {
+      "sa": "एष वः अमी राजा",
+      "gloss": {
+        "hi": "हे (प्रजाओं), यह तुम्हारा राजा है",
+        "en": "this, O people, is your king",
+        "bho": "हे परजा, ई रउरा लोग के राजा बा"
+      }
+    },
+    {
+      "sa": "सोमः अस्माकं ब्राह्मणानां राजा",
+      "gloss": {
+        "hi": "हम ब्राह्मणों का राजा तो सोम है",
+        "en": "Soma is the king of us Brahmanas",
+        "bho": "हमनी ब्राह्मन लोग के राजा त सोम बाड़न"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे देवों, इसको शत्रु-रहित करके महान क्षात्र-बल, महान श्रेष्ठता, जनों के महान राज्य और इंद्र के बल के लिए अभिषिक्त करो। अमुक के पुत्र, अमुकी के पुत्र इसको इस प्रजा के लिए (अभिषिक्त करो)। हे प्रजाओं, यह तुम्हारा राजा है; हम ब्राह्मणों का राजा तो सोम है।",
+    "en": "O gods, consecrate this man, free of rivals, for great dominion, great eminence, great rule over the people and Indra's power. This son of so-and-so, son of such a mother, (consecrate him) for this people. This, O people, is your king; Soma is the king of us Brahmanas.",
+    "bho": "हे देव लोग, एकरा बिना दुसमन के बड़ क्षात्र-बल, बड़ बड़ाई, जन लोग के बड़ राज आ इंद्र के बल खातिर अभिषेक करीं। अमुक के बेटा, अमुकी के बेटा एकरा एह परजा खातिर (अभिषेक करीं)। हे परजा, ई रउरा लोग के राजा बाड़न; हमनी ब्राह्मन लोग के राजा त सोम बाड़न।"
+  },
+  "explanation": {
+    "hi": "राजसूय (VS अध्याय 9–10) का यह अभिषेक-मंत्र है, जिसमें 'अमुष्य पुत्रम्' की खाली जगहें राजा के नाम के लिए हैं — पोथियाँ इन्हें बिना भरे ही पढ़ती हैं। अंतिम वाक्य 'सोमो अस्माकं ब्राह्मणानां राजा' (सोम हमारा राजा) के कारण यह ऋचा [[chandra]] (सोम) ग्रह की वैदिक ऋचा बनी। ये नौ ऋचाएँ [याज्ञवल्क्यस्मृति](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.300–301 में ग्रह-क्रम से गिनाई गई हैं (आकृष्णेन, इमं देवा, अग्निर्मूर्धा, उद्बुध्यस्व, बृहस्पतेऽति, अन्नात्परिस्रुतः, शं नो देवीः, कया नश्चित्र, केतुं कृण्वन्) — इसी स्मृति-सूची पर हिंदी-पट्टी की पोथियों का नवग्रह-पूजन टिका है। चंद्र मंडल के [[agneya]] कोण में सफ़ेद अक्षत पर स्थापित होते हैं ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur)); [मत्स्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.34 चंद्र के होम के लिए 'आप्यायस्व' देता है — पोथी-भेद। यह ऋचा VS 9.40 में भी है (स्वर-पाठ VS 10.18 का)।",
+    "en": "An anointing mantra of the Rajasuya (VS 9–10); the blanks 'amushya putram' stand for the king's name, and the handbooks recite them unfilled. The closing sentence 'somo asmakam brahmananam raja' (Soma is our king) made this the Vedic rk of the Moon (Soma) as a graha. These nine rks are listed in graha order in the [Yajnavalkya Smriti](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.300–301 (a krishnena, imam deva, agnir murdha, ud budhyasva, brihaspate ati, annat parisrutah, sham no devih, kaya nash chitra, ketum krinvan); the navagraha worship of the Hindi-belt handbooks rests on this smriti list. The Moon is installed in the south-east cell of the mandala on white rice ([Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur)); the [Matsya Purana](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.34 gives 'apyayasva' for the Moon's homa instead — a difference between texts. The rk also occurs at VS 9.40 (the svara text here is that of VS 10.18).",
+    "bho": "राजसूय (VS अध्याय 9–10) के ई अभिषेक-मंत्र बा, जेह में 'अमुष्य पुत्रम्' के खाली जगह राजा के नाँव खातिर बा — पोथी एकरा बिना भरले पढ़ेला। अंतिम वाक्य 'सोमो अस्माकं ब्राह्मणानां राजा' (सोम हमनी के राजा) के कारन ई ऋचा [[chandra]] (सोम) ग्रह के वैदिक ऋचा बनल। ई नौ ऋचा [याज्ञवल्क्यस्मृति](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.300–301 में ग्रह-क्रम से गिनावल बा (आकृष्णेन, इमं देवा, अग्निर्मूर्धा, उद्बुध्यस्व, बृहस्पतेऽति, अन्नात्परिस्रुतः, शं नो देवीः, कया नश्चित्र, केतुं कृण्वन्) — एही स्मृति-सूची पर हिंदी-पट्टी के पोथी के नवग्रह-पूजन टिकल बा। चंद्र मंडल के [[agneya]] कोन में उज्जर अछत पर स्थापित होलन ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur)); [मत्स्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.34 चंद्र के होम खातिर 'आप्यायस्व' देला — पोथी-भेद। ई ऋचा VS 9.40 में भी बा (स्वर-पाठ VS 10.18 के)।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-10",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed; a space set between ब्राह्मणानाꣳ and राजा (printed joined on the page)"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01",
+      "note": "TITUS prints asupatnam — a typing slip for asapatnam; the Wikisource pada and svara texts agree on असपत्नꣳ"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "navagraha",
+    "chandra",
+    "soma",
+    "rajasuya"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

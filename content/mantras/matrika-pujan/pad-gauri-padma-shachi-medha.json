@@ -1,0 +1,88 @@
+{
+  "id": "pad-gauri-padma-shachi-medha",
+  "kind": "paddhati",
+  "title": {
+    "hi": "गौरी पद्मा शची मेधा (षोडश मातृका नाम-श्लोक)",
+    "en": "Gauri Padma Shachi Medha (the name verse of the sixteen matrikas)",
+    "bho": "गौरी पद्मा शची मेधा (सोरह मातृका के नाँव-श्लोक)"
+  },
+  "devanagari": "गौरी पद्मा शची मेधा सावित्री विजया जया । देवसेना स्वधा स्वाहा मातरो लोकमातरः ॥ धृतिः पुष्टिस्तथा तुष्टिरात्मनः कुलदेवता । गणेशेनाधिका ह्येता वृद्धौ पूज्याश्च षोडश ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "गौरी पद्मा शची मेधा सावित्री विजया जया",
+      "gloss": {
+        "hi": "गौरी, पद्मा, शची, मेधा, सावित्री, विजया, जया",
+        "en": "Gauri, Padma, Shachi, Medha, Savitri, Vijaya, Jaya",
+        "bho": "गौरी, पद्मा, शची, मेधा, सावित्री, विजया आ जया"
+      }
+    },
+    {
+      "sa": "देवसेना स्वधा स्वाहा मातरः लोकमातरः",
+      "gloss": {
+        "hi": "देवसेना, स्वधा, स्वाहा, मातृकाएँ, लोकमाताएँ",
+        "en": "Devasena, Svadha, Svaha, the Mothers, the World-Mothers",
+        "bho": "देवसेना, स्वधा, स्वाहा, माई लोग, लोकमाई लोग"
+      }
+    },
+    {
+      "sa": "धृतिः पुष्टिः तथा तुष्टिः आत्मनः कुलदेवता",
+      "gloss": {
+        "hi": "धृति, पुष्टि, तुष्टि और अपनी कुलदेवी",
+        "en": "Dhriti, Pushti, Tushti and one's own family deity",
+        "bho": "धृति, पुष्टि, तुष्टि आ आपन कुलदेवी"
+      }
+    },
+    {
+      "sa": "गणेशेन अधिकाः हि एताः",
+      "gloss": {
+        "hi": "गणेश को मिलाकर ये",
+        "en": "these, with Ganesha added",
+        "bho": "गणेश के मिला के ई"
+      }
+    },
+    {
+      "sa": "वृद्धौ पूज्याः च षोडश",
+      "gloss": {
+        "hi": "वृद्धि (मंगल-कार्य) में पूजनीय सोलह हैं",
+        "en": "are the sixteen to be worshipped at a vriddhi rite",
+        "bho": "बृद्धि (मंगल-काम) में पूजे जोग सोरह बाड़ी"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "गौरी, पद्मा, शची, मेधा, सावित्री, विजया, जया, देवसेना, स्वधा, स्वाहा, मातृकाएँ, लोकमाताएँ, धृति, पुष्टि, तुष्टि और अपनी कुलदेवी — गणेश को मिलाकर ये सोलह वृद्धि (मंगल-कार्य) में पूजनीय हैं।",
+    "en": "Gauri, Padma, Shachi, Medha, Savitri, Vijaya, Jaya, Devasena, Svadha, Svaha, the Mothers, the World-Mothers, Dhriti, Pushti, Tushti and one's own family deity — these, with Ganesha added, are the sixteen to be worshipped at a vriddhi (auspicious) rite.",
+    "bho": "गौरी, पद्मा, शची, मेधा, सावित्री, विजया, जया, देवसेना, स्वधा, स्वाहा, माई लोग, लोकमाई लोग, धृति, पुष्टि, तुष्टि आ आपन कुलदेवी — गणेश के मिला के ई सोरह बृद्धि (मंगल-काम) में पूजे जोग बाड़ी।"
+  },
+  "explanation": {
+    "hi": "[[shodash-matrika]] की सूची का स्मरण-श्लोक, जिसे पंडित आवाहन से पहले या पूजन के अंत में पढ़ता है ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) पृ. 223; [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt))। 'वृद्धौ' का अर्थ है वृद्धि-कर्म — विवाह, उपनयन, पुत्रजन्म जैसे मंगल अवसर, जिनके पूर्वांग में [[nandi-shraddha]] (आभ्युदयिक श्राद्ध) के साथ मातृका-पूजन होता है। पाठ 'ह्येता' (हि एताः) है; गीता प्रेस के स्कैन का ओसीआर 'होता' पढ़ता है — छपाई/ओसीआर की भूल, जिसे द्विवेदी पोथी का 'ह्येता' सुधारता है।",
+    "en": "The memory verse of the list of the sixteen matrikas, recited by the pandit before the invocation or at the end of the worship ([Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) p. 223; [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt)). 'Vriddhau' means at a vriddhi rite — auspicious occasions such as a wedding, an upanayana or the birth of a son, whose opening part has the matrika worship together with the nandi (abhyudayika) shraddha. The reading is 'hy eta' (hi etah); the OCR of the Gita Press scan reads 'hota' — a print/OCR slip corrected by the Dwivedi pothi's 'hy eta'.",
+    "bho": "[[shodash-matrika]] के सूची के सुमिरन-श्लोक, जेकरा पंडित आवाहन से पहिले भा पूजन के अंत में पढ़ेलन ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) पृ. 223; [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/stream/mvf_20240803_20240803_1558/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF%20-%20Mvf%20_djvu.txt))। 'वृद्धौ' के अरथ बा बृद्धि-करम — बियाह, उपनयन, बेटा के जनम जइसन मंगल अवसर, जेकर पूर्वांग में [[nandi-shraddha]] (आभ्युदयिक श्राद्ध) संगे मातृका-पूजन होला। पाठ 'ह्येता' (हि एताः) बा; गीता प्रेस के स्कैन के ओसीआर एह शब्द के बिगाड़ देला (ह्येता के जगह हो-ता) — छपाई/ओसीआर के भूल, जेकरा द्विवेदी पोथी के 'ह्येता' सुधारेला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-nkpp-scan",
+    "retrieved": "2026-11-01",
+    "modified": "OCR गोरी पदा → गौरी पद्मा, होता → ह्येता (reading of the Dwivedi pothi); dandas set"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit ritual formula (anonymous, pre-modern); Sanskrit text taken from the Gita Press scan under brief §14, no Hindi prose copied",
+  "tags": [
+    "matrika",
+    "shodasha-matrika",
+    "nama"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "locator": "NKPP p. 223",
+  "checkedAgainst": [
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "pad-kudyalagnam-vasordharam",
+  "kind": "paddhati",
+  "title": {
+    "hi": "कुड्यलग्नां वसोर्धारां (वसोर्धारा का नियम-श्लोक)",
+    "en": "Kudyalagnam vasordharam (the rule verse of the vasordhara)",
+    "bho": "कुड्यलग्नां वसोर्धारां (वसोर्धारा के नियम-श्लोक)"
+  },
+  "devanagari": "कुड्यलग्नां वसोर्धारां सप्तधारां घृतेन तु । कारयेत्पञ्चधारां वा नातिनीचां न चोच्छ्रिताम् ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "कुड्यलग्नाम्",
+      "gloss": {
+        "hi": "दीवार से लगी हुई",
+        "en": "set against the wall",
+        "bho": "देवाल से लागल"
+      }
+    },
+    {
+      "sa": "वसोर्धाराम्",
+      "gloss": {
+        "hi": "वसोर्धारा को",
+        "en": "the vasordhara (stream of Vasu)",
+        "bho": "वसोर्धारा के"
+      }
+    },
+    {
+      "sa": "सप्तधाराम् घृतेन तु",
+      "gloss": {
+        "hi": "घी से सात धाराओं वाली",
+        "en": "with seven streams, of ghee",
+        "bho": "घी से सात धार वाली"
+      }
+    },
+    {
+      "sa": "कारयेत् पञ्चधारां वा",
+      "gloss": {
+        "hi": "या पाँच धाराओं वाली बनवाए",
+        "en": "or let him have it made with five streams",
+        "bho": "भा पाँच धार वाली बनवावे"
+      }
+    },
+    {
+      "sa": "न अतिनीचां न च उच्छ्रिताम्",
+      "gloss": {
+        "hi": "न बहुत नीची, न बहुत ऊँची",
+        "en": "neither too low nor too high",
+        "bho": "ना बहुत नीचे, ना बहुत ऊँच"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "दीवार से लगी हुई वसोर्धारा घी से सात धाराओं वाली — या पाँच धाराओं वाली — बनवाए; न बहुत नीची, न बहुत ऊँची।",
+    "en": "Let him have the vasordhara made against the wall with seven streams of ghee — or with five — neither too low nor too high.",
+    "bho": "देवाल से लागल वसोर्धारा घी से सात धार वाली — भा पाँच धार वाली — बनवावे; ना बहुत नीचे, ना बहुत ऊँच।"
+  },
+  "explanation": {
+    "hi": "[[vasordhara]] बनाने का नियम-श्लोक, जिसे [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) का 1939 संस्करण कर्मप्रदीप के नाम से उद्धृत करता है; 1941 संस्करण इसे बहुवचन में पढ़ता है (नीचे पाठांतर) और रुद्रयामल का वचन भी देता है कि धाराएँ 'पाँच या सात' दीवार पर घी से खींची जाएँ, दूध से भी चल सकता है। हिंदी-पट्टी की पोथियाँ ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur)) दीवार या पाटे पर स्वस्तिक, 'श्रीः' अक्षर और 1-2-3-4-5-6-7 बिंदुओं का त्रिकोण बनाकर सात धाराएँ देती हैं। यह [[sapta-ghrit-matrika]] पूजन का आधार है — यह श्लोक पढ़ा नहीं जाता, विधि बताता है।",
+    "en": "The rule verse for making the vasordhara, quoted in the 1939 edition of the [Vasishthi Havan Paddhati](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) in the name of the Karmapradipa; the 1941 edition reads it in the plural (variant below) and also quotes the Rudrayamala that the streams, 'five or seven', are drawn on the wall with ghee, milk also serving. The Hindi-belt handbooks ([Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur)) draw a svastika, the letters 'shrih' and a triangle of 1-2-3-4-5-6-7 dots on the wall or a board and pour seven streams. It is the basis of the sapta-ghrita-matrika worship — the verse is not recited, it states the procedure.",
+    "bho": "[[vasordhara]] बनावे के नियम-श्लोक, जेकरा [वासिष्ठी हवन-पद्धति](https://archive.org/details/couu_vasishthi-havan-paddhati-with-bhasha-tika-1941-varanasi-karm-babu-baijnath-prasad-book-seller) के 1939 संस्करन कर्मप्रदीप के नाँव से उद्धृत करेला; 1941 संस्करन एकरा बहुवचन में पढ़ेला (नीचे पाठांतर) आ रुद्रयामल के वचन भी देला कि धार 'पाँच भा सात' देवाल पर घी से खींचल जाव, दूध से भी चल सकेला। हिंदी-पट्टी के पोथी ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur)) देवाल भा पाटा पर सातिया, 'श्रीः' अच्छर आ 1-2-3-4-5-6-7 बिंदु के तिकोन बना के सात धार देला। ई [[sapta-ghrit-matrika]] पूजन के आधार बा — ई श्लोक पढ़ल ना जाला, बिधि बतावेला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-vasishthi-havan-paddhati-1939",
+    "retrieved": "2026-11-01",
+    "modified": "OCR 'कुण्ड्यलग्नां वसोद्धोरां सप्तधारां घृतेन तु । कार्येत्पञ्चधारां वा नातिनीचां न चोच्छ्रिताम्' — कुण्ड्य → कुड्य, वसोद्धोरां → वसोर्धारां, कार्येत् → कारयेत्; dandas set"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit ritual verse (anonymous, pre-modern); 1941 public-domain print, archive.org",
+  "tags": [
+    "matrika",
+    "vasordhara",
+    "rule"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "locator": "1939 Gayghat print, vasordhara note (quoting the Karmapradipa)",
+  "checkedAgainst": [
+    {
+      "ref": "ia-vasishthi-havan-paddhati-1941",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "variants": [
+    {
+      "reading": "कुड्यलग्ना वसोर्धाराः पञ्चधारा घृतेन तु । कारयेत्सप्तधारा वा नातिनीचा न चोच्छ्रिताः ॥",
+      "note": {
+        "hi": "1941 संस्करण (घृतमातृकापूजन) का बहुवचन पाठ, पाँच धाराएँ पहले।",
+        "en": "The plural reading of the 1941 edition (ghrita-matrika section), five streams named first.",
+        "bho": "1941 संस्करन (घृतमातृकापूजन) के बहुवचन पाठ, पाँच धार पहिले।"
+      },
+      "source": "ia-vasishthi-havan-paddhati-1941"
+    }
+  ]
+}

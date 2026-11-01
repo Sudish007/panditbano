@@ -1,0 +1,97 @@
+{
+  "id": "vs-3-12",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 3.12",
+  "title": {
+    "hi": "अग्निर्मूर्धा दिवः ककुत् (मंगल)",
+    "en": "Agnir murdha divah kakut (Mangala)",
+    "bho": "अग्निर्मूर्धा दिवः ककुत् (मंगल)"
+  },
+  "devanagari": "अ॒ग्निर्मू॒र्धा दि॒वः क॒कुत्पतिः॑ पृथि॒व्या अ॒यम् । अ॒पाᳪं᳭ रेता॑ᳪं᳭सि जिन्वति ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "अग्निः",
+      "gloss": {
+        "hi": "अग्नि",
+        "en": "Agni",
+        "bho": "अग्नि"
+      }
+    },
+    {
+      "sa": "मूर्धा दिवः",
+      "gloss": {
+        "hi": "आकाश का मस्तक",
+        "en": "the head of the sky",
+        "bho": "अकास के माथ"
+      }
+    },
+    {
+      "sa": "ककुत्",
+      "gloss": {
+        "hi": "शिखर (ऊँचाई)",
+        "en": "the summit",
+        "bho": "चोटी"
+      }
+    },
+    {
+      "sa": "पतिः पृथिव्याः अयम्",
+      "gloss": {
+        "hi": "यह पृथिवी का स्वामी",
+        "en": "this lord of the earth",
+        "bho": "ई धरती के मालिक"
+      }
+    },
+    {
+      "sa": "अपां रेतांसि",
+      "gloss": {
+        "hi": "जलों के बीजों (सारों) को",
+        "en": "the seeds (essences) of the waters",
+        "bho": "पानी के बीया (सार) के"
+      }
+    },
+    {
+      "sa": "जिन्वति",
+      "gloss": {
+        "hi": "प्रेरित करता है (बढ़ाता है)",
+        "en": "quickens",
+        "bho": "बढ़ावेला"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "अग्नि आकाश का मस्तक और शिखर है, यह पृथिवी का स्वामी है; वह जलों के बीजों को बढ़ाता है।",
+    "en": "Agni is the head and summit of the sky, this lord of the earth; he quickens the seeds of the waters.",
+    "bho": "अग्नि अकास के माथ आ चोटी बाड़न, ई धरती के मालिक बाड़न; ऊ पानी के बीया के बढ़ावेलन।"
+  },
+  "explanation": {
+    "hi": "ऋग्वेद 8.44.16 की अग्नि-ऋचा, [[yajurved]] में VS 3.12 (VS 13.14 और 15.20 में भी)। 'पृथिव्याः पतिः' (पृथिवी का स्वामी) और अग्नि के लाल तेज के कारण पोथियाँ इसे भूमिपुत्र [[mangal]] की वैदिक ऋचा मानती हैं। ये नौ ऋचाएँ [याज्ञवल्क्यस्मृति](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.300–301 में ग्रह-क्रम से गिनाई गई हैं (आकृष्णेन, इमं देवा, अग्निर्मूर्धा, उद्बुध्यस्व, बृहस्पतेऽति, अन्नात्परिस्रुतः, शं नो देवीः, कया नश्चित्र, केतुं कृण्वन्) — इसी स्मृति-सूची पर हिंदी-पट्टी की पोथियों का नवग्रह-पूजन टिका है। मंगल मंडल में दक्षिण के कोष्ठक में लाल अक्षत पर स्थापित होते हैं ([मत्स्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.11; [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur))। यह ऋचा अग्न्युपस्थान (VS 3.12 का मूल विनियोग) और [[havan]] में भी आती है।",
+    "en": "Rigveda 8.44.16, a rk to Agni, carried as VS 3.12 (also at VS 13.14 and 15.20). Because of 'prithivyah patih' (lord of the earth) and Agni's red fire the handbooks make it the Vedic rk of Mars, the son of the Earth. These nine rks are listed in graha order in the [Yajnavalkya Smriti](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.300–301 (a krishnena, imam deva, agnir murdha, ud budhyasva, brihaspate ati, annat parisrutah, sham no devih, kaya nash chitra, ketum krinvan); the navagraha worship of the Hindi-belt handbooks rests on this smriti list. Mars is installed in the southern cell of the mandala on red rice ([Matsya Purana](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.11; [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur)). The rk also belongs to the agni-upasthana (its original use at VS 3.12) and to the havan.",
+    "bho": "ऋग्वेद 8.44.16 के अग्नि-ऋचा, [[yajurved]] में VS 3.12 (VS 13.14 आ 15.20 में भी)। 'पृथिव्याः पतिः' (धरती के मालिक) आ अग्नि के लाल तेज के कारन पोथी एकरा भूमिपुत्र [[mangal]] के वैदिक ऋचा मानेला। ई नौ ऋचा [याज्ञवल्क्यस्मृति](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.300–301 में ग्रह-क्रम से गिनावल बा (आकृष्णेन, इमं देवा, अग्निर्मूर्धा, उद्बुध्यस्व, बृहस्पतेऽति, अन्नात्परिस्रुतः, शं नो देवीः, कया नश्चित्र, केतुं कृण्वन्) — एही स्मृति-सूची पर हिंदी-पट्टी के पोथी के नवग्रह-पूजन टिकल बा। मंगल मंडल में दक्खिन के कोठरी में लाल अछत पर स्थापित होलन ([मत्स्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.11; [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur))। ई ऋचा अग्न्युपस्थान (VS 3.12 के मूल बिनियोग) आ [[havan]] में भी आवेला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-03",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed; a space set between अपाꣳ and रेताꣳसि (printed joined on the page)"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "navagraha",
+    "mangala",
+    "agni"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

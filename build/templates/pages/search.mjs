@@ -8,11 +8,13 @@ import { layout } from "../layout.mjs";
 import { groupCards } from "./home.mjs";
 import { groupTerms, letterBar } from "./glossary-index.mjs";
 import { textCard } from "./texts-index.mjs";
+import { mdContext } from "../components/verse.mjs";
 
 export function browseBlocks(ctx, { lang, data, derived }) {
   const R = ctx.R;
   const groups = groupTerms(derived.glossaryPages || [], lang);
   const texts = (data.texts || []).filter((x) => x.publishedCount > 0);
+  const mdCtx = mdContext(ctx, lang, derived);
   return html`<section id="browse-groups" aria-labelledby="h-browse-groups">
 <div class="section-head"><h2 id="h-browse-groups">${t(lang, "search.browse_groups")}</h2><a href="${R.href(`${lang}/occasions/`)}">${derived.counts.occasions ? t(lang, "counts.occasions", { n: num(derived.counts.occasions) }) + " →" : t(lang, "home.all_occasions")}</a></div>
 <div class="grid grid-md-2 grid-lg-3 grid-xl-4" data-grid="fixed">${groupCards(ctx, lang, { counts: derived.counts, groups: derived.groups.map((g) => ({ id: g.id, examples: g.examples.map((e) => ({ title: e.title[lang], href: e.href(lang) })) })) })}</div>
@@ -23,7 +25,7 @@ ${letterBar(lang, groups, { base: R.href(`${lang}/glossary/`) })}
 </section>` : ""}
 ${texts.length || derived.counts.mantras ? html`<section id="browse-texts" aria-labelledby="h-browse-texts">
 <div class="section-head"><h2 id="h-browse-texts">${t(lang, "search.browse_texts")}</h2><a href="${R.href(`${lang}/texts/`)}">${t(lang, "texts.all")} →</a></div>
-<div class="grid grid-md-2 grid-lg-3 grid-xl-4">${derived.counts.mantras ? html`<a class="card card-link text-card" href="${R.href(`${lang}/mantras/`)}"><h3 class="m0">${t(lang, "mantras.title")}</h3><p class="m0">${t(lang, "texts.mantras_body")}</p><span class="meta">${t(lang, "counts.mantras", { n: num(derived.counts.mantras) })}</span></a>` : ""}${texts.map((x) => textCard(ctx, x, lang))}</div>
+<div class="grid grid-md-2 grid-lg-3 grid-xl-4">${derived.counts.mantras ? html`<a class="card card-link text-card" href="${R.href(`${lang}/mantras/`)}"><h3 class="m0">${t(lang, "mantras.title")}</h3><p class="m0">${t(lang, "texts.mantras_body")}</p><span class="meta">${t(lang, "counts.mantras", { n: num(derived.counts.mantras) })}</span></a>` : ""}${texts.map((x) => textCard(ctx, x, lang, mdCtx))}</div>
 </section>` : ""}`;
 }
 

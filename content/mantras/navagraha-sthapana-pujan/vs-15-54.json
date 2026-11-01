@@ -1,0 +1,124 @@
+{
+  "id": "vs-15-54",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 15.54",
+  "title": {
+    "hi": "उद्बुध्यस्वाग्ने (बुध)",
+    "en": "Ud budhyasvagne (Budha)",
+    "bho": "उद्बुध्यस्वाग्ने (बुध)"
+  },
+  "devanagari": "उद्बु॑ध्यस्वाग्ने॒ प्रति॑ जागृहि॒ त्वमि॑ष्टापू॒र्ते सᳪं᳭ सृ॑जेथाम॒यं च॑ । अ॒स्मिन्त्स॒धस्थे॒ अध्युत्त॑रस्मि॒न्विश्वे॑ देवा॒ यज॑मानाश्च सीदत ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "उद्बुध्यस्व अग्ने",
+      "gloss": {
+        "hi": "हे अग्नि, जाग उठो",
+        "en": "awake, O Agni",
+        "bho": "हे अग्नि, जाग जाईं"
+      }
+    },
+    {
+      "sa": "प्रति जागृहि त्वम्",
+      "gloss": {
+        "hi": "तुम सजग रहो",
+        "en": "stay watchful",
+        "bho": "रउआ सजग रहीं"
+      }
+    },
+    {
+      "sa": "इष्टापूर्ते",
+      "gloss": {
+        "hi": "इष्ट (यज्ञ) और पूर्त (दान) को",
+        "en": "sacrifice and charitable works",
+        "bho": "इष्ट (जग्य) आ पूर्त (दान) के"
+      }
+    },
+    {
+      "sa": "सं सृजेथाम् अयं च",
+      "gloss": {
+        "hi": "और यह (यजमान) — तुम दोनों मिल जाओ",
+        "en": "join together, (you) and this one",
+        "bho": "आ ई (जजमान) — रउआ दुनो मिल जाईं"
+      }
+    },
+    {
+      "sa": "अस्मिन् सधस्थे",
+      "gloss": {
+        "hi": "इस समान स्थान (वेदी) में",
+        "en": "in this common seat",
+        "bho": "एह साझा जगह (बेदी) में"
+      }
+    },
+    {
+      "sa": "अधि उत्तरस्मिन्",
+      "gloss": {
+        "hi": "ऊपरी (उत्तर) स्थान में",
+        "en": "in the higher place",
+        "bho": "ऊपरी (उत्तर) जगह में"
+      }
+    },
+    {
+      "sa": "विश्वे देवाः यजमानाश्च",
+      "gloss": {
+        "hi": "सब देव और यजमान",
+        "en": "all the gods and the sacrificers",
+        "bho": "सब देव आ जजमान लोग"
+      }
+    },
+    {
+      "sa": "सीदत",
+      "gloss": {
+        "hi": "बैठो",
+        "en": "be seated",
+        "bho": "बइठीं"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे अग्नि, जाग उठो और सजग रहो; तुम और यह यजमान इष्ट-पूर्त (यज्ञ और दान के फल) को मिलाओ। इस समान स्थान में, ऊपरी स्थान में, सब देव और यजमान बैठें।",
+    "en": "Awake, O Agni, and stay watchful; you and this one join together sacrifice and good works. In this common seat, in the higher place, all the gods and the sacrificers be seated.",
+    "bho": "हे अग्नि, जाग जाईं आ सजग रहीं; रउआ आ ई जजमान इष्ट-पूर्त (जग्य आ दान के फल) के मिलाईं। एह साझा जगह में, ऊपरी जगह में, सब देव आ जजमान लोग बइठसु।"
+  },
+  "explanation": {
+    "hi": "अग्निचयन-प्रकरण (VS 15) की ऋचा, जिसका पहला शब्द 'उद्बुध्यस्व' (जाग उठो) है — 'बुध' की ध्वनि-साम्य से पोथियाँ इसे [[budh]] ग्रह की वैदिक ऋचा मानती हैं। ये नौ ऋचाएँ [याज्ञवल्क्यस्मृति](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.300–301 में ग्रह-क्रम से गिनाई गई हैं (आकृष्णेन, इमं देवा, अग्निर्मूर्धा, उद्बुध्यस्व, बृहस्पतेऽति, अन्नात्परिस्रुतः, शं नो देवीः, कया नश्चित्र, केतुं कृण्वन्) — इसी स्मृति-सूची पर हिंदी-पट्टी की पोथियों का नवग्रह-पूजन टिका है। बुध मंडल के [[ishan]] कोण में हरे या पीले अक्षत पर स्थापित होते हैं ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur)); [मत्स्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.35 बुध के होम के लिए 'अग्ने विवस्वदुषसः' देता है। दूसरी पंक्ति में [संस्कृत विकिस्रोत](https://sa.wikisource.org/) का स्वर-पाठ 'यजमानाश्च' (बहुवचन) पढ़ता है, जबकि उसी पृष्ठ का पद-पाठ और पोथियाँ 'यजमानश्च' — पाठांतर नीचे।",
+    "en": "A rk of the agnichayana section (VS 15) whose first word is 'ud budhyasva' (awake) — by the likeness of sound with 'Budha' the handbooks make it the Vedic rk of Mercury. These nine rks are listed in graha order in the [Yajnavalkya Smriti](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.300–301 (a krishnena, imam deva, agnir murdha, ud budhyasva, brihaspate ati, annat parisrutah, sham no devih, kaya nash chitra, ketum krinvan); the navagraha worship of the Hindi-belt handbooks rests on this smriti list. Mercury is installed in the north-east cell on green or yellow rice ([Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur)); the [Matsya Purana](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.35 gives 'agne vivasvad ushasah' for Mercury's homa instead. In the second line the [Sanskrit Wikisource](https://sa.wikisource.org/) svara text reads 'yajamanash cha' (plural), while the pada text of the same page and the handbooks read 'yajamanash cha' in the singular — see the variant.",
+    "bho": "अग्निचयन-प्रकरन (VS 15) के ऋचा, जेकर पहिला शब्द 'उद्बुध्यस्व' (जाग जाईं) बा — 'बुध' के धुन-साम्य से पोथी एकरा [[budh]] ग्रह के वैदिक ऋचा मानेला। ई नौ ऋचा [याज्ञवल्क्यस्मृति](https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%83/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D) 1.300–301 में ग्रह-क्रम से गिनावल बा (आकृष्णेन, इमं देवा, अग्निर्मूर्धा, उद्बुध्यस्व, बृहस्पतेऽति, अन्नात्परिस्रुतः, शं नो देवीः, कया नश्चित्र, केतुं कृण्वन्) — एही स्मृति-सूची पर हिंदी-पट्टी के पोथी के नवग्रह-पूजन टिकल बा। बुध मंडल के [[ishan]] कोन में हरियर भा पियर अछत पर स्थापित होलन ([नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur)); [मत्स्यपुराण](https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AF%E0%A5%A9) 93.35 बुध के होम खातिर 'अग्ने विवस्वदुषसः' देला। दुसरा पाँत में [संस्कृत विकिस्रोत](https://sa.wikisource.org/) के स्वर-पाठ 'यजमानाश्च' (बहुवचन) पढ़ेला, जबकि ओही पन्ना के पद-पाठ आ पोथी 'यजमानश्च' — पाठांतर नीचे।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-15",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga → ः (set before the svara mark); ।। n ।। → ॥ and the verse number removed; line breaks and hyphens removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "navagraha",
+    "budha",
+    "agnichayana"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  },
+  "variants": [
+    {
+      "reading": "अस्मिन्त्सधस्थे अध्युत्तरस्मिन्विश्वे देवा यजमानश्च सीदत ॥",
+      "note": {
+        "hi": "पद-पाठ (विकिस्रोत), [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) का प्रतिलेख नहीं, और [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) तथा विवाह संस्कार पद्धति 'यजमानश्च' (एकवचन) पढ़ते हैं।",
+        "en": "The pada text on the same Wikisource page, the [Nitya Karma Puja Prakash](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) and the Vivah Sanskar Paddhati read the singular 'yajamanash cha'; [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) has the plural.",
+        "bho": "पद-पाठ (विकिस्रोत), [नित्यकर्म-पूजाप्रकाश](https://archive.org/details/nitya-karma-puja-prakash-gita-press-gorakhpur) आ विवाह संस्कार पद्धति 'यजमानश्च' (एकवचन) पढ़ेला; [TITUS](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm) में बहुवचन बा।"
+      },
+      "source": "ia-nkpp-scan"
+    }
+  ]
+}
