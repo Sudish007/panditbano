@@ -490,6 +490,9 @@
     "tools": "Build tools",
     "tools_body": "Open-source packages used to build the site:",
     "owner_decision": "This site reproduces every traditional text in full; the source is given on each record.",
+    "project_lede": "Sources taken from this project, grouped by licence; every row links to the original page.",
+    "all_projects": "Source projects",
+    "full_list": "Full list",
     "project": {
       "wikisource": "Wikisource",
       "sanskritdocuments": "sanskritdocuments.org",

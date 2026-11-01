@@ -13,7 +13,7 @@ import { samagriCard } from "../components/samagri.mjs";
 import { whenCard } from "../components/when.mjs";
 import { stepCard, stepTitle, stepsOf, layerChip } from "../components/step.mjs";
 import { splitPadas } from "../../lib/deva.mjs";
-import { toIAST } from "../../lib/translit.mjs";
+import { toIAST, ariaPlain } from "../../lib/translit.mjs";
 
 export const LAYERS = ["vedic", "paddhati", "lok"];
 const SENSITIVE_KEY = { pregnancy: "health" };
@@ -126,7 +126,7 @@ export function sutraBlock(env) {
   const entry = sources && sources.get(f.sourceRef);
   const url = (entry && entry.url) || f.url;
   const cite = html`<a href="${url}" rel="external noopener">${t(lang, "occasion.sutra_cite")}<svg class="ext-ic" aria-hidden="true" focusable="false"><use href="#i-ext"/></svg><span class="sr"> (${t(lang, "ext.label")})</span></a>`;
-  return html`<blockquote class="sutra" data-sutra="${PGS_SUTRA_ID}"><div class="verse"><p class="mantra" lang="sa" id="sutra-pgs"><span class="deva">${padaSpans(f.devanagari, splitPadas)}</span></p><p class="iast" lang="sa-Latn">${padaSpans(toIAST(f.devanagari, PGS_SUTRA_ID), splitBars)}</p></div><p class="m0">${t(lang, "occasion.sutra_meaning")}</p><cite>${cite}</cite></blockquote>`;
+  return html`<blockquote class="sutra" data-sutra="${PGS_SUTRA_ID}"><div class="verse"><p class="mantra" lang="sa" id="sutra-pgs" data-plain="${ariaPlain(f.devanagari)}"><span class="deva">${padaSpans(f.devanagari, splitPadas)}</span></p><p class="iast" lang="sa-Latn">${padaSpans(toIAST(f.devanagari, PGS_SUTRA_ID), splitBars)}</p></div><p class="m0">${t(lang, "occasion.sutra_meaning")}</p><cite>${cite}</cite></blockquote>`;
 }
 
 function variantsSection(env) {

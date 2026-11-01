@@ -52,12 +52,21 @@ export function capTitle(s, max = TITLE_MAX) {
   return [...t].slice(0, max - 1).join("").trimEnd() + "…";
 }
 
+// FEAT-110: the cold-cache OG stage crashed the Windows build intermittently with STATUS_HEAP_CORRUPTION (0xC0000374).
+// Two mitigations, both kept: Pango text runs (which register `fontfile` with fontconfig on every call) are rendered one at
+// a time through this queue, and every composite receives its own copy of the layer pixels (see layerAt). Compositing and
+// PNG encoding stay parallel (BATCH); the measured cost is unchanged (93 images in 1.4–1.6 s).
+let textQueue = Promise.resolve();
+const serial = (fn) => { const p = textQueue.then(fn, fn); textQueue = p.catch(() => {}); return p; };
+
 /** One text run as a raw RGBA layer (Pango wraps at `width`); raw output skips a PNG encode/decode per layer (≈ 10× faster). */
-async function textLayer({ text, lang, size, color, width, align = "left" }) {
+function textLayer({ text, lang, size, color, width, align = "left" }) {
   const f = fontFor(text, lang);
-  const img = sharp({ text: { text: `<span foreground="${color}">${escapeMarkup(text)}</span>`, font: `${f.family} ${size}`, fontfile: f.file, width, align, rgba: true, dpi: 72 } });
-  const r = await img.raw().toBuffer({ resolveWithObject: true });
-  return { input: r.data, raw: { width: r.info.width, height: r.info.height, channels: r.info.channels }, width: r.info.width, height: r.info.height };
+  return serial(async () => {
+    const img = sharp({ text: { text: `<span foreground="${color}">${escapeMarkup(text)}</span>`, font: `${f.family} ${size}`, fontfile: f.file, width, align, rgba: true, dpi: 72 } });
+    const r = await img.raw().toBuffer({ resolveWithObject: true });
+    return { input: r.data, raw: { width: r.info.width, height: r.info.height, channels: r.info.channels }, width: r.info.width, height: r.info.height };
+  });
 }
 
 /** Shrink the font size (−4 steps) until the wrapped run fits the box height, never below minSize. */
@@ -73,10 +82,10 @@ async function fitText(layer, box, minSize) {
 /** Proves the bundled TTFs are the faces Pango uses: metrics of the real family must differ from a nonexistent family's
     (which falls back to whatever the OS has). Recorded in build.json og.fontMatched; false on CI means tofu/fallback. */
 export async function fontProbe() {
-  const probe = async (family, file, text) => {
+  const probe = (family, file, text) => serial(async () => {
     const r = await sharp({ text: { text, font: `${family} 40`, fontfile: file, width: 1000, rgba: true, dpi: 72 } }).raw().toBuffer({ resolveWithObject: true });
     return `${r.info.width}x${r.info.height}`;
-  };
+  });
   const deva = await probe(FONTS.deva.family, FONTS.deva.file, "श्राद्ध क्ष ज्ञ");
   const devaBogus = await probe("Pb Nonexistent Family", FONTS.deva.file, "श्राद्ध क्ष ज्ञ");
   const latin = await probe(FONTS.latin.family, FONTS.latin.file, "Pandit Bano");
@@ -95,7 +104,10 @@ export function basePng() {
   return baseCache;
 }
 
-const layerAt = (r, left, top) => ({ input: r.input, raw: r.raw, left: Math.round(left), top: Math.round(top) });
+// Each composite gets its OWN copy of the layer pixels: the cached footer layers were shared by the 16 concurrent composites
+// of a batch, and that sharing is where the Windows heap corruption reproduced (≈ 1 run in 8 with shared Buffers; 0 in 40
+// with copies — FEAT-110). ≈ 0.2 MB per image, freed with the composite.
+const layerAt = (r, left, top) => ({ input: Buffer.from(r.input), raw: r.raw, left: Math.round(left), top: Math.round(top) });
 
 const footerCache = new Map();
 /** Site-name and language-chip layers are identical for every image of a language: rendered once per process. */
@@ -124,7 +136,7 @@ export async function renderOg({ title, site, lang }) {
 
 // ---------------------------------------------------------------- plan
 const slugOfPath = (path) => (path.replace(/\/+$/, "").replace(/[^A-Za-z0-9_-]+/g, "-").replace(/^-+|-+$/g, "") || "home");
-const DEFAULT_TITLE_KEY = { mantra: "nav.texts", "chapter-part": "nav.texts", term: "nav.glossary", pothi: "pothi.label", offline: "offline.offline_title", "not-found": "notfound.title" };
+const DEFAULT_TITLE_KEY = { mantra: "nav.texts", "chapter-part": "nav.texts", term: "nav.glossary", pothi: "pothi.label", offline: "offline.offline_title", "not-found": "notfound.title", "sources-project": "sources.registry" };
 const uiGet = (ui, key) => key.split(".").reduce((o, k) => (o ? o[k] : undefined), ui);
 
 /**

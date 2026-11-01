@@ -1,6 +1,6 @@
 // Home (design.md §4.2 with §27 items 2 and 3). Every number comes from `counts` (brief §1); a count line is omitted
 // while the count is 0 (no content yet) rather than showing a literal.
-import { html, t, icon, extLink, num } from "../lib.mjs";
+import { html, raw, t, icon, extLink, num } from "../lib.mjs";
 import { layout, SHUBHVELA } from "../layout.mjs";
 import { OCCASION_GROUPS } from "../../lib/routes.mjs";
 import { tp } from "../components/names.mjs";
@@ -62,7 +62,13 @@ export function homeBody(ctx, { lang, counts = {}, groups = [], featured = [] })
 <div class="card">
 <h2>${t(lang, "home.how_heading")}</h2>
 <p>${tp(ctx, lang, "home.how_body")}</p>
-<p class="m0"><a href="${L("reference/verification/")}">${t(lang, "home.how_link")}</a> · <a href="${L("sources/")}">${t(lang, "home.sources_link")}</a></p>
+${(() => {
+    // FEAT-110: link only the pages the corpus has (the verification reference page and the Sources page land with C1A-17)
+    const links = [];
+    if (!ctx.has || ctx.has.reference("verification")) links.push(html`<a href="${L("reference/verification/")}">${t(lang, "home.how_link")}</a>`);
+    if (!ctx.has || ctx.has.static("sources")) links.push(html`<a href="${L("sources/")}">${t(lang, "home.sources_link")}</a>`);
+    return links.length ? html`<p class="m0">${links.map((l, i) => html`${i ? raw(" · ") : ""}${l}`)}</p>` : "";
+  })()}
 </div>
 </section>
 ${featured.length ? html`<section aria-labelledby="h-feat">

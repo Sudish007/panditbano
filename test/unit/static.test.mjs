@@ -5,7 +5,8 @@ import assert from "node:assert/strict";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { loadUI, t } from "../../build/templates/lib.mjs";
-import { staticPage, licenceUrl, FONTS, BUILD_TOOLS, STORAGE_KEYS } from "../../build/templates/pages/static.mjs";
+import { staticPage, sourcesProjectPage, licenceUrl, FONTS, BUILD_TOOLS, STORAGE_KEYS } from "../../build/templates/pages/static.mjs";
+import { sourceProject, sourceProjects } from "../../build/lib/routes.mjs";
 import { referencePage } from "../../build/templates/pages/reference.mjs";
 import { referencePagePage, slotted, sankalpaOccasion } from "../../build/templates/pages/reference-page.mjs";
 import { createRoutes } from "../../build/lib/routes.mjs";
@@ -20,22 +21,39 @@ const data = loadContent(join(ROOT, "test", "fixtures", "content-sample"));
 const derived = derive(data, { R });
 const routeOf = (lang, type, params) => R.routesFor(lang, data).find((r) => r.pageType === type && (!params || Object.entries(params).every(([k, v]) => r.params[k] === v)));
 const stat = (lang, slug) => staticPage(ctx, { route: routeOf(lang, "static", { slug }), page: data.statics.find((s) => s.slug === slug), data, derived }).toString();
+const projPage = (lang, project) => sourcesProjectPage(ctx, { route: routeOf(lang, "sources-project", { project }), data }).toString();
 const refIndex = (lang) => referencePage(ctx, { route: routeOf(lang, "reference"), data }).toString();
 const refPage = (lang, slug) => referencePagePage(ctx, { route: routeOf(lang, "reference-page", { slug }), ref: data.reference.find((r) => r.slug === slug), data, derived }).toString();
 const count = (s, re) => (s.match(re) || []).length;
 
-test("sources page lists every registry entry with a licence link, the fonts block (three faces, OFL link + OFL.txt) and the build-tools line", () => {
+test("sources page: one summary card per project (linked, count, each licence linked once), the fonts block (three faces, OFL link + OFL.txt) and the build-tools line; project pages list every registry entry (FEAT-110)", () => {
   const entries = [...data.sources.values()];
   assert.ok(entries.length >= 80);
+  const projects = sourceProjects(data.sources);
+  assert.ok(projects.length >= 5 && projects[0] === "wikisource");
+  assert.deepEqual(R.routesFor("hi", data).filter((r) => r.pageType === "sources-project").map((r) => r.params.project), projects, "one project page per project present");
+  assert.equal(R.routesFor("hi", { ...data, statics: [] }).filter((r) => r.pageType === "sources-project").length, 0, "no project pages without the Sources page");
   for (const lang of ["hi", "en", "bho"]) {
     const s = stat(lang, "sources");
     assert.equal(count(s, /<h1[\s>]/g), 1);
-    assert.equal(count(s, /<li data-source="/g), entries.length, `${lang}: one row per registry entry`);
-    for (const e of entries) {
-      const row = s.slice(s.indexOf(`<li data-source="${e.id}">`), s.indexOf("</li>", s.indexOf(`<li data-source="${e.id}">`)));
-      assert.ok(row.includes('rel="license external noopener"'), `${lang}: ${e.id} has a licence link`);
-      assert.ok(row.includes(`href="${e.url}"`), `${lang}: ${e.id} title linked to its URL`);
+    assert.equal(count(s, /<li data-source="/g), 0, `${lang}: no registry rows on the Sources page`);
+    assert.equal(count(s, /class="card src-group"/g), projects.length, `${lang}: one card per project`);
+    let listed = 0;
+    for (const p of projects) {
+      const card = s.slice(s.indexOf(`data-project="${p}"`), s.indexOf("</section>", s.indexOf(`data-project="${p}"`)));
+      const rows = entries.filter((e) => sourceProject(e) === p);
+      assert.ok(card.includes(`href="/panditbano/${lang}/sources/${p}/"`), `${lang}: ${p} card links its page`);
+      assert.equal(count(card, /rel="license external noopener"/g), new Set(rows.map((e) => e.licence || "—")).size, `${lang}: ${p} each licence linked once`);
+      const page = projPage(lang, p);
+      assert.equal(count(page, /<h1[\s>]/g), 1);
+      assert.ok(page.includes('data-page="sources-project"') && page.includes(`<link rel="canonical" href="https://sudish007.github.io/panditbano/${lang}/sources/${p}/">`));
+      assert.equal(count(page, /<li data-source="/g), rows.length, `${lang}: ${p} page lists every entry of the project`);
+      for (const e of rows) assert.ok(page.includes(`<li data-source="${e.id}"><span class="t"><a href="${e.url}" rel="external noopener">`), `${lang}: ${e.id} title linked to its URL`);
+      assert.equal(count(page, /rel="license external noopener"/g), new Set(rows.map((e) => e.licence || "—")).size, `${lang}: ${p} page links each licence once (group heading)`);
+      assert.ok(page.includes(`href="/panditbano/${lang}/sources/"`) && page.includes('aria-current="page"'), `${lang}: ${p} rail links back + marks the current project`);
+      listed += rows.length;
     }
+    assert.equal(listed, entries.length, `${lang}: every entry is on exactly one project page`);
     assert.ok(s.includes('id="fonts"'), `${lang}: fonts block`);
     for (const f of FONTS) assert.ok(s.includes(`<strong lang="en">${f.family}</strong>`) && s.includes(`fonts/${f.dir}/OFL.txt`), `${lang}: ${f.family} with its OFL.txt`);
     assert.ok(s.includes('href="https://openfontlicense.org/"'), `${lang}: openfontlicense.org`);

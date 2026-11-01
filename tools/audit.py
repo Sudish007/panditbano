@@ -230,9 +230,13 @@ CHECKS_JS = r"""
     const bad = []; let n = 0, min = 1e9;
     document.querySelectorAll('button, a.btn, .seg a, .seg button, .rail nav a, .nav a, .katha-nav a, .stepper button, summary').forEach(el => {
       if (!pb.vis(el)) return; n++; const h = el.getBoundingClientRect().height; min = Math.min(min, h);
-      const single = el.getClientRects().length === 1 && h < 60; // multi-line wrapped controls (mocks decision 5) only need ≥ 40
+      // multi-line wrapped controls (mocks decision 5) only need ≥ 40. "Single-line" = the control's text sits on one line box:
+      // count the distinct line tops of its text rects (a flex/block <a> whose child span wraps has ONE client rect but TWO
+      // text lines — FEAT-110 fix; the old getClientRects().length === 1 test failed the tracker rail at 320/360)
+      const lines = (() => { const r = document.createRange(); r.selectNodeContents(el); const tops = Array.from(r.getClientRects()).filter(x => x.width > 0 && x.height > 0).map(x => x.top).sort((a, b) => a - b); let n = tops.length ? 1 : 0; for (let i = 1; i < tops.length; i++) if (tops[i] - tops[i - 1] > 10) n++; return n || 1; })();
+      const single = lines === 1 && h < 60;
       if (h < 39.5) bad.push(`${pb.tag(el)} "${(el.textContent || '').trim().slice(0, 18)}" h=${h.toFixed(1)}`);
-      else if (single && h > 48.5 && !el.matches('summary')) bad.push(`${pb.tag(el)} single-line h=${h.toFixed(1)} > 48`);
+      else if (single && h > 48.5 && !el.matches('summary')) bad.push(`${pb.tag(el)} "${(el.textContent || '').trim().slice(0, 18)}" single-line h=${h.toFixed(1)} > 48 (${el.className})`);
     });
     document.querySelectorAll('input[type=checkbox], input[type=radio]').forEach(el => {
       if (!pb.vis(el)) return; n++; const h = el.getBoundingClientRect().height; const row = el.closest('li, label, .opt, .check li') || el.parentElement; const rh = row.getBoundingClientRect().height;

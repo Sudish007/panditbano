@@ -93,11 +93,13 @@ export function footer(ctx, { lang, route }) {
   const home = R.href(`${lang}/`);
   const sections = [...NAV_SECTIONS, "reference"].map((key) => html`<li><a href="${R.href(`${lang}/${SECTION_PATH[key]}`)}">${t(lang, `nav.${key}`)}</a></li>`);
   const issue = `${GITHUB_REPO}/issues/new?title=${encodeURIComponent(`Correction: ${route ? route.sitePath : ""}`)}&body=${encodeURIComponent(route ? route.abs : R.abs(""))}`;
+  // FEAT-110: the static pages are content (content/static/*.md); link only the ones the corpus has (no dead footer links)
+  const has = (slug) => !ctx.has || ctx.has.static(slug);
   const more = [
-    html`<li><a href="${R.href(`${lang}/about/`)}">${t(lang, "foot.about")}</a></li>`,
-    html`<li><a href="${R.href(`${lang}/sources/`)}">${t(lang, "foot.sources")}</a></li>`,
+    has("about") ? html`<li><a href="${R.href(`${lang}/about/`)}">${t(lang, "foot.about")}</a></li>` : "",
+    has("sources") ? html`<li><a href="${R.href(`${lang}/sources/`)}">${t(lang, "foot.sources")}</a></li>` : "",
     html`<li>${extLink(lang, issue, t(lang, "foot.corrections"))}</li>`,
-    html`<li><a href="${R.href(`${lang}/privacy/`)}">${t(lang, "foot.privacy")}</a></li>`,
+    has("privacy") ? html`<li><a href="${R.href(`${lang}/privacy/`)}">${t(lang, "foot.privacy")}</a></li>` : "",
     html`<li>${extLink(lang, `${SHUBHVELA}${lang}/`, t(lang, "foot.shubhvela"))}</li>`,
   ];
   const note = lang === "hi" ? t(lang, "foot.note_hi") : t(lang, "foot.note_translation");
@@ -109,7 +111,7 @@ export function footer(ctx, { lang, route }) {
 <div><h2 class="label">${t(lang, "foot.more")}</h2><ul>${more}</ul></div>
 <div><h2 class="label">${t(lang, "foot.licences_label")}</h2><p class="small m0">${t(lang, "foot.licences")}</p></div>
 </div>
-<div class="note-line small"><p>${note}</p><p>${t(lang, "foot.privacy_line")} <a href="${R.href(`${lang}/privacy/`)}">${t(lang, "foot.privacy")}</a></p><p class="print-only">${t(lang, "foot.print_courtesy")}</p></div>
+<div class="note-line small"><p>${note}</p><p>${t(lang, "foot.privacy_line")}${has("privacy") ? html` <a href="${R.href(`${lang}/privacy/`)}">${t(lang, "foot.privacy")}</a>` : ""}</p><p class="print-only">${t(lang, "foot.print_courtesy")}</p></div>
 </div>
 </footer>`;
 }

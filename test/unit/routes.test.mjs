@@ -4,7 +4,7 @@ import assert from "node:assert/strict";
 import { ROUTES, createRoutes, isLessonId, fill, NAV_SECTIONS, OCCASION_GROUPS } from "../../build/lib/routes.mjs";
 import { fromEnv } from "../../build/config.mjs";
 
-const PAGE_TYPES = ["root-redirect", "not-found", "home", "offline", "learn-index", "learn-level", "lesson", "occasions-index", "occasion", "occasion-part", "pothi", "mantras-index", "mantra", "texts-index", "text", "chapter", "chapter-part", "kathas-index", "katha", "katha-adhyaya", "glossary-index", "term", "reference", "reference-page", "search", "static", "manifest", "sw", "robots", "sitemap", "search-shard", "dev-fonts"];
+const PAGE_TYPES = ["root-redirect", "not-found", "home", "offline", "learn-index", "learn-level", "lesson", "occasions-index", "occasion", "occasion-part", "pothi", "mantras-index", "mantra", "texts-index", "text", "chapter", "chapter-part", "kathas-index", "katha", "katha-adhyaya", "glossary-index", "term", "reference", "reference-page", "search", "static", "sources-project", "manifest", "sw", "robots", "sitemap", "search-shard", "dev-fonts"];
 
 test("every route has pageType, phase, precache, sitemap and og classes", () => {
   for (const r of ROUTES) {

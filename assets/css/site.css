@@ -475,6 +475,10 @@ details.answers li { margin: 0.6em 0; }
 .src-list li { display: grid; gap: 2px; padding: 8px 0; border-bottom: 1px solid var(--hair); margin: 0; overflow-wrap: anywhere; }
 .src-list li:last-child { border-bottom: 0; }
 .src-list .t { font-weight: 600; }
+/* FEAT-110: project summary cards on /sources/ (rows live on /sources/<project>/) and the licence groups there */
+.src-group { display: grid; gap: 8px; align-content: start; }
+.src-group .more { color: var(--accent); font-weight: 600; font-size: var(--fs-meta); justify-self: start; min-height: 40px; display: inline-flex; align-items: center; }
+.src-group h2.h3 { font-size: var(--h3); overflow-wrap: anywhere; }
 .shubhvela-card { display: grid; gap: 10px; align-content: start; }
 
 /* katha */

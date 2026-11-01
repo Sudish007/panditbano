@@ -6,7 +6,7 @@ import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { loadUI, t } from "../../build/templates/lib.mjs";
 import { verseBlock, verseFull, padaSpans, splitBars, withMarker, verseNumber, svaraLegend, sourcesSection } from "../../build/templates/components/verse.mjs";
-import { readingSettings } from "../../build/templates/components/reading-settings.mjs";
+import { readingSettings, learnHrefFor } from "../../build/templates/components/reading-settings.mjs";
 import { mantraPage } from "../../build/templates/pages/mantra.mjs";
 import { mantrasIndexPage, mantraGroups, incipit } from "../../build/templates/pages/mantras-index.mjs";
 import { createRoutes } from "../../build/lib/routes.mjs";
@@ -179,7 +179,12 @@ test("reading-settings card: radiogroup with one aria-checked, stepper 0.9× wit
     assert.ok(s.includes('<output data-rate-out aria-live="polite">0.9×</output>'));
     assert.ok(s.includes('data-rate="-"') && s.includes('data-rate="+"'));
     assert.ok(s.includes(`<button class="btn" type="button" data-repeat aria-pressed="false">${t(lang, "voice.repeat")}</button>`));
-    assert.ok(s.includes(`<a href="/panditbano/${lang}/learn/level-1/">${t(lang, "voice.lesson")}</a>`));
+    // FEAT-110: the pronunciation link follows the corpus — Level 1 when it exists, the Learn index when any level does, none otherwise
+    assert.ok(!s.includes(t(lang, "voice.lesson") + "</a>") && !s.includes("data-lesson-href"), `${lang}: no lesson link without learnHref`);
+    const withL1 = readingSettings({ ...ctx, learnHref: (l) => learnHrefFor(ctx.R, [{ level: 0 }, { level: 1 }], l) }, lang).toString();
+    assert.ok(withL1.includes(`data-lesson-href="/panditbano/${lang}/learn/level-1/"`) && withL1.includes(`<a href="/panditbano/${lang}/learn/level-1/">${t(lang, "voice.lesson")}</a>`));
+    assert.equal(learnHrefFor(ctx.R, [{ level: 0 }], lang), `/panditbano/${lang}/learn/`);
+    assert.equal(learnHrefFor(ctx.R, [], lang), null);
     assert.ok(s.includes(t(lang, "storage.note")));
     assert.ok(s.includes('data-voice-name hidden') && s.includes('role="status" data-voice-status'));
     assert.ok(s.includes(`data-l-none="${t(lang, "voice.none")}"`));

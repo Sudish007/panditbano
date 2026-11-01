@@ -7,10 +7,21 @@ import { html, t } from "../lib.mjs";
 export const TRANSLIT_VALUES = ["iast", "easy", "off"];
 export const RATE = { min: 0.5, max: 1.5, step: 0.1, default: 0.9 };
 
+/**
+ * Pronunciation-lesson link for the card: Level 1 when the corpus has it, else the Learn index when any level exists, else
+ * none (FEAT-110: the fixed `learn/level-1/` link was a dead link on every verse page until Level 1 lands in Phase 1b).
+ */
+export function learnHrefFor(R, levels, lang) {
+  const list = Array.isArray(levels) ? levels : [];
+  if (list.some((l) => l.level === 1)) return R.href(`${lang}/learn/level-1/`);
+  if (list.length) return R.href(`${lang}/learn/`);
+  return null;
+}
+
 export function readingSettings(ctx, lang, { lessonHref = null, id = "reading-settings" } = {}) {
-  const href = lessonHref || ctx.R.href(`${lang}/learn/level-1/`);
+  const href = lessonHref || (ctx.learnHref ? ctx.learnHref(lang) : null);
   const speed = t(lang, "voice.speed");
-  return html`<div class="card reading-settings" id="${id}" data-reading-settings data-l-none="${t(lang, "voice.none")}" data-l-name="${t(lang, "voice.name")}" data-l-speaking="${t(lang, "voice.speaking")}" data-l-failed="${t(lang, "voice.failed")}" data-l-lesson="${t(lang, "voice.lesson")}" data-lesson-href="${href}">
+  return html`<div class="card reading-settings" id="${id}" data-reading-settings data-l-none="${t(lang, "voice.none")}" data-l-name="${t(lang, "voice.name")}" data-l-speaking="${t(lang, "voice.speaking")}" data-l-failed="${t(lang, "voice.failed")}" data-l-lesson="${t(lang, "voice.lesson")}"${href ? html` data-lesson-href="${href}"` : ""}>
 <h2 class="rail-h">${t(lang, "verse.settings")}</h2>
 <div class="setting">
 <p class="label" id="${id}-translit">${t(lang, "translit.label")}</p>
@@ -25,7 +36,7 @@ export function readingSettings(ctx, lang, { lessonHref = null, id = "reading-se
 </div>
 <p class="meta" data-voice-name hidden></p>
 <p class="meta" role="status" data-voice-status></p>
-<p class="small"><a href="${href}">${t(lang, "voice.lesson")}</a></p>
+${href ? html`<p class="small"><a href="${href}">${t(lang, "voice.lesson")}</a></p>` : ""}
 <p class="small m0">${t(lang, "storage.note")}</p>
 </div>`;
 }

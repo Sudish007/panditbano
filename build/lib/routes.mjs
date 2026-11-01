@@ -17,28 +17,31 @@ export const ROUTES = [
   { pageType: "not-found", pattern: "404.html", lang: false, phase: 1, precache: "static", sitemap: false, og: "type-default", expand: () => [{}] },
   { pageType: "home", pattern: "", phase: 1, precache: "static", sitemap: true, og: "own", expand: () => [{}] },
   { pageType: "offline", pattern: "offline/", phase: 1, precache: "static", sitemap: false, og: "type-default", expand: () => [{}] },
-  { pageType: "learn-index", pattern: "learn/", phase: 1, precache: "static", sitemap: true, og: "own", expand: (d) => (list(d.levels).length ? [{}] : []) },
+  { pageType: "learn-index", pattern: "learn/", phase: 1, precache: "static", sitemap: true, og: "own", expand: () => [{}] },
   { pageType: "learn-level", pattern: "learn/level-{level}/", phase: 1, precache: "runtime", sitemap: true, og: "own", expand: (d) => list(d.levels).map((l) => ({ level: l.level })) },
   { pageType: "lesson", pattern: "learn/{lessonId}/", phase: 1, precache: "runtime", sitemap: true, og: "own", expand: (d) => list(d.lessons).map((l) => ({ lessonId: l.id })) },
-  { pageType: "occasions-index", pattern: "occasions/", phase: 1, precache: "static", sitemap: true, og: "own", expand: (d) => (list(d.occasions).length ? [{}] : []) },
+  { pageType: "occasions-index", pattern: "occasions/", phase: 1, precache: "static", sitemap: true, og: "own", expand: () => [{}] },
   { pageType: "occasion", pattern: "occasions/{slug}/", phase: 1, precache: "runtime", sitemap: true, og: "own", expand: (d) => list(d.occasions).map((o) => ({ slug: o.slug })) },
   { pageType: "occasion-part", pattern: "occasions/{slug}/{part}/", phase: 1, precache: "runtime", sitemap: true, og: "own", expand: (d) => list(d.occasions).flatMap((o) => list(o.parts).map((p) => ({ slug: o.slug, part: p.slug }))) },
   { pageType: "pothi", pattern: "occasions/{slug}/pothi/", phase: 1, precache: "runtime", sitemap: true, og: "type-default", expand: (d) => list(d.occasions).map((o) => ({ slug: o.slug })) },
-  { pageType: "mantras-index", pattern: "mantras/", phase: 1, precache: "static", sitemap: true, og: "own", expand: (d) => (list(d.mantras).length ? [{}] : []) },
+  { pageType: "mantras-index", pattern: "mantras/", phase: 1, precache: "static", sitemap: true, og: "own", expand: () => [{}] },
   { pageType: "mantra", pattern: "mantras/{mantraId}/", phase: 1, precache: "runtime", sitemap: true, og: "type-default", expand: (d) => list(d.mantras).map((m) => ({ mantraId: m.id })) },
-  { pageType: "texts-index", pattern: "texts/", phase: 1, precache: "static", sitemap: true, og: "own", expand: (d) => (list(d.texts).length ? [{}] : []) },
+  { pageType: "texts-index", pattern: "texts/", phase: 1, precache: "static", sitemap: true, og: "own", expand: () => [{}] },
   { pageType: "text", pattern: "texts/{textSlug}/", phase: 1, precache: "runtime", sitemap: true, og: "own", expand: (d) => list(d.texts).map((t) => ({ textSlug: t.slug })) },
   { pageType: "chapter", pattern: "texts/{textSlug}/{n}/", phase: 1, precache: "runtime", sitemap: true, og: "own", expand: (d) => list(d.texts).flatMap((t) => list(t.chapters).map((c) => ({ textSlug: t.slug, n: c.n }))) },
   { pageType: "chapter-part", pattern: "texts/{textSlug}/{n}/p{k}/", phase: 1, precache: "runtime", sitemap: true, og: "type-default", expand: (d) => list(d.texts).flatMap((t) => list(t.chapters).flatMap((c) => list(c.parts).slice(1).map((_, i) => ({ textSlug: t.slug, n: c.n, k: i + 2 })))) },
-  { pageType: "kathas-index", pattern: "kathas/", phase: 1, precache: "static", sitemap: true, og: "own", expand: (d) => (list(d.kathas).length ? [{}] : []) },
+  { pageType: "kathas-index", pattern: "kathas/", phase: 1, precache: "static", sitemap: true, og: "own", expand: () => [{}] },
   { pageType: "katha", pattern: "kathas/{slug}/", phase: 1, precache: "runtime", sitemap: true, og: "own", expand: (d) => list(d.kathas).map((k) => ({ slug: k.slug })) },
   { pageType: "katha-adhyaya", pattern: "kathas/{slug}/{n}/", phase: 1, precache: "runtime", sitemap: true, og: "own", expand: (d) => list(d.kathas).flatMap((k) => list(k.adhyayas).map((a) => ({ slug: k.slug, n: a.n }))) },
-  { pageType: "glossary-index", pattern: "glossary/", phase: 1, precache: "static", sitemap: true, og: "own", expand: (d) => (list(d.terms).length ? [{}] : []) },
+  { pageType: "glossary-index", pattern: "glossary/", phase: 1, precache: "static", sitemap: true, og: "own", expand: () => [{}] },
   { pageType: "term", pattern: "glossary/{termId}/", phase: 1, precache: "runtime", sitemap: true, og: "type-default", expand: (d) => list(d.terms).filter((t) => t.published !== false).map((t) => ({ termId: t.id })) },
-  { pageType: "reference", pattern: "reference/", phase: 1, precache: "static", sitemap: true, og: "own", expand: (d) => (list(d.reference).length ? [{}] : []) },
+  { pageType: "reference", pattern: "reference/", phase: 1, precache: "static", sitemap: true, og: "own", expand: () => [{}] },
   { pageType: "reference-page", pattern: "reference/{slug}/", phase: 1, precache: "runtime", sitemap: true, og: "own", expand: (d) => list(d.reference).map((r) => ({ slug: r.slug })) },
   { pageType: "search", pattern: "search/", phase: 1, precache: "runtime", sitemap: true, og: "own", expand: (d) => (d.features?.searchPage ? [{}] : []) },
   { pageType: "static", pattern: "{slug}/", phase: 1, precache: "runtime", sitemap: true, og: "own", expand: (d) => list(d.statics).map((s) => ({ slug: s.slug })) },
+  // FEAT-110: the source registry is listed per project on its own pages (the one-page registry broke the 150-KB page budget);
+  // the pages exist only together with the Sources static page that links them.
+  { pageType: "sources-project", pattern: "sources/{project}/", phase: 1, precache: "runtime", sitemap: true, og: "type-default", expand: (d) => (list(d.statics).some((s) => s.slug === "sources") ? sourceProjects(d.sources).map((project) => ({ project })) : []) },
   // files (no HTML page)
   { pageType: "manifest", pattern: "manifest.webmanifest", phase: 1, precache: "static", sitemap: false, og: "type-default", file: true, expand: () => [{}] },
   { pageType: "sw", pattern: "sw.js", lang: false, phase: 1, precache: "none", sitemap: false, og: "type-default", file: true, expand: () => [{}] },
@@ -49,6 +52,15 @@ export const ROUTES = [
 ];
 
 export const STATIC_SLUGS = ["about", "sources", "privacy"];
+/** Source-registry projects in display order (content/sources.json#sources[].project; unknown values fall under "other"). */
+export const SOURCE_PROJECT_ORDER = ["wikisource", "sanskritdocuments", "gretil", "vhp", "archive", "stotranidhi", "kavitakosh", "titus", "iitk", "shubhvela", "publisher", "research", "government", "other"];
+export const sourceProject = (entry) => (SOURCE_PROJECT_ORDER.includes(entry && entry.project) ? entry.project : "other");
+/** Distinct projects present in a registry (Map or array of entries), in SOURCE_PROJECT_ORDER. */
+export function sourceProjects(sources) {
+  const entries = sources instanceof Map ? [...sources.values()] : list(sources);
+  const present = new Set(entries.filter((e) => e && e.id).map(sourceProject));
+  return SOURCE_PROJECT_ORDER.filter((p) => present.has(p));
+}
 export const REFERENCE_SLUGS = ["panchang-basics", "muhurat-rules", "gotra-pravara", "dhyana-shlokas", "sutak-patak", "sankalpa", "verification", "bibliography"];
 export const OCCASION_GROUPS = ["foundations", "daily", "birth", "marriage", "home", "death", "kathas", "vrats", "festivals", "shanti"];
 export const NAV_SECTIONS = ["learn", "occasions", "texts", "kathas", "glossary"];

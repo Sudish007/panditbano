@@ -38,10 +38,11 @@ import { glossaryIndexPage } from "./templates/pages/glossary-index.mjs";
 import { termPage } from "./templates/pages/term.mjs";
 import { referencePage } from "./templates/pages/reference.mjs";
 import { referencePagePage } from "./templates/pages/reference-page.mjs";
-import { staticPage } from "./templates/pages/static.mjs";
+import { staticPage, sourcesProjectPage } from "./templates/pages/static.mjs";
 import { searchPage } from "./templates/pages/search.mjs";
 import { embedOfflineManifests } from "./lib/offline.mjs";
 import { nameIndex } from "./templates/components/names.mjs";
+import { learnHrefFor } from "./templates/components/reading-settings.mjs";
 import { stagePwa } from "./pwa.mjs";
 import { injectHeadMeta, stageSeoFiles } from "./seo.mjs";
 import { ogPlan, stageOg, loadOgCache } from "./og.mjs";
@@ -114,6 +115,13 @@ function stageDerive(data) {
   const d = derive(data, { R });
   for (const g of OCCASION_GROUPS) d.counts.groups[g] = d.counts.groups[g] || 0;
   return d;
+}
+
+/** Existence checks templates consult before linking a content-dependent page (FEAT-110: no dead links on a partial corpus). */
+export function pageIndex(data) {
+  const refs = new Set((data.reference || []).map((r) => r.slug));
+  const statics = new Set((data.statics || []).map((s) => s.slug));
+  return { reference: (slug) => refs.has(slug), static: (slug) => statics.has(slug) };
 }
 
 /** Group cards for the home page (design §27 item 3): up to 4 example chips per group in the page language. */
@@ -209,6 +217,7 @@ function stageRender(out, ctx, data, derived) {
         case "reference": html = referencePage(ctx, { route, data }); break;
         case "reference-page": html = referencePagePage(ctx, { route, ref: data.reference.find((r) => r.slug === route.params.slug), data, derived }); break;
         case "static": html = staticPage(ctx, { route, page: data.statics.find((s) => s.slug === route.params.slug), data, derived }); break;
+        case "sources-project": html = sourcesProjectPage(ctx, { route, data }); break;
         case "search": html = searchPage(ctx, { route, data, derived }); break;
         default: throw new Error(`no template for page type "${route.pageType}" (${route.sitePath})`);
       }
@@ -268,7 +277,7 @@ export async function build(overrides = {}) {
   const hash = timed("hash", computeHash);
   const out = new Map();
   const assets = timed("assets", () => stageAssets(out, hash));
-  const ctx = { R, ui: data.ui, features: cfg.features, hash, assets: { css: assets.css, js: assets.js }, modules: assets.modules, themeColors: assets.themeColors, names: nameIndex(data.sources, data.institutions) };
+  const ctx = { R, ui: data.ui, features: cfg.features, hash, assets: { css: assets.css, js: assets.js }, modules: assets.modules, themeColors: assets.themeColors, names: nameIndex(data.sources, data.institutions), learnHref: (lang) => learnHrefFor(R, data.levels, lang), has: pageIndex(data) };
   const pages = timed("render", () => stageRender(out, ctx, data, derived));
   // stage 8a — head metas (og:image, twitter:card, JSON-LD) BEFORE the offline byte counts are fixed (design §17; MEDIUM 3 og plan)
   const plan = ogPlan(pages, { ctx, out });

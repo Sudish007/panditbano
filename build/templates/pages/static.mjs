@@ -4,11 +4,10 @@
 //   title linked, kind, retrieved date and a rel="license" link —, the fonts block (faces, authors, OFL link + the shipped
 //   OFL.txt) and the build-tools line (minisearch MIT, @resvg/resvg-js MPL-2.0, sharp Apache-2.0, sanscript MIT);
 // - privacy: the storage-keys table of design §9.3 and the R4 §6.3 GitHub sentences (IP logging, Issues).
-import { html, raw, esc, t, extLink, num } from "../lib.mjs";
+import { html, raw, t, extLink, num } from "../lib.mjs";
 import { layout, GITHUB_REPO } from "../layout.mjs";
-import { STATIC_SLUGS } from "../../lib/routes.mjs";
+import { STATIC_SLUGS, sourceProject, sourceProjects } from "../../lib/routes.mjs";
 import { sourceTitle } from "../components/verse.mjs";
-import { linkNames } from "../components/names.mjs";
 import { lessonProse } from "./lesson.mjs";
 import { refList, refHref, refMeta } from "./reference.mjs";
 
@@ -43,23 +42,86 @@ export function licenceUrl(entry) {
   if (/public[- ]domain/i.test(l)) return PD_MARK;
   return entry.url || "#";
 }
-const PROJECT_ORDER = ["wikisource", "sanskritdocuments", "gretil", "vhp", "archive", "stotranidhi", "kavitakosh", "titus", "iitk", "shubhvela", "publisher", "research", "government", "other"];
-const projectLabel = (ctx, lang, p) => { let label; try { label = t(lang, `sources.project.${p}`); } catch (e) { label = p; } return raw(linkNames(esc(label), lang, ctx.names)); };
-
-export function registrySection(ctx, lang, sources) {
+/** Project label as plain text (page titles / h1) and as prose with the registered name linked (UI-19). */
+export const projectName = (lang, p) => { try { return t(lang, `sources.project.${p}`); } catch (e) { return p; } };
+export const projectHref = (ctx, lang, p) => ctx.R.href(`${lang}/sources/${p}/`);
+/** Registry entries grouped by project (SOURCE_PROJECT_ORDER), each group's entries in registry order. */
+export function registryGroups(sources) {
   const entries = [...(sources ? sources.values() : [])].filter((e) => e && e.id);
-  if (!entries.length) return "";
   const groups = new Map();
-  for (const e of entries) { const p = PROJECT_ORDER.includes(e.project) ? e.project : "other"; if (!groups.has(p)) groups.set(p, []); groups.get(p).push(e); }
-  const ordered = PROJECT_ORDER.filter((p) => groups.has(p));
+  for (const e of entries) { const p = sourceProject(e); if (!groups.has(p)) groups.set(p, []); groups.get(p).push(e); }
+  return { entries, groups, ordered: sourceProjects(sources) };
+}
+/** Distinct licence strings of a group, in first-seen order. */
+export const licencesOf = (entries) => [...new Set(entries.map((e) => e.licence || "—"))];
+
+/**
+ * Sources page registry (FEAT-110): one summary card per project — label linked to `/{lang}/sources/{project}/`, entry
+ * count, kinds and each distinct licence linked once. The rows themselves live on the project pages (sourcesProjectPage):
+ * on the fixture corpus the one-page registry (84 rows × ~800 B) pushed the Sources page past the 150-KB budget of brief §7,
+ * and the real corpus has several times as many entries.
+ */
+export function registrySection(ctx, lang, sources) {
+  const { entries, groups, ordered } = registryGroups(sources);
+  if (!entries.length) return "";
   return html`<section id="registry" aria-labelledby="h-registry">
 <div class="section-head"><h2 id="h-registry">${t(lang, "sources.registry")}</h2><span class="meta">${t(lang, "counts.sources", { n: num(entries.length) })}</span></div>
 <p class="lede m0">${t(lang, "sources.registry_lede")}</p>
-<div class="src-groups">${ordered.map((p) => html`<section class="card src-group" aria-labelledby="h-src-${p}">
-<h3 id="h-src-${p}">${projectLabel(ctx, lang, p)} <span class="meta">· ${num(groups.get(p).length)}</span></h3>
-<ul class="src-list">${groups.get(p).map((e) => html`<li data-source="${e.id}"><span class="t">${extLink(lang, e.url || "#", sourceTitle(e, lang))}</span><span class="meta">${e.kind ? html`${e.kind}` : ""}${e.retrieved ? html` · ${t(lang, "sources.retrieved")} ${e.retrieved}` : ""}${e.locator ? html` · ${e.locator}` : ""}</span><span class="small lic">${t(lang, "sources.licence")}: ${extLink(lang, licenceUrl(e), e.licence || "—", { rel: "license external noopener" })}</span></li>`)}</ul>
-</section>`)}</div>
+<div class="src-groups">${ordered.map((p) => {
+    const list = groups.get(p);
+    const kinds = [...new Set(list.map((e) => e.kind).filter(Boolean))];
+    return html`<section class="card src-group" aria-labelledby="h-src-${p}" data-project="${p}">
+<h3 id="h-src-${p}"><a href="${projectHref(ctx, lang, p)}">${projectName(lang, p)}</a> <span class="meta">· ${t(lang, "counts.sources", { n: num(list.length) })}</span></h3>
+${kinds.length ? html`<p class="meta m0">${kinds.join(" · ")}</p>` : ""}
+<p class="small lic m0">${t(lang, "sources.licence")}: ${licencesOf(list).map((l, i) => html`${i ? raw(" · ") : ""}${extLink(lang, licenceUrl(list.find((e) => (e.licence || "—") === l)), l, { rel: "license external noopener" })}`)}</p>
+<a class="more" href="${projectHref(ctx, lang, p)}">${t(lang, "sources.full_list")} →</a>
 </section>`;
+  })}</div>
+</section>`;
+}
+
+/** Right-rail card listing every project page (the current one marked). */
+export function projectsCard(ctx, lang, sources, current) {
+  const ordered = sourceProjects(sources);
+  return html`<div class="card"><h2 class="rail-h">${t(lang, "sources.all_projects")}</h2><nav aria-label="${t(lang, "sources.all_projects")}"><ul>${ordered.map((p) => html`<li><a href="${projectHref(ctx, lang, p)}"${p === current ? raw(' aria-current="page"') : ""}><span class="t">${projectName(lang, p)}</span></a></li>`)}<li><a href="${staticHref(ctx, lang, "sources")}"><span class="t">${t(lang, "foot.sources")} →</span></a></li></ul></nav></div>`;
+}
+
+/** `/{lang}/sources/{project}/` — the registry rows of one project, grouped by licence (the licence linked once per group). */
+export function sourcesProjectBody(ctx, { lang, project, data }) {
+  const { groups } = registryGroups(data.sources);
+  const list = groups.get(project) || [];
+  const byLicence = new Map();
+  for (const e of list) { const l = e.licence || "—"; if (!byLicence.has(l)) byLicence.set(l, []); byLicence.get(l).push(e); }
+  return html`<div class="page-head">
+<div><h1>${projectName(lang, project)}</h1><p class="lede m0">${t(lang, "sources.project_lede")}</p></div>
+<div class="meta"><span>${t(lang, "counts.sources", { n: num(list.length) })}</span></div>
+</div>
+<div class="layout has-right">
+<div class="stack">
+${[...byLicence.entries()].map(([l, rows], i) => html`<section class="card src-group" aria-labelledby="h-lic-${i + 1}" id="lic-${i + 1}">
+<h2 class="h3" id="h-lic-${i + 1}">${t(lang, "sources.licence")}: ${extLink(lang, licenceUrl(rows[0]), l, { rel: "license external noopener" })} <span class="meta">· ${num(rows.length)}</span></h2>
+<ul class="src-list">${rows.map((e) => html`<li data-source="${e.id}"><span class="t">${extLink(lang, e.url || "#", sourceTitle(e, lang))}</span><span class="meta">${[e.kind, e.retrieved ? `${t(lang, "sources.retrieved")} ${e.retrieved}` : "", e.locator].filter(Boolean).join(" · ")}</span></li>`)}</ul>
+</section>`)}
+</div>
+<aside class="rail rail-right">
+${projectsCard(ctx, lang, data.sources, project)}
+${siteLinksCard(ctx, lang, data, "sources")}
+</aside>
+</div>`;
+}
+
+export function sourcesProjectPage(ctx, { route, data }) {
+  const lang = route.lang;
+  const project = route.params.project;
+  const name = projectName(lang, project);
+  return layout(ctx, {
+    route,
+    title: `${name} — ${t(lang, "foot.sources")}`,
+    description: clip(`${name}: ${t(lang, "sources.project_lede")}`),
+    section: null,
+    crumbs: [{ href: ctx.R.href(`${lang}/`), label: t(lang, "nav.home") }, { href: staticHref(ctx, lang, "sources"), label: t(lang, "foot.sources") }],
+    body: sourcesProjectBody(ctx, { lang, project, data }),
+  });
 }
 
 export function fontsSection(ctx, lang) {
