@@ -79,3 +79,33 @@ implementation deviations, which every build step appends to.
 - **FEAT-104 · Hindi nukta consonants in `hi`/`awa` texts transliterate to plain Roman letters** (ज़→z, फ़→f, क़→q, ख़→kh,
   ग़→g, ड़→ṛ, ढ़→ṛh) so IAST never carries a Devanagari nukta sign; sanscript has no mapping for them. ꣳ/ꣴ and the
   chandrabindu become ṃ; ळ becomes ḻ; ओ३म् becomes oṁ, ॐ stays oṃ.
+- **FEAT-105 · the mantra paragraph carries no `aria-label`** (design §7.1/§7.3 wrote one; design-review MEDIUM 4).
+  `<p class="mantra" data-plain="…">` holds `<span class="deva" aria-hidden="true">` (accented, one `<span class="pada">`
+  per line) and `<span class="sr" lang="…">` with the svara-less text; `.sr` is `user-select: none`, so the accessibility
+  tree reads the plain string and a copy carries the accented text once (Playwright proof in the FEAT findings). When
+  `svara: false` the `.deva` is not hidden and no `.sr` is emitted (the text is already plain).
+- **FEAT-105 · rail card headings are `<h2 class="rail-h">`, not `<h3>`** as in the mocks, so the heading order stays
+  h1 → h2 in DOM order (the left rail precedes the content; axe `heading-order` would flag h1 → h3). `.rail .rail-h` is
+  styled exactly like `.rail h3`.
+- **FEAT-105 · verse numbering.** `॥ n ॥` is added only to a text that ends with `॥` and carries no number yet; `n` comes
+  from an explicit option or from a `vs-a-b` / `pgs-k-k-s` / `rv-m-h-v` id (never from a range id). hi/bho use Devanagari
+  digits, en uses Latin digits in the Devanagari marker; the IAST/easy marker is always `|| n ||`. A half-verse ending in
+  `।` is left as written.
+- **FEAT-105 · source line vs. #sources.** Under the verse `<p class="src">` shows the label, the linked human title
+  (`sources.json#titles[]` in the page script, else the registry title) and the locator; the full attribution lines
+  (W/S/G/V/B/T) sit once in `#sources`. In an attribution line the quoted title (W/S), the registry title (B/T) or the
+  phrase before the URL (V) becomes the link and the parenthesised URL is dropped from the visible text (the `href`
+  carries it); licence URLs become `rel="external license noopener"` links.
+- **FEAT-105 · the group list in the left rail shows titles only** (one line, 40-px rows; the mock listed incipits). An
+  incipit (first words, svara-less, `lang="sa"`) is used only for a record without a title; the index cards show title +
+  incipit + locator.
+- **FEAT-105 · voice.mjs resolves the voice at module start**, not at the first click, so the reading-settings card can
+  show "आवाज़: … (लगभग)" without a click; it still waits for `voiceschanged` up to 1.5 s. The ▶ buttons are rendered
+  `hidden` and un-hidden by the module (no `speechSynthesis` → they stay hidden and the card shows the note once).
+- **FEAT-105 · the ⚙ link is `#i-settings`** (new sprite symbol, listed in `assets/MOTIFS.md`); it sits right after
+  the ▶ button so the two controls stay on one line while the svara flag and voice note wrap.
+- **FEAT-105 · vinyog links point at `/{lang}/occasions/{slug}/{part}/#step-{n}`** (`{part}/` only for multi-part
+  occasions). FEAT-106 must give every `.step` the id `step-{n}`.
+- **FEAT-105 · `tools/audit.py` fixes.** stdout/stderr are reconfigured to UTF-8 (a Devanagari h1 in a UI-15 measure
+  aborted the run under cp1252); the UI-27 svara-collision check now measures the rects of the text nodes inside
+  `.mantra .deva` (the clipped `.sr` box and the block-level `.pada` spans produced false collisions).

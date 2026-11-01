@@ -18,12 +18,14 @@ import { homePage } from "./templates/pages/home.mjs";
 import { notFoundPage } from "./templates/pages/not-found.mjs";
 import { offlinePage } from "./templates/pages/offline.mjs";
 import { rootRedirectPage } from "./templates/pages/root-redirect.mjs";
+import { mantraPage } from "./templates/pages/mantra.mjs";
+import { mantrasIndexPage } from "./templates/pages/mantras-index.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const R = createRoutes(config);
 
 /** Page modules loaded per page type by app.mjs (hashed at build; design §12). Later FEATs add entries. */
-const PAGE_MODULES = {};
+export const PAGE_MODULES = { mantra: ["translit", "voice"] };
 
 // ---------------------------------------------------------------- helpers
 function walk(dir, out = []) {
@@ -113,6 +115,7 @@ function stageAssets(out, hash) {
 
 function stageRender(out, ctx, data, derived) {
   const pages = [];
+  const occasionsById = new Map(data.occasions.map((o) => [o.id, o]));
   for (const lang of LANGS) {
     for (const route of R.routesFor(lang, data)) {
       if (route.file) continue;
@@ -122,7 +125,9 @@ function stageRender(out, ctx, data, derived) {
         case "not-found": html = notFoundPage(ctx, { route }); break;
         case "home": html = homePage(ctx, { route, counts: derived.counts, groups: homeGroups(derived.groups, route.lang), featured: data.featured || [] }); break;
         case "offline": html = offlinePage(ctx, { route }); break;
-        default: break; // templates for the other page types arrive with FEAT-105…108
+        case "mantras-index": html = mantrasIndexPage(ctx, { route, mantras: data.mantras }); break;
+        case "mantra": html = mantraPage(ctx, { route, rec: derived.mantraById.get(route.params.mantraId), mantras: data.mantras, derived, occasionsById, sources: data.sources }); break;
+        default: break; // templates for the other page types arrive with FEAT-106…108
       }
       if (html === null) continue;
       const file = route.sitePath.endsWith("/") || route.sitePath === "" ? `${route.sitePath}index.html` : route.sitePath;

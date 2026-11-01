@@ -159,14 +159,14 @@ a.chip:hover { border-color: var(--accent); }
 .rail nav .n { flex: none; width: 28px; height: 28px; display: inline-grid; place-items: center; border-radius: 50%; border: 1px solid var(--hair-strong); font-size: var(--fs-small); color: var(--ink-2); }
 .rail nav li a.done .n { background: var(--good); border-color: var(--good); color: var(--surface); }
 .rail nav li a.detail .n { border-color: var(--accent); color: var(--accent); }
-.rail h3 { font-size: var(--fs-meta); font-family: var(--font-body); font-weight: 600; color: var(--ink-2); letter-spacing: 0.02em; margin: 0 0 8px; }
-html[lang="en"] .rail h3 { font-family: var(--font-latin); }
+.rail h3, .rail .rail-h { font-size: var(--fs-meta); font-family: var(--font-body); font-weight: 600; color: var(--ink-2); letter-spacing: 0.02em; margin: 0 0 8px; line-height: 1.3; }
+html[lang="en"] .rail h3, html[lang="en"] .rail .rail-h { font-family: var(--font-latin); }
 .rail .card { padding: 14px; }
 details.rail-fold summary { list-style: none; cursor: pointer; display: flex; align-items: center; justify-content: space-between; min-height: var(--control-h); font-weight: 600; }
 details.rail-fold summary::-webkit-details-marker { display: none; }
 details.rail-fold summary::after { content: "+"; font-size: 1.3em; color: var(--ink-2); }
 details.rail-fold[open] summary::after { content: "−"; }
-details.rail-fold summary h3 { margin: 0; }
+details.rail-fold summary h3, details.rail-fold summary .rail-h { margin: 0; }
 
 /* breadcrumb and page head */
 .crumbs { list-style: none; display: flex; flex-wrap: wrap; gap: 4px 8px; padding: 0; margin: 0 0 12px; font-size: var(--fs-meta); color: var(--ink-2); }
@@ -196,8 +196,8 @@ details.rail-fold summary h3 { margin: 0; }
   .verse-row .verse { margin-top: 0; }
 }
 .mantra { font-family: var(--font-mantra); font-size: var(--fs-mantra); line-height: var(--lh-mantra); color: var(--ink); text-align: var(--mantra-align); margin: 0; font-weight: 400; }
-.mantra .deva { display: inline; }
-.mantra .pada { display: block; }
+.mantra .deva { display: block; }
+.verse p > .pada, .mantra .deva > .pada { display: block; } /* one pada per line; the danda stays glued to its pada (design §27 item 1) */
 .mantra .vn { color: var(--accent); }
 .iast { font-family: var(--font-mantra); font-size: calc(var(--fs-body) * 1.02); line-height: 1.7; color: var(--ink-2); text-align: var(--mantra-align); margin: 8px 0 0; font-style: normal; }
 .roman-easy { font-family: var(--font-latin); font-size: var(--fs-meta); color: var(--ink-2); text-align: var(--mantra-align); margin: 8px 0 0; }
@@ -208,6 +208,31 @@ details.rail-fold summary h3 { margin: 0; }
 .svara-flag { font-size: var(--fs-small); color: var(--ink-2); display: inline-flex; align-items: center; gap: 6px; min-height: 24px; }
 .svara-flag::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: var(--good); }
 .svara-flag.off::before { background: var(--hair-strong); }
+.verse-tools .vstatus { flex: 1 1 100%; color: var(--ink-2); text-align: var(--mantra-align); }
+.verse-tools .vstatus:empty { display: none; }
+.verse-tools .chip-kind { color: var(--ink-2); }
+button[data-listen] { position: relative; overflow: hidden; }
+button[data-listen] .vprog { position: absolute; left: 0; bottom: 0; height: 2px; width: 0; background: var(--accent); pointer-events: none; }
+/* reading-settings card (design §9.4): one home for transliteration, speed, repeat, voice name */
+.reading-settings .setting { display: grid; gap: 8px; margin-top: 12px; }
+.reading-settings .setting .label { margin: 0; }
+.reading-settings .seg { flex-wrap: wrap; }
+.reading-settings .seg button { flex: 1 1 auto; }
+.reading-settings .voice-row { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; }
+.reading-settings [data-voice-status]:empty, .reading-settings [data-voice-name]:empty { display: none; }
+.reading-settings .meta { margin: 12px 0 0; }
+.reading-settings p.small { margin: 10px 0 0; }
+/* svara legend card (design §27 item 5) */
+.svara-legend .mark { font-family: var(--font-mantra); font-size: 1.15em; line-height: 1; white-space: nowrap; }
+/* mantra lists: incipit in the mantra face (not a .mantra block) */
+.incipit, .rail nav .inc { font-family: var(--font-mantra); color: var(--ink-2); }
+.incipit { font-size: calc(var(--fs-body) * 1.05); line-height: 1.9; }
+.rail nav li a .t { min-width: 0; }
+.rail nav .inc { line-height: 1.8; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.rail nav li a[aria-current] .n { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.mantra-card { display: grid; gap: 8px; align-content: start; }
+.mantra-card .chip { justify-self: start; }
+.reading { font-family: var(--font-mantra); }
 dl.pada { display: grid; gap: 8px 16px; grid-template-columns: 1fr; margin: 0; }
 dl.pada > div { display: grid; grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.4fr); gap: 12px; align-items: baseline; padding: 8px 0; border-bottom: 1px solid var(--hair); }
 dl.pada dt { font-family: var(--font-mantra); font-size: calc(var(--fs-body) * 1.15); line-height: 1.8; margin: 0; }

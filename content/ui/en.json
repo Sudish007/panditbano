@@ -48,7 +48,9 @@
     "speaking": "Speaking…",
     "failed": "The voice could not play; try again",
     "name": "Voice: {name} — approximate machine voice",
-    "aria": "Listen — verse {n}, machine voice"
+    "aria": "Listen — verse {n}, machine voice",
+    "aria_title": "Listen — {title}, machine voice",
+    "lesson": "Why the svara are not heard"
   },
   "translit": {
     "label": "Transliteration",
@@ -99,7 +101,11 @@
     "settings": "Reading settings",
     "pager": "Mantras {from}–{to} · {total} in all",
     "next": "Next page →",
-    "prev": "← Previous page"
+    "prev": "← Previous page",
+    "step": "Step {n}",
+    "checked": "Checked against",
+    "locator": "Locator",
+    "open_settings": "Open reading settings"
   },
   "layer": {
     "vedic": "Vedic",
@@ -222,5 +228,40 @@
     "vrats": "Vrats",
     "festivals": "Festivals",
     "shanti": "Shanti and special pujas"
+  },
+  "verse_kind": {
+    "shloka": "Shloka",
+    "chaupai": "Chaupai",
+    "doha": "Doha",
+    "soratha": "Soratha",
+    "chhand": "Chhand",
+    "stanza": "Stanza",
+    "sutra": "Sutra",
+    "mantra": "Mantra",
+    "prose": "Prose"
+  },
+  "kind": {
+    "vedic": "Vedic",
+    "puranic": "Puranic",
+    "paddhati": "Paddhati",
+    "folk": "Folk",
+    "author": "Named author"
+  },
+  "mantras": {
+    "title": "Ritual mantras",
+    "lede": "The mantras recited inside the procedures, grouped by source — each in Devanagari (with svara marks where the source has them), Roman script, word split, meaning and ritual use.",
+    "group_vs": "Shukla Yajurveda — adhyaya {n}",
+    "group_vedic_other": "Other Vedic (Grihya Sutra, Rigveda)",
+    "group_puranic": "Puranic",
+    "group_paddhati": "Paddhati",
+    "group_folk": "Folk",
+    "group_author": "Named authors (Tulsidas and others)",
+    "in_group": "In this group",
+    "neighbours": "In this text",
+    "all": "All mantras"
+  },
+  "svara_legend": {
+    "title": "Svara marks",
+    "body": "The vertical stroke above ({svarita}) is svarita, the stroke below ({anudatta}) is anudatta; an unmarked syllable is udatta. The candrabindu in ‘{nasal}’ is the Yajurvedic nasal. The machine voice does not reproduce the svara."
   }
 }

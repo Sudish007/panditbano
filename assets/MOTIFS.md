@@ -30,6 +30,7 @@ Attestation: **objects and geometry only; no deity figure** (brief §1, design.m
 | `i-om` | the syllable ॐ set as text in Tiro Devanagari Sanskrit (texts / mantras; sacred — restricted placement) |
 | `i-ext` | external-link arrow: box with an arrow leaving its top-right corner (design §5.2; NEW) |
 | `i-auto` | half-filled circle — theme = system (design-review NIT 11; NEW) |
+| `i-settings` | gear: ring with eight short spokes and a hub (the ⚙ link from a verse's tools row to the reading-settings card — design §7.4, §9.4) |
 
 ## Motifs (`m-*`, thin-line objects)
 

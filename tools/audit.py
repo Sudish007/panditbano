@@ -33,6 +33,11 @@ import threading
 import time
 import urllib.parse
 
+# Windows consoles default to cp1252: measures quote Devanagari (h1 text, mantra lines), so never let a print() abort a run.
+for _stream in (sys.stdout, sys.stderr):
+    if hasattr(_stream, "reconfigure"):
+        _stream.reconfigure(encoding="utf-8", errors="replace")
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.normpath(os.path.join(HERE, ".."))
 DEFAULT_DIST = os.path.join(REPO, "dist")
@@ -426,7 +431,9 @@ TEXT_SPACING_JS = r"""
   let inter = 0; const ex = [];
   document.querySelectorAll('.card, .step, li, .toolbar, .verse-tools, .head-row, .page-head, .hero-text, .block').forEach(box => { const kids = Array.from(box.children).filter(k => pb.vis(k) && !['inline', 'contents'].includes(getComputedStyle(k).display) && getComputedStyle(k).position !== 'absolute').map(k => k.getBoundingClientRect()); for (let i = 0; i < kids.length; i++) for (let j = i + 1; j < kids.length; j++) if (pb.rectsOverlap(kids[i], kids[j], 1)) { inter++; if (ex.length < 3) ex.push(pb.tag(box)); } });
   let collisions = 0, lines = 0;
-  document.querySelectorAll('.mantra').forEach(m => { const r = document.createRange(); r.selectNodeContents(m); const rects = Array.from(r.getClientRects()).filter(x => x.height > 0); const tops = []; rects.forEach(x => { if (!tops.some(t => Math.abs(t.top - x.top) < 2)) tops.push(x); }); tops.sort((a, b) => a.top - b.top); lines += tops.length; for (let i = 1; i < tops.length; i++) if (tops[i - 1].bottom > tops[i].top + 1) collisions++; });
+  // line boxes = the rects of the TEXT nodes of the visible Devanagari (.deva): the visually hidden .sr span (design-review
+  // MEDIUM 4) is a 1-px clipped box, and the block-level .pada spans (§27 item 1) would add whole-block rects, not lines
+  document.querySelectorAll('.mantra').forEach(m => { const root = m.querySelector('.deva') || m; const rects = []; const tw = document.createTreeWalker(root, NodeFilter.SHOW_TEXT); let tn; while ((tn = tw.nextNode())) { if (!tn.textContent.trim() || tn.parentElement.closest('.sr')) continue; const r = document.createRange(); r.selectNodeContents(tn); rects.push(...Array.from(r.getClientRects()).filter(x => x.height > 1)); } const tops = []; rects.forEach(x => { if (!tops.some(t => Math.abs(t.top - x.top) < 2)) tops.push(x); }); tops.sort((a, b) => a.top - b.top); lines += tops.length; for (let i = 1; i < tops.length; i++) if (tops[i - 1].bottom > tops[i].top + 1) collisions++; });
   return { overflow: sw > vw || beyond.length > 0, scrollWidth: sw, beyond: beyond.slice(0, 5), intersections: inter, ex, mantraLines: lines, svaraCollisions: collisions };
 }
 """
