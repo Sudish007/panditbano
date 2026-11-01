@@ -1,0 +1,56 @@
+/* Pandit Bano — design tokens (design.md §5.1; direction 2 Haldi–Chandan, hexes = decisions.md §6.2 = R3 §8.4).
+   This is the ONLY file allowed to contain colour literals (brief §7; a unit test greps every other file).
+   Light tokens are the first paint; dark only via the persisted toggle (brief §1). The `system` block repeats the
+   dark values verbatim inside the media query (no preprocessor); a unit test asserts the two blocks are identical. */
+:root, :root[data-theme="light"] {
+  --paper: #F8ECD4; --surface: #FFFBF3; --ink: #3A2812; --ink-2: #75603F;
+  --accent: #A65310; --accent-ink: #FFFFFF; --accent-tint: #FBE3B6; --accent-2: #AA381E;
+  --haldi: #F4C430; --on-haldi: #3A2812; --good: #355E3B; --hair: #DDCCA2; --hair-strong: #98873F;
+  --focus: #C46210; --shadow: 0 10px 30px rgba(58, 40, 18, 0.18);
+  color-scheme: light;
+}
+:root[data-theme="dark"] {
+  --paper: #171209; --surface: #231B10; --ink: #F5ECDC; --ink-2: #C0B097;
+  --accent: #E89A4A; --accent-ink: #171209; --accent-tint: #3E2E14; --accent-2: #E07A5E;
+  --haldi: #F4C430; --on-haldi: #171209; --good: #8FBF7F; --hair: #3D3222; --hair-strong: #875747;
+  --focus: #E89A4A; --shadow: 0 10px 30px rgba(0, 0, 0, 0.55);
+  color-scheme: dark;
+}
+@media (prefers-color-scheme: dark) {
+  :root[data-theme="system"] {
+  --paper: #171209; --surface: #231B10; --ink: #F5ECDC; --ink-2: #C0B097;
+  --accent: #E89A4A; --accent-ink: #171209; --accent-tint: #3E2E14; --accent-2: #E07A5E;
+  --haldi: #F4C430; --on-haldi: #171209; --good: #8FBF7F; --hair: #3D3222; --hair-strong: #875747;
+  --focus: #E89A4A; --shadow: 0 10px 30px rgba(0, 0, 0, 0.55);
+  color-scheme: dark;
+  }
+}
+@media print {
+  :root { --paper: #FFFFFF; --surface: #FFFFFF; --ink: #000000; --ink-2: #333333; --hair: #BBBBBB; --hair-strong: #777777; }
+}
+
+/* Type, space, radius, font stacks (design §5.1; moved out of the mocks' base.css — design-review NIT 7). */
+:root {
+  --font-body: "Noto Sans Devanagari", "Noto Sans", system-ui, sans-serif;
+  --font-latin: "Noto Sans", "Noto Sans Devanagari", system-ui, sans-serif;
+  --font-mantra: "Tiro Devanagari Sanskrit", "Noto Sans Devanagari", serif;
+  --font-display: "Noto Sans Devanagari", "Noto Sans", system-ui, sans-serif;
+  --display-weight: 600;
+  --fs-body: clamp(17px, 16.1px + 0.2304vw, 22px);
+  --fs-mantra: calc(var(--fs-body) * 1.35);
+  --fs-pothi: calc(var(--fs-body) * 1.5);
+  --fs-small: max(12px, calc(var(--fs-body) * 0.8));
+  --fs-meta: max(12px, calc(var(--fs-body) * 0.88));
+  --lh-body: 1.65;
+  --lh-mantra: 2;
+  --h1: calc(var(--fs-body) * 1.9); --h2: calc(var(--fs-body) * 1.4); --h3: calc(var(--fs-body) * 1.15);
+  --gutter: clamp(16px, 3.5vw, 96px);
+  --gap: clamp(16px, 2vw, 32px);
+  --pad-card: clamp(16px, 1.6vw, 28px);
+  --measure: 72ch;
+  --control-h: 44px;
+  --head-h: 64px;
+  --band-h: 18px;
+  --radius: 8px; --radius-s: 6px; --radius-ctl: 8px;
+  --mantra-align: start; --mantra-justify: flex-start;
+}

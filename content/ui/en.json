@@ -1,0 +1,226 @@
+{
+  "site": {
+    "name": "Pandit Bano",
+    "tagline": "Mantras, procedures and kathas for every family occasion",
+    "description": "The complete procedure for every North Indian family samskara, puja, vrat and katha — mantras with meanings, samagri checklists and the pandit's spoken line — in Hindi, English and Bhojpuri. Based on the Shukla Yajurveda (Madhyandina) tradition and the Paraskara Grihya Sutra; sources on every page.",
+    "lede": "A path to becoming a purohit for the learner, the meaning of every rite and a preparation list for the host, and a clean pothi on the phone for the pandit — all in one place, free."
+  },
+  "nav": {
+    "learn": "Learn",
+    "occasions": "Occasions",
+    "texts": "Mantras & texts",
+    "kathas": "Kathas",
+    "glossary": "Glossary",
+    "reference": "Reference",
+    "search": "Search",
+    "home": "Home",
+    "sections": "Sections",
+    "crumbs": "You are here"
+  },
+  "theme": {
+    "label": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "lang": {
+    "label": "Language",
+    "hi": {
+      "long": "हिंदी",
+      "short": "हिं"
+    },
+    "en": {
+      "long": "English",
+      "short": "EN"
+    },
+    "bho": {
+      "long": "भोजपुरी",
+      "short": "भो"
+    }
+  },
+  "voice": {
+    "listen": "Listen",
+    "stop": "Stop",
+    "note": "approximate machine voice — Vedic svara not reproduced",
+    "none": "This browser has no Hindi voice",
+    "speed": "Speed",
+    "repeat": "Repeat",
+    "speaking": "Speaking…",
+    "failed": "The voice could not play; try again",
+    "name": "Voice: {name} — approximate machine voice",
+    "aria": "Listen — verse {n}, machine voice"
+  },
+  "translit": {
+    "label": "Transliteration",
+    "iast": "IAST",
+    "easy": "Easy Roman",
+    "off": "Off"
+  },
+  "pothi": {
+    "label": "Pothi mode",
+    "save": "Save this occasion offline",
+    "saved": "Saved ✓",
+    "print": "Print",
+    "back": "Back to the occasion",
+    "size": "Text size"
+  },
+  "offline": {
+    "saved_list": "Saved offline",
+    "remove": "Remove",
+    "quota": "No space left — remove some saved occasions",
+    "failed": "Could not save ({n}/{total})",
+    "retry": "Retry",
+    "update": "A new version is available",
+    "reload": "Reload",
+    "offline_title": "You are offline",
+    "offline_body": "This page is not saved in this browser. Open it again when the connection returns, or pick one of the occasions saved below.",
+    "progress": "{n} / {total}"
+  },
+  "storage": {
+    "note": "stored in this browser only"
+  },
+  "svara": {
+    "on": "svara marks shown (Madhyandina Samhita)",
+    "off": "svara marks not shown"
+  },
+  "verse": {
+    "says": "The pandit says",
+    "action": "Action",
+    "meaning": "Meaning",
+    "explain": "Explanation",
+    "pada": "Word split",
+    "vinyog": "Use in ritual",
+    "note": "Note",
+    "source": "Source",
+    "variants": "Variant readings",
+    "phalashruti": "Phalashruti — the text's own statement",
+    "expand_all": "Expand all meanings",
+    "collapse_all": "Collapse all meanings",
+    "settings": "Reading settings",
+    "pager": "Mantras {from}–{to} · {total} in all",
+    "next": "Next page →",
+    "prev": "← Previous page"
+  },
+  "layer": {
+    "vedic": "Vedic",
+    "paddhati": "paddhati",
+    "lok": "local custom"
+  },
+  "occasion": {
+    "sections": {
+      "intro": "Overview",
+      "when": "When",
+      "roles": "Roles",
+      "samagri": "Samagri",
+      "vidhi": "Procedure",
+      "variants": "Regional variants",
+      "faq": "Questions",
+      "sources": "Sources"
+    },
+    "parts": "Parts",
+    "steps": "{n} steps"
+  },
+  "samagri": {
+    "clear": "Clear ticks",
+    "clear_confirm": "Clear every tick for this occasion?",
+    "print": "Print the list",
+    "must": "essential"
+  },
+  "quiz": {
+    "check": "Check",
+    "result": "{right}/{total} correct",
+    "unanswered": "No answer chosen",
+    "show_answers": "Show the answers",
+    "correct": "Correct",
+    "wrong": "Wrong"
+  },
+  "search": {
+    "label": "Search",
+    "placeholder": "Search occasions, mantras or terms…",
+    "none": "No results",
+    "count": "{n} results",
+    "load_failed": "The search index could not be loaded — offline?"
+  },
+  "foot": {
+    "about": "About this site",
+    "sources": "Sources",
+    "corrections": "Send a correction (GitHub)",
+    "privacy": "Privacy",
+    "sections": "Sections",
+    "more": "More",
+    "shubhvela": "Dates and muhurat on Shubhvela",
+    "note_hi": "The content of this site was written by its authors from the sources stated on each page; no scholarly review is claimed — corrections via GitHub.",
+    "note_translation": "This translation was written by the site's authors and is awaiting native review — corrections via GitHub.",
+    "privacy_line": "This site collects no data; no ads, no cookies.",
+    "licences": "Text CC BY-SA 4.0 · code MIT · mantra text public domain · fonts Tiro Devanagari Sanskrit and Noto Sans — SIL Open Font License 1.1",
+    "licences_label": "Licences",
+    "print_courtesy": "This sheet carries mantra text; please handle and recycle respectfully."
+  },
+  "honesty": {
+    "tradition": "tradition holds",
+    "no_dates": "This site does not compute dates.",
+    "health_note": "This describes a religious tradition, not medical advice; see a doctor for health matters.",
+    "grief_note": "This describes a religious tradition. For support in grief, talk to your family, friends or a counsellor.",
+    "astrology_note": "This site describes observances; it does not compute charts or diagnose doshas. See Shubhvela for panchang facts."
+  },
+  "ext": {
+    "label": "external link"
+  },
+  "skip": {
+    "label": "Skip to content"
+  },
+  "notfound": {
+    "title": "Page not found",
+    "body": "The link may be old or the address mistyped. Start again from the home page or the list of occasions."
+  },
+  "shubhvela": {
+    "panchang": "Today's panchang",
+    "festivals": "Vrats and festivals",
+    "muhurat": "Muhurat"
+  },
+  "counts": {
+    "occasions": "{n} occasions",
+    "mantras": "{n} mantras",
+    "verses": "{n} verses",
+    "terms": "{n} terms",
+    "chapters": "{n} chapters",
+    "kathas": "{n} kathas",
+    "lessons": "{n} lessons",
+    "levels": "{n} levels",
+    "groups": "{n} groups",
+    "pages": "{n} pages"
+  },
+  "home": {
+    "start_learning": "Start learning",
+    "see_occasions": "See the occasions",
+    "paths_heading": "Three paths",
+    "path_learn_title": "Learn — the Pandit Bano path",
+    "path_learn_body": "Levels 0 to 4: who a purohit is, pronunciation, the grammar of ritual, occasion playbooks, advanced rites. A self-check quiz with every lesson.",
+    "path_occasions_title": "Occasions",
+    "path_occasions_body": "Every family samskara, puja and vrat as a procedure — each step in order with its mantra, meaning, samagri list and the pandit's spoken line.",
+    "path_texts_title": "Mantras & texts",
+    "path_texts_body": "The ritual mantras of the Shukla Yajurveda, Rudrashtadhyayi, Purusha Sukta, Shri Sukta, Durga Saptashati, Sundarkand — in Devanagari and Roman, with word split and meaning.",
+    "more": "More →",
+    "groups_heading": "Occasions — groups",
+    "all_occasions": "All occasions →",
+    "today_heading": "Today's tithi and muhurat",
+    "today_body": "See today's panchang, vrats, festivals and marriage muhurat on Shubhvela — in Hindi, English and Bhojpuri.",
+    "how_heading": "How this site was written",
+    "how_body": "Every mantra's source (Sanskrit Wikisource, CC BY-SA 4.0) and every procedure's texts are stated on the page. Every statement about results is given as what “tradition holds”, never as fact. The machine voice is approximate — no Vedic svara. No ads, no accounts, no data.",
+    "how_link": "How it was verified →",
+    "sources_link": "Sources →",
+    "featured_heading": "Start here"
+  },
+  "groups": {
+    "foundations": "Foundations — the grammar of ritual",
+    "daily": "Daily rites",
+    "birth": "Birth and childhood",
+    "marriage": "Marriage",
+    "home": "Home and property",
+    "death": "Death and ancestors",
+    "kathas": "Kathas",
+    "vrats": "Vrats",
+    "festivals": "Festivals",
+    "shanti": "Shanti and special pujas"
+  }
+}

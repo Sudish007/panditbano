@@ -1,0 +1,783 @@
+{
+  "_meta": {
+    "file": "forbidden-hi-in-bho.json",
+    "written": "2026-10-31",
+    "purpose": "Content-gate scan for Hindi forms inside Bhojpuri text (brief 6.4). hard = fail the gate; soft = warn and list for review; allow = tokens that look Hindi but are valid Bhojpuri and must NOT be flagged; patterns = multi-word regexes.",
+    "tokenisation": "Split on whitespace and punctuation, strip । ? ! quotes; match whole tokens only; the scan skips Sanskrit mantra fields (devanagari) and quoted Hindi inside bho strings is not expected on this site.",
+    "sources": [
+      "brief.md 6.4 (owner list: है हैं और या नहीं यह वह अपना; का/की/के लिए → के/खातिर)",
+      "Shubhvela docs/CONTENT-TRANSLATION.md section 3 step 4 (no Hindi आप / है / हैं / करें in Bhojpuri; no Maithili अछि / छै / अहाँ)",
+      "en.wikipedia.org/wiki/Bhojpuri_grammar (pronoun tables; उनका/इनका/उनकर/इनकर are valid Bhojpuri formal obliques)",
+      "en.wikipedia.org/wiki/Bhojpuri_language (politeness tiers; Bhojpuri has no ergative ने)"
+    ]
+  },
+  "hard": [
+    {
+      "hi": "है",
+      "bho": "बा / होला",
+      "note": "copula; owner list (brief 6.4)"
+    },
+    {
+      "hi": "हैं",
+      "bho": "बाड़न / बाड़ी / बा",
+      "note": "owner list"
+    },
+    {
+      "hi": "और",
+      "bho": "आ / अउर",
+      "note": "owner list; अउर is acceptable Bhojpuri (Wikipedia phrase table) but Shubhvela uses आ"
+    },
+    {
+      "hi": "या",
+      "bho": "भा / चाहे",
+      "note": "owner list"
+    },
+    {
+      "hi": "नहीं",
+      "bho": "ना / नइखे",
+      "note": "owner list"
+    },
+    {
+      "hi": "यह",
+      "bho": "ई",
+      "note": "owner list"
+    },
+    {
+      "hi": "वह",
+      "bho": "ऊ",
+      "note": "owner list"
+    },
+    {
+      "hi": "अपना",
+      "bho": "आपन",
+      "note": "owner list"
+    },
+    {
+      "hi": "अपनी",
+      "bho": "आपन",
+      "note": "owner list (gender form)"
+    },
+    {
+      "hi": "अपने",
+      "bho": "आपन",
+      "note": "owner list (oblique form); note अपने is a valid Bhojpuri honorific pronoun (\"you\", Wikipedia grammar) — the site register uses रउआ, so flag"
+    },
+    {
+      "hi": "आप",
+      "bho": "रउआ",
+      "note": "Shubhvela gate (CONTENT-TRANSLATION 3.4)"
+    },
+    {
+      "hi": "आपका",
+      "bho": "राउर",
+      "note": "possessive of आप"
+    },
+    {
+      "hi": "आपकी",
+      "bho": "राउर",
+      "note": "possessive of आप"
+    },
+    {
+      "hi": "आपके",
+      "bho": "राउर",
+      "note": "possessive of आप"
+    },
+    {
+      "hi": "आपको",
+      "bho": "रउआ के",
+      "note": "dative of आप"
+    },
+    {
+      "hi": "करें",
+      "bho": "करीं",
+      "note": "Shubhvela gate; Hindi polite imperative"
+    },
+    {
+      "hi": "की",
+      "bho": "के",
+      "note": "Hindi feminine genitive; Bhojpuri has one genitive के"
+    },
+    {
+      "hi": "था",
+      "bho": "रहे / रहल",
+      "note": "Hindi past copula"
+    },
+    {
+      "hi": "थी",
+      "bho": "रहे / रहली",
+      "note": "Hindi past copula"
+    },
+    {
+      "hi": "थे",
+      "bho": "रहलें / रहे",
+      "note": "Hindi past copula"
+    },
+    {
+      "hi": "हूँ",
+      "bho": "बानी / हईं",
+      "note": "Hindi 1st person copula"
+    },
+    {
+      "hi": "मैं",
+      "bho": "हम",
+      "note": "Hindi 1st person pronoun"
+    },
+    {
+      "hi": "मुझे",
+      "bho": "हमरा",
+      "note": ""
+    },
+    {
+      "hi": "मेरा",
+      "bho": "हमार",
+      "note": ""
+    },
+    {
+      "hi": "मेरी",
+      "bho": "हमार",
+      "note": ""
+    },
+    {
+      "hi": "मेरे",
+      "bho": "हमार",
+      "note": ""
+    },
+    {
+      "hi": "हमें",
+      "bho": "हमरा / हमनी के",
+      "note": "Hindi dative"
+    },
+    {
+      "hi": "तुम",
+      "bho": "तू / रउआ",
+      "note": "the site never addresses the reader as तुम"
+    },
+    {
+      "hi": "तुम्हारा",
+      "bho": "तोहार / राउर",
+      "note": ""
+    },
+    {
+      "hi": "तुम्हें",
+      "bho": "तोहरा",
+      "note": ""
+    },
+    {
+      "hi": "क्या",
+      "bho": "का",
+      "note": "interrogative"
+    },
+    {
+      "hi": "क्यों",
+      "bho": "काहे",
+      "note": "Shubhvela: काहे?"
+    },
+    {
+      "hi": "कैसे",
+      "bho": "कइसे",
+      "note": ""
+    },
+    {
+      "hi": "कोई",
+      "bho": "कवनो / केहू",
+      "note": ""
+    },
+    {
+      "hi": "किसी",
+      "bho": "कवनो / केहू",
+      "note": ""
+    },
+    {
+      "hi": "जो",
+      "bho": "जे / जवन",
+      "note": ""
+    },
+    {
+      "hi": "इसका",
+      "bho": "एकर",
+      "note": ""
+    },
+    {
+      "hi": "इसकी",
+      "bho": "एकर",
+      "note": ""
+    },
+    {
+      "hi": "इसके",
+      "bho": "एकरा",
+      "note": ""
+    },
+    {
+      "hi": "इसमें",
+      "bho": "एह में",
+      "note": ""
+    },
+    {
+      "hi": "उसका",
+      "bho": "ओकर",
+      "note": ""
+    },
+    {
+      "hi": "उसकी",
+      "bho": "ओकर",
+      "note": ""
+    },
+    {
+      "hi": "उसके",
+      "bho": "ओकरा",
+      "note": ""
+    },
+    {
+      "hi": "उसमें",
+      "bho": "ओह में",
+      "note": ""
+    },
+    {
+      "hi": "चाहिए",
+      "bho": "चाहीं",
+      "note": "Shubhvela: होखे के चाहीं"
+    },
+    {
+      "hi": "सकता",
+      "bho": "सकेला",
+      "note": ""
+    },
+    {
+      "hi": "सकती",
+      "bho": "सकेली / सकेला",
+      "note": ""
+    },
+    {
+      "hi": "सकते",
+      "bho": "सकेलन",
+      "note": ""
+    },
+    {
+      "hi": "होता",
+      "bho": "होला",
+      "note": ""
+    },
+    {
+      "hi": "होती",
+      "bho": "होले / होला",
+      "note": ""
+    },
+    {
+      "hi": "होते",
+      "bho": "होलन",
+      "note": ""
+    },
+    {
+      "hi": "जाता",
+      "bho": "जाला",
+      "note": ""
+    },
+    {
+      "hi": "जाती",
+      "bho": "जाले / जाला",
+      "note": ""
+    },
+    {
+      "hi": "जाते",
+      "bho": "जालन",
+      "note": ""
+    },
+    {
+      "hi": "करता",
+      "bho": "करेला",
+      "note": ""
+    },
+    {
+      "hi": "करती",
+      "bho": "करेली / करेला",
+      "note": ""
+    },
+    {
+      "hi": "करते",
+      "bho": "करेलन",
+      "note": ""
+    },
+    {
+      "hi": "किया",
+      "bho": "कइल",
+      "note": ""
+    },
+    {
+      "hi": "किये",
+      "bho": "कइल",
+      "note": ""
+    },
+    {
+      "hi": "किए",
+      "bho": "कइल",
+      "note": ""
+    },
+    {
+      "hi": "दिया",
+      "bho": "दिहल",
+      "note": ""
+    },
+    {
+      "hi": "लिया",
+      "bho": "लिहल",
+      "note": ""
+    },
+    {
+      "hi": "हुआ",
+      "bho": "भइल",
+      "note": ""
+    },
+    {
+      "hi": "हुई",
+      "bho": "भइल",
+      "note": ""
+    },
+    {
+      "hi": "हुए",
+      "bho": "भइल",
+      "note": ""
+    },
+    {
+      "hi": "रहा",
+      "bho": "रहल",
+      "note": ""
+    },
+    {
+      "hi": "रही",
+      "bho": "रहल",
+      "note": ""
+    },
+    {
+      "hi": "गई",
+      "bho": "गइल",
+      "note": ""
+    },
+    {
+      "hi": "गये",
+      "bho": "गइल",
+      "note": ""
+    },
+    {
+      "hi": "गए",
+      "bho": "गइल",
+      "note": ""
+    },
+    {
+      "hi": "अछि",
+      "bho": "—",
+      "note": "Maithili copula (Shubhvela gate: no Maithili forms)"
+    },
+    {
+      "hi": "छै",
+      "bho": "—",
+      "note": "Maithili copula"
+    },
+    {
+      "hi": "अहाँ",
+      "bho": "रउआ",
+      "note": "Maithili pronoun"
+    }
+  ],
+  "soft": [
+    {
+      "hi": "का",
+      "bho": "के",
+      "note": "Hindi genitive; ALLOWED as the Bhojpuri interrogative \"what\" (का करीं, का हाल बा). Warn, review by hand."
+    },
+    {
+      "hi": "ने",
+      "bho": "—",
+      "note": "Hindi ergative marker; Bhojpuri has none (Wikipedia: ne-hatao movement). Warn: usually an error."
+    },
+    {
+      "hi": "गया",
+      "bho": "गइल",
+      "note": "Hindi past participle; ALLOWED as the city Gaya (गया पिंडदान, गया जी). Warn."
+    },
+    {
+      "hi": "लेकिन",
+      "bho": "बाकिर",
+      "note": "Shubhvela prefers बाकिर; bh.wikipedia also uses लेकिन. Warn only."
+    },
+    {
+      "hi": "इसलिए",
+      "bho": "एह से / एही से",
+      "note": ""
+    },
+    {
+      "hi": "फिर",
+      "bho": "फेर",
+      "note": "Shubhvela: फेर"
+    },
+    {
+      "hi": "अभी",
+      "bho": "अबहीं",
+      "note": ""
+    },
+    {
+      "hi": "कल",
+      "bho": "काल्ह",
+      "note": ""
+    },
+    {
+      "hi": "साथ",
+      "bho": "संगे / साथे",
+      "note": "साथे is Bhojpuri; bare साथ is Hindi-leaning"
+    },
+    {
+      "hi": "ज़्यादा",
+      "bho": "बेसी / ढेर",
+      "note": "also violates the no-nukta rule"
+    },
+    {
+      "hi": "ज्यादा",
+      "bho": "बेसी / ढेर",
+      "note": ""
+    },
+    {
+      "hi": "बहुत",
+      "bho": "बहुत / ढेर",
+      "note": "बहुत exists in Bhojpuri (bh.wikipedia); warn only when density is high"
+    },
+    {
+      "hi": "अच्छा",
+      "bho": "नीक / बढ़िया",
+      "note": ""
+    },
+    {
+      "hi": "अच्छी",
+      "bho": "नीक / बढ़िया",
+      "note": ""
+    },
+    {
+      "hi": "अच्छे",
+      "bho": "नीक / बढ़िया",
+      "note": ""
+    },
+    {
+      "hi": "पहले",
+      "bho": "पहिले",
+      "note": ""
+    },
+    {
+      "hi": "पहला",
+      "bho": "पहिला",
+      "note": ""
+    },
+    {
+      "hi": "पहली",
+      "bho": "पहिला",
+      "note": ""
+    },
+    {
+      "hi": "दूसरा",
+      "bho": "दूसरा / दोसरा",
+      "note": "both occur in Bhojpuri; warn only"
+    },
+    {
+      "hi": "नया",
+      "bho": "नया / नवका",
+      "note": "नया is used in Shubhvela bho; warn only"
+    },
+    {
+      "hi": "यहाँ",
+      "bho": "इहाँ / एहिजा",
+      "note": ""
+    },
+    {
+      "hi": "वहाँ",
+      "bho": "उहाँ / ओहिजा",
+      "note": ""
+    },
+    {
+      "hi": "इन",
+      "bho": "इनहन / ई लोग",
+      "note": "इन is also a valid Bhojpuri formal oblique (Wikipedia grammar); warn only"
+    },
+    {
+      "hi": "उन",
+      "bho": "उनहन / ऊ लोग",
+      "note": "उन is also a valid Bhojpuri formal oblique; warn only"
+    },
+    {
+      "hi": "विवाह",
+      "bho": "बियाह",
+      "note": "Shubhvela: बियाह in UI; विवाह acceptable only when naming a Sanskrit text or sutra chapter (विवाह प्रकरण)"
+    },
+    {
+      "hi": "शादी",
+      "bho": "बियाह",
+      "note": ""
+    },
+    {
+      "hi": "व्रत",
+      "bho": "बरत",
+      "note": "Shubhvela: बरत as a common noun; व्रत stays inside Sanskrit names (जीवित्पुत्रिका व्रत) only"
+    },
+    {
+      "hi": "जन्म",
+      "bho": "जनम",
+      "note": "Shubhvela: जनम"
+    },
+    {
+      "hi": "नाम",
+      "bho": "नाँव",
+      "note": "Shubhvela: नाँव (नाम acceptable in compounds like नामकरण)"
+    },
+    {
+      "hi": "दक्षिण",
+      "bho": "दक्खिन",
+      "note": "Shubhvela: दक्खिन (दक्षिणा the fee is different and allowed)"
+    },
+    {
+      "hi": "पूर्व",
+      "bho": "पूरब",
+      "note": "direction only; पूर्व- as a prefix (पूर्वा फाल्गुनी) is allowed"
+    },
+    {
+      "hi": "पश्चिम",
+      "bho": "पच्छिम",
+      "note": ""
+    },
+    {
+      "hi": "रविवार",
+      "bho": "एतवार",
+      "note": "Shubhvela engine weekday table"
+    },
+    {
+      "hi": "सोमवार",
+      "bho": "सोमार",
+      "note": ""
+    },
+    {
+      "hi": "मंगलवार",
+      "bho": "मंगर",
+      "note": ""
+    },
+    {
+      "hi": "बुधवार",
+      "bho": "बुध",
+      "note": ""
+    },
+    {
+      "hi": "गुरुवार",
+      "bho": "बियफे",
+      "note": ""
+    },
+    {
+      "hi": "शुक्रवार",
+      "bho": "सुक",
+      "note": ""
+    },
+    {
+      "hi": "शनिवार",
+      "bho": "सनिचर",
+      "note": ""
+    },
+    {
+      "hi": "कार्तिक",
+      "bho": "कातिक",
+      "note": "Shubhvela month table"
+    },
+    {
+      "hi": "श्रावण",
+      "bho": "सावन",
+      "note": ""
+    },
+    {
+      "hi": "भाद्रपद",
+      "bho": "भादो",
+      "note": ""
+    },
+    {
+      "hi": "आश्विन",
+      "bho": "आसिन",
+      "note": ""
+    },
+    {
+      "hi": "चैत्र",
+      "bho": "चइत",
+      "note": ""
+    },
+    {
+      "hi": "वैशाख",
+      "bho": "बइसाख",
+      "note": ""
+    },
+    {
+      "hi": "ज्येष्ठ",
+      "bho": "जेठ",
+      "note": "month only; ज्येष्ठा nakshatra keeps its name"
+    },
+    {
+      "hi": "आषाढ़",
+      "bho": "असाढ़",
+      "note": ""
+    },
+    {
+      "hi": "मार्गशीर्ष",
+      "bho": "अगहन",
+      "note": ""
+    },
+    {
+      "hi": "पौष",
+      "bho": "पूस",
+      "note": ""
+    },
+    {
+      "hi": "फाल्गुन",
+      "bho": "फागुन",
+      "note": ""
+    },
+    {
+      "hi": "परिणाम",
+      "bho": "परिनाम",
+      "note": "ण→न in everyday words (Shubhvela UI)"
+    },
+    {
+      "hi": "कारण",
+      "bho": "कारन",
+      "note": ""
+    },
+    {
+      "hi": "चरण",
+      "bho": "चरन",
+      "note": "the step; पाद/चरण in a mantra gloss stays"
+    },
+    {
+      "hi": "उदाहरण",
+      "bho": "उदाहरन",
+      "note": ""
+    },
+    {
+      "hi": "प्रणाम",
+      "bho": "परनाम",
+      "note": "Wikipedia phrase table: परनाम"
+    }
+  ],
+  "allow": [
+    {
+      "token": "का",
+      "why": "Bhojpuri interrogative \"what\" (Shubhvela: का करीं)"
+    },
+    {
+      "token": "के",
+      "why": "the Bhojpuri genitive / dative"
+    },
+    {
+      "token": "उनका",
+      "why": "Bhojpuri formal oblique (Wikipedia grammar table)"
+    },
+    {
+      "token": "इनका",
+      "why": "Bhojpuri formal oblique"
+    },
+    {
+      "token": "उनकर",
+      "why": "Bhojpuri formal genitive"
+    },
+    {
+      "token": "इनकर",
+      "why": "Bhojpuri formal genitive"
+    },
+    {
+      "token": "रहे",
+      "why": "Bhojpuri past (शुरू भइल रहे) and subjunctive"
+    },
+    {
+      "token": "रहल",
+      "why": "Bhojpuri participle"
+    },
+    {
+      "token": "हो",
+      "why": "verb stem in हो गइल / हो सकेला"
+    },
+    {
+      "token": "में",
+      "why": "shared locative"
+    },
+    {
+      "token": "से",
+      "why": "shared ablative / instrumental"
+    },
+    {
+      "token": "पर",
+      "why": "shared locative"
+    },
+    {
+      "token": "तक",
+      "why": "used in Bhojpuri alongside ले"
+    },
+    {
+      "token": "कुछ",
+      "why": "Shubhvela bho uses कुछ / कुछुओ"
+    },
+    {
+      "token": "जब",
+      "why": "shared"
+    },
+    {
+      "token": "तब",
+      "why": "shared"
+    },
+    {
+      "token": "अगर",
+      "why": "shared"
+    },
+    {
+      "token": "गया",
+      "why": "the city Gaya when followed by पिंडदान / जी / श्राद्ध (soft scan still lists it)"
+    }
+  ],
+  "latinAllow": [
+    "GitHub",
+    "IAST",
+    "PDF",
+    "QR",
+    "PWA",
+    "Shubhvela",
+    "URL",
+    "ISO",
+    "CC",
+    "BY",
+    "SA",
+    "OFL"
+  ],
+  "patterns": [
+    {
+      "regex": "\\bके लिए\\b",
+      "bho": "खातिर",
+      "note": "owner list"
+    },
+    {
+      "regex": "\\bकी ओर\\b",
+      "bho": "के ओर",
+      "note": ""
+    },
+    {
+      "regex": "\\bजाता है\\b|\\bजाती है\\b|\\bजाते हैं\\b",
+      "bho": "जाला / जालन",
+      "note": "passive habitual"
+    },
+    {
+      "regex": "\\bहो गया\\b|\\bहो गई\\b|\\bहो गए\\b",
+      "bho": "हो गइल",
+      "note": ""
+    },
+    {
+      "regex": "\\bमाना जाता है\\b",
+      "bho": "मानल जाला",
+      "note": "honesty marker (brief 1): परंपरा में मानल जाला"
+    },
+    {
+      "regex": "\\bकहा जाता है\\b",
+      "bho": "कहल जाला",
+      "note": ""
+    },
+    {
+      "regex": "[\\u0958-\\u095A\\u095B\\u095E]|[\\u0915\\u0916\\u0917\\u091C\\u092B]\\u093C",
+      "bho": "drop the nukta (जरूरत, तारीख, साफ)",
+      "note": "Bhojpuri nukta only in ड़ / ढ़ (brief 6.4; Shubhvela UI)"
+    }
+  ]
+}
