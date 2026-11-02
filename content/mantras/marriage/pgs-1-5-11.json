@@ -1,0 +1,165 @@
+{
+  "id": "pgs-1-5-11",
+  "kind": "vedic",
+  "text": "paraskara-grihya-sutra",
+  "locator": "PGS 1.5.11 (the four wedding ajya oblations: अग्निरैतु प्रथमो, इमामग्निस्त्रायतां, स्वस्ति नो अग्ने, सुगन्नु पन्थाम्); vivah homa — ajya-homa",
+  "title": {
+    "hi": "वैवाहिक आज्याहुति — अग्निरैतु प्रथमो देवतानाम्",
+    "en": "The four wedding oblations — agnir aitu prathamo devatanam",
+    "bho": "बियाह के चार आज्याहुति — अग्निरैतु प्रथमो"
+  },
+  "devanagari": "अग्निरैतु प्रथमो देवतानां सोऽस्यै प्रजां मुञ्चतु मृत्युपाशात् । तदयं राजा वरुणोऽनुमन्यतां यथेयं स्त्री पौत्रमघन्नरोदात्स्वाहा ॥ इमामग्निस्त्रायताङ्गार्हपत्यः प्रजामस्यै नयतु दीर्घमायुः । अशून्योपस्था जीवतामस्तु माता पौत्रमानन्दमभिविबुध्यतामियं स्वाहा ॥ स्वस्ति नो अग्ने दिव आ पृथिव्या विश्वानि धेह्ययथा यजत्र । यदस्यां महि दिवि जातं प्रशस्तं तदस्मासु द्रविणं धेहि चित्रं स्वाहा ॥ सुगन्नु पन्थां प्रदिशन्न एहि ज्योतिष्मध्ये ह्यजरन्न आयुः । अपैतु मृत्युरमृतन्न आगाद्वैवस्वतो नो अभयं कृणोतु स्वाहा ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "अग्निः ऐतु प्रथमः देवतानाम्",
+      "gloss": {
+        "hi": "देवों में पहला अग्नि आए",
+        "en": "may Agni come, first of the gods",
+        "bho": "देव में पहिला अग्नि आवसु"
+      }
+    },
+    {
+      "sa": "सः अस्यै प्रजां मुञ्चतु मृत्युपाशात्",
+      "gloss": {
+        "hi": "वह इस (वधू) की संतान को मृत्यु के पाश से छुड़ाए",
+        "en": "may he free her offspring from the snare of death",
+        "bho": "ऊ एह (कनिया) के संतान के मृत्यु के फाँस से छोड़ावसु"
+      }
+    },
+    {
+      "sa": "तत् अयं राजा वरुणः अनुमन्यताम्",
+      "gloss": {
+        "hi": "उसे राजा वरुण अनुमति दें",
+        "en": "may King Varuna grant that",
+        "bho": "ओकरा राजा वरुण अनुमति देसु"
+      }
+    },
+    {
+      "sa": "यथा इयं स्त्री पौत्रम् अघं न रोदात् स्वाहा",
+      "gloss": {
+        "hi": "कि यह स्त्री पुत्र-पौत्र के दुख पर कभी न रोए — स्वाहा",
+        "en": "that this woman may never weep over misfortune to her sons — svaha",
+        "bho": "कि ई मेहरारू बेटा-पोता के दुख पर कबो ना रोवे — स्वाहा"
+      }
+    },
+    {
+      "sa": "इमाम् अग्निः त्रायताम् गार्हपत्यः",
+      "gloss": {
+        "hi": "गार्हपत्य अग्नि इसकी रक्षा करे",
+        "en": "may the Garhapatya fire protect her",
+        "bho": "गार्हपत्य अग्नि एकर रक्षा करसु"
+      }
+    },
+    {
+      "sa": "प्रजाम् अस्यै नयतु दीर्घम् आयुः",
+      "gloss": {
+        "hi": "इसकी संतान को दीर्घ आयु तक ले जाए",
+        "en": "may he lead her offspring to long life",
+        "bho": "एकर संतान के लमहर उमिर तक ले जासु"
+      }
+    },
+    {
+      "sa": "अशून्योपस्था जीवताम् अस्तु माता",
+      "gloss": {
+        "hi": "इसकी गोद सूनी न हो, जीवितों की माता हो",
+        "en": "may her lap never be empty, may she be a mother of living children",
+        "bho": "एकर कोरा सून ना होखे, जिअत लरिका के माई होखे"
+      }
+    },
+    {
+      "sa": "पौत्रम् आनन्दम् अभि वि बुध्यताम् इयं स्वाहा",
+      "gloss": {
+        "hi": "यह पुत्र-पौत्रों के आनंद को देखे — स्वाहा",
+        "en": "may she wake to the joy of sons and grandsons — svaha",
+        "bho": "ई बेटा-पोता के आनंद देखे — स्वाहा"
+      }
+    },
+    {
+      "sa": "स्वस्ति नः अग्ने दिवः आ पृथिव्याः विश्वानि धेहि",
+      "gloss": {
+        "hi": "हे अग्नि, द्यौ और पृथिवी से हमें सब कल्याण दे",
+        "en": "O Agni, from heaven and earth give us all well-being",
+        "bho": "हे अग्नि, आकास आ धरती से हमनी के सब कल्यान दीं"
+      }
+    },
+    {
+      "sa": "यत् अस्यां महि दिवि जातं प्रशस्तं तत् अस्मासु द्रविणं धेहि चित्रं स्वाहा",
+      "gloss": {
+        "hi": "जो इस पृथिवी और द्यौ में उत्तम और प्रशंसित है, वह अद्भुत धन हमें दे — स्वाहा",
+        "en": "the great and praised thing born on earth and in heaven — that wondrous wealth give us — svaha",
+        "bho": "जे एह धरती आ आकास में उत्तम आ सराहल बा, ऊ अचरज धन हमनी के दीं — स्वाहा"
+      }
+    },
+    {
+      "sa": "सुगं नु पन्थां प्रदिशन् नः एहि",
+      "gloss": {
+        "hi": "हमें सुगम मार्ग दिखाते हुए आ",
+        "en": "come, showing us the easy path",
+        "bho": "हमनी के सुगम रस्ता देखावत आईं"
+      }
+    },
+    {
+      "sa": "ज्योतिष्मत् धेहि हि अजरं नः आयुः",
+      "gloss": {
+        "hi": "हमें ज्योतिर्मय, अजर आयु दे",
+        "en": "give us a life full of light, unaging",
+        "bho": "हमनी के अँजोर वाला, ना बुढ़ाए वाला उमिर दीं"
+      }
+    },
+    {
+      "sa": "अप एतु मृत्युः अमृतं नः आगात्",
+      "gloss": {
+        "hi": "मृत्यु दूर जाए, अमृत हमारे पास आए",
+        "en": "may death go away, may immortality come to us",
+        "bho": "मृत्यु दूर जाए, अमरित हमनी के लगे आवे"
+      }
+    },
+    {
+      "sa": "वैवस्वतः नः अभयं कृणोतु स्वाहा",
+      "gloss": {
+        "hi": "वैवस्वत (यम) हमें अभय करे — स्वाहा",
+        "en": "may Vaivasvata (Yama) make us free from fear — svaha",
+        "bho": "वैवस्वत (यम) हमनी के अभय करसु — स्वाहा"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "देवों में पहला अग्नि आए और इस वधू की संतान को मृत्यु-पाश से छुड़ाए; राजा वरुण अनुमति दें कि यह स्त्री संतान के शोक में कभी न रोए — स्वाहा। गार्हपत्य अग्नि इसकी रक्षा करे, इसकी संतान को दीर्घ आयु दे; इसकी गोद सूनी न हो, यह जीवित संतान की माता हो और पुत्र-पौत्रों का आनंद देखे — स्वाहा। हे अग्नि, द्यौ और पृथिवी से हमें सब कल्याण दे; जो उत्तम और प्रशंसित है, वह अद्भुत धन हमें दे — स्वाहा। सुगम मार्ग दिखाते हुए आ, ज्योतिर्मय अजर आयु दे; मृत्यु दूर जाए, अमृत हमारे पास आए; यम हमें अभय करे — स्वाहा।",
+    "en": "May Agni, first of the gods, come and free this bride's offspring from the snare of death; may King Varuna grant that this woman never weep over misfortune to her children — svaha. May the Garhapatya fire protect her and lead her offspring to long life; may her lap never be empty, may she be a mother of living children and wake to the joy of sons and grandsons — svaha. O Agni, from heaven and earth give us all well-being; the great and praised thing — that wondrous wealth give us — svaha. Come, showing us the easy path, give us a life full of light and unaging; may death depart and immortality come to us; may Yama make us free from fear — svaha.",
+    "bho": "देव में पहिला अग्नि आवसु आ एह कनिया के संतान के मृत्यु-फाँस से छोड़ावसु; राजा वरुण अनुमति देसु कि ई मेहरारू संतान के शोक में कबो ना रोवे — स्वाहा। गार्हपत्य अग्नि एकर रक्षा करसु, एकर संतान के लमहर उमिर देसु; एकर कोरा सून ना होखे, ई जिअत संतान के माई होखे आ बेटा-पोता के आनंद देखे — स्वाहा। हे अग्नि, आकास आ धरती से हमनी के सब कल्यान दीं; जे उत्तम आ सराहल बा, ऊ अचरज धन हमनी के दीं — स्वाहा। सुगम रस्ता देखावत आईं, अँजोर वाला ना बुढ़ाए वाला उमिर दीं; मृत्यु दूर जाए, अमरित हमनी के लगे आवे; यम हमनी के अभय करसु — स्वाहा।"
+  },
+  "explanation": {
+    "hi": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.11 विवाह-होम की अपनी चार आहुतियाँ देता है — बाकी होम (आघार, आज्यभाग, महाव्याहृति, प्रायश्चित्त, स्विष्टकृत्) हर संस्कार में समान हैं (1.5.3–4), पर ये चार केवल विवाह की हैं। चारों की प्रार्थना एक है: वधू की संतान जीवित रहे, उसकी गोद सूनी न हो, घर में अमृत आए और मृत्यु दूर रहे। माध्यंदिन पोथी इन्हें \"आज्य-होम\" की पाँच आहुतियों में रखती है — पाँचवीं \"परं मृत्यो\" (1.5.12 का विकल्प) अंतःपट के पीछे होती है। ये आहुतियाँ राष्ट्रभृत्-जया-अभ्यातान के बाद और लाजा-होम से पहले हैं। क्रम [विवाह](/occasions/vivah/) पृष्ठ पर, हवन का ढाँचा [हवन विधि](/occasions/havan-vidhi/) पर।",
+    "en": "[Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.11 gives the wedding homa its own four oblations — the rest of the homa (aghara, ajyabhaga, mahavyahriti, expiations, svishtakrit) is common to every samskara (1.5.3–4), but these four belong to the wedding alone. Their prayer is one: may the bride's children live, may her lap never be empty, may immortality enter the house and death keep away. The Madhyandina pothi places them among the five oblations of the \"ajya-homa\" — the fifth, \"param mrityo\" (the option of 1.5.12), is offered behind the curtain. They come after the rashtrabhrit, jaya and abhyatana and before the laja-homa. The order is on the [wedding](/occasions/vivah/) page, the havan frame on [havan vidhi](/occasions/havan-vidhi/).",
+    "bho": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.11 बियाह-होम के आपन चार आहुति देला — बाकी होम (आघार, आज्यभाग, महाव्याहृति, प्रायश्चित्त, स्विष्टकृत्) हर संस्कार में एके बा (1.5.3–4), बाकिर ई चार खाली बियाह के बा। चारो के प्रार्थना एक बा: कनिया के संतान जिअत रहे, ओकर कोरा सून ना होखे, घर में अमरित आवे आ मृत्यु दूर रहे। माध्यंदिन पोथी एकरा \"आज्य-होम\" के पाँच आहुति में राखेला — पाँचवाँ \"परं मृत्यो\" (1.5.12 के विकल्प) अंतःपट के पाछे होला। ई आहुति राष्ट्रभृत्-जया-अभ्यातान के बाद आ लाजा-होम से पहिले बा। क्रम [बियाह](/occasions/vivah/) पन्ना पर, हवन के ढाँचा [हवन विधि](/occasions/havan-vidhi/) पर।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-pgs",
+    "retrieved": "2026-11-01",
+    "modified": "word spacing restored where the Wikisource text runs words together (स्वस्तिनो → स्वस्ति नो, आपृथिव्या → आ पृथिव्या, विश्वानिधेह्ययथा → विश्वानि धेह्ययथा, महिदिवि → महि दिवि); the four formulas separated by ॥; closing इति removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-sbe29",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Paraskara Grihya Sutra (ancient Sanskrit, public domain); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "havan",
+    "ajya-homa"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

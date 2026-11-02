@@ -1,0 +1,93 @@
+{
+  "id": "pgs-1-4-14",
+  "kind": "vedic",
+  "text": "paraskara-grihya-sutra",
+  "locator": "PGS 1.4.14 (samanjana — the couple anointed / joined); vivah paddhati: sammukhikaran — the bride and groom look at each other",
+  "title": {
+    "hi": "संमुखीकरण — दो हृदय एक हों",
+    "en": "Facing each other — samanjantu vishvedevah",
+    "bho": "सम्मुखीकरण — दू हिरदय एक होखे"
+  },
+  "devanagari": "समञ्जन्तु विश्वेदेवाः समापो हृदयानि नौ । संमातरिश्वा संधाता समुदेष्ट्री दधातु नौ ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "समञ्जन्तु विश्वेदेवाः",
+      "gloss": {
+        "hi": "विश्वेदेव (हमें) एक करें",
+        "en": "may all the gods join (us) together",
+        "bho": "विश्वेदेव (हमनी के) एक करसु"
+      }
+    },
+    {
+      "sa": "सम् आपः हृदयानि नौ",
+      "gloss": {
+        "hi": "जल हम दोनों के हृदयों को एक करे",
+        "en": "may the waters join our two hearts",
+        "bho": "जल हम दुनो के हिरदय के एक करे"
+      }
+    },
+    {
+      "sa": "सं मातरिश्वा",
+      "gloss": {
+        "hi": "मातरिश्वा (वायु) एक करे",
+        "en": "may Matarishvan (the wind) join",
+        "bho": "मातरिश्वा (बयार) एक करे"
+      }
+    },
+    {
+      "sa": "सं धाता",
+      "gloss": {
+        "hi": "धाता (विधाता) एक करे",
+        "en": "may Dhatar (the ordainer) join",
+        "bho": "धाता (विधाता) एक करे"
+      }
+    },
+    {
+      "sa": "सम् उ देष्ट्री दधातु नौ",
+      "gloss": {
+        "hi": "और देष्ट्री (उपदेश देने वाली देवी) हम दोनों को जोड़े",
+        "en": "and may Deshtri (the goddess who shows the way) hold us two together",
+        "bho": "आ देष्ट्री (रस्ता देखावे वाली देवी) हम दुनो के जोड़े"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "विश्वेदेव हमें एक करें, जल हम दोनों के हृदयों को एक करे; मातरिश्वा, धाता और देष्ट्री हम दोनों को जोड़ दें।",
+    "en": "May all the gods join us, may the waters join our two hearts; may Matarishvan, Dhatar and Deshtri hold the two of us together.",
+    "bho": "विश्वेदेव हमनी के एक करसु, जल हम दुनो के हिरदय के एक करे; मातरिश्वा, धाता आ देष्ट्री हम दुनो के जोड़ देसु।"
+  },
+  "explanation": {
+    "hi": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.4.14 में आचार्य वर-वधू दोनों का (नेत्रों या देह का) अभ्यंजन (\"समंजन\") करता है और यह ऋग्वेद 10.85.47 का मंत्र पढ़ता है — दो हृदयों को एक करने की प्रार्थना। माध्यंदिन पोथी इसे \"सम्मुखीकरण\" बनाती है: कन्या मंडप में आकर पिता के आगे बैठती है, वर और कन्या एक-दूसरे को देखते हैं, लोकाचार में पान बदलते हैं, और यह मंत्र पढ़ा जाता है। क्रम [विवाह](/occasions/vivah/) पृष्ठ पर।",
+    "en": "In [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.4.14, \"then he anoints the two\" — the teacher anoints the bride and groom (their eyes or bodies) and recites this verse, Rigveda 10.85.47, a prayer that two hearts become one. The Madhyandina pothi turns it into the \"sammukhikaran\": the bride comes into the mandap and sits before her father, the couple look at each other, exchange paan as a folk custom, and this mantra is recited. The order is on the [wedding](/occasions/vivah/) page.",
+    "bho": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.4.14 में \"अथैनौ समञ्जयति\" — आचार्य दुलहा-कनिया दुनो के (आँख भा देह के) अभ्यंजन करेलन आ ई ऋग्वेद 10.85.47 के मंत्र पढ़ेलन — दू हिरदय के एक करे के प्रार्थना। माध्यंदिन पोथी एकरा \"सम्मुखीकरण\" बनावेला: कनिया मड़वा में आके बाबूजी के आगे बइठेली, दुलहा आ कनिया एक-दोसरा के देखेलन, लोकाचार में पान बदलेलन, आ ई मंत्र पढ़ल जाला। क्रम [बियाह](/occasions/vivah/) पन्ना पर।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-pgs",
+    "retrieved": "2026-11-01",
+    "modified": "closing इति removed; ॥ added"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-sbe29",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Paraskara Grihya Sutra (ancient Sanskrit, public domain); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "samanjana",
+    "sammukhikaran"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

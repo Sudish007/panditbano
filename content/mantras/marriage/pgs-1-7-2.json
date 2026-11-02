@@ -1,0 +1,110 @@
+{
+  "id": "pgs-1-7-2",
+  "kind": "vedic",
+  "text": "paraskara-grihya-sutra",
+  "locator": "PGS 1.7.2 (atha gatham gayati — he sings the gatha to Sarasvati); vivah paddhati: gatha-gan while the bride stands on the stone",
+  "title": {
+    "hi": "गाथा — सरस्वति प्रेदमव",
+    "en": "The gatha — sarasvati predam ava",
+    "bho": "गाथा — सरस्वति प्रेदमव"
+  },
+  "devanagari": "सरस्वति प्रेदमव सुभगे वाजिनीवती । यां त्वा विश्वस्य भूतस्य प्रजायामस्याग्रतः । यस्यां भूतं समभवद्यस्यां विश्वमिदं जगत् । तामद्य गाथां गास्यामि या स्त्रीणामुत्तमं यशः ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "सरस्वति प्र इदम् अव",
+      "gloss": {
+        "hi": "हे सरस्वती, इस (कर्म) की रक्षा कर",
+        "en": "O Sarasvati, further (protect) this (rite)",
+        "bho": "हे सरस्वती, एह (करम) के रक्षा कर"
+      }
+    },
+    {
+      "sa": "सुभगे वाजिनीवती",
+      "gloss": {
+        "hi": "हे सौभाग्यवती, अन्न-बल वाली",
+        "en": "O fortunate one, rich in strength",
+        "bho": "हे सौभाग्यवती, अनाज-बल वाली"
+      }
+    },
+    {
+      "sa": "यां त्वा विश्वस्य भूतस्य प्रजायाम् अस्य अग्रतः",
+      "gloss": {
+        "hi": "जिस तुझे हम सब प्राणियों की संतान के आगे (गाते हैं)",
+        "en": "you whom (we sing) before the offspring of all beings",
+        "bho": "जे तोहरा के हमनी सब जीव के संतान के आगे (गावत बानी)"
+      }
+    },
+    {
+      "sa": "यस्यां भूतं समभवत्",
+      "gloss": {
+        "hi": "जिसमें (सब) भूत उत्पन्न हुए",
+        "en": "in whom all that exists came to be",
+        "bho": "जेह में (सब) जीव पैदा भइल"
+      }
+    },
+    {
+      "sa": "यस्यां विश्वम् इदं जगत्",
+      "gloss": {
+        "hi": "जिसमें यह सारा जगत् है",
+        "en": "in whom is this whole moving world",
+        "bho": "जेह में ई पूरा जगत बा"
+      }
+    },
+    {
+      "sa": "ताम् अद्य गाथां गास्यामि",
+      "gloss": {
+        "hi": "वह गाथा आज मैं गाऊँगा",
+        "en": "that gatha I shall sing today",
+        "bho": "ऊ गाथा आज हम गाइब"
+      }
+    },
+    {
+      "sa": "या स्त्रीणाम् उत्तमं यशः",
+      "gloss": {
+        "hi": "जो स्त्रियों का सर्वोत्तम यश है",
+        "en": "which is the highest glory of women",
+        "bho": "जे मेहरारू लोग के सबसे बड़ जस बा"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे सरस्वती, सौभाग्यवती, अन्न-बल वाली, इस कर्म की रक्षा कर; तुझे हम सब प्राणियों की संतान के आगे गाते हैं — जिसमें सब भूत उत्पन्न हुए, जिसमें यह सारा जगत् है। वह गाथा आज मैं गाऊँगा, जो स्त्रियों का सर्वोत्तम यश है।",
+    "en": "O Sarasvati, fortunate one, rich in strength, further this rite; you whom we sing before the offspring of all beings — in whom all that exists came to be, in whom this whole moving world is. That gatha I shall sing today, which is the highest glory of women.",
+    "bho": "हे सरस्वती, सौभाग्यवती, अनाज-बल वाली, एह करम के रक्षा कर; तोहरा के हमनी सब जीव के संतान के आगे गावत बानी — जेह में सब जीव पैदा भइल, जेह में ई पूरा जगत बा। ऊ गाथा आज हम गाइब, जे मेहरारू लोग के सबसे बड़ जस बा।"
+  },
+  "explanation": {
+    "hi": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.7.2: \"फिर वह गाथा गाता है\" — वधू पत्थर पर खड़ी है और वर सरस्वती की यह गाथा गाता है। \"गाथा\" का अर्थ गीत है: विवाह-विधि में यह अकेला अंश है जो गाया जाता है, पढ़ा नहीं — स्त्रियों के यश का गान, वधू के सामने। माध्यंदिन पोथी में यह अश्मारोहण (1.7.1) के ठीक बाद और परिक्रमा (1.7.3) से पहले है, तीन भाँवरों में तीन बार। क्रम [विवाह](/occasions/vivah/) पृष्ठ पर।",
+    "en": "[Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.7.2: \"then he sings the gatha\" — the bride stands on the stone and the groom sings this gatha to Sarasvati. A \"gatha\" is a song: it is the one part of the wedding rite that is sung rather than recited — a song of the glory of women, before the bride. In the Madhyandina pothi it comes right after the stepping on the stone (1.7.1) and before the circuit (1.7.3), three times in the three bhanwars. The order is on the [wedding](/occasions/vivah/) page.",
+    "bho": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.7.2: \"फेर ऊ गाथा गावेला\" — कनिया पाथर पर ठाड़ बाड़ी आ दुलहा सरस्वती के ई गाथा गावेला। \"गाथा\" के मतलब गीत बा: बियाह-विधि में ई अकेला अंश बा जे गावल जाला, पढ़ल ना — मेहरारू लोग के जस के गान, कनिया के सामने। माध्यंदिन पोथी में ई अश्मारोहन (1.7.1) के ठीक बाद आ परिक्रमा (1.7.3) से पहिले बा, तीन भाँवर में तीन बेर। क्रम [बियाह](/occasions/vivah/) पन्ना पर।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-pgs",
+    "retrieved": "2026-11-01",
+    "modified": "the sutra's framing (अथ गाथां गायति) and closing इति removed; ॥ added"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-sbe29",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Paraskara Grihya Sutra (ancient Sanskrit, public domain); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "gatha",
+    "sarasvati",
+    "bhanwar"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

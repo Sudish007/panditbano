@@ -1,0 +1,101 @@
+{
+  "id": "pgs-2-6-20",
+  "kind": "vedic",
+  "text": "paraskara-grihya-sutra",
+  "locator": "PGS 2.6.20 (the snataka's new garment); vivah paddhati: var-vastra-dharan — the groom puts on the dhoti given by the bride's father",
+  "title": {
+    "hi": "वर का वस्त्र — परिधास्यै यशोधास्यै",
+    "en": "The groom's garment — paridhasyai yashodhasyai",
+    "bho": "दुलहा के वस्त्र — परिधास्यै यशोधास्यै"
+  },
+  "devanagari": "परिधास्यै यशोधास्यै दीर्घायुत्वाय जरदष्टिरस्मि । शतं च जीवामि शरदः पुरूचीरायस्पोषमभिसंव्ययिष्ये ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "परिधास्यै",
+      "gloss": {
+        "hi": "पहनने के लिए",
+        "en": "to put on (this garment)",
+        "bho": "पहिरे खातिर"
+      }
+    },
+    {
+      "sa": "यशोधास्यै",
+      "gloss": {
+        "hi": "यश धारण करने के लिए",
+        "en": "to put on glory",
+        "bho": "जस धारण करे खातिर"
+      }
+    },
+    {
+      "sa": "दीर्घायुत्वाय",
+      "gloss": {
+        "hi": "दीर्घ आयु के लिए",
+        "en": "for long life",
+        "bho": "लमहर उमिर खातिर"
+      }
+    },
+    {
+      "sa": "जरदष्टिः अस्मि",
+      "gloss": {
+        "hi": "मैं वृद्धावस्था तक जीने वाला होऊँ",
+        "en": "may I reach old age",
+        "bho": "हम बुढ़ापा तक जिए वाला होखीं"
+      }
+    },
+    {
+      "sa": "शतं च जीवामि शरदः पुरूचीः",
+      "gloss": {
+        "hi": "और मैं सौ भरे-पूरे शरद (वर्ष) जीऊँ",
+        "en": "and may I live a hundred full autumns",
+        "bho": "आ हम सौ भरल-पूरल सरद (साल) जिअीं"
+      }
+    },
+    {
+      "sa": "रायस्पोषम् अभिसंव्ययिष्ये",
+      "gloss": {
+        "hi": "धन की समृद्धि को (अपने चारों ओर) लपेटता हूँ",
+        "en": "I wrap myself in the increase of wealth",
+        "bho": "धन के समृद्धि के (आपन चारो ओर) लपेटत बानी"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "पहनने के लिए, यश पाने के लिए, लंबी आयु के लिए (यह वस्त्र लेता हूँ); मैं बुढ़ापे तक जीऊँ, सौ भरे-पूरे शरद जीऊँ; धन की समृद्धि को अपने चारों ओर लपेटता हूँ।",
+    "en": "To clothe myself, to put on glory, for long life (I take this garment); may I reach old age, may I live a hundred full autumns; I wrap myself in the increase of wealth.",
+    "bho": "पहिरे खातिर, जस पावे खातिर, लमहर उमिर खातिर (ई वस्त्र लेत बानी); हम बुढ़ापा तक जिअीं, सौ भरल-पूरल सरद जिअीं; धन के समृद्धि के आपन चारो ओर लपेटत बानी।"
+  },
+  "explanation": {
+    "hi": "यह मंत्र [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 2.6.20 में समावर्तन (स्नातक बनने) के समय नया वस्त्र पहनने का है। माध्यंदिन विवाह-पद्धति इसे वर के लिए दोहराती है: कन्या-पिता संकल्प करके वर को पीली धोती और दुपट्टा देता है (\"वस्त्र-चतुष्टय प्रदान\"), वर धोती इस मंत्र से और उपवस्त्र अगले मंत्र (2.6.21) से धारण करता है। यह मंडप में वर के नए वस्त्रों का शास्त्रीय आधार है; क्रम [विवाह](/occasions/vivah/) पृष्ठ के मुख्य विधि भाग में।",
+    "en": "In [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 2.6.20 this is the formula with which the returning student (snataka) puts on a new garment at the samavartana. The Madhyandina wedding handbook repeats it for the groom: the bride's father makes a sankalpa and gives the groom a yellow dhoti and a shoulder cloth (\"the gift of the four garments\"), the groom puts on the dhoti with this mantra and the upper cloth with the next (2.6.21). This is the scriptural basis of the groom's new clothes in the mandap; the order is in the main part of the [wedding](/occasions/vivah/) page.",
+    "bho": "ई मंत्र [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 2.6.20 में समावर्तन (स्नातक बने) घरी नवका वस्त्र पहिरे के बा। माध्यंदिन बियाह-पद्धति एकरा दुलहा खातिर दोहरावेला: कनिया-पिता संकल्प करके दुलहा के पियर धोती आ दुपट्टा देलन (\"वस्त्र-चतुष्टय प्रदान\"), दुलहा धोती ई मंत्र से आ उपवस्त्र अगिला मंत्र (2.6.21) से धारण करेला। ई मड़वा में दुलहा के नवका कपड़ा के शास्त्रीय आधार बा; क्रम [बियाह](/occasions/vivah/) पन्ना के मुख्य विधि भाग में।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-pgs",
+    "retrieved": "2026-11-01",
+    "modified": "the sutra's closing इति removed (…व्ययिष्य इति → व्ययिष्ये); ॥ added"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-sbe29",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Paraskara Grihya Sutra (ancient Sanskrit, public domain); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "vastra",
+    "samavartana"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "id": "pgs-1-5-9",
+  "kind": "vedic",
+  "text": "paraskara-grihya-sutra",
+  "locator": "PGS 1.5.9 (the jaya formulas; the paddhati offers them as thirteen ahutis \"चित्तं च स्वाहा …\"); vivah homa, optional per 1.5.7",
+  "title": {
+    "hi": "जया होम — चित्तं च चित्तिश्च",
+    "en": "Jaya oblations — chittam cha chittish cha",
+    "bho": "जया होम — चित्तं च चित्तिश्च"
+  },
+  "devanagari": "चित्तं च चित्तिश्चाकूतं चाकूतिश्च विज्ञातं च विज्ञातिश्च मनश्च शक्वरीश्च दर्शश्च पौर्णमासं च बृहच्च रथन्तरं च । प्रजापतिर्जयानिन्द्राय वृष्णे प्रायच्छदुग्रः पृतना जयेषु । तस्मै विशः समनमन्त सर्वाः स उग्रः स इहव्यो बभूव स्वाहा ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "चित्तं च चित्तिः च",
+      "gloss": {
+        "hi": "चित्त (विचार) और चिति (चेतना)",
+        "en": "thought and consciousness",
+        "bho": "चित्त (बिचार) आ चिति (चेतना)"
+      }
+    },
+    {
+      "sa": "आकूतं च आकूतिः च",
+      "gloss": {
+        "hi": "संकल्प और संकल्प-शक्ति",
+        "en": "intention and the power of intention",
+        "bho": "संकल्प आ संकल्प-शक्ति"
+      }
+    },
+    {
+      "sa": "विज्ञातं च विज्ञातिः च",
+      "gloss": {
+        "hi": "जाना हुआ और जानने की शक्ति",
+        "en": "what is known and the power of knowing",
+        "bho": "जानल आ जाने के शक्ति"
+      }
+    },
+    {
+      "sa": "मनः च शक्वरीः च",
+      "gloss": {
+        "hi": "मन और शक्वरी (छंद)",
+        "en": "the mind and the Shakvari verses",
+        "bho": "मन आ शक्वरी (छंद)"
+      }
+    },
+    {
+      "sa": "दर्शः च पौर्णमासं च",
+      "gloss": {
+        "hi": "दर्श (अमावस्या का याग) और पौर्णमास",
+        "en": "the new-moon and the full-moon sacrifices",
+        "bho": "दर्श (अमावस के जग्य) आ पौर्णमास"
+      }
+    },
+    {
+      "sa": "बृहत् च रथन्तरं च",
+      "gloss": {
+        "hi": "बृहत् और रथंतर (साम)",
+        "en": "the Brihat and the Rathantara (Saman chants)",
+        "bho": "बृहत् आ रथंतर (साम)"
+      }
+    },
+    {
+      "sa": "प्रजापतिः जयान् इन्द्राय वृष्णे प्रायच्छत्",
+      "gloss": {
+        "hi": "प्रजापति ने ये \"जय\" बलवान इंद्र को दिए",
+        "en": "Prajapati gave these \"victories\" to mighty Indra",
+        "bho": "प्रजापति ई \"जय\" बलगर इंदर के दिहलन"
+      }
+    },
+    {
+      "sa": "उग्रः पृतनाः जयेषु",
+      "gloss": {
+        "hi": "उग्र (इंद्र) को, सेनाओं पर विजय के लिए",
+        "en": "to the fierce one, for victory in battles",
+        "bho": "उग्र (इंदर) के, सेना पर जीत खातिर"
+      }
+    },
+    {
+      "sa": "तस्मै विशः समनमन्त सर्वाः",
+      "gloss": {
+        "hi": "उसके आगे सब प्रजाएँ नत हुईं",
+        "en": "all the peoples bowed before him",
+        "bho": "ओकरा आगे सब परजा नवल"
+      }
+    },
+    {
+      "sa": "स उग्रः स इहव्यः बभूव स्वाहा",
+      "gloss": {
+        "hi": "वह उग्र, वह यहाँ आह्वान-योग्य हुआ — स्वाहा",
+        "en": "he became fierce, he became the one to be invoked here — svaha",
+        "bho": "ऊ उग्र, ऊ इहाँ आह्वान-जोग भइल — स्वाहा"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "चित्त और चिति, संकल्प और संकल्प-शक्ति, ज्ञात और ज्ञान-शक्ति, मन और शक्वरी, दर्श और पौर्णमास, बृहत् और रथंतर — प्रजापति ने ये \"जय\" बलवान इंद्र को सेनाओं पर विजय के लिए दिए; सब प्रजाएँ उसके आगे नत हुईं; वह उग्र, वह यहाँ आह्वान-योग्य हुआ — स्वाहा।",
+    "en": "Thought and consciousness, intention and its power, the known and the power of knowing, mind and the Shakvari, the new-moon and full-moon rites, the Brihat and the Rathantara — Prajapati gave these \"victories\" to mighty Indra for victory in battle; all the peoples bowed before him; fierce he became, the one to be invoked here — svaha.",
+    "bho": "चित्त आ चिति, संकल्प आ संकल्प-शक्ति, जानल आ जाने के शक्ति, मन आ शक्वरी, दर्श आ पौर्णमास, बृहत् आ रथंतर — प्रजापति ई \"जय\" बलगर इंदर के सेना पर जीत खातिर दिहलन; सब परजा ओकरा आगे नवल; ऊ उग्र, ऊ इहाँ आह्वान-जोग भइल — स्वाहा।"
+  },
+  "explanation": {
+    "hi": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.7–9: \"राष्ट्रभृत् चाहने वाला, और जया तथा अभ्यातान जानने वाला (इन्हें भी करे) — 'जिस कर्म से जो चाहे' इस वचन से\" — अर्थात् विवाह-होम में ये आहुतियाँ विकल्प हैं। यह \"जया\" (विजय) का सूत्र-पाठ है; माध्यंदिन पोथी इसे तेरह आहुतियों में बाँटती है — हर जोड़े का एक-एक पद \"चित्तं च स्वाहा, इदं चित्ताय न मम; चित्तिश्च स्वाहा…\" और अंत में \"प्रजापतिर्जयान्…\" पूरा। ये आहुतियाँ राष्ट्रभृत् (बारह) के बाद और अभ्यातान (अठारह) से पहले हैं। क्रम [विवाह](/occasions/vivah/) पृष्ठ के होम-चरण में, हवन का ढाँचा [हवन विधि](/occasions/havan-vidhi/) पर।",
+    "en": "[Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.7–9: \"one who desires the rashtrabhrit, and one who knows the jaya and the abhyatana (may offer them too) — by the rule 'by which rite one wishes for what'\" — in other words these oblations are optional in the wedding homa. This is the sutra's text of the \"jaya\" (victory) formulas; the Madhyandina pothi divides it into thirteen oblations — each member of a pair on its own, \"chittam cha svaha, idam chittaya na mama; chittish cha svaha…\", and finally the whole \"prajapatir jayan…\". They come after the twelve rashtrabhrit and before the eighteen abhyatana oblations. The order is in the homa steps of the [wedding](/occasions/vivah/) page, the havan frame on [havan vidhi](/occasions/havan-vidhi/).",
+    "bho": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.7–9: \"राष्ट्रभृत् चाहे वाला, आ जया तथा अभ्यातान जाने वाला (एकरो करे) — 'जे करम से जे चाहे' एह वचन से\" — माने बियाह-होम में ई आहुति विकल्प बा। ई \"जया\" (जीत) के सूत्र-पाठ बा; माध्यंदिन पोथी एकरा तेरह आहुति में बाँटेला — हर जोड़ा के एक-एक पद \"चित्तं च स्वाहा, इदं चित्ताय न मम; चित्तिश्च स्वाहा…\" आ अंत में \"प्रजापतिर्जयान्…\" पूरा। ई आहुति राष्ट्रभृत् (बारह) के बाद आ अभ्यातान (अठारह) से पहिले बा। क्रम [बियाह](/occasions/vivah/) पन्ना के होम-चरन में, हवन के ढाँचा [हवन विधि](/occasions/havan-vidhi/) पर।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-pgs",
+    "retrieved": "2026-11-01",
+    "modified": "closing इति removed; ॥ added"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-sbe29",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Paraskara Grihya Sutra (ancient Sanskrit, public domain); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "havan",
+    "jaya"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

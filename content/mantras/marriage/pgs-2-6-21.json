@@ -1,0 +1,85 @@
+{
+  "id": "pgs-2-6-21",
+  "kind": "vedic",
+  "text": "paraskara-grihya-sutra",
+  "locator": "PGS 2.6.21 (the snataka's upper garment); vivah paddhati: the groom's upavastra (dupatta)",
+  "title": {
+    "hi": "वर का उपवस्त्र — यशसा मा द्यावापृथिवी",
+    "en": "The groom's upper cloth — yashasa ma dyavaprithivi",
+    "bho": "दुलहा के उपवस्त्र — यशसा मा द्यावापृथिवी"
+  },
+  "devanagari": "यशसा मा द्यावापृथिवी यशसेन्द्राबृहस्पती । यशो भगश्च माविन्दद्यशो मा प्रतिपद्यताम् ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "यशसा मा द्यावापृथिवी",
+      "gloss": {
+        "hi": "द्यौ और पृथिवी मुझे यश से (भरें)",
+        "en": "may Heaven and Earth (fill) me with glory",
+        "bho": "आकास आ धरती हमरा के जस से (भरे)"
+      }
+    },
+    {
+      "sa": "यशसा इन्द्राबृहस्पती",
+      "gloss": {
+        "hi": "इंद्र और बृहस्पति यश से (भरें)",
+        "en": "may Indra and Brihaspati (fill me) with glory",
+        "bho": "इंदर आ बृहस्पति जस से (भरसु)"
+      }
+    },
+    {
+      "sa": "यशः भगः च मा अविन्दत्",
+      "gloss": {
+        "hi": "यश और भग (सौभाग्य) मुझे प्राप्त हों",
+        "en": "may glory and Bhaga (good fortune) find me",
+        "bho": "जस आ भग (सौभाग्य) हमरा के मिले"
+      }
+    },
+    {
+      "sa": "यशः मा प्रतिपद्यताम्",
+      "gloss": {
+        "hi": "यश मुझे प्राप्त हो",
+        "en": "may glory come to me",
+        "bho": "जस हमरा के मिले"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "द्यौ और पृथिवी, इंद्र और बृहस्पति मुझे यश से भरें; यश और सौभाग्य मुझे मिलें, यश मुझे प्राप्त हो।",
+    "en": "May Heaven and Earth, Indra and Brihaspati fill me with glory; may glory and good fortune find me, may glory come to me.",
+    "bho": "आकास आ धरती, इंदर आ बृहस्पति हमरा के जस से भरसु; जस आ सौभाग्य हमरा के मिले, जस हमरा के मिले।"
+  },
+  "explanation": {
+    "hi": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 2.6.21 में स्नातक इस मंत्र से उत्तरीय (दुपट्टा) लेता है। विवाह-पद्धति में वर कन्या-पिता से मिला उपवस्त्र इसी से धारण करता है — धोती के मंत्र 2.6.20 के बाद। [विवाह](/occasions/vivah/) पृष्ठ देखें।",
+    "en": "In [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 2.6.21 the snataka takes his upper garment with this formula. In the wedding handbook the groom puts on the shoulder cloth received from the bride's father with it — after the dhoti mantra 2.6.20. See the [wedding](/occasions/vivah/) page.",
+    "bho": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 2.6.21 में स्नातक ई मंत्र से उत्तरीय (दुपट्टा) लेला। बियाह-पद्धति में दुलहा कनिया-पिता से मिलल उपवस्त्र एही से धारण करेला — धोती के मंत्र 2.6.20 के बाद। [बियाह](/occasions/vivah/) पन्ना देखीं।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-pgs",
+    "retrieved": "2026-11-01",
+    "modified": "closing इति removed; ॥ added"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-sbe29",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Paraskara Grihya Sutra (ancient Sanskrit, public domain); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "vastra",
+    "samavartana"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

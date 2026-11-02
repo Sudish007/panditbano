@@ -1,0 +1,85 @@
+{
+  "id": "pgs-1-4-15",
+  "kind": "vedic",
+  "text": "paraskara-grihya-sutra",
+  "locator": "PGS 1.4.15 (pitra prattam adaya — he takes the bride given by her father); vivah paddhati: after the godan, the groom holds the bride's right hand",
+  "title": {
+    "hi": "कन्या-ग्रहण — यदैषि मनसा दूरम्",
+    "en": "Taking the bride — yad eshi manasa duram",
+    "bho": "कनिया-ग्रहण — यदैषि मनसा दूरम्"
+  },
+  "devanagari": "यदैषि मनसा दूरं दिशोऽनु पवमानो वा । हिरण्यपर्णो वैकर्णः स त्वा मन्मनसां करोतु ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "यत् एषि मनसा दूरम्",
+      "gloss": {
+        "hi": "जो तू मन से दूर चली जाती है",
+        "en": "when you go far away in your mind",
+        "bho": "जे तू मन से दूर चल जालू"
+      }
+    },
+    {
+      "sa": "दिशः अनु पवमानः वा",
+      "gloss": {
+        "hi": "दिशाओं में, या बहती वायु की तरह",
+        "en": "along the directions, or like the blowing wind",
+        "bho": "दिसा सब में, भा बहत बयार जइसन"
+      }
+    },
+    {
+      "sa": "हिरण्यपर्णः वैकर्णः",
+      "gloss": {
+        "hi": "सोने के पंखों वाला वैकर्ण (गंधर्व/वायु)",
+        "en": "the golden-winged Vaikarna (the Gandharva / the wind)",
+        "bho": "सोना के पाँख वाला वैकर्ण (गंधर्व / बयार)"
+      }
+    },
+    {
+      "sa": "स त्वा मन्मनसां करोतु",
+      "gloss": {
+        "hi": "वह तुझे मेरे मन के अनुकूल मन वाली करे",
+        "en": "may he make your mind turn to my mind",
+        "bho": "ऊ तोहरा के हमार मन के अनुकूल मन वाली करे"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "जब तू मन से दूर, दिशाओं में या बहती वायु की तरह चली जाती है — सोने के पंखों वाला वैकर्ण तुझे मेरे मन के अनुकूल मन वाली बनाए (हे अमुकी)।",
+    "en": "When you go far away in your mind, along the quarters or like the blowing wind — may the golden-winged Vaikarna make your mind turn to mine, (O so-and-so).",
+    "bho": "जब तू मन से दूर, दिसा सब में भा बहत बयार जइसन चल जालू — सोना के पाँख वाला वैकर्ण तोहरा के हमार मन के अनुकूल मन वाली बनावे (हे अमुकी)।"
+  },
+  "explanation": {
+    "hi": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.4.15: \"पिता द्वारा दी गई (कन्या) को लेकर, (हाथ) पकड़कर वह बाहर निकलता है\" — और इस मंत्र के अंत में \"असौ\" के स्थान पर कन्या का नाम लेता है। यही सूत्र का [[kanyadaan]]-क्षण है: पिता देता है, वर ग्रहण करता है। माध्यंदिन पोथी में कन्यादान के संकल्प, पाँव-पूजी, गोदान और भूयसी-दक्षिणा के बाद वर कन्या का दाहिना हाथ पकड़कर यह मंत्र पढ़ता है और \"श्री {अमुकी} देवि\" कहता है; इसके बाद परस्पर समीक्षण (1.4.16) है। क्रम [विवाह](/occasions/vivah/) पृष्ठ पर।",
+    "en": "[Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.4.15: \"having taken (the bride) given by her father, holding (her hand), he goes out\" — and at the end of this formula he says the bride's name in place of \"asau\" (so-and-so). This is the sutra's moment of kanyadaan: the father gives, the groom receives. In the Madhyandina pothi the groom holds the bride's right hand and recites it after the kanyadaan sankalpas, the washing of feet, the godan and the bhuyasi dakshina, adding \"shri {name} devi\"; the mutual gaze (1.4.16) follows. The order is on the [wedding](/occasions/vivah/) page.",
+    "bho": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.4.15: \"बाबूजी से दिहल (कनिया) के लेके, (हाथ) धर के ऊ बाहर निकलेला\" — आ ई मंत्र के अंत में \"असौ\" के जगह कनिया के नाँव लेला। इहे सूत्र के [[kanyadaan]]-घरी बा: बाबूजी देलन, दुलहा ग्रहण करेला। माध्यंदिन पोथी में कन्यादान के संकल्प, गोड़-पूजी, गोदान आ भूयसी-दक्षिणा के बाद दुलहा कनिया के दहिना हाथ धर के ई मंत्र पढ़ेला आ \"श्री {अमुकी} देवि\" कहेला; एकरा बाद परस्पर समीक्षण (1.4.16) बा। क्रम [बियाह](/occasions/vivah/) पन्ना पर।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-pgs",
+    "retrieved": "2026-11-01",
+    "modified": "the sutra's framing (पित्रा प्रत्तामादाय गृहीत्वा निष्कामति … इत्यसाविति) removed — the bride's name replaces असौ when spoken; ॥ added"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-sbe29",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Paraskara Grihya Sutra (ancient Sanskrit, public domain); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "kanyadaan",
+    "kanya-grahana"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

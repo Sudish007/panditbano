@@ -1,0 +1,69 @@
+{
+  "id": "pgs-1-7-5",
+  "kind": "vedic",
+  "text": "paraskara-grihya-sutra",
+  "locator": "PGS 1.7.5 (the fourth time she pours all the remaining grain in with the corner of the winnowing tray, \"to Bhaga svaha\"); vivah paddhati: avashishta laja-homa",
+  "title": {
+    "hi": "अवशिष्ट लाजा-होम — भगाय स्वाहा",
+    "en": "The last of the parched grain — bhagaya svaha",
+    "bho": "बाँचल लावा के होम — भगाय स्वाहा"
+  },
+  "devanagari": "भगाय स्वाहा ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "भगाय",
+      "gloss": {
+        "hi": "भग (सौभाग्य के देवता) के लिए",
+        "en": "to Bhaga (the god of fortune)",
+        "bho": "भग (सौभाग्य के देवता) खातिर"
+      }
+    },
+    {
+      "sa": "स्वाहा",
+      "gloss": {
+        "hi": "स्वाहा (यह आहुति सुहुत हो)",
+        "en": "svaha (may this oblation be well offered)",
+        "bho": "स्वाहा (ई आहुति नीक से पहुँचे)"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "भग देवता के लिए — स्वाहा।",
+    "en": "To Bhaga — svaha.",
+    "bho": "भग देवता खातिर — स्वाहा।"
+  },
+  "explanation": {
+    "hi": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.7.5: \"चौथी बार वह सूप के कोने से सारा लावा \"भगाय स्वाहा\" कहकर डालती है\" — तीन भाँवरों में तीन-तीन आहुतियाँ देने के बाद चौथा भाग एक साथ, भग (सौभाग्य के देवता) के लिए। माध्यंदिन पोथी में कन्या का भाई सूप के कोने से सब बचा लावा वर-वधू की अंजलि में छोड़ता है और वर एक बार में हवन कर देता है; इसके बाद [[granthi-bandhan]] (लोकाचार), चौथी परिक्रमा वर आगे-वधू पीछे मौन, और प्राजापत्य होम। क्रम [विवाह](/occasions/vivah/) पृष्ठ पर।",
+    "en": "[Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.7.5: \"the fourth time she pours in all the grain with the corner of the winnowing tray, (saying) 'to Bhaga svaha'\" — after three oblations in each of three bhanwars, the fourth portion goes in at once, to Bhaga, god of fortune. In the Madhyandina pothi the bride's brother tips all the remaining grain from the corner of the tray into the couple's hands and the groom offers it in one go; then follow the granthi-bandhan (folk custom), the fourth circuit with the groom ahead and the bride behind in silence, and the Prajapati oblation. The order is on the [wedding](/occasions/vivah/) page.",
+    "bho": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.7.5: \"चउथा बेर ऊ सूप के कोना से सब लावा \"भगाय स्वाहा\" कह के डालेली\" — तीन भाँवर में तीन-तीन आहुति देला के बाद चउथा भाग एक साथे, भग (सौभाग्य के देवता) खातिर। माध्यंदिन पोथी में कनिया के भाई सूप के कोना से सब बाँचल लावा दुलहा-कनिया के अँजुरी में छोड़ेला आ दुलहा एक बेर में हवन कर देला; एकरा बाद [[granthi-bandhan]] (लोकाचार), चउथा परिक्रमा दुलहा आगे-कनिया पाछे चुपचाप, आ प्राजापत्य होम। क्रम [बियाह](/occasions/vivah/) पन्ना पर।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-pgs",
+    "retrieved": "2026-11-01",
+    "modified": "the sutra's framing (चतुर्थं शूर्पकुष्ठया सर्वांल्लाजानावपति … इति) removed; ॥ added"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-sbe29",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Paraskara Grihya Sutra (ancient Sanskrit, public domain); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "laja-homa",
+    "bhaga"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

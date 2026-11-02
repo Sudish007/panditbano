@@ -1,0 +1,69 @@
+{
+  "id": "pgs-1-7-6",
+  "kind": "vedic",
+  "text": "paraskara-grihya-sutra",
+  "locator": "PGS 1.7.6 (trih parinitam prajapatyam hutva — after leading her round thrice, the Prajapati oblation; the formula as in PGS 1.9.3 / 1.11.3); vivah paddhati: prajapatya homa after the fourth bhanwar",
+  "title": {
+    "hi": "प्राजापत्य होम — प्रजापतये स्वाहा",
+    "en": "The Prajapati oblation — prajapataye svaha",
+    "bho": "प्राजापत्य होम — प्रजापतये स्वाहा"
+  },
+  "devanagari": "प्रजापतये स्वाहा ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "प्रजापतये",
+      "gloss": {
+        "hi": "प्रजापति (सृष्टि और संतान के स्वामी) के लिए",
+        "en": "to Prajapati (lord of creatures and offspring)",
+        "bho": "प्रजापति (सृष्टि आ संतान के मालिक) खातिर"
+      }
+    },
+    {
+      "sa": "स्वाहा",
+      "gloss": {
+        "hi": "स्वाहा",
+        "en": "svaha",
+        "bho": "स्वाहा"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "प्रजापति के लिए — स्वाहा।",
+    "en": "To Prajapati — svaha.",
+    "bho": "प्रजापति खातिर — स्वाहा।"
+  },
+  "explanation": {
+    "hi": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.7.6: \"तीन बार (अग्नि के) चारों ओर ले जाई गई (वधू के बाद) प्राजापत्य आहुति देकर\" — घी की यह आहुति मन में प्रजापति का ध्यान करते हुए दी जाती है; सूत्र 1.9.3 और 1.11.3 में इसी देवता का वाक्य \"प्रजापतये स्वाहा\" है, और पद्धति \"इदं प्रजापतये न मम\" का त्याग जोड़ती है। माध्यंदिन पोथी में वर-वधू चौथी परिक्रमा के बाद बैठते हैं और वर ब्रह्मा से अन्वारब्ध होकर यह आहुति देता है; इसके बाद [[saptapadi]]। आघार की पहली आहुति भी प्रजापति की है — देखें [हवन विधि](/occasions/havan-vidhi/)। क्रम [विवाह](/occasions/vivah/) पृष्ठ पर।",
+    "en": "[Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.7.6: \"having led her round three times, having offered the Prajapati oblation\" — this ghee oblation is offered while thinking of Prajapati; sutras 1.9.3 and 1.11.3 give the formula for the same deity, \"prajapataye svaha\", and the handbook adds the renunciation \"idam prajapataye na mama\". In the Madhyandina pothi the couple sit down after the fourth circuit and the groom, touched by the brahma, offers it; the saptapadi follows. The first aghara oblation is also to Prajapati — see [havan vidhi](/occasions/havan-vidhi/). The order is on the [wedding](/occasions/vivah/) page.",
+    "bho": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.7.6: \"तीन बेर (आगि के) चारो ओर ले जाइल (कनिया के बाद) प्राजापत्य आहुति देके\" — घी के ई आहुति मन में प्रजापति के ध्यान करत दिहल जाला; सूत्र 1.9.3 आ 1.11.3 में एही देवता के वाक्य \"प्रजापतये स्वाहा\" बा, आ पद्धति \"इदं प्रजापतये न मम\" के त्याग जोड़ेला। माध्यंदिन पोथी में दुलहा-कनिया चउथा परिक्रमा के बाद बइठेलन आ दुलहा ब्रह्मा से अन्वारब्ध होके ई आहुति देला; एकरा बाद [[saptapadi]]। आघार के पहिला आहुति भी प्रजापति के बा — देखीं [हवन विधि](/occasions/havan-vidhi/)। क्रम [बियाह](/occasions/vivah/) पन्ना पर।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-pgs",
+    "retrieved": "2026-11-01",
+    "modified": "sutra 1.7.6 names the oblation (प्राजापत्यं हुत्वा) without quoting it; the formula is taken from PGS 1.9.3 / 1.11.3 (प्रजापतये स्वाहेति) with इति removed; ॥ added"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-sbe29",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Paraskara Grihya Sutra (ancient Sanskrit, public domain); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "havan",
+    "prajapati"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

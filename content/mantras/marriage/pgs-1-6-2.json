@@ -1,0 +1,101 @@
+{
+  "id": "pgs-1-6-2",
+  "kind": "vedic",
+  "text": "paraskara-grihya-sutra",
+  "locator": "PGS 1.6.1–2 (the bride's brother pours the parched grain into her hands; she offers it standing, with joined hands, with these three formulas); vivah paddhati: laja-homa, rounds 1–3",
+  "title": {
+    "hi": "लाजा-होम — अर्यमणं देवं कन्या",
+    "en": "Laja-homa — aryamanam devam kanya",
+    "bho": "लाजा-होम — अर्यमणं देवं कन्या"
+  },
+  "devanagari": "अर्यमणं देवं कन्याऽऽग्निमयक्षत । स नो अर्यमा देवः प्रेतो मुञ्चतु मा पतेः स्वाहा ॥ इयं नार्युपब्रूते लाजानावपन्तिका । आयुष्मानस्तु मे पतिरेधन्तां ज्ञातयो मम स्वाहा ॥ इमाँल्लाजानावपाम्यग्नौ समृद्धिकरणं तव । मम तुभ्यं च संवननं तदग्निरनुमन्यतामियं स्वाहा ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "अर्यमणं देवं कन्या अग्निम् अयक्षत",
+      "gloss": {
+        "hi": "कन्या ने अर्यमा देव अग्नि का यजन किया",
+        "en": "the maiden has worshipped the god Aryaman, Agni",
+        "bho": "कनिया अर्यमा देव अग्नि के जजन कइली"
+      }
+    },
+    {
+      "sa": "स नः अर्यमा देवः प्रेतः मुञ्चतु मा पतेः स्वाहा",
+      "gloss": {
+        "hi": "वह अर्यमा देव मुझे यहाँ से (पितृगृह से) मुक्त करे, पति से नहीं — स्वाहा",
+        "en": "may that god Aryaman release me from here (my father's house), not from my husband — svaha",
+        "bho": "ऊ अर्यमा देव हमरा के इहाँ से (नइहर से) छोड़ावसु, पति से ना — स्वाहा"
+      }
+    },
+    {
+      "sa": "इयं नारी उपब्रूते लाजान् आवपन्तिका",
+      "gloss": {
+        "hi": "यह नारी लावा डालती हुई कहती है",
+        "en": "this woman, strewing the parched grain, says",
+        "bho": "ई मेहरारू लावा डालत कहत बाड़ी"
+      }
+    },
+    {
+      "sa": "आयुष्मान् अस्तु मे पतिः एधन्तां ज्ञातयः मम स्वाहा",
+      "gloss": {
+        "hi": "मेरा पति दीर्घायु हो, मेरे संबंधी बढ़ें — स्वाहा",
+        "en": "may my husband live long, may my kinsmen prosper — svaha",
+        "bho": "हमार पति लमहर उमिर वाला होखसु, हमार नाता-गोता बढ़े — स्वाहा"
+      }
+    },
+    {
+      "sa": "इमान् लाजान् आवपामि अग्नौ समृद्धिकरणं तव",
+      "gloss": {
+        "hi": "ये लावा अग्नि में डालती हूँ — तेरी (पति की) समृद्धि के लिए",
+        "en": "I pour this parched grain into the fire — for your prosperity",
+        "bho": "ई लावा आगि में डालत बानी — तोहार (पति के) समृद्धि खातिर"
+      }
+    },
+    {
+      "sa": "मम तुभ्यं च संवननं तत् अग्निः अनुमन्यताम् इयं स्वाहा",
+      "gloss": {
+        "hi": "मेरा और तेरा मेल अग्नि स्वीकार करे — यह (कहती है) — स्वाहा",
+        "en": "may Agni approve the union of me and you — so (she says) — svaha",
+        "bho": "हमार आ तोहार मेल अग्नि मंजूर करसु — ई (कहत बाड़ी) — स्वाहा"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "(वधू कहती है) कन्या ने अर्यमा देव — अग्नि — का यजन किया; वह अर्यमा मुझे यहाँ (पिता के घर) से मुक्त करे, पति से नहीं — स्वाहा। यह नारी लावा डालती हुई कहती है: मेरा पति दीर्घायु हो, मेरे संबंधी बढ़ें — स्वाहा। ये लावा अग्नि में डालती हूँ — तेरी समृद्धि के लिए; मेरा और तेरा मेल अग्नि स्वीकार करे — स्वाहा।",
+    "en": "(The bride says) The maiden has worshipped the god Aryaman — Agni; may that Aryaman release me from here, my father's house, and not from my husband — svaha. This woman, strewing the parched grain, says: may my husband live long, may my kinsmen prosper — svaha. I pour this grain into the fire — for your prosperity; may Agni approve the union of me and you — svaha.",
+    "bho": "(कनिया कहत बाड़ी) कनिया अर्यमा देव — अग्नि — के जजन कइली; ऊ अर्यमा हमरा के इहाँ (नइहर) से छोड़ावसु, पति से ना — स्वाहा। ई मेहरारू लावा डालत कहत बाड़ी: हमार पति लमहर उमिर वाला होखसु, हमार नाता-गोता बढ़े — स्वाहा। ई लावा आगि में डालत बानी — तोहार समृद्धि खातिर; हमार आ तोहार मेल अग्नि मंजूर करसु — स्वाहा।"
+  },
+  "explanation": {
+    "hi": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.6.1–2: \"कुमारी का भाई शमी-पलाश मिले लावा (खील) अंजलि से उसकी अंजलि में डालता है; वह खड़ी होकर जुड़ी अंजलि से उन्हें (इन तीन मंत्रों से) हवन करती है।\" [[laja-hom]] विवाह-होम का केंद्रीय अंग है और वैदिक विवाह में वधू का अपना मंत्र यही है — तीनों वाक्य उसके मुँह से हैं: पिता के घर से मुक्ति पर पति से नहीं, पति की दीर्घायु, और दोनों का मेल। माध्यंदिन पोथी में वधू आगे और वर पीछे पूर्वाभिमुख खड़े होते हैं, वर की अंजलि के ऊपर वधू की अंजलि, [[bhai]] सूप से खील के चार भाग करके एक-एक भाग देता है; हर भाग की तीन आहुतियाँ इन तीन मंत्रों से, और हर आहुति के बाद वर का [[panigrahan]] (1.6.3), [[ashmarohan]] (1.7.1), गाथा (1.7.2) और एक परिक्रमा (1.7.3) — यही एक \"भाँवर\" है, तीन बार; चौथे भाग का पूरा लावा \"भगाय स्वाहा\" (1.7.5) से। क्रम [विवाह](/occasions/vivah/) पृष्ठ पर।",
+    "en": "[Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.6.1–2: \"the maiden's brother pours parched grain mixed with shami and palasha leaves from his joined hands into hers; standing, she offers it with joined hands (with these three formulas).\" The laja-homa is the heart of the wedding fire-rite and the bride's own mantra in the Vedic wedding — all three sentences are spoken by her: release from her father's house but not from her husband, long life for the husband, and the union of the two. In the Madhyandina pothi the bride stands in front and the groom behind her, both facing east, her cupped hands above his; her brother divides the parched grain in the winnowing tray into four parts and pours one part at a time; each part is offered in three oblations with these three formulas, and after each the groom's panigrahana (1.6.3), the stepping on the stone (1.7.1), the gatha (1.7.2) and one circuit of the fire (1.7.3) — that is one \"bhanwar\", done three times; the fourth part goes in all at once with \"bhagaya svaha\" (1.7.5). The order is on the [wedding](/occasions/vivah/) page.",
+    "bho": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.6.1–2: \"कुमारी के भाई शमी-पलास मिलल लावा (खील) अँजुरी से ओकर अँजुरी में डालेला; ऊ ठाड़ होके जुड़ल अँजुरी से ओकरा (एह तीन मंत्र से) हवन करेली।\" [[laja-hom]] बियाह-होम के बीच के अंग बा आ वैदिक बियाह में कनिया के आपन मंत्र इहे बा — तीनो वाक्य ओकरा मुँह से बा: नइहर से छुटकारा बाकिर पति से ना, पति के लमहर उमिर, आ दुनो के मेल। माध्यंदिन पोथी में कनिया आगे आ दुलहा पाछे पूरब मुँह ठाड़ होलन, दुलहा के अँजुरी के ऊपर कनिया के अँजुरी, [[bhai]] सूप से खील के चार भाग करके एक-एक भाग देला; हर भाग के तीन आहुति एह तीन मंत्र से, आ हर आहुति के बाद दुलहा के [[panigrahan]] (1.6.3), [[ashmarohan]] (1.7.1), गाथा (1.7.2) आ एक परिक्रमा (1.7.3) — इहे एक \"भाँवर\" बा, तीन बेर; चउथा भाग के पूरा लावा \"भगाय स्वाहा\" (1.7.5) से। क्रम [बियाह](/occasions/vivah/) पन्ना पर।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-pgs",
+    "retrieved": "2026-11-01",
+    "modified": "सनो → स नो (word spacing); तुभ्य च → तुभ्यं च (the paddhati and Oldenberg read tubhyaṃ); the three formulas separated by ॥; closing इति removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-sbe29",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Paraskara Grihya Sutra (ancient Sanskrit, public domain); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "laja-homa",
+    "bhanwar"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

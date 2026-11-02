@@ -1,0 +1,157 @@
+{
+  "id": "pgs-1-5-10",
+  "kind": "vedic",
+  "text": "paraskara-grihya-sutra",
+  "locator": "PGS 1.5.10 (the abhyatana formulas; eighteen ahutis in the paddhati, the refrain \"अस्मिन् ब्रह्मणि…\" added to each); vivah homa, optional per 1.5.7",
+  "title": {
+    "hi": "अभ्यातान होम — अग्निर्भूतानामधिपतिः",
+    "en": "Abhyatana oblations — agnir bhutanam adhipatih",
+    "bho": "अभ्यातान होम — अग्निर्भूतानामधिपतिः"
+  },
+  "devanagari": "अग्निर्भूतानामधिपतिः समावत्विन्द्रो ज्येष्ठानां यमः पृथिव्या वायुरन्तरिक्षस्य सूर्यो दिवश्चन्द्रमा नक्षत्राणां बृहस्पतिर्ब्रह्मणो मित्रः सत्यानां वरुणोऽपां समुद्रः स्रोत्यानामन्नं साम्राज्यानामधिपति तन्मावतु सोम ओषधीनां सविता प्रसवानां रुद्रः पशूनां त्वष्टा रूपाणां विष्णुः पर्वतानां मरुतो गणानामधिपतयस्ते मावन्तु पितरः पितामहाः परेवरे ततास्ततामहाः । इह मावन्त्वस्मिन्ब्रह्मण्यस्मिन् क्षत्रेऽस्यामाशिष्यस्यां पुरोधायामस्मिन्कर्मण्यस्यां देवहूत्यां स्वाहा ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "अग्निः भूतानाम् अधिपतिः स मा अवतु",
+      "gloss": {
+        "hi": "अग्नि प्राणियों का अधिपति है, वह मेरी रक्षा करे",
+        "en": "Agni is the lord of beings; may he protect me",
+        "bho": "अग्नि जीव सब के अधिपति बाड़न, ऊ हमार रक्षा करसु"
+      }
+    },
+    {
+      "sa": "इन्द्रः ज्येष्ठानाम्",
+      "gloss": {
+        "hi": "इंद्र श्रेष्ठों का",
+        "en": "Indra of the eldest",
+        "bho": "इंदर बड़ लोग के"
+      }
+    },
+    {
+      "sa": "यमः पृथिव्याः वायुः अन्तरिक्षस्य",
+      "gloss": {
+        "hi": "यम पृथिवी का, वायु अंतरिक्ष का",
+        "en": "Yama of the earth, Vayu of the mid-air",
+        "bho": "यम धरती के, बयार अंतरिक्ष के"
+      }
+    },
+    {
+      "sa": "सूर्यः दिवः चन्द्रमाः नक्षत्राणाम्",
+      "gloss": {
+        "hi": "सूर्य द्यौ का, चंद्र नक्षत्रों का",
+        "en": "Surya of the sky, the Moon of the stars",
+        "bho": "सुरुज आकास के, चंदा नक्षत्र के"
+      }
+    },
+    {
+      "sa": "बृहस्पतिः ब्रह्मणः मित्रः सत्यानाम्",
+      "gloss": {
+        "hi": "बृहस्पति ब्रह्म (वेद) का, मित्र सत्यों का",
+        "en": "Brihaspati of the brahman, Mitra of truths",
+        "bho": "बृहस्पति ब्रह्म (वेद) के, मित्र सत्य के"
+      }
+    },
+    {
+      "sa": "वरुणः अपाम् समुद्रः स्रोत्यानाम्",
+      "gloss": {
+        "hi": "वरुण जलों का, समुद्र नदियों का",
+        "en": "Varuna of the waters, the Ocean of the rivers",
+        "bho": "वरुण जल के, समुंदर नदी के"
+      }
+    },
+    {
+      "sa": "अन्नं साम्राज्यानाम् अधिपति तत् मा अवतु",
+      "gloss": {
+        "hi": "अन्न साम्राज्यों का अधिपति है, वह मेरी रक्षा करे",
+        "en": "Food is the lord of kingdoms; may it protect me",
+        "bho": "अनाज साम्राज्य के अधिपति बा, ऊ हमार रक्षा करे"
+      }
+    },
+    {
+      "sa": "सोमः ओषधीनाम् सविता प्रसवानाम्",
+      "gloss": {
+        "hi": "सोम ओषधियों का, सविता प्रेरणाओं का",
+        "en": "Soma of the plants, Savitar of impulses",
+        "bho": "सोम ओषधि के, सविता प्रेरना के"
+      }
+    },
+    {
+      "sa": "रुद्रः पशूनाम् त्वष्टा रूपाणाम्",
+      "gloss": {
+        "hi": "रुद्र पशुओं का, त्वष्टा रूपों का",
+        "en": "Rudra of the cattle, Tvashtar of forms",
+        "bho": "रुद्र पसु के, त्वष्टा रूप के"
+      }
+    },
+    {
+      "sa": "विष्णुः पर्वतानाम् मरुतः गणानाम् अधिपतयः ते मा अवन्तु",
+      "gloss": {
+        "hi": "विष्णु पर्वतों का, मरुत् गणों के अधिपति — वे मेरी रक्षा करें",
+        "en": "Vishnu of the mountains, the Maruts lords of the hosts — may they protect me",
+        "bho": "विष्णु पहाड़ के, मरुत गन के अधिपति — ऊ लोग हमार रक्षा करसु"
+      }
+    },
+    {
+      "sa": "पितरः पितामहाः परे अवरे ततास् ततामहाः इह मा अवन्तु",
+      "gloss": {
+        "hi": "पिता, पितामह, पूर्व और परवर्ती, पिता और पितामह — यहाँ मेरी रक्षा करें",
+        "en": "the fathers, grandfathers, those before and after, fathers and grandfathers — may they protect me here",
+        "bho": "बाप, दादा, आगे-पाछे के, बाप आ दादा लोग — इहाँ हमार रक्षा करसु"
+      }
+    },
+    {
+      "sa": "अस्मिन् ब्रह्मणि अस्मिन् क्षत्रे अस्याम् आशिषि",
+      "gloss": {
+        "hi": "इस ब्रह्म में, इस क्षत्र में, इस आशीर्वाद में",
+        "en": "in this brahman, in this kshatra, in this blessing",
+        "bho": "एह ब्रह्म में, एह क्षत्र में, एह आसीस में"
+      }
+    },
+    {
+      "sa": "अस्यां पुरोधायाम् अस्मिन् कर्मणि अस्यां देवहूत्यां स्वाहा",
+      "gloss": {
+        "hi": "इस पुरोहिती में, इस कर्म में, इस देव-आह्वान में — स्वाहा",
+        "en": "in this priestly office, in this rite, in this invocation of the gods — svaha",
+        "bho": "एह पुरोहिती में, एह करम में, एह देव-आह्वान में — स्वाहा"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "अग्नि प्राणियों का अधिपति है — वह मेरी रक्षा करे; इंद्र श्रेष्ठों का, यम पृथिवी का, वायु अंतरिक्ष का, सूर्य द्यौ का, चंद्र नक्षत्रों का, बृहस्पति वेद का, मित्र सत्यों का, वरुण जलों का, समुद्र नदियों का, अन्न साम्राज्यों का, सोम ओषधियों का, सविता प्रेरणाओं का, रुद्र पशुओं का, त्वष्टा रूपों का, विष्णु पर्वतों का, मरुत् गणों के अधिपति — वे मेरी रक्षा करें; पितर, पितामह, पूर्व और परवर्ती — यहाँ मेरी रक्षा करें: इस ब्रह्म में, इस क्षत्र में, इस आशीर्वाद में, इस पुरोहिती में, इस कर्म में, इस देव-आह्वान में — स्वाहा।",
+    "en": "Agni is lord of beings — may he protect me; Indra of the eldest, Yama of the earth, Vayu of the mid-air, Surya of the sky, the Moon of the stars, Brihaspati of the Veda, Mitra of truths, Varuna of the waters, the Ocean of the rivers, Food of kingdoms, Soma of the plants, Savitar of impulses, Rudra of the cattle, Tvashtar of forms, Vishnu of the mountains, the Maruts lords of the hosts — may they protect me; the fathers and grandfathers, those before and after — may they protect me here: in this brahman, in this kshatra, in this blessing, in this priestly office, in this rite, in this invocation of the gods — svaha.",
+    "bho": "अग्नि जीव सब के अधिपति बाड़न — ऊ हमार रक्षा करसु; इंदर बड़ लोग के, यम धरती के, बयार अंतरिक्ष के, सुरुज आकास के, चंदा नक्षत्र के, बृहस्पति वेद के, मित्र सत्य के, वरुण जल के, समुंदर नदी के, अनाज साम्राज्य के, सोम ओषधि के, सविता प्रेरना के, रुद्र पसु के, त्वष्टा रूप के, विष्णु पहाड़ के, मरुत गन के अधिपति — ऊ लोग हमार रक्षा करसु; पितर, दादा-परदादा, आगे-पाछे के — इहाँ हमार रक्षा करसु: एह ब्रह्म में, एह क्षत्र में, एह आसीस में, एह पुरोहिती में, एह करम में, एह देव-आह्वान में — स्वाहा।"
+  },
+  "explanation": {
+    "hi": "\"अभ्यातान\" (अभि-आ-तन्: फैलाकर रक्षा) आहुतियाँ: हर देवता को उसके क्षेत्र का अधिपति कहकर रक्षा माँगी जाती है। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.10 पूरा पाठ एक साथ देता है और कहता है \"सर्वत्र अनुषजति\" — \"इस ब्रह्म में, इस क्षत्र में…\" वाला अंश हर नाम के साथ जोड़ा जाए। माध्यंदिन पोथी इसलिए अठारह आहुतियाँ करवाती है — अग्नि से मरुतों तक सत्रह और पितरों की अठारहवीं; चौदहवीं (रुद्र) के बाद प्रणीता के जल से अँगुलियाँ धोने का नियम है। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.7 के अनुसार ये राष्ट्रभृत् और जया के साथ विकल्प हैं। क्रम [विवाह](/occasions/vivah/) पृष्ठ पर, हवन का ढाँचा [हवन विधि](/occasions/havan-vidhi/) पर।",
+    "en": "The \"abhyatana\" (abhi-a-tan: protection spread over all) oblations name each god as lord of his domain and ask for protection. [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.10 gives the whole text in one piece and adds \"he joins it everywhere\" — the clause \"in this brahman, in this kshatra…\" is attached to every name. The Madhyandina pothi therefore has eighteen oblations offered — seventeen from Agni to the Maruts and an eighteenth to the ancestors; after the fourteenth (Rudra) the fingers are washed with water from the pranita. By [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.7 they are optional, together with the rashtrabhrit and jaya. The order is on the [wedding](/occasions/vivah/) page, the havan frame on [havan vidhi](/occasions/havan-vidhi/).",
+    "bho": "\"अभ्यातान\" (अभि-आ-तन्: पसार के रक्षा) आहुति: हर देवता के ओकर क्षेत्र के अधिपति कह के रक्षा माँगल जाला। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.10 पूरा पाठ एक साथे देला आ कहेला \"सर्वत्र अनुषजति\" — \"एह ब्रह्म में, एह क्षत्र में…\" वाला अंश हर नाँव के साथे जोड़ल जाए। माध्यंदिन पोथी एह से अठारह आहुति करवावेला — अग्नि से मरुत तक सतरह आ पितर के अठारहवाँ; चउदहवाँ (रुद्र) के बाद प्रणीता के जल से अँगुरी धोवे के नियम बा। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.7 के हिसाब से ई राष्ट्रभृत् आ जया के साथे विकल्प बा। क्रम [बियाह](/occasions/vivah/) पन्ना पर, हवन के ढाँचा [हवन विधि](/occasions/havan-vidhi/) पर।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-pgs",
+    "retrieved": "2026-11-01",
+    "modified": "closing इति (…देवहूत्यां स्वाहेति सर्वत्रानुषजति) removed; the Wikisource reading अधिपति तन्मावतु kept as printed (the paddhati reads अधिपतिः स मावतु); ॥ added"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-sbe29",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Paraskara Grihya Sutra (ancient Sanskrit, public domain); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "havan",
+    "abhyatana"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

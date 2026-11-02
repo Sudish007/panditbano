@@ -1,0 +1,84 @@
+{
+  "id": "vs-15-8",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 15.8; vivah paddhati: recited before the seven steps of the saptapadi",
+  "title": {
+    "hi": "प्रतिपदसि प्रतिपदे त्वा",
+    "en": "Pratipad asi pratipade tva",
+    "bho": "प्रतिपदसि प्रतिपदे त्वा"
+  },
+  "devanagari": "प्रति॒पद॑सि प्रति॒पदे॑ त्वाऽनु॒पद॑स्यनु॒पदे॑ त्वा स॒म्पद॑सि स॒म्पदे॑ त्वा तेजो॑ऽसि॒ तेज॑से त्वा ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "प्रतिपत् असि प्रतिपदे त्वा",
+      "gloss": {
+        "hi": "तू प्रतिपद् (पहला पग, आधार) है; प्रतिपद् के लिए तुझे (रखता हूँ)",
+        "en": "you are the first step (the foothold); for the first step (I place) you",
+        "bho": "तू प्रतिपद (पहिला डेग, आधार) बाड़ू; प्रतिपद खातिर तोहरा के (धरत बानी)"
+      }
+    },
+    {
+      "sa": "अनुपत् असि अनुपदे त्वा",
+      "gloss": {
+        "hi": "तू अनुपद् (अगला पग) है; अनुपद् के लिए तुझे",
+        "en": "you are the following step; for the following step you",
+        "bho": "तू अनुपद (अगिला डेग) बाड़ू; अनुपद खातिर तोहरा के"
+      }
+    },
+    {
+      "sa": "सम्पत् असि सम्पदे त्वा",
+      "gloss": {
+        "hi": "तू संपद् (समृद्धि) है; संपद् के लिए तुझे",
+        "en": "you are prosperity; for prosperity you",
+        "bho": "तू संपद (समृद्धि) बाड़ू; संपद खातिर तोहरा के"
+      }
+    },
+    {
+      "sa": "तेजः असि तेजसे त्वा",
+      "gloss": {
+        "hi": "तू तेज है; तेज के लिए तुझे",
+        "en": "you are splendour; for splendour you",
+        "bho": "तू तेज बाड़ू; तेज खातिर तोहरा के"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "तू पहला पग है — पहले पग के लिए तुझे; तू अगला पग है — अगले पग के लिए तुझे; तू समृद्धि है — समृद्धि के लिए तुझे; तू तेज है — तेज के लिए तुझे।",
+    "en": "You are the first step — for the first step, you; you are the following step — for the following step, you; you are prosperity — for prosperity, you; you are splendour — for splendour, you.",
+    "bho": "तू पहिला डेग बाड़ू — पहिला डेग खातिर तोहरा के; तू अगिला डेग बाड़ू — अगिला डेग खातिर तोहरा के; तू समृद्धि बाड़ू — समृद्धि खातिर तोहरा के; तू तेज बाड़ू — तेज खातिर तोहरा के।"
+  },
+  "explanation": {
+    "hi": "[शुक्लयजुर्वेद अध्याय 15](https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_१५) का यह मंत्र अग्निचयन में ईंटें रखने का है — \"तू पद है, पद के लिए तुझे रखता हूँ\"। [[vivah]] की माध्यंदिन पोथी शब्द-साम्य से इसे [[saptapadi]] के सात मंडल (ऐपन के सात घेरे या लावा के सात पुंज) बनाने और \"सप्ताचल-पूजन\" के संकल्प के बाद पढ़ाती है, फिर सात पदों के सात मंत्र (\"एकमिषे…\") आते हैं। यह प्रयोग पद्धति का है, सूत्र का नहीं — [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.8.1 सीधे सात पदों से शुरू होता है।",
+    "en": "This verse of [Vajasaneyi Samhita 15](https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_१५) is a brick-laying formula of the fire-altar rite — \"you are the step; for the step I place you\". By its play on \"pada\" (step) the Madhyandina wedding pothi has it recited after the seven circles of aipan (or seven heaps of parched grain) are drawn for the saptapadi and the \"saptachala-pujan\" sankalpa is made; the seven step-mantras (\"ekam ishe…\") follow. This use is the handbook's, not the sutra's — [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.8.1 begins directly with the seven steps.",
+    "bho": "[शुक्लयजुर्वेद अध्याय 15](https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_१५) के ई मंत्र अग्निचयन में ईंटा धरे के बा — \"तू पद बाड़ू, पद खातिर तोहरा के धरत बानी\"। [[vivah]] के माध्यंदिन पोथी शब्द-साम्य से एकरा [[saptapadi]] के सात मंडल (ऐपन के सात घेरा भा लावा के सात ढेरी) बनावे आ \"सप्ताचल-पूजन\" के संकल्प के बाद पढ़ावेला, फेर सात डेग के सात मंत्र (\"एकमिषे…\") आवेला। ई प्रयोग पद्धति के बा, सूत्र के ना — [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.8.1 सीधे सात डेग से सुरू होला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-15",
+    "retrieved": "2026-11-01",
+    "modified": false
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit, public domain; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "saptapadi"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

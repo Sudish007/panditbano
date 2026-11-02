@@ -1,0 +1,123 @@
+{
+  "id": "pad-tirtha-vratodyapana",
+  "kind": "paddhati",
+  "locator": "vivah paddhati: after the saptapadi — the bride's seven vows (कन्या के सात वचन), read out by the bride's side's pandit",
+  "title": {
+    "hi": "कन्या के सात वचन — तीर्थव्रतोद्यापन",
+    "en": "The bride's seven vows — tirthavratodyapana",
+    "bho": "कनिया के सात वचन — तीर्थव्रतोद्यापन"
+  },
+  "devanagari": "तीर्थव्रतोद्यापनयज्ञदानं मया सह त्वं यदि कान्त कुर्याः । वामाङ्गमायामि तदा त्वदीयं जगाद वाक्यं प्रथमं कुमारी ॥ हव्यप्रदानैरमरान् पितृंश्च कव्यप्रदानैर्यदि पूजयेथाः । वामाङ्गमायामि तदा त्वदीयं जगाद कन्या वचनं द्वितीयम् ॥ कुटुम्बरक्षाभरणं यदि त्वं कुर्याः पशूनां परिपालनं च । वामाङ्गमायामि तदा त्वदीयं जगाद कन्या वचनं तृतीयम् ॥ आयं व्ययं धान्यधनादिकानां दृष्ट्वा निवेशं प्रगृहं निदध्याः । वामाङ्गमायामि तदा त्वदीयं जगाद कन्या वचनं चतुर्थकम् ॥ देवालयारामतडागकूपवापीर्विदध्या यदि पूजयेथाः । वामाङ्गमायामि तदा त्वदीयं जगाद कन्या वचनं पञ्चमम् ॥ देशान्तरे वा स्वपुरान्तरे वा यदा विदध्याः क्रयविक्रये त्वम् । वामाङ्गमायामि तदा त्वदीयं जगाद कन्या वचनं षष्ठम् ॥ न सेवनीया परकीयजाया त्वया भवे भाविनि कामनीश्च । वामाङ्गमायामि तदा त्वदीयं जगाद कन्या वचनं सप्तमम् ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "तीर्थव्रतोद्यापनयज्ञदानं मया सह त्वं यदि कान्त कुर्याः",
+      "gloss": {
+        "hi": "हे कांत, तीर्थ, व्रत, उद्यापन, यज्ञ और दान यदि तू मेरे साथ करे",
+        "en": "if, beloved, you do pilgrimage, vows, their completion, sacrifice and gifts together with me",
+        "bho": "हे कांत, तीरथ, बरत, उद्यापन, जग्य आ दान अगर तू हमरा साथे करू"
+      }
+    },
+    {
+      "sa": "वामाङ्गम् आयामि तदा त्वदीयम्",
+      "gloss": {
+        "hi": "तो मैं तेरे वाम अंग में आती हूँ (पत्नी बनती हूँ)",
+        "en": "then I come to your left side (become your wife)",
+        "bho": "त हम तोहरा बाईं ओर आवत बानी (पत्नी बनत बानी)"
+      }
+    },
+    {
+      "sa": "जगाद वाक्यं प्रथमं कुमारी",
+      "gloss": {
+        "hi": "कुमारी ने पहला वाक्य कहा",
+        "en": "the maiden spoke her first word",
+        "bho": "कुमारी पहिला वाक्य कहली"
+      }
+    },
+    {
+      "sa": "हव्यप्रदानैः अमरान् पितृन् च कव्यप्रदानैः यदि पूजयेथाः",
+      "gloss": {
+        "hi": "यदि हव्य से देवों की और कव्य से पितरों की पूजा करे",
+        "en": "if you worship the gods with havya and the ancestors with kavya offerings",
+        "bho": "अगर हव्य से देव के आ कव्य से पितर के पूजा करू"
+      }
+    },
+    {
+      "sa": "कुटुम्बरक्षाभरणं यदि त्वं कुर्याः पशूनां परिपालनं च",
+      "gloss": {
+        "hi": "यदि परिवार की रक्षा और भरण और पशुओं का पालन करे",
+        "en": "if you protect and provide for the family and tend the cattle",
+        "bho": "अगर परिवार के रक्षा आ भरन आ पसु के पालन करू"
+      }
+    },
+    {
+      "sa": "आयं व्ययं धान्यधनादिकानां दृष्ट्वा निवेशं प्रगृहं निदध्याः",
+      "gloss": {
+        "hi": "अन्न-धन आदि की आय-व्यय देखकर घर सँभाले",
+        "en": "if you keep the house watching the income and expense of grain and wealth",
+        "bho": "अनाज-धन के आमदनी-खरच देख के घर सँभारू"
+      }
+    },
+    {
+      "sa": "देवालयारामतडागकूपवापीः विदध्याः यदि पूजयेथाः",
+      "gloss": {
+        "hi": "यदि देवालय, बाग, तालाब, कूप, बावड़ी बनवाकर पूजा करे",
+        "en": "if you build temples, gardens, tanks, wells and step-wells and do worship",
+        "bho": "अगर देवालय, बगइचा, पोखरा, इनार, बावली बनवा के पूजा करू"
+      }
+    },
+    {
+      "sa": "देशान्तरे वा स्वपुरान्तरे वा यदा विदध्याः क्रयविक्रये त्वम्",
+      "gloss": {
+        "hi": "परदेश में या अपने नगर में व्यापार करे (तो मुझसे पूछे)",
+        "en": "when you trade abroad or in your own town (you consult me)",
+        "bho": "परदेस में भा आपन नगर में बेपार करू (त हमरा से पूछू)"
+      }
+    },
+    {
+      "sa": "न सेवनीया परकीयजाया त्वया भवे भाविनि कामनीः च",
+      "gloss": {
+        "hi": "हे भाविनि, जीवन में पराई स्त्री और कामिनियों का सेवन न करे",
+        "en": "that in this life you never go to another's wife or to loose women",
+        "bho": "जीवन में परायी मेहरारू आ कामिनी के पास ना जाव"
+      }
+    },
+    {
+      "sa": "जगाद कन्या वचनं सप्तमम्",
+      "gloss": {
+        "hi": "कन्या ने सातवाँ वचन कहा",
+        "en": "the maiden spoke her seventh word",
+        "bho": "कनिया सातवाँ वचन कहली"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "कन्या कहती है: हे कांत, यदि तीर्थ, व्रत, उद्यापन, यज्ञ और दान मेरे साथ करो तो मैं तुम्हारी वामांगी बनूँ — यह पहला वचन। यदि हव्य से देवों और कव्य से पितरों की पूजा करो — दूसरा। यदि परिवार की रक्षा-भरण और पशुओं का पालन करो — तीसरा। यदि अन्न-धन की आय-व्यय देखकर घर सँभालो — चौथा। यदि देवालय, बाग, तालाब, कूप, बावड़ी बनवाकर पूजा करो — पाँचवाँ। परदेश में या अपने नगर में व्यापार करो (तो मुझसे सलाह लो) — छठा। जीवन में पराई स्त्री के पास कभी न जाओ — सातवाँ।",
+    "en": "The maiden says: Beloved, if you do pilgrimage, vows, their completion, sacrifice and gifts together with me, then I come to your left side — her first word. If you worship the gods with havya and the ancestors with kavya — the second. If you protect and provide for the family and tend the cattle — the third. If you keep the house watching the income and expense of grain and wealth — the fourth. If you build temples, gardens, tanks, wells and step-wells and do worship — the fifth. When you trade abroad or in your own town (consult me) — the sixth. Never, in this life, go to another's wife — the seventh.",
+    "bho": "कनिया कहत बाड़ी: हे कांत, अगर तीरथ, बरत, उद्यापन, जग्य आ दान हमरा साथे करब त हम राउर वामांगी बनब — ई पहिला वचन। अगर हव्य से देव आ कव्य से पितर के पूजा करब — दोसरा। अगर परिवार के रक्षा-भरन आ पसु के पालन करब — तीसरा। अगर अनाज-धन के आमदनी-खरच देख के घर सँभारब — चउथा। अगर देवालय, बगइचा, पोखरा, इनार, बावली बनवा के पूजा करब — पाँचवाँ। परदेस में भा आपन नगर में बेपार करब (त हमरा से सलाह लेब) — छठा। जीवन में परायी मेहरारू के पास कबो ना जाइब — सातवाँ।"
+  },
+  "explanation": {
+    "hi": "यह श्लोक न शुक्ल यजुर्वेद में है न [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) में — यह पद्धति-परत का है, जैसा उत्तर भारत की माध्यंदिन [विवाह-पद्धति](https://archive.org/details/mvf_20240803_20240803_1558) छापती है; स्वर नहीं हैं। \"सात वचन\" हिंदी-भाषी क्षेत्र के विवाह का लोकप्रिय अंग है — इन्हें प्रायः \"सात फेरों के वचन\" कहा जाता है, पर पोथी में ये [[saptapadi]] के बाद कन्या-पक्ष के पंडित द्वारा पढ़े जाने वाले सात श्लोक हैं, और वर के वचन उनके बाद। ये श्लोक न वैदिक हैं न सूत्र के — उत्तर-मध्यकालीन पद्धति-काव्य हैं, जिनके पाठ पोथियों और वेबसाइटों में बहुत भिन्न मिलते हैं (कुछ पाठों में दूसरा वचन माता-पिता के सम्मान का और तीसरा तीन अवस्थाओं के पालन का है); यहाँ द्विवेदी पोथी का पाठ है। भाव: पत्नी धर्म, यज्ञ, घर, धन और व्यापार के निर्णयों में सहभागिनी है और पति से एकनिष्ठा चाहती है। परिवार चाहें तो वचनों का सार अपनी भाषा में भी कह सकते हैं। क्रम [विवाह](/occasions/vivah/) पृष्ठ पर।",
+    "en": "This verse is neither in the Shukla Yajurveda nor in the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) — it belongs to the handbook (paddhati) layer, as the Madhyandina [wedding handbook](https://archive.org/details/mvf_20240803_20240803_1558) of North India prints it; there are no accents. The \"seven vows\" are a popular part of the Hindi-belt wedding — often called \"the vows of the seven pheras\", but in the pothi they are seven verses read out by the bride's side's pandit after the saptapadi, with the groom's vows after them. They are neither Vedic nor from the sutra — late-medieval handbook poetry whose text varies a great deal between pothis and websites (in some versions the second vow is about honouring the parents and the third about support in the three stages of life); the text here is the Dwivedi pothi's. Their sense: the wife is a partner in dharma, sacrifice, home, wealth and business decisions, and asks the husband for fidelity. Families who wish may also say the gist of the vows in their own language. The order is on the [wedding](/occasions/vivah/) page.",
+    "bho": "ई श्लोक ना शुक्ल यजुर्वेद में बा ना [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) में — ई पद्धति-परत के बा, जइसन उत्तर भारत के माध्यंदिन [बियाह-पद्धति](https://archive.org/details/mvf_20240803_20240803_1558) छापेला; स्वर नइखे। \"सात वचन\" हिंदी-भाषी इलाका के बियाह के लोकप्रिय अंग बा — एकरा अक्सर \"सात फेरा के वचन\" कहल जाला, बाकिर पोथी में ई [[saptapadi]] के बाद कनिया-पच्छ के पंडित से पढ़ल जाए वाला सात श्लोक बा, आ दुलहा के वचन ओकरा बाद। ई श्लोक ना वैदिक बा ना सूत्र के — उत्तर-मध्यकाल के पद्धति-काव्य बा, जेकर पाठ पोथी आ वेबसाइट में ढेर अलग-अलग मिलेला (कुछ पाठ में दोसरा वचन माई-बाबूजी के सम्मान के आ तीसरा तीन अवस्था में पालन के बा); इहाँ द्विवेदी पोथी के पाठ बा। भाव: पत्नी धरम, जग्य, घर, धन आ बेपार के फैसला में साथी बाड़ी आ पति से एकनिष्ठा चाहत बाड़ी। परिवार चाहे त वचन के सार आपन भाषा में भी कह सकेला। क्रम [बियाह](/occasions/vivah/) पन्ना पर।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-vivah-mvf",
+    "retrieved": "2026-11-01",
+    "modified": "OCR of the handbook normalised: \"बामांग\" → वामाङ्ग throughout; \"रमरान्\" → अमरान्; \"पितुंश्च\" → पितृंश्च; \"परिकीयजाया\" → परकीयजाया; \"सप्तम्\" → सप्तमम्; compounds joined (तीर्थव्रतोद्यापनयज्ञदानं, देवालयारामतडागकूपवापीः, क्रयविक्रये); the pothi's Hindi glosses not copied — the reading of the second line of vow 5 (वापी विदध्या) is uncertain in the OCR"
+  },
+  "copyright": "uncertain",
+  "reproduce": true,
+  "copyrightBasis": "late-medieval Sanskrit verses printed in modern wedding handbooks (author unknown); reproduced under brief §14; the handbook's Hindi glosses are not copied",
+  "tags": [
+    "vivah",
+    "saptapadi",
+    "saat-vachan",
+    "lokachara"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "id": "pgs-1-6-3",
+  "kind": "vedic",
+  "text": "paraskara-grihya-sutra",
+  "locator": "PGS 1.6.3 (panigrahana — he takes her right hand with the thumb); vivah paddhati: angushtha-grahan after each laja oblation",
+  "title": {
+    "hi": "पाणिग्रहण — गृभ्णामि ते सौभगत्वाय हस्तम्",
+    "en": "Panigrahana — gribhnami te saubhagatvaya hastam",
+    "bho": "पाणिग्रहण — गृभ्णामि ते सौभगत्वाय हस्तम्"
+  },
+  "devanagari": "गृभ्णामि ते सौभगत्वाय हस्तं मया पत्या जरदष्टिर्यथासः । भगो अर्यमा सविता पुरन्धिर्मह्यं त्वादुर्गार्हपत्याय देवाः ॥ अमोऽहमस्मि सा त्वं सा त्वमस्यमोऽहम् । सामाहमस्मि ऋक्त्वं द्यौरहं पृथिवी त्वम् ॥ तावेहि विवहावहै सह रेतो दधावहै प्रजां प्रजनयावहै पुत्रान्विन्दावहै बहून् ॥ ते सन्तु जरदष्टयः संप्रियौ रोचिष्णू सुमनस्यमानौ पश्येम शरदः शतं जीवेम शरदः शतं शृणुयाम शरदः शतम् ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "गृभ्णामि ते सौभगत्वाय हस्तम्",
+      "gloss": {
+        "hi": "सौभाग्य के लिए तेरा हाथ ग्रहण करता हूँ",
+        "en": "I take your hand for good fortune",
+        "bho": "सौभाग्य खातिर तोहार हाथ धरत बानी"
+      }
+    },
+    {
+      "sa": "मया पत्या जरदष्टिः यथा असः",
+      "gloss": {
+        "hi": "जिससे तू मुझ पति के साथ वृद्धावस्था तक जीए",
+        "en": "that you may reach old age with me, your husband",
+        "bho": "जेह से तू हमरा पति के साथे बुढ़ापा तक जिअ"
+      }
+    },
+    {
+      "sa": "भगः अर्यमा सविता पुरन्धिः",
+      "gloss": {
+        "hi": "भग, अर्यमा, सविता, पुरंधि (देवों ने)",
+        "en": "Bhaga, Aryaman, Savitar, Purandhi — (the gods)",
+        "bho": "भग, अर्यमा, सविता, पुरंधि (देव लोग)"
+      }
+    },
+    {
+      "sa": "मह्यं त्वा अदुः गार्हपत्याय देवाः",
+      "gloss": {
+        "hi": "देवों ने तुझे गृहस्थी के लिए मुझे दिया",
+        "en": "the gods have given you to me for the household life",
+        "bho": "देव लोग तोहरा के गिरहस्ती खातिर हमरा के दिहलन"
+      }
+    },
+    {
+      "sa": "अमः अहम् अस्मि सा त्वम्",
+      "gloss": {
+        "hi": "मैं \"अम\" (साम का सार) हूँ, तू \"सा\" (ऋचा)",
+        "en": "I am \"ama\" (the melody), you are \"sa\" (the verse)",
+        "bho": "हम \"अम\" (साम के सार) बानी, तू \"सा\" (ऋचा)"
+      }
+    },
+    {
+      "sa": "सा त्वम् असि अमः अहम्",
+      "gloss": {
+        "hi": "तू \"सा\" है, मैं \"अम\"",
+        "en": "you are \"sa\", I am \"ama\"",
+        "bho": "तू \"सा\" बाड़ू, हम \"अम\""
+      }
+    },
+    {
+      "sa": "साम अहम् अस्मि ऋक् त्वम्",
+      "gloss": {
+        "hi": "मैं साम हूँ, तू ऋक्",
+        "en": "I am the Saman, you the Rik",
+        "bho": "हम साम बानी, तू ऋक्"
+      }
+    },
+    {
+      "sa": "द्यौः अहम् पृथिवी त्वम्",
+      "gloss": {
+        "hi": "मैं द्यौ हूँ, तू पृथिवी",
+        "en": "I am heaven, you the earth",
+        "bho": "हम आकास बानी, तू धरती"
+      }
+    },
+    {
+      "sa": "तौ एहि विवहावहै",
+      "gloss": {
+        "hi": "आ, हम दोनों विवाह करें",
+        "en": "come, let us two marry",
+        "bho": "आव, हम दुनो बियाह करीं"
+      }
+    },
+    {
+      "sa": "सह रेतः दधावहै",
+      "gloss": {
+        "hi": "साथ संतान-बीज धारण करें",
+        "en": "together let us bear the seed",
+        "bho": "साथे संतान-बीया धारण करीं"
+      }
+    },
+    {
+      "sa": "प्रजां प्रजनयावहै पुत्रान् विन्दावहै बहून्",
+      "gloss": {
+        "hi": "संतान उत्पन्न करें, बहुत पुत्र पाएँ",
+        "en": "let us beget offspring, let us find many sons",
+        "bho": "संतान पैदा करीं, ढेर बेटा पाईं"
+      }
+    },
+    {
+      "sa": "ते सन्तु जरदष्टयः",
+      "gloss": {
+        "hi": "वे दीर्घायु हों",
+        "en": "may they reach old age",
+        "bho": "ऊ लोग लमहर उमिर वाला होखसु"
+      }
+    },
+    {
+      "sa": "संप्रियौ रोचिष्णू सुमनस्यमानौ",
+      "gloss": {
+        "hi": "हम दोनों परस्पर प्रिय, तेजस्वी, प्रसन्न-मन",
+        "en": "we two loving, radiant, kindly-minded",
+        "bho": "हम दुनो एक-दोसरा के प्रिय, तेजवान, खुस-मन"
+      }
+    },
+    {
+      "sa": "पश्येम शरदः शतं जीवेम शरदः शतं शृणुयाम शरदः शतम्",
+      "gloss": {
+        "hi": "सौ शरद देखें, सौ शरद जीएँ, सौ शरद सुनें",
+        "en": "may we see a hundred autumns, live a hundred autumns, hear a hundred autumns",
+        "bho": "सौ सरद देखीं, सौ सरद जिअीं, सौ सरद सुनीं"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "(वर कहता है) सौभाग्य के लिए तेरा हाथ ग्रहण करता हूँ, कि तू मुझ पति के साथ वृद्धावस्था तक जीए; भग, अर्यमा, सविता और पुरंधि देवों ने तुझे गृहस्थी के लिए मुझे दिया है। मैं \"अम\" हूँ, तू \"सा\"; तू \"सा\" है, मैं \"अम\"; मैं साम, तू ऋक्; मैं द्यौ, तू पृथिवी। आ, हम दोनों विवाह करें, साथ संतान-बीज धारण करें, संतान उत्पन्न करें, बहुत पुत्र पाएँ; वे दीर्घायु हों। हम दोनों परस्पर प्रिय, तेजस्वी और प्रसन्न-मन रहें; सौ शरद देखें, सौ शरद जीएँ, सौ शरद सुनें।",
+    "en": "(The groom says) I take your hand for good fortune, that you may reach old age with me, your husband; Bhaga, Aryaman, Savitar and Purandhi — the gods — have given you to me for the household life. I am \"ama\", you are \"sa\"; you are \"sa\", I am \"ama\"; I am the Saman, you the Rik; I am heaven, you the earth. Come, let us two marry, together bear the seed, beget offspring, find many sons; may they reach old age. Loving, radiant and kindly-minded, may we two see a hundred autumns, live a hundred autumns, hear a hundred autumns.",
+    "bho": "(दुलहा कहेला) सौभाग्य खातिर तोहार हाथ धरत बानी, कि तू हमरा पति के साथे बुढ़ापा तक जिअ; भग, अर्यमा, सविता आ पुरंधि देव लोग तोहरा के गिरहस्ती खातिर हमरा के दिहल बा। हम \"अम\" बानी, तू \"सा\"; तू \"सा\" बाड़ू, हम \"अम\"; हम साम, तू ऋक्; हम आकास, तू धरती। आव, हम दुनो बियाह करीं, साथे संतान-बीया धारण करीं, संतान पैदा करीं, ढेर बेटा पाईं; ऊ लोग लमहर उमिर वाला होखसु। हम दुनो एक-दोसरा के प्रिय, तेजवान आ खुस-मन रहीं; सौ सरद देखीं, सौ सरद जिअीं, सौ सरद सुनीं।"
+  },
+  "explanation": {
+    "hi": "[[panigrahan]] — हाथ पकड़ना — हिंदू विवाह का शास्त्रीय नाम भी है। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.6.3: \"फिर वह उसका दाहिना हाथ अँगूठे के साथ पकड़ता है\" और यह लंबा मंत्र पढ़ता है — पहली ऋचा ऋग्वेद 10.85.36 है, \"अमोऽहमस्मि सा त्वम्\" अथर्ववेद 14.2.71 का, और \"तावेहि विवहावहै…\" संतान और सौ वर्ष के साथ की प्रतिज्ञा। \"अम\" और \"सा\" साम-गान के दो स्वर-अंश हैं — साम और ऋक्, द्यौ और पृथिवी की तरह दो पूरक। अन्य गृह्यसूत्र (शांखायन, आश्वलायन) कहते हैं कि पुत्र-कामना में अँगूठा, पुत्री-कामना में केवल अँगुलियाँ पकड़ी जाएँ; पारस्कर में अँगूठे के साथ पूरा हाथ है और माध्यंदिन पोथी \"अंगुष्ठ-ग्रहण\" कहकर यही करवाती है — हर लाजा-आहुति के बाद, तीन बार। क्रम [विवाह](/occasions/vivah/) पृष्ठ पर।",
+    "en": "Panigrahana — the taking of the hand — is also the classical name of the Hindu wedding. [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.6.3: \"then he takes her right hand together with the thumb\" and recites this long formula — the first stanza is Rigveda 10.85.36, \"amo 'ham asmi sa tvam\" is Atharvaveda 14.2.71, and \"tav ehi vivahavahai…\" is the pledge of children and a hundred shared years. \"Ama\" and \"sa\" are the two tonal elements of Saman chant — two complements, like Saman and Rik, heaven and earth. Other Grihya Sutras (Shankhayana, Ashvalayana) say the thumb is held when sons are desired and only the fingers when daughters are; Paraskara has the whole hand with the thumb, and the Madhyandina pothi does exactly that under the name \"angushtha-grahan\" — after each laja oblation, three times. The order is on the [wedding](/occasions/vivah/) page.",
+    "bho": "[[panigrahan]] — हाथ धरल — हिंदू बियाह के शास्त्रीय नाँव भी बा। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.6.3: \"फेर ऊ ओकर दहिना हाथ अँगूठा के साथे धरेला\" आ ई लमहर मंत्र पढ़ेला — पहिला ऋचा ऋग्वेद 10.85.36 बा, \"अमोऽहमस्मि सा त्वम्\" अथर्ववेद 14.2.71 के, आ \"तावेहि विवहावहै…\" संतान आ सौ साल संगे रहे के प्रतिज्ञा। \"अम\" आ \"सा\" साम-गान के दू सुर-अंश बा — साम आ ऋक्, आकास आ धरती जइसन दू पूरक। दोसर गृह्यसूत्र (शांखायन, आश्वलायन) कहेला कि बेटा के कामना में अँगूठा, बेटी के कामना में खाली अँगुरी धरल जाए; पारस्कर में अँगूठा के साथे पूरा हाथ बा आ माध्यंदिन पोथी \"अंगुष्ठ-ग्रहण\" कह के इहे करवावेला — हर लाजा-आहुति के बाद, तीन बेर। क्रम [बियाह](/occasions/vivah/) पन्ना पर।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-pgs",
+    "retrieved": "2026-11-01",
+    "modified": "भगोऽऽर्यमा → भगो अर्यमा and त्वाऽदुर्गार्हपत्याय → त्वादुर्गार्हपत्याय (stray avagrahas of the Wikisource typesetting; the paddhati and TITUS read भगो अर्यमा / त्वादुः); the Wikisource cross-reference \"(शौअ. १४.२.७१)\" removed; विन्द्यावहै → विन्दावहै (the paddhati and AV 14.2.71 reading); the four parts separated by ॥; closing इति removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-sbe29",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Paraskara Grihya Sutra (ancient Sanskrit, public domain); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "panigrahana",
+    "bhanwar"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

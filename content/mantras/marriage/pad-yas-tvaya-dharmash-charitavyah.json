@@ -1,0 +1,82 @@
+{
+  "id": "pad-yas-tvaya-dharmash-charitavyah",
+  "kind": "paddhati",
+  "locator": "vivah paddhati: kanyadaan — the giver's charge said three times, with the groom's answer \"नातिचरामि\"",
+  "title": {
+    "hi": "कन्यादान का वचन — धर्मे चार्थे च कामे च नातिचरामि",
+    "en": "The kanyadaan charge — dharme charthe cha kame cha nati charami",
+    "bho": "कन्यादान के वचन — धर्मे चार्थे च कामे च नातिचरामि"
+  },
+  "devanagari": "ॐ यस्त्वया धर्मश्चरितव्यः सोऽनया सह । धर्मे चार्थे च कामे च त्वयेयं नातिचरितव्या ॥ ॐ नातिचरामि ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "यः त्वया धर्मः चरितव्यः",
+      "gloss": {
+        "hi": "जो धर्म तुझे करना है",
+        "en": "the dharma that you are to practise",
+        "bho": "जे धरम तोहरा करे के बा"
+      }
+    },
+    {
+      "sa": "सः अनया सह",
+      "gloss": {
+        "hi": "वह इसके (इस कन्या के) साथ (करना है)",
+        "en": "that (you are to practise) together with her",
+        "bho": "ऊ एकरा (एह कनिया के) साथे (करे के बा)"
+      }
+    },
+    {
+      "sa": "धर्मे च अर्थे च कामे च",
+      "gloss": {
+        "hi": "धर्म में, अर्थ में और काम में",
+        "en": "in dharma, in wealth and in desire",
+        "bho": "धरम में, अरथ में आ काम में"
+      }
+    },
+    {
+      "sa": "त्वया इयं न अतिचरितव्या",
+      "gloss": {
+        "hi": "तुझे इसका उल्लंघन नहीं करना है (इसे छोड़ना या धोखा नहीं देना)",
+        "en": "you are not to transgress against her (not to neglect or betray her)",
+        "bho": "तोहरा एकर उल्लंघन ना करे के बा (एकरा छोड़ल भा धोखा ना दिहल)"
+      }
+    },
+    {
+      "sa": "न अतिचरामि",
+      "gloss": {
+        "hi": "(वर:) मैं उल्लंघन नहीं करूँगा",
+        "en": "(the groom:) I shall not transgress",
+        "bho": "(दुलहा:) हम उल्लंघन ना करब"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "(कन्या-पिता:) जो धर्म तुझे करना है, वह इसके साथ करना है; धर्म, अर्थ और काम में तुझे इसका उल्लंघन नहीं करना है। (वर:) मैं उल्लंघन नहीं करूँगा।",
+    "en": "(The bride's father:) The dharma you are to practise, practise together with her; in dharma, in wealth and in desire you are not to transgress against her. (The groom:) I shall not transgress.",
+    "bho": "(कनिया-पिता:) जे धरम तोहरा करे के बा, ऊ एकरा साथे करे के बा; धरम, अरथ आ काम में तोहरा एकर उल्लंघन ना करे के बा। (दुलहा:) हम उल्लंघन ना करब।"
+  },
+  "explanation": {
+    "hi": "यह श्लोक न शुक्ल यजुर्वेद में है न [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) में — यह पद्धति-परत का है, जैसा उत्तर भारत की माध्यंदिन [विवाह-पद्धति](https://archive.org/details/mvf_20240803_20240803_1558) छापती है; स्वर नहीं हैं। यह [[kanyadaan]] का सबसे जाना हुआ वचन है — हिंदू विवाह की धुरी: कन्या-पिता तीन बार कहता है कि धर्म-अर्थ-काम तीनों में वर इस कन्या का उल्लंघन न करे, वर तीन बार \"नातिचरामि\" (मैं उल्लंघन नहीं करूँगा) कहता है, और हर बार ब्राह्मण [कोऽदात् कस्मा अदात्…](/mantras/vs-7-48/) पढ़ते हैं। यह वचन धर्मशास्त्र की भाषा में है — त्रिवर्ग (धर्म, अर्थ, काम) में पत्नी सहभागिनी है। प्रधान संकल्प के बाद, कन्या का हाथ वर के हाथ में देकर यह कहा जाता है; उसके बाद \"गौरीं कन्यामिमाम्…\" के श्लोक हैं। क्रम [विवाह](/occasions/vivah/) पृष्ठ पर।",
+    "en": "This verse is neither in the Shukla Yajurveda nor in the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) — it belongs to the handbook (paddhati) layer, as the Madhyandina [wedding handbook](https://archive.org/details/mvf_20240803_20240803_1558) of North India prints it; there are no accents. This is the best-known charge of the kanyadaan — the pivot of the Hindu wedding: the bride's father says three times that in dharma, wealth and desire the groom must not transgress against this girl, the groom answers three times \"nati charami\" (I shall not transgress), and each time the Brahmins recite [ko 'dat kasma adat…](/mantras/vs-7-48/). The charge speaks the language of the Dharmashastra — the wife is a partner in the three aims of life (dharma, artha, kama). It is said after the main sankalpa, when the bride's hand has been placed in the groom's; the verses \"gaurim kanyam imam…\" follow. The order is on the [wedding](/occasions/vivah/) page.",
+    "bho": "ई श्लोक ना शुक्ल यजुर्वेद में बा ना [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) में — ई पद्धति-परत के बा, जइसन उत्तर भारत के माध्यंदिन [बियाह-पद्धति](https://archive.org/details/mvf_20240803_20240803_1558) छापेला; स्वर नइखे। ई [[kanyadaan]] के सबसे जानल वचन बा — हिंदू बियाह के धुरी: कनिया-पिता तीन बेर कहेलन कि धरम-अरथ-काम तीनो में दुलहा एह कनिया के उल्लंघन ना करे, दुलहा तीन बेर \"नातिचरामि\" (हम उल्लंघन ना करब) कहेला, आ हर बेर ब्राह्मण [कोऽदात् कस्मा अदात्…](/mantras/vs-7-48/) पढ़ेलन। ई वचन धर्मशास्त्र के भाषा में बा — त्रिवर्ग (धरम, अरथ, काम) में पत्नी साथी बाड़ी। प्रधान संकल्प के बाद, कनिया के हाथ दुलहा के हाथ में देके ई कहल जाला; ओकरा बाद \"गौरीं कन्यामिमाम्…\" के श्लोक बा। क्रम [बियाह](/occasions/vivah/) पन्ना पर।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-vivah-mvf",
+    "retrieved": "2026-11-01",
+    "modified": "OCR of the handbook normalised: \"यस्‌ त्वया\" joined; \"नाति चरितव्या\" / \"नाति चरामि\" joined as नातिचरितव्या / नातिचरामि; the OCR symbols for ॐ restored"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit formula of the Madhyandina wedding handbooks (anonymous, pre-modern); copied from a modern compilation under brief §14.2, no Hindi prose copied",
+  "tags": [
+    "vivah",
+    "kanyadaan",
+    "vachan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

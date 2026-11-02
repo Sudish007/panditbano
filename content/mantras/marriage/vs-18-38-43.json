@@ -1,0 +1,133 @@
+{
+  "id": "vs-18-38-43",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 18.38–43 (six yajus; the paddhati splits each into two ahutis = twelve rashtrabhrit oblations); vivah homa",
+  "title": {
+    "hi": "राष्ट्रभृत् होम — ऋताषाड् ऋतधामा",
+    "en": "Rashtrabhrit oblations — ritashad ritadhama",
+    "bho": "राष्ट्रभृत् होम — ऋताषाड् ऋतधामा"
+  },
+  "devanagari": "ऋ॒ता॒षाडृ॒तधा॑मा॒ऽग्निर्ग॑न्ध॒र्वस्तस्यौ॑षधयोऽप्स॒रसो॒ मुदो॒ नाम॑ । स न॑ इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑तु॒ तस्मै॒ स्वाहा॒ वाट् ताभ्य॒ः स्वाहा॑ ॥ स॒ᳪं᳭हि॒तो वि॒श्वसा॑मा॒ सूर्यो॑ गन्ध॒र्वस्तस्य॒ मरी॑चयोऽप्स॒रस॑ आ॒युवो॒ नाम॑ । स न॑ इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑तु॒ तस्मै॒ स्वाहा॒ वाट् ताभ्य॒ः स्वाहा॑ ॥ सु॒षु॒म्णः सूर्य॑रश्मिश्च॒न्द्रमा॑ गन्ध॒र्वस्तस्य॒ नक्ष॑त्राण्यप्स॒रसो॑ भे॒कुर॑यो॒ नाम॑ । स न॑ इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑तु॒ तस्मै॒ स्वाहा॒ वाट् ताभ्य॒ः स्वाहा॑ ॥ इ॒षि॒रो वि॒श्वव्य॑चा॒ वातो॑ गन्ध॒र्वस्तस्यापो॑ अप्स॒रस॒ ऊर्जो॒ नाम॑ । स न॑ इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑तु॒ तस्मै॒ स्वाहा॒ वाट् ताभ्य॒ः स्वाहा॑ ॥ भु॒ज्युः सु॑प॒र्णो य॒ज्ञो ग॑न्ध॒र्वस्तस्य॒ दक्षि॑णा अप्स॒रस॑स्ता॒वा नाम॑ । स न॑ इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑तु॒ तस्मै॒ स्वाहा॒ वाट् ताभ्य॒ः स्वाहा॑ ॥ प्र॒जाप॑तिर्वि॒श्वक॑र्मा॒ मनो॑ गन्ध॒र्वस्तस्य॑ ऋक्सा॒मान्य॑प्स॒रस॒ एष्ट॑यो॒ नाम॑ । स न॑ इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑तु॒ तस्मै॒ स्वाहा॒ वाट् ताभ्य॒ः स्वाहा॑ ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "ऋताषाट् ऋतधामा अग्निः गन्धर्वः",
+      "gloss": {
+        "hi": "सत्य को धारण करने वाला, सत्य ही जिसका धाम है — ऐसा अग्नि गंधर्व है",
+        "en": "Agni the Gandharva, who upholds truth and whose abode is truth",
+        "bho": "सत्य के धारण करे वाला, सत्य ही जेकर धाम बा — अइसन अग्नि गंधर्व बा"
+      }
+    },
+    {
+      "sa": "तस्य ओषधयः अप्सरसः मुदः नाम",
+      "gloss": {
+        "hi": "उसकी अप्सराएँ ओषधियाँ हैं, \"मुद्\" (आनंद) नाम की",
+        "en": "his Apsarases are the plants, called \"the joys\"",
+        "bho": "ओकर अपसरा ओषधि बा, \"मुद\" (आनंद) नाँव के"
+      }
+    },
+    {
+      "sa": "स नः इदं ब्रह्म क्षत्रं पातु",
+      "gloss": {
+        "hi": "वह हमारे इस ब्रह्म (ज्ञान-बल) और क्षत्र (रक्षा-बल) की रक्षा करे",
+        "en": "may he protect this our brahma (sacred power) and kshatra (ruling power)",
+        "bho": "ऊ हमनी के एह ब्रह्म (ज्ञान-बल) आ क्षत्र (रक्षा-बल) के रक्षा करे"
+      }
+    },
+    {
+      "sa": "तस्मै स्वाहा वाट्",
+      "gloss": {
+        "hi": "उसके लिए स्वाहा, वाट्",
+        "en": "to him svaha, vat",
+        "bho": "ओकरा खातिर स्वाहा, वाट्"
+      }
+    },
+    {
+      "sa": "ताभ्यः स्वाहा",
+      "gloss": {
+        "hi": "उन (अप्सराओं) के लिए स्वाहा",
+        "en": "to those (Apsarases) svaha",
+        "bho": "ओह (अपसरा) लोग खातिर स्वाहा"
+      }
+    },
+    {
+      "sa": "संहितः विश्वसामा सूर्यः गन्धर्वः तस्य मरीचयः आयुवः",
+      "gloss": {
+        "hi": "संहित, विश्वसामा सूर्य गंधर्व — उसकी अप्सराएँ किरणें, \"आयु\" नाम की",
+        "en": "Sun the Gandharva, joined, all-song — his Apsarases the rays, \"the stirring ones\"",
+        "bho": "संहित, विश्वसामा सुरुज गंधर्व — ओकर अपसरा किरिन, \"आयु\" नाँव के"
+      }
+    },
+    {
+      "sa": "सुषुम्णः सूर्यरश्मिः चन्द्रमाः गन्धर्वः तस्य नक्षत्राणि भेकुरयः",
+      "gloss": {
+        "hi": "सुषुम्ण, सूर्य-किरण वाला चंद्र गंधर्व — उसकी अप्सराएँ नक्षत्र, \"भेकुरि\" नाम की",
+        "en": "Moon the Gandharva, gracious, with the Sun's rays — his Apsarases the stars, \"the light-makers\"",
+        "bho": "सुषुम्ण, सुरुज-किरिन वाला चंदा गंधर्व — ओकर अपसरा नक्षत्र, \"भेकुरि\" नाँव के"
+      }
+    },
+    {
+      "sa": "इषिरः विश्वव्यचाः वातः गन्धर्वः तस्य आपः ऊर्जः",
+      "gloss": {
+        "hi": "वेगवान, सर्वव्यापी वायु गंधर्व — उसकी अप्सराएँ जल, \"ऊर्ज\" नाम की",
+        "en": "Wind the Gandharva, swift, all-pervading — his Apsarases the waters, \"the vigours\"",
+        "bho": "तेज, सबके भीतर पसरल बयार गंधर्व — ओकर अपसरा जल, \"ऊर्ज\" नाँव के"
+      }
+    },
+    {
+      "sa": "भुज्युः सुपर्णः यज्ञः गन्धर्वः तस्य दक्षिणाः स्तावाः",
+      "gloss": {
+        "hi": "पालक, सुपर्ण यज्ञ गंधर्व — उसकी अप्सराएँ दक्षिणाएँ, \"स्तावा\" नाम की",
+        "en": "Sacrifice the Gandharva, nourishing, fair-winged — his Apsarases the gifts, \"the praises\"",
+        "bho": "पालक, सुपर्ण जग्य गंधर्व — ओकर अपसरा दक्षिणा, \"स्तावा\" नाँव के"
+      }
+    },
+    {
+      "sa": "प्रजापतिः विश्वकर्मा मनः गन्धर्वः तस्य ऋक्सामानि एष्टयः",
+      "gloss": {
+        "hi": "प्रजापति विश्वकर्मा मन गंधर्व — उसकी अप्सराएँ ऋक् और साम, \"एष्टि\" नाम की",
+        "en": "Mind the Gandharva, Prajapati, all-maker — his Apsarases the Rik and Saman, \"the wishes\"",
+        "bho": "प्रजापति विश्वकर्मा मन गंधर्व — ओकर अपसरा ऋक् आ साम, \"एष्टि\" नाँव के"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "अग्नि, सूर्य, चंद्र, वायु, यज्ञ और मन — ये छह \"गंधर्व\" हैं और ओषधियाँ, किरणें, नक्षत्र, जल, दक्षिणाएँ और ऋक्-साम उनकी \"अप्सराएँ\"। हर युगल से प्रार्थना है: वह हमारे ब्रह्म और क्षत्र — ज्ञान-बल और रक्षा-बल — की रक्षा करे; उसके लिए स्वाहा, उन अप्सराओं के लिए स्वाहा।",
+    "en": "Fire, Sun, Moon, Wind, Sacrifice and Mind are the six \"Gandharvas\", and the plants, the rays, the stars, the waters, the gifts and the Rik-Saman verses are their \"Apsarases\". Of each pair the prayer is: may he protect this brahma and kshatra of ours — sacred power and ruling power; to him svaha, to those Apsarases svaha.",
+    "bho": "अग्नि, सुरुज, चंदा, बयार, जग्य आ मन — ई छव \"गंधर्व\" बाड़न आ ओषधि, किरिन, नक्षत्र, जल, दक्षिणा आ ऋक्-साम उनकर \"अपसरा\"। हर जोड़ा से प्रार्थना बा: ऊ हमनी के ब्रह्म आ क्षत्र — ज्ञान-बल आ रक्षा-बल — के रक्षा करे; ओकरा खातिर स्वाहा, ओह अपसरा लोग खातिर स्वाहा।"
+  },
+  "explanation": {
+    "hi": "[शुक्लयजुर्वेद अध्याय 18](https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_१८) के 38–43 \"राष्ट्रभृत्\" यजुष् हैं — राष्ट्र को धारण करने वाली आहुतियाँ, अग्निचयन में ब्रह्म और क्षत्र की रक्षा के लिए। [[vivah]] के होम में इनका स्थान [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.7 देता है: \"राष्ट्रभृत् चाहने वाला और जया-अभ्यातान जानने वाला (इन्हें भी करे)\" — अर्थात् विकल्प। माध्यंदिन पोथी इन्हें प्रायश्चित्त-होम के बाद, ब्रह्मा के अन्वारंभ के बिना, बारह आहुतियों में करवाती है: हर मंत्र का पहला आधा (गंधर्व के लिए, \"स्वाहा वाट्\" तक) एक आहुति, दूसरा आधा (अप्सराओं के लिए) दूसरी। उसके बाद तेरह जया और अठारह अभ्यातान आहुतियाँ हैं। वर-वधू हर समूह के बाद प्रणीता के जल से आचमन-मार्जन करते हैं। पूरा क्रम [विवाह](/occasions/vivah/) पृष्ठ पर, हवन का ढाँचा [हवन विधि](/occasions/havan-vidhi/) पर।",
+    "en": "Verses 38–43 of [Vajasaneyi Samhita 18](https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_१८) are the \"rashtrabhrit\" yajus — the oblations \"that uphold the realm\", offered in the fire-altar rite for the protection of brahma and kshatra. [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.7 gives them their place in the wedding homa: \"one who desires the rashtrabhrit, and one who knows the jaya and abhyatana (may offer them too)\" — that is, as an option. The Madhyandina pothi has them offered after the expiation oblations, without the brahma's touch, as twelve oblations: the first half of each verse (to the Gandharva, up to \"svaha vat\") is one oblation, the second half (to the Apsarases) another. The thirteen jaya and eighteen abhyatana oblations follow. After each group the couple sip and sprinkle water from the pranita. The whole order is on the [wedding](/occasions/vivah/) page, the havan frame on [havan vidhi](/occasions/havan-vidhi/).",
+    "bho": "[शुक्लयजुर्वेद अध्याय 18](https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_१८) के 38–43 \"राष्ट्रभृत्\" यजुष् बा — राष्ट्र के धारण करे वाली आहुति, अग्निचयन में ब्रह्म आ क्षत्र के रक्षा खातिर। [[vivah]] के होम में एकर जगह [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.5.7 देला: \"राष्ट्रभृत् चाहे वाला आ जया-अभ्यातान जाने वाला (एकरो करे)\" — माने विकल्प। माध्यंदिन पोथी एकरा प्रायश्चित्त-होम के बाद, ब्रह्मा के अन्वारंभ बिना, बारह आहुति में करवावेला: हर मंत्र के पहिला आधा (गंधर्व खातिर, \"स्वाहा वाट्\" तक) एक आहुति, दोसरा आधा (अपसरा खातिर) दोसरा। ओकरा बाद तेरह जया आ अठारह अभ्यातान आहुति बा। दुलहा-कनिया हर समूह के बाद प्रणीता के जल से आचमन-मार्जन करेलन। पूरा क्रम [बियाह](/occasions/vivah/) पन्ना पर, हवन के ढाँचा [हवन विधि](/occasions/havan-vidhi/) पर।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-18",
+    "retrieved": "2026-11-01",
+    "modified": "the six yajus 18.38–43 joined in one record with a space between them; verse numbers removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit, public domain; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "havan",
+    "rashtrabhrit"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

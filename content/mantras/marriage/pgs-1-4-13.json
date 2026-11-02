@@ -1,0 +1,85 @@
+{
+  "id": "pgs-1-4-13",
+  "kind": "vedic",
+  "text": "paraskara-grihya-sutra",
+  "locator": "PGS 1.4.13 (the bride's upper garment); vivah paddhati: the chunri",
+  "title": {
+    "hi": "कन्या का उत्तरीय (चुनरी) — बुनने वाली देवियाँ",
+    "en": "The bride's upper cloth — ya akrintann avayan",
+    "bho": "कनिया के उत्तरीय (चुनरी) — बुने वाली देवी"
+  },
+  "devanagari": "या अकृन्तन्नवयं या अतन्वत । याश्च देवीस्तन्तूनभितो ततन्थ । तास्त्वा देवीर्जरसे संव्ययस्वायुष्मतीदं परिधत्स्व वासः ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "याः अकृन्तन् अवयन् याः अतन्वत",
+      "gloss": {
+        "hi": "जिन (देवियों) ने (सूत) काता, बुना और ताना",
+        "en": "the (goddesses) who spun, wove and stretched (the thread)",
+        "bho": "जे (देवी) सूत कातली, बुनली आ तानली"
+      }
+    },
+    {
+      "sa": "याः च देवीः तन्तून् अभितः ततन्थ",
+      "gloss": {
+        "hi": "और जिन देवियों ने तंतुओं को चारों ओर फैलाया",
+        "en": "and the goddesses who spread the threads on both sides",
+        "bho": "आ जे देवी तंतु के चारो ओर पसरवली"
+      }
+    },
+    {
+      "sa": "ताः त्वा देवीः जरसे संव्ययस्व",
+      "gloss": {
+        "hi": "वे देवियाँ तुझे वृद्धावस्था तक (इस वस्त्र में) लपेटें",
+        "en": "may those goddesses wrap you (in it) up to old age",
+        "bho": "ऊ देवी तोहरा के बुढ़ापा तक (एह में) लपेटसु"
+      }
+    },
+    {
+      "sa": "आयुष्मती इदं परिधत्स्व वासः",
+      "gloss": {
+        "hi": "आयुष्मती होकर यह वस्त्र पहन",
+        "en": "full of life, put on this garment",
+        "bho": "उमिर वाली होके ई वस्त्र पहिर"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "जिन देवियों ने सूत काता, बुना, ताना और तंतुओं को चारों ओर फैलाया, वे देवियाँ तुझे वृद्धावस्था तक इस वस्त्र में लपेटें; आयुष्मती होकर यह वस्त्र धारण कर।",
+    "en": "The goddesses who spun, wove and stretched the thread and spread it on both sides — may those goddesses wrap you in this up to old age; full of life, put on this garment.",
+    "bho": "जे देवी सूत कातली, बुनली, तानली आ तंतु के चारो ओर पसरवली, ऊ देवी तोहरा के बुढ़ापा तक एह वस्त्र में लपेटसु; उमिर वाली होके ई वस्त्र धारण कर।"
+  },
+  "explanation": {
+    "hi": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.4.13 उत्तरीय का मंत्र है: कातने-बुनने वाली देवियों (ऋग्वेद के विवाह-सूक्त 10.85 की परंपरा) का स्मरण करके कन्या को ओढ़नी दी जाती है। पोथी में यह साड़ी के मंत्र 1.4.12 के साथ चुनरी के लिए पढ़ा जाता है। [विवाह](/occasions/vivah/) पृष्ठ देखें।",
+    "en": "[Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.4.13 is the formula for the upper cloth: the goddesses who spin and weave (an image of the Rigvedic wedding hymn 10.85) are invoked as the bride receives her veil. In the pothi it is recited for the chunri together with the saree mantra 1.4.12. See the [wedding](/occasions/vivah/) page.",
+    "bho": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.4.13 उत्तरीय के मंत्र बा: काते-बुने वाली देवी लोग (ऋग्वेद के बियाह-सूक्त 10.85 के परंपरा) के सुमिरन करके कनिया के ओढ़नी दिहल जाला। पोथी में ई साड़ी के मंत्र 1.4.12 के साथे चुनरी खातिर पढ़ल जाला। [बियाह](/occasions/vivah/) पन्ना देखीं।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-pgs",
+    "retrieved": "2026-11-01",
+    "modified": "closing इति removed; ॥ added"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-sbe29",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Paraskara Grihya Sutra (ancient Sanskrit, public domain); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "vastra",
+    "kanya"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

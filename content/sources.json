@@ -2329,6 +2329,23 @@
         "Madwa Matkor (Hindi Wikipedia)"
       ],
       "note": "Folk-layer facts of the Bhojpuri/Bihar madwa: new-bamboo mandap, kalash + Satyanarayan katha in the madwa, matkor two or three days before the wedding, women-led (R1 hiwp-matkor). Used for the variants/notes of the vivah purvanga; no text copied."
+    },
+    {
+      "id": "ws-av-3-29",
+      "project": "wikisource",
+      "title": "अथर्ववेदः/काण्डं ३/सूक्तम् २९",
+      "url": "https://sa.wikisource.org/wiki/अथर्ववेदः/काण्डं_३/सूक्तम्_२९",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "verify",
+      "secondSourceAvailable": false,
+      "titles": [
+        "अथर्ववेद 3.29",
+        "Atharvaveda 3.29"
+      ],
+      "note": "Shaunaka Atharvaveda 3.29 with Sayana; verse 7 is the longer parallel of VS 7.48 (क इदं कस्मा अदात्) — recorded as a variant reading only; no text copied as a main record.",
+      "wikisourceLang": "sa",
+      "locator": "AV 3.29.7"
     }
   ]
 }

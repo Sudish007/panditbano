@@ -1,0 +1,58 @@
+{
+  "id": "pad-yatha-bana-praharanam",
+  "kind": "paddhati",
+  "locator": "vivah paddhati: vivah homa — the couple touch the pranita water and sprinkle themselves after each group of oblations (यथा बाणप्रहाराणाम्)",
+  "title": {
+    "hi": "प्रणीता-जल का मार्जन — यथा बाणप्रहाराणाम्",
+    "en": "Sprinkling the pranita water — yatha banapraharanam",
+    "bho": "प्रणीता-जल के मार्जन — यथा बाणप्रहाराणाम्"
+  },
+  "devanagari": "ॐ यथा बाणप्रहाराणां कवचं भवति वारणम् । तथा देवोपघातानां शान्तिर्भवति वारिणा ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "यथा बाणप्रहाराणां कवचं भवति वारणम्",
+      "gloss": {
+        "hi": "जैसे बाणों की चोट से कवच बचाता है",
+        "en": "as armour wards off the blows of arrows",
+        "bho": "जइसे बान के चोट से कवच बचावेला"
+      }
+    },
+    {
+      "sa": "तथा देवोपघातानां शान्तिः भवति वारिणा",
+      "gloss": {
+        "hi": "वैसे दैवी उपघातों (विघ्नों) की शांति जल से होती है",
+        "en": "so the troubles sent by fate are stilled by water",
+        "bho": "ओइसहीं दैवी बिघन के शांति जल से होला"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "जैसे बाणों की चोट से कवच बचाता है, वैसे ही दैवी विघ्नों की शांति जल से होती है।",
+    "en": "As armour wards off the blows of arrows, so are the troubles sent by fate stilled by water.",
+    "bho": "जइसे बान के चोट से कवच बचावेला, ओइसहीं दैवी बिघन के शांति जल से होला।"
+  },
+  "explanation": {
+    "hi": "यह श्लोक न शुक्ल यजुर्वेद में है न [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) में — यह पद्धति-परत का है, जैसा उत्तर भारत की माध्यंदिन [विवाह-पद्धति](https://archive.org/details/mvf_20240803_20240803_1558) छापती है; स्वर नहीं हैं। माध्यंदिन [विवाह-पद्धति](https://archive.org/details/mvf_20240803_20240803_1558) में विवाह-होम के हर समूह — प्रायश्चित्त, राष्ट्रभृत्, जया, अभ्यातान, आज्याहुति — के बाद वर-वधू प्रणीता-पात्र का जल छूकर अपने ऊपर छिड़कते हैं और यह श्लोक पढ़ा जाता है। यह अनुष्ठान का विराम-चिह्न है: लंबे होम में बीच-बीच में जल का स्पर्श। क्रम [विवाह](/occasions/vivah/) पृष्ठ पर, हवन के पात्र [हवन विधि](/occasions/havan-vidhi/) पर।",
+    "en": "This verse is neither in the Shukla Yajurveda nor in the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) — it belongs to the handbook (paddhati) layer, as the Madhyandina [wedding handbook](https://archive.org/details/mvf_20240803_20240803_1558) of North India prints it; there are no accents. In the Madhyandina [wedding handbook](https://archive.org/details/mvf_20240803_20240803_1558) the couple touch the water of the pranita vessel and sprinkle themselves after each group of the wedding homa — the expiations, the rashtrabhrit, the jaya, the abhyatana, the ghee oblations — and this verse is recited. It is the punctuation of the rite: a touch of water between the long runs of oblations. The order is on the [wedding](/occasions/vivah/) page, the havan vessels on [havan vidhi](/occasions/havan-vidhi/).",
+    "bho": "ई श्लोक ना शुक्ल यजुर्वेद में बा ना [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) में — ई पद्धति-परत के बा, जइसन उत्तर भारत के माध्यंदिन [बियाह-पद्धति](https://archive.org/details/mvf_20240803_20240803_1558) छापेला; स्वर नइखे। माध्यंदिन [बियाह-पद्धति](https://archive.org/details/mvf_20240803_20240803_1558) में बियाह-होम के हर समूह — प्रायश्चित्त, राष्ट्रभृत्, जया, अभ्यातान, आज्याहुति — के बाद दुलहा-कनिया प्रणीता-पात्र के जल छू के आपन ऊपर छींटेलन आ ई श्लोक पढ़ल जाला। ई अनुष्ठान के बिराम-चीन्हा बा: लमहर होम में बीच-बीच में जल के छुअन। क्रम [बियाह](/occasions/vivah/) पन्ना पर, हवन के पात्र [हवन विधि](/occasions/havan-vidhi/) पर।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-vivah-mvf",
+    "retrieved": "2026-11-01",
+    "modified": "OCR \"यथा बाण प्रहाराणां\" / \"देवोप घातानां\" joined as compounds; the OCR symbol for ॐ restored"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit formula of the Madhyandina wedding handbooks (anonymous, pre-modern); copied from a modern compilation under brief §14.2, no Hindi prose copied",
+  "tags": [
+    "vivah",
+    "havan",
+    "marjan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

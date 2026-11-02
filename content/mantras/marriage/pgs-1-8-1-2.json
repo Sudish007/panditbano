@@ -1,0 +1,135 @@
+{
+  "id": "pgs-1-8-1-2",
+  "kind": "vedic",
+  "text": "paraskara-grihya-sutra",
+  "locator": "PGS 1.8.1–2 (saptapadi — he makes her take seven steps northward; \"vishnus tva nayatu\" is joined to each); vivah paddhati: the seven steps after the prajapatya homa",
+  "title": {
+    "hi": "सप्तपदी — एकमिषे विष्णुस्त्वा नयतु",
+    "en": "Saptapadi — ekam ishe vishnus tva nayatu",
+    "bho": "सप्तपदी — एकमिषे विष्णुस्त्वा नयतु"
+  },
+  "devanagari": "एकमिषे विष्णुस्त्वा नयतु । द्वे ऊर्जे विष्णुस्त्वा नयतु । त्रीणि रायस्पोषाय विष्णुस्त्वा नयतु । चत्वारि मायोभवाय विष्णुस्त्वा नयतु । पञ्च पशुभ्यो विष्णुस्त्वा नयतु । षड् ऋतुभ्यो विष्णुस्त्वा नयतु । सखे सप्तपदा भव सा मामनुव्रता भव विष्णुस्त्वा नयतु ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "एकम् इषे",
+      "gloss": {
+        "hi": "एक (पद) अन्न के लिए",
+        "en": "one (step) for food",
+        "bho": "एक (डेग) अनाज खातिर"
+      }
+    },
+    {
+      "sa": "विष्णुः त्वा नयतु",
+      "gloss": {
+        "hi": "विष्णु तुझे ले चलें",
+        "en": "may Vishnu lead you",
+        "bho": "विष्णु तोहरा के ले चलसु"
+      }
+    },
+    {
+      "sa": "द्वे ऊर्जे",
+      "gloss": {
+        "hi": "दो बल के लिए",
+        "en": "two for strength",
+        "bho": "दू बल खातिर"
+      }
+    },
+    {
+      "sa": "त्रीणि रायस्पोषाय",
+      "gloss": {
+        "hi": "तीन धन की वृद्धि के लिए",
+        "en": "three for the increase of wealth",
+        "bho": "तीन धन के बढ़ती खातिर"
+      }
+    },
+    {
+      "sa": "चत्वारि मायोभवाय",
+      "gloss": {
+        "hi": "चार सुख के लिए",
+        "en": "four for well-being",
+        "bho": "चार सुख खातिर"
+      }
+    },
+    {
+      "sa": "पञ्च पशुभ्यः",
+      "gloss": {
+        "hi": "पाँच पशुओं के लिए",
+        "en": "five for cattle",
+        "bho": "पाँच पसु खातिर"
+      }
+    },
+    {
+      "sa": "षट् ऋतुभ्यः",
+      "gloss": {
+        "hi": "छह ऋतुओं के लिए",
+        "en": "six for the seasons",
+        "bho": "छव ऋतु खातिर"
+      }
+    },
+    {
+      "sa": "सखे सप्तपदा भव",
+      "gloss": {
+        "hi": "हे सखी, सात पदों से (मेरी) सखा हो",
+        "en": "friend, be my friend with the seventh step",
+        "bho": "हे सखी, सात डेग से (हमार) संगी होखू"
+      }
+    },
+    {
+      "sa": "सा माम् अनुव्रता भव",
+      "gloss": {
+        "hi": "वह तू मेरे व्रत की अनुगामिनी हो",
+        "en": "be one who follows my vows",
+        "bho": "ऊ तू हमार बरत के साथे चले वाली होखू"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "एक पद अन्न के लिए — विष्णु तुझे ले चलें; दो बल के लिए; तीन धन की वृद्धि के लिए; चार सुख के लिए; पाँच पशुओं के लिए; छह ऋतुओं के लिए; हे सखी, सातवें पद से मेरी सखा हो, मेरे व्रतों के साथ चलने वाली हो — विष्णु तुझे ले चलें।",
+    "en": "One step for food — may Vishnu lead you; two for strength; three for the increase of wealth; four for well-being; five for cattle; six for the seasons; friend, with the seventh step be my friend, be one who follows my vows — may Vishnu lead you.",
+    "bho": "एक डेग अनाज खातिर — विष्णु तोहरा के ले चलसु; दू बल खातिर; तीन धन के बढ़ती खातिर; चार सुख खातिर; पाँच पसु खातिर; छव ऋतु खातिर; हे सखी, सातवाँ डेग से हमार संगी होखू, हमार बरत के साथे चले वाली होखू — विष्णु तोहरा के ले चलसु।"
+  },
+  "explanation": {
+    "hi": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.8.1–2: \"फिर वह उसे उत्तर दिशा में सात पद चलाता है … और हर पद के साथ 'विष्णुस्त्वा नयतु' जोड़ता है।\" [[saptapadi]] विवाह का निर्णायक क्षण है — धर्मशास्त्र में सातवाँ पद पूरा होने पर विवाह पूर्ण माना जाता है। सात पदों की सात कामनाएँ: अन्न, बल, धन, सुख, पशु, ऋतुएँ, और सातवें पद पर सखा-भाव — \"सप्तपदा भव\"। सूत्र का संक्षिप्त पाठ \"एकमिषे द्वे ऊर्जे…\" है; पद्धतियाँ उसे यहाँ दिए रूप में, हर पद पर \"विष्णुस्त्वा नयतु\" के साथ पढ़ाती हैं। माध्यंदिन पोथी में प्राजापत्य होम के बाद अग्नि के उत्तर में ऐपन के सात मंडल या लावा के सात पुंज बनाकर ब्राह्मण वर-वधू को दाहिना पाँव आगे रखकर सात पद चलाता है और हर पद का मंत्र पढ़ता है; इसके बाद वधू वर के वाम भाग में बैठती है। क्रम [विवाह](/occasions/vivah/) पृष्ठ पर।",
+    "en": "[Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.8.1–2: \"then he makes her take seven steps to the north … and joins 'may Vishnu lead you' to each.\" The saptapadi is the decisive moment of the wedding — in the Dharmashastra the marriage is complete when the seventh step is taken. The seven wishes of the seven steps: food, strength, wealth, well-being, cattle, the seasons, and with the seventh step friendship — \"be my friend with seven steps\". The sutra gives the formula in short, \"ekam ishe dve urje…\"; the handbooks recite it in the form given here, with \"vishnus tva nayatu\" at every step. In the Madhyandina pothi, after the Prajapati oblation, seven circles of aipan or seven heaps of parched grain are made north of the fire and the Brahmin has the couple walk the seven steps, right foot first, reciting one formula per step; the bride then sits at the groom's left. The order is on the [wedding](/occasions/vivah/) page.",
+    "bho": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.8.1–2: \"फेर ऊ ओकरा उत्तर दिसा में सात डेग चलावेला … आ हर डेग के साथे 'विष्णुस्त्वा नयतु' जोड़ेला।\" [[saptapadi]] बियाह के निर्नायक घरी बा — धर्मशास्त्र में सातवाँ डेग पूरा भइला पर बियाह पूरा मानल जाला। सात डेग के सात कामना: अनाज, बल, धन, सुख, पसु, ऋतु, आ सातवाँ डेग पर संगी-भाव — \"सप्तपदा भव\"। सूत्र के छोट पाठ \"एकमिषे द्वे ऊर्जे…\" बा; पद्धति ओकरा इहाँ दिहल रूप में, हर डेग पर \"विष्णुस्त्वा नयतु\" के साथे पढ़ावेला। माध्यंदिन पोथी में प्राजापत्य होम के बाद आगि के उत्तर में ऐपन के सात मंडल भा लावा के सात ढेरी बना के ब्राह्मण दुलहा-कनिया के दहिना गोड़ आगे धर के सात डेग चलावेला आ हर डेग के मंत्र पढ़ेला; एकरा बाद कनिया दुलहा के बाईं ओर बइठेली। क्रम [बियाह](/occasions/vivah/) पन्ना पर।"
+  },
+  "phalashruti": false,
+  "variants": [
+    {
+      "reading": "एकमिषे द्वे ऊर्जे त्रीणि रायस्पोषाय चत्वारि मायोभवाय पञ्च पशुभ्यः षड् ऋतुभ्यः सखे सप्तपदा भव सा मामनुव्रता भव ॥",
+      "note": {
+        "hi": "सूत्र 1.8.1 का संक्षिप्त पाठ, \"विष्णुस्त्वा नयतु\" के बिना — 1.8.2 इसे हर पद में जोड़ने को कहता है।",
+        "en": "The short text of sutra 1.8.1, without \"vishnus tva nayatu\" — 1.8.2 tells to add it to every step.",
+        "bho": "सूत्र 1.8.1 के छोट पाठ, \"विष्णुस्त्वा नयतु\" बिना — 1.8.2 एकरा हर डेग में जोड़े के कहेला।"
+      },
+      "source": "ws-pgs"
+    }
+  ],
+  "source": {
+    "ref": "ws-pgs",
+    "retrieved": "2026-11-01",
+    "modified": "sutra 1.8.1 (एकमिषे द्वे ऊर्जे त्रीणि रायस्पोषाय चत्वारि मायोभवाय पञ्च पशुभ्यः षड् ऋतुभ्यः सखे सप्तपदा भव सा मामनुव्रता भव) expanded step by step with विष्णुस्त्वा नयतु appended to each, as sutra 1.8.2 prescribes (सर्वत्रानुषजति) and as the paddhati prints it; the Wikisource cross-reference \"(आप.श्रौ.सू. १०.२२)\" removed"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-sbe29",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Paraskara Grihya Sutra (ancient Sanskrit, public domain); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "saptapadi"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}
