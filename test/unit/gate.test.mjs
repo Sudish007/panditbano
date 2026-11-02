@@ -99,6 +99,42 @@ test("lane mode: unresolved cross-lane references are WARN, duplicates against a
   rmSync(lane, { recursive: true, force: true });
 });
 
+test("lane mode: chapter-only staging adopts text.json from a pool (WARN), a staged chapter the pool already has is a G18 FAIL, duplicates between two pools are WARN (FIX-1a)", () => {
+  const lane = mkdtempSync(join(tmpdir(), "pb-lane-ch-"));
+  mkdirSync(join(lane, "texts", "rudrashtadhyayi"), { recursive: true });
+  const ch1 = JSON.parse(readFileSync(join(SAMPLE, "texts", "rudrashtadhyayi", "1.json"), "utf8"));
+  // a NEW chapter 3 staged without its text.json (C1A-15 pattern)
+  writeFileSync(join(lane, "texts", "rudrashtadhyayi", "3.json"), JSON.stringify({ ...ch1, n: 3, locator: "VS 18 (test)" }));
+  const sampleData = loadContent(SAMPLE, { label: "sample" });
+  const registries = loadContent(join(ROOT, "content"), { label: "content" });
+  // without lane mode: orphan chapter = G1 FAIL
+  let r = runGate(loadContent(lane, { label: "lane-B" }), { phase: 1, registries });
+  assert.ok(r.findings.some((f) => f.level === "FAIL" && f.rule === "G1" && /text\.json is missing/.test(f.message)), JSON.stringify(r.findings.filter((f) => f.level === "FAIL")));
+  // lane mode: adopted from the pool → WARN, no G1/G18 FAIL
+  r = runGate(loadContent(lane, { label: "lane-B" }), { phase: 1, lane: true, pools: [poolOf(sampleData)], registries });
+  assert.equal(r.findings.filter((f) => f.level === "FAIL" && (f.rule === "G1" || f.rule === "G18")).length, 0, r.findings.filter((f) => f.level === "FAIL").map((f) => `${f.rule} ${f.message}`).join("\n"));
+  assert.ok(r.findings.some((f) => f.level === "WARN" && f.rule === "G1" && /resolved from sample/.test(f.message)), JSON.stringify(r.findings.filter((f) => f.level === "WARN")));
+  // the chapter numbering check still runs against the adopted record (chapter 3 is not listed in the sample's text.json)
+  assert.ok(r.findings.some((f) => f.rule === "G7" && /chapter 3 is not listed/.test(f.message)));
+  // a staged copy of chapter 1, which the pool already has → G18 FAIL
+  writeFileSync(join(lane, "texts", "rudrashtadhyayi", "1.json"), JSON.stringify(ch1));
+  r = runGate(loadContent(lane, { label: "lane-B" }), { phase: 1, lane: true, pools: [poolOf(sampleData)], registries });
+  assert.ok(r.findings.some((f) => f.level === "FAIL" && f.rule === "G18" && /chapter "rudrashtadhyayi-1" also exists in sample/.test(f.message)), JSON.stringify(r.findings.filter((f) => f.rule === "G18")));
+  // two OTHER pools sharing an id → WARN naming both pools; an orphan-text pool entry is not a duplicate of the real text.json
+  const other = mkdtempSync(join(tmpdir(), "pb-lane-other-"));
+  mkdirSync(join(other, "mantras", "x"), { recursive: true });
+  mkdirSync(join(other, "texts", "rudrashtadhyayi"), { recursive: true });
+  writeFileSync(join(other, "mantras", "x", "vs-36-3.json"), readFileSync(join(SAMPLE, "mantras", "foundations", "vs-36-3.json")));
+  writeFileSync(join(other, "texts", "rudrashtadhyayi", "4.json"), JSON.stringify({ ...ch1, n: 4 }));
+  const otherPool = poolOf(loadContent(other, { label: "lane-A" }));
+  assert.ok(otherPool.orphanTexts.has("rudrashtadhyayi"));
+  r = runGate(loadContent(lane, { label: "lane-B" }), { phase: 1, lane: true, pools: [poolOf(sampleData), otherPool], registries });
+  assert.ok(r.findings.some((f) => f.level === "WARN" && f.rule === "G18" && /mantra id "vs-36-3" exists in both sample and lane-A/.test(f.message)), JSON.stringify(r.findings.filter((f) => f.rule === "G18")));
+  assert.ok(!r.findings.some((f) => f.rule === "G18" && /text id "rudrashtadhyayi" exists in both/.test(f.message)), "orphan text in a pool is not a duplicate");
+  rmSync(lane, { recursive: true, force: true });
+  rmSync(other, { recursive: true, force: true });
+});
+
 test("lanePools() reads content/ as a pool and routeSet() lists only published chapter pages", () => {
   const { pools, registries } = lanePools(join(ROOT, "test", "fixtures", "content-sample"), { stagingRoot: join(ROOT, "no-such-staging") });
   assert.ok(registries && registries.termbank, "registries come from content/");

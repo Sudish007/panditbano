@@ -147,11 +147,15 @@ export function idPool(dir) {
 }
 
 export function poolOf(d) {
-  const pool = { dir: d.dir, label: d.label, mantras: new Set(), occasions: new Set(), texts: new Set(), chapters: new Set(), verses: new Set(), kathas: new Set(), lessons: new Set(), terms: new Set(), reference: new Set(), statics: new Set() };
+  // textRecords: id → the text.json record (so a lane whose staging holds only chapter files can borrow the parent record);
+  // orphanTexts: ids present only as chapter files in that dir (chapter-only staging — not a duplicate of the real text.json)
+  const pool = { dir: d.dir, label: d.label, mantras: new Set(), occasions: new Set(), texts: new Set(), chapters: new Set(), verses: new Set(), kathas: new Set(), lessons: new Set(), terms: new Set(), reference: new Set(), statics: new Set(), textRecords: new Map(), orphanTexts: new Set() };
   for (const m of d.mantras) if (m.id) pool.mantras.add(m.id);
   for (const o of d.occasions) if (o.id) pool.occasions.add(o.id);
   for (const t of d.texts) {
     if (t.id) pool.texts.add(t.id);
+    if (t._orphanChapters) pool.orphanTexts.add(t.id);
+    else if (t.id) pool.textRecords.set(t.id, t);
     for (const c of t.chapterFiles || []) {
       pool.chapters.add(`${t.id}-${c._n}`);
       for (const v of c.verses || []) if (v && v.v !== undefined) pool.verses.add(`${t.id}-${c._n}-${v.v}`);

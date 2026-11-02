@@ -124,6 +124,24 @@ export function runGate(data, opts = {}) {
     } else F(file, rule, `${what} "${id}" does not resolve`);
   };
 
+  // lane mode: a dir that stages only chapter files (texts/<slug>/<n>.json, no text.json — C1A-14/15 and the Phase 2 texts)
+  // borrows the parent record from content/ or another staging pool and is checked as a normal text (WARN, the integrate
+  // step re-checks); an orphan with no parent anywhere stays a G1 FAIL below. FIX-1a.
+  const adoptedTexts = new Set();
+  if (lane) {
+    for (let i = 0; i < data.texts.length; i++) {
+      const t = data.texts[i];
+      if (!t._orphanChapters) continue;
+      const pool = pools.find((p) => p.textRecords && p.textRecords.has(t._dir));
+      if (!pool) continue;
+      const parent = pool.textRecords.get(t._dir);
+      const { chapterFiles: _c, _file: _f, _dir: _d, _orphanChapters: _o, ...fields } = parent;
+      data.texts[i] = { ...fields, _file: t._file, _dir: t._dir, chapterFiles: [...t.chapterFiles].sort((a, b) => a._n - b._n), _adoptedFrom: pool.label };
+      adoptedTexts.add(t._dir);
+      WARN(t._file, "G1", `text.json is not in this dir; resolved from ${pool.label} (lane mode — chapter-only staging; the integrate step copies only the chapter files)`);
+    }
+  }
+
   // registries (lane fallback to content/)
   const reg = (key) => data[key] ?? opts.registries?.[key] ?? null;
   const ui = Object.keys(data.ui).length === 3 ? data.ui : opts.registries?.ui || data.ui;
@@ -448,8 +466,23 @@ export function runGate(data, opts = {}) {
   };
   dupCheck(data.mantras, "id", "mantra"); dupCheck(data.occasions, "id", "occasion"); dupCheck(data.texts, "id", "text"); dupCheck(data.kathas, "id", "katha"); dupCheck(data.lessons, "id", "lesson"); dupCheck(data.terms, "id", "glossary");
   if (lane) {
+    const POOL_KEYS = ["mantras", "occasions", "texts", "kathas", "lessons", "terms", "reference", "statics"];
     for (const p of pools) {
-      for (const key of ["mantras", "occasions", "texts", "kathas", "lessons", "terms", "reference", "statics"]) for (const id of ids[key]) if (p[key].has(id)) F(fileOf(data, key, id), "G18", `${key.replace(/s$/, "")} id "${id}" also exists in ${p.label} (lanes are split by domain — brief §13.2)`);
+      // an adopted (chapter-only) text borrows its id from the pool on purpose; its chapter files must still be new
+      for (const key of POOL_KEYS) for (const id of ids[key]) if (p[key].has(id) && !(key === "texts" && adoptedTexts.has(id))) F(fileOf(data, key, id), "G18", `${key.replace(/s$/, "")} id "${id}" also exists in ${p.label} (lanes are split by domain — brief §13.2)`);
+      for (const id of ids.chapters) if (p.chapters.has(id)) F(fileOf(data, "texts", id.replace(/-\d+$/, "")), "G18", `chapter "${id}" also exists in ${p.label} (lanes are split by domain — brief §13.2)`);
+    }
+    // duplicates BETWEEN two other pools (lane A ↔ lane C, or a staging dir ↔ content/) are reported here too, as WARN: they are
+    // not this dir's fault, but the integrate step will reject one of them, and C1A-18 found 4 such A↔C clashes only at integration.
+    // Orphan (chapter-only) texts in a pool are not duplicates of the real text.json.
+    const seenAcross = new Map();
+    for (const p of pools) {
+      for (const key of [...POOL_KEYS, "chapters"]) for (const id of p[key]) {
+        if (key === "texts" && p.orphanTexts && p.orphanTexts.has(id)) continue;
+        const k = `${key}:${id}`;
+        if (seenAcross.has(k) && seenAcross.get(k) !== p.label) WARN("-", "G18", `${key.replace(/s$/, "")} id "${id}" exists in both ${seenAcross.get(k)} and ${p.label} (lane mode — the integrate step rejects one of them)`);
+        else if (!seenAcross.has(k)) seenAcross.set(k, p.label);
+      }
     }
   }
 
