@@ -1,0 +1,104 @@
+{
+  "id": "pgs-1-3-20",
+  "kind": "vedic",
+  "text": "paraskara-grihya-sutra",
+  "locator": "PGS 1.3.20 (eating the madhuparka in three mouthfuls)",
+  "title": {
+    "hi": "मधुपर्क-प्राशन — यन्मधुनो मधव्यं",
+    "en": "Eating the madhuparka — yan madhuno madhavyam",
+    "bho": "मधुपर्क खाइल — यन्मधुनो मधव्यं"
+  },
+  "devanagari": "यन्मधुनो मधव्यं परमं रूपमन्नाद्यम् । तेनाहं मधुनो मधव्येन परमेण रूपेणान्नाद्येन परमो मधव्योऽन्नादोऽसानि ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "यत् मधुनः मधव्यम्",
+      "gloss": {
+        "hi": "जो मधु का मधुरतम (सार) है",
+        "en": "what is the sweetest of honey",
+        "bho": "जे मधु के सबसे मीठ (सार) बा"
+      }
+    },
+    {
+      "sa": "परमं रूपम्",
+      "gloss": {
+        "hi": "परम रूप",
+        "en": "its highest form",
+        "bho": "सबसे ऊँच रूप"
+      }
+    },
+    {
+      "sa": "अन्नाद्यम्",
+      "gloss": {
+        "hi": "खाने योग्य अन्न",
+        "en": "the food to be eaten",
+        "bho": "खाए जोग अन्न"
+      }
+    },
+    {
+      "sa": "तेन",
+      "gloss": {
+        "hi": "उससे",
+        "en": "by that",
+        "bho": "ओकरा से"
+      }
+    },
+    {
+      "sa": "अहम्",
+      "gloss": {
+        "hi": "मैं",
+        "en": "I",
+        "bho": "हम"
+      }
+    },
+    {
+      "sa": "परमः मधव्यः",
+      "gloss": {
+        "hi": "परम मधुर (समृद्ध)",
+        "en": "supremely sweet (prosperous)",
+        "bho": "सबसे मीठ (समृद्ध)"
+      }
+    },
+    {
+      "sa": "अन्नादः असानि",
+      "gloss": {
+        "hi": "अन्न खाने वाला (पुष्ट) होऊँ",
+        "en": "may I become an eater of food (well-fed)",
+        "bho": "अन्न खाए वाला (पुष्ट) होखीं"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "जो मधु का मधुरतम सार है, उसका परम रूप, खाने योग्य अन्न — उस मधु के मधुरतम सार से, उस परम रूप से, उस अन्न से मैं परम मधुर और अन्न खाने वाला (पुष्ट) बनूँ।",
+    "en": "What is the sweetest of honey, its highest form, the food to be eaten — by that sweetest of honey, by that highest form, by that food may I become supremely sweet and an eater of food.",
+    "bho": "जे मधु के सबसे मीठ सार बा, ओकर सबसे ऊँच रूप, खाए जोग अन्न — ओह मधु के सबसे मीठ सार से, ओह ऊँच रूप से, ओह अन्न से हम सबसे मीठ आ अन्न खाए वाला (पुष्ट) बनीं।"
+  },
+  "explanation": {
+    "hi": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3 उन छह व्यक्तियों का सत्कार बताता है जिन्हें अर्घ्य (मधुपर्क) मिलता है — आचार्य, ऋत्विज, वैवाह्य, राजा, प्रिय (मित्र) और स्नातक। \"वैवाह्य\" को टीकाकार नारायण और ओल्डेनबर्ग श्वशुर (समधी) समझते हैं; उत्तर भारत की विवाह-पद्धतियाँ इसी कंडिका को वर के स्वागत पर लागू करती हैं — कन्या-पिता मंडप में आए वर को अतिथि की तरह विष्टर, पाद्य, अर्घ्य, आचमनीय और मधुपर्क देता है। सूत्र 1.3.20: वर तीन बार [[madhuparka]] का प्राशन (चखना) करता है, हर बार यह मंत्र — या सूत्र 1.3.21 के अनुसार तीन मधु-ऋचाएँ (शुक्ल यजुर्वेद 13.27–29), एक-एक ग्रास पर एक। बचा हुआ मधुपर्क पुत्र या शिष्य को दिया जा सकता है (1.3.22) या सब खा लिया जाए (1.3.23); आज की पद्धति में बचा हुआ नाई बाहर रख देता है और वर दो बार आचमन करता है। मधुपर्क में दही-मधु-घी का मेल \"मधुर\" का प्रतीक है — अतिथि के मुँह में मिठास।",
+    "en": "The [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3 lays down the honouring of the six persons who receive the arghya (madhuparka) — the teacher, the officiating priest, the \"vaivahya\", the king, a friend and a snataka. The commentator Narayana and Oldenberg take \"vaivahya\" as the father-in-law; the North Indian wedding handbooks apply this very kandika to the reception of the bridegroom — the bride's father receives the groom who has come to the mandap as a guest, with the seat (vishtara), the foot-water, the arghya, the sipping-water and the madhuparka. Sutra 1.3.20: the groom tastes the madhuparka three times, each time with this mantra — or, by sutra 1.3.21, with the three madhu verses (Shukla Yajurveda 13.27–29), one to each mouthful. What is left may be given to a son or a pupil (1.3.22) or eaten entirely (1.3.23); in today's handbook the barber takes the rest outside and the groom sips water twice. The mixture of curd, honey and ghee in the madhuparka stands for \"sweetness\" — a sweet taste in the guest's mouth.",
+    "bho": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3 ओह छव आदमी के सत्कार बतावेला जिनका अर्घ्य (मधुपर्क) मिलेला — आचार्य, ऋत्विज, वैवाह्य, राजा, प्रिय (मीत) आ स्नातक। \"वैवाह्य\" के टीकाकार नारायण आ ओल्डेनबर्ग ससुर (समधी) समझेलन; उत्तर भारत के बियाह-पद्धति एही कंडिका के दुलहा के स्वागत पर लगावेला — कनिया-पिता मड़वा में आइल दुलहा के पाहुन जइसन विष्टर, पाद्य, अर्घ्य, आचमनीय आ मधुपर्क देलन। सूत्र 1.3.20: दुलहा तीन बेर [[madhuparka]] चीखेला, हर बेर ई मंत्र — भा सूत्र 1.3.21 के अनुसार तीन मधु-ऋचा (शुक्ल यजुर्वेद 13.27–29), एक-एक कौर पर एक। बाचल मधुपर्क बेटा भा शिष्य के दिहल जा सकेला (1.3.22) भा सब खा लिहल जाए (1.3.23); आज के पद्धति में बाचल नाऊ बाहर राख देला आ दुलहा दू बेर आचमन करेला। मधुपर्क में दही-मधु-घी के मेल \"मीठ\" के प्रतीक बा — पाहुन के मुँह में मिठास।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-pgs",
+    "retrieved": "2026-11-01",
+    "modified": "the sutra wording around the formula (इति, the verb of the rite) removed; ॥ added at the end"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Paraskara Grihya Sutra (ancient Sanskrit, public domain); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "madhuparka"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

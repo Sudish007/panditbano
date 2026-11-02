@@ -1,0 +1,113 @@
+{
+  "id": "vs-13-27",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 13.27 (= RV 1.90.6); PGS 1.3.21 madhuparka alternative",
+  "title": {
+    "hi": "मधु-ऋचा 1 — मधु वाता ऋतायते",
+    "en": "Madhu verse 1 — madhu vata ritayate",
+    "bho": "मधु-ऋचा 1 — मधु वाता ऋतायते"
+  },
+  "devanagari": "मधु॒ वाता॑ ऋताय॒ते मधु॑ क्षरन्ति॒ सिन्ध॑वः । माध्वी॑र्नः स॒न्त्वोष॑धीः ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "मधु",
+      "gloss": {
+        "hi": "मधुर (हों)",
+        "en": "sweet (be)",
+        "bho": "मीठ (होखे)"
+      }
+    },
+    {
+      "sa": "वाताः",
+      "gloss": {
+        "hi": "वायु",
+        "en": "the winds",
+        "bho": "हवा"
+      }
+    },
+    {
+      "sa": "ऋतायते",
+      "gloss": {
+        "hi": "ऋत (यज्ञ, सत्य) चाहने वाले के लिए",
+        "en": "for one who seeks the sacred order",
+        "bho": "ऋत (यज्ञ, सत्य) चाहे वाला खातिर"
+      }
+    },
+    {
+      "sa": "मधु क्षरन्ति",
+      "gloss": {
+        "hi": "मधु बहाती हैं",
+        "en": "flow with sweetness",
+        "bho": "मीठ बहावेली"
+      }
+    },
+    {
+      "sa": "सिन्धवः",
+      "gloss": {
+        "hi": "नदियाँ",
+        "en": "the rivers",
+        "bho": "नदी सब"
+      }
+    },
+    {
+      "sa": "माध्वीः",
+      "gloss": {
+        "hi": "मधुर",
+        "en": "sweet",
+        "bho": "मीठ"
+      }
+    },
+    {
+      "sa": "नः सन्तु",
+      "gloss": {
+        "hi": "हमारे लिए हों",
+        "en": "be for us",
+        "bho": "हमनी खातिर होखे"
+      }
+    },
+    {
+      "sa": "ओषधीः",
+      "gloss": {
+        "hi": "ओषधियाँ",
+        "en": "the plants",
+        "bho": "ओखद-बिरिछ"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "ऋत चाहने वाले के लिए वायु मधुर हों, नदियाँ मधु बहाएँ; ओषधियाँ हमारे लिए मधुर हों।",
+    "en": "For the one who seeks the sacred order let the winds be sweet, let the rivers flow with sweetness; let the plants be sweet for us.",
+    "bho": "ऋत चाहे वाला खातिर हवा मीठ होखे, नदी सब मीठ बहावे; ओखद-बिरिछ हमनी खातिर मीठ होखे।"
+  },
+  "explanation": {
+    "hi": "\"मधु वाता ऋतायते\" ([ऋग्वेद](https://sa.wikisource.org/wiki/ऋग्वेदः_सूक्तं_१.९०) 1.90.6) तीन मधु-ऋचाओं (शुक्ल यजुर्वेद 13.27–29) की पहली है; अग्निचयन में इनसे कूर्म को दही-मधु-घी से लेपा जाता है। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3.21 \"मधुमतीभिर्वा प्रत्यृचम्\" कहता है — [[madhuparka]] के तीन ग्रास \"यन्मधुनो मधव्यं…\" से या इन मधुमती ऋचाओं से, एक-एक ऋचा पर एक-एक ग्रास, खाए जा सकते हैं। आज की पद्धतियाँ पहला विकल्प छापती हैं; यह दूसरा विकल्प सूत्र का है, इसलिए यहाँ दिया है। तीनों ऋचाएँ संध्या और शांति-पाठ में भी आती हैं।",
+    "en": "\"Madhu vata ritayate\" ([Rigveda](https://sa.wikisource.org/wiki/ऋग्वेदः_सूक्तं_१.९०) 1.90.6) is the first of the three madhu verses (Shukla Yajurveda 13.27–29); in the agnichayana the tortoise is anointed with curd, honey and ghee to them. The [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3.21 says \"or with the madhumati verses, one per mouthful\" — the three mouthfuls of the madhuparka may be eaten to \"yan madhuno madhavyam…\" or to these verses, one verse to each mouthful. Today's handbooks print the first option; the second is the sutra's own alternative, which is why it is given here. All three verses also occur in the sandhya and in shanti recitations.",
+    "bho": "\"मधु वाता ऋतायते\" ([ऋग्वेद](https://sa.wikisource.org/wiki/ऋग्वेदः_सूक्तं_१.९०) 1.90.6) तीन मधु-ऋचा (शुक्ल यजुर्वेद 13.27–29) में पहिला बा; अग्निचयन में एकनी से कूर्म के दही-मधु-घी से लेपल जाला। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3.21 \"मधुमतीभिर्वा प्रत्यृचम्\" कहेला — [[madhuparka]] के तीन कौर \"यन्मधुनो मधव्यं…\" से भा एह मधुमती ऋचा सब से, एक-एक ऋचा पर एक-एक कौर, खाइल जा सकेला। आज के पद्धति पहिला विकल्प छापेला; ई दोसरा विकल्प सूत्र के आपन बा, एही से इहाँ दिहल बा। तीनो ऋचा संध्या आ शांति-पाठ में भी आवेला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-13",
+    "retrieved": "2026-11-01",
+    "modified": "copied from the svara block of the Wikisource chapter page; trailing verse number and ordinal heading removed; ।। written as ॥"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "madhuparka",
+    "madhu"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

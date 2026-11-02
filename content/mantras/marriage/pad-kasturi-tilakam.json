@@ -1,0 +1,114 @@
+{
+  "id": "pad-kasturi-tilakam",
+  "kind": "paddhati",
+  "locator": "vivah paddhati: dahi-haldi tilak of the groom at var-pujan, dwar-puja and the mandap (popular Krishna verse)",
+  "title": {
+    "hi": "तिलक-श्लोक — कस्तूरीतिलकं ललाटपटले",
+    "en": "Tilak verse — kasturi-tilakam lalata-patale",
+    "bho": "टीका-श्लोक — कस्तूरीतिलकं ललाटपटले"
+  },
+  "devanagari": "ॐ कस्तूरीतिलकं ललाटपटले वक्षःस्थले कौस्तुभं नासाग्रे वरमौक्तिकं करतले वेणुः करे कङ्कणम् । सर्वाङ्गे हरिचन्दनं सुललितं कण्ठे च मुक्तावली गोपस्त्रीपरिवेष्टितो विजयते गोपालचूडामणिः ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "कस्तूरीतिलकं ललाटपटले",
+      "gloss": {
+        "hi": "ललाट पर कस्तूरी का तिलक",
+        "en": "a musk tilak on the forehead",
+        "bho": "ललाट पर कस्तूरी के टीका"
+      }
+    },
+    {
+      "sa": "वक्षःस्थले कौस्तुभम्",
+      "gloss": {
+        "hi": "वक्ष पर कौस्तुभ मणि",
+        "en": "the Kaustubha jewel on the chest",
+        "bho": "छाती पर कौस्तुभ मनि"
+      }
+    },
+    {
+      "sa": "नासाग्रे वरमौक्तिकम्",
+      "gloss": {
+        "hi": "नाक की नोक पर श्रेष्ठ मोती",
+        "en": "a fine pearl on the tip of the nose",
+        "bho": "नाक के नोक पर नीक मोती"
+      }
+    },
+    {
+      "sa": "करतले वेणुः",
+      "gloss": {
+        "hi": "हथेली में वेणु (बाँसुरी)",
+        "en": "the flute in the palm",
+        "bho": "हथेली में बाँसुरी"
+      }
+    },
+    {
+      "sa": "करे कङ्कणम्",
+      "gloss": {
+        "hi": "हाथ में कंकण",
+        "en": "a bracelet on the wrist",
+        "bho": "हाथ में कंगन"
+      }
+    },
+    {
+      "sa": "सर्वाङ्गे हरिचन्दनं सुललितम्",
+      "gloss": {
+        "hi": "सब अंगों पर सुंदर हरिचंदन",
+        "en": "lovely sandal paste on every limb",
+        "bho": "सब अंग पर सुंदर हरिचंदन"
+      }
+    },
+    {
+      "sa": "कण्ठे च मुक्तावली",
+      "gloss": {
+        "hi": "और कंठ में मोतियों की माला",
+        "en": "and a string of pearls at the throat",
+        "bho": "आ गला में मोती के माला"
+      }
+    },
+    {
+      "sa": "गोपस्त्रीपरिवेष्टितः",
+      "gloss": {
+        "hi": "गोपियों से घिरे",
+        "en": "surrounded by the cowherd women",
+        "bho": "गोपी लोग से घेराइल"
+      }
+    },
+    {
+      "sa": "विजयते गोपालचूडामणिः",
+      "gloss": {
+        "hi": "गोपालों के शिरोमणि (कृष्ण) की जय हो",
+        "en": "victorious is the crest-jewel of the cowherds (Krishna)",
+        "bho": "गोपाल लोग के सिरोमनि (कृष्ण) के जय होखे"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "ललाट पर कस्तूरी का तिलक, वक्ष पर कौस्तुभ, नाक की नोक पर श्रेष्ठ मोती, हथेली में बाँसुरी, हाथ में कंकण, सब अंगों पर सुंदर हरिचंदन, कंठ में मोतियों की माला — गोपियों से घिरे गोपाल-शिरोमणि (कृष्ण) की जय हो।",
+    "en": "A musk tilak on the forehead, the Kaustubha on the chest, a fine pearl at the tip of the nose, the flute in the palm, a bracelet on the wrist, lovely sandal on every limb, a string of pearls at the throat — victorious is the crest-jewel of the cowherds, Krishna, surrounded by the gopis.",
+    "bho": "ललाट पर कस्तूरी के टीका, छाती पर कौस्तुभ, नाक के नोक पर नीक मोती, हथेली में बाँसुरी, हाथ में कंगन, सब अंग पर सुंदर हरिचंदन, गला में मोती के माला — गोपी लोग से घेराइल गोपाल-सिरोमनि (कृष्ण) के जय होखे।"
+  },
+  "explanation": {
+    "hi": "यह श्लोक शुक्ल यजुर्वेद या [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) में नहीं है — यह [[paddhati]]-परत का पाठ है, जैसा उत्तर भारत की माध्यंदिन [विवाह-पद्धति](https://archive.org/details/mvf_20240803_20240803_1558) छापती है; स्वर-चिह्न नहीं हैं। यह कृष्ण का लोकप्रिय ध्यान-श्लोक है (रचनाकार अज्ञात; भजन-संग्रहों में मिलता है)। माध्यंदिन विवाह-पद्धति इसे वर के [[tilak]] का श्लोक बनाती है — \"कस्तूरीतिलकं\" पहला शब्द है, इसलिए — और कन्या-पिता दही-हल्दी (या रोचना) का तिलक लगाते हुए इसे पढ़ता है: तिलक/वरवरण, [[dwar-puja]] और मंडप में, तीनों बार। वैदिक तिलक-मंत्र (शुक्ल यजुर्वेद 23.5) कंकण-बंधन के दिन पुरोहित के तिलक पर आता है; दोनों अलग परतें हैं। श्लोक का भाव वर को कृष्ण-रूप में देखना है — उत्तर भारतीय विवाह में वर को \"दूल्हा राजा\" या नारायण-रूप मानना इसी भावना का लोक-रूप है।",
+    "en": "This verse is neither in the Shukla Yajurveda nor in the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) — it belongs to the handbook (paddhati) layer, as the Madhyandina [wedding handbook](https://archive.org/details/mvf_20240803_20240803_1558) of North India prints it; there are no accents. This is a popular meditation verse on Krishna (author unknown; found in bhajan collections). The Madhyandina wedding handbook makes it the verse of the groom's tilak — because \"kasturi-tilakam\" is its first word — and the bride's father recites it while marking the groom with curd and turmeric (or rochana): at the tilak / var-varan, at the dwar-puja and in the mandap, all three times. The Vedic tilak mantra (Shukla Yajurveda 23.5 \"yunjanti bradhnam\") comes with the purohit's tilak on the kankan day; the two are different layers. The sense of the verse is to see the groom as Krishna — the North Indian habit of treating the groom as \"dulha raja\" or as a form of Narayana is the folk face of the same feeling.",
+    "bho": "ई श्लोक शुक्ल यजुर्वेद भा [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) में नइखे — ई [[paddhati]]-परत के पाठ बा, जइसन उत्तर भारत के माध्यंदिन [बियाह-पद्धति](https://archive.org/details/mvf_20240803_20240803_1558) छापेला; स्वर-चिह्न नइखे। ई कृष्ण के लोकप्रिय ध्यान-श्लोक बा (रचनाकार अनजान; भजन-संग्रह में मिलेला)। माध्यंदिन बियाह-पद्धति एकरा दुलहा के [[tilak]] के श्लोक बनावेला — \"कस्तूरीतिलकं\" पहिला सब्द बा, एही से — आ कनिया-पिता दही-हरदी (भा रोचना) के टीका लगावत एकरा पढ़ेलन: तिलक/वरवरन, [[dwar-puja]] आ मड़वा में, तीनो बेर। वैदिक टीका-मंत्र (शुक्ल यजुर्वेद 23.5 \"युञ्जन्ति ब्रध्नम्\") कंगन बान्हे के दिन पुरोहित के टीका पर आवेला; दुनो अलगा परत बा। श्लोक के भाव दुलहा के कृष्ण-रूप में देखल बा — उत्तर भारत के बियाह में दुलहा के \"दुलहा राजा\" भा नारायन-रूप मानल एही भावना के लोक-रूप बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-vivah-mvf",
+    "retrieved": "2026-11-01",
+    "modified": "OCR \"कस्तूरी तिलकं ललाट पटले वक्षःस्थले कौस्तुभं, नासाग्रे वरमौक्तिकं करतले वेणुः करे कङ्कणम् । सर्वाङ्गे हरिचन्दनं सुललितं कण्ठे च मुक्तावली, गोपस्त्री परिवेष्टितो विजयते गोपाल चूडामणिः ॥\" — compounds closed, commas removed, the OCR symbol for ॐ restored"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit formula of the Madhyandina wedding handbooks (anonymous, pre-modern); copied from a modern compilation under brief §14.2, no Hindi prose copied",
+  "tags": [
+    "vivah",
+    "tilak",
+    "var-pujan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

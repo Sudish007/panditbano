@@ -1,0 +1,124 @@
+{
+  "id": "pgs-1-3-25",
+  "kind": "vedic",
+  "text": "paraskara-grihya-sutra",
+  "locator": "PGS 1.3.25 (pranan sammrishati — touching the organs after the madhuparka); vivah paddhati: anga-sparsha",
+  "title": {
+    "hi": "अंग-स्पर्श — वाङ्म आस्ये",
+    "en": "Touching the limbs — vak ma asye",
+    "bho": "अंग-स्पर्स — वाङ्म आस्ये"
+  },
+  "devanagari": "वाङ्म आस्ये नसोः प्राणोऽक्ष्णोश्चक्षुः कर्णयोः श्रोत्रं बाह्वोर्बलमूर्वोरोजोऽरिष्टानि मेऽङ्गानि तनूस्तन्वा मे सह ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "वाक् मे आस्ये",
+      "gloss": {
+        "hi": "मेरे मुख में वाणी (हो)",
+        "en": "speech in my mouth",
+        "bho": "हमार मुँह में बानी (होखे)"
+      }
+    },
+    {
+      "sa": "नसोः प्राणः",
+      "gloss": {
+        "hi": "नासिका में प्राण",
+        "en": "breath in the nostrils",
+        "bho": "नाक में प्रान"
+      }
+    },
+    {
+      "sa": "अक्ष्णोः चक्षुः",
+      "gloss": {
+        "hi": "आँखों में दृष्टि",
+        "en": "sight in the eyes",
+        "bho": "आँख में नजर"
+      }
+    },
+    {
+      "sa": "कर्णयोः श्रोत्रम्",
+      "gloss": {
+        "hi": "कानों में श्रवण",
+        "en": "hearing in the ears",
+        "bho": "कान में सुनाई"
+      }
+    },
+    {
+      "sa": "बाह्वोः बलम्",
+      "gloss": {
+        "hi": "भुजाओं में बल",
+        "en": "strength in the arms",
+        "bho": "बाँह में बल"
+      }
+    },
+    {
+      "sa": "ऊर्वोः ओजः",
+      "gloss": {
+        "hi": "जंघाओं में ओज",
+        "en": "vigour in the thighs",
+        "bho": "जाँघ में ओज"
+      }
+    },
+    {
+      "sa": "अरिष्टानि मे अङ्गानि",
+      "gloss": {
+        "hi": "मेरे अंग अक्षत (हों)",
+        "en": "my limbs unharmed",
+        "bho": "हमार अंग सुरच्छित (होखे)"
+      }
+    },
+    {
+      "sa": "तनूः तन्वा मे सह",
+      "gloss": {
+        "hi": "मेरा शरीर मेरे शरीर के साथ (पूर्ण रहे)",
+        "en": "my body together with my body (whole)",
+        "bho": "हमार देह हमार देह के साथे (पूरा रहे)"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "मेरे मुख में वाणी, नासिका में प्राण, आँखों में दृष्टि, कानों में श्रवण, भुजाओं में बल, जंघाओं में ओज (रहे); मेरे अंग अक्षत रहें, मेरा शरीर समग्र रहे।",
+    "en": "Speech in my mouth, breath in my nostrils, sight in my eyes, hearing in my ears, strength in my arms, vigour in my thighs; may my limbs be unharmed, my body whole.",
+    "bho": "हमार मुँह में बानी, नाक में प्रान, आँख में नजर, कान में सुनाई, बाँह में बल, जाँघ में ओज (रहे); हमार अंग सुरच्छित रहे, हमार देह पूरा रहे।"
+  },
+  "explanation": {
+    "hi": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3 उन छह व्यक्तियों का सत्कार बताता है जिन्हें अर्घ्य (मधुपर्क) मिलता है — आचार्य, ऋत्विज, वैवाह्य, राजा, प्रिय (मित्र) और स्नातक। \"वैवाह्य\" को टीकाकार नारायण और ओल्डेनबर्ग श्वशुर (समधी) समझते हैं; उत्तर भारत की विवाह-पद्धतियाँ इसी कंडिका को वर के स्वागत पर लागू करती हैं — कन्या-पिता मंडप में आए वर को अतिथि की तरह विष्टर, पाद्य, अर्घ्य, आचमनीय और मधुपर्क देता है। सूत्र 1.3.25: [[madhuparka]] के बाद आचमन करके वर इस मंत्र से अपने अंगों को छूता है (\"प्राणान् संमृशति\")। पद्धति इसे अंग-अंग अलग करके पढ़ाती है — मुख छूते हुए \"वाङ्मे आस्येऽस्तु\", नाक छूते हुए \"नसोर्मे प्राणोऽस्तु\"… (पाठांतर नीचे)। यही अंग-स्पर्श [[achaman]] की दैनिक विधि में भी है; यहाँ वह मधुपर्क-भोजन के बाद शरीर की पूर्णता की कामना है।",
+    "en": "The [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3 lays down the honouring of the six persons who receive the arghya (madhuparka) — the teacher, the officiating priest, the \"vaivahya\", the king, a friend and a snataka. The commentator Narayana and Oldenberg take \"vaivahya\" as the father-in-law; the North Indian wedding handbooks apply this very kandika to the reception of the bridegroom — the bride's father receives the groom who has come to the mandap as a guest, with the seat (vishtara), the foot-water, the arghya, the sipping-water and the madhuparka. Sutra 1.3.25: after sipping water at the end of the madhuparka the groom touches his organs with this mantra (\"he touches the vital organs\"). The handbook has it recited limb by limb — touching the mouth \"vak me asye 'stu\", the nose \"nasor me prano 'stu\"… (variant below). The same touching of the limbs belongs to the daily achamana; here it is the wish for bodily wholeness after the madhuparka meal.",
+    "bho": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3 ओह छव आदमी के सत्कार बतावेला जिनका अर्घ्य (मधुपर्क) मिलेला — आचार्य, ऋत्विज, वैवाह्य, राजा, प्रिय (मीत) आ स्नातक। \"वैवाह्य\" के टीकाकार नारायण आ ओल्डेनबर्ग ससुर (समधी) समझेलन; उत्तर भारत के बियाह-पद्धति एही कंडिका के दुलहा के स्वागत पर लगावेला — कनिया-पिता मड़वा में आइल दुलहा के पाहुन जइसन विष्टर, पाद्य, अर्घ्य, आचमनीय आ मधुपर्क देलन। सूत्र 1.3.25: [[madhuparka]] के बाद आचमन करके दुलहा एह मंत्र से आपन अंग छूवेला (\"प्राणान् संमृशति\")। पद्धति एकरा अंग-अंग अलगा करके पढ़ावेला — मुँह छूवत \"वाङ्मे आस्येऽस्तु\", नाक छूवत \"नसोर्मे प्राणोऽस्तु\"… (पाठांतर नीचे)। इहे अंग-स्पर्स [[achaman]] के रोज के विधि में भी बा; इहाँ ऊ मधुपर्क-भोजन के बाद देह के पूरनता के कामना बा।"
+  },
+  "phalashruti": false,
+  "variants": [
+    {
+      "reading": "वाङ्मे आस्येऽस्तु । नसोर्मे प्राणोऽस्तु । अक्ष्णोर्मे चक्षुरस्तु । कर्णयोर्मे श्रोत्रमस्तु । बाह्वोर्मे बलमस्तु । ऊर्वोर्मे ओजोऽस्तु । अरिष्टानि मेऽङ्गानि तनूस्तन्वा मे सह सन्तु ॥",
+      "note": {
+        "hi": "माध्यंदिन विवाह-पद्धति का अंग-अंग वाला पाठ, हर वाक्य में \"अस्तु\" जोड़कर।",
+        "en": "The limb-by-limb reading of the Madhyandina wedding handbook, with \"astu\" added to each clause.",
+        "bho": "माध्यंदिन बियाह-पद्धति के अंग-अंग वाला पाठ, हर वाक्य में \"अस्तु\" जोड़ के।"
+      },
+      "source": "ia-vivah-mvf"
+    }
+  ],
+  "source": {
+    "ref": "ws-pgs",
+    "retrieved": "2026-11-01",
+    "modified": "the sutra wording around the formula (इति, the verb of the rite) removed; ॥ added at the end"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Paraskara Grihya Sutra (ancient Sanskrit, public domain); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "madhuparka",
+    "anga-sparsha"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

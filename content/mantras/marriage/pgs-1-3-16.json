@@ -1,0 +1,80 @@
+{
+  "id": "pgs-1-3-16",
+  "kind": "vedic",
+  "text": "paraskara-grihya-sutra",
+  "locator": "PGS 1.3.16 (pratika मित्रस्य त्वा; the full formula as the Madhyandina paddhati prints it)",
+  "title": {
+    "hi": "मधुपर्क-दर्शन — मित्रस्य त्वा चक्षुषा",
+    "en": "Looking at the madhuparka — mitrasya tva chakshusha",
+    "bho": "मधुपर्क-दर्सन — मित्रस्य त्वा चक्षुषा"
+  },
+  "devanagari": "मित्रस्य त्वा चक्षुषा प्रतीक्षे ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "मित्रस्य",
+      "gloss": {
+        "hi": "मित्र (देव / मित्र-भाव) की",
+        "en": "of Mitra (the friend)",
+        "bho": "मित्र (देव / मीत-भाव) के"
+      }
+    },
+    {
+      "sa": "त्वा",
+      "gloss": {
+        "hi": "तुझे",
+        "en": "you",
+        "bho": "तोहरा के"
+      }
+    },
+    {
+      "sa": "चक्षुषा",
+      "gloss": {
+        "hi": "आँख से",
+        "en": "with the eye",
+        "bho": "आँख से"
+      }
+    },
+    {
+      "sa": "प्रतीक्षे",
+      "gloss": {
+        "hi": "मैं देखता हूँ",
+        "en": "I look upon",
+        "bho": "हम देखत बानी"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "मैं तुझे मित्र की आँख से देखता हूँ।",
+    "en": "I look upon you with the eye of Mitra (the friend).",
+    "bho": "हम तोहरा के मित्र के आँख से देखत बानी।"
+  },
+  "explanation": {
+    "hi": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3 उन छह व्यक्तियों का सत्कार बताता है जिन्हें अर्घ्य (मधुपर्क) मिलता है — आचार्य, ऋत्विज, वैवाह्य, राजा, प्रिय (मित्र) और स्नातक। \"वैवाह्य\" को टीकाकार नारायण और ओल्डेनबर्ग श्वशुर (समधी) समझते हैं; उत्तर भारत की विवाह-पद्धतियाँ इसी कंडिका को वर के स्वागत पर लागू करती हैं — कन्या-पिता मंडप में आए वर को अतिथि की तरह विष्टर, पाद्य, अर्घ्य, आचमनीय और मधुपर्क देता है। सूत्र 1.3.16 केवल प्रतीक \"मित्रस्य त्वा\" देता है और कहता है कि वर इससे [[madhuparka]] को देखे; पूरा वाक्य टीका और पद्धतियों में \"मित्रस्य त्वा चक्षुषा प्रतीक्षे\" है — यहाँ का पाठ माध्यंदिन विवाह-पद्धति से लिया है (स्वर-चिह्न नहीं)। कन्या-पिता काँसे या पत्तल के पात्र में दही, मधु और घी मिलाकर उसे बाएँ हाथ पर रखकर दाहिने से ढँकता है; ब्राह्मण तीन बार \"मधुपर्को मधुपर्को मधुपर्कः\", कन्या-पिता \"मधुपर्कः प्रतिगृह्यताम्\", वर \"मधुपर्कं प्रतिगृह्णामि\" — फिर वर ढक्कन हटाकर मधुपर्क को देखता है और यही कहता है। \"मित्र की आँख\" = बिना द्वेष की दृष्टि।",
+    "en": "The [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3 lays down the honouring of the six persons who receive the arghya (madhuparka) — the teacher, the officiating priest, the \"vaivahya\", the king, a friend and a snataka. The commentator Narayana and Oldenberg take \"vaivahya\" as the father-in-law; the North Indian wedding handbooks apply this very kandika to the reception of the bridegroom — the bride's father receives the groom who has come to the mandap as a guest, with the seat (vishtara), the foot-water, the arghya, the sipping-water and the madhuparka. Sutra 1.3.16 gives only the catchword \"mitrasya tva\" and says the groom looks at the madhuparka with it; the full sentence in the commentary and the handbooks is \"mitrasya tva chakshusha pratikshe\" — the text here is taken from the Madhyandina wedding handbook (no accents). The bride's father mixes curd, honey and ghee in a bronze or leaf vessel, holds it on his left hand and covers it with his right; the Brahmin says \"madhuparko madhuparko madhuparkah\" three times, the bride's father \"madhuparkah pratigrihyatam\", the groom \"madhuparkam pratigrihnami\" — then the groom lifts the cover, looks at the madhuparka and says this. \"The eye of Mitra\" = a gaze without ill will.",
+    "bho": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3 ओह छव आदमी के सत्कार बतावेला जिनका अर्घ्य (मधुपर्क) मिलेला — आचार्य, ऋत्विज, वैवाह्य, राजा, प्रिय (मीत) आ स्नातक। \"वैवाह्य\" के टीकाकार नारायण आ ओल्डेनबर्ग ससुर (समधी) समझेलन; उत्तर भारत के बियाह-पद्धति एही कंडिका के दुलहा के स्वागत पर लगावेला — कनिया-पिता मड़वा में आइल दुलहा के पाहुन जइसन विष्टर, पाद्य, अर्घ्य, आचमनीय आ मधुपर्क देलन। सूत्र 1.3.16 खाली प्रतीक \"मित्रस्य त्वा\" देला आ कहेला कि दुलहा एह से [[madhuparka]] के देखे; पूरा वाक्य टीका आ पद्धति में \"मित्रस्य त्वा चक्षुषा प्रतीक्षे\" बा — इहाँ के पाठ माध्यंदिन बियाह-पद्धति से लिहल बा (स्वर-चिह्न नइखे)। कनिया-पिता काँसा भा पतई के बरतन में दही, मधु आ घी मिला के ओकरा बावाँ हाथ पर राख के दहिना से ढँकेलन; ब्राह्मण तीन बेर \"मधुपर्को मधुपर्को मधुपर्कः\", कनिया-पिता \"मधुपर्कः प्रतिगृह्यताम्\", दुलहा \"मधुपर्कं प्रतिगृह्णामि\" — फेर दुलहा ढकना हटा के मधुपर्क के देखेला आ इहे कहेला। \"मित्र के आँख\" = बिना द्वेष के नजर।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-vivah-mvf",
+    "retrieved": "2026-11-01",
+    "modified": "OCR \"मित्रस्यत्वा चक्षुषा प्रतीक्षं\" read as मित्रस्य त्वा चक्षुषा प्रतीक्षे (word spacing; the first-person verb the sutra's प्रतीक्षते implies); ॐ dropped, ॥ added"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ws-pgs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Paraskara Grihya Sutra (ancient Sanskrit, public domain); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "madhuparka"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

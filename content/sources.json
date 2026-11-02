@@ -1032,14 +1032,14 @@
       "title": "Vivah Sanskar Paddhati (Acharya Akhilesh Dwivedi, Manav Vikas Foundation, 2020) — OCR text",
       "url": "https://archive.org/stream/mvf_20240803_20240803_1558/विवाह%20पद्धति%20-%20Mvf%20_djvu.txt",
       "retrieved": "2026-10-31",
-      "licence": "modern Hindi, copyright author — sequence facts only, no text copied",
-      "kind": "sequence",
+      "licence": "modern Hindi edition (prose in copyright) — sequence facts and traditional Sanskrit formulas transcribed (brief §14 owner decision); no Hindi prose copied",
+      "kind": "scan",
       "secondSourceAvailable": false,
       "titles": [
         "विवाह संस्कार पद्धति (द्विवेदी)",
         "Vivah Sanskar Paddhati (Dwivedi 2020)"
       ],
-      "note": "Madhyandina/PGS pothi with lokachar markers and Purvanchal customs (kohbar, dwarpuja); R1 ia-vivah-mvf.",
+      "note": "Madhyandina/PGS pothi with lokachar markers and Purvanchal customs (kohbar, dwarpuja); R1 ia-vivah-mvf. Entry changed from kind 'sequence' to 'scan' at the C1A-08 integrate: 26 pad-*/pgs-* records (C1A-03…C1A-08) take their Devanagari from this OCR, so the attribution line must say transcribed, not 'no text reproduced'.",
       "item": "mvf_20240803_20240803_1558",
       "publisher": "Manav Vikas Foundation, Mumbai",
       "year": "2020"
@@ -2314,6 +2314,21 @@
       "note": "Arya Samaj havan: samidha mantra ओम् अयं त इध्म आत्मा जातवेदः, जल प्रसेचन ओम् अदिते अनुमन्यस्व, ओम् भूर्-अग्नये प्राणाय स्वाहा, eight अष्टाज्याहुति beginning त्वं नो अग्ने, Gayatri ahutis. Used only for the Arya Samaj variant note on the havan page (decisions.md §1.6 labels the tradition separately).",
       "item": "agnihotra-havan-vidhi-arya-pratinidhi-sabha-jk",
       "publisher": "Arya Pratinidhi Sabha, Jammu & Kashmir"
+    },
+    {
+      "id": "hiwp-madwa-matkor",
+      "project": "other",
+      "title": "मड़वा मटकोर (Hindi Wikipedia)",
+      "url": "https://hi.wikipedia.org/wiki/मड़वा_मटकोर",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0",
+      "kind": "reference",
+      "secondSourceAvailable": false,
+      "titles": [
+        "मड़वा मटकोर (हिंदी विकिपीडिया)",
+        "Madwa Matkor (Hindi Wikipedia)"
+      ],
+      "note": "Folk-layer facts of the Bhojpuri/Bihar madwa: new-bamboo mandap, kalash + Satyanarayan katha in the madwa, matkor two or three days before the wedding, women-led (R1 hiwp-matkor). Used for the variants/notes of the vivah purvanga; no text copied."
     }
   ]
 }

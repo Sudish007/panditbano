@@ -1,0 +1,105 @@
+{
+  "id": "vs-13-29",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 13.29 (= RV 1.90.8); PGS 1.3.21 madhuparka alternative",
+  "title": {
+    "hi": "मधु-ऋचा 3 — मधुमान्नो वनस्पतिः",
+    "en": "Madhu verse 3 — madhuman no vanaspatih",
+    "bho": "मधु-ऋचा 3 — मधुमान्नो वनस्पतिः"
+  },
+  "devanagari": "मधु॑मान्नो॒ वन॒स्पति॒र्मधु॑माँ२ अस्तु॒ सूर्य॑ः । माध्वी॒र्गावो॑ भवन्तु नः ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "मधुमान्",
+      "gloss": {
+        "hi": "मधु से युक्त",
+        "en": "full of sweetness",
+        "bho": "मीठ से भरल"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमारे लिए",
+        "en": "for us",
+        "bho": "हमनी खातिर"
+      }
+    },
+    {
+      "sa": "वनस्पतिः",
+      "gloss": {
+        "hi": "वनस्पति (वृक्ष)",
+        "en": "the tree, the plant",
+        "bho": "गाछ-बिरिछ"
+      }
+    },
+    {
+      "sa": "मधुमान् अस्तु सूर्यः",
+      "gloss": {
+        "hi": "सूर्य मधुर हो",
+        "en": "sweet be the Sun",
+        "bho": "सुरुज मीठ होखे"
+      }
+    },
+    {
+      "sa": "माध्वीः",
+      "gloss": {
+        "hi": "मधुर",
+        "en": "sweet",
+        "bho": "मीठ"
+      }
+    },
+    {
+      "sa": "गावः",
+      "gloss": {
+        "hi": "गौएँ",
+        "en": "the cows",
+        "bho": "गाय सब"
+      }
+    },
+    {
+      "sa": "भवन्तु नः",
+      "gloss": {
+        "hi": "हमारे लिए हों",
+        "en": "be for us",
+        "bho": "हमनी खातिर होखे"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "वनस्पति हमारे लिए मधु से भरी हो, सूर्य मधुर हो; गौएँ हमारे लिए मधुर (दूध देने वाली) हों।",
+    "en": "Full of sweetness be the trees for us, sweet be the Sun; sweet (in milk) be the cows for us.",
+    "bho": "गाछ-बिरिछ हमनी खातिर मीठ से भरल होखे, सुरुज मीठ होखे; गाय सब हमनी खातिर मीठ (दूध देवे वाली) होखे।"
+  },
+  "explanation": {
+    "hi": "तीन मधु-ऋचाओं (शुक्ल यजुर्वेद 13.27–29 = ऋग्वेद 1.90.6–8) की तीसरी और अंतिम। उवट \"रसो वै मधु\" श्रुति से समझाते हैं कि \"मधु\" का अर्थ रस है — वायु, जल, वनस्पति, सूर्य, गौ सब रसवान हों। [[madhuparka]] के तीसरे ग्रास की ऋचा ([पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3.21 का विकल्प)। \"माँ२\" में अंक २ प्लुत (दीर्घ उच्चारण) का चिह्न है, जैसा माध्यंदिन छपे पाठ में होता है।",
+    "en": "The third and last of the madhu verses (Shukla Yajurveda 13.27–29 = Rigveda 1.90.6–8). Uvata explains with the shruti \"raso vai madhu\" that \"madhu\" here means essence — may wind, water, plants, Sun and cows all be full of it. The verse of the third mouthful of the madhuparka (the alternative of the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3.21). In \"mam̐2\" the digit 2 marks the pluta (prolonged) vowel, as the printed Madhyandina text does.",
+    "bho": "तीन मधु-ऋचा (शुक्ल यजुर्वेद 13.27–29 = ऋग्वेद 1.90.6–8) में तीसरा आ अंतिम। उवट \"रसो वै मधु\" श्रुति से समझावेलन कि \"मधु\" के अरथ रस बा — हवा, जल, गाछ, सुरुज, गाय सब रसवान होखे। [[madhuparka]] के तीसरा कौर के ऋचा ([पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3.21 के विकल्प)। \"माँ२\" में अंक २ प्लुत (लमहर उच्चारन) के चिह्न बा, जइसन माध्यंदिन छपल पाठ में होला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-13",
+    "retrieved": "2026-11-01",
+    "modified": "copied from the svara block of the Wikisource chapter page; trailing verse number and ordinal heading removed; ।। written as ॥; ASCII colon typed for the visarga restored"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "madhuparka",
+    "madhu"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

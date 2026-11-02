@@ -1,0 +1,105 @@
+{
+  "id": "pgs-1-3-15",
+  "kind": "vedic",
+  "text": "paraskara-grihya-sutra",
+  "locator": "PGS 1.3.15 (achamaniya); vivah paddhati: achaman-pradan",
+  "title": {
+    "hi": "आचमनीय — आमागन् यशसा",
+    "en": "Achamaniya — ama agan yashasa",
+    "bho": "आचमनीय — आमागन् यशसा"
+  },
+  "devanagari": "आमागन् यशसा संसृज वर्चसा । तं मा कुरु प्रियं प्रजानामधिपतिं पशूनामरिष्टिं तनूनाम् ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "आ मा अगन्",
+      "gloss": {
+        "hi": "तू मेरे पास आया",
+        "en": "you have come to me",
+        "bho": "रउआ हमरा लगे अइनी"
+      }
+    },
+    {
+      "sa": "यशसा",
+      "gloss": {
+        "hi": "यश के साथ",
+        "en": "with glory",
+        "bho": "जस के साथे"
+      }
+    },
+    {
+      "sa": "संसृज वर्चसा",
+      "gloss": {
+        "hi": "मुझे तेज से युक्त कर",
+        "en": "unite me with splendour",
+        "bho": "हमरा के तेज से जोड़ीं"
+      }
+    },
+    {
+      "sa": "तं मा कुरु",
+      "gloss": {
+        "hi": "मुझे ऐसा कर",
+        "en": "make me such",
+        "bho": "हमरा के अइसन करीं"
+      }
+    },
+    {
+      "sa": "प्रियं प्रजानाम्",
+      "gloss": {
+        "hi": "प्रजा (लोगों) का प्रिय",
+        "en": "dear to creatures (to people)",
+        "bho": "लोग के प्रिय"
+      }
+    },
+    {
+      "sa": "अधिपतिं पशूनाम्",
+      "gloss": {
+        "hi": "पशुओं (संपदा) का स्वामी",
+        "en": "lord of cattle (of wealth)",
+        "bho": "पसु (धन) के मालिक"
+      }
+    },
+    {
+      "sa": "अरिष्टिं तनूनाम्",
+      "gloss": {
+        "hi": "शरीर से अक्षत",
+        "en": "unharmed in body",
+        "bho": "देह से सुरच्छित"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "तू यश के साथ मेरे पास आया है; मुझे तेज से युक्त कर। मुझे प्रजा का प्रिय, पशुओं का स्वामी और शरीर से अक्षत बना।",
+    "en": "You have come to me with glory; unite me with splendour. Make me dear to people, lord of cattle, unharmed in body.",
+    "bho": "रउआ जस के साथे हमरा लगे अइनी; हमरा के तेज से जोड़ीं। हमरा के लोग के प्रिय, पसु के मालिक आ देह से सुरच्छित बनाईं।"
+  },
+  "explanation": {
+    "hi": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3 उन छह व्यक्तियों का सत्कार बताता है जिन्हें अर्घ्य (मधुपर्क) मिलता है — आचार्य, ऋत्विज, वैवाह्य, राजा, प्रिय (मित्र) और स्नातक। \"वैवाह्य\" को टीकाकार नारायण और ओल्डेनबर्ग श्वशुर (समधी) समझते हैं; उत्तर भारत की विवाह-पद्धतियाँ इसी कंडिका को वर के स्वागत पर लागू करती हैं — कन्या-पिता मंडप में आए वर को अतिथि की तरह विष्टर, पाद्य, अर्घ्य, आचमनीय और मधुपर्क देता है। यह [[achamaniya]] (आचमन के जल) का मंत्र है (सूत्र 1.3.15)। ब्राह्मण तीन बार \"आचमनीयम्\", कन्या-पिता \"आचमनीयं प्रतिगृह्यताम्\", वर \"आचमनीयं प्रतिगृह्णामि\" — फिर वर दूसरे पात्र से दो बार आचमन करके यह पढ़ता है। जल को यहाँ \"तू\" कहकर संबोधित किया गया है — वैदिक रीति में जल, अन्न और आसन सब सजीव की तरह बुलाए जाते हैं।",
+    "en": "The [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3 lays down the honouring of the six persons who receive the arghya (madhuparka) — the teacher, the officiating priest, the \"vaivahya\", the king, a friend and a snataka. The commentator Narayana and Oldenberg take \"vaivahya\" as the father-in-law; the North Indian wedding handbooks apply this very kandika to the reception of the bridegroom — the bride's father receives the groom who has come to the mandap as a guest, with the seat (vishtara), the foot-water, the arghya, the sipping-water and the madhuparka. This is the mantra of the achamaniya, the water for sipping (sutra 1.3.15). The Brahmin says \"achamaniyam\" three times, the bride's father \"achamaniyam pratigrihyatam\", the groom \"achamaniyam pratigrihnami\" — then the groom sips twice from a second vessel and recites this. The water is addressed as \"you\" — in the Vedic manner water, food and seat are all spoken to as living beings.",
+    "bho": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3 ओह छव आदमी के सत्कार बतावेला जिनका अर्घ्य (मधुपर्क) मिलेला — आचार्य, ऋत्विज, वैवाह्य, राजा, प्रिय (मीत) आ स्नातक। \"वैवाह्य\" के टीकाकार नारायण आ ओल्डेनबर्ग ससुर (समधी) समझेलन; उत्तर भारत के बियाह-पद्धति एही कंडिका के दुलहा के स्वागत पर लगावेला — कनिया-पिता मड़वा में आइल दुलहा के पाहुन जइसन विष्टर, पाद्य, अर्घ्य, आचमनीय आ मधुपर्क देलन। ई [[achamaniya]] (आचमन के जल) के मंत्र बा (सूत्र 1.3.15)। ब्राह्मण तीन बेर \"आचमनीयम्\", कनिया-पिता \"आचमनीयं प्रतिगृह्यताम्\", दुलहा \"आचमनीयं प्रतिगृह्णामि\" — फेर दुलहा दोसरा बरतन से दू बेर आचमन करके ई पढ़ेला। जल के इहाँ \"तू\" कह के बोलावल गइल बा — वैदिक रीति में जल, अन्न आ आसन सब जियतार जइसन बोलावल जाला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-pgs",
+    "retrieved": "2026-11-01",
+    "modified": "the sutra wording around the formula (इति, the verb of the rite) removed; ॥ added at the end"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Paraskara Grihya Sutra (ancient Sanskrit, public domain); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "madhuparka",
+    "achamaniya"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

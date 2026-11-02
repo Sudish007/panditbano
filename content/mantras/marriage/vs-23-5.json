@@ -1,0 +1,116 @@
+{
+  "id": "vs-23-5",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 23.5 (= RV 1.6.1); vivah paddhati: tilak",
+  "title": {
+    "hi": "तिलक-मंत्र — अरुण सूर्य-अश्व (शुक्ल यजुर्वेद 23.5)",
+    "en": "Tilak mantra — yunjanti bradhnam arusham",
+    "bho": "टीका-मंत्र — युञ्जन्ति ब्रध्नमरुषं"
+  },
+  "devanagari": "यु॒ञ्जन्ति॑ ब्र॒ध्नम॑रु॒षं चर॑न्तं॒ परि॑ त॒स्थुष॑ः । रोच॑न्ते रोच॒ना दि॒वि ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "युञ्जन्ति",
+      "gloss": {
+        "hi": "जोड़ते हैं (रथ में)",
+        "en": "they yoke",
+        "bho": "जोड़ेलन (रथ में)"
+      }
+    },
+    {
+      "sa": "ब्रध्नम्",
+      "gloss": {
+        "hi": "महान्, लाल-भूरे (सूर्य/अश्व) को",
+        "en": "the great ruddy one (the Sun / the horse)",
+        "bho": "महान लाल-भूअर (सुरुज/घोड़ा) के"
+      }
+    },
+    {
+      "sa": "अरुषम्",
+      "gloss": {
+        "hi": "अरुण, तेजस्वी को",
+        "en": "the bright one",
+        "bho": "अरुन, तेजवान के"
+      }
+    },
+    {
+      "sa": "चरन्तम्",
+      "gloss": {
+        "hi": "चलते हुए को",
+        "en": "the moving one",
+        "bho": "चलत के"
+      }
+    },
+    {
+      "sa": "परि तस्थुषः",
+      "gloss": {
+        "hi": "चारों ओर खड़े (ऋत्विज)",
+        "en": "those standing around",
+        "bho": "चारो ओर ठाड़ लोग"
+      }
+    },
+    {
+      "sa": "रोचन्ते",
+      "gloss": {
+        "hi": "चमकते हैं",
+        "en": "shine",
+        "bho": "चमकेला"
+      }
+    },
+    {
+      "sa": "रोचनाः",
+      "gloss": {
+        "hi": "ज्योतियाँ (नक्षत्र)",
+        "en": "the lights (stars)",
+        "bho": "ज्योति सब (तारा)"
+      }
+    },
+    {
+      "sa": "दिवि",
+      "gloss": {
+        "hi": "आकाश में",
+        "en": "in heaven",
+        "bho": "अकास में"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "चारों ओर खड़े (ऋत्विज) उस महान्, अरुण, चलते हुए (सूर्य-रूप अश्व) को रथ में जोड़ते हैं; आकाश में ज्योतियाँ (उसके प्रकाश से) चमकती हैं।",
+    "en": "Those standing around yoke the great, bright, moving one (the Sun-like horse) to the chariot; the lights shine in heaven (by his light).",
+    "bho": "चारो ओर ठाड़ लोग ओह महान, अरुन, चलत (सुरुज-रूप घोड़ा) के रथ में जोड़ेला; अकास में ज्योति सब (ओकरा अँजोर से) चमकेला।"
+  },
+  "explanation": {
+    "hi": "यह ऋचा ([ऋग्वेद](https://sa.wikisource.org/wiki/ऋग्वेदः_सूक्तं_१.६) 1.6.1) शुक्ल यजुर्वेद 23.5 में अश्वमेध के अश्व को रथ में जोड़ने का मंत्र है; उवट कहते हैं कि यहाँ अश्व की स्तुति आदित्य (सूर्य) के रूप में है। माध्यंदिन विवाह-पद्धति इसे [[tilak]] लगाने का मंत्र बनाती है — \"अरुषं\" (लाल/अरुण) शब्द माथे के लाल तिलक से जुड़ता है। विवाह में यह कंकण-बंधन के दिन वर-कन्या के तिलक पर और तिलक/वरवरण के दिन वर के तिलक पर आता है; द्वारपूजा और मंडप में कन्या-पिता वर को दही-हल्दी-अक्षत का तिलक पौराणिक \"कस्तूरीतिलकं…\" श्लोक से भी लगाते हैं — दोनों एक ही क्रिया के दो स्तर हैं।",
+    "en": "This verse ([Rigveda](https://sa.wikisource.org/wiki/ऋग्वेदः_सूक्तं_१.६) 1.6.1) is at Shukla Yajurveda 23.5 the mantra for yoking the horse of the ashvamedha to the chariot; Uvata says the horse is praised there as the Sun. The Madhyandina wedding handbook makes it the mantra for applying the tilak — the word \"arusham\" (red, bright) ties it to the red mark on the forehead. In the wedding it comes at the tilak of the groom and the bride on the kankan day and at the groom's tilak on the tilak / var-varan day; at the dwar-puja and in the mandap the bride's father also marks the groom with curd, turmeric and rice to the Puranic verse \"kasturi-tilakam…\" — two layers of the same act.",
+    "bho": "ई ऋचा ([ऋग्वेद](https://sa.wikisource.org/wiki/ऋग्वेदः_सूक्तं_१.६) 1.6.1) शुक्ल यजुर्वेद 23.5 में अश्वमेध के घोड़ा के रथ में जोड़े के मंत्र बा; उवट कहेलन कि इहाँ घोड़ा के बड़ाई आदित्य (सुरुज) के रूप में बा। माध्यंदिन बियाह-पद्धति एकरा [[tilak]] लगावे के मंत्र बनावेला — \"अरुषं\" (लाल/अरुन) सब्द माथ के लाल टीका से जुड़ेला। बियाह में ई कंगन बान्हे के दिन दुलहा-कनिया के टीका पर आ तिलक/वरवरन के दिन दुलहा के टीका पर आवेला; दुआर पूजा आ मड़वा में कनिया-पिता दुलहा के दही-हरदी-अच्छत के टीका पौरानिक \"कस्तूरीतिलकं…\" श्लोक से भी लगावेलन — दुनो एके काम के दू परत बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-23",
+    "retrieved": "2026-11-01",
+    "modified": "copied from the svara block of the Wikisource chapter page; trailing verse number and ordinal heading removed; ।। written as ॥; ASCII colon typed for the visarga restored"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "tilak"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

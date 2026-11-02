@@ -1,0 +1,97 @@
+{
+  "id": "vs-13-28",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 13.28 (= RV 1.90.7); PGS 1.3.21 madhuparka alternative",
+  "title": {
+    "hi": "मधु-ऋचा 2 — मधु नक्तमुतोषसो",
+    "en": "Madhu verse 2 — madhu naktam utoshaso",
+    "bho": "मधु-ऋचा 2 — मधु नक्तमुतोषसो"
+  },
+  "devanagari": "मधु॒ नक्त॑मु॒तोषसो॒ मधु॑म॒त्पार्थि॑व॒ᳪं᳭ रज॑ः । मधु॒ द्यौर॑स्तु नः पि॒ता ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "मधु नक्तम्",
+      "gloss": {
+        "hi": "रात मधुर (हो)",
+        "en": "sweet (be) the night",
+        "bho": "रात मीठ (होखे)"
+      }
+    },
+    {
+      "sa": "उत उषसः",
+      "gloss": {
+        "hi": "और उषाएँ (प्रभात)",
+        "en": "and the dawns",
+        "bho": "आ भोर सब"
+      }
+    },
+    {
+      "sa": "मधुमत्",
+      "gloss": {
+        "hi": "मधु से भरा",
+        "en": "full of sweetness",
+        "bho": "मीठ से भरल"
+      }
+    },
+    {
+      "sa": "पार्थिवꣳ रजः",
+      "gloss": {
+        "hi": "पृथिवी-लोक (की धूल)",
+        "en": "the earthly realm",
+        "bho": "पृथिवी-लोक"
+      }
+    },
+    {
+      "sa": "मधु द्यौः अस्तु",
+      "gloss": {
+        "hi": "द्युलोक मधुर हो",
+        "en": "sweet be the heaven",
+        "bho": "अकास मीठ होखे"
+      }
+    },
+    {
+      "sa": "नः पिता",
+      "gloss": {
+        "hi": "हमारा पिता",
+        "en": "our father",
+        "bho": "हमनी के पिता"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "रात मधुर हो और उषाएँ भी; पृथिवी-लोक मधु से भरा हो; हमारा पिता द्युलोक मधुर हो।",
+    "en": "Sweet be the night and the dawns; full of sweetness the earthly realm; sweet be heaven, our father.",
+    "bho": "रात मीठ होखे आ भोर सब भी; पृथिवी-लोक मीठ से भरल होखे; हमनी के पिता अकास मीठ होखे।"
+  },
+  "explanation": {
+    "hi": "तीन मधु-ऋचाओं (शुक्ल यजुर्वेद 13.27–29 = ऋग्वेद 1.90.6–8) की दूसरी। महीधर समझाते हैं: रात, दिन, माता-रूप पृथिवी और पिता-रूप द्युलोक — सब \"मधुमान्\" यानी मधुर रस से युक्त हों। [[madhuparka]] में यह दूसरे ग्रास की ऋचा है ([पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3.21 का विकल्प); विवाह के मंडप में वर जब दही-मधु-घी का दूसरा ग्रास लेता है, तब।",
+    "en": "The second of the three madhu verses (Shukla Yajurveda 13.27–29 = Rigveda 1.90.6–8). Mahidhara explains: night, day, the earth as mother and heaven as father — may all be \"madhuman\", filled with sweet essence. In the madhuparka it is the verse of the second mouthful (the alternative of the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3.21) — spoken when the groom takes the second mouthful of curd, honey and ghee in the wedding mandap.",
+    "bho": "तीन मधु-ऋचा (शुक्ल यजुर्वेद 13.27–29 = ऋग्वेद 1.90.6–8) में दोसरा। महीधर समझावेलन: रात, दिन, माई-रूप पृथिवी आ पिता-रूप अकास — सब \"मधुमान्\" माने मीठ रस से भरल होखे। [[madhuparka]] में ई दोसरा कौर के ऋचा बा ([पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3.21 के विकल्प); बियाह के मड़वा में दुलहा जब दही-मधु-घी के दोसरा कौर लेला, तब।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-13",
+    "retrieved": "2026-11-01",
+    "modified": "copied from the svara block of the Wikisource chapter page; trailing verse number and ordinal heading removed; ।। written as ॥; ASCII colon typed for the visarga restored"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "madhuparka",
+    "madhu"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

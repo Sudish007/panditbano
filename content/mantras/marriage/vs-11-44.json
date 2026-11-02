@@ -1,0 +1,125 @@
+{
+  "id": "vs-11-44",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 11.44; vivah paddhati: stambha-ropana (mandap post)",
+  "title": {
+    "hi": "स्तंभ-रोपण — स्थिरो भव",
+    "en": "Planting the mandap post — sthiro bhava",
+    "bho": "खंभा गाड़ल — स्थिरो भव"
+  },
+  "devanagari": "स्थि॒रो भ॑व वी॒ड्व॒ङ्ग आ॒शुर्भ॑व वा॒ज्य॒र्वन् । पृ॒थुर्भ॑व सु॒षद॒स्त्वम॒ग्नेः पु॑रीष॒वाह॑णः ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "स्थिरः भव",
+      "gloss": {
+        "hi": "स्थिर हो",
+        "en": "be steady",
+        "bho": "थिर होखीं"
+      }
+    },
+    {
+      "sa": "वीड्वङ्गः",
+      "gloss": {
+        "hi": "दृढ़ अंगों वाला",
+        "en": "firm-limbed",
+        "bho": "मजगर अंग वाला"
+      }
+    },
+    {
+      "sa": "आशुः भव",
+      "gloss": {
+        "hi": "शीघ्रगामी हो",
+        "en": "be swift",
+        "bho": "तेज होखीं"
+      }
+    },
+    {
+      "sa": "वाजी",
+      "gloss": {
+        "hi": "बलवान, वेगवान",
+        "en": "strong, vigorous",
+        "bho": "बलगर"
+      }
+    },
+    {
+      "sa": "अर्वन्",
+      "gloss": {
+        "hi": "हे गतिशील (घोड़े/गर्दभ)",
+        "en": "O courser",
+        "bho": "हे चले वाला"
+      }
+    },
+    {
+      "sa": "पृथुः भव",
+      "gloss": {
+        "hi": "विस्तृत हो",
+        "en": "be broad",
+        "bho": "चाकर होखीं"
+      }
+    },
+    {
+      "sa": "सुषदः",
+      "gloss": {
+        "hi": "सुखपूर्वक बैठने योग्य",
+        "en": "a good seat",
+        "bho": "नीक बइठकी"
+      }
+    },
+    {
+      "sa": "त्वम्",
+      "gloss": {
+        "hi": "तुम",
+        "en": "you",
+        "bho": "रउआ"
+      }
+    },
+    {
+      "sa": "अग्नेः पुरीषवाहणः",
+      "gloss": {
+        "hi": "अग्नि (की भूमि/चूर्ण) को ढोने वाले",
+        "en": "carrier of Agni's earth",
+        "bho": "अग्नि के माटी ढोवे वाला"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "स्थिर हो, दृढ़ अंगों वाला हो; शीघ्र चलने वाला, बलवान हो, हे गतिशील! विस्तृत हो, सुखपूर्वक बैठने योग्य हो — तुम अग्नि (की भूमि) को ढोने वाले हो।",
+    "en": "Be steady, firm-limbed; be swift and strong, O courser. Be broad, a good seat to rest on — you who carry the earth for Agni.",
+    "bho": "थिर होखीं, मजगर अंग वाला होखीं; तेज चले वाला, बलगर होखीं, हे चले वाला! चाकर होखीं, नीक बइठकी होखीं — रउआ अग्नि (के माटी) ढोवे वाला बानी।"
+  },
+  "explanation": {
+    "hi": "शुक्ल यजुर्वेद 11.44 मूलतः अग्निचयन में उस गर्दभ (रासभ) को संबोधित है जो अग्नि-निर्माण की मिट्टी ढोता है — उवट और महीधर दोनों कहते हैं कि यह मंत्र रासभ को संबोधित है। माध्यंदिन विवाह-पद्धति इसे [[marwa]] (मंडप) का खंभा गाड़ते समय पढ़ाती है: \"स्थिरो भव\" (स्थिर हो) खंभे पर सीधा घटता है। यही पद्धतियों का तरीका है — वैदिक मंत्र का कोई पद नये कर्म से मेल खाता है तो वह उसका विनियोग बन जाता है। विवाह के दिन या उससे पहले किसी शुभ दिन कन्या-पिता (कन्या के घर) और वर-पिता (वर के घर) आँगन में पूर्वमुख बैठकर [[sankalp]] करते हैं, भूमि-स्पर्श (शुक्ल यजुर्वेद 13.18) के बाद गड्ढा खोदते हैं, उसमें जल-अक्षत-हल्दी-सुपारी-द्रव्य डालते हैं, और पाँच व्यक्ति मिलकर इसी मंत्र से खंभा गाड़ते हैं।",
+    "en": "Shukla Yajurveda 11.44 originally addresses the donkey (rasabha) that carries the clay for the fire-altar in the agnichayana — Uvata and Mahidhara both gloss \"he addresses the donkey\". The Madhyandina wedding handbook has it recited while the post of the marwa (mandap) is planted: \"sthiro bhava\" (be steady) fits the post directly. That is how the handbooks work — when a word of a Vedic mantra matches a new act, the mantra becomes its application. On the wedding day or an auspicious day before it, the bride's father (at her house) and the groom's father (at his) sit facing east in the courtyard, make the sankalpa, touch the ground (Shukla Yajurveda 13.18), dig the pit, drop water, rice, turmeric, betel nut and a coin into it, and five people together plant the post with this mantra.",
+    "bho": "शुक्ल यजुर्वेद 11.44 असल में अग्निचयन में ओह गदहा (रासभ) खातिर बा जे अग्नि-निर्मान के माटी ढोवेला — उवट आ महीधर दुनो \"रासभमभिमन्त्रयते\" कहेलन। माध्यंदिन बियाह-पद्धति एकरा [[marwa]] (मड़वा) के खंभा गाड़त घरी पढ़ावेला: \"स्थिरो भव\" (थिर होखीं) खंभा पर सीधा लागेला। इहे पद्धति के तरीका बा — वैदिक मंत्र के कवनो पद नवका काम से मेल खाला त ऊ ओकर विनियोग बन जाला। बियाह के दिन भा ओकरा पहिले कवनो सुभ दिन कनिया-पिता (कनिया के घर) आ दुलहा-पिता (दुलहा के घर) अँगना में पूरब मुँह बइठ के [[sankalp]] करेलन, भूमि-स्पर्स (शुक्ल यजुर्वेद 13.18) के बाद गढ़ा खोदेलन, ओह में जल-अच्छत-हरदी-सुपारी-द्रव्य डालेलन, आ पाँच आदमी मिल के एही मंत्र से खंभा गाड़ेलन।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-11",
+    "retrieved": "2026-11-01",
+    "modified": "copied from the svara block of the Wikisource chapter page; trailing verse number and ordinal heading removed; ।। written as ॥"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "mandap",
+    "stambha"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

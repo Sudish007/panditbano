@@ -1,0 +1,123 @@
+{
+  "id": "pad-vacha-datta-kanya",
+  "kind": "paddhati",
+  "locator": "vivah paddhati: var-raksha / phaldan (the giver's two verses and the groom's answer)",
+  "title": {
+    "hi": "फलदान / वाग्दान — वाचा दत्ता मया कन्या",
+    "en": "Phaldan / vagdan — vacha datta maya kanya",
+    "bho": "फलदान / वाग्दान — वाचा दत्ता मया कन्या"
+  },
+  "devanagari": "ॐ वाचा दत्ता मया कन्या पुत्रार्थं स्वीकृता त्वया । कन्यावलोकनविधौ निश्चितस्त्वं सुखी भव ॥ तुभ्यं कन्यार्थिने वाचा कन्यादानं ददाम्यहम् । तन्निश्चयार्थं मद्दत्तं गृह्यतां साक्षतं फलम् ॥ ॐ वाचा दत्ता त्वया कन्या पुत्रार्थं स्वीकृता मया । वरालोकनविधौ निश्चितस्त्वं सुखी भव ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "वाचा दत्ता मया कन्या",
+      "gloss": {
+        "hi": "वचन से मैंने कन्या दी",
+        "en": "by word I have given the girl",
+        "bho": "बचन से हम कन्या दिहनी"
+      }
+    },
+    {
+      "sa": "पुत्रार्थं स्वीकृता त्वया",
+      "gloss": {
+        "hi": "(अपने) पुत्र के लिए तुमने स्वीकार की",
+        "en": "you have accepted her for your son",
+        "bho": "(आपन) बेटा खातिर रउआ स्वीकार कइनी"
+      }
+    },
+    {
+      "sa": "कन्यावलोकनविधौ",
+      "gloss": {
+        "hi": "कन्या देखने की विधि में",
+        "en": "in the rite of viewing the girl",
+        "bho": "कन्या देखे के विधि में"
+      }
+    },
+    {
+      "sa": "निश्चितः त्वं सुखी भव",
+      "gloss": {
+        "hi": "तुम निश्चिंत होकर सुखी हो",
+        "en": "be assured and happy",
+        "bho": "रउआ निश्चिंत होके सुखी होखीं"
+      }
+    },
+    {
+      "sa": "तुभ्यं कन्यार्थिने",
+      "gloss": {
+        "hi": "कन्या चाहने वाले तुम्हें",
+        "en": "to you who seek the girl",
+        "bho": "कन्या चाहे वाला रउआ के"
+      }
+    },
+    {
+      "sa": "वाचा कन्यादानं ददामि अहम्",
+      "gloss": {
+        "hi": "मैं वचन से कन्यादान देता हूँ",
+        "en": "I give the kanyadan by word",
+        "bho": "हम बचन से कन्यादान देत बानी"
+      }
+    },
+    {
+      "sa": "तन्निश्चयार्थं",
+      "gloss": {
+        "hi": "उसके निश्चय के लिए",
+        "en": "as its pledge",
+        "bho": "ओकरा निश्चय खातिर"
+      }
+    },
+    {
+      "sa": "मद्दत्तं गृह्यतां साक्षतं फलम्",
+      "gloss": {
+        "hi": "मेरा दिया अक्षत-सहित फल ग्रहण करो",
+        "en": "accept the fruit with rice that I give",
+        "bho": "हमार दिहल अच्छत-सहित फल लीं"
+      }
+    },
+    {
+      "sa": "वाचा दत्ता त्वया कन्या",
+      "gloss": {
+        "hi": "वचन से तुमने कन्या दी",
+        "en": "by word you have given the girl",
+        "bho": "बचन से रउआ कन्या दिहनी"
+      }
+    },
+    {
+      "sa": "वरालोकनविधौ",
+      "gloss": {
+        "hi": "वर देखने की विधि में",
+        "en": "in the rite of viewing the groom",
+        "bho": "वर देखे के विधि में"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "(कन्या-पक्ष:) वचन से मैंने कन्या दी, (अपने) पुत्र के लिए तुमने स्वीकार की; कन्या-दर्शन की इस विधि में तुम निश्चिंत और सुखी हो। कन्या चाहने वाले तुम्हें मैं वचन से कन्यादान देता हूँ; उसके निश्चय के लिए मेरा दिया अक्षत-सहित फल ग्रहण करो। (वर-पक्ष:) वचन से तुमने कन्या दी, (अपने) पुत्र के लिए मैंने स्वीकार की; वर-दर्शन की इस विधि में तुम निश्चिंत और सुखी हो।",
+    "en": "(Bride's side:) By word I have given the girl and you have accepted her for your son; in this rite of viewing the girl be assured and happy. To you who seek the girl I give the kanyadan by word; as its pledge accept the fruit with rice that I give. (Groom's side:) By word you have given the girl and I have accepted her for my son; in this rite of viewing the groom be assured and happy.",
+    "bho": "(कन्या-पच्छ:) बचन से हम कन्या दिहनी, (आपन) बेटा खातिर रउआ स्वीकार कइनी; कन्या-दर्सन के एह विधि में रउआ निश्चिंत आ सुखी होखीं। कन्या चाहे वाला रउआ के हम बचन से कन्यादान देत बानी; ओकरा निश्चय खातिर हमार दिहल अच्छत-सहित फल लीं। (दुलहा-पच्छ:) बचन से रउआ कन्या दिहनी, (आपन) बेटा खातिर हम स्वीकार कइनी; वर-दर्सन के एह विधि में रउआ निश्चिंत आ सुखी होखीं।"
+  },
+  "explanation": {
+    "hi": "यह श्लोक शुक्ल यजुर्वेद या [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) में नहीं है — यह [[paddhati]]-परत का पाठ है, जैसा उत्तर भारत की माध्यंदिन [विवाह-पद्धति](https://archive.org/details/mvf_20240803_20240803_1558) छापती है; स्वर-चिह्न नहीं हैं। यह \"वर-रक्षा / वरिच्छा / फलदान\" का पाठ है — आज की भाषा में [[sagai]] या रोका: कन्या-पिता (या भाई) पूर्वमुख बैठे वर या वर-पिता के हाथ में अक्षत-सहित फल (नारियल, सुपारी, मिठाई, द्रव्य) देते हुए पहले दो श्लोक पढ़ता है, वर/वर-पिता तीसरा श्लोक पढ़कर फल माथे से लगाता है। यह \"वाग्दान\" है — शब्द से दिया गया वचन; पद्धति इसे विवाह की पहली विधि के रूप में छापती है और इसके बाद गुरुजनों के चरण-स्पर्श, ब्राह्मण को दक्षिणा और नाई को न्योछावर लिखती है। श्लोकों में \"पुत्रार्थं\" — पिता अपने पुत्र के लिए कन्या स्वीकार करता है — पुराने घरों की रीति दिखाता है, जहाँ वचन दोनों पिताओं के बीच होता था।",
+    "en": "This verse is neither in the Shukla Yajurveda nor in the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) — it belongs to the handbook (paddhati) layer, as the Madhyandina [wedding handbook](https://archive.org/details/mvf_20240803_20240803_1558) of North India prints it; there are no accents. This is the text of the \"var-raksha / varichchha / phaldan\" — in today's language the sagai or roka: the bride's father (or brother), sitting opposite the east-facing groom or his father, recites the first two verses while placing the fruit with rice (coconut, betel nut, sweets, money) in his hands; the groom or his father answers with the third verse and touches the fruit to his forehead. This is the \"vagdan\", the word given by speech; the handbook prints it as the first rite of the wedding and follows it with touching the elders' feet, the dakshina to the Brahmin and the gift to the barber. The phrase \"putrartham\" — the father accepts the girl for his son — shows the old household custom in which the word passed between the two fathers.",
+    "bho": "ई श्लोक शुक्ल यजुर्वेद भा [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) में नइखे — ई [[paddhati]]-परत के पाठ बा, जइसन उत्तर भारत के माध्यंदिन [बियाह-पद्धति](https://archive.org/details/mvf_20240803_20240803_1558) छापेला; स्वर-चिह्न नइखे। ई \"वर-रक्षा / वरिच्छा / फलदान\" के पाठ बा — आज के भाषा में [[sagai]] भा रोका: कनिया-पिता (भा भाई) पूरब मुँह बइठल दुलहा भा दुलहा-पिता के हाथ में अच्छत-सहित फल (नरियर, सुपारी, मिठाई, द्रव्य) देत पहिला दू श्लोक पढ़ेलन, दुलहा/दुलहा-पिता तीसरा श्लोक पढ़ के फल माथ से लगावेला। ई \"वाग्दान\" बा — सब्द से दिहल बचन; पद्धति एकरा बियाह के पहिला विधि के रूप में छापेला आ एकरा बाद गुरुजन के गोड़ छूवल, ब्राह्मण के दक्षिणा आ नाऊ के न्योछावर लिखेला। श्लोक में \"पुत्रार्थं\" — पिता आपन बेटा खातिर कन्या स्वीकार करेलन — पुरान घर के रीति देखावेला, जहाँ बचन दुनो पिता के बीच होत रहे।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-vivah-mvf",
+    "retrieved": "2026-11-01",
+    "modified": "OCR of the handbook normalised: स्वीकृतं → स्वीकृता (agreeing with कन्या), \"कन्यावलोकन विधी निश्चितस् त्वं\" → कन्यावलोकनविधौ निश्चितस्त्वं, \"मद्दत\" → मद्दत्तं, \"बरालोकन विधौ निश्चितम् त्वं\" → वरालोकनविधौ निश्चितस्त्वं; the OCR symbols for ॐ restored"
+  },
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit formula of the Madhyandina wedding handbooks (anonymous, pre-modern); copied from a modern compilation under brief §14.2, no Hindi prose copied",
+  "tags": [
+    "vivah",
+    "sagai",
+    "phaldan",
+    "vagdan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

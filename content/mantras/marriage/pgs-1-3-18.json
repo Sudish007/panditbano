@@ -1,0 +1,88 @@
+{
+  "id": "pgs-1-3-18",
+  "kind": "vedic",
+  "text": "paraskara-grihya-sutra",
+  "locator": "PGS 1.3.18 (stirring the madhuparka thrice with the ring finger)",
+  "title": {
+    "hi": "मधुपर्क-मिश्रण — नमः श्यावास्याय",
+    "en": "Stirring the madhuparka — namah shyavasyaya",
+    "bho": "मधुपर्क मिलावल — नमः श्यावास्याय"
+  },
+  "devanagari": "नमः श्यावास्यायान्नशने यत्त आविद्धं तत्ते निष्कृन्तामि ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "नमः",
+      "gloss": {
+        "hi": "नमन",
+        "en": "homage",
+        "bho": "परनाम"
+      }
+    },
+    {
+      "sa": "श्यावास्याय",
+      "gloss": {
+        "hi": "श्याव-मुख (कृष्ण-मुख देव) को",
+        "en": "to the dark-faced one",
+        "bho": "करिया-मुँह वाला (देव) के"
+      }
+    },
+    {
+      "sa": "अन्नशने",
+      "gloss": {
+        "hi": "अन्न खाने के (समय)",
+        "en": "at the eating of food",
+        "bho": "अन्न खाए (के बेरा)"
+      }
+    },
+    {
+      "sa": "यत् ते आविद्धम्",
+      "gloss": {
+        "hi": "जो तुझमें बिंधा (दूषित) है",
+        "en": "what in you is pierced (spoilt)",
+        "bho": "जे तोहरा में बिन्हल (दूषित) बा"
+      }
+    },
+    {
+      "sa": "तत् ते निष्कृन्तामि",
+      "gloss": {
+        "hi": "वह मैं तुझसे काट देता हूँ",
+        "en": "that I cut away from you",
+        "bho": "ऊ हम तोहरा से काट देत बानी"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "अन्न खाने के समय श्याव-मुख (देव) को नमन। जो तुझमें बिंधा (दूषित) है, वह मैं तुझसे काट देता हूँ।",
+    "en": "Homage to the dark-faced one at the eating of food. What in you is pierced (spoilt), that I cut away from you.",
+    "bho": "अन्न खाए के बेरा करिया-मुँह वाला (देव) के परनाम। जे तोहरा में बिन्हल (दूषित) बा, ऊ हम तोहरा से काट देत बानी।"
+  },
+  "explanation": {
+    "hi": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3 उन छह व्यक्तियों का सत्कार बताता है जिन्हें अर्घ्य (मधुपर्क) मिलता है — आचार्य, ऋत्विज, वैवाह्य, राजा, प्रिय (मित्र) और स्नातक। \"वैवाह्य\" को टीकाकार नारायण और ओल्डेनबर्ग श्वशुर (समधी) समझते हैं; उत्तर भारत की विवाह-पद्धतियाँ इसी कंडिका को वर के स्वागत पर लागू करती हैं — कन्या-पिता मंडप में आए वर को अतिथि की तरह विष्टर, पाद्य, अर्घ्य, आचमनीय और मधुपर्क देता है। सूत्र 1.3.18–19: वर पात्र बाएँ हाथ में लेकर दाहिने हाथ की अनामिका से तीन बार [[madhuparka]] को मिलाता है और यह मंत्र पढ़ता है, फिर अनामिका और अँगूठे से तीन बार थोड़ा-सा बाहर (भूमि पर) छिड़कता है। \"श्यावास्य\" का अर्थ टीकाकार अनिश्चित मानते हैं — कृष्ण-मुख कोई देव या दोष का प्रतीक; भाव स्पष्ट है: अन्न में जो कुछ अशुद्ध हो, उसे अलग किया जाता है।",
+    "en": "The [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3 lays down the honouring of the six persons who receive the arghya (madhuparka) — the teacher, the officiating priest, the \"vaivahya\", the king, a friend and a snataka. The commentator Narayana and Oldenberg take \"vaivahya\" as the father-in-law; the North Indian wedding handbooks apply this very kandika to the reception of the bridegroom — the bride's father receives the groom who has come to the mandap as a guest, with the seat (vishtara), the foot-water, the arghya, the sipping-water and the madhuparka. Sutras 1.3.18–19: holding the vessel in his left hand the groom stirs the madhuparka three times with the ring finger of his right hand and recites this mantra, then with ring finger and thumb sprinkles a little out (on the ground) three times. The commentators are unsure of \"shyavasya\" — a dark-faced deity, or a figure for the blemish; the sense is clear: whatever is impure in the food is set apart.",
+    "bho": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3 ओह छव आदमी के सत्कार बतावेला जिनका अर्घ्य (मधुपर्क) मिलेला — आचार्य, ऋत्विज, वैवाह्य, राजा, प्रिय (मीत) आ स्नातक। \"वैवाह्य\" के टीकाकार नारायण आ ओल्डेनबर्ग ससुर (समधी) समझेलन; उत्तर भारत के बियाह-पद्धति एही कंडिका के दुलहा के स्वागत पर लगावेला — कनिया-पिता मड़वा में आइल दुलहा के पाहुन जइसन विष्टर, पाद्य, अर्घ्य, आचमनीय आ मधुपर्क देलन। सूत्र 1.3.18–19: दुलहा बरतन बावाँ हाथ में लेके दहिना हाथ के अनामिका से तीन बेर [[madhuparka]] के मिलावेला आ ई मंत्र पढ़ेला, फेर अनामिका आ अँगूठा से तीन बेर तनी-सा बाहर (भूमि पर) छींटेला। \"श्यावास्य\" के अरथ टीकाकार निश्चित ना मानेलन — करिया-मुँह वाला कवनो देव भा दोष के प्रतीक; भाव साफ बा: अन्न में जे कुछ असुद्ध होखे, ओकरा अलगा कइल जाला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-pgs",
+    "retrieved": "2026-11-01",
+    "modified": "the sutra wording around the formula (इति, the verb of the rite) removed; ॥ added at the end"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Paraskara Grihya Sutra (ancient Sanskrit, public domain); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "madhuparka"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,1014 @@
+{
+  "id": "vivah",
+  "code": "M00",
+  "group": "marriage",
+  "phase": 1,
+  "title": {
+    "hi": "विवाह (बियाह)",
+    "en": "Wedding (vivah)",
+    "bho": "बियाह"
+  },
+  "lede": {
+    "hi": "उत्तर भारतीय विवाह की पूरी विधि — मंडप और हल्दी से द्वारपूजा, मधुपर्क, कन्यादान, भाँवर, सप्तपदी, सिंदूरदान और चतुर्थीकर्म तक — गृह्यसूत्र के क्रम और माध्यंदिन पोथियों के शब्दों में; हर चरण का मंत्र, अर्थ, परत और पंडित जी की पंक्ति।",
+    "en": "The whole North Indian wedding, mandap to chaturthi-karma, in the order of the Grihya Sutra and the Madhyandina handbooks; every step with its mantra, meaning, layer and the pandit's line.",
+    "bho": "उत्तर भारत के बियाह के पूरा विधि — मड़वा आ हरदी से दुआर पूजा, मधुपर्क, कन्यादान, भाँवर, सप्तपदी, सिंदूरदान आ चतुर्थीकर्म तक — गृह्यसूत्र के क्रम आ माध्यंदिन पोथी के सब्द में; हर चरन के मंत्र, अरथ, परत आ पंडित जी के बोली।"
+  },
+  "overview": {
+    "hi": "[[vivah]] सोलह [[sanskar]] में सबसे बड़ा और सबसे लंबा संस्कार है — उत्तर भारत के घर में तिलक से विदाई तक कई दिन, और मंडप के नीचे ही तीन-चार घंटे। यह पृष्ठ उस पूरी विधि का क्रम है, जैसा हिंदी-भाषी क्षेत्र के अधिकतर पुरोहित करते हैं: रीढ़ [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) (शुक्ल यजुर्वेद माध्यंदिन शाखा का गृह्यसूत्र) है — उसी के 1.3 (मधुपर्क), 1.4–1.8 (विवाह, लाजा-होम, सप्तपदी, ध्रुव-दर्शन) और 1.11 (गृहप्रवेश, चतुर्थीकर्म) के मंत्र यहाँ हैं; उस पर माध्यंदिन पोथियों की [[paddhati]]-परत है (गणेश-अंबिका, कलश, मातृका, नांदीश्राद्ध, कन्यादान-संकल्प, सिंदूरदान का मंत्र) और उस पर लोकाचार (तिलक, हल्दी, मटकोर, द्वारपूजा, जयमाला, कोहबर, विदाई)। हर चरण पर उसकी परत — वैदिक / पद्धति / लोकाचार — लिखी है, क्योंकि [[grihya-sutra]] में इनमें से केवल पहली परत है; यह बात [[pandit]] और यजमान दोनों को पता होनी चाहिए।\n\nविधि तीन भागों में है। **पूर्वांग** (यह भाग अभी पूरा है): मंडप-स्थापना, कलश और गौरी-गणेश, मातृका-पूजन, हल्दी और कंकण, कोहबर-लोकाचार, देव-पितृ निमंत्रण, नांदीश्राद्ध, बरात, द्वारपूजा और वर-पूजन, चढ़ाव, मंडप में वर का स्वागत (विष्टर, पाद्य, अर्घ्य, आचमनीय, मधुपर्क, गो-विसर्जन) और जयमाला। **मुख्य विधि**: अग्नि-स्थापना, कन्या का आगमन और सम्मुखीकरण, गोत्रोच्चार, [[kanyadaan]] का पूरा संकल्प और गोदान, [[panigrahan]], [[granthi-bandhan]], लाजा-होम और [[ashmarohan]], चार [[bhanwar]] और [[saptapadi]]। **उत्तरांग**: सूर्य-ध्रुव-अरुंधती दर्शन, हृदय-स्पर्श, [[sindoor-daan]], अभिषेक-आशीर्वाद, उत्तर-पूजन, दक्षिणा, कंकण-मोक्षण, [[vidai]], वधू का गृहप्रवेश और [[chaturthi-karma]]। मुख्य विधि और उत्तरांग के चरण इसी पृष्ठ पर क्रम से जोड़े जा रहे हैं।\n\nभाँवर पर एक बात पहले से: हिंदी-भाषी क्षेत्र की माध्यंदिन पद्धति में चार भाँवर (अग्नि-परिक्रमा) हैं — तीन में वधू आगे, चौथी में वर आगे — और उनके बाद सात पदों की सप्तपदी अलग विधि है; \"सात फेरे\" लोक-भाषा में इन दोनों का मिला हुआ नाम है। इसका ब्योरा मुख्य विधि के चरणों में है।\n\nतिलक, सगाई और लग्न-पत्रिका का अपना पृष्ठ है: [तिलक, सगाई और लग्न-पत्रिका](/occasions/tilak-sagai-lagna-patrika/)। मंडप की तैयारी में जो पूजन हर संस्कार में आते हैं — [गणेश-अंबिका पूजन](/occasions/ganesh-ambika-pujan/), [कलश स्थापना](/occasions/kalash-sthapana/), [मातृका पूजन](/occasions/matrika-pujan/), [नांदी श्राद्ध](/occasions/nandi-shraddh/), [रक्षासूत्र](/occasions/raksha-sutra/) — उनके मंत्र अपने पृष्ठों पर हैं; यहाँ केवल वह क्रम है जिसमें वे विवाह में आते हैं। हवन का सामान्य ढाँचा [हवन विधि](/occasions/havan-vidhi/) पर है। क्षेत्रीय रूप — मैथिल, भोजपुरी, राजस्थानी, पहाड़ी, पंजाबी-हरियाणवी, अवधी-ब्रज-बुंदेली — नीचे \"भिन्न रूप\" में हैं और उनके अपने पृष्ठ बाद में आएँगे; [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.8.11–13 स्वयं कहता है \"ग्रामवचनं च कुर्युः… तस्मात्तयोर्ग्रामः प्रमाणमिति श्रुतेः\" — विवाह और अंत्येष्टि में ग्राम (देशाचार, कुलाचार) ही प्रमाण है। इसलिए यह साइट भिन्न रूपों को \"भिन्न रूप\" कहती है, \"गलत\" नहीं।",
+    "en": "The vivah is the largest and longest of the sixteen samskaras — in a North Indian home several days from the tilak to the vidai, and three to four hours under the mandap alone. This page is the order of that whole procedure as most purohits of the Hindi belt perform it: the backbone is the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) (the grihya sutra of the Shukla Yajurveda Madhyandina shakha) — its 1.3 (madhuparka), 1.4–1.8 (the wedding, the laja-homa, the saptapadi, the sighting of the pole star) and 1.11 (the entry into the house, the chaturthi-karma) supply the mantras here; on it lies the handbook (paddhati) layer of the Madhyandina pothis (Ganesha-Ambika, kalash, matrikas, nandi-shraddha, the kanyadaan sankalpa, the sindoor mantra) and on that the folk layer (tilak, haldi, matkor, dwar-puja, jaimala, kohbar, vidai). Every step carries its layer — Vedic / handbook / folk — because the grihya sutra has only the first of them; both the pandit and the host should know this.\n\nThe procedure has three parts. **Purvanga** (this part is complete): the mandap, the kalash and Gauri-Ganesha, the matrika puja, haldi and kankan, the kohbar customs, the invitation of gods and ancestors, the nandi-shraddha, the barat, the dwar-puja and the honouring of the groom, the chadhav, the groom's reception in the mandap (vishtara, foot-water, arghya, sipping-water, madhuparka, release of the cow) and the jaimala. **Main rites**: the fire, the bride's arrival and the facing of the couple, the gotrochchara, the full kanyadaan sankalpa and the godan, the panigrahana, the granthi-bandhan, the laja-homa and the ashmarohana, the four bhanwars and the saptapadi. **Uttaranga**: the sighting of the Sun, the pole star and Arundhati, the touching of the heart, the sindoor-daan, the abhisheka and blessings, the closing puja, the dakshina, the untying of the kankan, the vidai, the bride's entry into her new home and the chaturthi-karma. The steps of the main rites and the uttaranga are being added to this page in order.\n\nOne word on the bhanwars in advance: in the Madhyandina handbook of the Hindi belt there are four bhanwars (circuits of the fire) — the bride ahead in three, the groom in the fourth — followed by the saptapadi of seven steps as a separate rite; \"saat phere\" is the popular name for the two run together. The detail is in the steps of the main rites.\n\nThe tilak, the sagai and the lagna-patrika have their own page: [tilak, sagai and lagna-patrika](/occasions/tilak-sagai-lagna-patrika/). The pujas of the mandap preparation that recur in every samskara — [Ganesha-Ambika puja](/occasions/ganesh-ambika-pujan/), [kalash sthapana](/occasions/kalash-sthapana/), [matrika puja](/occasions/matrika-pujan/), [nandi shraddha](/occasions/nandi-shraddh/), [raksha-sutra](/occasions/raksha-sutra/) — have their mantras on their own pages; here is only the order in which they come in the wedding. The general frame of the fire offering is on [havan vidhi](/occasions/havan-vidhi/). The regional forms — Maithil, Bhojpuri, Rajasthani, Pahari, Punjabi-Haryanvi, Awadhi-Braj-Bundeli — are under \"variants\" below and will get their own pages later; the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.8.11–13 itself says \"gramavachanam cha kuryuh… tasmat tayor gramah pramanam iti shruteh\" — at weddings and funerals the village (regional and family custom) is the authority. That is why this site calls the variants \"variants\", not \"errors\".",
+    "bho": "[[vivah]] सोरह [[sanskar]] में सबसे बड़ आ सबसे लमहर संस्कार बा — उत्तर भारत के घर में तिलक से बिदाई तक कई दिन, आ मड़वा के नीचे ही तीन-चार घंटा। ई पन्ना ओह पूरा विधि के क्रम बा, जइसन हिंदी-भाषी इलाका के बेसी पुरोहित करेलन: रीढ़ [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) (शुक्ल यजुर्वेद माध्यंदिन शाखा के गृह्यसूत्र) बा — ओही के 1.3 (मधुपर्क), 1.4–1.8 (बियाह, लाजा-होम, सप्तपदी, ध्रुव-दर्सन) आ 1.11 (गृहप्रवेश, चतुर्थीकर्म) के मंत्र इहाँ बा; ओकरा पर माध्यंदिन पोथी के [[paddhati]]-परत बा (गणेश-अंबिका, कलश, मातृका, नांदीश्राद्ध, कन्यादान-संकल्प, सिंदूरदान के मंत्र) आ ओकरा पर लोकाचार (तिलक, हरदी, मटकोर, दुआर पूजा, जयमाला, कोहबर, बिदाई)। हर चरन पर ओकर परत — वैदिक / पद्धति / लोकाचार — लिखल बा, काहे कि [[grihya-sutra]] में एह में से खाली पहिला परत बा; ई बात [[pandit]] आ जजमान दुनो के पता होखे के चाहीं।\n\nविधि तीन भाग में बा। **पूर्वांग** (ई भाग अबहीं पूरा बा): मड़वा-स्थापना, कलश आ गौरी-गणेश, मातृका-पूजन, हरदी आ कंगन, कोहबर-लोकाचार, देव-पितृ निमंत्रन, नांदीश्राद्ध, बरियात, दुआर पूजा आ वर-पूजन, चढ़ाव, मड़वा में दुलहा के स्वागत (विष्टर, पाद्य, अर्घ्य, आचमनीय, मधुपर्क, गो-विसर्जन) आ जयमाला। **मुख्य विधि**: अग्नि-स्थापना, कनिया के आवल आ सम्मुखीकरन, गोत्रोच्चार, [[kanyadaan]] के पूरा संकल्प आ गोदान, [[panigrahan]], [[granthi-bandhan]], लाजा-होम आ [[ashmarohan]], चार [[bhanwar]] आ [[saptapadi]]। **उत्तरांग**: सुरुज-ध्रुव-अरुंधती दर्सन, हृदय-स्पर्स, [[sindoor-daan]], अभिषेक-असीस, उत्तर-पूजन, दक्षिणा, कंकन-मोक्षन, [[vidai]], दुलहिन के गृहप्रवेश आ [[chaturthi-karma]]। मुख्य विधि आ उत्तरांग के चरन एही पन्ना पर क्रम से जोड़ल जात बा।\n\nभाँवर पर एक बात पहिलहीं: हिंदी-भाषी इलाका के माध्यंदिन पद्धति में चार भाँवर (आगि के परिक्रमा) बा — तीन में दुलहिन आगे, चउथा में दुलहा आगे — आ ओकरा बाद सात पद के सप्तपदी अलगा विधि बा; \"सात फेरा\" लोक-भाषा में एह दुनो के मिलल नाँव बा। एकर ब्योरा मुख्य विधि के चरन में बा।\n\nतिलक, सगाई आ लगन पतरी के आपन पन्ना बा: [तिलक, सगाई आ लगन पतरी](/occasions/tilak-sagai-lagna-patrika/)। मड़वा के तइयारी में जे पूजन हर संस्कार में आवेला — [गणेश-अंबिका पूजन](/occasions/ganesh-ambika-pujan/), [कलश स्थापना](/occasions/kalash-sthapana/), [मातृका पूजन](/occasions/matrika-pujan/), [नांदी श्राद्ध](/occasions/nandi-shraddh/), [रक्षासूत्र](/occasions/raksha-sutra/) — ओकर मंत्र आपन पन्ना पर बा; इहाँ खाली ऊ क्रम बा जेह में ऊ बियाह में आवेला। हवन के आम ढाँचा [हवन विधि](/occasions/havan-vidhi/) पर बा। इलाका के रूप — मैथिल, भोजपुरी, राजस्थानी, पहाड़ी, पंजाबी-हरियानवी, अवधी-ब्रज-बुंदेली — नीचे \"अलग रूप\" में बा आ ओकर आपन पन्ना बाद में आई; [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.8.11–13 खुद कहेला \"ग्रामवचनं च कुर्युः… तस्मात्तयोर्ग्रामः प्रमाणमिति श्रुतेः\" — बियाह आ अंत्येष्टि में गाँव (देसाचार, कुलाचार) ही प्रमान बा। एही से ई साइट अलग रूप के \"अलग रूप\" कहेले, \"गलत\" ना।"
+  },
+  "when": {
+    "rules": {
+      "hi": "विवाह के मास और लग्न [[panchang]] से तय होते हैं। परंपरा में माघ, फाल्गुन, वैशाख, ज्येष्ठ, आषाढ़ (देवशयन से पहले), मार्गशीर्ष के लग्न मुख्य हैं; [[kharmas]] (धनु और मीन संक्रांति के मास), [[chaturmas]]/[[devshayan]] (देवशयनी से देवउठनी एकादशी), [[adhik-maas]], होलाष्टक और गुरु-शुक्र के अस्त में विवाह नहीं किया जाता; ग्यारह विवाह-नक्षत्र और लग्न-शुद्धि पंडित देखते हैं — नियम 'मुहूर्त-नियम' पृष्ठ पर हैं। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.4.5–7 उत्तरायण, शुक्ल पक्ष, पुण्य दिन और उत्तराफाल्गुनी-उत्तराषाढ़ा-उत्तराभाद्रपद, स्वाति, मृगशिरा, रोहिणी नक्षत्र कहता है। इस साइट पर तिथि की गणना नहीं होती — वर्ष के विवाह-मुहूर्त [Shubhvela](https://sudish007.github.io/shubhvela/) पर।",
+      "en": "The months and the lagna of a wedding are fixed from the panchang. Tradition favours the lagnas of Magha, Phalguna, Vaishakha, Jyeshtha, Ashadha (before Devshayan) and Margashirsha; no weddings in Kharmas (the months of the Dhanu and Mina sankrantis), in Chaturmas / Devshayan (from Devshayani to Devutthani Ekadashi), in the adhika month, during Holashtak or while Jupiter or Venus is combust; the eleven wedding nakshatras and the purity of the lagna are the pandit's to check — the rules are on the 'muhurat rules' page. The [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.4.5–7 names the northward half-year, the bright fortnight, an auspicious day and the three Uttara nakshatras, Svati, Mrigashira and Rohini. This site computes no dates — the year's wedding muhurats are on [Shubhvela](https://sudish007.github.io/shubhvela/).",
+      "bho": "बियाह के महीना आ लगन [[panchang]] से तय होला। परंपरा में माघ, फागुन, बइसाख, जेठ, असाढ़ (देवशयन से पहिले), अगहन के लगन मुख्य बा; [[kharmas]] (धनु आ मीन संक्रांति के महीना), [[chaturmas]]/[[devshayan]] (देवशयनी से देवउठनी एकादशी), [[adhik-maas]], होलाष्टक आ गुरु-सुक्र के अस्त में बियाह ना कइल जाला; एगारह बियाह-नक्षत्र आ लगन-सुद्धि पंडित देखेलन — नियम 'मुहूरत-नियम' पन्ना पर बा। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.4.5–7 उत्तरायन, सुकुल पच्छ, पुन्य दिन आ उत्तराफाल्गुनी-उत्तराषाढ़ा-उत्तराभाद्रपद, स्वाति, मृगशिरा, रोहिणी नक्षत्र कहेला। एह साइट पर तिथि के गनती ना होला — साल के बियाह-मुहूरत [Shubhvela](https://sudish007.github.io/shubhvela/) पर।"
+    },
+    "shubhvela": {
+      "muhurat": "marriage",
+      "festival": null,
+      "vrat": null
+    }
+  },
+  "roles": [
+    {
+      "role": {
+        "hi": "कन्या के माता-पिता (कन्यादाता)",
+        "en": "The bride's parents (the givers)",
+        "bho": "कनिया के माई-बाबूजी (कन्यादाता)"
+      },
+      "does": {
+        "hi": "मंडप और कलश की स्थापना, द्वारपूजा में वर का स्वागत और वर-पूजन, मंडप में मधुपर्क, कन्यादान का संकल्प और गोदान; माता परिछन करती है और कन्यादान में जल की धार देती है। विवाह के दिन दोनों प्रायः उपवास में रहते हैं।",
+        "en": "Set up the mandap and the kalash, receive and honour the groom at the dwar-puja, give the madhuparka in the mandap, speak the kanyadaan sankalpa and make the godan; the mother does the parichhan and pours the stream of water at the kanyadaan. Both usually fast on the wedding day.",
+        "bho": "मड़वा आ कलश के स्थापना, दुआर पूजा में दुलहा के स्वागत आ वर-पूजन, मड़वा में मधुपर्क, कन्यादान के संकल्प आ गोदान; माई परिछन करेली आ कन्यादान में जल के धार देली। बियाह के दिन दुनो अक्सर उपास में रहेलन।"
+      }
+    },
+    {
+      "role": {
+        "hi": "वर (दूल्हा)",
+        "en": "The groom",
+        "bho": "दुलहा"
+      },
+      "does": {
+        "hi": "अतिथि की तरह विष्टर-पाद्य-अर्घ्य-मधुपर्क स्वीकार करता है, कन्या को ग्रहण करता है, पाणिग्रहण, लाजा-होम और भाँवर के मंत्र पढ़ता है (पुरोहित के साथ), सप्तपदी में कन्या को सात पद चलाता है, सिंदूरदान करता है। वैदिक मंत्रों का कर्ता वर ही है।",
+        "en": "Accepts the seat, foot-water, arghya and madhuparka as a guest, receives the bride, recites (with the purohit) the mantras of the panigrahana, the laja-homa and the bhanwars, leads the bride seven steps in the saptapadi, applies the sindoor. The groom is the speaker of the Vedic mantras.",
+        "bho": "पाहुन जइसन विष्टर-पाद्य-अर्घ्य-मधुपर्क स्वीकार करेला, कनिया के ग्रहन करेला, पानिग्रहन, लाजा-होम आ भाँवर के मंत्र पढ़ेला (पुरोहित के साथे), सप्तपदी में कनिया के सात पद चलावेला, सिंदूरदान करेला। वैदिक मंत्र के कर्ता दुलहा ही बा।"
+      }
+    },
+    {
+      "role": {
+        "hi": "वधू (कन्या)",
+        "en": "The bride",
+        "bho": "दुलहिन (कनिया)"
+      },
+      "does": {
+        "hi": "हल्दी-कंकण और कोहबर की रीतियों की केंद्र-बिंदु; मंडप में पिता के हाथ से वर को दी जाती है, लाजा-होम में भाई के साथ लावा की आहुति देती है, भाँवर में पहली तीन परिक्रमाओं में आगे चलती है, अश्मारोहण में पत्थर पर पैर रखती है। वैदिक विधि में कन्या मंत्र नहीं बोलती — वर बोलता है; लोक में उसके अपने गीत हैं।",
+        "en": "The centre of the haldi, kankan and kohbar customs; in the mandap she is given to the groom from her father's hands, offers the parched grain with her brother at the laja-homa, walks ahead in the first three circuits of the bhanwar, steps on the stone at the ashmarohana. In the Vedic rite the bride speaks no mantra — the groom does; in folk custom she has her own songs.",
+        "bho": "हरदी-कंगन आ कोहबर के रीति के केंद्र; मड़वा में बाबूजी के हाथ से दुलहा के दिहल जाली, लाजा-होम में भाई के साथे लावा के आहुति देली, भाँवर में पहिला तीन परिक्रमा में आगे चलेली, अश्मारोहन में पाथर पर गोड़ राखेली। वैदिक विधि में कनिया मंत्र ना बोले — दुलहा बोलेला; लोक में ओकर आपन गीत बा।"
+      }
+    },
+    {
+      "role": {
+        "hi": "कन्या का भाई",
+        "en": "The bride's brother",
+        "bho": "कनिया के भाई"
+      },
+      "does": {
+        "hi": "द्वारपूजा में वर को दुर्गा-जनेऊ देता है, लाजा-होम में सूप में लावा लाकर चार भाग करता है और बहन की अंजलि में डालता है; कई घरों में वर-पूजन और वरण भाई ही करता है।",
+        "en": "Gives the groom the Durga-janeu at the dwar-puja, brings the parched grain in the winnowing tray at the laja-homa, divides it into four and pours it into his sister's cupped hands; in many homes the brother performs the var-pujan and the varana.",
+        "bho": "दुआर पूजा में दुलहा के दुर्गा-जनेऊ देला, लाजा-होम में सूप में लावा ले आके चार भाग करेला आ बहिन के अँजुरी में डालेला; ढेर घर में वर-पूजन आ वरन भाई ही करेला।"
+      }
+    },
+    {
+      "role": {
+        "hi": "दोनों पक्षों के पुरोहित (आचार्य)",
+        "en": "The purohits of both sides",
+        "bho": "दुनो पच्छ के पुरोहित (आचार्य)"
+      },
+      "does": {
+        "hi": "कन्या-पक्ष के आचार्य पूरी विधि कराते हैं — संकल्प, पूजन, मधुपर्क का संवाद, कन्यादान, होम, सप्तपदी; वर-पक्ष के पुरोहित वर की ओर से मंत्र दोहराते हैं, लग्न-पत्रिका पढ़ते हैं और वर के घर के पूर्वांग (मंडप, हल्दी, नांदीश्राद्ध, बरात) कराते हैं।",
+        "en": "The bride's side's acharya conducts the whole procedure — sankalpas, pujas, the madhuparka dialogue, the kanyadaan, the homa, the saptapadi; the groom's side's purohit repeats the mantras on the groom's behalf, reads the lagna-patrika and conducts the purvanga at the groom's house (mandap, haldi, nandi-shraddha, barat).",
+        "bho": "कनिया-पच्छ के आचार्य पूरा विधि करावेलन — संकल्प, पूजन, मधुपर्क के बातचीत, कन्यादान, होम, सप्तपदी; दुलहा-पच्छ के पुरोहित दुलहा के ओर से मंत्र दोहरावेलन, लगन पतरी पढ़ेलन आ दुलहा के घर के पूर्वांग (मड़वा, हरदी, नांदीश्राद्ध, बरियात) करावेलन।"
+      }
+    },
+    {
+      "role": {
+        "hi": "घर की सुहागिनें, बुआ और नाई-नाइन",
+        "en": "The married women, the bua and the barber couple",
+        "bho": "घर के सोहागिन लोग, फुआ आ नाऊ-नाउन"
+      },
+      "does": {
+        "hi": "मटकोर, हल्दी, कोहबर, परिछन, गीत और सिंदूर-करण (माँग-बहोरन) सुहागिनों का क्षेत्र है; बुआ कलश पर गोबर-जवा लगाती और कोहबर बनाती है; नाई-नाइन उपानह-त्याग, मधुपर्क का पात्र हटाना, तेल मलना और न्योछावर पाना — पद्धति में इनके काम लिखे हैं।",
+        "en": "The matkor, haldi, kohbar, parichhan, the songs and the sindoor-karan (mang-bahoran) belong to the married women; the father's sister smears the kalash with dung and barley and makes the kohbar; the barber couple remove the shoes, take away the madhuparka vessel, rub in the oil and receive their gift — the handbook names their tasks.",
+        "bho": "मटकोर, हरदी, कोहबर, परिछन, गीत आ सिंदूर-करन (माँग-बहोरन) सोहागिन लोग के इलाका बा; फुआ कलश पर गोबर-जवा लगावेली आ कोहबर बनावेली; नाऊ-नाउन जूता उतारल, मधुपर्क के बरतन हटावल, तेल मलल आ न्योछावर पावल — पद्धति में इनकर काम लिखल बा।"
+      }
+    }
+  ],
+  "samagri": [
+    {
+      "id": "bans-khambha",
+      "item": {
+        "hi": "नए बाँस के खंभे (मड़वा के लिए, 4 + 1 मध्य) और छाने के लिए सरपत/आम-पल्लव",
+        "en": "New bamboo posts for the marwa (4 + 1 in the middle) and sarpat grass / mango leaves to roof it",
+        "bho": "नवका बाँस के खंभा (मड़वा खातिर, 4 + 1 बीच में) आ छावे खातिर सरपत/आम के पल्लव"
+      },
+      "qty": "5",
+      "must": true,
+      "note": {
+        "hi": "पद्धति सोलह, बारह, दस या आठ हाथ का मंडप कहती है — \"जितना हो सके\"।",
+        "en": "The handbook says a mandap of sixteen, twelve, ten or eight cubits — \"as large as one can\".",
+        "bho": "पद्धति सोरह, बारह, दस भा आठ हाथ के मड़वा कहेला — \"जेतना हो सके\"।"
+      }
+    },
+    {
+      "id": "kalash",
+      "item": {
+        "hi": "कलश (मिट्टी/ताँबे का) — प्रधान कलश गोबर-जवा लगा, जल, खड़ी हल्दी, सुपारी, द्रव्य, आम-पत्ती, ऊपर जौ भरा प्याला और दीया",
+        "en": "Kalash (clay / copper) — the main kalash smeared with dung and barley, with water, whole turmeric, betel nut, a coin, mango leaves, a bowl of barley on top and a lamp",
+        "bho": "कलश (माटी/तामा के) — परधान कलश गोबर-जवा लागल, जल, खड़ी हरदी, सुपारी, द्रव्य, आम-पतई, ऊपर जौ भरल कटोरी आ दीया"
+      },
+      "qty": "1 + 1",
+      "must": true,
+      "note": {
+        "hi": "एक कन्या के घर, एक वर के घर।",
+        "en": "One at each house — bride's and groom's.",
+        "bho": "एक कनिया के घर, एक दुलहा के घर।"
+      }
+    },
+    {
+      "id": "ganesh-gauri",
+      "item": {
+        "hi": "गौरी-गणेश (गौर-सुपारी या मूर्ति), चौकी, लाल/पीला वस्त्र",
+        "en": "Gauri-Ganesha (gaur-supari or images), a low stool, red / yellow cloth",
+        "bho": "गौरी-गणेश (गौर-सुपारी भा मूरति), चौकी, लाल/पियर कपड़ा"
+      },
+      "qty": "1 set",
+      "must": true
+    },
+    {
+      "id": "matrika-patra",
+      "item": {
+        "hi": "मातृका-पूजन के लिए दीवार/पट्टिका पर ऐपन-सिंदूर के बिंदु, सुपारी 16 + 7",
+        "en": "For the matrika puja: aipan and sindoor dots on the wall / board, 16 + 7 betel nuts",
+        "bho": "मातृका-पूजन खातिर देवाल/पटरी पर ऐपन-सिंदूर के बिंदी, सुपारी 16 + 7"
+      },
+      "qty": "—",
+      "must": true
+    },
+    {
+      "id": "haldi-tel",
+      "item": {
+        "hi": "हल्दी (खड़ी और पिसी), सरसों/तिल का तेल, उबटन (बेसन-हल्दी)",
+        "en": "Turmeric (whole and ground), mustard / sesame oil, ubtan (gram flour and turmeric)",
+        "bho": "हरदी (खड़ी आ पीसल), सरसो/तिल के तेल, उबटन (बेसन-हरदी)"
+      },
+      "qty": "250 g + 250 ml",
+      "must": true
+    },
+    {
+      "id": "durva",
+      "item": {
+        "hi": "दूर्वा (दूब) की पिंजुली",
+        "en": "Bunches of durva grass",
+        "bho": "दूब के पिंजुली"
+      },
+      "qty": "—",
+      "must": true
+    },
+    {
+      "id": "kangan-samagri",
+      "item": {
+        "hi": "कंगन के लिए पीला कपड़ा (5 टुकड़े), राई, कौड़ी, लोहे के छल्ले, नारा (डोरा)",
+        "en": "For the kangan: yellow cloth (5 pieces), mustard seed, cowries, iron rings, cord",
+        "bho": "कंगन खातिर पियर कपड़ा (5 टुकड़ा), राई, कौड़ी, लोहा के छल्ला, नारा (डोरा)"
+      },
+      "qty": "5 sets",
+      "must": true
+    },
+    {
+      "id": "aipan-sindoor",
+      "item": {
+        "hi": "ऐपन (चावल का घोल/हल्दी) और सिंदूर — छापे, कोहबर और कलश के लिए; सिंदूर की डिबिया और सिंधोरा",
+        "en": "Aipan (rice paste / turmeric) and sindoor — for the hand-prints, the kohbar and the kalash; the sindoor box and the sindhora",
+        "bho": "ऐपन (चाउर के घोल/हरदी) आ सिंदूर — छापा, कोहबर आ कलश खातिर; सिंदूर के डिबिया आ सिंधोरा"
+      },
+      "qty": "—",
+      "must": true
+    },
+    {
+      "id": "akshat",
+      "item": {
+        "hi": "अक्षत (अखंड चावल), हल्दी से पीला",
+        "en": "Akshata (unbroken rice), yellowed with turmeric",
+        "bho": "अच्छत (अखंड चाउर), हरदी से पियर"
+      },
+      "qty": "1 kg",
+      "must": true
+    },
+    {
+      "id": "roli-chandan",
+      "item": {
+        "hi": "रोली, गंध (चंदन), दही (तिलक के लिए)",
+        "en": "Roli, sandal paste, curd (for the tilak)",
+        "bho": "रोरी, गंध (चंदन), दही (टीका खातिर)"
+      },
+      "qty": "—",
+      "must": true
+    },
+    {
+      "id": "phool-mala",
+      "item": {
+        "hi": "फूल और पुष्प-माला (वर-पूजन, द्वारपूजा, मंडप और जयमाला की)",
+        "en": "Flowers and garlands (for the var-pujan, the dwar-puja, the mandap and the jaimala)",
+        "bho": "फूल आ फूल के माला (वर-पूजन, दुआर पूजा, मड़वा आ जयमाला के)"
+      },
+      "qty": "—",
+      "must": true
+    },
+    {
+      "id": "kush-aam",
+      "item": {
+        "hi": "कुश और आम के पल्लव (विष्टर और तृण-छेदन के लिए)",
+        "en": "Kusha grass and mango sprigs (for the vishtara and the trina-chhedan)",
+        "bho": "कुश आ आम के पल्लव (विष्टर आ तृन-छेदन खातिर)"
+      },
+      "qty": "—",
+      "must": true
+    },
+    {
+      "id": "madhuparka",
+      "item": {
+        "hi": "मधुपर्क के लिए दही, शहद (मधु), घी — काँसे का पात्र या दोना, ढकने के लिए दूसरा पात्र",
+        "en": "For the madhuparka: curd, honey, ghee — a bronze bowl or leaf cup, a second vessel to cover it",
+        "bho": "मधुपर्क खातिर दही, मधु, घी — काँसा के बरतन भा दोना, ढँके खातिर दोसरा बरतन"
+      },
+      "qty": "—",
+      "must": true
+    },
+    {
+      "id": "jal-patra",
+      "item": {
+        "hi": "पाद्य, अर्घ्य और आचमनीय के तीन अलग प्याले, लोटा जल",
+        "en": "Three separate cups for the padya, arghya and achamaniya, a lota of water",
+        "bho": "पाद्य, अर्घ्य आ आचमनीय के तीन अलगा कटोरी, लोटा जल"
+      },
+      "qty": "3",
+      "must": true
+    },
+    {
+      "id": "supari-paan",
+      "item": {
+        "hi": "सुपारी, पान, लौंग-इलायची",
+        "en": "Betel nut, paan, clove, cardamom",
+        "bho": "सुपारी, पान, लौंग-इलाइची"
+      },
+      "qty": "—",
+      "must": true
+    },
+    {
+      "id": "nariyal-phal",
+      "item": {
+        "hi": "नारियल, फल, मिठाई",
+        "en": "Coconut, fruits, sweets",
+        "bho": "नरियर, फल, मिठाई"
+      },
+      "qty": "—",
+      "must": true
+    },
+    {
+      "id": "dravya",
+      "item": {
+        "hi": "द्रव्य — दक्षिणा, न्योछावर, वरण-द्रव्य, गो-निष्क्रय",
+        "en": "Money — dakshina, gifts to the barber, the varana money, the price of the cow",
+        "bho": "द्रव्य — दक्षिणा, न्योछावर, वरन-द्रव्य, गो-निष्क्रय"
+      },
+      "qty": "—",
+      "must": true
+    },
+    {
+      "id": "vastra-var",
+      "item": {
+        "hi": "वर के वस्त्र, मौर (सेहरा), उपवस्त्र; वधू के वस्त्र और चूड़ी (चढ़ाव में)",
+        "en": "The groom's clothes, the maur (headdress), the shoulder cloth; the bride's clothes and bangles (in the chadhav)",
+        "bho": "दुलहा के वस्त्र, मौर (सेहरा), उपवस्त्र; दुलहिन के कपड़ा आ चूड़ी (चढ़ाव में)"
+      },
+      "qty": "—",
+      "must": true
+    },
+    {
+      "id": "janeu",
+      "item": {
+        "hi": "जनेऊ — द्वारपूजा की \"दुर्गा-जनेऊ\" के लिए",
+        "en": "Sacred threads — for the \"Durga-janeu\" of the dwar-puja",
+        "bho": "जनेऊ — दुआर पूजा के \"दुर्गा-जनेऊ\" खातिर"
+      },
+      "qty": "2",
+      "must": false
+    },
+    {
+      "id": "tagpat",
+      "item": {
+        "hi": "तागपाट (पट्टसूत्र — कन्या के हाथ में बाँधने का रेशमी डोरा)",
+        "en": "Tagpat (a silk cord tied on the bride's wrists)",
+        "bho": "तागपाट (पट्टसूत्र — कनिया के हाथ में बान्हे के रेसमी डोरा)"
+      },
+      "qty": "2",
+      "must": false
+    },
+    {
+      "id": "deep",
+      "item": {
+        "hi": "मानिक दीया (द्वारपूजा की आरती का) और पूजा के दीप, घी, बत्ती",
+        "en": "The manik lamp (for the aarti at the door) and the puja lamps, ghee, wicks",
+        "bho": "मानिक दीया (दुआर पूजा के आरती के) आ पूजा के दीया, घी, बाती"
+      },
+      "qty": "—",
+      "must": true
+    },
+    {
+      "id": "dhoop",
+      "item": {
+        "hi": "धूप, अगरबत्ती, कपूर",
+        "en": "Incense, incense sticks, camphor",
+        "bho": "धूप, अगरबत्ती, कपूर"
+      },
+      "qty": "—",
+      "must": true
+    },
+    {
+      "id": "lava",
+      "item": {
+        "hi": "लावा/खील (लाजा होम के लिए), सूप",
+        "en": "Parched rice (for the laja-homa), a winnowing tray",
+        "bho": "लावा/खील (लावा होम खातिर), सूप"
+      },
+      "qty": "500 g",
+      "must": true
+    },
+    {
+      "id": "havan-samagri",
+      "item": {
+        "hi": "हवन-कुंड या वेदी, समिधा, घी, हवन-सामग्री — हवन विधि की सूची",
+        "en": "Havan-kund or altar, fuel sticks, ghee, havan mixture — the list on havan vidhi",
+        "bho": "हवन-कुंड भा बेदी, समिधा, घी, हवन-सामान — हवन विधि के सूची"
+      },
+      "qty": "—",
+      "must": true
+    },
+    {
+      "id": "shila",
+      "item": {
+        "hi": "शिला (अश्मारोहण का पत्थर — सिल)",
+        "en": "A stone (the sil for the ashmarohana)",
+        "bho": "सिल (अश्मारोहन के पाथर)"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "pidha",
+      "item": {
+        "hi": "पीढ़े / आसन (वर, कन्या, कन्या-पिता, आचार्य के लिए)",
+        "en": "Low seats / asanas (for the groom, the bride, the bride's father, the acharya)",
+        "bho": "पीढ़ा / आसन (दुलहा, कनिया, कनिया-पिता, आचार्य खातिर)"
+      },
+      "qty": "4",
+      "must": true
+    },
+    {
+      "id": "karai",
+      "item": {
+        "hi": "करई/हँड़िया और प्याला (देव-पितृ निमंत्रण की), पीठी",
+        "en": "A small pot and bowl (for the invitation of gods and ancestors), rice-flour paste",
+        "bho": "करई/हँड़िया आ कटोरी (देव-पितृ निमंत्रन के), पीठी"
+      },
+      "qty": "1",
+      "must": false
+    },
+    {
+      "id": "gud-chawal",
+      "item": {
+        "hi": "गुड़ और चावल (हल्दी और चढ़ाव में कन्या/वर के हाथ में), दही-बताशा",
+        "en": "Jaggery and rice (held by the bride / groom at the haldi and the chadhav), curd and sugar drops",
+        "bho": "गुड़ आ चाउर (हरदी आ चढ़ाव में कनिया/दुलहा के हाथ में), दही-बतासा"
+      },
+      "qty": "—",
+      "must": false
+    }
+  ],
+  "parts": [
+    {
+      "id": "purvang",
+      "title": {
+        "hi": "पूर्वांग",
+        "en": "Preliminary rites (purvanga)",
+        "bho": "पूर्वांग"
+      },
+      "summary": {
+        "hi": "मंडप से जयमाला तक — तैयारी, लोकाचार और मंडप में वर का मधुपर्क-स्वागत।",
+        "en": "From the mandap to the jaimala — the preparation, the folk customs and the groom's madhuparka reception in the mandap.",
+        "bho": "मड़वा से जयमाला तक — तइयारी, लोकाचार आ मड़वा में दुलहा के मधुपर्क-स्वागत।"
+      }
+    }
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "part": "purvang",
+      "layer": "paddhati",
+      "action": {
+        "hi": "**मंडप (खंभा) स्थापना** — विवाह के दिन या उससे पहले किसी शुभ दिन कन्या के घर कन्या-पिता (और वर के घर वर-पिता) आँगन में पूर्वमुख बैठकर पवित्रीकरण-आचमन-स्वस्तिवाचन के बाद स्तंभ-रोपण का [[sankalp]] करता है, गौरी-गणेश-कलश का पूजन, फिर जहाँ खंभा गड़ना है वहाँ भूमि-स्पर्श (\"भूरसि भूमिरसि…\"), गड्ढा खोदकर उसमें जल-अक्षत-खड़ी हल्दी-सुपारी-द्रव्य; गेरू और ऐपन-सिंदूर लगे नए बाँस के खंभे को पाँच व्यक्ति मिलकर \"स्थिरो भव…\" से गाड़ते हैं। चारों कोनों (आग्नेय से) और मध्य के पाँच खंभों में मंडप की पाँच मातृकाएँ — नंदिनी, नलिनी, मैत्रा, उमा, पशुवर्धिनी — आवाहित होती हैं; फिर घर के लोग मंडप बनाकर सरपत से छाते हैं।",
+        "en": "**Setting up the mandap (the post)** — on the wedding day or an auspicious day before it the bride's father at her house (and the groom's father at his) sits facing east in the courtyard, performs the purification, achamana and svasti-vachana, makes the sankalpa of planting the post, worships Gauri-Ganesha and the kalash, then touches the ground where the post will stand (\"bhur asi bhumir asi…\"), digs the pit and drops water, rice, whole turmeric, betel nut and a coin into it; five people together plant the new bamboo post, marked with red ochre and aipan-sindoor, with \"sthiro bhava…\". Into the five posts — the four corners from the south-east, and the centre — the five matrikas of the mandap are invoked: Nandini, Nalini, Maitra, Uma, Pashuvardhini; then the household builds the mandap and roofs it with sarpat grass.",
+        "bho": "**मड़वा (खंभा) स्थापना** — बियाह के दिन भा ओकरा पहिले कवनो सुभ दिन कनिया के घर कनिया-पिता (आ दुलहा के घर दुलहा-पिता) अँगना में पूरब मुँह बइठ के पवित्रीकरन-आचमन-स्वस्तिवाचन के बाद खंभा गाड़े के [[sankalp]] करेलन, गौरी-गणेश-कलश के पूजन, फेर जहाँ खंभा गड़े के बा उहाँ भूमि-स्पर्स (\"भूरसि भूमिरसि…\"), गढ़ा खोद के ओह में जल-अच्छत-खड़ी हरदी-सुपारी-द्रव्य; गेरू आ ऐपन-सिंदूर लागल नवका बाँस के खंभा के पाँच आदमी मिल के \"स्थिरो भव…\" से गाड़ेला। चारो कोना (आग्नेय से) आ बीच के पाँच खंभा में मड़वा के पाँच मातृका — नंदिनी, नलिनी, मैत्रा, उमा, पशुवर्धिनी — बोलावल जाली; फेर घर के लोग मड़वा बना के सरपत से छावेला।"
+      },
+      "mantraIds": [
+        "vs-13-18",
+        "vs-11-44"
+      ],
+      "panditSays": {
+        "sa": "ॐ अद्य {देशकालौ} {गोत्र}गोत्रः {नाम}शर्माहं {स्वपुत्रस्य वा स्वकन्यायाः} करिष्यमाणविवाहाङ्गभूतं स्तम्भारोपणं तत्र पूर्वं निर्विघ्नतासिद्ध्यर्थं गणपत्यादिपूजनमहं करिष्ये ॥",
+        "hi": "खंभे पर जल चढ़ाइए, ऐपन के पाँच छापे और सिंदूर; पाँच लोग मिलकर उठाएँ — \"स्थिरो भव\"।",
+        "en": "Pour water on the post, five aipan prints and sindoor; five of you lift it together — \"sthiro bhava\".",
+        "bho": "खंभा पर जल चढ़ाईं, ऐपन के पाँच छापा आ सिंदूर; पाँच लोग मिल के उठाईं — \"स्थिरो भव\"।"
+      },
+      "note": {
+        "hi": "भोजपुरी घरों में इसके पहले [[matkor]] होता है — स्त्रियाँ गीत गाते हुए मिट्टी खोदती हैं और उसी से कलश बनता है; [[marwa]] नए बाँस का होता है। पद्धति खंभे के लिए पौराणिक प्रार्थना-श्लोक भी देती है।",
+        "en": "In Bhojpuri homes the matkor comes before this — the women dig the clay with songs and the kalash is made of it; the marwa is of new bamboo. The handbook also gives Puranic prayer verses for the post (\"stambhas tvam nirmitah purvam…\").",
+        "bho": "भोजपुरी घर में एकरा पहिले [[matkor]] होला — मेहरारू लोग गीत गावत माटी खोदेली आ ओही से कलश बनेला; [[marwa]] नवका बाँस के होला। पद्धति मड़वा के साथे पौरानिक प्रार्थना-श्लोक (\"स्तम्भस्त्वं निर्मितः पूर्वम्…\") भी देला।"
+      },
+      "samagriIds": [
+        "bans-khambha",
+        "aipan-sindoor",
+        "akshat",
+        "haldi-tel",
+        "supari-paan",
+        "dravya"
+      ],
+      "minutes": 30
+    },
+    {
+      "n": 2,
+      "part": "purvang",
+      "layer": "paddhati",
+      "action": {
+        "hi": "**कलश स्थापना और गौरी-गणेश पूजन** — मंडप छाने के बाद मध्य खंभे के पास पश्चिम में प्रधान [[kalash]] (गोबर-जवा लगा घड़ा; जल, खड़ी हल्दी, सुपारी, द्रव्य, आम-पत्ती; ऊपर जौ भरा प्याला और दीया) रखा जाता है; उसके आगे गौर-सुपारी। माता-पिता पूर्वमुख बैठकर संकल्प करते हैं — \"कलश-स्थापन-पूजन, मातृका-पूजन, नांदीमुख-श्राद्ध आदि कर्म\" — और [गणेश-अंबिका पूजन](/occasions/ganesh-ambika-pujan/) तथा [कलश स्थापना](/occasions/kalash-sthapana/) के मंत्रों से पूजन करते हैं।",
+        "en": "**Kalash sthapana and the Gauri-Ganesha puja** — after the mandap is roofed, the main kalash (a pot smeared with dung and barley; water, whole turmeric, betel nut, a coin, mango leaves; a bowl of barley and a lamp on top) is placed west of the central post, the gaur-supari before it. The parents sit facing east and make the sankalpa — \"the kalash sthapana and puja, the matrika puja, the nandimukh shraddha and the rest\" — and worship with the mantras of the [Ganesha-Ambika puja](/occasions/ganesh-ambika-pujan/) and the [kalash sthapana](/occasions/kalash-sthapana/).",
+        "bho": "**कलश स्थापना आ गौरी-गणेश पूजन** — मड़वा छावे के बाद बीच के खंभा लगे पच्छिम में परधान [[kalash]] (गोबर-जवा लागल घड़ा; जल, खड़ी हरदी, सुपारी, द्रव्य, आम-पतई; ऊपर जौ भरल कटोरी आ दीया) राखल जाला; ओकरा आगे गौर-सुपारी। माई-बाबूजी पूरब मुँह बइठ के संकल्प करेलन — \"कलश-स्थापन-पूजन, मातृका-पूजन, नांदीमुख-श्राद्ध आदि काम\" — आ [गणेश-अंबिका पूजन](/occasions/ganesh-ambika-pujan/) आ [कलश स्थापना](/occasions/kalash-sthapana/) के मंत्र से पूजन करेलन।"
+      },
+      "mantraIds": [
+        "vs-23-19",
+        "vs-18-49"
+      ],
+      "panditSays": {
+        "sa": "ॐ अद्य {गोत्र}गोत्रः {नाम}शर्माहं {स्वपुत्रस्य वा स्वकन्यायाः} करिष्यमाणविवाहाङ्गभूतं कलशस्थापनं पूजनं मातृकापूजनं नान्दीमुखश्राद्धादिकं च कर्माहं करिष्ये ॥",
+        "hi": "कलश में सब देवताओं का आवाहन — यह मंडप का केंद्र है; विवाह तक यहाँ दीया जलता रहे।",
+        "en": "All the deities are invoked into the kalash — it is the centre of the mandap; keep the lamp burning here until the wedding.",
+        "bho": "कलश में सब देवता के आवाहन — ई मड़वा के केंद्र बा; बियाह तक इहाँ दीया जरत रहे।"
+      },
+      "note": {
+        "hi": "घड़े पर गोबर-जवा लगाना और कोहबर बनाना बुआ का काम है (पद्धति) — लोकाचार की परत पद्धति के भीतर।",
+        "en": "Smearing the pot with dung and barley and painting the kohbar is the father's sister's task (handbook) — a folk layer inside the handbook.",
+        "bho": "घड़ा पर गोबर-जवा लगावल आ कोहबर बनावल फुआ के काम बा (पद्धति) — लोकाचार के परत पद्धति के भीतर।"
+      },
+      "samagriIds": [
+        "kalash",
+        "ganesh-gauri",
+        "deep",
+        "dhoop"
+      ],
+      "minutes": 30
+    },
+    {
+      "n": 3,
+      "part": "purvang",
+      "layer": "paddhati",
+      "action": {
+        "hi": "**मातृका पूजन** — कलश के पास दीवार या पट्टिका पर ऐपन-सिंदूर के बिंदुओं में [[shodash-matrika]] (गौरी, पद्मा, शची, मेधा…), [[sapta-ghrit-matrika]] और द्वार-मातृका का आवाहन-पूजन; विधि और नाम [मातृका पूजन](/occasions/matrika-pujan/) पर। इसके साथ पद्धति \"मंत्री पूजा\", \"पून-पुनौती\" और \"सिल पोहना\" जैसी पूर्वांचली रीतियाँ भी लिखती है।",
+        "en": "**Matrika puja** — on the wall or a board near the kalash, in dots of aipan and sindoor, the sixteen matrikas (Gauri, Padma, Shachi, Medha…), the seven ghrita-matrikas and the door-matrika are invoked and worshipped; the procedure and the names are on [matrika puja](/occasions/matrika-pujan/). Alongside, the handbook lists Purvanchal customs such as the \"mantri puja\", the \"pun-punauti\" and the \"sil pohna\".",
+        "bho": "**मातृका पूजन** — कलश लगे देवाल भा पटरी पर ऐपन-सिंदूर के बिंदी में [[shodash-matrika]] (गौरी, पद्मा, शची, मेधा…), [[sapta-ghrit-matrika]] आ दुआर-मातृका के आवाहन-पूजन; विधि आ नाँव [मातृका पूजन](/occasions/matrika-pujan/) पर। एकरे साथे पद्धति \"मंत्री पूजा\", \"पून-पुनौती\" आ \"सिल पोहना\" जइसन पूर्वांचली रीति भी लिखेला।"
+      },
+      "panditSays": {
+        "hi": "सोलह मातृकाएँ, सात घृत-मातृकाएँ — हर नाम पर अक्षत-पुष्प।",
+        "en": "Sixteen matrikas, seven ghrita-matrikas — rice and a flower at every name.",
+        "bho": "सोरह मातृका, सात घृत-मातृका — हर नाँव पर अच्छत-फूल।"
+      },
+      "samagriIds": [
+        "matrika-patra",
+        "akshat",
+        "phool-mala"
+      ],
+      "minutes": 20
+    },
+    {
+      "n": 4,
+      "part": "purvang",
+      "layer": "lok",
+      "action": {
+        "hi": "**तेल-हल्दी (हरिद्रालेपन)** — विवाह से पहले (तीसरे, छठे और नौवें दिन को छोड़कर) किसी शुभ दिन वर और कन्या के घर अलग-अलग: गणेश-अंबिका और \"अविघ्न कलश\" का पूजन, कलश पर मोदादि छह विनायकों का पूजन; कुल-पुरोहित दूब की दो पिंजुली हल्दी-तेल में डुबोकर पहले गणेश जी, फिर कलश पर चढ़ाते हैं (शुक्ल यजुर्वेद 13.20); फिर पाँच कुमारी कन्याएँ वर/कन्या के दोनों पाँव की उँगलियों, घुटनों, कलाई, कंधों और माथे पर पाँच-पाँच बार हल्दी-तेल छुआती हैं और दूब चूमती हैं। वर/कन्या के हाथ में गुड़-चावल और सिंदूर की डिबिया रहती है; बाद में नाइन या सुहागिन तेल मलती है।",
+        "en": "**Oil and turmeric (haridra-lepana)** — on an auspicious day before the wedding (not the third, sixth or ninth day before it), separately at the groom's and the bride's house: the Ganesha-Ambika and \"avighna kalash\" puja, the six Vinayakas (Moda and the rest) worshipped on the kalash; the family purohit dips two bunches of durva in turmeric and oil and offers them first to Ganesha, then on the kalash (\"kandat kandat…\"); then five unmarried girls touch turmeric and oil five times each to the toes of both feet, the knees, the wrists, the shoulders and the forehead of the groom / bride and kiss the durva. The groom / bride holds jaggery, rice and the sindoor box; afterwards the barber's wife or a married woman rubs in the oil.",
+        "bho": "**तेल-हरदी (हरिद्रालेपन)** — बियाह से पहिले (तीसरा, छठा आ नउवाँ दिन छोड़ के) कवनो सुभ दिन दुलहा आ कनिया के घर अलगा-अलगा: गणेश-अंबिका आ \"अविघ्न कलश\" के पूजन, कलश पर मोदादि छव विनायक के पूजन; कुल-पुरोहित दूब के दू पिंजुली हरदी-तेल में बोर के पहिले गणेश जी, फेर कलश पर चढ़ावेलन (\"काण्डात्काण्डात्…\"); फेर पाँच कुमारी लइकी दुलहा/कनिया के दुनो गोड़ के अँगुरी, घुटना, कलाई, कान्ह आ माथ पर पाँच-पाँच बेर हरदी-तेल छुआवेली आ दूब चूमेली। दुलहा/कनिया के हाथ में गुड़-चाउर आ सिंदूर के डिबिया रहेला; बाद में नाउन भा सोहागिन तेल मलेली।"
+      },
+      "mantraIds": [
+        "vs-13-20"
+      ],
+      "panditSays": {
+        "hi": "पाँच कन्याएँ, पाँच जगह, पाँच-पाँच बार — पहले पाँव, अंत में माथा।",
+        "en": "Five girls, five places, five times each — the feet first, the forehead last.",
+        "bho": "पाँच लइकी, पाँच जगह, पाँच-पाँच बेर — पहिले गोड़, अंत में माथ।"
+      },
+      "note": {
+        "hi": "[[haldi-ceremony]] स्वयं लोकाचार है — [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) में नहीं; पद्धति ने दूब के कारण वैदिक दूर्वा-मंत्र (शुक्ल यजुर्वेद 13.20) जोड़ा है। पंजाब में \"मइयाँ\", राजस्थान में \"पीठी-दस्तूर\", गढ़वाल में \"हल्दी-हाथ\" — नाम और दिन अलग, भाव एक।",
+        "en": "The haldi itself is folk custom — not in the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्); the handbook added the Vedic durva mantra (Shukla Yajurveda 13.20) because of the durva. Punjab calls it \"maiyan\", Rajasthan \"pithi-dastur\", Garhwal \"haldi-hath\" — different names and days, one meaning.",
+        "bho": "[[haldi-ceremony]] खुद लोकाचार बा — [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) में नइखे; पद्धति दूब के कारन वैदिक दूब-मंत्र (शुक्ल यजुर्वेद 13.20) जोड़ले बिया। पंजाब में \"मइयाँ\", राजस्थान में \"पीठी-दस्तूर\", गढ़वाल में \"हरदी-हाथ\" — नाँव आ दिन अलगा, भाव एक।"
+      },
+      "samagriIds": [
+        "haldi-tel",
+        "durva",
+        "gud-chawal",
+        "aipan-sindoor"
+      ],
+      "minutes": 30
+    },
+    {
+      "n": 5,
+      "part": "purvang",
+      "layer": "paddhati",
+      "action": {
+        "hi": "**कंकण (कंगन) बंधन** — हल्दी के बाद स्नान; कुल-पुरोहित तिलक (शुक्ल यजुर्वेद 23.5) और अक्षत (3.51) लगाते हैं; पीले कपड़े के पाँच टुकड़ों में राई, कौड़ी और लोहे का छल्ला नारे में बाँधकर पाँच [[kangan]] बनते हैं — एक वर के दाहिने / कन्या के बाएँ हाथ में \"यदाबध्नन् दाक्षायणा…\" से, बाकी चार खंभे, कलश, पीढ़े और पूजा-जल के पात्र में। ब्राह्मण को तेल-कंगन की दक्षिणा, नाई को न्योछावर; हरिद्रालेपन-कर्म की दक्षिणा, भूयसी दक्षिणा और भोजन के संकल्प।",
+        "en": "**Tying the kankan (kangan)** — a bath after the haldi; the family purohit applies the tilak (\"yunjanti bradhnam…\") and the rice (\"akshann amimadanta…\"); mustard seed, a cowrie and an iron ring are tied into five pieces of yellow cloth on a cord to make five kangans — one on the groom's right / the bride's left wrist with \"yad abadhnan dakshayana…\", the other four on the post, the kalash, the seat and the vessel of puja water. The Brahmin receives the oil-and-kangan dakshina, the barber his gift; the sankalpas of the dakshina for the haridra-lepana, the bhuyasi dakshina and the meal.",
+        "bho": "**कंकन (कंगन) बान्हल** — हरदी के बाद नहान; कुल-पुरोहित टीका (\"युञ्जन्ति ब्रध्नम्…\") आ अच्छत (\"अक्षन्नमीमदन्त…\") लगावेलन; पियर कपड़ा के पाँच टुकड़ा में राई, कौड़ी आ लोहा के छल्ला नारा में बान्ह के पाँच [[kangan]] बनेला — एक दुलहा के दहिना / कनिया के बावाँ हाथ में \"यदाबध्नन् दाक्षायणा…\" से, बाकी चार खंभा, कलश, पीढ़ा आ पूजा-जल के बरतन में। ब्राह्मण के तेल-कंगन के दक्षिणा, नाऊ के न्योछावर; हरिद्रालेपन-काम के दक्षिणा, भूयसी दक्षिणा आ भोजन के संकल्प।"
+      },
+      "mantraIds": [
+        "vs-34-52",
+        "vs-23-5",
+        "vs-3-51"
+      ],
+      "panditSays": {
+        "sa": "ॐ कृतैतद्धरिद्रालेपनकर्मणः साङ्गतासिद्ध्यर्थम् आचार्याय यथोत्साहां दक्षिणां दातुमहमुत्सृज्ये ॥",
+        "hi": "कंगन वर के दाहिने हाथ में, कन्या के बाएँ में; विवाह के बाद कंकण-मोक्षण में ही खुलेगा।",
+        "en": "The kangan on the groom's right wrist, on the bride's left; it comes off only at the kankan-mokshan after the wedding.",
+        "bho": "कंगन दुलहा के दहिना हाथ में, कनिया के बावाँ में; बियाह के बाद कंकन-मोक्षन में ही खुली।"
+      },
+      "note": {
+        "hi": "यही रक्षा-भाव [रक्षासूत्र](/occasions/raksha-sutra/) के \"येन बद्धो बली राजा\" में है; पद्धति यहाँ वैदिक 34.52 देती है। इसके बाद कन्या/वर को सिंदूर की डिबिया देकर, जल की धार देते हुए, [[kohbar]] में ले जाते हैं और दही-बताशा खिलाते हैं।",
+        "en": "The same protective gesture is in the [raksha-sutra](/occasions/raksha-sutra/)'s \"yena baddho bali raja\"; the handbook gives the Vedic 34.52 here. Afterwards the bride / groom is taken to the kohbar with the sindoor box, a stream of water poured along the way, and fed curd and sugar drops.",
+        "bho": "इहे रच्छा-भाव [रक्षासूत्र](/occasions/raksha-sutra/) के \"येन बद्धो बली राजा\" में बा; पद्धति इहाँ वैदिक 34.52 देला। एकरा बाद कनिया/दुलहा के सिंदूर के डिबिया देके, जल के धार देत, [[kohbar]] में ले जाला आ दही-बतासा खियावल जाला।"
+      },
+      "samagriIds": [
+        "kangan-samagri",
+        "roli-chandan",
+        "akshat",
+        "dravya"
+      ],
+      "minutes": 15
+    },
+    {
+      "n": 6,
+      "part": "purvang",
+      "layer": "lok",
+      "action": {
+        "hi": "**कोहबर और पूर्वांचली लोकाचार** — [[kohbar]] (घर का वह कोना या कोठरी जिसकी दीवार पर बुआ ऐपन-सिंदूर से चित्र बनाती है — पुरइन, बाँस, सूर्य-चंद्र, तोता) की पूजा; पद्धति इसके साथ \"पून-पुनौती\", \"सिल पोहना\" और \"मंत्री पूजा\" लिखती है और इन्हें लोकाचार कहती है। भोजपुरी घरों में इसी मड़वे में 'सत्यनारायण कथा' होती है और स्त्रियाँ कोहबर और मड़वा के गीत गाती हैं।",
+        "en": "**The kohbar and the Purvanchal customs** — the puja of the kohbar (the corner or room of the house on whose wall the father's sister paints with aipan and sindoor — lotus, bamboo, sun and moon, parrots); the handbook lists the \"pun-punauti\", the \"sil pohna\" and the \"mantri puja\" with it and calls them folk custom. In Bhojpuri homes the 'Satyanarayan katha' is held in this very marwa and the women sing the kohbar and marwa songs.",
+        "bho": "**कोहबर आ पूर्वांचली लोकाचार** — [[kohbar]] (घर के ऊ कोना भा कोठरी जेकर देवाल पर फुआ ऐपन-सिंदूर से चित्र बनावेली — पुरइन, बाँस, सुरुज-चान, सुग्गा) के पूजा; पद्धति एकरे साथे \"पून-पुनौती\", \"सिल पोहना\" आ \"मंत्री पूजा\" लिखेला आ एकनी के लोकाचार कहेला। भोजपुरी घर में एही मड़वा में 'सत्यनारायण कथा' होला आ मेहरारू लोग कोहबर आ मड़वा के गीत गावेली।"
+      },
+      "panditSays": {
+        "hi": "यह घर की स्त्रियों का क्षेत्र है — पंडित जी केवल मड़वे में कथा और पूजन कराते हैं।",
+        "en": "This belongs to the women of the house — the pandit only conducts the katha and the puja in the marwa.",
+        "bho": "ई घर के मेहरारू लोग के इलाका बा — पंडित जी खाली मड़वा में कथा आ पूजन करावेलन।"
+      },
+      "note": {
+        "hi": "लोकाचार — इसका कोई वैदिक मंत्र नहीं है।",
+        "en": "Folk custom — there is no Vedic mantra for it.",
+        "bho": "लोकाचार — एकर कवनो वैदिक मंत्र नइखे।"
+      },
+      "samagriIds": [
+        "aipan-sindoor"
+      ]
+    },
+    {
+      "n": 7,
+      "part": "purvang",
+      "layer": "paddhati",
+      "action": {
+        "hi": "**देव-पितृ निमंत्रण** — यजमान हाथ में अक्षत-जल लेकर कुल-देवता, ग्राम-देवता, इष्ट-देवता, वास्तु-देवता, नवग्रह, दिक्पाल, और अपने पितरों — पिता-पितामह-प्रपितामह, माता-पितामही-प्रपितामही, मातामह-वंश — सबको नाम लेकर विवाह में \"निमंत्रयामि\" कहता है (संस्कृत वाक्य नीचे पंडित जी की पंक्ति में); करई (छोटी हँड़िया) में अक्षत-द्रव्य डालकर प्याले से बंद करते हैं, पत्नी पीठी से उसे सील कर ऐपन-सिंदूर लगाती है। अंत में पितरों की प्रार्थना के श्लोक (\"अमूर्तानां समूर्तानां पितृणां दीप्ततेजसाम्…\")।",
+        "en": "**Invitation of the gods and ancestors** — the host, rice and water in hand, names and invites to the wedding (\"etan sarvan nimantrayami\") the family deity, the village deity, his chosen deity, the vastu deities, the nine planets, the guardians of the directions, and his ancestors — father, grandfather, great-grandfather, mother, grandmother, great-grandmother, the maternal line; rice and a coin are put in a small pot (karai) that is closed with a bowl, and the wife seals it with rice-flour paste and marks it with aipan and sindoor. At the end the prayer verses to the ancestors (\"amurtanam samurtanam pitrinam dipta-tejasam…\").",
+        "bho": "**देव-पितृ निमंत्रन** — जजमान हाथ में अच्छत-जल लेके कुल-देवता, गाँव-देवता, इष्ट-देवता, वास्तु-देवता, नवग्रह, दिक्पाल, आ आपन पितर लोग — पिता-पितामह-प्रपितामह, माई-पितामही-प्रपितामही, नाना के बंस — सभे के नाँव लेके बियाह में \"निमंत्रयामि\" कहेला (\"एतान् सर्वान् निमन्त्रयामि\"); करई (छोट हँड़िया) में अच्छत-द्रव्य डाल के कटोरी से बंद करेला, मेहरारू पीठी से ओकरा सील करके ऐपन-सिंदूर लगावेली। अंत में पितर लोग के प्रार्थना के श्लोक (\"अमूर्तानां समूर्तानां पितृणां दीप्ततेजसाम्…\")।"
+      },
+      "panditSays": {
+        "sa": "ॐ {कुलदेवता} कुलदेवताभ्यो नमः । एतान् सर्वान् निमन्त्रयामि ॥ ॐ मद्वंशोद्भवेभ्यः समस्तदेवपितृगणेभ्यो नमः । एतान् सर्वान् निमन्त्रयामि ॥",
+        "hi": "अपने कुल-देवता और पितरों के नाम बोलते जाइए — हर नाम पर अक्षत करई में।",
+        "en": "Name your family deity and your ancestors one by one — rice into the pot at every name.",
+        "bho": "आपन कुल-देवता आ पितर लोग के नाँव बोलत जाईं — हर नाँव पर अच्छत करई में।"
+      },
+      "note": {
+        "hi": "पद्धति-परत; [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) में निमंत्रण की यह विधि नहीं है। जिनके पिता जीवित हैं, वे पितरों के स्थान पर केवल देवताओं का निमंत्रण करते हैं — पंडित जी से पूछें।",
+        "en": "Handbook layer; the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) has no such invitation. Those whose father is living invite only the deities in place of the ancestors — ask the pandit.",
+        "bho": "पद्धति-परत; [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) में निमंत्रन के ई विधि नइखे। जिनकर पिता जियत बाड़न, ऊ पितर लोग के जगह खाली देवता लोग के निमंत्रन करेलन — पंडित जी से पूछीं।"
+      },
+      "samagriIds": [
+        "karai",
+        "akshat",
+        "dravya"
+      ],
+      "minutes": 15
+    },
+    {
+      "n": 8,
+      "part": "purvang",
+      "layer": "paddhati",
+      "action": {
+        "hi": "**नांदीमुख (आभ्युदयिक) श्राद्ध** — विवाह से पहले का मंगल-श्राद्ध: सत्यवसु-संज्ञक विश्वेदेव और नांदीमुख पितरों को दही-बेर-अक्षत के साथ पिंड या अर्घ्य; युगल ब्राह्मणों का भोजन। पूरी विधि [नांदी श्राद्ध](/occasions/nandi-shraddh/) पर। पद्धति इसे कलश-मातृका पूजन के संकल्प में ही गिनती है।",
+        "en": "**Nandimukh (abhyudayika) shraddha** — the auspicious shraddha before a wedding: pindas or arghya with curd, jujube and rice to the Vishvedevas called Satya-Vasu and to the nandimukh ancestors; a meal for Brahmins in pairs. The full procedure is on [nandi shraddha](/occasions/nandi-shraddh/). The handbook counts it within the sankalpa of the kalash-matrika puja (\"nandimukha-shraddhadikam cha\").",
+        "bho": "**नांदीमुख (आभ्युदयिक) श्राद्ध** — बियाह से पहिले के मंगल-श्राद्ध: सत्यवसु-संज्ञक विश्वेदेव आ नांदीमुख पितर लोग के दही-बेर-अच्छत के साथे पिंड भा अर्घ्य; जोड़ा ब्राह्मण के भोजन। पूरा विधि [नांदी श्राद्ध](/occasions/nandi-shraddh/) पर। पद्धति एकरा कलश-मातृका पूजन के संकल्प में ही गिनेला (\"नान्दीमुखश्राद्धादिकं च\")।"
+      },
+      "panditSays": {
+        "hi": "यह मंगल-श्राद्ध है, शोक का नहीं — यजमान जनेऊ सव्य रखें, तिल नहीं, जौ और अक्षत।",
+        "en": "This is an auspicious shraddha, not one of mourning — the host keeps the thread on the left shoulder; no sesame, barley and rice instead.",
+        "bho": "ई मंगल-श्राद्ध बा, सोक के ना — जजमान जनेऊ सव्य राखीं, तिल ना, जौ आ अच्छत।"
+      },
+      "note": {
+        "hi": "पद्धति-परत: [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) के विवाह-प्रकरण में नांदीश्राद्ध नहीं है; यह स्मृति-धर्मशास्त्र की परंपरा से हर संस्कार के पहले आया।",
+        "en": "Handbook layer: the wedding section of the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) has no nandi-shraddha; it came before every samskara through the smriti and dharmashastra tradition.",
+        "bho": "पद्धति-परत: [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) के बियाह-प्रकरन में नांदीश्राद्ध नइखे; ई स्मृति-धर्मसास्त्र के परंपरा से हर संस्कार के पहिले आइल।"
+      },
+      "minutes": 40
+    },
+    {
+      "n": 9,
+      "part": "purvang",
+      "layer": "lok",
+      "action": {
+        "hi": "**बरात प्रस्थान** — वर और सहबाला (छोटा बालक, \"विनायक\") मंडप में पूर्वमुख बैठते हैं; मान्य व्यक्ति मौर (सेहरा) और उपवस्त्र बाँधते हैं; पुरोहित गणेश-अंबिका आदि का पूजन कराते हैं; माता की रीतियाँ — भोजपुरी [[imli-ghontai]] (इमली की पत्ती की माँ की रस्म), परिछन — और फिर [[barat]] निकलती है: घोड़ी या गाड़ी, बाजे, \"वर-यात्रा\"।",
+        "en": "**Departure of the barat** — the groom and the sahbala (a small boy, the \"Vinayak\") sit facing east in the mandap; a respected elder ties the maur (headdress) and the shoulder cloth; the purohit conducts the Ganesha-Ambika puja; the mother's rites — in Bhojpuri homes the imli-ghontai (the mother's tamarind-leaf rite), the parichhan — and then the barat sets out: mare or car, the band, the \"var-yatra\".",
+        "bho": "**बरियात प्रस्थान** — दुलहा आ सहबाला (छोट लइका, \"विनायक\") मड़वा में पूरब मुँह बइठेला; मान्य आदमी मौर (सेहरा) आ उपवस्त्र बान्हेलन; पुरोहित गणेश-अंबिका आदि के पूजन करावेलन; माई के रीति — भोजपुरी [[imli-ghontai]] (इमली के पतई के माई के रसम), परिछन — आ फेर [[barat]] निकलेला: घोड़ी भा गाड़ी, बाजा, \"वर-यात्रा\"।"
+      },
+      "panditSays": {
+        "hi": "गणेश जी का स्मरण करके निकलें — बाकी घर की रीतियाँ, उनका कोई मंत्र नहीं।",
+        "en": "Set out after remembering Ganesha — the rest are household customs with no mantra.",
+        "bho": "गणेश जी के सुमिर के निकलीं — बाकी घर के रीति, ओकर कवनो मंत्र नइखे।"
+      },
+      "note": {
+        "hi": "लोकाचार — मौर, सहबाला, इमली-घोंटाई, घोड़ी: इनका कोई वैदिक मंत्र नहीं। \"बरात\" शब्द \"वर-यात्रा\" से बना है।",
+        "en": "Folk custom — the maur, the sahbala, the imli-ghontai, the mare: none has a Vedic mantra. The word \"barat\" comes from \"var-yatra\".",
+        "bho": "लोकाचार — मौर, सहबाला, इमली-घोंटाई, घोड़ी: एकर कवनो वैदिक मंत्र नइखे। \"बरियात\" सब्द \"वर-यात्रा\" से बनल बा।"
+      },
+      "samagriIds": [
+        "vastra-var"
+      ]
+    },
+    {
+      "n": 10,
+      "part": "purvang",
+      "layer": "paddhati",
+      "action": {
+        "hi": "**द्वारपूजा (द्वारचार) और वर-पूजन** — बरात कन्या के द्वार पर पहुँचती है। कन्या की माता और सुहागिनें [[parichhan]] करती हैं (लोकाचार); कन्या-पिता वर के माथे पर दही-चावल का टीका लगाकर मानिक दीये से आरती करता है और हाथ पकड़कर आसन पर बैठाता है — वर पूर्वमुख, कन्या-पिता पश्चिममुख। दोनों के पवित्रीकरण-आचमन-स्वस्तिवाचन के बाद कन्या-पिता और वर द्वारपूजा का [[sankalp]] करते हैं, गौर-गणेश, कलश, षोडश-मातृका और नवग्रह का पूजन, ब्राह्मण-वरण। फिर [[var-pujan]]: पाद-प्रक्षालन (\"विराजो दोहोऽसि…\"), तिलक (\"कस्तूरीतिलकं…\"), अक्षत (3.51), माला (\"…आहरज्जमदग्निः…\"), और वरण-द्रव्य (वस्त्र, अँगूठी, आभूषण, नारियल) का संप्रदान।",
+        "en": "**Dwar-puja (dwarachar) and the honouring of the groom** — the barat reaches the bride's door. The bride's mother and the married women do the parichhan (folk custom); the bride's father marks the groom's forehead with curd and rice, waves the manik lamp before him and seats him by the hand — the groom facing east, the bride's father west. After the purification, achamana and svasti-vachana of both, the bride's father and the groom make the sankalpa of the dwar-puja, worship Gaur-Ganesha, the kalash, the sixteen matrikas and the nine planets, and choose the Brahmins. Then the var-pujan: washing the feet (\"virajo doho 'si…\"), tilak (\"kasturi-tilakam…\"), rice (\"akshann amimadanta…\"), garland (\"…aharaj jamadagnih…\"), and the handing over of the varana gifts (clothes, a ring, ornaments, a coconut).",
+        "bho": "**दुआर पूजा (द्वारचार) आ वर-पूजन** — बरियात कनिया के दुआर पर पहुँचेला। कनिया के माई आ सोहागिन लोग [[parichhan]] करेली (लोकाचार); कनिया-पिता दुलहा के माथ पर दही-चाउर के टीका लगा के मानिक दीया से आरती करेलन आ हाथ धर के आसन पर बइठावेलन — दुलहा पूरब मुँह, कनिया-पिता पच्छिम मुँह। दुनो के पवित्रीकरन-आचमन-स्वस्तिवाचन के बाद कनिया-पिता आ दुलहा दुआर पूजा के [[sankalp]] करेलन, गौर-गणेश, कलश, षोडश-मातृका आ नवग्रह के पूजन, ब्राह्मण-वरन। फेर [[var-pujan]]: गोड़ धोआई (\"विराजो दोहोऽसि…\"), टीका (\"कस्तूरीतिलकं…\"), अच्छत (\"अक्षन्नमीमदन्त…\"), माला (\"…आहरज्जमदग्निः…\"), आ वरन-द्रव्य (कपड़ा, अँगूठी, गहना, नरियर) के संप्रदान।"
+      },
+      "mantraIds": [
+        "pgs-1-3-12",
+        "pad-kasturi-tilakam",
+        "vs-3-51",
+        "pad-ya-aharaj-jamadagnih"
+      ],
+      "panditSays": {
+        "sa": "ॐ अद्य शुभपुण्यतिथौ {गोत्र}गोत्रः {नाम}नामाहं मम {नाम}नाम्न्याः कन्यायाः विवाहाङ्गभूतद्वारपूजनाख्ये कर्मणि शुभतासिद्ध्यर्थं गणेशादीनां पूजनं वरपूजनं चाहं करिष्ये ॥",
+        "hi": "कन्या-पिता संकल्प बोलें; वर भी अपना संकल्प — \"स्वकीय विवाहांगभूत द्वारपूजन\"। फिर पाँव, तिलक, अक्षत, माला।",
+        "en": "The bride's father speaks the sankalpa; the groom his own — \"for the dwar-puja that is a limb of my own wedding\". Then the feet, the tilak, the rice, the garland.",
+        "bho": "कनिया-पिता संकल्प बोलीं; दुलहा भी आपन संकल्प — \"स्वकीय विवाहांगभूत द्वारपूजन\"। फेर गोड़, टीका, अच्छत, माला।"
+      },
+      "note": {
+        "hi": "[[dwar-puja]] पद्धति और लोकाचार दोनों की परत है: संकल्प-पूजन-वर-पूजन पद्धति के, परिछन-गीत-मानिक दीया लोक के। भोजपुरी घरों में इसी समय सीता-राम के विवाह के गीत गाए जाते हैं।",
+        "en": "The dwar-puja has both layers: the sankalpa, the puja and the var-pujan are the handbook's, the parichhan, the songs and the manik lamp are folk. Bhojpuri homes sing the songs of Sita and Rama's wedding at this moment.",
+        "bho": "[[dwar-puja]] पद्धति आ लोकाचार दुनो के परत बा: संकल्प-पूजन-वर-पूजन पद्धति के, परिछन-गीत-मानिक दीया लोक के। भोजपुरी घर में एही बेरा सीता-राम के बियाह के गीत गावल जाला।"
+      },
+      "important": true,
+      "samagriIds": [
+        "deep",
+        "roli-chandan",
+        "akshat",
+        "phool-mala",
+        "jal-patra",
+        "vastra-var",
+        "dravya"
+      ],
+      "minutes": 30
+    },
+    {
+      "n": 11,
+      "part": "purvang",
+      "layer": "lok",
+      "action": {
+        "hi": "**दुर्गा-जनेऊ, पान और दक्षिणा** — कन्या का भाई पिता के आगे बैठकर जल छिड़कता, आचमन करता, गौर-कलश का ध्यान करके संकल्प पढ़ता है और यज्ञोपवीत-द्रव्य वर को देता है (संकल्प नीचे पंडित जी की पंक्ति में); वर उसे माथे लगाकर ब्राह्मण को देता है और पाँच व्यक्ति मिलकर उसे \"यज्ञोपवीतं परमं पवित्रं…\" से पहनाते हैं — पद्धति इसे \"दुर्गा-जनेऊ (द्वितीय यज्ञोपवीत)\" कहती है। वर दो बार आचमन; कन्या-भ्राता और वर पान खिलाते और गले मिलते हैं; ब्राह्मण को दक्षिणा, नाई को न्योछावर; भूयसी दक्षिणा का संकल्प; \"प्रमादात् कुर्वतां कर्म…\", \"ॐ विष्णवे नमः\"।",
+        "en": "**The Durga-janeu, the pan and the dakshina** — the bride's brother sits in front of his father, sprinkles water, sips, meditates on the Gaur-kalash, recites the sankalpa and gives the groom the sacred threads with money (\"ime yajnopavite… tubhyam sampradade\"); the groom touches them to his forehead and hands them to the Brahmin, and five people together put one on him with \"yajnopavitam paramam pavitram…\" — the handbook calls this the \"Durga-janeu (the second yajnopavita)\". The groom sips twice; the bride's brother and the groom feed each other pan and embrace; dakshina to the Brahmin, the gift to the barber; the sankalpa of the bhuyasi dakshina; \"pramadat kurvatam karma…\", \"om vishnave namah\".",
+        "bho": "**दुर्गा-जनेऊ, पान आ दक्षिणा** — कनिया के भाई पिता के आगे बइठ के जल छींटेला, आचमन करेला, गौर-कलश के धेयान करके संकल्प पढ़ेला आ जनेऊ-द्रव्य दुलहा के देला (\"इमे यज्ञोपवीते… तुभ्यं सम्प्रददे\"); दुलहा ओकरा माथ लगा के ब्राह्मण के देला आ पाँच आदमी मिल के ओकरा \"यज्ञोपवीतं परमं पवित्रं…\" से पहिरावेला — पद्धति एकरा \"दुर्गा-जनेऊ (द्वितीय यज्ञोपवीत)\" कहेला। दुलहा दू बेर आचमन; कनिया-भाई आ दुलहा पान खियावेला आ गला मिलेला; ब्राह्मण के दक्षिणा, नाऊ के न्योछावर; भूयसी दक्षिणा के संकल्प; \"प्रमादात् कुर्वतां कर्म…\", \"ॐ विष्णवे नमः\"।"
+      },
+      "panditSays": {
+        "sa": "ॐ अद्य {गोत्र}गोत्रः {नाम}नामकोऽहं स्वभगिन्याः विवाहाङ्गभूतद्वारपूजनाख्ये कर्मणि इमे यज्ञोपवीते द्रव्यादिसहिते अस्मै {गोत्र}गोत्राय {नाम}नामकाय वराय पात्राय श्रेष्ठाय तुभ्यं सम्प्रददे ॥",
+        "hi": "भाई जनेऊ और रुपया वर के हाथ में दे; वर माथे लगाकर पंडित जी को दे — हम पहनाएँगे।",
+        "en": "The brother places the thread and the coin in the groom's hands; the groom touches them to his forehead and gives them to the pandit — we will put it on him.",
+        "bho": "भाई जनेऊ आ रुपया दुलहा के हाथ में देव; दुलहा माथ लगा के पंडित जी के देव — हमनी के पहिराइब।"
+      },
+      "note": {
+        "hi": "\"दुर्गा-जनेऊ\" पूर्वांचल का लोकाचार है जिसे पद्धति ने यज्ञोपवीत-मंत्र (पद्धति-श्लोक, [[janeu]] के पृष्ठ पर) के साथ अपनाया है; गृह्यसूत्र में द्वार पर दूसरा यज्ञोपवीत देने का कोई विधान नहीं।",
+        "en": "The \"Durga-janeu\" is a Purvanchal folk custom that the handbook has adopted with the yajnopavita verse (a handbook verse, on the janeu page); the grihya sutra has no rule about a second sacred thread at the door.",
+        "bho": "\"दुर्गा-जनेऊ\" पूर्वांचल के लोकाचार बा जेकरा पद्धति जनेऊ-मंत्र (पद्धति-श्लोक, [[janeu]] के पन्ना पर) के साथे अपनवले बिया; गृह्यसूत्र में दुआर पर दोसरा जनेऊ देवे के कवनो विधान नइखे।"
+      },
+      "samagriIds": [
+        "janeu",
+        "supari-paan",
+        "dravya"
+      ],
+      "minutes": 15
+    },
+    {
+      "n": 12,
+      "part": "purvang",
+      "layer": "lok",
+      "action": {
+        "hi": "**चढ़ाव / कन्या-वरण (सौभाग्य-कर्म)** — कन्या गुड़-चावल-सिंदूर की डिबिया हाथ में लेकर मंडप में आती है (\"सर्वमंगलमांगल्ये…\"), पश्चिममुख बैठकर पवित्रीकरण-आचमन, \"रक्षासूत्र-सौभाग्य-वस्तु-ग्रहण\" का संकल्प और गणेश, वरुण, ॐकार, लक्ष्मी, कुबेर का पंचोपचार पूजन करती है; वर-पक्ष से आए [[vastra]], आभूषण और चूड़ियों (चढ़ाव) पर अक्षत-पुष्प छोड़ती है; वर का बड़ा भाई तागपाट (पट्टसूत्र) गणेश-कलश से छुआकर कन्या के पहले बाएँ, फिर दाहिने हाथ में बाँधता है; देशाचार से वस्त्र-आभूषण पहनाए जाते हैं, मौरी, अंजुलि-गोद भरना और आशीर्वाद।",
+        "en": "**Chadhav / the choosing of the bride (saubhagya-karma)** — the bride comes into the mandap holding jaggery, rice and the sindoor box (\"sarvamangala-mangalye…\"), sits facing west, performs the purification and achamana, makes the sankalpa of \"receiving the raksha-sutra and the articles of saubhagya\" and worships Ganesha, Varuna, Omkara, Lakshmi and Kubera with the five offerings; she puts rice and flowers on the clothes, ornaments and bangles (the chadhav) brought by the groom's side; the groom's elder brother touches the tagpat (silk cord) to Ganesha and the kalash and ties it first on her left and then on her right wrist; the clothes and ornaments are put on her as local custom has it, the mauri, the filling of her hands and lap, blessings.",
+        "bho": "**चढ़ाव / कन्या-वरन (सौभाग्य-काम)** — कनिया गुड़-चाउर-सिंदूर के डिबिया हाथ में लेके मड़वा में आवेली (\"सर्वमंगलमांगल्ये…\"), पच्छिम मुँह बइठ के पवित्रीकरन-आचमन, \"रक्षासूत्र-सौभाग्य-वस्तु-ग्रहन\" के संकल्प आ गणेश, वरुण, ॐकार, लक्ष्मी, कुबेर के पंचोपचार पूजन करेली; दुलहा-पच्छ से आइल [[vastra]], गहना आ चूड़ी (चढ़ाव) पर अच्छत-फूल छोड़ेली; दुलहा के बड़ भाई तागपाट (पट्टसूत्र) गणेश-कलश से छुआ के कनिया के पहिले बावाँ, फेर दहिना हाथ में बान्हेला; देसाचार से कपड़ा-गहना पहिरावल जाला, मौरी, अँजुरी-गोद भरल आ असीस।"
+      },
+      "panditSays": {
+        "sa": "ॐ अद्य शुभपुण्यतिथौ {गोत्र}गोत्रा {नाम}नाम्नी स्वविवाहाङ्गभूतरक्षासूत्रसौभाग्यवस्तुग्रहणकर्मणि शुभसौभाग्यसिद्ध्यर्थं पूर्वावाहितगौरीगणपतिवरुणादिदेवानां पूजनमहं करिष्ये ॥",
+        "hi": "यह कन्या का अपना संकल्प है — वह स्वयं बोले; फिर चढ़ाव पर अक्षत-पुष्प।",
+        "en": "This sankalpa is the bride's own — let her speak it herself; then rice and flowers on the chadhav.",
+        "bho": "ई कनिया के आपन संकल्प बा — ऊ खुदे बोलसु; फेर चढ़ाव पर अच्छत-फूल।"
+      },
+      "note": {
+        "hi": "पद्धति स्वयं इस शीर्षक को \"लोकाचार\" लिखती है; पूजन-संकल्प पद्धति-परत के हैं, चढ़ाव-तागपाट-मौरी पूर्वांचल के लोक की। पंजाब में कन्या के लिए इसी जगह \"चूड़ा-कलीरे\" की रीति है।",
+        "en": "The handbook itself labels this heading \"folk custom\"; the puja and the sankalpa are the handbook layer, the chadhav, tagpat and mauri are Purvanchal folk. In Punjab the bride's \"chooda-kalire\" stands at this point.",
+        "bho": "पद्धति खुद एह सिरनामा के \"लोकाचार\" लिखेला; पूजन-संकल्प पद्धति-परत के बा, चढ़ाव-तागपाट-मौरी पूर्वांचल के लोक के। पंजाब में कनिया खातिर एही जगह \"चूड़ा-कलीरे\" के रीति बा।"
+      },
+      "samagriIds": [
+        "vastra-var",
+        "tagpat",
+        "gud-chawal",
+        "akshat",
+        "phool-mala"
+      ],
+      "minutes": 20
+    },
+    {
+      "n": 13,
+      "part": "purvang",
+      "layer": "paddhati",
+      "action": {
+        "hi": "**विवाह-प्रारंभ: वर का मंडप में आगमन** — कन्या-पिता वर को तिलक लगाता है, मानिक दीये से पाँच बार आरती (\"मंगलं भगवान् विष्णुः…\") और दीया वर के हाथ में; उपानह-त्याग — वर के पाँव पर अक्षत छोड़ते हुए नाई जूते उतारता है (पद्धति यहाँ ब्राह्मण-ग्रंथ का एक गद्य-वाक्य देती है — स्रोत टिप्पणी में), ब्राह्मण हो तो दाहिना पहले; दीपक पर अक्षत (\"अथैनं शालां प्रपादयति…\"), नाई दीया ईशान में रखता है; नए पीढ़े पर पाँच जगह चावल रखकर कन्या-पिता, वर और दोनों ब्राह्मण उसे तीन बार गणेश जी को छुआते हैं (सूत्र 1.3.1 का \"षडर्घ्या…\" वाक्य), कन्या-पिता हाथ पकड़कर वर को बैठाता है — \"आप विराजें, हम आपका अर्चन करेंगे\" (साधु भवानास्ताम्…); वर उत्तर देता है \"अर्चय\"। फिर कन्या-पिता आचमन-प्राणायाम के बाद विवाह का मुख्य [[sankalp]] बोलता है, जो \"…स्नातकवरं मधुपर्केणार्चयिष्ये\" पर पूरा होता है।",
+        "en": "**The wedding begins: the groom enters the mandap** — the bride's father marks him with tilak, waves the manik lamp five times (\"mangalam bhagavan vishnuh…\") and puts the lamp in his hand; the removal of the shoes — the barber takes them off while the bride's father drops rice on the groom's feet (the handbook gives here a Brahmana prose sentence, \"atha varahya upanaha upamunchate\" — source in the note), the right shoe first for a Brahmin; rice on the lamp (\"athainam shalam prapadayati…\"), the barber sets the lamp in the north-east; rice is put at five points on a new seat, and the bride's father, the groom and both Brahmins touch it to Ganesha three times (\"shad-arghya bhavanti…\"); the bride's father seats the groom by the hand — \"sadhu bhavan astam, archayishyamo bhavantam\", the groom: \"archaya\". Then, after achamana and pranayama, the bride's father speaks the main sankalpa of the wedding, which ends \"…snataka-varam madhuparkenarchayishye\".",
+        "bho": "**बियाह-प्रारंभ: दुलहा के मड़वा में आवल** — कनिया-पिता दुलहा के टीका लगावेलन, मानिक दीया से पाँच बेर आरती (\"मंगलं भगवान् विष्णुः…\") आ दीया दुलहा के हाथ में; जूता उतारल — दुलहा के गोड़ पर अच्छत छोड़त नाऊ जूता उतारेला (पद्धति इहाँ ब्राह्मण-ग्रंथ के एक गद्य-वाक्य \"अथ वाराह्या उपानहा उपमुञ्चते\" देला — स्रोत टिप्पणी में), ब्राह्मण होखे त दहिना पहिले; दीया पर अच्छत (\"अथैनं शालां प्रपादयति…\"), नाऊ दीया ईसान में राखेला; नवका पीढ़ा पर पाँच जगह चाउर राख के कनिया-पिता, दुलहा आ दुनो ब्राह्मण ओकरा तीन बेर गणेश जी के छुआवेलन (\"षडर्घ्या भवन्ति…\"), कनिया-पिता हाथ धर के दुलहा के बइठावेलन — \"साधु भवानास्ताम्, अर्चयिष्यामो भवन्तम्\", दुलहा: \"अर्चय\"। फेर कनिया-पिता आचमन-प्रानायाम के बाद बियाह के मुख्य [[sankalp]] बोलेलन, जे \"…स्नातकवरं मधुपर्केणार्चयिष्ये\" पर पूरा होला।"
+      },
+      "panditSays": {
+        "sa": "ॐ विष्णुर्विष्णुर्विष्णुः श्रीमद्भगवतो महापुरुषस्य विष्णोराज्ञया प्रवर्तमानस्य ब्रह्मणो द्वितीयपरार्धे श्रीश्वेतवाराहकल्पे वैवस्वतमन्वन्तरे अष्टाविंशतितमे कलियुगे कलिप्रथमचरणे जम्बूद्वीपे भरतखण्डे आर्यावर्तैकदेशे {संवत्सर}संवत्सरे {मास}मासे {पक्ष}पक्षे {तिथि}तिथौ {वासर}वासरे {गोत्र}गोत्रः {नाम}शर्माहं {गोत्र}गोत्रायाः {नाम}नाम्न्याः कन्यायाः भर्त्रा सह धर्मप्रजोत्पादनगृह्यपरिग्रहधर्माचरणेष्वधिकारसिद्धिद्वारा श्रीपरमेश्वरप्रीत्यर्थं ब्राह्मविवाहविधिना विवाहाख्यं संस्कारं करिष्ये । तत्र कन्यादानप्रतिग्रहार्थं गृहागतं स्नातकवरं मधुपर्केणार्चयिष्ये ॥",
+        "hi": "यह विवाह का मुख्य संकल्प है — कन्या-पिता जल-अक्षत हाथ में लेकर बोलें: \"ब्राह्म-विवाह-विधि से विवाह-संस्कार करूँगा; उसके लिए घर आए स्नातक वर का मधुपर्क से सत्कार करूँगा।\"",
+        "en": "This is the main sankalpa of the wedding — the bride's father, water and rice in hand: \"I will perform the samskara of marriage by the Brahma form of wedding; for it I will honour with the madhuparka the snataka groom who has come to my house.\"",
+        "bho": "ई बियाह के मुख्य संकल्प बा — कनिया-पिता जल-अच्छत हाथ में लेके बोलीं: \"ब्राह्म-बियाह-विधि से बियाह-संस्कार करब; ओकरा खातिर घर आइल स्नातक दुलहा के मधुपर्क से सत्कार करब।\""
+      },
+      "note": {
+        "hi": "संकल्प का देश-काल ढाँचा [संकल्प](/reference/sankalpa/) पृष्ठ पर है। \"ब्राह्म विवाह\" आठ विवाह-प्रकारों में श्रेष्ठ माना गया — कन्या को अलंकृत कर योग्य वर को दान। उपानह-त्याग और शाला-प्रवेश के गद्य-वाक्य ब्राह्मण-ग्रंथ के हैं — जूते का वाक्य [शतपथ ब्राह्मण](https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A4%A4%E0%A4%AA%E0%A4%A5%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A5%8D%E0%A4%AE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%AE%E0%A5%8D_%E0%A5%AB/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AA/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A5%8D%E0%A4%AE%E0%A4%A3_%E0%A5%A9) 5.4.3.19 में है — मंत्र नहीं; इसलिए यहाँ अलग अभिलेख नहीं बनाए।",
+        "en": "The place-and-time frame of the sankalpa is on the [sankalpa](/reference/sankalpa/) page. The \"Brahma marriage\" is held the best of the eight forms — the adorned daughter given to a worthy groom. The prose sentences for the shoes and the entry into the hall are from a Brahmana text — the shoe sentence is [Shatapatha Brahmana](https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A4%A4%E0%A4%AA%E0%A4%A5%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A5%8D%E0%A4%AE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%AE%E0%A5%8D_%E0%A5%AB/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AA/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A5%8D%E0%A4%AE%E0%A4%A3_%E0%A5%A9) 5.4.3.19 — not mantras; no separate records were made for them here.",
+        "bho": "संकल्प के देस-काल ढाँचा [संकल्प](/reference/sankalpa/) पन्ना पर बा। \"ब्राह्म बियाह\" आठ बियाह-प्रकार में सबसे नीक मानल गइल — कनिया के सजा के जोग दुलहा के दान। जूता उतारे आ साला-प्रवेस के गद्य-वाक्य ब्राह्मण-ग्रंथ के बा — जूता वाला वाक्य [शतपथ ब्राह्मण](https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A4%A4%E0%A4%AA%E0%A4%A5%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A5%8D%E0%A4%AE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%AE%E0%A5%8D_%E0%A5%AB/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%AA/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A5%8D%E0%A4%AE%E0%A4%A3_%E0%A5%A9) 5.4.3.19 में बा — मंत्र ना; एही से इहाँ अलगा अभिलेख ना बनावल गइल।"
+      },
+      "important": true,
+      "samagriIds": [
+        "deep",
+        "akshat",
+        "pidha",
+        "roli-chandan"
+      ],
+      "minutes": 15
+    },
+    {
+      "n": 14,
+      "part": "purvang",
+      "layer": "vedic",
+      "action": {
+        "hi": "**विष्टर और पाद्य** — [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3 का अतिथि-सत्कार शुरू: कन्या-पिता के ब्राह्मण तीन बार \"विष्टरो विष्टरो विष्टरः\", कन्या-पिता \"विष्टरः प्रतिगृह्यताम्\", वर \"विष्टरं प्रतिगृह्णामि\" — कुश या आम्रपल्लव का विष्टर लेकर दाहिने पाँव के नीचे रखता है और \"वर्ष्मोऽस्मि समानानाम्…\" पढ़ता है। फिर पाद्य: पात्र में जल-लावा-कुंकुम-चावल-पुष्प; \"पाद्यं पाद्यं पाद्यम् — पाद्यं प्रतिगृह्यताम् — पाद्यं प्रतिगृह्णामि\"; वर दो बूँद अपने पाँव पर छिड़ककर \"विराजो दोहोऽसि…\" पढ़ता है।",
+        "en": "**The seat and the foot-water** — the guest reception of the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3 begins: the bride's father's Brahmins say \"vishtaro vishtaro vishtarah\" three times, the bride's father \"vishtarah pratigrihyatam\", the groom \"vishtaram pratigrihnami\" — he takes the seat of kusha or mango sprigs, puts it under his right foot and recites \"varshmo 'smi samananam…\". Then the padya: a cup of water with parched rice, kumkum, rice grains and flowers; \"padyam padyam padyam — padyam pratigrihyatam — padyam pratigrihnami\"; the groom sprinkles two drops on his own feet and recites \"virajo doho 'si…\".",
+        "bho": "**विष्टर आ पाद्य** — [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3 के पाहुन-सत्कार सुरू: कनिया-पिता के ब्राह्मण तीन बेर \"विष्टरो विष्टरो विष्टरः\", कनिया-पिता \"विष्टरः प्रतिगृह्यताम्\", दुलहा \"विष्टरं प्रतिगृह्णामि\" — कुश भा आम के पल्लव के विष्टर लेके दहिना गोड़ के नीचे राखेला आ \"वर्ष्मोऽस्मि समानानाम्…\" पढ़ेला। फेर पाद्य: कटोरी में जल-लावा-कुंकुम-चाउर-फूल; \"पाद्यं पाद्यं पाद्यम् — पाद्यं प्रतिगृह्यताम् — पाद्यं प्रतिगृह्णामि\"; दुलहा दू बूँद आपन गोड़ पर छींट के \"विराजो दोहोऽसि…\" पढ़ेला।"
+      },
+      "mantraIds": [
+        "pgs-1-3-8",
+        "pgs-1-3-12"
+      ],
+      "panditSays": {
+        "sa": "विष्टरो विष्टरो विष्टरः । विष्टरः प्रतिगृह्यताम् । विष्टरं प्रतिगृह्णामि ॥ पाद्यं पाद्यं पाद्यम् । पाद्यं प्रतिगृह्यताम् । पाद्यं प्रतिगृह्णामि ॥",
+        "hi": "हर वस्तु का नाम तीन बार, फिर \"प्रतिगृह्यताम्\" (स्वीकार करें) — वर उत्तर दे \"प्रतिगृह्णामि\" (स्वीकार करता हूँ)।",
+        "en": "Each thing is named three times, then \"pratigrihyatam\" (please accept) — the groom answers \"pratigrihnami\" (I accept).",
+        "bho": "हर चीज के नाँव तीन बेर, फेर \"प्रतिगृह्यताम्\" (स्वीकार करीं) — दुलहा जवाब देव \"प्रतिगृह्णामि\" (स्वीकार करत बानी)।"
+      },
+      "important": true,
+      "samagriIds": [
+        "kush-aam",
+        "jal-patra",
+        "pidha"
+      ],
+      "minutes": 10
+    },
+    {
+      "n": 15,
+      "part": "purvang",
+      "layer": "vedic",
+      "action": {
+        "hi": "**तिलक, माला, दूसरा विष्टर, अर्घ्य** — कन्या-पिता हल्दी-अक्षत से तिलक (\"कस्तूरीतिलकं…\") और पुष्पमाला (\"…आहरज्जमदग्निः…\") देता है, फिर चुपचाप दूसरा विष्टर, जिसे वर दूसरे पाँव के नीचे रखता है (सूत्र 1.3.9)। अर्घ्य: पात्र में जल-दूब-अक्षत-फूल-चंदन-हल्दी; \"अर्घोऽर्घोऽर्घः — अर्घः प्रतिगृह्यताम् — अर्घं प्रतिगृह्णामि\"; वर पात्र माथे लगाकर \"आपः स्थ…\" पढ़ता है, दो बूँद ईशान कोण में \"समुद्रं वः प्रहिणोमि…\" से गिराता है और पात्र कलश के पास रख देता है।",
+        "en": "**Tilak, garland, the second seat, the arghya** — the bride's father marks him with turmeric and rice (\"kasturi-tilakam…\") and garlands him (\"…aharaj jamadagnih…\"), then silently gives a second seat, which the groom puts under his other foot (sutra 1.3.9). The arghya: a cup of water with durva, rice, flowers, sandal and turmeric; \"argho 'rgho 'rghah — arghah pratigrihyatam — argham pratigrihnami\"; the groom touches the cup to his forehead with \"apah stha…\", lets two drops fall towards the north-east with \"samudram vah prahinomi…\" and sets the cup down by the kalash.",
+        "bho": "**टीका, माला, दोसरा विष्टर, अर्घ्य** — कनिया-पिता हरदी-अच्छत से टीका (\"कस्तूरीतिलकं…\") आ फूल के माला (\"…आहरज्जमदग्निः…\") देलन, फेर चुपचाप दोसरा विष्टर, जेकरा दुलहा दोसरा गोड़ के नीचे राखेला (सूत्र 1.3.9)। अर्घ्य: कटोरी में जल-दूब-अच्छत-फूल-चंदन-हरदी; \"अर्घोऽर्घोऽर्घः — अर्घः प्रतिगृह्यताम् — अर्घं प्रतिगृह्णामि\"; दुलहा कटोरी माथ लगा के \"आपः स्थ…\" पढ़ेला, दू बूँद ईसान कोन में \"समुद्रं वः प्रहिणोमि…\" से गिरावेला आ कटोरी कलश लगे राख देला।"
+      },
+      "mantraIds": [
+        "pad-kasturi-tilakam",
+        "pad-ya-aharaj-jamadagnih",
+        "pgs-1-3-13",
+        "pgs-1-3-14"
+      ],
+      "panditSays": {
+        "sa": "अर्घोऽर्घोऽर्घः । अर्घः प्रतिगृह्यताम् । अर्घं प्रतिगृह्णामि ॥",
+        "hi": "अर्घ्य का जल पीना नहीं — माथे से लगाकर दो बूँद ईशान में।",
+        "en": "The arghya water is not for drinking — touch it to the forehead and let two drops fall to the north-east.",
+        "bho": "अर्घ्य के जल पियल ना — माथ से लगा के दू बूँद ईसान में।"
+      },
+      "samagriIds": [
+        "roli-chandan",
+        "phool-mala",
+        "kush-aam",
+        "jal-patra",
+        "durva"
+      ],
+      "minutes": 10
+    },
+    {
+      "n": 16,
+      "part": "purvang",
+      "layer": "vedic",
+      "action": {
+        "hi": "**आचमनीय और मधुपर्क** — दूसरे पात्र में जल: \"आचमनीयम् — आचमनीयं प्रतिगृह्यताम् — आचमनीयं प्रतिगृह्णामि\"; वर दो बार आचमन करके \"आमागन् यशसा…\" पढ़ता है, पात्र नाई मंडप के बाहर रखता है। [[madhuparka]]: कन्या-पिता काँसे या दोने में दही-मधु-घी मिलाकर बाएँ हाथ पर रखता और दाहिने से ढँकता है; \"मधुपर्को मधुपर्को मधुपर्कः — मधुपर्कः प्रतिगृह्यताम् — मधुपर्कं प्रतिगृह्णामि\"; वर ढक्कन हटाकर देखता है (\"मित्रस्य त्वा चक्षुषा प्रतीक्षे\"), पात्र लेता है (\"देवस्य त्वा सवितुः प्रसवे… प्रतिगृह्णामि\"), अनामिका से तीन बार मिलाकर थोड़ा भूमि पर छिड़कता है (\"नमः श्यावास्याय…\"), तीन बार प्राशन करता है (\"यन्मधुनो मधव्यं…\" — या सूत्र 1.3.21 के अनुसार तीन मधु-ऋचाएँ \"मधु वाता ऋतायते…\", एक-एक ग्रास पर एक); शेष नाई बाहर रखता है, वर दो बार आचमन।",
+        "en": "**The sipping-water and the madhuparka** — water in a second cup: \"achamaniyam — achamaniyam pratigrihyatam — achamaniyam pratigrihnami\"; the groom sips twice and recites \"ama agan yashasa…\", the barber takes the cup outside the mandap. The madhuparka: the bride's father mixes curd, honey and ghee in a bronze bowl or a leaf cup, holds it on his left hand and covers it with his right; \"madhuparko madhuparko madhuparkah — madhuparkah pratigrihyatam — madhuparkam pratigrihnami\"; the groom lifts the cover and looks (\"mitrasya tva chakshusha pratikshe\"), takes the vessel (\"devasya tva savituh prasave… pratigrihnami\"), stirs it three times with the ring finger and sprinkles a little on the ground (\"namah shyavasyaya…\"), eats three mouthfuls (\"yan madhuno madhavyam…\" — or, by sutra 1.3.21, the three madhu verses \"madhu vata ritayate…\", one to each mouthful); the barber takes the rest outside, the groom sips water twice.",
+        "bho": "**आचमनीय आ मधुपर्क** — दोसरा कटोरी में जल: \"आचमनीयम् — आचमनीयं प्रतिगृह्यताम् — आचमनीयं प्रतिगृह्णामि\"; दुलहा दू बेर आचमन करके \"आमागन् यशसा…\" पढ़ेला, कटोरी नाऊ मड़वा के बाहर राखेला। [[madhuparka]]: कनिया-पिता काँसा भा दोना में दही-मधु-घी मिला के बावाँ हाथ पर राखेलन आ दहिना से ढँकेलन; \"मधुपर्को मधुपर्को मधुपर्कः — मधुपर्कः प्रतिगृह्यताम् — मधुपर्कं प्रतिगृह्णामि\"; दुलहा ढकना हटा के देखेला (\"मित्रस्य त्वा चक्षुषा प्रतीक्षे\"), बरतन लेला (\"देवस्य त्वा सवितुः प्रसवे… प्रतिगृह्णामि\"), अनामिका से तीन बेर मिला के तनी भूमि पर छींटेला (\"नमः श्यावास्याय…\"), तीन बेर चीखेला (\"यन्मधुनो मधव्यं…\" — भा सूत्र 1.3.21 के अनुसार तीन मधु-ऋचा \"मधु वाता ऋतायते…\", एक-एक कौर पर एक); बाचल नाऊ बाहर राखेला, दुलहा दू बेर आचमन।"
+      },
+      "mantraIds": [
+        "pgs-1-3-15",
+        "pgs-1-3-16",
+        "pgs-1-3-17",
+        "pgs-1-3-18",
+        "pgs-1-3-20",
+        "vs-13-27",
+        "vs-13-28",
+        "vs-13-29"
+      ],
+      "panditSays": {
+        "sa": "आचमनीयमाचमनीयमाचमनीयम् । आचमनीयं प्रतिगृह्यताम् । आचमनीयं प्रतिगृह्णामि ॥ मधुपर्को मधुपर्को मधुपर्कः । मधुपर्कः प्रतिगृह्यताम् । मधुपर्कं प्रतिगृह्णामि ॥",
+        "hi": "दही-मधु-घी — यह अतिथि का सबसे बड़ा सत्कार है; वर अनामिका से तीन बार मिलाए, तीन बार चखे।",
+        "en": "Curd, honey and ghee — the highest honour to a guest; the groom stirs it three times with the ring finger and tastes it three times.",
+        "bho": "दही-मधु-घी — ई पाहुन के सबसे बड़ सत्कार बा; दुलहा अनामिका से तीन बेर मिलावे, तीन बेर चीखे।"
+      },
+      "note": {
+        "hi": "सूत्र 1.3 के अनुसार यही सत्कार आचार्य, ऋत्विज, राजा, मित्र और स्नातक को भी मिलता है; विवाह में इसे वर पाता है। पद्धति \"यन्मधुनो…\" छापती है; मधु-ऋचाओं का विकल्प सूत्र का है।",
+        "en": "By sutra 1.3 the same honour goes to a teacher, a priest, a king, a friend and a snataka; in the wedding the groom receives it. The handbook prints \"yan madhuno…\"; the madhu-verse alternative is the sutra's own.",
+        "bho": "सूत्र 1.3 के अनुसार इहे सत्कार आचार्य, ऋत्विज, राजा, मीत आ स्नातक के भी मिलेला; बियाह में एकरा दुलहा पावेला। पद्धति \"यन्मधुनो…\" छापेला; मधु-ऋचा के विकल्प सूत्र के आपन बा।"
+      },
+      "important": true,
+      "samagriIds": [
+        "madhuparka",
+        "jal-patra"
+      ],
+      "minutes": 15
+    },
+    {
+      "n": 17,
+      "part": "purvang",
+      "layer": "vedic",
+      "action": {
+        "hi": "**अंग-स्पर्श और गो-विसर्जन (तृण-छेदन)** — वर दाहिने हाथ से मुख, नाक, आँख, कान, भुजा, जंघा और पूरे शरीर को छूता है (\"वाङ्म आस्ये…\")। फिर कन्या-पिता और वर एक पात्र में कुश या दूब पकड़ते हैं; \"गौर्गौर्गौः\"; वर गौ की स्तुति \"माता रुद्राणां दुहिता वसूनां…\" पढ़कर ऊँचे स्वर में \"मम चामुष्य च पाप्मा हतः, ॐ उत्सृजत तृणान्यत्तु\" कहता है और तृण तोड़कर ईशान कोण में फेंकता है। कुछ परिवार यहाँ गोदान का संकल्प करते हैं — गो-निष्क्रय द्रव्य ब्राह्मण को; \"स्वस्ति\"।",
+        "en": "**Touching the limbs and releasing the cow (trina-chhedan)** — with his right hand the groom touches his mouth, nose, eyes, ears, arms, thighs and whole body (\"vak ma asye…\"). Then the bride's father and the groom hold kusha or durva together in a vessel; \"gaur gaur gauh\"; the groom recites the praise of the cow \"mata rudranam duhita vasunam…\", says aloud \"mama chamushya cha papma hatah, om utsrijata trinany attu\" and, breaking the grass, throws it towards the north-east. Some families make the sankalpa of a godan here — the cow's price goes to a Brahmin; \"svasti\".",
+        "bho": "**अंग-स्पर्स आ गो-विसर्जन (तृन-छेदन)** — दुलहा दहिना हाथ से मुँह, नाक, आँख, कान, बाँह, जाँघ आ पूरा देह छूवेला (\"वाङ्म आस्ये…\")। फेर कनिया-पिता आ दुलहा एक बरतन में कुश भा दूब धरेलन; \"गौर्गौर्गौः\"; दुलहा गाय के बड़ाई \"माता रुद्राणां दुहिता वसूनां…\" पढ़ के जोर से \"मम चामुष्य च पाप्मा हतः, ॐ उत्सृजत तृणान्यत्तु\" कहेला आ तृन तूर के ईसान कोन में फेंकेला। कुछ परिवार इहाँ गोदान के संकल्प करेला — गो-निष्क्रय द्रव्य ब्राह्मण के; \"स्वस्ति\"।"
+      },
+      "mantraIds": [
+        "pgs-1-3-25",
+        "pgs-1-3-27-28"
+      ],
+      "panditSays": {
+        "sa": "गौर्गौर्गौः ॥ ॐ अद्य मधुपर्कोपयोगिनो गोरुत्सर्गकर्मणः साद्गुण्यार्थे गोनिष्क्रयीभूतमिदं द्रव्यं {गोत्र}गोत्राय {नाम}शर्मणे ब्राह्मणाय दातुमुत्सृज्ये ॥ स्वस्ति ॥",
+        "hi": "\"उत्सृजत तृणान्यत्तु\" ऊँचे स्वर में — गौ को छोड़ो, वह घास खाए; तृण तोड़कर ईशान में।",
+        "en": "\"Utsrijata trinany attu\" aloud — let the cow go, let her eat grass; break the grass and throw it to the north-east.",
+        "bho": "\"उत्सृजत तृणान्यत्तु\" जोर से — गाय के छोड़ दीं, ऊ घास खाए; तृन तूर के ईसान में।"
+      },
+      "note": {
+        "hi": "सूत्र 1.3.27–30 में गौ का आलंभन (प्राचीन मांस-अर्घ्य) और विसर्जन दोनों विकल्प हैं; उत्तर भारत की पद्धतियाँ सदियों से केवल विसर्जन छापती हैं और विधि बिना गौ के, तृण से होती है — यहाँ वही दिया है।",
+        "en": "Sutras 1.3.27–30 give both options, the killing of the cow (the ancient meat arghya) and her release; the North Indian handbooks have for centuries printed only the release, and the rite is done without a cow, with grass — that is what is given here.",
+        "bho": "सूत्र 1.3.27–30 में गाय के आलंभन (पुरान मांस-अर्घ्य) आ विसर्जन दुनो विकल्प बा; उत्तर भारत के पद्धति सदी से खाली विसर्जन छापेला आ विधि बिना गाय के, तृन से होला — इहाँ उहे दिहल बा।"
+      },
+      "samagriIds": [
+        "kush-aam",
+        "dravya"
+      ],
+      "minutes": 10
+    },
+    {
+      "n": 18,
+      "part": "purvang",
+      "layer": "lok",
+      "action": {
+        "hi": "**जयमाला (वरमाला)** — वर और कन्या एक-दूसरे को माला पहनाते हैं; आज यह प्रायः मंच पर, मधुपर्क के बाद या बरात-आगमन पर ही होता है। यह लोकाचार है — प्राचीन स्वयंवर की स्मृति — इसका कोई मंत्र नहीं है; माध्यंदिन पद्धति की अनुक्रमणिका में भी यह नहीं है। कई घर इसके बाद भोजन का विराम लेते हैं और लग्न के समय अग्नि-स्थापना से मुख्य विधि शुरू करते हैं।",
+        "en": "**Jaimala (varmala)** — the groom and the bride garland each other; today this is usually on a stage, after the madhuparka or right at the arrival of the barat. It is folk custom — a memory of the ancient svayamvara — and has no mantra; it is not even in the index of the Madhyandina handbook. Many homes take the meal break after it and begin the main rites at the lagna with the setting up of the fire.",
+        "bho": "**जयमाला (वरमाला)** — दुलहा आ कनिया एक-दोसरा के माला पहिरावेला; आज ई अक्सर मंच पर, मधुपर्क के बाद भा बरियात आवते ही होला। ई लोकाचार बा — पुरान स्वयंवर के इयाद — एकर कवनो मंत्र नइखे; माध्यंदिन पद्धति के अनुक्रमनिका में भी ई नइखे। ढेर घर एकरा बाद भोजन के बिराम लेला आ लगन के समय अग्नि-स्थापना से मुख्य विधि सुरू करेला।"
+      },
+      "panditSays": {
+        "hi": "यह लोकाचार है — मंत्र नहीं; मुख्य विधि लग्न के समय अग्नि-स्थापना से शुरू होगी।",
+        "en": "This is folk custom — no mantra; the main rites begin at the lagna with the setting up of the fire.",
+        "bho": "ई लोकाचार बा — मंत्र ना; मुख्य विधि लगन के समय अग्नि-स्थापना से सुरू होई।"
+      },
+      "note": {
+        "hi": "लोकाचार — इसका कोई वैदिक मंत्र नहीं है।",
+        "en": "Folk custom — there is no Vedic mantra for it.",
+        "bho": "लोकाचार — एकर कवनो वैदिक मंत्र नइखे।"
+      },
+      "samagriIds": [
+        "phool-mala"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "region": "bhojpuri",
+      "what": {
+        "hi": "भोजपुरी क्षेत्र (पूर्वी उत्तर प्रदेश, पश्चिमी बिहार) में पूर्वांग में [[matkor]] (स्त्रियाँ गीत गाते हुए पीली मिट्टी खोदती हैं, कुदाल को सिंदूर, पाँच स्त्रियों का खोंइछा, उसी मिट्टी से कलश), नए बाँस का [[marwa]] जिसमें कलश के साथ 'सत्यनारायण कथा' होती है, [[kohbar]]-पूजा, द्वारपूजा में दुर्गा-जनेऊ, चढ़ाव और तागपाट, और बरात से पहले [[imli-ghontai]] हैं। यह पृष्ठ इसी परिवार की पद्धति पर चलता है।",
+        "en": "In the Bhojpuri belt (eastern Uttar Pradesh, western Bihar) the purvanga has the matkor (women dig yellow clay with songs, sindoor on the spade, the khoincha of five women, the kalash made of that clay), a marwa of new bamboo in which the 'Satyanarayan katha' is held with the kalash, the kohbar puja, the Durga-janeu, chadhav and tagpat at the dwar-puja, and the imli-ghontai before the barat. This page follows the handbook of this family.",
+        "bho": "भोजपुरी इलाका (पूरबी उत्तर प्रदेस, पच्छिमी बिहार) में पूर्वांग में [[matkor]] (मेहरारू लोग गीत गावत पियर माटी खोदेली, कुदारी के सिंदूर, पाँच मेहरारू के खोंइछा, ओही माटी से कलश), नवका बाँस के [[marwa]] जेह में कलश के साथे 'सत्यनारायण कथा' होला, [[kohbar]]-पूजा, दुआर पूजा में दुर्गा-जनेऊ, चढ़ाव आ तागपाट, आ बरियात से पहिले [[imli-ghontai]] बा। ई पन्ना एही परिवार के पद्धति पर चलेला।"
+      },
+      "source": "hiwp-madwa-matkor"
+    },
+    {
+      "region": "mithila",
+      "what": {
+        "hi": "मिथिला में क्रम पंजी → सिद्धांत → निश्चयतांबूल → मटकोर → परिछन/द्वारचार (सास की आरती, मधुपर्क, समदाउनि गीत) → कन्यादान → सिंदूरदान (केंद्रीय विधि) → सप्तपदी → कोहबर → चौठारी → द्विरागमन है; लगभग एक-चौथाई मैथिल ब्राह्मण छंदोग (सामवेदी) हैं, इसलिए हर मैथिल घर में पारस्कर का क्रम नहीं चलता।",
+        "en": "In Mithila the order is panji → siddhant → nishchay-tambul → matkor → parichhan / dwarachar (the mother-in-law's aarti, the madhuparka, samdauni songs) → kanyadaan → sindoor-daan (the central rite) → saptapadi → kohbar → chauthari → dwiragaman; about a quarter of Maithil Brahmins are Chhandog (Samavedic), so not every Maithil house follows the Paraskara order.",
+        "bho": "मिथिला में क्रम पंजी → सिद्धांत → निश्चयतांबूल → मटकोर → परिछन/द्वारचार (सास के आरती, मधुपर्क, समदाउनि गीत) → कन्यादान → सिंदूरदान (केंद्रीय विधि) → सप्तपदी → कोहबर → चौठारी → द्विरागमन बा; लगभग एक-चौथाई मैथिल ब्राह्मण छंदोग (सामवेदी) बाड़न, एही से हर मैथिल घर में पारस्कर के क्रम ना चले।"
+      },
+      "source": "research-r1"
+    },
+    {
+      "region": "rajasthan",
+      "what": {
+        "hi": "राजस्थान में पूर्वांग में पीठी-दस्तूर (हल्दी के बाद विवाह तक एकांत), घोड़ी-बरात और तोरण-मारना (वर द्वार के तोरण को तलवार/छड़ी से छूता है, माता आरती करती है) हैं; चार फेरे और हथलेवा (हस्त-विमोचन) मुख्य विधि में; माध्यंदिन श्रीमाली पुरोहितों में पारस्कर का ही क्रम।",
+        "en": "In Rajasthan the purvanga has the pithi-dastur (seclusion from the haldi until the wedding), the ghodi barat and the toran-marna (the groom touches the toran of the door with a sword or stick while the mother does the aarti); four pheras and the hathleva (hast-vimochan) in the main rites; the Madhyandina Shrimali purohits follow the Paraskara order.",
+        "bho": "राजस्थान में पूर्वांग में पीठी-दस्तूर (हरदी के बाद बियाह तक एकांत), घोड़ी-बरियात आ तोरन-मारल (दुलहा दुआर के तोरन के तलवार/छड़ी से छूवेला, माई आरती करेली) बा; चार फेरा आ हथलेवा (हस्त-विमोचन) मुख्य विधि में; माध्यंदिन श्रीमाली पुरोहित लोग में पारस्कर के ही क्रम।"
+      },
+      "source": "research-r1"
+    }
+  ],
+  "faq": [
+    {
+      "q": {
+        "hi": "मधुपर्क क्या है और वर को क्यों दिया जाता है?",
+        "en": "What is the madhuparka and why is it given to the groom?",
+        "bho": "मधुपर्क का बा आ दुलहा के काहे दिहल जाला?"
+      },
+      "a": {
+        "hi": "दही, मधु और घी का मेल — वैदिक काल का सबसे बड़ा अतिथि-सत्कार। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3 के अनुसार यह आचार्य, ऋत्विज, वैवाह्य, राजा, मित्र और स्नातक को दिया जाता है; विवाह में कन्या-पिता मंडप में आए वर को अतिथि की तरह विष्टर, पाद्य, अर्घ्य, आचमनीय और मधुपर्क देता है। हर पात्र का तीन बार नाम, \"प्रतिगृह्यताम्\" और \"प्रतिगृह्णामि\" का संवाद इसी कंडिका का है।",
+        "en": "A mixture of curd, honey and ghee — the highest hospitality of the Vedic age. By the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3 it is given to a teacher, an officiating priest, a \"vaivahya\", a king, a friend and a snataka; in the wedding the bride's father receives the groom who has come to the mandap as a guest, with the seat, foot-water, arghya, sipping-water and madhuparka. The dialogue — each vessel named three times, \"pratigrihyatam\" and \"pratigrihnami\" — is from this very kandika.",
+        "bho": "दही, मधु आ घी के मेल — वैदिक काल के सबसे बड़ पाहुन-सत्कार। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3 के अनुसार ई आचार्य, ऋत्विज, वैवाह्य, राजा, मीत आ स्नातक के दिहल जाला; बियाह में कनिया-पिता मड़वा में आइल दुलहा के पाहुन जइसन विष्टर, पाद्य, अर्घ्य, आचमनीय आ मधुपर्क देलन। हर बरतन के तीन बेर नाँव, \"प्रतिगृह्यताम्\" आ \"प्रतिगृह्णामि\" के बातचीत एही कंडिका के बा।"
+      }
+    },
+    {
+      "q": {
+        "hi": "हल्दी, मटकोर, कोहबर, जयमाला — इनके मंत्र कहाँ हैं?",
+        "en": "Where are the mantras of the haldi, the matkor, the kohbar and the jaimala?",
+        "bho": "हरदी, मटकोर, कोहबर, जयमाला — एकर मंत्र कहाँ बा?"
+      },
+      "a": {
+        "hi": "इनका कोई वैदिक मंत्र नहीं है — ये लोकाचार हैं और इस पृष्ठ पर \"लोकाचार\" की परत के साथ दिए हैं। पद्धति कुछ जगह वैदिक मंत्र जोड़ती है (हल्दी-तेल की दूब पर शुक्ल यजुर्वेद 13.20, कंकण पर 34.52) — वहाँ वह मंत्र दिया है और साथ में यह बात भी कि रस्म स्वयं लोक की है।",
+        "en": "They have no Vedic mantra — they are folk customs and are given on this page with the \"folk\" layer. In a few places the handbook attaches a Vedic mantra (Shukla Yajurveda 13.20 on the durva of the haldi-tel, 34.52 on the kankan) — there the mantra is given, together with the note that the custom itself is folk.",
+        "bho": "एकर कवनो वैदिक मंत्र नइखे — ई लोकाचार बा आ एह पन्ना पर \"लोकाचार\" के परत के साथे दिहल बा। पद्धति कुछ जगह वैदिक मंत्र जोड़ेला (हरदी-तेल के दूब पर शुक्ल यजुर्वेद 13.20, कंगन पर 34.52) — उहाँ ऊ मंत्र दिहल बा आ साथे ई बात भी कि रसम खुद लोक के बा।"
+      }
+    },
+    {
+      "q": {
+        "hi": "क्या सात फेरे और सप्तपदी एक ही हैं?",
+        "en": "Are the seven pheras and the saptapadi the same thing?",
+        "bho": "का सात फेरा आ सप्तपदी एके चीज बा?"
+      },
+      "a": {
+        "hi": "नहीं। हिंदी-भाषी क्षेत्र की माध्यंदिन पद्धति में चार भाँवर (अग्नि-परिक्रमा) एक विधि है और सप्तपदी के सात पद उसके बाद अलग विधि — [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.7 और 1.8। \"सात फेरे\" लोक-भाषा में इन दोनों का मिला हुआ नाम है; राजस्थान, गुजरात, मिथिला चार ही रखते हैं, पंजाबी हिंदू और कुछ उत्तर प्रदेश-बुंदेलखंड के परिवार सात कहते हैं। ब्योरा मुख्य विधि के चरणों में।",
+        "en": "No. In the Madhyandina handbook of the Hindi belt the four bhanwars (circuits of the fire) are one rite and the seven steps of the saptapadi a separate one after it — [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.7 and 1.8. \"Saat phere\" is the popular name for the two run together; Rajasthan, Gujarat and Mithila keep four, Punjabi Hindu and some Uttar Pradesh / Bundelkhand families speak of seven. Detail in the steps of the main rites.",
+        "bho": "ना। हिंदी-भाषी इलाका के माध्यंदिन पद्धति में चार भाँवर (आगि के परिक्रमा) एक विधि बा आ सप्तपदी के सात पद ओकरा बाद अलगा विधि — [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.7 आ 1.8। \"सात फेरा\" लोक-भाषा में एह दुनो के मिलल नाँव बा; राजस्थान, गुजरात, मिथिला चार ही राखेला, पंजाबी हिंदू आ कुछ उत्तर प्रदेस-बुंदेलखंड के परिवार सात कहेला। ब्योरा मुख्य विधि के चरन में।"
+      }
+    }
+  ],
+  "sources": [
+    "ws-pgs",
+    "ia-sbe29",
+    "ia-vivah-mvf",
+    "hiwp-madwa-matkor",
+    "research-r1",
+    "shubhvela"
+  ],
+  "tags": [
+    "vivah",
+    "samskara",
+    "marriage"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

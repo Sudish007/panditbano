@@ -1,0 +1,117 @@
+{
+  "id": "vs-13-20",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 13.20; vivah paddhati: durva dipped in haldi-tel",
+  "title": {
+    "hi": "दूर्वा-मंत्र — दूब की तरह फैलो (शुक्ल यजुर्वेद 13.20)",
+    "en": "Durva mantra — kandat kandat prarohanti",
+    "bho": "दूब-मंत्र — काण्डात्काण्डात् प्ररोहन्ती"
+  },
+  "devanagari": "काण्डा॑त्काण्डात्प्र॒रोह॑न्ती॒ परु॑षः परुष॒स्परि॑ । ए॒वा नो॑ दूर्वे॒ प्र त॑नु स॒हस्रे॑ण श॒तेन॑ च ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "काण्डात् काण्डात्",
+      "gloss": {
+        "hi": "हर गाँठ (कांड) से",
+        "en": "from every joint",
+        "bho": "हर गाँठ से"
+      }
+    },
+    {
+      "sa": "प्ररोहन्ती",
+      "gloss": {
+        "hi": "अंकुरित होती हुई",
+        "en": "sprouting forth",
+        "bho": "जामत"
+      }
+    },
+    {
+      "sa": "परुषः परुषः परि",
+      "gloss": {
+        "hi": "हर पोर से चारों ओर",
+        "en": "from every knot, all around",
+        "bho": "हर पोर से चारो ओर"
+      }
+    },
+    {
+      "sa": "एवा",
+      "gloss": {
+        "hi": "ऐसे ही",
+        "en": "in this way",
+        "bho": "अइसहीं"
+      }
+    },
+    {
+      "sa": "नः",
+      "gloss": {
+        "hi": "हमें",
+        "en": "us",
+        "bho": "हमनी के"
+      }
+    },
+    {
+      "sa": "दूर्वे",
+      "gloss": {
+        "hi": "हे दूर्वा",
+        "en": "O durva grass",
+        "bho": "हे दूब"
+      }
+    },
+    {
+      "sa": "प्र तनु",
+      "gloss": {
+        "hi": "विस्तार दो, बढ़ाओ",
+        "en": "spread out, extend",
+        "bho": "बढ़ाईं"
+      }
+    },
+    {
+      "sa": "सहस्रेण शतेन च",
+      "gloss": {
+        "hi": "हज़ार और सौ (संतति) से",
+        "en": "by a thousand and by a hundred",
+        "bho": "हजार आ सौ से"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे दूर्वा! जैसे तुम हर गाँठ से, हर पोर से चारों ओर अंकुरित होती हो, वैसे ही हमें सौ और हज़ार (संतति, समृद्धि) से बढ़ाओ।",
+    "en": "O durva grass, as you sprout from every joint, from every knot all around, so spread us out by a hundred and by a thousand (in offspring and plenty).",
+    "bho": "हे दूब! जइसे रउआ हर गाँठ से, हर पोर से चारो ओर जामेनी, ओइसहीं हमनी के सौ आ हजार (संतान, समृद्धि) से बढ़ाईं।"
+  },
+  "explanation": {
+    "hi": "शुक्ल यजुर्वेद 13.20 अग्निचयन की \"दूर्वेष्टका\" (दूर्वा वाली ईंट) का मंत्र है; उवट कहते हैं कि यहाँ दूर्वा की तरह पुत्र-पौत्र से विस्तार माँगा गया है। उत्तर भारत की हर पूजा में [[durva]] चढ़ाते समय यही पढ़ा जाता है। माध्यंदिन विवाह-पद्धति इसे तेल/[[haldi-ceremony]] (हरिद्रालेपन) में लाती है: वर-कन्या के कुल-पुरोहित दूब की दो पिंजुली हल्दी-तेल में डुबोकर पहले गणेश जी को, फिर कलश पर चढ़ाते हैं और इस मंत्र के बाद पाँच कुमारी कन्याएँ पाँव, घुटने, कलाई, कंधे और माथे पर पाँच-पाँच बार हल्दी-तेल छुआती हैं। ध्यान रहे — हल्दी की रस्म स्वयं लोक-परंपरा है, [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) में नहीं; यह वैदिक मंत्र पद्धति ने दूर्वा के कारण जोड़ा है।",
+    "en": "Shukla Yajurveda 13.20 is the mantra of the \"durva brick\" of the agnichayana; Uvata says it asks for growth in sons and grandsons the way durva grass spreads. In every North Indian puja it is recited when durva is offered. The Madhyandina wedding handbook brings it into the oil / haldi rite (haridra-lepana): the family purohits of the groom and the bride dip two bunches of durva in turmeric and oil, offer them first to Ganesha and then on the kalash, and after this mantra five unmarried girls touch turmeric and oil five times each to the feet, knees, wrists, shoulders and forehead. Note that the haldi rite itself is folk custom, not in the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्); the handbook attached this Vedic mantra because of the durva.",
+    "bho": "शुक्ल यजुर्वेद 13.20 अग्निचयन के \"दूर्वेष्टका\" (दूब वाली ईंटा) के मंत्र बा; उवट कहेलन कि इहाँ दूब जइसन पुत्र-पोता से बढ़ंती माँगल गइल बा। उत्तर भारत के हर पूजा में [[durva]] चढ़ावत घरी इहे पढ़ल जाला। माध्यंदिन बियाह-पद्धति एकरा तेल/[[haldi-ceremony]] (हरिद्रालेपन) में ले आवेला: दुलहा-कनिया के कुल-पुरोहित दूब के दू पिंजुली हरदी-तेल में बोर के पहिले गणेश जी के, फेर कलश पर चढ़ावेलन आ एह मंत्र के बाद पाँच कुमारी लइकी गोड़, घुटना, कलाई, कान्ह आ माथ पर पाँच-पाँच बेर हरदी-तेल छुआवेली। धेयान रहे — हरदी के रसम खुद लोक-परंपरा बा, [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) में नइखे; ई वैदिक मंत्र पद्धति दूब के कारन जोड़ले बिया।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-13",
+    "retrieved": "2026-11-01",
+    "modified": "copied from the svara block of the Wikisource chapter page; trailing verse number and ordinal heading removed; ।। written as ॥"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "haldi",
+    "durva"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

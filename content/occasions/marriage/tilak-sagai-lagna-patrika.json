@@ -1,0 +1,553 @@
+{
+  "id": "tilak-sagai-lagna-patrika",
+  "code": "M01",
+  "group": "marriage",
+  "phase": 1,
+  "title": {
+    "hi": "तिलक, सगाई और लग्न-पत्रिका",
+    "en": "Tilak, sagai and lagna-patrika",
+    "bho": "तिलक, सगाई आ लगन पतरी"
+  },
+  "lede": {
+    "hi": "विवाह से पहले का वचन — फलदान/वाग्दान, वर-पूजन और वरण के पद्धति-पाठ, लग्न-पत्रिका में क्या लिखा होता है, और तिलक की लोक-रीति; हर चरण की परत (पद्धति/लोकाचार) साफ लिखी है।",
+    "en": "The word given before the wedding — the handbook texts of the phaldan / vagdan, the var-pujan and the varana, what a lagna-patrika contains, and the folk customs of the tilak; every step marked with its layer (handbook / folk).",
+    "bho": "बियाह से पहिले के बचन — फलदान/वाग्दान, वर-पूजन आ वरन के पद्धति-पाठ, लगन पतरी में का लिखल रहेला, आ तिलक के लोक-रीति; हर चरन के परत (पद्धति/लोकाचार) साफ लिखल बा।"
+  },
+  "overview": {
+    "hi": "[[tilak-ceremony]], [[sagai]] और [[lagan-patrika]] — उत्तर भारतीय [[vivah]] के ये तीन पूर्व-कर्म एक ही बात के तीन रूप हैं: दो परिवारों का वचन कि यह विवाह होगा, और कब होगा। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) में इनमें से कोई नहीं है — सूत्र 1.4 सीधे विवाह के ऋतु-नक्षत्र और वर द्वारा \"पिता के द्वारा दी गई कन्या को ग्रहण करने\" से शुरू होता है। जो कुछ यहाँ है, वह [[paddhati]]-परत (माध्यंदिन पोथियों के संकल्प और श्लोक) और लोकाचार है; हर चरण पर उसकी परत लिखी है।\n\nमाध्यंदिन [विवाह-पद्धति](https://archive.org/details/mvf_20240803_20240803_1558) इस दिन को दो नामों से छापती है: \"वर-रक्षा / वरिच्छा / फलदान\" — कन्या-पक्ष वर (या वर-पिता) के हाथ में अक्षत-सहित फल देकर वचन देता है और वर वचन स्वीकार करता है — और \"वर-वरण / तिलक / सगाई\" — कन्या का पिता या भाई वर के घर जाकर गणेश-अंबिका, कलश और नवग्रह का पूजन कर वर का पूजन (पाद-प्रक्षालन, तिलक, अक्षत, माला) करता है और संकल्प से उसे \"वरण\" करता है। इसी के बीच वर के पुरोहित लग्न-पत्रिका गणेश जी को छुआकर पढ़कर सुनाते हैं।\n\n[[lagan-patrika]] (लगन, लग्न-पत्री) कन्या-पक्ष के पुरोहित द्वारा लिखा वह पत्र है जिसमें विवाह की तिथि, लग्न (मुहूर्त का समय), दोनों के नाम-गोत्र, और प्रायः विवाह-पूर्व रीतियों (हल्दी, मंडप, बरात) की तिथियाँ लिखी होती हैं; उसे हल्दी-रोली से सजाकर, सुपारी-द्रव्य के साथ वर-पक्ष को सौंपा जाता है। तिथि और लग्न [[panchang]] से तय होते हैं — इस साइट पर उनकी गणना नहीं होती, 'मुहूर्त-नियम' पृष्ठ और [Shubhvela](https://sudish007.github.io/shubhvela/) देखें।\n\nलोक में तीनों अलग दिन भी हो सकते हैं और एक ही दिन भी। भोजपुरी क्षेत्र में तिलक वर के घर होता है और कन्या-पक्ष उसका आयोजन करता है — सामाजिक रूप से यह बड़ा उत्सव है; मिथिला में लिखित \"सिद्धांत\" और \"निश्चयतांबूल\" (पान-सुपारी से निश्चय) की रीति है; शहरों में अँगूठी बदलना (रिंग-सेरेमनी) जुड़ गया है। ये सब लोकाचार हैं, इनका कोई मंत्र नहीं। हर जगह की रीति अलग है — यह साइट उन्हें \"भिन्न रूप\" कहती है, \"गलत\" नहीं ([पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.8.11–13 स्वयं कहता है कि विवाह में ग्राम-वचन का प्रमाण है)।",
+    "en": "The tilak, the sagai (engagement) and the lagna-patrika — these three pre-rites of the North Indian wedding are three forms of one thing: the two families' word that this wedding will happen, and when. None of them is in the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) — sutra 1.4 opens directly with the seasons and nakshatras of the wedding and the groom \"accepting the girl given by her father\". Everything here is the handbook (paddhati) layer — the sankalpas and verses of the Madhyandina pothis — and folk custom; each step is marked with its layer.\n\nThe Madhyandina [wedding handbook](https://archive.org/details/mvf_20240803_20240803_1558) prints the day under two names: \"var-raksha / varichchha / phaldan\" — the bride's side gives the groom (or his father) fruit with rice and its word, and the groom accepts it — and \"var-varan / tilak / sagai\" — the bride's father or brother goes to the groom's house, worships Ganesha-Ambika, the kalash and the nine planets, honours the groom (washing his feet, tilak, rice, garland) and \"chooses\" him with a sankalpa. In between, the groom's purohit touches the lagna-patrika to Ganesha and reads it aloud.\n\nThe lagna-patrika (lagan, lagan-patri) is the letter written by the bride's side's purohit that states the date of the wedding, the lagna (the hour of the muhurat), the names and gotras of both, and usually the dates of the pre-wedding rites (haldi, mandap, barat); it is decorated with turmeric and roli and handed to the groom's side with betel nut and money. Date and lagna are fixed from the panchang — this site computes none of it; see the 'muhurat rules' page and [Shubhvela](https://sudish007.github.io/shubhvela/).\n\nIn practice the three can be separate days or one. In the Bhojpuri belt the tilak is held at the groom's house and hosted by the bride's side — socially a large celebration; Mithila has the written \"siddhant\" and the \"nishchay-tambul\" (the decision sealed with betel); cities have added the exchange of rings. All of these are folk customs with no mantra. Every region does it differently — this site calls them \"variants\", not \"errors\" (the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.8.11–13 itself says that at weddings the word of the village is the authority).",
+    "bho": "[[tilak-ceremony]], [[sagai]] आ [[lagan-patrika]] — उत्तर भारत के [[vivah]] के ई तीन पहिले के काम एके बात के तीन रूप बा: दू परिवार के बचन कि ई बियाह होखी, आ कब होखी। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) में एह में से कवनो नइखे — सूत्र 1.4 सीधे बियाह के ऋतु-नक्षत्र आ दुलहा के \"पिता के दिहल कन्या के ग्रहन करे\" से सुरू होला। जे कुछ इहाँ बा, ऊ [[paddhati]]-परत (माध्यंदिन पोथी के संकल्प आ श्लोक) आ लोकाचार बा; हर चरन पर ओकर परत लिखल बा।\n\nमाध्यंदिन [बियाह-पद्धति](https://archive.org/details/mvf_20240803_20240803_1558) एह दिन के दू नाँव से छापेला: \"वर-रक्षा / वरिच्छा / फलदान\" — कनिया-पच्छ दुलहा (भा दुलहा-पिता) के हाथ में अच्छत-सहित फल देके बचन देला आ दुलहा बचन स्वीकार करेला — आ \"वर-वरन / तिलक / सगाई\" — कनिया के पिता भा भाई दुलहा के घर जाके गणेश-अंबिका, कलश आ नवग्रह के पूजन करके दुलहा के पूजन (गोड़ धोआई, टीका, अच्छत, माला) करेलन आ संकल्प से ओकरा \"वरन\" करेलन। एही बीच दुलहा के पुरोहित लगन पतरी गणेश जी के छुआ के पढ़ के सुनावेलन।\n\n[[lagan-patrika]] (लगन, लगन-पतरी) कनिया-पच्छ के पुरोहित के लिखल ऊ चिट्ठी बा जेह में बियाह के तिथि, लगन (मुहूरत के समय), दुनो के नाँव-गोत्र, आ अक्सर बियाह से पहिले के रीति (हरदी, मड़वा, बरियात) के तिथि लिखल रहेला; ओकरा हरदी-रोरी से सजा के, सुपारी-द्रव्य के साथे दुलहा-पच्छ के सौंपल जाला। तिथि आ लगन [[panchang]] से तय होला — एह साइट पर ओकर गनती ना होला, 'मुहूरत-नियम' पन्ना आ [Shubhvela](https://sudish007.github.io/shubhvela/) देखीं।\n\nलोक में तीनो अलगा दिन भी हो सकेला आ एके दिन भी। भोजपुरी इलाका में तिलक दुलहा के घर होला आ कनिया-पच्छ ओकर इंतजाम करेला — समाज में ई बड़ उत्सव बा; मिथिला में लिखित \"सिद्धांत\" आ \"निश्चयतांबूल\" (पान-सुपारी से निश्चय) के रीति बा; सहर में अँगूठी बदलल (रिंग-सेरेमनी) जुड़ गइल बा। ई सब लोकाचार बा, एकर कवनो मंत्र नइखे। हर जगह के रीति अलगा बा — ई साइट ओकरा \"अलग रूप\" कहेले, \"गलत\" ना ([पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.8.11–13 खुद कहेला कि बियाह में गाँव के बचन के प्रमान बा)।"
+  },
+  "when": {
+    "rules": {
+      "hi": "तिलक/सगाई किसी भी शुभ दिन हो सकती है — प्रायः विवाह से कुछ सप्ताह पहले, विवाह के ही मासों में; [[kharmas]], [[chaturmas]]/[[devshayan]] और [[adhik-maas]] में परंपरा में इसे नहीं किया जाता ('मुहूर्त-नियम')। लग्न-पत्रिका में लिखी तिथि और लग्न कन्या-पक्ष के पुरोहित [[panchang]] से निकालते हैं। इस साइट पर तिथि की गणना नहीं होती — सगाई के मुहूर्त के लिए नीचे [Shubhvela](https://sudish007.github.io/shubhvela/) का लिंक है।",
+      "en": "The tilak / sagai can be held on any auspicious day — usually some weeks before the wedding, within the wedding months; tradition avoids Kharmas, Chaturmas / Devshayan and the adhika month ('muhurat rules'). The date and lagna written in the lagna-patrika are worked out by the bride's side's purohit from the panchang. This site computes no dates — the [Shubhvela](https://sudish007.github.io/shubhvela/) link for engagement muhurats is below.",
+      "bho": "तिलक/सगाई कवनो सुभ दिन हो सकेला — अक्सर बियाह से कुछ हफ्ता पहिले, बियाह के ही महीना में; [[kharmas]], [[chaturmas]]/[[devshayan]] आ [[adhik-maas]] में परंपरा में ई ना कइल जाला ('मुहूरत-नियम')। लगन पतरी में लिखल तिथि आ लगन कनिया-पच्छ के पुरोहित [[panchang]] से निकालेलन। एह साइट पर तिथि के गनती ना होला — सगाई के मुहूरत खातिर नीचे [Shubhvela](https://sudish007.github.io/shubhvela/) के लिंक बा।"
+    },
+    "shubhvela": {
+      "muhurat": "engagement",
+      "festival": null,
+      "vrat": null
+    }
+  },
+  "roles": [
+    {
+      "role": {
+        "hi": "कन्या का पिता / भाई",
+        "en": "The bride's father / brother",
+        "bho": "कनिया के पिता / भाई"
+      },
+      "does": {
+        "hi": "फलदान के श्लोक पढ़कर वचन देता है, वर-पूजन (पाद-प्रक्षालन, तिलक, अक्षत, माला) करता है, वरण का संकल्प बोलता है और लग्न-पत्रिका सौंपता है। भोजपुरी क्षेत्र में तिलक का सारा सामान कन्या-पक्ष लाता है।",
+        "en": "Gives the word with the phaldan verses, honours the groom (foot-washing, tilak, rice, garland), speaks the varana sankalpa and hands over the lagna-patrika. In the Bhojpuri belt the bride's side brings everything for the tilak.",
+        "bho": "फलदान के श्लोक पढ़ के बचन देलन, वर-पूजन (गोड़ धोआई, टीका, अच्छत, माला) करेलन, वरन के संकल्प बोलेलन आ लगन पतरी सौंपेलन। भोजपुरी इलाका में तिलक के सगरी सामान कनिया-पच्छ ले आवेला।"
+      }
+    },
+    {
+      "role": {
+        "hi": "वर और वर का पिता",
+        "en": "The groom and his father",
+        "bho": "दुलहा आ दुलहा के पिता"
+      },
+      "does": {
+        "hi": "पूर्वमुख बैठकर फल स्वीकार करते हैं, स्वीकृति का श्लोक पढ़ते हैं, \"वृतोऽस्मि\" कहकर वरण स्वीकार करते हैं; वर-पक्ष के पुरोहित लग्न-पत्रिका पढ़ते हैं; गुरुजनों का चरण-स्पर्श।",
+        "en": "Sit facing east and accept the fruit, recite the verse of acceptance, accept the varana with \"vrito 'smi\"; the groom's side's purohit reads the lagna-patrika; the groom touches the elders' feet.",
+        "bho": "पूरब मुँह बइठ के फल स्वीकार करेलन, स्वीकृति के श्लोक पढ़ेलन, \"वृतोऽस्मि\" कह के वरन स्वीकार करेलन; दुलहा-पच्छ के पुरोहित लगन पतरी पढ़ेलन; गुरुजन के गोड़ छूवल।"
+      }
+    },
+    {
+      "role": {
+        "hi": "दोनों पक्षों के पुरोहित",
+        "en": "The purohits of both sides",
+        "bho": "दुनो पच्छ के पुरोहित"
+      },
+      "does": {
+        "hi": "कन्या-पक्ष के पुरोहित लग्न-पत्रिका लिखते हैं और संकल्प कराते हैं; वर-पक्ष के पुरोहित गणेश-कलश पूजन कराते हैं और लग्न-पत्रिका पढ़कर सुनाते हैं। दोनों को दक्षिणा।",
+        "en": "The bride's side's purohit writes the lagna-patrika and leads the sankalpas; the groom's side's purohit conducts the Ganesha-kalash puja and reads the lagna-patrika aloud. Both receive dakshina.",
+        "bho": "कनिया-पच्छ के पुरोहित लगन पतरी लिखेलन आ संकल्प करावेलन; दुलहा-पच्छ के पुरोहित गणेश-कलश पूजन करावेलन आ लगन पतरी पढ़ के सुनावेलन। दुनो के दक्षिणा।"
+      }
+    },
+    {
+      "role": {
+        "hi": "घर की स्त्रियाँ",
+        "en": "The women of the house",
+        "bho": "घर के मेहरारू लोग"
+      },
+      "does": {
+        "hi": "वर-पक्ष में आगत का स्वागत, थाल की सजावट, गीत; तिलक के बाद वर की आरती और \"चुमावन\" (अक्षत-दूब से आशीर्वाद) — लोकाचार।",
+        "en": "On the groom's side the welcome of the guests, the decorated thal, the songs; after the tilak the aarti of the groom and the \"chumawan\" (blessing with rice and durva) — folk custom.",
+        "bho": "दुलहा-पच्छ में पाहुन के स्वागत, थरिया के सजावट, गीत; तिलक के बाद दुलहा के आरती आ \"चुमावन\" (अच्छत-दूब से असीस) — लोकाचार।"
+      }
+    }
+  ],
+  "samagri": [
+    {
+      "id": "thal",
+      "item": {
+        "hi": "थाल (फलदान/तिलक की सामग्री के लिए)",
+        "en": "A thal (tray) for the phaldan / tilak materials",
+        "bho": "थरिया (फलदान/तिलक के सामान खातिर)"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "akshat",
+      "item": {
+        "hi": "अक्षत (अखंड चावल), हल्दी से पीला किया हुआ",
+        "en": "Akshata (unbroken rice), yellowed with turmeric",
+        "bho": "अच्छत (अखंड चाउर), हरदी से पियर कइल"
+      },
+      "qty": "250 g",
+      "must": true
+    },
+    {
+      "id": "roli-haldi",
+      "item": {
+        "hi": "रोली और हल्दी (तिलक के लिए), दही",
+        "en": "Roli and turmeric (for the tilak), curd",
+        "bho": "रोरी आ हरदी (टीका खातिर), दही"
+      },
+      "qty": "—",
+      "must": true
+    },
+    {
+      "id": "phal",
+      "item": {
+        "hi": "फल — नारियल, फल, सुपारी, मिठाई",
+        "en": "Fruit — coconut, fruits, betel nut, sweets",
+        "bho": "फल — नरियर, फल, सुपारी, मिठाई"
+      },
+      "qty": "—",
+      "must": true,
+      "note": {
+        "hi": "फलदान का \"फल\" अक्षत के साथ वर के हाथ में दिया जाता है।",
+        "en": "The \"fruit\" of the phaldan is placed in the groom's hands with rice.",
+        "bho": "फलदान के \"फल\" अच्छत के साथे दुलहा के हाथ में दिहल जाला।"
+      }
+    },
+    {
+      "id": "dravya",
+      "item": {
+        "hi": "द्रव्य (दक्षिणा और तिलक की राशि)",
+        "en": "Money (for the dakshina and the tilak gift)",
+        "bho": "द्रव्य (दक्षिणा आ तिलक के रकम)"
+      },
+      "qty": "—",
+      "must": true
+    },
+    {
+      "id": "vastra",
+      "item": {
+        "hi": "वर के वस्त्र (धोती-कुर्ता / पगड़ी)",
+        "en": "Clothes for the groom (dhoti-kurta / turban)",
+        "bho": "दुलहा के वस्त्र (धोती-कुरता / पगड़ी)"
+      },
+      "qty": "1 set",
+      "must": true
+    },
+    {
+      "id": "janeu",
+      "item": {
+        "hi": "जनेऊ (वरण-थाल में)",
+        "en": "A sacred thread (in the varana tray)",
+        "bho": "जनेऊ (वरन-थरिया में)"
+      },
+      "qty": "1",
+      "must": false
+    },
+    {
+      "id": "durva",
+      "item": {
+        "hi": "दूर्वा (दूब)",
+        "en": "Durva grass",
+        "bho": "दूब"
+      },
+      "qty": "—",
+      "must": true
+    },
+    {
+      "id": "mala",
+      "item": {
+        "hi": "पुष्प-माला",
+        "en": "A flower garland",
+        "bho": "फूल के माला"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "paan",
+      "item": {
+        "hi": "पान और सुपारी (पान-विनिमय के लिए)",
+        "en": "Betel leaf and nut (for the exchange of pan)",
+        "bho": "पान आ सुपारी (पान बदले खातिर)"
+      },
+      "qty": "—",
+      "must": true
+    },
+    {
+      "id": "kalash",
+      "item": {
+        "hi": "कलश (जल, आम-पत्ते, नारियल) — वर-पक्ष के घर",
+        "en": "A kalash (water, mango leaves, coconut) — at the groom's house",
+        "bho": "कलश (जल, आम के पत्ता, नरियर) — दुलहा-पच्छ के घर"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "ganesh-gauri",
+      "item": {
+        "hi": "गौरी-गणेश (सुपारी या मूर्ति), चौकी, लाल वस्त्र",
+        "en": "Gauri-Ganesha (betel nut or image), a low stool, red cloth",
+        "bho": "गौरी-गणेश (सुपारी भा मूरति), चौकी, लाल कपड़ा"
+      },
+      "qty": "1 set",
+      "must": true
+    },
+    {
+      "id": "deep-dhoop",
+      "item": {
+        "hi": "दीप, घी, बत्ती, धूप/अगरबत्ती",
+        "en": "Lamp, ghee, wick, incense",
+        "bho": "दीया, घी, बाती, धूप/अगरबत्ती"
+      },
+      "qty": "—",
+      "must": true
+    },
+    {
+      "id": "lagan-patri",
+      "item": {
+        "hi": "लग्न पत्रिका — कन्या-पक्ष के पुरोहित द्वारा लिखी, हल्दी-रोली से सजी; साथ में सुपारी-द्रव्य",
+        "en": "The lagna-patrika — written by the bride's side's purohit, decorated with turmeric and roli; betel nut and money with it",
+        "bho": "लगन पतरी — कनिया-पच्छ के पुरोहित के लिखल, हरदी-रोरी से सजल; साथे सुपारी-द्रव्य"
+      },
+      "qty": "1",
+      "must": true
+    },
+    {
+      "id": "pidha",
+      "item": {
+        "hi": "पीढ़ा / आसन (वर के लिए, पूर्वमुख)",
+        "en": "A low seat / asana for the groom, facing east",
+        "bho": "पीढ़ा / आसन (दुलहा खातिर, पूरब मुँह)"
+      },
+      "qty": "2",
+      "must": true
+    }
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "layer": "lok",
+      "action": {
+        "hi": "आगमन और आसन — कन्या-पक्ष (पिता/भाई और स्वजन) मांगलिक सामग्री का थाल लेकर वर के घर पहुँचते हैं। वर पूर्वमुख और कन्या-पक्ष पश्चिममुख आमने-सामने बैठते हैं; बीच में गौरी-गणेश और कलश।",
+        "en": "Arrival and seating — The bride's side (father / brother and kin) arrive at the groom's house with the thal of auspicious materials. The groom sits facing east, the bride's side opposite him facing west; Gauri-Ganesha and the kalash between them.",
+        "bho": "आगमन आ आसन — कनिया-पच्छ (पिता/भाई आ स्वजन) मांगलिक सामान के थरिया लेके दुलहा के घर पहुँचेला। दुलहा पूरब मुँह आ कनिया-पच्छ पच्छिम मुँह आमने-सामने बइठेला; बीच में गौरी-गणेश आ कलश।"
+      },
+      "panditSays": {
+        "hi": "वर पूर्व की ओर, कन्या-पक्ष पश्चिम की ओर मुख करके बैठें।",
+        "en": "The groom faces east, the bride's side faces west.",
+        "bho": "दुलहा पूरब ओर, कनिया-पच्छ पच्छिम ओर मुँह करके बइठीं।"
+      },
+      "note": {
+        "hi": "भोजपुरी क्षेत्र में तिलक वर के घर, कन्या-पक्ष के आयोजन में होता है; दिशा का नियम पद्धति का है, बाकी व्यवस्था लोकाचार।",
+        "en": "In the Bhojpuri belt the tilak is at the groom's house and hosted by the bride's side; the rule of direction is the handbook's, the rest is custom.",
+        "bho": "भोजपुरी इलाका में तिलक दुलहा के घर, कनिया-पच्छ के इंतजाम में होला; दिसा के नियम पद्धति के बा, बाकी बेवस्था लोकाचार।"
+      },
+      "samagriIds": [
+        "thal",
+        "pidha",
+        "ganesh-gauri",
+        "kalash"
+      ]
+    },
+    {
+      "n": 2,
+      "layer": "paddhati",
+      "action": {
+        "hi": "पवित्रीकरण, आचमन और स्वस्तिवाचन — दोनों पक्ष [[pavitrikaran]], [[achaman]] और [[swasti-vachan]] करते हैं; मंत्र अपने-अपने पृष्ठों पर: [आचमन-पवित्रीकरण](/occasions/achaman-pavitrikaran/), [स्वस्तिवाचन](/occasions/svasti-vachan/)। पुरोहित दोनों को तिलक-अक्षत लगाते हैं।",
+        "en": "Pavitrikarana, achamana and svasti-vachana — Both sides perform the pavitrikarana, the achamana and the svasti-vachana; mantras on their own pages: [achamana-pavitrikarana](/occasions/achaman-pavitrikaran/), [svasti-vachana](/occasions/svasti-vachan/). The purohit marks both with tilak and rice.",
+        "bho": "पवित्रीकरन, आचमन आ स्वस्तिवाचन — दुनो पच्छ [[pavitrikaran]], [[achaman]] आ [[swasti-vachan]] करेला; मंत्र आपन-आपन पन्ना पर: [आचमन-पवित्रीकरन](/occasions/achaman-pavitrikaran/), [स्वस्तिवाचन](/occasions/svasti-vachan/)। पुरोहित दुनो के टीका-अच्छत लगावेलन।"
+      },
+      "panditSays": {
+        "hi": "पहले शुद्धि — जल छिड़किए, तीन बार आचमन।",
+        "en": "First the purification — sprinkle water, sip three times.",
+        "bho": "पहिले सुद्धि — जल छींटीं, तीन बेर आचमन।"
+      }
+    },
+    {
+      "n": 3,
+      "layer": "paddhati",
+      "action": {
+        "hi": "**फलदान / वर-रक्षा / वाग्दान** — कन्या-पिता (या भाई) अक्षत-सहित फल (नारियल, सुपारी, मिठाई, द्रव्य) हाथ में लेकर \"वाचा दत्ता मया कन्या…\" और \"तुभ्यं कन्यार्थिने…\" पढ़ता है और फल वर (या वर-पिता) के हाथ में देता है; वर \"वाचा दत्ता त्वया कन्या…\" पढ़कर फल माथे से लगाता है।",
+        "en": "**Phaldan / var-raksha / vagdan** — the bride's father (or brother) holds the fruit with rice (coconut, betel nut, sweets, money), recites \"vacha datta maya kanya…\" and \"tubhyam kanyarthine…\" and places the fruit in the hands of the groom (or his father); the groom recites \"vacha datta tvaya kanya…\" and touches the fruit to his forehead.",
+        "bho": "**फलदान / वर-रक्षा / वाग्दान** — कनिया-पिता (भा भाई) अच्छत-सहित फल (नरियर, सुपारी, मिठाई, द्रव्य) हाथ में लेके \"वाचा दत्ता मया कन्या…\" आ \"तुभ्यं कन्यार्थिने…\" पढ़ेलन आ फल दुलहा (भा दुलहा-पिता) के हाथ में देलन; दुलहा \"वाचा दत्ता त्वया कन्या…\" पढ़ के फल माथ से लगावेला।"
+      },
+      "mantraIds": [
+        "pad-vacha-datta-kanya"
+      ],
+      "panditSays": {
+        "sa": "ॐ वाचा दत्ता मया कन्या पुत्रार्थं स्वीकृता त्वया । कन्यावलोकनविधौ निश्चितस्त्वं सुखी भव ॥",
+        "hi": "फल और अक्षत वर के हाथ में दीजिए — यह वचन है।",
+        "en": "Place the fruit and rice in the groom's hands — this is the word.",
+        "bho": "फल आ अच्छत दुलहा के हाथ में दीं — इहे बचन बा।"
+      },
+      "important": true,
+      "samagriIds": [
+        "phal",
+        "akshat",
+        "dravya"
+      ]
+    },
+    {
+      "n": 4,
+      "layer": "paddhati",
+      "action": {
+        "hi": "**वर-वरण का संकल्प** — कन्या का भाई (या पिता) हाथ में जल-अक्षत-द्रव्य लेकर देश-काल और गोत्र-नाम के साथ संकल्प बोलता है कि अपनी बहन (कन्या) के विवाह के अंग वर-पूजन-पूर्वक वर-वरण के लिए गौरी-गणपति, कलश और नवग्रह का पूजन करेगा। संकल्प का पूरा ढाँचा [संकल्प](/reference/sankalpa/) पृष्ठ पर है।",
+        "en": "**Sankalpa of the var-varan** — the bride's brother (or father) holds water, rice and a coin and states, with place, time, gotra and name, that for the choosing of the groom — a limb of his sister's (daughter's) wedding, preceded by the honouring of the groom — he will worship Gauri-Ganapati, the kalash and the nine planets. The full sankalpa frame is on the [sankalpa](/reference/sankalpa/) page.",
+        "bho": "**वर-वरन के संकल्प** — कनिया के भाई (भा पिता) हाथ में जल-अच्छत-द्रव्य लेके देस-काल आ गोत्र-नाँव के साथे संकल्प बोलेला कि आपन बहिन (कन्या) के बियाह के अंग वर-पूजन-पूर्वक वर-वरन खातिर गौरी-गणपति, कलश आ नवग्रह के पूजन करी। संकल्प के पूरा ढाँचा [संकल्प](/reference/sankalpa/) पन्ना पर बा।"
+      },
+      "panditSays": {
+        "sa": "ॐ अद्य {देशकालौ} {गोत्र}गोत्रोत्पन्नः {नाम}शर्माहं {गोत्र}गोत्रायाः {नाम}नाम्न्याः स्वभगिन्याः विवाहाङ्गभूतवरपूजनपूर्वकवरवरणकर्मणि शुभतासिद्ध्यर्थं गौरीगणपतिकलशस्थापनं नवग्रहादीनां स्मरणं पूजनं च करिष्ये ॥",
+        "hi": "अपना गोत्र, अपना नाम और बहन (या कन्या) का नाम-गोत्र बोलिए; बाकी मैं पढ़ता हूँ। पिता हों तो \"स्वकन्यायाः\"।",
+        "en": "Say your gotra, your name and the name and gotra of your sister (or daughter); I will read the rest. A father says \"svakanyayah\".",
+        "bho": "आपन गोत्र, आपन नाँव आ बहिन (भा कन्या) के नाँव-गोत्र बोलीं; बाकी हम पढ़त बानी। पिता होखसु त \"स्वकन्यायाः\"।"
+      }
+    },
+    {
+      "n": 5,
+      "layer": "paddhati",
+      "action": {
+        "hi": "गणेश-अंबिका, कलश और नवग्रह पूजन — यथालब्ध उपचार से [[ganesh-ambika-pujan]], [[kalash-sthapana]] और [[navagraha-pujan]]; विधि अपने पृष्ठों पर: [गणेश-अंबिका पूजन](/occasions/ganesh-ambika-pujan/), [कलश स्थापना](/occasions/kalash-sthapana/), [नवग्रह पूजन](/occasions/navagraha-sthapana-pujan/)। पद्धति यहाँ \"यथालब्धोपचार\" कहती है — जितना उपलब्ध हो, उतना।",
+        "en": "Ganesha-Ambika, kalash and navagraha puja — Ganesha-Ambika puja, kalash sthapana and navagraha puja with whatever offerings are at hand; the procedures are on their own pages: [Ganesha-Ambika puja](/occasions/ganesh-ambika-pujan/), [kalash sthapana](/occasions/kalash-sthapana/), [navagraha puja](/occasions/navagraha-sthapana-pujan/). The handbook says \"yathalabdhopachara\" here — as much as is available.",
+        "bho": "गणेश-अंबिका, कलश आ नवग्रह पूजन — जइसन मिले ओइसन उपचार से [[ganesh-ambika-pujan]], [[kalash-sthapana]] आ [[navagraha-pujan]]; विधि आपन पन्ना पर: [गणेश-अंबिका पूजन](/occasions/ganesh-ambika-pujan/), [कलश स्थापना](/occasions/kalash-sthapana/), [नवग्रह पूजन](/occasions/navagraha-sthapana-pujan/)। पद्धति इहाँ \"यथालब्धोपचार\" कहेला — जेतना मिले, ओतना।"
+      },
+      "mantraIds": [
+        "vs-23-19"
+      ],
+      "panditSays": {
+        "hi": "गणेश जी को पहले — \"गणानां त्वा गणपतिं हवामहे\"।",
+        "en": "Ganesha first — \"gananam tva ganapatim havamahe\".",
+        "bho": "गणेश जी के पहिले — \"गणानां त्वा गणपतिं हवामहे\"।"
+      },
+      "samagriIds": [
+        "ganesh-gauri",
+        "kalash",
+        "deep-dhoop"
+      ],
+      "minutes": 20
+    },
+    {
+      "n": 6,
+      "layer": "paddhati",
+      "action": {
+        "hi": "**वर-पूजन** — कन्या का भाई या पिता वर का पाद-प्रक्षालन करता है (\"विराजो दोहोऽसि…\"), दही-हल्दी/रोली से तिलक (\"कस्तूरीतिलकं…\"), अक्षत (शुक्ल यजुर्वेद 3.51) और पुष्पमाला (\"…आहरज्जमदग्निः…\")। यही चार उपचार द्वारपूजा और मंडप में फिर आते हैं।",
+        "en": "**Var-pujan** — the bride's brother or father washes the groom's feet (\"virajo doho 'si…\"), marks him with curd-turmeric / roli (\"kasturi-tilakam…\"), puts rice on him (\"akshann amimadanta…\") and garlands him (\"…aharaj jamadagnih…\"). The same four honours return at the dwar-puja and in the mandap.",
+        "bho": "**वर-पूजन** — कनिया के भाई भा पिता दुलहा के गोड़ धोवेलन (\"विराजो दोहोऽसि…\"), दही-हरदी/रोरी से टीका (\"कस्तूरीतिलकं…\"), अच्छत (\"अक्षन्नमीमदन्त…\") आ फूल के माला (\"…आहरज्जमदग्निः…\")। इहे चार उपचार दुआर पूजा आ मड़वा में फेर आवेला।"
+      },
+      "mantraIds": [
+        "pgs-1-3-12",
+        "pad-kasturi-tilakam",
+        "vs-3-51",
+        "pad-ya-aharaj-jamadagnih"
+      ],
+      "panditSays": {
+        "sa": "ॐ विराजो दोहोऽसि विराजो दोहमशीय मयि पाद्यायै विराजो दोहः ॥",
+        "hi": "पहले पाँव, फिर माथे पर तिलक, अक्षत, और माला।",
+        "en": "First the feet, then the tilak on the forehead, the rice, and the garland.",
+        "bho": "पहिले गोड़, फेर माथ पर टीका, अच्छत, आ माला।"
+      },
+      "samagriIds": [
+        "roli-haldi",
+        "akshat",
+        "mala"
+      ]
+    },
+    {
+      "n": 7,
+      "layer": "paddhati",
+      "action": {
+        "hi": "**वरण** — कन्या का भाई थाल में यज्ञोपवीत, हल्दी, सुपारी, फल, नारियल, वर के वस्त्र और वरण-द्रव्य लेकर संकल्प पढ़ता है और \"त्वामहं वृणे\" कहकर थाल वर को देता है; वर \"वृतोऽस्मि\" कहकर \"द्यौस्त्वा ददातु पृथिवी त्वा प्रतिगृह्णातु\" पढ़ता है। फिर दोनों एक-दूसरे को पान खिलाते और गले मिलते हैं।",
+        "en": "**Varana** — the bride's brother holds the tray with the sacred thread, turmeric, betel nut, fruit, coconut, the groom's clothes and the varana money, recites the sankalpa and gives the tray to the groom with \"tvam aham vrine\" (I choose you); the groom says \"vrito 'smi\" (I am chosen) and recites \"dyaus tva dadatu prithivi tva pratigrihnatu\". Then the two feed each other pan and embrace.",
+        "bho": "**वरन** — कनिया के भाई थरिया में जनेऊ, हरदी, सुपारी, फल, नरियर, दुलहा के कपड़ा आ वरन-द्रव्य लेके संकल्प पढ़ेला आ \"त्वामहं वृणे\" कह के थरिया दुलहा के देला; दुलहा \"वृतोऽस्मि\" कह के \"द्यौस्त्वा ददातु पृथिवी त्वा प्रतिगृह्णातु\" पढ़ेला। फेर दुनो एक-दोसरा के पान खियावेला आ गला मिलेला।"
+      },
+      "mantraIds": [
+        "pad-dyaus-tva-dadatu"
+      ],
+      "panditSays": {
+        "sa": "ॐ अद्य {गोत्र}गोत्रः {नाम}नामाहं स्वभगिन्याः {गोत्र}गोत्रायाः {नाम}नाम्न्याः विवाहाङ्गभूतवरवरणकर्मणि {गोत्र}गोत्रं {नाम}नामकं वरं सुपूजितमेभिः कुङ्कुमाक्ततण्डुलपूरितपात्रचन्दननारिकेलपूगीफलहरिद्रादूर्वावस्त्रादिभिः यथाशक्तिद्रव्यैश्च त्वामहं वृणे ॥ वृतोऽस्मि ॥",
+        "hi": "भाई कहे \"त्वामहं वृणे\" — मैं तुम्हें वरण करता हूँ; वर उत्तर दे \"वृतोऽस्मि\"।",
+        "en": "The brother says \"tvam aham vrine\" — I choose you; the groom answers \"vrito 'smi\".",
+        "bho": "भाई कहसु \"त्वामहं वृणे\" — हम रउआ के वरन करत बानी; दुलहा जवाब देव \"वृतोऽस्मि\"।"
+      },
+      "important": true,
+      "samagriIds": [
+        "vastra",
+        "janeu",
+        "phal",
+        "dravya",
+        "paan"
+      ]
+    },
+    {
+      "n": 8,
+      "layer": "paddhati",
+      "action": {
+        "hi": "**लग्न-पत्रिका** — वर के पुरोहित लग्न-पत्रिका को गणेश जी से छुआकर खोलते हैं और सबको पढ़कर सुनाते हैं: विवाह की तिथि, लग्न (मुहूर्त का समय), वर-कन्या के नाम-गोत्र, और प्रायः हल्दी, मंडप, बरात की तिथियाँ। कन्या-पक्ष इसे सुपारी-द्रव्य के साथ सौंपता है; वर-पक्ष इसे पूजा-स्थान में रखता है।",
+        "en": "**The lagna-patrika** — the groom's purohit touches the lagna-patrika to Ganesha, opens it and reads it out to all: the date of the wedding, the lagna (the hour of the muhurat), the names and gotras of groom and bride, and usually the dates of the haldi, the mandap and the barat. The bride's side hands it over with betel nut and money; the groom's side keeps it at the place of worship.",
+        "bho": "**लगन पतरी** — दुलहा के पुरोहित लगन पतरी के गणेश जी से छुआ के खोलेलन आ सभे के पढ़ के सुनावेलन: बियाह के तिथि, लगन (मुहूरत के समय), दुलहा-कनिया के नाँव-गोत्र, आ अक्सर हरदी, मड़वा, बरियात के तिथि। कनिया-पच्छ एकरा सुपारी-द्रव्य के साथे सौंपेला; दुलहा-पच्छ एकरा पूजा-जगह में राखेला।"
+      },
+      "panditSays": {
+        "hi": "लगन पढ़ी जा रही है — सब ध्यान से सुनें; तिथि और लग्न यही मान्य होंगे।",
+        "en": "The lagan is being read — everyone listen; this date and lagna will stand.",
+        "bho": "लगन पढ़ल जात बा — सभे धेयान से सुनीं; तिथि आ लगन इहे मानल जाई।"
+      },
+      "note": {
+        "hi": "लग्न-पत्रिका लिखने का कोई मंत्र नहीं; तिथि-लग्न पंचांग से निकलते हैं — 'मुहूर्त-नियम'। कई घरों में \"लगन\" की यह रस्म तिलक से अलग दिन भी होती है।",
+        "en": "There is no mantra for writing the lagna-patrika; the date and lagna come from the panchang — 'muhurat rules'. In many homes this \"lagan\" rite is held on a day separate from the tilak.",
+        "bho": "लगन पतरी लिखे के कवनो मंत्र नइखे; तिथि-लगन पंचांग से निकलेला — 'मुहूरत-नियम'। ढेर घर में \"लगन\" के ई रसम तिलक से अलगा दिन भी होला।"
+      },
+      "important": true,
+      "samagriIds": [
+        "lagan-patri",
+        "paan"
+      ]
+    },
+    {
+      "n": 9,
+      "layer": "lok",
+      "action": {
+        "hi": "**तिलक के उपहार और लोक-रीति** — कन्या-पक्ष वर को वस्त्र, मिठाई, फल और तिलक की राशि देता है; घर की स्त्रियाँ वर की आरती और [[chumawan]] (अक्षत-दूब से आशीर्वाद) करती हैं, गीत होते हैं। शहरों में इसी दिन अँगूठी बदली जाती है (सगाई / रिंग-सेरेमनी)। इन सबका कोई मंत्र नहीं है।",
+        "en": "**The tilak gifts and folk customs** — the bride's side gives the groom clothes, sweets, fruit and the tilak money; the women of the house do his aarti and the chumawan (blessing with rice and durva), and there are songs. In cities rings are exchanged the same day (the sagai / ring ceremony). None of this has a mantra.",
+        "bho": "**तिलक के उपहार आ लोक-रीति** — कनिया-पच्छ दुलहा के कपड़ा, मिठाई, फल आ तिलक के रकम देला; घर के मेहरारू लोग दुलहा के आरती आ [[chumawan]] (अच्छत-दूब से असीस) करेली, गीत होला। सहर में एही दिन अँगूठी बदलल जाला (सगाई / रिंग-सेरेमनी)। एह सब के कवनो मंत्र नइखे।"
+      },
+      "panditSays": {
+        "hi": "यह लोकाचार है — जैसा आपके घर में होता है, वैसा करें।",
+        "en": "This is folk custom — do it as your house does.",
+        "bho": "ई लोकाचार बा — जइसन राउर घर में होला, ओइसन करीं।"
+      },
+      "note": {
+        "hi": "लोकाचार — इसका कोई वैदिक या पद्धति मंत्र नहीं है।",
+        "en": "Folk custom — there is no Vedic or handbook mantra for it.",
+        "bho": "लोकाचार — एकर कवनो वैदिक भा पद्धति मंत्र नइखे।"
+      }
+    },
+    {
+      "n": 10,
+      "layer": "paddhati",
+      "action": {
+        "hi": "**विसर्जन, दक्षिणा, आशीर्वाद** — कन्या-पिता और वर अक्षत लेकर आवाहित देवताओं का [[visarjan]] करते हैं ([आरती-पुष्पांजलि-विसर्जन](/occasions/aarti-pushpanjali-visarjan/)); दोनों पक्ष आचार्य-दक्षिणा, भूयसी दक्षिणा और ब्राह्मण-भोजन का संकल्प करते हैं; वर गुरुजनों के चरण छूता है; नाई को न्योछावर। अंत में \"प्रमादात् कुर्वतां कर्म…\" और \"ॐ विष्णवे नमः\" तीन बार।",
+        "en": "**Visarjana, dakshina, blessings** — the bride's father and the groom take rice and bid farewell to the invoked deities ([aarti-pushpanjali-visarjana](/occasions/aarti-pushpanjali-visarjan/)); both sides make the sankalpa of the acharya's dakshina, the bhuyasi dakshina and the Brahmins' meal; the groom touches the elders' feet; the barber gets his gift. At the end \"pramadat kurvatam karma…\" and \"om vishnave namah\" three times.",
+        "bho": "**विसर्जन, दक्षिणा, असीस** — कनिया-पिता आ दुलहा अच्छत लेके बोलावल देवता लोग के [[visarjan]] करेलन ([आरती-पुष्पांजलि-विसर्जन](/occasions/aarti-pushpanjali-visarjan/)); दुनो पच्छ आचार्य-दक्षिणा, भूयसी दक्षिणा आ ब्राह्मण-भोजन के संकल्प करेला; दुलहा गुरुजन के गोड़ छूवेला; नाऊ के न्योछावर। अंत में \"प्रमादात् कुर्वतां कर्म…\" आ \"ॐ विष्णवे नमः\" तीन बेर।"
+      },
+      "panditSays": {
+        "sa": "ॐ कृतस्य वरवृत्तिग्रहणकर्मणः साङ्गतासिद्ध्यर्थम् आचार्याय दक्षिणां तन्मध्ये न्यूनातिरिक्तदोषपरिहारार्थं नानानामगोत्रेभ्यो ब्राह्मणेभ्यो यथोत्साहां भूयसीं दक्षिणां च विभज्य दातुमहमुत्सृज्ये ॥",
+        "hi": "दक्षिणा का संकल्प — जितना उत्साह हो, उतना; कम-ज़्यादा का दोष इसी से हटता है।",
+        "en": "The sankalpa of the dakshina — as much as one's heart allows; this is what removes the fault of too little or too much.",
+        "bho": "दक्षिणा के संकल्प — जेतना उत्साह होखे, ओतना; कम-बेसी के दोस एही से हटेला।"
+      },
+      "samagriIds": [
+        "dravya",
+        "akshat"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "region": "bhojpuri",
+      "what": {
+        "hi": "भोजपुरी क्षेत्र में \"तिलक\" (फलदान) वर के घर होता है और कन्या-पक्ष उसका आयोजन करता है — बड़ी संख्या में स्वजन आते हैं, वर को वस्त्र-आभूषण-द्रव्य दिया जाता है, गीत होते हैं; यह सामाजिक रूप से विवाह का सबसे बड़ा पूर्व-उत्सव है।",
+        "en": "In the Bhojpuri belt the \"tilak\" (phaldan) is held at the groom's house and hosted by the bride's side — a large gathering of kin, the groom receives clothes, ornaments and money, there are songs; socially it is the biggest pre-wedding event.",
+        "bho": "भोजपुरी इलाका में \"तिलक\" (फलदान) दुलहा के घर होला आ कनिया-पच्छ ओकर इंतजाम करेला — ढेर स्वजन आवेला, दुलहा के कपड़ा-गहना-द्रव्य दिहल जाला, गीत होला; समाज में ई बियाह के सबसे बड़ उत्सव में से एक बा।"
+      },
+      "source": "research-r1"
+    },
+    {
+      "region": "mithila",
+      "what": {
+        "hi": "मिथिला में पंजी (वंश-मिलान) के बाद लिखित \"सिद्धांत\" (विवाह की सहमति और लग्न का पत्र) और \"निश्चयतांबूल\" — पान-सुपारी देकर निश्चय — होता है; तिलक/वर-पूजा इसी के साथ। नामों में अंतर है — \"कुमराम\" आदि नाम स्थान-स्थान पर अलग मिलते हैं।",
+        "en": "In Mithila, after the panji (lineage check), comes the written \"siddhant\" (the letter of consent and lagna) and the \"nishchay-tambul\" — the decision sealed by giving betel; the tilak / var-puja goes with it. The names differ from place to place — \"kumram\" and others are heard locally.",
+        "bho": "मिथिला में पंजी (बंस-मिलान) के बाद लिखित \"सिद्धांत\" (बियाह के सहमति आ लगन के चिट्ठी) आ \"निश्चयतांबूल\" — पान-सुपारी देके निश्चय — होला; तिलक/वर-पूजा एकरे साथे। नाँव में फरक बा — \"कुमराम\" आदि नाँव जगह-जगह अलगा मिलेला।"
+      },
+      "source": "research-r1"
+    },
+    {
+      "region": "rajasthan-punjab",
+      "what": {
+        "hi": "पंजाब-हरियाणा के हिंदू घरों में \"रोका\" और \"चुन्नी\" की रीतियाँ हैं — वचन, मिठाई और कन्या को चुन्नी ओढ़ाना; राजस्थान में तिलक के साथ \"पीठी-दस्तूर\" की तैयारी शुरू होती है; मंत्र-पक्ष वही पद्धति का है, नाम और उपहार लोकाचार के। व्यवहार परिवार-परिवार में भिन्न है।",
+        "en": "Hindu homes of Punjab-Haryana have the \"roka\" and \"chunni\" customs — the word, sweets and draping the bride with a chunni; in Rajasthan the tilak opens the preparations of the \"pithi-dastur\"; the mantra side is the same handbook, the names and gifts are folk custom. Practice varies from family to family.",
+        "bho": "पंजाब-हरियाना के हिंदू घर में \"रोका\" आ \"चुन्नी\" के रीति बा — बचन, मिठाई आ कनिया के चुन्नी ओढ़ावल; राजस्थान में तिलक के साथे \"पीठी-दस्तूर\" के तइयारी सुरू होला; मंत्र-पच्छ उहे पद्धति के बा, नाँव आ उपहार लोकाचार के। बेवहार परिवार-परिवार में अलगा बा।"
+      },
+      "source": "research-r1"
+    }
+  ],
+  "faq": [
+    {
+      "q": {
+        "hi": "क्या तिलक और सगाई वैदिक विधियाँ हैं?",
+        "en": "Are the tilak and the sagai Vedic rites?",
+        "bho": "का तिलक आ सगाई वैदिक विधि बा?"
+      },
+      "a": {
+        "hi": "नहीं। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) में न तिलक है, न सगाई, न लग्न-पत्रिका। फलदान और वरण के श्लोक-संकल्प पद्धति-परत के हैं; उपहार, आरती, अँगूठी लोकाचार हैं। इसीलिए हर चरण पर उसकी परत लिखी है।",
+        "en": "No. The [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) has no tilak, no sagai, no lagna-patrika. The verses and sankalpas of the phaldan and the varana are the handbook layer; the gifts, the aarti and the ring are folk custom. That is why every step carries its layer.",
+        "bho": "ना। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) में ना तिलक बा, ना सगाई, ना लगन पतरी। फलदान आ वरन के श्लोक-संकल्प पद्धति-परत के बा; उपहार, आरती, अँगूठी लोकाचार बा। एही से हर चरन पर ओकर परत लिखल बा।"
+      }
+    },
+    {
+      "q": {
+        "hi": "लग्न-पत्रिका में क्या-क्या लिखा होता है?",
+        "en": "What does a lagna-patrika contain?",
+        "bho": "लगन पतरी में का-का लिखल रहेला?"
+      },
+      "a": {
+        "hi": "ऊपर मंगलाचरण (प्रायः \"श्री गणेशाय नमः\" और एक मंगल-श्लोक), फिर संवत्-मास-पक्ष-तिथि-वार, विवाह का लग्न (समय), वर और कन्या के नाम, पिता-दादा के नाम और गोत्र, और नीचे हल्दी, मंडप/मटकोर, बरात-प्रस्थान, द्वारपूजा और विदाई की तिथियाँ। इसे कन्या-पक्ष के पुरोहित लिखते हैं; तिथि-लग्न पंचांग से — 'मुहूर्त-नियम' देखें।",
+        "en": "At the top an auspicious opening (usually \"shri ganeshaya namah\" and a mangala verse), then the samvat, month, fortnight, tithi and weekday, the lagna (hour) of the wedding, the names of groom and bride, their fathers' and grandfathers' names and gotras, and below it the dates of the haldi, the mandap / matkor, the departure of the barat, the dwar-puja and the vidai. The bride's side's purohit writes it; date and lagna come from the panchang — see the 'muhurat rules'.",
+        "bho": "ऊपर मंगलाचरन (अक्सर \"श्री गणेशाय नमः\" आ एक मंगल-श्लोक), फेर संवत-महीना-पच्छ-तिथि-वार, बियाह के लगन (समय), दुलहा आ कनिया के नाँव, पिता-दादा के नाँव आ गोत्र, आ नीचे हरदी, मड़वा/मटकोर, बरियात-प्रस्थान, दुआर पूजा आ बिदाई के तिथि। एकरा कनिया-पच्छ के पुरोहित लिखेलन; तिथि-लगन पंचांग से — 'मुहूरत-नियम' देखीं।"
+      }
+    },
+    {
+      "q": {
+        "hi": "तिलक, सगाई और लगन — तीन अलग दिन या एक?",
+        "en": "Tilak, sagai and lagan — three separate days or one?",
+        "bho": "तिलक, सगाई आ लगन — तीन अलगा दिन भा एक?"
+      },
+      "a": {
+        "hi": "दोनों चलते हैं। पद्धति \"फलदान\" और \"वर-वरण/तिलक\" को अलग शीर्षकों में छापती है, पर एक ही दिन करने की अनुमति है; भोजपुरी क्षेत्र में प्रायः तिलक के दिन ही लगन पढ़ी जाती है; कुछ परिवार सगाई (रोका) महीनों पहले और तिलक विवाह से कुछ दिन पहले करते हैं। किसी एक रूप को ही शास्त्रीय कहना ठीक नहीं।",
+        "en": "Both are done. The handbook prints the \"phaldan\" and the \"var-varan / tilak\" under separate headings but allows them on one day; in the Bhojpuri belt the lagan is usually read on the tilak day itself; some families hold the sagai (roka) months earlier and the tilak a few days before the wedding. It is not right to call any one form the only correct one.",
+        "bho": "दुनो चलेला। पद्धति \"फलदान\" आ \"वर-वरन/तिलक\" के अलगा सिरनामा में छापेला, बाकिर एके दिन करे के अनुमति बा; भोजपुरी इलाका में अक्सर तिलक के दिन ही लगन पढ़ल जाला; कुछ परिवार सगाई (रोका) महीना पहिले आ तिलक बियाह से कुछ दिन पहिले करेला। कवनो एक रूप के ही सास्त्रीय कहल ठीक नइखे।"
+      }
+    },
+    {
+      "q": {
+        "hi": "अँगूठी बदलने (रिंग-सेरेमनी) का कोई मंत्र है?",
+        "en": "Is there a mantra for exchanging rings?",
+        "bho": "अँगूठी बदले (रिंग-सेरेमनी) के कवनो मंत्र बा?"
+      },
+      "a": {
+        "hi": "नहीं। यह आधुनिक लोकाचार है; चाहें तो वरण के संकल्प के बाद, \"वृतोऽस्मि\" के साथ, अँगूठी दी जा सकती है — पद्धति में वरण-द्रव्य के साथ \"अँगूठी, आभूषण\" का उल्लेख द्वारपूजा के वरण में मिलता है, तिलक में नहीं।",
+        "en": "No. It is a modern folk custom; if wished, the ring can be given after the varana sankalpa, with \"vrito 'smi\" — the handbook mentions \"a ring, ornaments\" among the varana gifts at the dwar-puja, not at the tilak.",
+        "bho": "ना। ई आधुनिक लोकाचार बा; चाहीं त वरन के संकल्प के बाद, \"वृतोऽस्मि\" के साथे, अँगूठी दिहल जा सकेला — पद्धति में वरन-द्रव्य के साथे \"अँगूठी, गहना\" के जिकिर दुआर पूजा के वरन में मिलेला, तिलक में ना।"
+      }
+    }
+  ],
+  "sources": [
+    "ia-vivah-mvf",
+    "ws-pgs",
+    "research-r1",
+    "shubhvela"
+  ],
+  "tags": [
+    "vivah",
+    "tilak",
+    "sagai",
+    "lagna-patrika",
+    "purvanga"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

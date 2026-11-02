@@ -1,0 +1,81 @@
+{
+  "id": "pgs-1-3-13",
+  "kind": "vedic",
+  "text": "paraskara-grihya-sutra",
+  "locator": "PGS 1.3.13 (arghya); vivah paddhati: arghya-pradan",
+  "title": {
+    "hi": "अर्घ्य-ग्रहण — आपः स्थ",
+    "en": "Receiving the arghya — apah stha",
+    "bho": "अर्घ्य लेवे के मंत्र — आपः स्थ"
+  },
+  "devanagari": "आपः स्थ युष्माभिः सर्वान्कामानवाप्नवानि ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "आपः स्थ",
+      "gloss": {
+        "hi": "तुम जल हो",
+        "en": "you are the waters",
+        "bho": "रउआ जल बानी"
+      }
+    },
+    {
+      "sa": "युष्माभिः",
+      "gloss": {
+        "hi": "तुम्हारे द्वारा",
+        "en": "through you",
+        "bho": "राउर द्वारा"
+      }
+    },
+    {
+      "sa": "सर्वान् कामान्",
+      "gloss": {
+        "hi": "सब कामनाएँ",
+        "en": "all wishes",
+        "bho": "सब कामना"
+      }
+    },
+    {
+      "sa": "अवाप्नवानि",
+      "gloss": {
+        "hi": "मैं पा लूँ",
+        "en": "may I attain",
+        "bho": "हम पा लीं"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "तुम जल हो; तुम्हारे द्वारा मैं अपनी सब कामनाएँ पा लूँ।",
+    "en": "You are the waters; through you may I attain all my wishes.",
+    "bho": "रउआ जल बानी; राउर द्वारा हम आपन सब कामना पा लीं।"
+  },
+  "explanation": {
+    "hi": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3 उन छह व्यक्तियों का सत्कार बताता है जिन्हें अर्घ्य (मधुपर्क) मिलता है — आचार्य, ऋत्विज, वैवाह्य, राजा, प्रिय (मित्र) और स्नातक। \"वैवाह्य\" को टीकाकार नारायण और ओल्डेनबर्ग श्वशुर (समधी) समझते हैं; उत्तर भारत की विवाह-पद्धतियाँ इसी कंडिका को वर के स्वागत पर लागू करती हैं — कन्या-पिता मंडप में आए वर को अतिथि की तरह विष्टर, पाद्य, अर्घ्य, आचमनीय और मधुपर्क देता है। यह [[arghya]] लेने का मंत्र है (सूत्र 1.3.13)। कन्या-पिता पात्र में जल, दूब, अक्षत, फूल, चंदन और हल्दी लेकर तीन बार \"अर्घोऽर्घोऽर्घः\", फिर \"अर्घः प्रतिगृह्यताम्\" कहता है; वर \"अर्घं प्रतिगृह्णामि\" कहकर पात्र लेता है, माथे से लगाता है और यह मंत्र पढ़ता है। अगला मंत्र (1.3.14) उस जल को ईशान कोण में गिराने का है।",
+    "en": "The [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3 lays down the honouring of the six persons who receive the arghya (madhuparka) — the teacher, the officiating priest, the \"vaivahya\", the king, a friend and a snataka. The commentator Narayana and Oldenberg take \"vaivahya\" as the father-in-law; the North Indian wedding handbooks apply this very kandika to the reception of the bridegroom — the bride's father receives the groom who has come to the mandap as a guest, with the seat (vishtara), the foot-water, the arghya, the sipping-water and the madhuparka. This is the mantra for receiving the arghya (sutra 1.3.13). The bride's father holds a vessel of water with durva, rice, flowers, sandal and turmeric, says \"argho 'rgho 'rghah\" three times and then \"arghah pratigrihyatam\"; the groom says \"argham pratigrihnami\", takes the vessel, touches it to his forehead and recites this mantra. The next mantra (1.3.14) is for pouring that water out towards the north-east.",
+    "bho": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.3 ओह छव आदमी के सत्कार बतावेला जिनका अर्घ्य (मधुपर्क) मिलेला — आचार्य, ऋत्विज, वैवाह्य, राजा, प्रिय (मीत) आ स्नातक। \"वैवाह्य\" के टीकाकार नारायण आ ओल्डेनबर्ग ससुर (समधी) समझेलन; उत्तर भारत के बियाह-पद्धति एही कंडिका के दुलहा के स्वागत पर लगावेला — कनिया-पिता मड़वा में आइल दुलहा के पाहुन जइसन विष्टर, पाद्य, अर्घ्य, आचमनीय आ मधुपर्क देलन। ई [[arghya]] लेवे के मंत्र बा (सूत्र 1.3.13)। कनिया-पिता बरतन में जल, दूब, अच्छत, फूल, चंदन आ हरदी लेके तीन बेर \"अर्घोऽर्घोऽर्घः\", फेर \"अर्घः प्रतिगृह्यताम्\" कहेलन; दुलहा \"अर्घं प्रतिगृह्णामि\" कह के बरतन लेला, माथ से लगावेला आ ई मंत्र पढ़ेला। अगिला मंत्र (1.3.14) ओह जल के ईसान कोन में गिरावे के बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-pgs",
+    "retrieved": "2026-11-01",
+    "modified": "the sutra wording around the formula (इति, the verb of the rite) removed; ॥ added at the end"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "Paraskara Grihya Sutra (ancient Sanskrit, public domain); Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "madhuparka",
+    "arghya"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}
