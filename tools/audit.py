@@ -356,7 +356,8 @@ CHECKS_JS = r"""
     const grids = Array.from(document.querySelectorAll('.grid')).filter(pb.vis); const bad = []; const cols = [];
     // data-grid="list": a deliberate one-column list; data-grid="fixed": column count fixed by design §27.3 (1/2/3/4 at 390/820/1440/1920), so the last-row rule is waived
     grids.forEach(g => { const n = getComputedStyle(g).gridTemplateColumns.split(' ').filter(Boolean).length; cols.push(n); const kind = g.getAttribute('data-grid'); if (n < 3 && kind !== 'list') bad.push(`${pb.tag(g)} has ${n} columns`);
-      const items = Array.from(g.children).filter(pb.vis).length; if (items >= 8 && !kind) { const last = items % n; if (last && last / n < 0.5) bad.push(`${pb.tag(g)} last row ${last}/${n} filled`); } });
+      // last-row fill is measured as RENDERED (FIX-1a): a lone last card that site.css spans across the row (grid-column: 1 / -1) fills it
+      const kids = Array.from(g.children).filter(pb.vis); if (kids.length >= 8 && !kind) { const gr = g.getBoundingClientRect(); const tops = kids.map(k => Math.round(k.getBoundingClientRect().top)); const lastTop = Math.max(...tops); const row = kids.filter((k, i) => tops[i] === lastTop); const right = Math.max(...row.map(k => k.getBoundingClientRect().right)); const fill = (right - gr.left) / gr.width; if (fill < 0.5) bad.push(`${pb.tag(g)} last row ${row.length}/${n} cards, ${(fill * 100).toFixed(0)} % of the width filled`); } });
     let fill = null; if (vw >= 1920) { const cards = Array.from(document.querySelectorAll('.group-card')).filter(pb.vis); if (cards.length) { fill = Math.min(...cards.map(gc => { const r = gc.getBoundingClientRect(); const cs = getComputedStyle(gc); const inner = r.width - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight); let l = 1e9, rr = 0; gc.querySelectorAll('.gc-head, .chips, .t').forEach(e => { const b = e.getBoundingClientRect(); l = Math.min(l, b.left); rr = Math.max(rr, b.right); }); return (rr - l) / inner; })); if (fill < 0.55) bad.push(`group-card fill ${(fill * 100).toFixed(0)} % < 55 (§27.3)`); } }
     if (!grids.length && fill === null) return NA('no .grid');
     return R(bad.length === 0, `grids columns ${cols.join('/') || '-'}${fill !== null ? `; group-card fill ${(fill * 100).toFixed(0)} %` : ''}`, bad);
@@ -635,7 +636,9 @@ class Audit:
                     self.rec(path, w, theme, "UI-23", {"pass": not bad and disp_ok and pre_ok and not foreign, "measure": f"{len(fr['after'])} faces loaded ({len(fr['before'])} before forced load); font-display {sorted(set(fr['displays']))}; {len(fr['preloads'])} preloads; cross-origin {foreign or 'none'}", "detail": fr})
                 # brief §8/§10: shots at 390 + 1440 in both themes, wider layouts light only, never the 320 sweep width
                 if w in self.a.shot_widths and w >= 390 and (theme == "light" or w in (390, 1440)):
-                    pg.evaluate("window.scrollTo(0, 0)")  # the UI-25 focus walk leaves the page scrolled to its end (FEAT-108 fix)
+                    # the UI-25 focus walk leaves the page scrolled to its end (FEAT-108 fix) AND every scrollable box (the sticky
+                    # rails, .table-wrap) scrolled to the stop it focused last — reset them all, blur, so the shot is a clean load (FIX-1a)
+                    pg.evaluate("if (document.activeElement && document.activeElement.blur) document.activeElement.blur(); document.querySelectorAll('*').forEach(e => { if (e.scrollTop || e.scrollLeft) { e.scrollTop = 0; e.scrollLeft = 0; } }); window.scrollTo(0, 0)")
                     time.sleep(0.2)
                     self.shot(pg, f"{self.a.prefix}-{label}{langs_label}-{theme}-{w}.png")
                     for i, sel in enumerate(self.a.detail):  # scrolled detail shots (shoot.py pattern), 72 px above the target
