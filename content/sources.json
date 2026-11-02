@@ -1675,7 +1675,7 @@
       ],
       "note": "Devi-mahatmya chapters 1–5 (Durga Saptashati) inside the Markandeya Purana; verse numbers as chapter.verse (85.7 = Saptashati 5.9). Second source: sanskritdocuments durga700 (sd-durga700) and the Dwivedi 2020 paddhati OCR.",
       "wikisourceLang": "sa",
-      "locator": "Markandeya Purana 81–85"
+      "locator": "adhyayas 81–85"
     },
     {
       "id": "ws-markandeya-91-93",
@@ -1692,7 +1692,7 @@
       ],
       "note": "Devi-mahatmya chapters 11–13 (Narayani-stuti etc.); 91.4 = Saptashati 11.5 त्वं वैष्णवी, 91.9 = 11.10 सर्वमङ्गलमाङ्गल्ये. Typing slip तेवं वै for त्वं वै at 91.4. Second source: sd-durga700 and the Dwivedi 2020 paddhati OCR.",
       "wikisourceLang": "sa",
-      "locator": "Markandeya Purana 91–93"
+      "locator": "adhyayas 91–93"
     },
     {
       "id": "ws-bphs-1",
@@ -1798,7 +1798,7 @@
       ],
       "note": "Graha-shanti-varnana: the nine-cell mandala with the position of each graha (93.11–12: Surya centre, Chandra SE, Mangala S, Budha NE, Guru N, Shukra E, Shani W, Rahu SW, Ketu NW — identical to the Hindi-belt handbooks), adhidevatas and pratyadhidevatas (93.13–16), colours (93.17), the charu of each graha (93.19–20), the samidhas (93.27–28) and a different set of Vedic homa mantras for Chandra/Budha/Guru/Shukra (93.33–37). Facts cited in prose. Second source: Yajnavalkya Smriti 1.295–308 and BPHS 84.",
       "wikisourceLang": "sa",
-      "locator": "Matsya Purana 93"
+      "locator": "adhyaya 93"
     },
     {
       "id": "ia-nkpp-scan",
@@ -1983,7 +1983,7 @@
       ],
       "note": "Uttara-parva chapter 137 (Krishna–Yudhishthira dialogue on the Shravani-purnima raksha-bandhana): verses 19–20 give the raksha-bandhana mantra येन बद्धो बली राजा … तेन त्वामभिबध्नामि रक्षे मा चल मा चल — the Puranic source of the raksha-sutra verse that every Hindi-belt paddhati recites. Second source: NKPP रक्षा-विधान (reading अनुबध्नामि) and the Dwivedi paddhati (reading प्रतिबध्नामि).",
       "wikisourceLang": "sa",
-      "locator": "Bhavishya Purana 4.137.19–23"
+      "locator": "4.137.19–23"
     },
     {
       "id": "ws-vishnupurana-1-19",
@@ -2001,7 +2001,7 @@
       ],
       "note": "Vishnu Purana 1.19 (Prahlada's hymn to Vishnu): verse 65 is नमो ब्रह्मण्यदेवाय गोब्राह्मणहिताय च — the tilak verse of the raksha-vidhana (pur-vishnupurana-1-19-65). The same verse occurs in the Narada, Padma and Skanda Puranas and in the Vishnu Sahasranama preamble. Second source: NKPP रक्षा-विधान.",
       "wikisourceLang": "sa",
-      "locator": "Vishnu Purana 1.19.65"
+      "locator": "1.19.65"
     },
     {
       "id": "ws-yajnavalkya-shraddha",
@@ -2087,7 +2087,7 @@
       ],
       "note": "Narada Purana purvardha chapter 67 (the general puja-paddhati of the Purana): verses 114–117 carry the three kshama-prarthana verses recited at the end of every puja (अन्यथा शरणं नास्ति …, अपराधसहस्राणि …, आवाहनं न जानामि …) with the readings क्षमस्व परमेश्वर / क्षमस्व जगतां पते / त्वं गतिः परमेश्वर; 111 has the द्रव्यहीनं क्रियाहीनं मंत्रहीनं form. Check source for pad-avahanam-na-janami, pad-anyatha-sharanam-nasti, pad-aparadha-sahasrani (the handbook readings stand in devanagari).",
       "wikisourceLang": "sa",
-      "locator": "Narada Purana 1.67.111–118"
+      "locator": "1.67.111–118"
     },
     {
       "id": "ws-brihatsamhita-47",
@@ -2104,7 +2104,7 @@
       ],
       "note": "Varahamihira's Brihat Samhita chapter 47 (pushya-snana): verse 78 is the classical visarjana verse यान्तु देवगणाः सर्वे पूजामादाय पार्थिवात् । सिद्धिं दत्त्वा तु विपुलां पुनरागमनाय च — the oldest dated form of the paddhati visarjana (6th century). Check source for pad-yantu-devaganah-sarve.",
       "wikisourceLang": "sa",
-      "locator": "Brihat Samhita 47.78"
+      "locator": "47.78"
     },
     {
       "id": "ws-skanda-kartika-31",
@@ -2139,7 +2139,7 @@
       ],
       "note": "The Pandava Gita (Prapanna Gita), an anthology of verses of surrender spoken by the Pandavas and others: verse 12, Gandhari's त्वमेव माता च पिता त्वमेव …, is the prayer verse recited after the aarti in the Hindi-belt handbooks. Copy source of pad-tvameva-mata-cha-pita. Second source: the Gita Press handbook (parthiva-pujana, Lakshmi-pujana).",
       "wikisourceLang": "sa",
-      "locator": "Pandava Gita 12"
+      "locator": "verse 12"
     },
     {
       "id": "ws-agni-167",
@@ -2157,7 +2157,7 @@
       ],
       "note": "Agni Purana chapter 167 (dana-vidhi): verse 22 is the dakshina verse हिरण्यगर्भगर्भस्थं हेमबीजं विभावसोः । अनन्तपुण्यफलदमतः शान्तिं प्रयच्छ मे recited at the dakshina of every shodashopachara — copy source of pad-hiranyagarbha-garbhastham. Second source: the Gita Press handbook and the Dwivedi paddhati.",
       "wikisourceLang": "sa",
-      "locator": "Agni Purana 167.22"
+      "locator": "167.22"
     },
     {
       "id": "ws-baudhayana-gs-2",
@@ -2191,7 +2191,7 @@
       ],
       "note": "Dikshaprakasha, a Shaiva ritual digest: in its Shiva-dhyana it prints कर्पूरगौरं करुणावतारं … with the reading सदा रमन्तं हृदयारविन्दे (the handbooks read वसन्तं). The only Sanskrit Wikisource page carrying the verse; used as the check source of pad-karpura-gauram-karunavataram.",
       "wikisourceLang": "sa",
-      "locator": "दीक्षाप्रकाशः, शिवध्यानम्"
+      "locator": "शिवध्यानम्"
     },
     {
       "id": "ws-skanda-arunachala-1-09",
@@ -2243,7 +2243,7 @@
       ],
       "note": "Matsya Purana chapter 267 (pratishtha: snana and nirajana): 267.17–18 prescribe the nirajana and the achamana with मन्दाकिन्यास्तु यद्वारि सर्वपापापहं शुभम् — the Puranic first half of the shuddhodaka-snana verse of the handbooks. Check source of pad-mandakinyas-tu-yad-vari.",
       "wikisourceLang": "sa",
-      "locator": "Matsya Purana 267.17–18"
+      "locator": "267.17–18"
     },
     {
       "id": "ws-syv-21",
@@ -2414,6 +2414,475 @@
         "Satyanarayana puja vidhi (sanskritdocuments)"
       ],
       "note": "Unicode Devanagari Satyanarayana shodashopachara puja with English commentary, contributed by Ashok Basargekar (Maharashtra/Konkan family form built on the Purusha Sukta). Copy source for the Satyanarayan dhyana (ध्यायेत् सत्यं गुणातीतं …), the avahana (आगच्छ देव देवेश …) and the prayer सत्यनारायणं देवं वन्देऽहं …; writes word-final nasals as म् and uses ASCII . and || for the dandas (normalised, recorded in source.modified). The PD Jangamwadi pothi scan (ia-satyanarayan-jangamwadi, OCR only) confirms the dhyana, the upachara verses and the prayer in the Hindi-belt order but has no separate avahana verse — a scan, not a digital text, hence secondSourceAvailable false."
+    },
+    {
+      "id": "gp-nitya-karma-prayoga",
+      "project": "publisher",
+      "title": "Nitya Karma Prayoga, Gita Press code 139",
+      "url": "https://gitapress.org/product/nitya-karma-prayoga-a-complete-guide-to-daily-hindu-rituals-with-mantras-and-procedures-by-or-language-hindi-or-code-139",
+      "retrieved": "2026-11-01",
+      "licence": "Copyrighted Gita Press edition; bibliography entry and sequence facts only, no text reproduced (R4 section 4.5)",
+      "kind": "edition",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Nitya Karma Prayoga",
+        "नित्यकर्म प्रयोग"
+      ],
+      "publisher": "Gita Press, Gorakhpur",
+      "note": "Hindi; 128 pp.; sandhya, puja vidhi, japa, achamana, pranayama (R1 section H1)."
+    },
+    {
+      "id": "gp-sanskar-prakash",
+      "project": "publisher",
+      "title": "Sanskar Prakash (संस्कार-प्रकाश), Gita Press code 2033",
+      "url": "https://gitapress.org/product/sanskar-prakash-hindi",
+      "retrieved": "2026-11-01",
+      "licence": "Copyrighted Gita Press edition; bibliography entry and sequence facts only, no text reproduced (R4 section 4.5)",
+      "kind": "edition",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Sanskar Prakash",
+        "संस्कार-प्रकाश",
+        "संस्कार प्रकाश"
+      ],
+      "publisher": "Gita Press, Gorakhpur",
+      "note": "Hindi; 544 pp.; the Gita Press samskara manual (the brief's 'Shodash Sanskar Vidhi' is not a Gita Press title — R1 M32)."
+    },
+    {
+      "id": "gp-vivah-sanskar-paddhati",
+      "project": "publisher",
+      "title": "Vivah Sanskar Paddhati (विवाह-संस्कार-पद्धति), Gita Press code 2191",
+      "url": "https://gitapress.org/product/vivah-sanskar-paddhati-hindi",
+      "retrieved": "2026-11-01",
+      "licence": "Copyrighted Gita Press edition; bibliography entry and sequence facts only, no text reproduced (R4 section 4.5)",
+      "kind": "edition",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Vivah Sanskar Paddhati (Gita Press)",
+        "विवाह-संस्कार-पद्धति (गीता प्रेस)"
+      ],
+      "publisher": "Gita Press, Gorakhpur",
+      "note": "Hindi; 128 pp. (R1 section H1). The qualifier keeps the title distinct from ia-vivah-mvf (Dwivedi 2020)."
+    },
+    {
+      "id": "gp-upanayan-sanskar-paddhati",
+      "project": "publisher",
+      "title": "Upnayan Sanskar Padhati (उपनयन-संस्कार-पद्धति), Gita Press code 2183",
+      "url": "https://gitapress.org/product/upnayan-sanskar-padhati-hindi",
+      "retrieved": "2026-11-01",
+      "licence": "Copyrighted Gita Press edition; bibliography entry and sequence facts only, no text reproduced (R4 section 4.5)",
+      "kind": "edition",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Upanayan Sanskar Paddhati",
+        "उपनयन-संस्कार-पद्धति"
+      ],
+      "publisher": "Gita Press, Gorakhpur",
+      "note": "Hindi; 96 pp. (R1 section H1)."
+    },
+    {
+      "id": "gp-antyakarma-shraddha-prakash",
+      "project": "publisher",
+      "title": "Antyakarm-Saradh Prakash (अन्त्यकर्म-श्राद्धप्रकाश), Gita Press code 1593",
+      "url": "https://gitapress.org/product/antyakarm-saradh-prakash-or-language-hindi-or-code-1593",
+      "retrieved": "2026-11-01",
+      "licence": "Copyrighted Gita Press edition; bibliography entry and sequence facts only, no text reproduced (R4 section 4.5)",
+      "kind": "edition",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Antyakarma-Shraddha Prakash (Gita Press)",
+        "अंत्यकर्म-श्राद्धप्रकाश"
+      ],
+      "publisher": "Gita Press, Gorakhpur",
+      "note": "Hindi; 432 pp.; antyeshti, shraddha, tarpana (R1 section E6). The archive.org reference scan is ia-antya-gp. Hindi title spelled with the anusvara as Hindi prose requires (G10)."
+    },
+    {
+      "id": "gp-tripindi-shraddha-paddhati",
+      "project": "publisher",
+      "title": "Tripindi Shradhpadhati, Gita Press code 1928",
+      "url": "https://gitapress.org/product/tripindi-shradhpadhati-hindi",
+      "retrieved": "2026-11-01",
+      "licence": "Copyrighted Gita Press edition; bibliography entry and sequence facts only, no text reproduced (R4 section 4.5)",
+      "kind": "edition",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Tripindi Shraddha Paddhati",
+        "त्रिपिंडी श्राद्ध पद्धति"
+      ],
+      "publisher": "Gita Press, Gorakhpur",
+      "note": "Hindi; 128 pp. (R1 section H1)."
+    },
+    {
+      "id": "gp-satyanarayan-vrat-katha",
+      "project": "publisher",
+      "title": "Sri Satya Narayana-Vrata-Katha (Hindi), Gita Press code 1367",
+      "url": "https://gitapress.org/product/sri-satya-narayana-vrata-katha-hindi",
+      "retrieved": "2026-11-01",
+      "licence": "Copyrighted modern Hindi edition; bibliography entry and sequence facts only, no prose reproduced (R4 section 4.5)",
+      "kind": "edition",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Satyanarayan Vrat Katha (Gita Press)",
+        "सत्यनारायण व्रत कथा (गीता प्रेस)"
+      ],
+      "publisher": "Gita Press, Gorakhpur",
+      "note": "Hindi; 96 pp. (R1 section G). The qualifier keeps the title distinct from the katha's own name."
+    },
+    {
+      "id": "gp-rudrashtadhyayi",
+      "project": "publisher",
+      "title": "Rudrastadhyayee (रुद्राष्टाध्यायी), Gita Press code 1627",
+      "url": "https://gitapress.org/product/rudrastadhyayee-hindi",
+      "retrieved": "2026-11-01",
+      "licence": "Copyrighted Gita Press edition (Sanskrit with Hindi translation); bibliography entry only, no translation reproduced (R4 section 4.5)",
+      "kind": "edition",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Rudrashtadhyayi (Gita Press, Hindi)",
+        "रुद्राष्टाध्यायी (गीता प्रेस, हिंदी)"
+      ],
+      "publisher": "Gita Press, Gorakhpur",
+      "note": "224 pp. (R1 section F). The archive.org reference scan is ia-rudra-gp."
+    },
+    {
+      "id": "gp-garud-puran-saroddhar",
+      "project": "publisher",
+      "title": "Garud Puran Saroddhar (with simplified commentary), Gita Press code 1416",
+      "url": "https://gitapress.org/product/garud-puran-saroddhar-with-simplified-commentary-or-sacred-hindu-scripture-on-dharma-afterlife-and-liberation-or-language-hindi-or-size-medium-or-code-1416",
+      "retrieved": "2026-11-01",
+      "licence": "Copyrighted Gita Press edition; bibliography entry and chapter-numbering facts only (R4 section 4.5)",
+      "kind": "edition",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Garud Puran Saroddhar (Gita Press)",
+        "गरुड़ पुराण सारोद्धार (गीता प्रेस)"
+      ],
+      "publisher": "Gita Press, Gorakhpur",
+      "note": "Hindi; 272 pp.; the 16-chapter Saroddhara numbering the site follows (decisions.md section 2.4)."
+    },
+    {
+      "id": "gp-durga-saptashati",
+      "project": "publisher",
+      "title": "Durga Saptashati (Sanskrit, pocket, with path-vidhi), Gita Press code 876",
+      "url": "https://gitapress.org/product/durga-saptashati-or-language-sanskrit-or-code-876",
+      "retrieved": "2026-11-01",
+      "licence": "Copyrighted Gita Press edition; bibliography entry and path-vidhi sequence facts only (R4 section 4.5)",
+      "kind": "edition",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Durga Saptashati (Gita Press, Sanskrit)",
+        "दुर्गा सप्तशती (गीता प्रेस)"
+      ],
+      "publisher": "Gita Press, Gorakhpur",
+      "note": "224 pp. (R1 section H1)."
+    },
+    {
+      "id": "gp-panchang-pujan-paddhati",
+      "project": "publisher",
+      "title": "Panchang Poojan Paddhati, Gita Press code 2228",
+      "url": "https://gitapress.org/product/panchang-poojan-paddhati-hindi",
+      "retrieved": "2026-11-01",
+      "licence": "Copyrighted Gita Press edition; bibliography entry and sequence facts only (R4 section 4.5)",
+      "kind": "edition",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Panchang Pujan Paddhati",
+        "पंचांग पूजन पद्धति"
+      ],
+      "publisher": "Gita Press, Gorakhpur",
+      "note": "Hindi; 112 pp.; listed under Swami Ramsukhdas (R1 section H1)."
+    },
+    {
+      "id": "ia-muhurta-chintamani",
+      "project": "archive",
+      "title": "मुहूर्तचिन्तामणिः (Muhurta Chintamani of Rama Daivajna) — Sanskrit text scan",
+      "url": "https://archive.org/details/muhurt-chintamani",
+      "retrieved": "2026-11-01",
+      "licence": "Work public domain (composed c. 1600); scan terms uploader-asserted — cited as a reference, no text copied",
+      "kind": "reference",
+      "secondSourceAvailable": true,
+      "titles": [
+        "Muhurta Chintamani",
+        "मुहूर्त चिंतामणि"
+      ],
+      "item": "muhurt-chintamani",
+      "note": "The classical muhurta text behind the tithi/nakshatra/vara tables of reference/muhurat-rules (Shubhvela's rules corpus cites it chapter by chapter: Vivaha, Vastu, Samskara prakaranas). Second copy: 1857 lithograph with the Piyushadhara commentary, archive.org item frpz_muhurta-chintamani-of-vaidyanath-with-annotation-of-ram-1857-kriti-kant-sharma-collection (eGangotri, CC0 asserted)."
+    },
+    {
+      "id": "ia-dharmasindhu-1888",
+      "project": "archive",
+      "title": "Dharma Sindhu (Kashinath Upadhyaya, 1790), Nirnaya Sagar Press, Bombay, 1888",
+      "url": "https://archive.org/details/dharmasindhubykashinathupadhyaya1888nirnaysagarpress_498_a",
+      "retrieved": "2026-11-01",
+      "licence": "Public domain (1888 print; CC0 asserted by the uploader) — cited as a reference, no text copied",
+      "kind": "reference",
+      "secondSourceAvailable": true,
+      "titles": [
+        "Dharmasindhu",
+        "धर्मसिंधु"
+      ],
+      "item": "dharmasindhubykashinathupadhyaya1888nirnaysagarpress_498_a",
+      "publisher": "Nirnaya Sagar Press, Bombay",
+      "year": "1888",
+      "note": "Dharmashastra digest behind the tithi rules Shubhvela cites (pitru paksha, barsi, janma-tithi, adhik month, vrata-arambha). Second copy: West Bengal Public Library scan dli.bengal.10689.16406 (same 1888 edition)."
+    },
+    {
+      "id": "sacred-texts-sbe29",
+      "project": "other",
+      "title": "The Grihya Sutras, Part 1 (Sacred Books of the East 29; Oldenberg 1886) — sacred-texts.com reading copy",
+      "url": "https://sacred-texts.com/hin/sbe29/index.htm",
+      "retrieved": "2026-11-01",
+      "licence": "Public domain translation (1886); the site's own page framing is theirs — link only",
+      "kind": "link",
+      "secondSourceAvailable": true,
+      "titles": [
+        "Grihya Sutras, Part 1 (sacred-texts)",
+        "गृह्यसूत्र, भाग 1 (sacred-texts)"
+      ],
+      "note": "Readable chapter-by-chapter English of Oldenberg's Paraskara translation; the scan of record is ia-sbe29."
+    },
+    {
+      "id": "gh-pages",
+      "project": "other",
+      "title": "GitHub Pages (pages.github.com)",
+      "url": "https://pages.github.com/",
+      "retrieved": "2026-11-01",
+      "licence": "Link only — the official page of a platform, tool or standard; nothing copied",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "GitHub Pages (pages.github.com)"
+      ],
+      "note": "Cited by the C1A-17 static/reference pages (about, privacy, verification, bibliography, muhurat-rules); registered at integration on 2026-11-02 so the link audit knows the host (test/integration/links.test.mjs allows registry hosts only); URL re-checked 200 on 2026-11-02. Hosting platform of the site (about, privacy). Terms: GitHub."
+    },
+    {
+      "id": "osi-mit",
+      "project": "other",
+      "title": "The MIT License (Open Source Initiative)",
+      "url": "https://opensource.org/license/mit",
+      "retrieved": "2026-11-01",
+      "licence": "Link only — the official page of a platform, tool or standard; nothing copied",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "MIT License (Open Source Initiative)"
+      ],
+      "note": "Cited by the C1A-17 static/reference pages (about, privacy, verification, bibliography, muhurat-rules); registered at integration on 2026-11-02 so the link audit knows the host (test/integration/links.test.mjs allows registry hosts only); URL re-checked 200 on 2026-11-02. The code licence named on the about and sources pages. The MIT licence text is itself freely reproducible."
+    },
+    {
+      "id": "google-fonts-tiro-devanagari-sanskrit",
+      "project": "other",
+      "title": "Tiro Devanagari Sanskrit — Google Fonts specimen",
+      "url": "https://fonts.google.com/specimen/Tiro+Devanagari+Sanskrit",
+      "retrieved": "2026-11-01",
+      "licence": "Link only — the official page of a platform, tool or standard; nothing copied",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Tiro Devanagari Sanskrit (Google Fonts)"
+      ],
+      "note": "Cited by the C1A-17 static/reference pages (about, privacy, verification, bibliography, muhurat-rules); registered at integration on 2026-11-02 so the link audit knows the host (test/integration/links.test.mjs allows registry hosts only); URL re-checked 200 on 2026-11-02. Mantra face of the site (about, bibliography); the OFL.txt ships beside the font files. The font is under the SIL Open Font License 1.1."
+    },
+    {
+      "id": "google-fonts-noto-sans-devanagari",
+      "project": "other",
+      "title": "Noto Sans Devanagari — Google Fonts specimen",
+      "url": "https://fonts.google.com/noto/specimen/Noto+Sans+Devanagari",
+      "retrieved": "2026-11-01",
+      "licence": "Link only — the official page of a platform, tool or standard; nothing copied",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Noto Sans Devanagari (Google Fonts)"
+      ],
+      "note": "Cited by the C1A-17 static/reference pages (about, privacy, verification, bibliography, muhurat-rules); registered at integration on 2026-11-02 so the link audit knows the host (test/integration/links.test.mjs allows registry hosts only); URL re-checked 200 on 2026-11-02. Hindi/Bhojpuri prose face of the site (about, bibliography). The font is under the SIL Open Font License 1.1."
+    },
+    {
+      "id": "google-fonts-noto-sans",
+      "project": "other",
+      "title": "Noto Sans — Google Fonts specimen",
+      "url": "https://fonts.google.com/noto/specimen/Noto+Sans",
+      "retrieved": "2026-11-01",
+      "licence": "Link only — the official page of a platform, tool or standard; nothing copied",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Noto Sans (Google Fonts)"
+      ],
+      "note": "Cited by the C1A-17 static/reference pages (about, privacy, verification, bibliography, muhurat-rules); registered at integration on 2026-11-02 so the link audit knows the host (test/integration/links.test.mjs allows registry hosts only); URL re-checked 200 on 2026-11-02. Latin face of the site (about, bibliography). The font is under the SIL Open Font License 1.1."
+    },
+    {
+      "id": "mdn-localstorage",
+      "project": "other",
+      "title": "Window: localStorage property — MDN Web Docs",
+      "url": "https://developer.mozilla.org/docs/Web/API/Window/localStorage",
+      "retrieved": "2026-11-01",
+      "licence": "Link only — the official page of a platform, tool or standard; nothing copied",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "MDN Web Docs: localStorage"
+      ],
+      "note": "Cited by the C1A-17 static/reference pages (about, privacy, verification, bibliography, muhurat-rules); registered at integration on 2026-11-02 so the link audit knows the host (test/integration/links.test.mjs allows registry hosts only); URL re-checked 200 on 2026-11-02. Explains the browser storage named on the privacy page (design section 9.3 keys). MDN prose is CC BY-SA 2.5."
+    },
+    {
+      "id": "mdn-cachestorage",
+      "project": "other",
+      "title": "CacheStorage — MDN Web Docs",
+      "url": "https://developer.mozilla.org/docs/Web/API/CacheStorage",
+      "retrieved": "2026-11-01",
+      "licence": "Link only — the official page of a platform, tool or standard; nothing copied",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "MDN Web Docs: CacheStorage"
+      ],
+      "note": "Cited by the C1A-17 static/reference pages (about, privacy, verification, bibliography, muhurat-rules); registered at integration on 2026-11-02 so the link audit knows the host (test/integration/links.test.mjs allows registry hosts only); URL re-checked 200 on 2026-11-02. Explains where the offline copies of the service worker live (privacy page). MDN prose is CC BY-SA 2.5."
+    },
+    {
+      "id": "nodejs",
+      "project": "other",
+      "title": "Node.js (nodejs.org)",
+      "url": "https://nodejs.org/",
+      "retrieved": "2026-11-01",
+      "licence": "Link only — the official page of a platform, tool or standard; nothing copied",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Node.js"
+      ],
+      "note": "Cited by the C1A-17 static/reference pages (about, privacy, verification, bibliography, muhurat-rules); registered at integration on 2026-11-02 so the link audit knows the host (test/integration/links.test.mjs allows registry hosts only); URL re-checked 200 on 2026-11-02. The runtime the site's generator runs on (bibliography, tools and standards). Terms: OpenJS Foundation."
+    },
+    {
+      "id": "playwright",
+      "project": "other",
+      "title": "Playwright (playwright.dev)",
+      "url": "https://playwright.dev/",
+      "retrieved": "2026-11-01",
+      "licence": "Link only — the official page of a platform, tool or standard; nothing copied",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Playwright"
+      ],
+      "note": "Cited by the C1A-17 static/reference pages (about, privacy, verification, bibliography, muhurat-rules); registered at integration on 2026-11-02 so the link audit knows the host (test/integration/links.test.mjs allows registry hosts only); URL re-checked 200 on 2026-11-02. The browser-automation tool of the site's layout audit (verification, bibliography). Documentation under Apache-2.0."
+    },
+    {
+      "id": "lighthouse",
+      "project": "other",
+      "title": "Lighthouse overview — Chrome for Developers",
+      "url": "https://developer.chrome.com/docs/lighthouse/overview",
+      "retrieved": "2026-11-01",
+      "licence": "Link only — the official page of a platform, tool or standard; nothing copied",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Lighthouse"
+      ],
+      "note": "Cited by the C1A-17 static/reference pages (about, privacy, verification, bibliography, muhurat-rules); registered at integration on 2026-11-02 so the link audit knows the host (test/integration/links.test.mjs allows registry hosts only); URL re-checked 200 on 2026-11-02. The performance/accessibility report taken on every live release (verification, bibliography). Chrome for Developers docs are CC BY 4.0."
+    },
+    {
+      "id": "w3c-wcag22",
+      "project": "other",
+      "title": "Web Content Accessibility Guidelines (WCAG) 2.2 — W3C Recommendation",
+      "url": "https://www.w3.org/TR/WCAG22/",
+      "retrieved": "2026-11-01",
+      "licence": "Link only — the official page of a platform, tool or standard; nothing copied",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "WCAG 2.2"
+      ],
+      "note": "Cited by the C1A-17 static/reference pages (about, privacy, verification, bibliography, muhurat-rules); registered at integration on 2026-11-02 so the link audit knows the host (test/integration/links.test.mjs allows registry hosts only); URL re-checked 200 on 2026-11-02. The accessibility standard the audit measures against (verification, bibliography). W3C Document Licence."
+    },
+    {
+      "id": "iana-language-subtag-registry",
+      "project": "other",
+      "title": "IANA Language Subtag Registry",
+      "url": "https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry",
+      "retrieved": "2026-11-01",
+      "licence": "Link only — the official page of a platform, tool or standard; nothing copied",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "IANA subtag registry",
+        "IANA Language Subtag Registry"
+      ],
+      "note": "Cited by the C1A-17 static/reference pages (about, privacy, verification, bibliography, muhurat-rules); registered at integration on 2026-11-02 so the link audit knows the host (test/integration/links.test.mjs allows registry hosts only); URL re-checked 200 on 2026-11-02. Source of the bho tag and the deprecation of bh (verification, bibliography). IANA registry data."
+    },
+    {
+      "id": "google-localized-versions",
+      "project": "other",
+      "title": "Localized versions of your pages (hreflang) — Google Search Central",
+      "url": "https://developers.google.com/search/docs/specialty/international/localized-versions",
+      "retrieved": "2026-11-01",
+      "licence": "Link only — the official page of a platform, tool or standard; nothing copied",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Google Search Central: localized versions"
+      ],
+      "note": "Cited by the C1A-17 static/reference pages (about, privacy, verification, bibliography, muhurat-rules); registered at integration on 2026-11-02 so the link audit knows the host (test/integration/links.test.mjs allows registry hosts only); URL re-checked 200 on 2026-11-02. Basis of the hreflang policy (hi, en, x-default; Bhojpuri omitted because Google accepts ISO 639-1 codes only) stated on the verification page. Google Search Central docs are CC BY 4.0."
+    },
+    {
+      "id": "mypanchang-holashtak",
+      "project": "other",
+      "title": "Holashtak — mypanchang.com",
+      "url": "https://www.mypanchang.com/holashtak.php",
+      "retrieved": "2026-11-01",
+      "licence": "© mypanchang.com; practice facts only, nothing copied; link only",
+      "kind": "reference",
+      "secondSourceAvailable": false,
+      "titles": [
+        "mypanchang — Holashtak",
+        "mypanchang — होलाष्टक"
+      ],
+      "note": "Cited by the C1A-17 static/reference pages (about, privacy, verification, bibliography, muhurat-rules); registered at integration on 2026-11-02 so the link audit knows the host (test/integration/links.test.mjs allows registry hosts only); URL re-checked 200 on 2026-11-02. Convergent practice source for the Holashtak prohibition on the muhurat-rules page (seen 2026-11-01)."
+    },
+    {
+      "id": "mypanchang-guru-asta",
+      "project": "other",
+      "title": "Guru and Shukra asta (combustion) — mypanchang.com",
+      "url": "https://www.mypanchang.com/gurumodhyami.php",
+      "retrieved": "2026-11-01",
+      "licence": "© mypanchang.com; practice facts only, nothing copied; link only",
+      "kind": "reference",
+      "secondSourceAvailable": false,
+      "titles": [
+        "mypanchang — Guru asta",
+        "mypanchang — गुरु अस्त"
+      ],
+      "note": "Cited by the C1A-17 static/reference pages (about, privacy, verification, bibliography, muhurat-rules); registered at integration on 2026-11-02 so the link audit knows the host (test/integration/links.test.mjs allows registry hosts only); URL re-checked 200 on 2026-11-02. Convergent practice source for the Jupiter/Venus-set prohibition on the muhurat-rules page (seen 2026-11-01)."
+    },
+    {
+      "id": "enwp-chaturmasya",
+      "project": "other",
+      "title": "Chaturmasya (English Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Chaturmasya",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (Wikipedia text); practice facts only, nothing copied",
+      "kind": "reference",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Wikipedia — Chaturmasya",
+        "विकिपीडिया — चातुर्मास"
+      ],
+      "note": "Cited by the C1A-17 static/reference pages (about, privacy, verification, bibliography, muhurat-rules); registered at integration on 2026-11-02 so the link audit knows the host (test/integration/links.test.mjs allows registry hosts only); URL re-checked 200 on 2026-11-02. Convergent practice source for the Chaturmas bounds (Devshayani to Dev Uthani Ekadashi) on the muhurat-rules page (seen 2026-11-01)."
+    },
+    {
+      "id": "enwp-adhik-maas",
+      "project": "other",
+      "title": "Adhik Maas (English Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Adhik_Maas",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (Wikipedia text); practice facts only, nothing copied",
+      "kind": "reference",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Wikipedia — Adhik Maas",
+        "विकिपीडिया — अधिक मास"
+      ],
+      "note": "Cited by the C1A-17 static/reference pages (about, privacy, verification, bibliography, muhurat-rules); registered at integration on 2026-11-02 so the link audit knows the host (test/integration/links.test.mjs allows registry hosts only); URL re-checked 200 on 2026-11-02. Convergent practice source for the intercalary-month rule on the muhurat-rules page (seen 2026-11-01)."
     }
   ]
 }

@@ -44,7 +44,8 @@ small, .small { font-size: var(--fs-small); }
 .prose { max-width: var(--measure); }
 .prose > :last-child { margin-bottom: 0; }
 hr.rule { border: 0; border-top: 1px solid var(--hair); margin: var(--gap) 0; }
-.table-wrap { overflow-x: auto; max-width: 100%; }
+/* position: relative — contains the absolutely positioned .sr spans of external links inside a wide table; without it their 1-px boxes sit at the table's x-positions in the body and extend the document under the WCAG text-spacing override (UI-27, C1A-17 en/sources at 390) */
+.table-wrap { overflow-x: auto; max-width: 100%; position: relative; }
 
 .container { padding-inline: var(--gutter); }
 .stack > * + * { margin-top: var(--gap); }
