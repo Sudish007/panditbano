@@ -223,16 +223,27 @@
   },
   "counts": {
     "occasions": "{n} occasions",
+    "occasions_one": "{n} occasion",
     "mantras": "{n} mantras",
+    "mantras_one": "{n} mantra",
     "verses": "{n} verses",
+    "verses_one": "{n} verse",
     "terms": "{n} terms",
+    "terms_one": "{n} term",
     "chapters": "{n} chapters",
+    "chapters_one": "{n} chapter",
     "kathas": "{n} kathas",
+    "kathas_one": "{n} katha",
     "lessons": "{n} lessons",
+    "lessons_one": "{n} lesson",
     "levels": "{n} levels",
+    "levels_one": "{n} level",
     "groups": "{n} groups",
+    "groups_one": "{n} group",
     "pages": "{n} pages",
-    "sources": "{n} sources"
+    "pages_one": "{n} page",
+    "sources": "{n} sources",
+    "sources_one": "{n} source"
   },
   "home": {
     "start_learning": "Start learning",

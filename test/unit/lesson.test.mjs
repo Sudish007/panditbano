@@ -131,7 +131,10 @@ test("Level 0 page: institutions table with every registry name linked (UI-19), 
     assert.ok(s.includes('data-page="learn-level"'));
   }
   const hi = level("hi", 0);
-  assert.ok(hi.includes('<td lang="en">') && hi.includes("पुष्टि बाकी") && hi.includes("पृष्ठ पर पुष्ट"), "status chips and English data cells");
+  assert.ok(hi.includes("पुष्टि बाकी") && hi.includes("पृष्ठ पर पुष्ट"), "status chips");
+  // FIX-1a: course / duration cells in the page language, not English-only
+  for (const lang of ["hi", "en", "bho"]) { const s = level(lang, 0); for (const i of inst) assert.ok(s.includes(`<td>${i.course[lang]}</td>`) && s.includes(`<td>${i.duration[lang]}</td>`), `${lang}: ${i.id} course/duration cells`); }
+  assert.ok(!hi.includes('<td lang="en">'), "no English-only data cells on hi");
   assert.ok(hi.includes("2026-11-01"), "registry date in the note");
   assert.equal(institutionsTable("hi", null), "");
   assert.equal(institutionsTable("hi", { institutions: [] }), "");

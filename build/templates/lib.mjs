@@ -59,6 +59,14 @@ export function t(lang, key, vars) {
     if (cur === undefined) throw new Error(`UI string ${lang}:${key} missing`);
   }
   if (typeof cur !== "string") throw new Error(`UI string ${lang}:${key} is not a string`);
+  // singular form: when {n} is 1 (any script) and a sibling key "<key>_one" exists, it wins ("1 term", not "1 terms" — FIX-1a)
+  if (vars && vars.n !== undefined && /^[1१]$/.test(String(vars.n))) {
+    const parts = key.split("."), last = parts.pop();
+    let parent = getUI(lang);
+    for (const k of parts) parent = parent?.[k];
+    const one = parent?.[`${last}_one`];
+    if (typeof one === "string") cur = one;
+  }
   return vars ? cur.replace(/\{(\w+)\}/g, (m, k) => (vars[k] === undefined ? m : String(vars[k]))) : cur;
 }
 

@@ -223,16 +223,27 @@
   },
   "counts": {
     "occasions": "{n} अवसर",
+    "occasions_one": "{n} अवसर",
     "mantras": "{n} मंत्र",
+    "mantras_one": "{n} मंत्र",
     "verses": "{n} श्लोक",
+    "verses_one": "{n} श्लोक",
     "terms": "{n} शब्द",
+    "terms_one": "{n} शब्द",
     "chapters": "{n} अध्याय",
+    "chapters_one": "{n} अध्याय",
     "kathas": "{n} कथाएँ",
+    "kathas_one": "{n} कथा",
     "lessons": "{n} पाठ",
+    "lessons_one": "{n} पाठ",
     "levels": "{n} स्तर",
+    "levels_one": "{n} स्तर",
     "groups": "{n} समूह",
+    "groups_one": "{n} समूह",
     "pages": "{n} पृष्ठ",
-    "sources": "{n} स्रोत"
+    "pages_one": "{n} पृष्ठ",
+    "sources": "{n} स्रोत",
+    "sources_one": "{n} स्रोत"
   },
   "home": {
     "start_learning": "सीखना शुरू करें",

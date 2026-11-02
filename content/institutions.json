@@ -12,8 +12,16 @@
         "सम्पूर्णानन्द संस्कृत विश्वविद्यालय",
         "संपूर्णानंद संस्कृत विश्वविद्यालय"
       ],
-      "course": "3-month and 6-month Karmakand Certificate; 1-year Karmakand Diploma; Shastri/Acharya with Shukla Yajurveda and Paurohitya",
-      "duration": "3 / 6 / 12 months; eligibility not stated on the page (UNCERTAIN)",
+      "course": {
+        "hi": "३-माह और ६-माह का कर्मकांड प्रमाणपत्र; १-वर्ष का कर्मकांड डिप्लोमा; शुक्ल यजुर्वेद और पौरोहित्य के साथ शास्त्री/आचार्य",
+        "en": "3-month and 6-month Karmakand Certificate; 1-year Karmakand Diploma; Shastri/Acharya with Shukla Yajurveda and Paurohitya",
+        "bho": "३-महीना आ ६-महीना के कर्मकांड प्रमानपत्र; १-बरिस के कर्मकांड डिप्लोमा; शुक्ल यजुर्वेद आ पौरोहित्य के साथे शास्त्री/आचार्य"
+      },
+      "duration": {
+        "hi": "३ / ६ / १२ माह; पात्रता पृष्ठ पर नहीं लिखी (अनिश्चित)",
+        "en": "3 / 6 / 12 months; eligibility not stated on the page (UNCERTAIN)",
+        "bho": "३ / ६ / १२ महीना; पात्रता पन्ना पर लिखल नइखे (अनिश्चित)"
+      },
       "url": "https://ssvvostc.ac.in/karmakand/",
       "urls": [
         "https://ssvv.ac.in/programs-offered"
@@ -28,8 +36,16 @@
         "केन्द्रीय संस्कृत विश्वविद्यालय",
         "केंद्रीय संस्कृत विश्वविद्यालय"
       ],
-      "course": "P.G. Diploma in Karmakanda and Paurohitya; Certificate Course in Paurohitya and Karmakanda",
-      "duration": "1 year; PG diploma implies graduation (UNCERTAIN)",
+      "course": {
+        "hi": "कर्मकांड और पौरोहित्य में पी.जी. डिप्लोमा; पौरोहित्य और कर्मकांड में प्रमाणपत्र पाठ्यक्रम",
+        "en": "P.G. Diploma in Karmakanda and Paurohitya; Certificate Course in Paurohitya and Karmakanda",
+        "bho": "कर्मकांड आ पौरोहित्य में पी.जी. डिप्लोमा; पौरोहित्य आ कर्मकांड में प्रमानपत्र पाठ्यक्रम"
+      },
+      "duration": {
+        "hi": "१ वर्ष; पी.जी. डिप्लोमा के लिए स्नातक होना अपेक्षित (अनिश्चित)",
+        "en": "1 year; PG diploma implies graduation (UNCERTAIN)",
+        "bho": "१ बरिस; पी.जी. डिप्लोमा खातिर स्नातक होखल जरूरी लागत बा (अनिश्चित)"
+      },
       "url": "https://www.csu-agartala.edu.in/pg_diploma_in_karmakanda_and_paurohitya.html",
       "urls": [
         "https://sanskrit.ac.in/syllabus_2026/cc_d_pgd_syllabus.php"
@@ -43,8 +59,16 @@
       "names": [
         "श्री लाल बहादुर शास्त्री राष्ट्रीय संस्कृत विश्वविद्यालय"
       ],
-      "course": "Diploma in Paurohitya (Karmkand); Certificate Praveshika; Acharya (Paurohitya); Ph.D.",
-      "duration": "1 year; Intermediate 10+2; total fee INR 10,050; admission by interview",
+      "course": {
+        "hi": "पौरोहित्य (कर्मकांड) में डिप्लोमा; प्रमाणपत्र प्रवेशिका; आचार्य (पौरोहित्य); पीएच.डी.",
+        "en": "Diploma in Paurohitya (Karmkand); Certificate Praveshika; Acharya (Paurohitya); Ph.D.",
+        "bho": "पौरोहित्य (कर्मकांड) में डिप्लोमा; प्रमानपत्र प्रवेशिका; आचार्य (पौरोहित्य); पीएच.डी."
+      },
+      "duration": {
+        "hi": "१ वर्ष; इंटरमीडिएट (१०+२); कुल शुल्क ₹१०,०५०; प्रवेश साक्षात्कार से",
+        "en": "1 year; Intermediate 10+2; total fee INR 10,050; admission by interview",
+        "bho": "१ बरिस; इंटरमीडिएट (१०+२); कुल फीस ₹१०,०५०; दाखिला इंटरव्यू से"
+      },
       "url": "https://www.slbsrsv.ac.in/academic/part-time-courses/diploma-advance-diploma-courses",
       "status": "fact",
       "note": "Central; Department of Paurohitya est. 1964, New Delhi."
@@ -56,8 +80,16 @@
         "जगद्गुरु रामानन्दाचार्य राजस्थान संस्कृत विश्वविद्यालय",
         "जगद्गुरु रामानंदाचार्य राजस्थान संस्कृत विश्वविद्यालय"
       ],
-      "course": "Diploma in Paurohitya Karmakanda; Short Term Course in Gram Paurohitya Training",
-      "duration": "1 year; admission window 2026-27: 21 May - 31 Oct 2026",
+      "course": {
+        "hi": "पौरोहित्य कर्मकांड में डिप्लोमा; ग्राम पौरोहित्य प्रशिक्षण का अल्पकालिक पाठ्यक्रम",
+        "en": "Diploma in Paurohitya Karmakanda; Short Term Course in Gram Paurohitya Training",
+        "bho": "पौरोहित्य कर्मकांड में डिप्लोमा; गाँव के पौरोहित्य प्रशिक्षण के छोट पाठ्यक्रम"
+      },
+      "duration": {
+        "hi": "१ वर्ष; प्रवेश २०२६-२७: २१ मई – ३१ अक्टूबर २०२६",
+        "en": "1 year; admission window 2026-27: 21 May - 31 Oct 2026",
+        "bho": "१ बरिस; दाखिला २०२६-२७: २१ मई – ३१ अक्टूबर २०२६"
+      },
       "url": "https://admission.jrrsu.in/",
       "status": "fact",
       "note": "Rajasthan state university, Jaipur."
@@ -69,8 +101,16 @@
         "उत्तराखण्ड संस्कृत विश्वविद्यालय",
         "उत्तराखंड संस्कृत विश्वविद्यालय"
       ],
-      "course": "P.G. Diploma in Paurohitya and Karmkand (Jyotish department)",
-      "duration": "PG diploma",
+      "course": {
+        "hi": "पौरोहित्य और कर्मकांड में पी.जी. डिप्लोमा (ज्योतिष विभाग)",
+        "en": "P.G. Diploma in Paurohitya and Karmkand (Jyotish department)",
+        "bho": "पौरोहित्य आ कर्मकांड में पी.जी. डिप्लोमा (ज्योतिष विभाग)"
+      },
+      "duration": {
+        "hi": "पी.जी. डिप्लोमा",
+        "en": "PG diploma",
+        "bho": "पी.जी. डिप्लोमा (स्नातक के बाद)"
+      },
       "url": "http://usvv.ac.in/faculty-veda-jyotish.php",
       "status": "fact",
       "note": "Haridwar; portal has no TLS (http allow-list)."
@@ -81,8 +121,16 @@
       "names": [
         "उत्तर प्रदेश संस्कृत संस्थान"
       ],
-      "course": "Karmkand Prashikshan Shivir (training camps); public Paurohitya teacher registry",
-      "duration": "camps, no degree",
+      "course": {
+        "hi": "कर्मकांड प्रशिक्षण शिविर; पौरोहित्य शिक्षकों की सार्वजनिक सूची",
+        "en": "Karmkand Prashikshan Shivir (training camps); public Paurohitya teacher registry",
+        "bho": "कर्मकांड प्रशिक्षण शिविर; पौरोहित्य गुरु लोग के सार्वजनिक सूची"
+      },
+      "duration": {
+        "hi": "शिविर; कोई उपाधि नहीं",
+        "en": "camps, no degree",
+        "bho": "शिविर; कवनो डिग्री नइखे"
+      },
       "url": "https://upsanskritsansthanam.in/en/page/training-scheme",
       "urls": [
         "http://upsanskritseva.in/Web/Paurohitya"
@@ -96,8 +144,16 @@
       "names": [
         "महर्षि पाणिनि संस्कृत एवं वैदिक विश्वविद्यालय"
       ],
-      "course": "Shastri/Acharya; Patropadhi (diploma) courses; a Diploma in Karmakand appears on aggregators only",
-      "duration": "official page: Content Awaited",
+      "course": {
+        "hi": "शास्त्री/आचार्य; पत्रोपाधि (डिप्लोमा) पाठ्यक्रम; कर्मकांड डिप्लोमा केवल अन्य सूचियों पर दिखता है",
+        "en": "Shastri/Acharya; Patropadhi (diploma) courses; a Diploma in Karmakand appears on aggregators only",
+        "bho": "शास्त्री/आचार्य; पत्रोपाधि (डिप्लोमा) पाठ्यक्रम; कर्मकांड डिप्लोमा खाली दोसरा सूची पर लउकत बा"
+      },
+      "duration": {
+        "hi": "आधिकारिक पृष्ठ: सामग्री प्रतीक्षित",
+        "en": "official page: Content Awaited",
+        "bho": "आधिकारिक पन्ना: सामग्री अबहीं आइल नइखे"
+      },
       "url": "https://www.mpsvv.ac.in/index.php/en/admission",
       "status": "to-confirm",
       "note": "MP state university, Ujjain."
@@ -108,8 +164,16 @@
       "names": [
         "कामेश्वर सिंह दरभंगा संस्कृत विश्वविद्यालय"
       ],
-      "course": "Upshastri/Shastri/Acharya; Veda faculties",
-      "duration": "Karmakanda diploma not seen",
+      "course": {
+        "hi": "उपशास्त्री/शास्त्री/आचार्य; वेद संकाय",
+        "en": "Upshastri/Shastri/Acharya; Veda faculties",
+        "bho": "उपशास्त्री/शास्त्री/आचार्य; वेद के संकाय"
+      },
+      "duration": {
+        "hi": "कर्मकांड डिप्लोमा नहीं मिला",
+        "en": "Karmakanda diploma not seen",
+        "bho": "कर्मकांड डिप्लोमा ना मिलल"
+      },
       "url": "https://ksdsu.bihar.gov.in/",
       "status": "to-confirm",
       "note": "Bihar state university, Darbhanga."
@@ -120,8 +184,16 @@
       "names": [
         "ज्ञान प्रबोधिनी"
       ],
-      "course": "Paurohitya training for women and men of all castes since 1990",
-      "duration": "cited on Level 0 as the open-access precedent",
+      "course": {
+        "hi": "१९९० से सभी जातियों की स्त्रियों और पुरुषों के लिए पौरोहित्य प्रशिक्षण",
+        "en": "Paurohitya training for women and men of all castes since 1990",
+        "bho": "१९९० से सभ जाति के मेहरारू आ मरद खातिर पौरोहित्य प्रशिक्षण"
+      },
+      "duration": {
+        "hi": "स्तर ० पर खुली पहुँच की मिसाल के रूप में उद्धृत",
+        "en": "cited on Level 0 as the open-access precedent",
+        "bho": "स्तर ० पर खुला पहुँच के नजीर के रूप में बतावल"
+      },
       "url": "https://www.jnanaprabodhini.org/paurohitya/",
       "status": "fact",
       "note": "Pune (R4 S46; R4 section 8.3 rule 2)."

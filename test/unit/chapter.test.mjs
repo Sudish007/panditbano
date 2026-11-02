@@ -127,7 +127,7 @@ test("unpublished chapter 2 is neither routed nor counted: texts index shows 1 �
   assert.equal(tx.allChapters.length, 2);
   assert.equal(tx.chapters.length, 1);
   assert.equal(textCounts("hi", tx), "1 अध्याय · 3 श्लोक");
-  assert.equal(textCounts("en", tx), "1 chapters · 3 verses");
+  assert.equal(textCounts("en", tx), "1 chapter · 3 verses"); // singular via counts.chapters_one (FIX-1a)
   assert.ok(!C.routes.hi.some((r) => r.path === "texts/rudrashtadhyayi/2/"));
   const idx = textsIndexPage(ctx, { route: C.routeOf("hi", "texts-index"), texts: C.data.texts, counts: C.derived.counts }).toString();
   assert.equal(count(idx, /<h1[\s>]/g), 1);

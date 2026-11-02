@@ -265,7 +265,8 @@ export function validateSources(v) {
 }
 
 const institution = obj({
-  id: id(), name: str({ max: 200 }), names: arr(str({ max: 200 }), { max: 10, unique: true }), course: str({ max: 300 }), duration: str({ max: 200 }),
+  // course / duration are hi/en/bho (FIX-1a: the Level 0 table read English-only on hi/bho)
+  id: id(), name: str({ max: 200 }), names: arr(str({ max: 200 }), { max: 10, unique: true }), course: tri({ max: 300 }), duration: tri({ max: 200 }),
   url: url(), urls: arr(url(), { max: 5 }), status: en(["fact", "to-confirm", "uncertain"]), note: str({ max: 600 }),
 }, ["id", "name", "course", "url", "status"]);
 export function validateInstitutions(v) {

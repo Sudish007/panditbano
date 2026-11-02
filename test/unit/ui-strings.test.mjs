@@ -92,5 +92,11 @@ test("t() substitutes vars and throws on a missing key", () => {
   loadUI(join(ROOT, "content"));
   assert.equal(t("hi", "theme.light"), "हल्की");
   assert.equal(t("en", "counts.occasions", { n: 12 }), "12 occasions");
+  // singular via the "<key>_one" sibling when n is 1 in any script (FIX-1a: "1 terms" on a glossary letter group)
+  assert.equal(t("en", "counts.terms", { n: 1 }), "1 term");
+  assert.equal(t("en", "counts.terms", { n: "1" }), "1 term");
+  assert.equal(t("hi", "counts.kathas", { n: "१" }), "१ कथा");
+  assert.equal(t("hi", "counts.kathas", { n: "२" }), "२ कथाएँ");
+  assert.ok(t("hi", "learn.level_n", { n: "१" }).includes("१"), "no _one sibling → the plain string with {n} substituted");
   assert.throws(() => t("hi", "nope.key"), /missing/);
 });

@@ -13,6 +13,9 @@ const shortHost = (u) => String(u).replace(/^https?:\/\//, "").replace(/\/.*$/, 
 /** Display name of an institution in the page language: the first Devanagari name for hi/bho, the English name for en. */
 export const institutionName = (inst, lang) => (lang === "en" ? inst.name : (Array.isArray(inst.names) && inst.names[0]) || inst.name);
 
+/** A {hi,en,bho} registry field in the page language (a plain string, from an older registry, is used as-is). */
+const triOf = (v, lang) => (v && typeof v === "object" ? v[lang] || v.hi || "" : v || "");
+
 /** The institutions table (Level 0). Returns "" when the registry is absent. */
 export function institutionsTable(lang, institutions, { id = "institutions" } = {}) {
   const list = institutions && Array.isArray(institutions.institutions) ? institutions.institutions : [];
@@ -25,8 +28,8 @@ export function institutionsTable(lang, institutions, { id = "institutions" } = 
 <thead><tr><th scope="col">${t(lang, "learn.inst_name")}</th><th scope="col">${t(lang, "learn.inst_course")}</th><th scope="col">${t(lang, "learn.inst_duration")}</th><th scope="col">${t(lang, "learn.inst_status")}</th></tr></thead>
 <tbody>${list.map((i) => html`<tr data-institution="${i.id}">
 <th scope="row">${extLink(lang, i.url, institutionName(i, lang))}${Array.isArray(i.urls) && i.urls.length ? html`<span class="small alt-urls">${i.urls.map((u) => html` · ${extLink(lang, u, shortHost(u))}`)}</span>` : ""}</th>
-<td lang="en">${i.course}</td>
-<td lang="en">${i.duration || ""}</td>
+<td>${triOf(i.course, lang)}</td>
+<td>${triOf(i.duration, lang)}</td>
 <td><span class="chip ${STATUS_CHIP[i.status] || "chip-lok"}">${t(lang, `learn.${STATUS_KEY[i.status] || "inst_uncertain"}`)}</span></td>
 </tr>`)}</tbody>
 </table></div>

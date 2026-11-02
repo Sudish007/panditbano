@@ -389,7 +389,9 @@ details.faq .prose { padding-bottom: 14px; }
 
 /* learn / quiz */
 .quiz fieldset { border: 1px solid var(--hair); border-radius: var(--radius); padding: clamp(14px, 1.4vw, 24px); margin: 0 0 var(--gap); background: var(--surface); }
-.quiz legend { font-weight: 600; padding: 0 6px; }
+/* the legend sits INSIDE the frame as a block (float + full width): a two-line question no longer straddles the top border at 390 (FIX-1a) */
+.quiz legend { font-weight: 600; padding: 0; float: left; width: 100%; margin: 0 0 8px; }
+.quiz fieldset > :not(legend) { clear: both; }
 .opt { display: flex; align-items: center; gap: 12px; min-height: var(--control-h); padding: 4px 12px; border: 1px solid var(--hair); border-radius: var(--radius-s); margin: 8px 0; cursor: pointer; }
 .opt input { width: 22px; height: 22px; margin: 0; accent-color: var(--accent); flex: none; }
 .opt.correct { border-color: var(--good); }
