@@ -1,0 +1,67 @@
+[
+  {
+    "level": 0,
+    "title": {
+      "hi": "स्तर 0 — परिचय",
+      "en": "Level 0 — Orientation",
+      "bho": "स्तर 0 — परिचय"
+    },
+    "summary": {
+      "hi": "पुरोहित कौन है, कौन-सी परंपरा, कौन-से ग्रंथ, और सीखने के औपचारिक रास्ते।",
+      "en": "Who a purohit is, which tradition, which texts, and the formal routes to learning.",
+      "bho": "पुरोहित के हवें, कवन परंपरा, कवन ग्रंथ, आ सीखे के औपचारिक रास्ता।"
+    }
+  },
+  {
+    "level": 1,
+    "title": {
+      "hi": "स्तर 1 — उच्चारण",
+      "en": "Level 1 — Pronunciation",
+      "bho": "स्तर 1 — उच्चारन"
+    },
+    "summary": {
+      "hi": "वर्णमाला, उच्चारण के स्थान, विसर्ग और अनुस्वार, संयुक्ताक्षर, वैदिक स्वर चिह्न, और हिंदी बोलने वालों की आम भूलें।",
+      "en": "The alphabet, the points of articulation, visarga and anusvara, conjuncts, the Vedic svara marks, and the common slips of Hindi speakers.",
+      "bho": "वर्णमाला, उच्चारन के जगह, विसर्ग आ अनुस्वार, संयुक्त अक्षर, वैदिक स्वर चिह्न, आ हिंदी बोले वाला लोग के आम भूल।"
+    }
+  },
+  {
+    "level": 2,
+    "title": {
+      "hi": "स्तर 2 — कर्मकांड का व्याकरण",
+      "en": "Level 2 — The grammar of ritual",
+      "bho": "स्तर 2 — कर्मकांड के व्याकरन"
+    },
+    "summary": {
+      "hi": "हर अवसर में दोहराई जाने वाली विधियाँ — आचमन से विसर्जन तक, संकल्प, कलश, नवग्रह, हवन — एक पाठ्यक्रम के रूप में।",
+      "en": "The procedures every occasion repeats — from achamana to visarjana, the sankalpa, the kalash, the nine planets, the havan — taught as a course.",
+      "bho": "हर अवसर में दोहरावे वाला विधि — आचमन से विसर्जन ले, संकल्प, कलश, नवग्रह, हवन — एगो पाठ्यक्रम के रूप में।"
+    }
+  },
+  {
+    "level": 3,
+    "title": {
+      "hi": "स्तर 3 — अवसरों की प्लेबुक",
+      "en": "Level 3 — Occasion playbooks",
+      "bho": "स्तर 3 — अवसर के प्लेबुक"
+    },
+    "summary": {
+      "hi": "हर अवसर को शुरू से अंत तक कैसे चलाया जाता है — क्रम, समय की चाल, और पंडित की चेकलिस्ट।",
+      "en": "How to run each occasion from start to finish — the sequence, the pacing, and the pandit's checklist.",
+      "bho": "हर अवसर के सुरू से अंत ले कइसे चलावल जाला — क्रम, समय के चाल, आ पंडित के चेकलिस्ट।"
+    }
+  },
+  {
+    "level": 4,
+    "title": {
+      "hi": "स्तर 4 — उन्नत विधियाँ",
+      "en": "Level 4 — Advanced rites",
+      "bho": "स्तर 4 — आगे के विधि"
+    },
+    "summary": {
+      "hi": "श्राद्ध, अंत्येष्टि, विवाह, रुद्राभिषेक और लंबे पाठ वाले अनुष्ठान — जिनमें पाठ और क्रम दोनों साधने होते हैं।",
+      "en": "Shraddha, antyeshti, the wedding, Rudrabhisheka and the rites built around a long recitation — where both the text and the sequence must be mastered.",
+      "bho": "श्राद्ध, अंत्येष्टि, बियाह, रुद्राभिषेक आ लमहर पाठ वाला अनुष्ठान — जेह में पाठ आ क्रम दुनो साधे के पड़ेला।"
+    }
+  }
+]

@@ -1,0 +1,275 @@
+{
+  "id": "l0-02-parampara-madhyandin",
+  "level": 0,
+  "order": 2,
+  "title": {
+    "hi": "परंपरा: शुक्ल यजुर्वेद, माध्यंदिन शाखा",
+    "en": "The tradition: Shukla Yajurveda, Madhyandina branch",
+    "bho": "परंपरा: शुक्ल यजुर्वेद के माध्यंदिन शाखा"
+  },
+  "summary": {
+    "hi": "यह साइट शुक्ल यजुर्वेद की माध्यंदिन शाखा और पारस्कर के गृह्यसूत्र को आधार क्यों मानती है, हर विधि की तीन परतें कौन-सी हैं, और क्षेत्र कहाँ अलग पड़ते हैं।",
+    "en": "Why this site follows the Madhyandina branch of the Shukla Yajurveda with Paraskara's household sutra as its backbone, what the three layers of a rite are, and where the regions differ.",
+    "bho": "ई साइट शुक्ल यजुर्वेद के माध्यंदिन शाखा आ पारस्कर के गृह्यसूत्र के आधार काहे मानेले, हर विधि के तीन परत कवन बा, आ इलाका कहाँ अलग पड़ेला।"
+  },
+  "quiz": [
+    {
+      "q": {
+        "hi": "हिंदी-भाषी क्षेत्र के अधिकतर कुल-पुरोहित शुक्ल यजुर्वेद की कौन-सी शाखा मानते हैं?",
+        "en": "Which recension of the Shukla Yajurveda do most Hindi-belt family purohits follow?",
+        "bho": "हिंदी-भाषी इलाका के बेसी कुल-पुरोहित शुक्ल यजुर्वेद के कवन शाखा मानेलन?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "hi": "माध्यंदिन",
+            "en": "Madhyandina",
+            "bho": "माध्यंदिन"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "hi": "काण्व",
+            "en": "Kanva",
+            "bho": "काण्व"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "hi": "तैत्तिरीय",
+            "en": "Taittiriya",
+            "bho": "तैत्तिरीय"
+          }
+        }
+      ],
+      "answer": "a",
+      "feedback": {
+        "ok": {
+          "hi": "सही — माध्यंदिन पूरे उत्तर भारत में पढ़ी जाती है; काण्व पूर्व और दक्षिण में है, तैत्तिरीय कृष्ण यजुर्वेद की शाखा है।",
+          "en": "Right — Madhyandina is recited across North India; Kanva lives in the east and south, and Taittiriya is a Krishna Yajurveda school.",
+          "bho": "सही — माध्यंदिन पूरा उत्तर भारत में पढ़ल जाला; काण्व पूरब आ दक्खिन में बा, तैत्तिरीय कृष्ण यजुर्वेद के शाखा बा।"
+        },
+        "no": {
+          "hi": "नहीं — उत्तर भारत माध्यंदिन शाखा पढ़ता है; काण्व पूर्व और दक्षिण की है, तैत्तिरीय कृष्ण यजुर्वेद की।",
+          "en": "No — North India recites the Madhyandina recension; Kanva is eastern and southern, and Taittiriya belongs to the Krishna Yajurveda.",
+          "bho": "ना — उत्तर भारत माध्यंदिन शाखा पढ़ेला; काण्व पूरब आ दक्खिन के बा, तैत्तिरीय कृष्ण यजुर्वेद के।"
+        }
+      }
+    },
+    {
+      "q": {
+        "hi": "इस साइट पर घर की विधियों का क्रम कौन-सा ग्रंथ तय करता है?",
+        "en": "Which text fixes the order of the household rites on this site?",
+        "bho": "एह साइट पर घर के विधि के क्रम कवन ग्रंथ तय करेला?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "hi": "पारस्कर गृह्यसूत्र",
+            "en": "The Paraskara Grihya Sutra",
+            "bho": "पारस्कर गृह्यसूत्र"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "hi": "गरुड़ पुराण",
+            "en": "The Garuda Purana",
+            "bho": "गरुड़ पुराण"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "hi": "मनुस्मृति",
+            "en": "The Manusmriti",
+            "bho": "मनुस्मृति"
+          }
+        }
+      ],
+      "answer": "a",
+      "feedback": {
+        "ok": {
+          "hi": "सही — पारस्कर का सूत्र शुक्ल यजुर्वेद का है और इसी संहिता के मंत्र उद्धृत करता है।",
+          "en": "Right — Paraskara's sutra belongs to the Shukla Yajurveda and quotes this Samhita's mantras.",
+          "bho": "सही — पारस्कर के सूत्र शुक्ल यजुर्वेद के बा आ एही संहिता के मंत्र उद्धृत करेला।"
+        },
+        "no": {
+          "hi": "नहीं — क्रम पारस्कर का गृह्यसूत्र देता है; पुराण और स्मृतियाँ उसके चारों ओर का ढाँचा देती हैं।",
+          "en": "No — Paraskara's household sutra gives the sequence; the Puranas and smritis supply the frame around it.",
+          "bho": "ना — क्रम पारस्कर के गृह्यसूत्र देला; पुराण आ स्मृति ओकरा चारो ओर के ढाँचा देला।"
+        }
+      }
+    },
+    {
+      "q": {
+        "hi": "विवाह में गणेश-अंबिका पूजन और कलश स्थापना किस परत के हैं?",
+        "en": "Ganesha-Ambika worship and kalash sthapana at a wedding belong to which layer?",
+        "bho": "बियाह में गणेश-अंबिका पूजन आ कलश स्थापना कवना परत के बा?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "hi": "सूत्र का वैदिक मूल",
+            "en": "The Vedic core of the sutra",
+            "bho": "सूत्र के वैदिक मूल"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "hi": "पद्धति की परत — पौराणिक ढाँचा",
+            "en": "The paddhati layer — the Puranic frame",
+            "bho": "पद्धति के परत — पौरानिक ढाँचा"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "hi": "लोकाचार — कुल का रिवाज़",
+            "en": "Lokachara — family custom",
+            "bho": "लोकाचार — कुल के रिवाज"
+          }
+        }
+      ],
+      "answer": "b",
+      "feedback": {
+        "ok": {
+          "hi": "सही — पारस्कर में दोनों नहीं हैं; पद्धतियों ने इन्हें पुराणों से जोड़ा।",
+          "en": "Right — Paraskara has neither; the handbooks added them from the Puranas.",
+          "bho": "सही — पारस्कर में दुनो नइखे; पद्धति एकरा पुराण से जोड़ल।"
+        },
+        "no": {
+          "hi": "नहीं — ये पद्धति की परत हैं: सूत्र इनका नाम नहीं लेता, पद्धतियों ने इन्हें जोड़ा।",
+          "en": "No — they are the paddhati layer: the sutra does not mention them, the handbooks added them.",
+          "bho": "ना — ई पद्धति के परत बा: सूत्र एकर नाँव ना लेला, पद्धति एकरा जोड़ल।"
+        }
+      }
+    },
+    {
+      "q": {
+        "hi": "मैथिल ब्राह्मण परिवारों में लगभग कितना हिस्सा सामवेद (छंदोग) परंपरा का है?",
+        "en": "About what share of Maithil Brahmin families follow the Samaveda (Chhandog) tradition?",
+        "bho": "मैथिल ब्राह्मण परिवार में लगभग केतना हिस्सा सामवेद (छंदोग) परंपरा के बा?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "hi": "कोई नहीं — सब पारस्कर मानते हैं",
+            "en": "None — all follow Paraskara",
+            "bho": "केहू ना — सब पारस्कर मानेलन"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "hi": "लगभग एक-चौथाई",
+            "en": "About a quarter",
+            "bho": "लगभग चौथाई हिस्सा"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "hi": "लगभग सभी",
+            "en": "Nearly all",
+            "bho": "लगभग सब"
+          }
+        }
+      ],
+      "answer": "b",
+      "feedback": {
+        "ok": {
+          "hi": "सही — इसलिए साइट हर मैथिल परिवार के लिए पारस्कर नहीं मान लेती।",
+          "en": "Right — which is why the site never assumes Paraskara for every Maithil household.",
+          "bho": "सही — एही से साइट हर मैथिल परिवार खातिर पारस्कर ना मान लेले।"
+        },
+        "no": {
+          "hi": "नहीं — लगभग एक-चौथाई छंदोग (सामवेदी) हैं; बाकी वाजसनेयि।",
+          "en": "No — about a quarter are Chhandog (Samavedic); the rest are Vajasaneyi.",
+          "bho": "ना — लगभग एक-चौथाई छंदोग (सामवेदी) बाड़न; बाकी वाजसनेयि।"
+        }
+      }
+    },
+    {
+      "q": {
+        "hi": "विधि के क्षेत्रीय अंतर को साइट क्या कहती है?",
+        "en": "What does the site call a regional difference in a rite?",
+        "bho": "विधि के इलाकाई अंतर के साइट का कहेले?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "hi": "भिन्न रूप, जिसका प्रमाण सूत्र का अपना ग्राम-वचन वाला सूत्र है",
+            "en": "A variant, warranted by the sutra's own clause on the village's word",
+            "bho": "अलग रूप, जेकर प्रमान सूत्र के आपन ग्राम-वचन वाला सूत्र बा"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "hi": "सुधारने योग्य भूल",
+            "en": "An error to be corrected",
+            "bho": "सुधारे वाला भूल"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "hi": "बाद का विकार",
+            "en": "A later corruption",
+            "bho": "बाद के बिगाड़"
+          }
+        }
+      ],
+      "answer": "a",
+      "feedback": {
+        "ok": {
+          "hi": "सही — पारस्कर 1.8.11–13: विवाह और श्मशान में ग्राम ही प्रमाण है।",
+          "en": "Right — Paraskara 1.8.11–13: at weddings and funerals the village is the authority.",
+          "bho": "सही — पारस्कर 1.8.11–13: बियाह आ मसान में गाँव ही प्रमान बा।"
+        },
+        "no": {
+          "hi": "नहीं — भिन्न रूप, भूल कभी नहीं; सूत्र स्वयं कहता है कि ग्राम का वचन प्रमाण है।",
+          "en": "No — variants, never errors; the sutra itself says the village's word is the authority.",
+          "bho": "ना — अलग रूप, भूल कबो ना; सूत्र खुदे कहेला कि गाँव के वचन प्रमान बा।"
+        }
+      }
+    }
+  ],
+  "related": {
+    "occasions": [
+      "vivah",
+      "ganesh-ambika-pujan",
+      "kalash-sthapana",
+      "nandi-shraddh",
+      "raksha-sutra"
+    ],
+    "mantras": [
+      "vs-36-3",
+      "pgs-1-8-11-13"
+    ],
+    "terms": [
+      "yajurved",
+      "grihya-sutra",
+      "svara",
+      "paddhati",
+      "ved"
+    ],
+    "lessons": [
+      "l0-01-purohit-kaun",
+      "l0-03-granth-paddhati-pothi"
+    ]
+  },
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "id": "l0-04-aupcharik-marg",
+  "level": 0,
+  "order": 4,
+  "title": {
+    "hi": "औपचारिक रास्ते",
+    "en": "The formal routes",
+    "bho": "औपचारिक रास्ता"
+  },
+  "summary": {
+    "hi": "आज लोग पुरोहित कैसे बनते हैं: घर या गुरु की सीख, संस्कृत उपाधियों की सीढ़ी, एक वर्ष के डिप्लोमा और छोटे पाठ्यक्रम — स्तर 0 के पृष्ठ पर संस्थानों की तालिका के साथ।",
+    "en": "How people become purohits today: the family or guru apprenticeship, the Sanskrit degree ladder, the one-year diplomas and the short courses — with the institutions listed in the table of the Level 0 overview.",
+    "bho": "आज लोग पुरोहित कइसे बनेला: घर भा गुरु के सीख, संस्कृत उपाधि के सीढ़ी, एक साल के डिप्लोमा आ छोट पाठ्यक्रम — स्तर 0 के पन्ना पर संस्थान के तालिका के संगे।"
+  },
+  "quiz": [
+    {
+      "q": {
+        "hi": "पुरोहित बनने का कौन-सा रास्ता साइट अधिकतर लोगों का रास्ता कहती है?",
+        "en": "Which route does the site name as the majority path to becoming a purohit?",
+        "bho": "पुरोहित बने के कवन रास्ता साइट बेसी लोग के रास्ता कहेले?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "hi": "घर या गुरु से सीख — एक अनुमान, क्योंकि कोई आँकड़ा नहीं है",
+            "en": "Apprenticeship with the family or a guru — an inference, since no statistic exists",
+            "bho": "घर भा गुरु से सीख — एगो अनुमान, काहे कि कवनो आँकड़ा नइखे"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "hi": "पौरोहित्य में शोध-उपाधि",
+            "en": "A doctorate in Paurohitya",
+            "bho": "पौरोहित्य के शोध-उपाधि"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "hi": "एक छोटा प्रशिक्षण शिविर",
+            "en": "A short training camp",
+            "bho": "एगो छोट प्रशिक्षन शिविर"
+          }
+        }
+      ],
+      "answer": "a",
+      "feedback": {
+        "ok": {
+          "hi": "सही — और साइट इसे अनुमान कहकर कहती है, गिना हुआ तथ्य कहकर नहीं।",
+          "en": "Right — and the site says so as an inference, not as a counted fact.",
+          "bho": "सही — आ साइट एकरा अनुमान कह के कहेले, गिनल तथ्य कह के ना।"
+        },
+        "no": {
+          "hi": "नहीं — अधिकतर पुरोहित आज भी घर में या गुरु से सीखते हैं; आँकड़ा नहीं है, इसलिए साइट इसे अनुमान कहती है।",
+          "en": "No — most purohits still learn at home or from a guru; no statistic exists, so the site calls it an inference.",
+          "bho": "ना — बेसी पुरोहित आजो घर में भा गुरु से सीखेलन; आँकड़ा नइखे, एही से साइट एकरा अनुमान कहेले।"
+        }
+      }
+    },
+    {
+      "q": {
+        "hi": "नई दिल्ली के राष्ट्रीय संस्कृत विश्वविद्यालय का पौरोहित्य (कर्मकांड) डिप्लोमा कितने समय का है, और कौन आवेदन कर सकता है?",
+        "en": "The Diploma in Paurohitya (Karmkand) of the national Sanskrit university in New Delhi takes how long, and who may apply?",
+        "bho": "नई दिल्ली के राष्ट्रीय संस्कृत विश्वविद्यालय के पौरोहित्य (कर्मकांड) डिप्लोमा केतना दिन के बा, आ के आवेदन कर सकेला?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "hi": "एक वर्ष; इंटरमीडिएट (10+2) के बाद प्रवेश, साक्षात्कार से",
+            "en": "One year; entry after Intermediate (10+2), by interview",
+            "bho": "एक साल; इंटरमीडिएट (10+2) के बाद परवेस, साक्षात्कार से"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "hi": "तीन वर्ष; केवल स्नातक",
+            "en": "Three years; graduates only",
+            "bho": "तीन साल; खाली स्नातक"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "hi": "तीन महीने; कोई शिक्षा आवश्यक नहीं",
+            "en": "Three months; no schooling required",
+            "bho": "तीन महीना; कवनो पढ़ाई जरूरी ना"
+          }
+        }
+      ],
+      "answer": "a",
+      "feedback": {
+        "ok": {
+          "hi": "सही — जैसा विश्वविद्यालय के पृष्ठ पर 31 अक्टूबर 2026 को लिखा था; आवेदन से पहले पृष्ठ देखिए।",
+          "en": "Right — as the university's page listed it on 31 October 2026; check the page before applying.",
+          "bho": "सही — जइसन विश्वविद्यालय के पन्ना पर 31 अक्टूबर 2026 के लिखल रहे; आवेदन से पहिले पन्ना देखीं।"
+        },
+        "no": {
+          "hi": "नहीं — 10+2 के बाद एक वर्ष, प्रवेश साक्षात्कार से, जैसा पृष्ठ पर था; विवरण बदलते हैं, इसलिए पृष्ठ पढ़िए।",
+          "en": "No — one year after 10+2, admission by interview, as the page listed it; details change, so read the page.",
+          "bho": "ना — 10+2 के बाद एक साल, परवेस साक्षात्कार से, जइसन पन्ना पर रहे; ब्योरा बदलेला, एही से पन्ना पढ़ीं।"
+        }
+      }
+    },
+    {
+      "q": {
+        "hi": "कौन-सी राज्य संस्था कर्मकांड प्रशिक्षण शिविर चलाती है और प्रशिक्षित पुरोहितों की सार्वजनिक सूची रखती है?",
+        "en": "Which state body runs Karmkand Prashikshan Shivir camps and a public registry of trained purohits?",
+        "bho": "कवन राज्य संस्था कर्मकांड प्रशिक्षन शिविर चलावेले आ प्रशिक्षित पुरोहित लोग के सार्वजनिक सूची राखेले?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "hi": "उत्तर प्रदेश संस्कृत संस्थान, लखनऊ",
+            "en": "Uttar Pradesh Sanskrit Sansthan, Lucknow",
+            "bho": "उत्तर प्रदेश संस्कृत संस्थान, लखनऊ"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "hi": "गीता प्रेस, गोरखपुर",
+            "en": "Gita Press, Gorakhpur",
+            "bho": "गीता प्रेस, गोरखपुर"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "hi": "ज्ञान प्रबोधिनी, पुणे",
+            "en": "Jnana Prabodhini, Pune",
+            "bho": "ज्ञान प्रबोधिनी, पुणे"
+          }
+        }
+      ],
+      "answer": "a",
+      "feedback": {
+        "ok": {
+          "hi": "सही — बिना उपाधि के शिविर, और ज़िले-वार पुरोहितों की सूची।",
+          "en": "Right — camps without a degree, and a district-wise list of purohits.",
+          "bho": "सही — बिना उपाधि के शिविर, आ जिला-वार पुरोहित लोग के सूची।"
+        },
+        "no": {
+          "hi": "नहीं — शिविर और सूची उत्तर प्रदेश संस्कृत संस्थान की हैं; गीता प्रेस प्रकाशक है, ज्ञान प्रबोधिनी पुणे की संस्था।",
+          "en": "No — the camps and the registry are the Uttar Pradesh Sanskrit Sansthan's; Gita Press is a publisher, Jnana Prabodhini a Pune institute.",
+          "bho": "ना — शिविर आ सूची उत्तर प्रदेश संस्कृत संस्थान के बा; गीता प्रेस प्रकाशक बा, ज्ञान प्रबोधिनी पुणे के संस्था।"
+        }
+      }
+    },
+    {
+      "q": {
+        "hi": "पाठ्यक्रम का शुल्क, पात्रता और तिथियाँ कहाँ जाँचनी चाहिए?",
+        "en": "Where should you check a course's fee, eligibility and dates?",
+        "bho": "पाठ्यक्रम के फीस, पात्रता आ तारीख कहाँ जाँचे के चाहीं?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "hi": "संस्थान के अपने पृष्ठ पर, जिसकी कड़ी स्तर 0 की तालिका में है",
+            "en": "On the institution's own page, linked from the Level 0 table",
+            "bho": "संस्थान के आपन पन्ना पर, जेकर कड़ी स्तर 0 के तालिका में बा"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "hi": "यह साइट इन्हें हर वर्ष गिनती है",
+            "en": "This site computes them every year",
+            "bho": "ई साइट एकरा हर साल गिनेले"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "hi": "वे कभी नहीं बदलते, इसलिए पाठ पर्याप्त है",
+            "en": "They never change, so the lesson is enough",
+            "bho": "ऊ कबो ना बदले, एही से पाठ काफी बा"
+          }
+        }
+      ],
+      "answer": "a",
+      "feedback": {
+        "ok": {
+          "hi": "सही — यहाँ के आँकड़े वही हैं जो पृष्ठों पर 31 अक्टूबर 2026 को थे; पृष्ठ ही प्रमाण हैं।",
+          "en": "Right — the figures here are what the pages said on 31 October 2026; the pages are the authority.",
+          "bho": "सही — इहाँ के आँकड़ा ओही बा जे पन्ना पर 31 अक्टूबर 2026 के रहे; पन्ना ही प्रमान बा।"
+        },
+        "no": {
+          "hi": "नहीं — संस्थान का अपना पृष्ठ पढ़िए; शुल्क, पात्रता और तिथियाँ साल-दर-साल बदलती हैं।",
+          "en": "No — read the institution's own page; fees, eligibility and dates change from year to year.",
+          "bho": "ना — संस्थान के आपन पन्ना पढ़ीं; फीस, पात्रता आ तारीख साल-दर-साल बदलेला।"
+        }
+      }
+    },
+    {
+      "q": {
+        "hi": "संस्कृत उपाधियों की सीढ़ी में शास्त्री के बाद कौन-सी उपाधि आती है?",
+        "en": "In the Sanskrit degree ladder, which degree follows Shastri?",
+        "bho": "संस्कृत उपाधि के सीढ़ी में शास्त्री के बाद कवन उपाधि आवेला?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "hi": "आचार्य",
+            "en": "Acharya",
+            "bho": "आचार्य"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "hi": "उपशास्त्री",
+            "en": "Upshastri",
+            "bho": "उपशास्त्री"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "hi": "प्रवेशिका",
+            "en": "Praveshika",
+            "bho": "प्रवेशिका"
+          }
+        }
+      ],
+      "answer": "a",
+      "feedback": {
+        "ok": {
+          "hi": "सही — शास्त्री स्नातक है, आचार्य स्नातकोत्तर, विद्यावारिधि शोध-उपाधि।",
+          "en": "Right — Shastri is the bachelor's degree, Acharya the master's, Vidyavaridhi the doctorate.",
+          "bho": "सही — शास्त्री स्नातक बा, आचार्य स्नातकोत्तर, विद्यावारिधि शोध-उपाधि।"
+        },
+        "no": {
+          "hi": "नहीं — उपशास्त्री शास्त्री से पहले है; शास्त्री के बाद आचार्य, फिर विद्यावारिधि।",
+          "en": "No — Upshastri comes before Shastri; after Shastri comes Acharya, then Vidyavaridhi.",
+          "bho": "ना — उपशास्त्री शास्त्री से पहिले बा; शास्त्री के बाद आचार्य, फेर विद्यावारिधि।"
+        }
+      }
+    }
+  ],
+  "related": {
+    "occasions": [
+      "pandit-shishtachar"
+    ],
+    "terms": [
+      "purohit",
+      "acharya",
+      "karmakand",
+      "guru-teacher",
+      "shishya"
+    ],
+    "lessons": [
+      "l0-01-purohit-kaun",
+      "l0-03-granth-paddhati-pothi"
+    ]
+  },
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

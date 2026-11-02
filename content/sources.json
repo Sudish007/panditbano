@@ -2883,6 +2883,158 @@
         "विकिपीडिया — अधिक मास"
       ],
       "note": "Cited by the C1A-17 static/reference pages (about, privacy, verification, bibliography, muhurat-rules); registered at integration on 2026-11-02 so the link audit knows the host (test/integration/links.test.mjs allows registry hosts only); URL re-checked 200 on 2026-11-02. Convergent practice source for the intercalary-month rule on the muhurat-rules page (seen 2026-11-01)."
+    },
+    {
+      "id": "wp-yajurveda",
+      "project": "other",
+      "title": "Yajurveda — Wikipedia (recensions table: Madhyandina / Kanva)",
+      "url": "https://en.wikipedia.org/wiki/Yajurveda",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0",
+      "kind": "reference",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Yajurveda (Wikipedia)",
+        "यजुर्वेद (विकिपीडिया)"
+      ],
+      "note": "R1 §B1 FACT [wp-yajurveda]: two surviving Shukla recensions, 'nearly the same'; Madhyandina regional presence Bihar, MP, Gujarat, North India. Used by Learn Level 0 lesson l0-02 (C1A-18)."
+    },
+    {
+      "id": "wp-shakha",
+      "project": "other",
+      "title": "Shakha — Wikipedia (who recites Madhyandina and Kanva today)",
+      "url": "https://en.wikipedia.org/wiki/Shakha",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0",
+      "kind": "reference",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Shakha (Wikipedia)",
+        "शाखा (विकिपीडिया)"
+      ],
+      "note": "R1 §B1 FACT [wp-shakha]: Madhyandina 'currently recited by all over North Indian Brahmins and by Deshastha Brahmins, and Yajurvedi Shrimali Brahmins'; Kanva by Utkala, Kannada, some Karhade Brahmins and few Iyers. Used by lesson l0-02."
+    },
+    {
+      "id": "wp-madhyandina-shakha",
+      "project": "other",
+      "title": "Madhyandina Shakha — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Madhyandina_Shakha",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (several statements marked citation needed)",
+      "kind": "reference",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Madhyandina Shakha (Wikipedia)",
+        "माध्यंदिन शाखा (विकिपीडिया)"
+      ],
+      "note": "R1 §B1 FACT [wp-madhyandina-shakha]: recitation prevalent over most of North India, Maharashtra and among Yajurvedi Shrimali pandits of Gujarat and Rajasthan; Maithil Vajasaneyi Brahmins are Madhyandina except Shandilya gotra / Chhandog. Used by lesson l0-02."
+    },
+    {
+      "id": "wp-maithil-brahmin",
+      "project": "other",
+      "title": "Maithil Brahmin — Wikipedia (Vajasaneyi ≈ 75 % / Chhandog ≈ 25 %)",
+      "url": "https://en.wikipedia.org/wiki/Maithil_Brahmin",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0",
+      "kind": "reference",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Maithil Brahmin (Wikipedia)",
+        "मैथिल ब्राह्मण (विकिपीडिया)"
+      ],
+      "note": "R1 §B2 FACT [wp-maithil]: 'around twenty five percent … belong to Chhandog and remaining belong to Vajasaneyi'. Used by lesson l0-02 (where the regions deviate)."
+    },
+    {
+      "id": "wp-kalpa-vedanga",
+      "project": "other",
+      "title": "Kalpa (Vedanga) — Wikipedia (Shukla Yajurveda → Katyayana Shrauta Sutra, Paraskara Grihya Sutra)",
+      "url": "https://en.wikipedia.org/wiki/Kalpa_(Vedanga)",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0",
+      "kind": "reference",
+      "secondSourceAvailable": true,
+      "titles": [
+        "Kalpa (Wikipedia)",
+        "कल्प वेदांग (विकिपीडिया)"
+      ],
+      "note": "R1 §B1 FACT [wp-kalpa]: the Kalpa table attaches the Katyayana Shrauta Sutra and the Paraskara Grihya Sutra to the Shukla Yajurveda; confirmed by Oldenberg (ia-sbe29). Used by lesson l0-02 as the link target for 'Katyayana's Shrauta Sutra'."
+    },
+    {
+      "id": "ssvv-programs",
+      "project": "government",
+      "title": "Sampurnanand Sanskrit Vishwavidyalaya — programs offered (Shastri / Acharya / Vidyavaridhi subjects incl. शुक्लयजुर्वेद and पौरोहित्य)",
+      "url": "https://ssvv.ac.in/programs-offered",
+      "retrieved": "2026-11-01",
+      "licence": "© Sampurnanand Sanskrit Vishwavidyalaya (official page; link only)",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "ssvv.ac.in"
+      ],
+      "note": "R1 §I row 2 FACT: the regular degree route with Shukla Yajurveda and Paurohitya as subjects (institutions.json#ssvv urls[0]). Used by lessons l0-02 and l0-04."
+    },
+    {
+      "id": "awgp-karmakand-bhaskar",
+      "project": "publisher",
+      "title": "Karmakand Bhaskar (कर्मकाण्ड भास्कर) — All World Gayatri Pariwar literature page",
+      "url": "https://www.awgp.org/en/literature/book/kram_kand_bhaskar/v1",
+      "retrieved": "2026-11-01",
+      "licence": "© All World Gayatri Pariwar (link only; no text copied)",
+      "kind": "link",
+      "secondSourceAvailable": true,
+      "titles": [
+        "Karmakand Bhaskar (AWGP)",
+        "कर्मकांड भास्कर (गायत्री परिवार)"
+      ],
+      "publisher": "All World Gayatri Pariwar / Brahmavarchas, Shantikunj Haridwar",
+      "note": "R1 §H2 FACT [awgp-bhaskar]: the online Karmakand Bhaskar is a Gayatri Pariwar (reformist) paddhati, not the Pauranik Madhyandina pothi — labelled as such on Level 0 (decisions.md §1.6, M33). Second source: ia-karmakand-bhaskar (archive.org scan). Used by lessons l0-02 and l0-03."
+    },
+    {
+      "id": "epl-karmakand-pradeep",
+      "project": "other",
+      "title": "Karmakanda Pradeep — ePustakalaya listing (publisher Brahma Barchas, Shantikunj Haridwar)",
+      "url": "https://www.epustakalaya.com/book/karmakanda-pradeep",
+      "retrieved": "2026-11-01",
+      "licence": "library listing (link only)",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Karmakand Pradeep (ePustakalaya)",
+        "कर्मकांड प्रदीप (ई-पुस्तकालय)"
+      ],
+      "note": "R1 §H2 FACT [epl-karmakand-pradeep]: the online Karmakand Pradeep is the Gayatri Pariwar edition. Used by lessons l0-02 and l0-03."
+    },
+    {
+      "id": "astrodivines-karmakand-pradeep",
+      "project": "publisher",
+      "title": "Karmakand Pradeep: Dashakarmadi Paddhati (Acharya Devnarayan Sharma, Bharatiya Vidya Prakashan, Varanasi, 3rd ed. 2024, ISBN 978-93-88415-26-2) — bookshop listing",
+      "url": "https://www.astrodivines.com/books/karmakand-pradeep/",
+      "retrieved": "2026-11-01",
+      "licence": "bookshop listing (link only; bibliographic facts)",
+      "kind": "edition",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Karmakand Pradeep: Dashakarmadi Paddhati",
+        "कर्मकांड प्रदीप: दशकर्मादि पद्धति"
+      ],
+      "publisher": "Bharatiya Vidya Prakashan, Varanasi",
+      "year": "2024",
+      "note": "R1 §H2 FACT [astrodivines-pradeep]: a different, traditional compilation with the same short title as the AWGP book; cited by its real publisher (decisions.md §1.6). Used by lesson l0-03."
+    },
+    {
+      "id": "aryasamaj-sanskar-vidhi",
+      "project": "other",
+      "title": "Sanskar Vidhi (Swami Dayananda) — Arya Samaj e-library",
+      "url": "https://elibrary.thearyasamaj.org/book/sanskar-vidhi",
+      "retrieved": "2026-11-01",
+      "licence": "Arya Pratinidhi Sabha e-library (link only)",
+      "kind": "link",
+      "secondSourceAvailable": false,
+      "titles": [
+        "Sanskar Vidhi (Arya Samaj)",
+        "संस्कार विधि (आर्य समाज)"
+      ],
+      "note": "R1 §H2 FACT [aryasamaj-sanskarvidhi]: Dayananda's Sanskar Vidhi is the Arya Samaj paddhati, labelled separately on Level 0 (decisions.md §1.6, M34). Used by lesson l0-02."
     }
   ]
 }

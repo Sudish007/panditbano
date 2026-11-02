@@ -1,0 +1,278 @@
+{
+  "id": "l0-03-granth-paddhati-pothi",
+  "level": 0,
+  "order": 3,
+  "title": {
+    "hi": "मूल ग्रंथ, पद्धति की अलमारी और पोथी",
+    "en": "Source texts, the paddhati shelf and the pothi",
+    "bho": "मूल ग्रंथ, पद्धति के अलमारी आ पोथी"
+  },
+  "summary": {
+    "hi": "पुरोहित जिन तीन तरह के ग्रंथों से काम करता है — संहिता, सूत्र और पद्धतियाँ — गीता प्रेस की अलमारी अपने सूची-कोड के साथ, और पंडित की अपनी पोथी में क्या होता है।",
+    "en": "The three kinds of book a purohit works from — the Samhita, the sutra and the handbooks — the Gita Press shelf with its catalogue codes, and what a pandit's own pothi holds.",
+    "bho": "पुरोहित जे तीन तरह के ग्रंथ से काम करेलन — संहिता, सूत्र आ पद्धति — गीता प्रेस के अलमारी आपन सूची-कोड के संगे, आ पंडित के आपन पोथी में का रहेला।"
+  },
+  "quiz": [
+    {
+      "q": {
+        "hi": "घर की विधि का संक्षिप्त क्रम — सूत्र — कौन-सा ग्रंथ देता है?",
+        "en": "Which book gives the bare sequence of a household rite — the sutra?",
+        "bho": "घर के विधि के छोट क्रम — सूत्र — कवन ग्रंथ देला?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "hi": "पारस्कर गृह्यसूत्र",
+            "en": "The Paraskara Grihya Sutra",
+            "bho": "पारस्कर गृह्यसूत्र"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "hi": "नित्यकर्म पूजाप्रकाश",
+            "en": "Nitya Karma Puja Prakash",
+            "bho": "नित्यकर्म पूजाप्रकाश"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "hi": "गरुड़ पुराण",
+            "en": "The Garuda Purana",
+            "bho": "गरुड़ पुराण"
+          }
+        }
+      ],
+      "answer": "a",
+      "feedback": {
+        "ok": {
+          "hi": "सही — सूत्र क्रम और मंत्रों के पहले शब्द देता है; पूरी प्रक्रिया पद्धति बनाती है।",
+          "en": "Right — the sutra gives the order and the first words of the mantras; the paddhati builds the full procedure.",
+          "bho": "सही — सूत्र क्रम आ मंत्र के पहिला शब्द देला; पूरा प्रक्रिया पद्धति बनावेले।"
+        },
+        "no": {
+          "hi": "नहीं — सूत्र पारस्कर का है; गीता प्रेस की पुस्तक पद्धति है और पुराण श्लोक देता है।",
+          "en": "No — the sutra is Paraskara's; the Gita Press book is a paddhati and the Purana supplies verses.",
+          "bho": "ना — सूत्र पारस्कर के बा; गीता प्रेस के किताब पद्धति बा आ पुराण श्लोक देला।"
+        }
+      }
+    },
+    {
+      "q": {
+        "hi": "स्रोत-पंक्ति \"VS 36.3\" किस ओर संकेत करती है?",
+        "en": "What does the locator \"VS 36.3\" point to?",
+        "bho": "स्रोत-पाँती \"VS 36.3\" कहाँ के इशारा करेले?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "hi": "वाजसनेयि (माध्यंदिन) संहिता, अध्याय 36, मंत्र 3 — गायत्री",
+            "en": "Vajasaneyi (Madhyandina) Samhita, adhyaya 36, mantra 3 — the Gayatri",
+            "bho": "वाजसनेयि (माध्यंदिन) संहिता के अध्याय 36 के मंत्र 3 — गायत्री"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "hi": "विवाह संस्कार पद्धति का पृष्ठ 36",
+            "en": "Page 36 of the Vivah Sanskar Paddhati",
+            "bho": "बियाह-पद्धति के किताब के पन्ना 36"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "hi": "किसी पुराण का अध्याय 36",
+            "en": "Chapter 36 of a Purana",
+            "bho": "कवनो पुराण के अध्याय 36"
+          }
+        }
+      ],
+      "answer": "a",
+      "feedback": {
+        "ok": {
+          "hi": "सही — VS संहिता है; संख्या अध्याय और मंत्र की है।",
+          "en": "Right — VS is the Samhita; the numbers are adhyaya and mantra.",
+          "bho": "सही — VS संहिता बा; संख्या अध्याय आ मंत्र के बा।"
+        },
+        "no": {
+          "hi": "नहीं — VS वाजसनेयि संहिता है: अध्याय 36, मंत्र 3 गायत्री है।",
+          "en": "No — VS is the Vajasaneyi Samhita: adhyaya 36, mantra 3 is the Gayatri.",
+          "bho": "ना — VS वाजसनेयि संहिता बा: अध्याय 36, मंत्र 3 गायत्री बा।"
+        }
+      }
+    },
+    {
+      "q": {
+        "hi": "इनमें से कौन पद्धति — पुस्तिका — है, वेद का पाठ नहीं?",
+        "en": "Which of these is a paddhati — a handbook — and not a Veda text?",
+        "bho": "एह में से कवन पद्धति — पुस्तिका — बा, वेद के पाठ ना?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "hi": "गीता प्रेस का संस्कार प्रकाश",
+            "en": "Sanskar Prakash of Gita Press",
+            "bho": "गीता प्रेस के संस्कार प्रकाश"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "hi": "शुक्ल यजुर्वेद संहिता",
+            "en": "The Shukla Yajurveda Samhita",
+            "bho": "शुक्ल यजुर्वेद संहिता"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "hi": "ऋग्वेद",
+            "en": "The Rigveda",
+            "bho": "ऋग्वेद"
+          }
+        }
+      ],
+      "answer": "a",
+      "feedback": {
+        "ok": {
+          "hi": "सही — यह संस्कारों को पूरी प्रक्रिया के साथ संकलित करती है; साइट इसे केवल क्रम के तथ्यों के लिए देखती है।",
+          "en": "Right — it compiles the samskaras with their full procedure; the site uses it for sequence facts only.",
+          "bho": "सही — ई संस्कार के पूरा प्रक्रिया के संगे संकलित करेले; साइट एकरा खाली क्रम के तथ्य खातिर देखेले।"
+        },
+        "no": {
+          "hi": "नहीं — दोनों वेद मूल ग्रंथ हैं; गीता प्रेस की पुस्तक पद्धति है।",
+          "en": "No — the two Vedas are source texts; the Gita Press book is the handbook.",
+          "bho": "ना — दुनो वेद मूल ग्रंथ बा; गीता प्रेस के किताब पद्धति बा।"
+        }
+      }
+    },
+    {
+      "q": {
+        "hi": "इंटरनेट पर मिलने वाला कर्मकांड भास्कर किस परंपरा का है?",
+        "en": "The Karmakand Bhaskar found online belongs to which tradition?",
+        "bho": "इंटरनेट पर मिले वाला कर्मकांड भास्कर कवना परंपरा के बा?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "hi": "गायत्री परिवार — एक सुधार-पद्धति",
+            "en": "Gayatri Pariwar — a reform paddhati",
+            "bho": "गायत्री परिवार — एगो सुधार-पद्धति"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "hi": "गीता प्रेस, गोरखपुर",
+            "en": "Gita Press, Gorakhpur",
+            "bho": "गीता प्रेस, गोरखपुर"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "hi": "पारस्कर का अपना पाठ",
+            "en": "Paraskara's own text",
+            "bho": "पारस्कर के आपन पाठ"
+          }
+        }
+      ],
+      "answer": "a",
+      "feedback": {
+        "ok": {
+          "hi": "सही — साइट इसे वह अलग परंपरा कहती है, बिना निर्णय के।",
+          "en": "Right — the site labels it as that separate tradition, without judging it.",
+          "bho": "सही — साइट एकरा ऊ अलग परंपरा कहेले, बिना फैसला के।"
+        },
+        "no": {
+          "hi": "नहीं — इंटरनेट का कर्मकांड भास्कर गायत्री परिवार का संस्करण है, एक सुधार-पद्धति।",
+          "en": "No — the online Karmakand Bhaskar is a Gayatri Pariwar edition, a reform paddhati.",
+          "bho": "ना — इंटरनेट के कर्मकांड भास्कर गायत्री परिवार के संस्करन बा, एगो सुधार-पद्धति।"
+        }
+      }
+    },
+    {
+      "q": {
+        "hi": "काम करते पंडित की पोथी में प्रायः क्या होता है?",
+        "en": "What does a working pandit's pothi usually hold?",
+        "bho": "काम करत पंडित के पोथी में आम तौर पर का रहेला?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "hi": "हर विधि का क्रम, संकल्प की खाली जगहें, मंत्र अपने प्रयोग के साथ, सामग्री-सूचियाँ",
+            "en": "The order of each rite, sankalpa blanks, mantras with their use, samagri lists",
+            "bho": "हर विधि के क्रम, संकल्प के खाली जगह, मंत्र आपन परयोग के संगे, सामग्री-सूची"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "hi": "केवल उसके यजमानों की जन्मपत्रियाँ",
+            "en": "Only the horoscopes of his yajamans",
+            "bho": "खाली उनकर जजमान लोग के जनमपत्री"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "hi": "चारों वेदों का पूरा पाठ",
+            "en": "The full text of all four Vedas",
+            "bho": "चारो वेद के पूरा पाठ"
+          }
+        }
+      ],
+      "answer": "a",
+      "feedback": {
+        "ok": {
+          "hi": "सही — और इस साइट का पोथी रूप हर अवसर के लिए यही देता है।",
+          "en": "Right — and this site's pothi mode gives the same for every occasion.",
+          "bho": "सही — आ एह साइट के पोथी रूप हर अवसर खातिर एही देला।"
+        },
+        "no": {
+          "hi": "नहीं — पोथी काम की पुस्तिका है: क्रम, संकल्प की खाली जगहें, विनियोग सहित मंत्र और सामग्री-सूचियाँ।",
+          "en": "No — the pothi is the working handbook: sequences, sankalpa blanks, mantras with their vinyog and samagri lists.",
+          "bho": "ना — पोथी काम के किताब बा: क्रम, संकल्प के खाली जगह, विनियोग सहित मंत्र आ सामग्री-सूची।"
+        }
+      }
+    }
+  ],
+  "related": {
+    "occasions": [
+      "pandit-shishtachar",
+      "vivah",
+      "satyanarayan-puja",
+      "sankalp"
+    ],
+    "mantras": [
+      "pgs-1-8-1-2",
+      "vs-36-3"
+    ],
+    "texts": [
+      "satyanarayan-vrat-katha-sanskrit",
+      "navagraha-stotra"
+    ],
+    "terms": [
+      "paddhati",
+      "pothi",
+      "grihya-sutra",
+      "yajurved",
+      "puran"
+    ],
+    "lessons": [
+      "l0-02-parampara-madhyandin",
+      "l0-04-aupcharik-marg"
+    ]
+  },
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

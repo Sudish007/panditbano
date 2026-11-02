@@ -1,0 +1,226 @@
+{
+  "id": "l0-01-purohit-kaun",
+  "level": 0,
+  "order": 1,
+  "title": {
+    "hi": "पुरोहित कौन है?",
+    "en": "Who is a purohit?",
+    "bho": "पुरोहित के हवें?"
+  },
+  "summary": {
+    "hi": "घर के संस्कार कराने वाले पुरोहित की भूमिका, इस साइट के तीन पाठक, और यह नियम कि सीखने का रास्ता हर पाठक के लिए खुला है।",
+    "en": "The role of the family purohit, the three readers this site serves, and the rule that the Learn path is open to every reader.",
+    "bho": "घर के संस्कार करावे वाला पुरोहित के भूमिका, एह साइट के तीन पढ़े वाला, आ ई नियम कि सीखे के रास्ता हर पढ़े वाला खातिर खुला बा।"
+  },
+  "quiz": [
+    {
+      "q": {
+        "hi": "यजमान कौन है?",
+        "en": "Who is the yajaman?",
+        "bho": "जजमान के हवें?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "hi": "वह परिवार जिसकी ओर से विधि की जाती है",
+            "en": "The family on whose behalf the rite is performed",
+            "bho": "ऊ परिवार जेकरा ओर से विधि कइल जाला"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "hi": "पुरोहित का सहायक जो सामग्री देता है",
+            "en": "The priest's assistant who hands him the samagri",
+            "bho": "पुरोहित के सहायक जे सामग्री देला"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "hi": "कलश में आवाहित देवता",
+            "en": "The deity invoked in the kalash",
+            "bho": "कलश में बोलावल देवता"
+          }
+        }
+      ],
+      "answer": "a",
+      "feedback": {
+        "ok": {
+          "hi": "सही — पुरोहित यजमान के लिए विधि कराता है; संकल्प और आहुति यजमान करता है।",
+          "en": "Right — the purohit conducts the rite for the yajaman; the host makes the sankalpa and the offerings.",
+          "bho": "सही — पुरोहित जजमान खातिर विधि करावेलन; संकल्प आ आहुति जजमान करेला।"
+        },
+        "no": {
+          "hi": "नहीं — यजमान वह परिवार है जो विधि करा रहा है; पुरोहित उसकी ओर से विधि कराता है।",
+          "en": "No — the yajaman is the host family; the purohit conducts the rite on its behalf.",
+          "bho": "ना — जजमान ऊ परिवार बा जे विधि करावत बा; पुरोहित ओकरा ओर से विधि करावेलन।"
+        }
+      }
+    },
+    {
+      "q": {
+        "hi": "सीखने के पथ पर कौन सीख सकता है — साइट क्या कहती है?",
+        "en": "What does this site say about who may learn on the Learn path?",
+        "bho": "सीखे के पथ पर के सीख सकेला — साइट का कहेले?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "hi": "केवल पुरोहित परिवारों के पुत्र",
+            "en": "Only sons of purohit families",
+            "bho": "खाली पुरोहित परिवार के बेटा"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "hi": "हर पाठक; पृष्ठ बताते हैं कि परंपरा से कौन कौन-सी भूमिका निभाता है",
+            "en": "Every reader; the pages describe who traditionally performs each role",
+            "bho": "हर पढ़े वाला; पन्ना बतावेला कि परंपरा से के कवन भूमिका निभावेला"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "hi": "केवल वे जिनके पास विश्वविद्यालय का डिप्लोमा है",
+            "en": "Only those who hold a university diploma",
+            "bho": "खाली ऊ लोग जेकरा लगे विश्वविद्यालय के डिप्लोमा बा"
+          }
+        }
+      ],
+      "answer": "b",
+      "feedback": {
+        "ok": {
+          "hi": "सही — पथ हर पाठक के लिए खुला है; साइट कभी नहीं कहती कि कोई जन्म या लिंग के कारण नहीं सीख सकता।",
+          "en": "Right — the path is open to every reader; the site never says anyone may not learn by reason of birth or sex.",
+          "bho": "सही — पथ हर पढ़े वाला खातिर खुला बा; साइट कबो ना कहे कि केहू जनम भा लिंग के कारन ना सीख सकेला।"
+        },
+        "no": {
+          "hi": "नहीं — सीखने का पथ हर पाठक के लिए खुला है; परंपरा का वर्णन है, बंधन नहीं।",
+          "en": "No — the Learn path is open to every reader; tradition is described, not imposed.",
+          "bho": "ना — सीखे के पथ हर पढ़े वाला खातिर खुला बा; परंपरा के बयान बा, बंधन ना।"
+        }
+      }
+    },
+    {
+      "q": {
+        "hi": "इस साइट के पृष्ठ एक साथ किन तीन पाठकों के लिए हैं?",
+        "en": "Which three readers do the pages of this site serve at once?",
+        "bho": "एह साइट के पन्ना एके संगे कवना तीन पढ़े वाला खातिर बा?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "hi": "सीखने वाला, यजमान परिवार और काम करता पंडित",
+            "en": "The learner, the host family and the practising pandit",
+            "bho": "सीखे वाला, जजमान परिवार आ काम करत पंडित"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "hi": "ज्योतिषी, हलवाई और फ़ोटोग्राफ़र",
+            "en": "The astrologer, the caterer and the photographer",
+            "bho": "ज्योतिषी, हलवाई आ फोटो खींचे वाला"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "hi": "केवल संस्कृत के विद्वान",
+            "en": "Only scholars of Sanskrit",
+            "bho": "खाली संस्कृत के विद्वान"
+          }
+        }
+      ],
+      "answer": "a",
+      "feedback": {
+        "ok": {
+          "hi": "सही — विधि का एक ईमानदार वर्णन तीनों के काम आता है।",
+          "en": "Right — one honest description of the rite serves all three.",
+          "bho": "सही — विधि के एक ईमानदार बयान तीनो के काम आवेला।"
+        },
+        "no": {
+          "hi": "नहीं — सीखने वाला, यजमान और काम करता पंडित; एक ही पृष्ठ तीनों के काम आता है।",
+          "en": "No — the learner, the host and the practising pandit; the same page serves all three.",
+          "bho": "ना — सीखे वाला, जजमान आ काम करत पंडित; एके पन्ना तीनो के काम आवेला।"
+        }
+      }
+    },
+    {
+      "q": {
+        "hi": "इनमें से क्या पुरोहित के काम का हिस्सा है?",
+        "en": "Which of these is part of the purohit's work in a rite?",
+        "bho": "एह में से का पुरोहित के काम के हिस्सा बा?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "hi": "पंचांग देखे बिना तिथि तय करना",
+            "en": "Choosing the date without looking at a panchang",
+            "bho": "पंचांग देखले बिना तारीख तय कइल"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "hi": "हर मंत्र उसके विनियोग के साथ बोलना और यजमान को क्रिया का अर्थ बताना",
+            "en": "Speaking each mantra with its vinyog and telling the host what the action means",
+            "bho": "हर मंत्र ओकर विनियोग के संगे बोलल आ जजमान के क्रिया के अरथ बतावल"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "hi": "सामग्री-सूची परिवार से विधि के दिन तक छिपाकर रखना",
+            "en": "Keeping the samagri list from the family until the day of the rite",
+            "bho": "सामग्री-सूची परिवार से विधि के दिन ले लुका के राखल"
+          }
+        }
+      ],
+      "answer": "b",
+      "feedback": {
+        "ok": {
+          "hi": "सही — विनियोग के साथ पाठ और समझाना ही विधि कराने का मर्म है।",
+          "en": "Right — reciting with the vinyog and explaining are the heart of conducting a rite.",
+          "bho": "सही — विनियोग के संगे पाठ आ समझावल ही विधि करावे के मरम बा।"
+        },
+        "no": {
+          "hi": "नहीं — पुरोहित हर मंत्र उसके प्रयोग के साथ बोलता है और क्रिया समझाता है; तिथि पंचांग से आती है और सामग्री-सूची पहले ही दे दी जाती है।",
+          "en": "No — the purohit speaks each mantra with its use and explains the action; the date comes from the panchang and the samagri list is shared early.",
+          "bho": "ना — पुरोहित हर मंत्र ओकर परयोग के संगे बोलेलन आ क्रिया समझावेलन; तारीख पंचांग से आवेला आ सामग्री-सूची पहिलहीं दे दिहल जाला।"
+        }
+      }
+    }
+  ],
+  "related": {
+    "occasions": [
+      "vivah",
+      "havan-vidhi",
+      "satyanarayan-puja",
+      "pandit-shishtachar",
+      "sankalp"
+    ],
+    "terms": [
+      "purohit",
+      "pandit",
+      "acharya",
+      "yajman",
+      "karta",
+      "pothi",
+      "vinyog"
+    ],
+    "lessons": [
+      "l0-02-parampara-madhyandin"
+    ]
+  },
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}
