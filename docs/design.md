@@ -1166,3 +1166,38 @@ Also binding, from the 2560 review of both directions: the sticky header's motif
 - **FIX-1a · trims NOT made, and why.** The external-link marker stays inline SVG + sr span (design §5.2 — never a `::after`
   glyph; under gzip the 241 repeated markers of vivah/mukhya cost ≈ 1 KB) and `data-plain` stays on every `.mantra`
   (the integration test and the FEAT-105 accessibility proof rely on it; gzip removes the duplicate almost entirely).
+- **FIX-1a · pada tables inside occasion steps fold (orchestrator fallback d, 2026-11-02) — and Lighthouse mobile is still
+  below 95 on the heavy pages.** `padaCard(fold: true)` in step embeds renders a closed `<details class="card pada-fold">`
+  whose summary is the पदच्छेद heading (mantra pages unchanged — §7.5). Measured locally (Edge, Lighthouse 12.8.2 mobile
+  preset, dist served gzip): BEFORE the fold vivah/mukhya 69 · navagraha 89 · satyanarayan ch. 4 93 · vivah/pothi 93 (TBT
+  880 ms on mukhya); AFTER, on the shipped build b3eac39eff83: mukhya 78 · navagraha 74 · satyanarayan ch. 3 91 · pothi 89
+  (a11y/BP/SEO 100 everywhere; TBT 440 / 750 / 0 / 180 ms). What is left is the same on all four pages, including the
+  22-KB chapter page: LCP ≈ 3.0–3.3 s with a render delay of ≈ 2.6–2.9 s on a text element (`.lede` / `#intro p`). Cause: the
+  two preloaded `font-display: optional` faces (§6.2 — Noto Sans Devanagari 400 54 KB + Tiro Devanagari Sanskrit 400
+  138 KB) block first render until they arrive (Chrome ≥ 83 holds paint for preloaded optional fonts), ≈ 1 s on the 1.6-Mbps
+  profile, plus Style & Layout 2.1–3.0 s at 4× CPU on the 2.9–6.2 k-element DOMs. The lever that would move LCP (not
+  preloading Tiro, or splitting the Tiro subset) changes §6.2 and UI-23 and what a first-time visitor sees in the mantra
+  blocks; it is a design decision recorded for the orchestrator, not taken here. Per plan.md §5 the numbers are recorded
+  (docs/verification-phase-1a.md) as NOT VERIFIED / next-phase mandatory; the ship re-measures live (the FEAT-103 note:
+  local numbers read lower than live).
+- **FIX-1a · a `[[term]]` whose glossary page does not exist yet is text, not a link to the glossary index.** Batches 2–6
+  land in later phases; 1 361 marks across 213 hi pages pointed at an index that does not list the term. `renderInline`
+  emits `<span class="term" data-term=…>` (first-use bracket kept) when the term has no page; related chips on term and
+  lesson pages become `<span class="chip">`. The UI-19/G16 rules are untouched (named sources still link).
+- **FIX-1a · 2 008 `[[term]]` marks added by script for the 68 glossary terms of batch 1 (G13 340 → 57).** First exact-word
+  use per language, only in Markdown-rendered fields (CONTENT-RULES §8 lists them); the step action is marked after its
+  heading split only. Meta descriptions and card excerpts now resolve marks (`excerpt()` in term/mantra/chapter/text
+  pages; the PGS sutra meaning goes through `inlineProse`) — 80 pages had shipped a raw `[[id]]` in `<meta description>`.
+- **FIX-1a · the home path cards use `t()`, not `tp()`.** A path card is one `<a>`; linking "रुद्राष्टाध्यायी" inside it
+  nested an `<a>` in an `<a>` and the parser split the texts card in three (visible at every width since the registry
+  gained that name in C1A-17). The names are linked on `/texts/`; a dist-wide integration test now fails on any nested
+  anchor.
+- **FIX-1a · smaller template/registry fixes.** `institutions.json#course/duration` are `{hi, en, bho}` (the Level 0
+  table read English-only on hi/bho); `t()` picks a `<key>_one` sibling when `{n}` is 1 ("1 term", "१ कथा");
+  `.quiz legend` floats full-width inside the fieldset so a two-line question no longer straddles the border at 390;
+  `tools/audit.py` UI-17 measures the rendered last row (columns occupied) so the spanned lone card counts as filled, and
+  every shot starts from a clean scroll state after the UI-25 focus walk (the sticky rail no longer appears scrolled).
+- **FIX-1a · lane gate: chapter-only staging and cross-pool duplicates.** `--lane` adopts an orphan text's `text.json`
+  from `content/` or another staging pool (WARN G1) so a chapter-only item (C1A-14/15 pattern, every Phase 2 text) gates
+  without staging a duplicate `text.json`; a staged chapter the pool already has is a G18 FAIL; duplicate ids between two
+  OTHER pools are a WARN G18 naming both pools in every lane gate (C1A-18 found four A ↔ C clashes only at integration).

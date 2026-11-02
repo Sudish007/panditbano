@@ -45,9 +45,11 @@ export function homeBody(ctx, { lang, counts = {}, groups = [], featured = [] })
 </section>
 <section aria-labelledby="h-paths"><h2 id="h-paths" class="sr">${t(lang, "home.paths_heading")}</h2>
 <div class="grid grid-md-3">
+${/* the path cards are <a>s: their bodies use t(), never tp() — a linked name inside a link is a nested <a> and the parser
+      splits the card (FIX-1a: the texts card broke once "रुद्राष्टाध्यायी" entered the registry). The names are linked on /texts/. */ ""}
 <a class="card card-link path-card" href="${L("learn/")}">${icon("i-cap", { cls: "ico", size: 44 })}<h3 class="m0">${t(lang, "home.path_learn_title")}</h3><p class="m0">${t(lang, "home.path_learn_body")}</p>${countLine(lang, [["levels", counts.levels || 0], ["lessons", counts.lessons || 0]])}<span class="more">${t(lang, "home.more")}</span></a>
 <a class="card card-link path-card" href="${L("occasions/")}">${icon("i-list", { cls: "ico", size: 44 })}<h3 class="m0">${t(lang, "home.path_occasions_title")}</h3><p class="m0">${t(lang, "home.path_occasions_body")}</p>${countLine(lang, [["occasions", counts.occasions || 0], ["groups", counts.groupCount || 0]])}<span class="more">${t(lang, "home.more")}</span></a>
-<a class="card card-link path-card" href="${L("texts/")}">${icon("i-om", { cls: "ico", size: 44 })}<h3 class="m0">${t(lang, "home.path_texts_title")}</h3><p class="m0">${tp(ctx, lang, "home.path_texts_body")}</p>${countLine(lang, [["mantras", counts.mantras || 0], ["verses", counts.verses || 0]])}<span class="more">${t(lang, "home.more")}</span></a>
+<a class="card card-link path-card" href="${L("texts/")}">${icon("i-om", { cls: "ico", size: 44 })}<h3 class="m0">${t(lang, "home.path_texts_title")}</h3><p class="m0">${t(lang, "home.path_texts_body")}</p>${countLine(lang, [["mantras", counts.mantras || 0], ["verses", counts.verses || 0]])}<span class="more">${t(lang, "home.more")}</span></a>
 </div></section>
 <section aria-labelledby="h-groups">
 <div class="section-head"><h2 id="h-groups">${t(lang, "home.groups_heading")}</h2><a href="${L("occasions/")}">${counts.occasions ? t(lang, "counts.occasions", { n: num(counts.occasions) }) + " →" : t(lang, "home.all_occasions")}</a></div>

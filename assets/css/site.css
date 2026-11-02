@@ -14,7 +14,7 @@
 /* ---------- base ---------- */
 *, *::before, *::after { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; scroll-padding-top: calc(var(--head-h) + 24px); scroll-behavior: auto; background: var(--paper); }
-body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--font-body); font-size: var(--fs-body); line-height: var(--lh-body); font-weight: 400; }
+body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--font-body); font-size: var(--fs-body); line-height: var(--lh-body); font-weight: 400; overflow-wrap: break-word; } /* break-word (not anywhere: it leaves min-content sizes alone) — an unbreakable slash-joined run ("parameshvara/parameshvari") in prose widened the page at 320 (UI-30, FIX-1a) */
 html[lang="en"] body { font-family: var(--font-latin); }
 img, svg { display: block; max-width: 100%; }
 [hidden] { display: none !important; }
@@ -30,7 +30,8 @@ a:hover { text-decoration-thickness: 2px; }
 .skip { position: absolute; top: -200px; left: var(--gutter); z-index: 40; background: var(--surface); color: var(--ink); border: 1px solid var(--hair-strong); border-radius: var(--radius-ctl); padding: 10px 14px; font-weight: 600; }
 .skip:focus { top: 8px; }
 
-h1, h2, h3, h4 { font-family: var(--font-display); font-weight: var(--display-weight); line-height: 1.3; margin: 0 0 0.4em; color: var(--ink); text-wrap: balance; }
+/* overflow-wrap anywhere: a single 25-akshara sandhi compound in a mantra title (गणेशसहितगौर्यादिषोडशमातृकाभ्यो) otherwise widens the page at 320 (UI-30, FIX-1a); it only breaks a word that has no other break */
+h1, h2, h3, h4 { font-family: var(--font-display); font-weight: var(--display-weight); line-height: 1.3; margin: 0 0 0.4em; color: var(--ink); text-wrap: balance; overflow-wrap: anywhere; }
 html[lang="en"] h1, html[lang="en"] h2, html[lang="en"] h3, html[lang="en"] h4 { font-family: var(--font-latin); font-weight: 600; }
 h1 { font-size: var(--h1); line-height: 1.2; }
 h2 { font-size: var(--h2); margin-top: 1.6em; }
@@ -109,7 +110,8 @@ html[lang="en"] .brand { font-family: var(--font-latin); font-weight: 600; }
 
 /* chips / badges */
 .chip { display: inline-flex; align-items: center; gap: 6px; min-height: 28px; padding: 0 10px; border-radius: var(--radius-ctl); font-size: var(--fs-small); font-weight: 600; border: 1px solid var(--hair-strong); color: var(--ink-2); background: transparent; white-space: nowrap; text-decoration: none; }
-a.chip { color: var(--accent); border-color: var(--hair-strong); min-height: 32px; white-space: normal; }
+a.chip, span.chip[data-term] { color: var(--accent); border-color: var(--hair-strong); min-height: 32px; white-space: normal; }
+span.chip[data-term] { color: var(--ink-2); } /* a related term without a glossary page yet (FIX-1a): same shape as a.chip, wraps like it, ink colour since it is not a link */
 a.chip:hover { border-color: var(--accent); }
 .chip-vedic { color: var(--accent); border-color: var(--accent); }
 .chip-paddhati { color: var(--accent-2); border-color: var(--accent-2); }

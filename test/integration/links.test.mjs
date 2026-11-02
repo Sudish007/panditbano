@@ -76,6 +76,14 @@ test("every href/src in every HTML file resolves to a dist file or an allowed ex
   console.log(`links: ${internal} internal, ${external} external over ${[...FILES].filter((f) => f.endsWith(".html")).length} HTML files; allowed hosts ${ALLOWED_HOSTS.size}`);
 });
 
+test("no page nests an <a> inside an <a> (the parser closes the outer link and breaks the card — FIX-1a, home path card)", () => {
+  // an <a …> that reaches another <a before its own </a>
+  const nested = /<a\b[^>]*>(?:(?!<\/a>)[\s\S])*?<a\b/g;
+  const bad = [];
+  for (const p of pages()) { const m = p.html.match(nested); if (m) bad.push(`${p.file}: ${m[0].slice(0, 90)}`); }
+  assert.deepEqual(bad.slice(0, 10), [], `${bad.length} page(s) with nested anchors`);
+});
+
 test("every page of build.json#pageList exists and sitemap URLs resolve", () => {
   for (const p of pages()) assert.ok(FILES.has(p.file), `${p.href} → ${p.file}`);
   const sm = readFileSync(join(DIST, "sitemap.xml"), "utf8");
