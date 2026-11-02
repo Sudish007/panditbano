@@ -1,0 +1,75 @@
+{
+  "id": "pad-kankanam-mochayami",
+  "kind": "paddhati",
+  "text": "vivah-paddhati",
+  "locator": "vivah paddhati: कंकण मोक्षण — the untying of the kankan (at the \"कंगन खोलना\" rite and again at the end of the chaturthi-karma)",
+  "title": {
+    "hi": "कंकणं मोचयाम्यद्य — कंगन खोलने का श्लोक",
+    "en": "Kankanam mochayamy adya — the verse for untying the kangan",
+    "bho": "कङ्कणं मोचयाम्यद्य — कंगन खोले के श्लोक"
+  },
+  "devanagari": "ॐ कङ्कणं मोचयाम्यद्य रक्षोघ्नं रक्षणं मम । मयि रक्षां स्थिरां कृत्वा स्वस्थानं गच्छ कङ्कण ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "कङ्कणं मोचयामि अद्य",
+      "gloss": {
+        "hi": "आज मैं कंकण खोलता हूँ",
+        "en": "today I untie the kankan",
+        "bho": "आज हम कंगन खोलत बानी"
+      }
+    },
+    {
+      "sa": "रक्षोघ्नं रक्षणं मम",
+      "gloss": {
+        "hi": "जो राक्षस-नाशक है, मेरी रक्षा है",
+        "en": "which wards off the rakshasas, which is my protection",
+        "bho": "जे राकस-नासक बा, हमार रक्षा बा"
+      }
+    },
+    {
+      "sa": "मयि रक्षां स्थिरां कृत्वा",
+      "gloss": {
+        "hi": "मुझमें रक्षा को स्थिर करके",
+        "en": "having made the protection firm in me",
+        "bho": "हमरा में रक्षा के थिर करके"
+      }
+    },
+    {
+      "sa": "स्वस्थानं गच्छ कङ्कण",
+      "gloss": {
+        "hi": "हे कंकण, अपने स्थान को जा",
+        "en": "O kankan, go to thy own place",
+        "bho": "हे कंगन, आपन जगह जा"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "आज मैं उस कंकण को खोलता हूँ जो राक्षस-नाशक है और मेरी रक्षा है; हे कंकण, मुझमें रक्षा को स्थिर करके अपने स्थान को जा।",
+    "en": "Today I untie the kankan, which wards off the rakshasas and is my protection; O kankan, having made that protection firm in me, go to thy own place.",
+    "bho": "आज हम ओह कंगन के खोलत बानी जे राकस-नासक बा आ हमार रक्षा बा; हे कंगन, हमरा में रक्षा के थिर करके आपन जगह जा।"
+  },
+  "explanation": {
+    "hi": "[[kangan]] — हल्दी के समय वर और वधू की कलाई पर बाँधा गया रक्षा-सूत्र (लोहे का छल्ला, अजवाइन, हल्दी; शुक्ल यजुर्वेद 34.52 से) — विवाह के बाद इस श्लोक से खोला जाता है। [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/details/mvf_20240803_20240803_1558) में \"कंगन खोलना\" एक अलग छोटी विधि है: वर-वधू को बैठाकर गौरी-गणेश-कलश-नवग्रह की पूजा, फिर वधू के हाथ का कंकण इस श्लोक से खोलकर गौरी के पास रखना, वधू का गौरी को सिंदूर चढ़ाकर \"सोहाग\" लेना, ग्रंथि-विमोक, ब्राह्मण को दक्षिणा और नाई को न्योछावर; चतुर्थी-कर्म के अंत में भी वर यही श्लोक पढ़कर कंकण खोलकर माता को देता है। हिंदी-भाषी क्षेत्र में \"कंगन खोलाई\" ससुराल में एक खेल भी है — वर-वधू एक-दूसरे की गाँठ खोलते हैं। यह [[paddhati]] का श्लोक है, वैदिक नहीं; [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) में कंकण नहीं है। क्रम [विवाह](/occasions/vivah/) पृष्ठ पर।",
+    "en": "The kangan — the protective string with its iron ring, ajwain and turmeric tied on the wrists of the groom and the bride at the haldi (with Shukla Yajurveda 34.52) — is untied after the wedding with this verse. In the [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/details/mvf_20240803_20240803_1558) \"kangan kholna\" is a small rite of its own: the couple are seated, Gauri-Ganesha, the kalash and the navagrahas are worshipped, the bride's kankan is untied with this verse and laid before Gauri, the bride offers sindoor to Gauri and takes her \"suhag\", the knot is untied, the Brahmin receives his dakshina and the barber his gift; at the end of the chaturthi-karma the groom again recites the verse, unties the kankan and hands it to his mother. In the Hindi belt the \"kangan kholai\" is also a game in the groom's house — the couple untie each other's knots. It is a handbook verse, not Vedic; the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) has no kankan. The order is on the [wedding](/occasions/vivah/) page.",
+    "bho": "[[kangan]] — हरदी के समय दुलहा आ कनिया के कलाई पर बान्हल रक्षा-सूत (लोहा के छल्ला, अजवाइन, हरदी; शुक्ल यजुर्वेद 34.52 से) — बियाह के बाद एह श्लोक से खोलल जाला। [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/details/mvf_20240803_20240803_1558) में \"कंगन खोलना\" एगो अलगा छोट विधि बा: दुलहा-कनिया के बइठा के गौरी-गणेश-कलश-नवग्रह के पूजा, फेर कनिया के हाथ के कंगन एह श्लोक से खोल के गौरी के लगे राखल, कनिया के गौरी के सेनुर चढ़ा के \"सोहाग\" लिहल, गाँठ खोलल, ब्राह्मण के दक्षिणा आ नाऊ के न्योछावर; चतुर्थी-कर्म के अंत में भी दुलहा एही श्लोक पढ़ के कंगन खोल के माई के देला। हिंदी-भाषी इलाका में \"कंगन खोलाई\" ससुरा में एगो खेल भी बा — दुलहा-कनिया एक-दोसरा के गाँठ खोलेलन। ई [[paddhati]] के श्लोक बा, वैदिक ना; [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) में कंगन नइखे। क्रम [बियाह](/occasions/vivah/) पन्ना पर।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-vivah-mvf",
+    "retrieved": "2026-11-01",
+    "modified": "OCR of the pothi (printed twice: कंकणं / कङ्कणं, कडूकण) normalised to कङ्कणं; ॐ as printed; dandas added"
+  },
+  "copyright": "uncertain",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit verse printed in the Hindi-belt vivah paddhatis; author and date unknown; copied from the 2020 Dwivedi pothi OCR (archive.org) under brief §14.2",
+  "tags": [
+    "vivah",
+    "kankan",
+    "kankan-mokshan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

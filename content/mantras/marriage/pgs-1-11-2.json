@@ -1,0 +1,126 @@
+{
+  "id": "pgs-1-11-2",
+  "kind": "vedic",
+  "text": "paraskara-grihya-sutra",
+  "locator": "PGS 1.11.1–2 (chaturthi-karma: in the last part of the fourth night, after the two ajyabhagas, five ghee oblations to Agni, Vayu, Surya, Chandra and Gandharva); vivah paddhati: चतुर्थी कर्म प्रधान होम",
+  "title": {
+    "hi": "अग्ने प्रायश्चित्ते — चतुर्थी-होम की पाँच आहुतियाँ",
+    "en": "Agne prayashchitte — the five oblations of the chaturthi homa",
+    "bho": "अग्ने प्रायश्चित्ते — चतुर्थी-होम के पाँच आहुति"
+  },
+  "devanagari": "अग्ने प्रायश्चित्ते त्वं देवानां प्रायश्चित्तिरसि ब्राह्मणस्त्वा नाथकाम उपधावामि याऽस्यै पतिघ्नी तनूस्तामस्यै नाशय स्वाहा । वायो प्रायश्चित्ते त्वं देवानां प्रायश्चित्तिरसि ब्राह्मणस्त्वा नाथकाम उपधावामि याऽस्यै प्रजाघ्नी तनूस्तामस्यै नाशय स्वाहा । सूर्य प्रायश्चित्ते त्वं देवानां प्रायश्चित्तिरसि ब्राह्मणस्त्वा नाथकाम उपधावामि याऽस्यै पशुघ्नी तनूस्तामस्यै नाशय स्वाहा । चन्द्र प्रायश्चित्ते त्वं देवानां प्रायश्चित्तिरसि ब्राह्मणस्त्वा नाथकाम उपधावामि याऽस्यै गृहघ्नी तनूस्तामस्यै नाशय स्वाहा । गन्धर्व प्रायश्चित्ते त्वं देवानां प्रायश्चित्तिरसि ब्राह्मणस्त्वा नाथकाम उपधावामि याऽस्यै यशोघ्नी तनूस्तामस्यै नाशय स्वाहा ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "अग्ने प्रायश्चित्ते",
+      "gloss": {
+        "hi": "हे अग्नि, हे प्रायश्चित्त (रूप)",
+        "en": "O Agni, O expiation",
+        "bho": "हे अग्नि, हे प्रायश्चित्त (रूप)"
+      }
+    },
+    {
+      "sa": "त्वं देवानां प्रायश्चित्तिः असि",
+      "gloss": {
+        "hi": "तू देवों का प्रायश्चित्त है",
+        "en": "thou art the expiation of the gods",
+        "bho": "तू देवता लोग के प्रायश्चित्त बाड़ऽ"
+      }
+    },
+    {
+      "sa": "ब्राह्मणः त्वा नाथकामः उपधावामि",
+      "gloss": {
+        "hi": "मैं ब्राह्मण रक्षा चाहता हुआ तेरी शरण में आता हूँ",
+        "en": "I, the Brahmin, seeking protection, run to thee",
+        "bho": "हम ब्राह्मण रक्षा चाहत तोहार सरन में आवत बानी"
+      }
+    },
+    {
+      "sa": "या अस्यै पतिघ्नी तनूः",
+      "gloss": {
+        "hi": "इसमें जो पति-नाशक तनु (तत्त्व) है",
+        "en": "the substance in her that harms the husband",
+        "bho": "एह में जे पति-नासक तनु (तत्त्व) बा"
+      }
+    },
+    {
+      "sa": "ताम् अस्यै नाशय स्वाहा",
+      "gloss": {
+        "hi": "उसे इसमें से नष्ट कर — स्वाहा",
+        "en": "destroy that in her — svaha",
+        "bho": "ओकरा एह में से नास करऽ — स्वाहा"
+      }
+    },
+    {
+      "sa": "वायो प्रजाघ्नी",
+      "gloss": {
+        "hi": "हे वायु … संतान-नाशक",
+        "en": "O Vayu … that harms the offspring",
+        "bho": "हे वायु … संतान-नासक"
+      }
+    },
+    {
+      "sa": "सूर्य पशुघ्नी",
+      "gloss": {
+        "hi": "हे सूर्य … पशु-नाशक",
+        "en": "O Surya … that harms the cattle",
+        "bho": "हे सूर्य … पसु-नासक"
+      }
+    },
+    {
+      "sa": "चन्द्र गृहघ्नी",
+      "gloss": {
+        "hi": "हे चंद्र … गृह-नाशक",
+        "en": "O Chandra … that harms the house",
+        "bho": "हे चंद्र … घर-नासक"
+      }
+    },
+    {
+      "sa": "गन्धर्व यशोघ्नी",
+      "gloss": {
+        "hi": "हे गंधर्व … यश-नाशक",
+        "en": "O Gandharva … that harms the good name",
+        "bho": "हे गंधर्व … जस-नासक"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "हे अग्नि, तू प्रायश्चित्त है, देवों का प्रायश्चित्त है; मैं ब्राह्मण, रक्षा चाहता हुआ, तेरी शरण में आता हूँ — इस (वधू) में जो पति-नाशक तनु है, उसे नष्ट कर, स्वाहा। (इसी प्रकार) हे वायु — संतान-नाशक; हे सूर्य — पशु-नाशक; हे चंद्र — गृह-नाशक; हे गंधर्व — यश-नाशक तनु को नष्ट कर, स्वाहा।",
+    "en": "O Agni, thou art expiation, the expiation of the gods; I, the Brahmin, seeking protection, run to thee — the substance in this bride that harms the husband, destroy it in her, svaha. (Likewise) O Vayu — that harms the offspring; O Surya — the cattle; O Chandra — the house; O Gandharva — the good name: destroy it, svaha.",
+    "bho": "हे अग्नि, तू प्रायश्चित्त बाड़ऽ, देवता लोग के प्रायश्चित्त बाड़ऽ; हम ब्राह्मण, रक्षा चाहत, तोहार सरन में आवत बानी — एह (कनिया) में जे पति-नासक तनु बा, ओकरा नास करऽ, स्वाहा। (एही तरे) हे वायु — संतान-नासक; हे सूर्य — पसु-नासक; हे चंद्र — घर-नासक; हे गंधर्व — जस-नासक तनु के नास करऽ, स्वाहा।"
+  },
+  "explanation": {
+    "hi": "[[chaturthi-karma]] का प्रधान होम — [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.11.1–2: विवाह से चौथी रात के अंतिम भाग में घर के भीतर अग्नि स्थापित कर, दक्षिण में ब्रह्मा को बैठाकर, उत्तर में जल-पात्र रखकर, स्थालीपाक (चरु) पकाकर, दो आज्यभाग देकर ये पाँच घृत-आहुतियाँ दी जाती हैं। प्रत्येक आहुति के बाद स्रुवा में बचा घी उत्तर के जल-पात्र में छोड़ा जाता है (प्रोक्षणी में नहीं) — उसी जल से बाद में अभिषेक होता है (1.11.4)। इसके बाद स्थालीपाक की आहुति \"प्रजापतये स्वाहा\" (1.11.3)। वैदिक चिंतन में कन्या विवाह से पहले सोम, गंधर्व और अग्नि की होती है ([ऋग्वेद 10.85.40–41](https://sa.wikisource.org/wiki/ऋग्वेदः_सूक्तं_१०.८५)) — यह होम उस संबंध को \"शुद्ध\" करने का प्रायश्चित्त है; इसीलिए पाँच आहुतियाँ अग्नि, वायु, सूर्य, चंद्र और गंधर्व को हैं। पोथी इस प्रयोजन पर स्मृति-वचन उद्धृत करती है (कन्या के देह के दोषों का प्रायश्चित्त; मार्कंडेय, हारीत, बृहस्पति के नाम से) और न करने पर अनिष्ट बताने वाले वचन भी — यह साइट उन्हें पद्धति का कथन मानकर देती है, तथ्य के रूप में नहीं। पोथी चतुर्थी-होम को विवाह का \"आवश्यक अंग\" कहती है और अशक्त होने पर उसे विवाह की रात ही उसी अग्नि में (\"अपकर्षण\") करने की अनुमति देती है। क्रम [विवाह](/occasions/vivah/) पृष्ठ पर।",
+    "en": "The main homa of the chaturthi-karma — [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.11.1–2: in the last part of the fourth night after the wedding the fire is set up inside the house, the brahma seated to the south, a water-vessel placed to the north, the sthalipaka (charu) cooked, the two ajyabhagas offered, and then these five ghee oblations. After each oblation the ghee left in the ladle is poured into the water-vessel to the north (not into the prokshani) — that water is later used for the abhisheka (1.11.4). Then the oblation of the cooked food, \"prajapataye svaha\" (1.11.3). In Vedic thought the bride belongs before the wedding to Soma, the Gandharva and Agni ([Rigveda 10.85.40–41](https://sa.wikisource.org/wiki/ऋग्वेदः_सूक्तं_१०.८५)) — this homa is the expiation that \"clears\" that bond, which is why the five oblations go to Agni, Vayu, Surya, Chandra and the Gandharva. The pothi quotes smriti verses on the purpose (an expiation for faults of the bride's body, under the names of Markandeya, Harita and Brihaspati) and verses that threaten harm if it is omitted — this site records them as the handbook's statement, not as fact. The pothi calls the chaturthi homa a \"necessary limb\" of the wedding and allows it to be brought forward (\"apakarshana\") to the wedding night, in the same fire, when the full form is not possible. The order is on the [wedding](/occasions/vivah/) page.",
+    "bho": "[[chaturthi-karma]] के प्रधान होम — [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.11.1–2: बियाह से चउथा रात के आखिरी भाग में घर के भीतर आगि थापि के, दक्खिन में ब्रह्मा के बइठा के, उत्तर में जल-पात्र राख के, स्थालीपाक (चरु) पका के, दू आज्यभाग देके ई पाँच घी के आहुति दिहल जाला। हर आहुति के बाद स्रुवा में बाँचल घी उत्तर के जल-पात्र में छोड़ल जाला (प्रोक्षनी में ना) — ओही जल से बाद में अभिषेक होला (1.11.4)। एकरा बाद स्थालीपाक के आहुति \"प्रजापतये स्वाहा\" (1.11.3)। वैदिक चिंतन में कनिया बियाह से पहिले सोम, गंधर्व आ अग्नि के होली ([ऋग्वेद 10.85.40–41](https://sa.wikisource.org/wiki/ऋग्वेदः_सूक्तं_१०.८५)) — ई होम ओह संबंध के \"सुद्ध\" करे के प्रायश्चित्त बा; एही से पाँच आहुति अग्नि, वायु, सूर्य, चंद्र आ गंधर्व के बा। पोथी एह परयोजन पर स्मृति-वचन उद्धृत करेला (कनिया के देह के दोष के प्रायश्चित्त; मार्कंडेय, हारीत, बृहस्पति के नाँव से) आ ना कइला पर अनिष्ट बतावे वाला वचन भी — ई साइट ओकरा पद्धति के कथन मान के देले, तथ्य के रूप में ना। पोथी चतुर्थी-होम के बियाह के \"जरूरी अंग\" कहेला आ असमर्थ होखला पर एकरा बियाह के रात ही ओही आगि में (\"अपकर्षन\") करे के अनुमति देला। क्रम [बियाह](/occasions/vivah/) पन्ना पर।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-pgs",
+    "retrieved": "2026-11-01",
+    "modified": "Wikisource सूर्यप्रायश्चित्ते split as सूर्य प्रायश्चित्ते (vocative, as in the other four); sutra number dropped; the sutra's closing इति dropped; double danda at the end"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-sbe29",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit, public domain; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "chaturthi-karma",
+    "homa",
+    "prayashchitta"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "vs-18-37",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 18.37 (abhisheka of the yajamana in the Vasordhara section; the pothi's second abhisheka verse of the couple); vivah paddhati: अभिषेक 2",
+  "title": {
+    "hi": "देवस्य त्वा — अग्नेः साम्राज्येनाभिषिंचामि (अभिषेक 2)",
+    "en": "Devasya tva — agneh samrajyena (the second abhisheka verse)",
+    "bho": "देवस्य त्वा — अग्नेः साम्राज्येनाभिषिञ्चामि (दोसरा अभिषेक-मंत्र)"
+  },
+  "devanagari": "दे॒वस्य॑ त्वा सवि॒तुः प्र॑स॒वेऽश्विनो॑र्बा॒हुभ्यां॑ पू॒ष्णो हस्ता॑भ्याम् । सर॑स्वत्यै वा॒चो य॒न्तुर्य॒न्त्रेणा॒ग्नेः साम्रा॑ज्येना॒भिषि॑ञ्चामि ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "देवस्य सवितुः प्रसवे",
+      "gloss": {
+        "hi": "देव सविता की प्रेरणा में",
+        "en": "at the impulse of the god Savitar",
+        "bho": "देव सविता के प्रेरना में"
+      }
+    },
+    {
+      "sa": "अश्विनोः बाहुभ्याम्",
+      "gloss": {
+        "hi": "अश्विनों की बाँहों से",
+        "en": "with the arms of the Ashvins",
+        "bho": "अश्विन लोग के बाँह से"
+      }
+    },
+    {
+      "sa": "पूष्णः हस्ताभ्याम्",
+      "gloss": {
+        "hi": "पूषा के हाथों से",
+        "en": "with the hands of Pushan",
+        "bho": "पूषा के हाथ से"
+      }
+    },
+    {
+      "sa": "सरस्वत्यै वाचः यन्तुः यन्त्रेण",
+      "gloss": {
+        "hi": "वाणी की नियंत्री सरस्वती के नियम (यंत्र) से",
+        "en": "by the rule of Sarasvati, the controller of speech",
+        "bho": "बोली के नियंत्री सरस्वती के नियम (जंत्र) से"
+      }
+    },
+    {
+      "sa": "अग्नेः साम्राज्येन",
+      "gloss": {
+        "hi": "अग्नि के साम्राज्य से",
+        "en": "with the sovereignty of Agni",
+        "bho": "अग्नि के साम्राज्य से"
+      }
+    },
+    {
+      "sa": "त्वा अभिषिञ्चामि",
+      "gloss": {
+        "hi": "तेरा अभिषेक करता हूँ",
+        "en": "I anoint thee",
+        "bho": "तोहार अभिषेक करत बानी"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "देव सविता की प्रेरणा में, अश्विनों की बाँहों से, पूषा के हाथों से — वाणी की नियंत्री सरस्वती के नियम से, अग्नि के साम्राज्य से मैं तेरा अभिषेक करता हूँ।",
+    "en": "At the impulse of the god Savitar, with the arms of the Ashvins, with the hands of Pushan — by the rule of Sarasvati who governs speech, with the sovereignty of Agni I anoint thee.",
+    "bho": "देव सविता के प्रेरना में, अश्विन लोग के बाँह से, पूषा के हाथ से — बोली के नियंत्री सरस्वती के नियम से, अग्नि के साम्राज्य से हम तोहार अभिषेक करत बानी।"
+  },
+  "explanation": {
+    "hi": "[शुक्लयजुर्वेद अध्याय 18](https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_१८) का यह मंत्र वसोर्धारा-प्रकरण (18.1–37) का अंतिम मंत्र है — श्रौत यज्ञ में यजमान का अभिषेक, जिसमें \"देवस्य त्वा सवितुः प्रसवे\" का प्रसिद्ध ढाँचा है और अंत में \"अग्नि के साम्राज्य से\" (9.30 में \"बृहस्पति के साम्राज्य से\")। माध्यंदिन विवाह-पोथी होम के अंत में दृढ़-पुरुष के कलश के जल से दूर्वा-कुश या पंचपल्लव द्वारा वर-वधू का [[abhishek]] तीन मंत्रों से करवाती है — शुक्ल यजुर्वेद 9.30, यह 18.37 और 20.3 — और फिर नौ आशीर्वाद-श्लोक (\"कुर्वंतु वः पूर्णमनोरथं सदा\")। विवाह में इसका प्रयोग पद्धति का है, सूत्र का नहीं — पारस्कर का अभिषेक सप्तपदी के बाद \"आपः शिवाः\" और \"आपो हि ष्ठा\" से है। क्रम [विवाह](/occasions/vivah/) पृष्ठ पर।",
+    "en": "This verse of [Vajasaneyi Samhita 18](https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_१८) closes the Vasordhara section (18.1–37) — the anointing of the sacrificer in the shrauta rite, built on the familiar frame \"devasya tva savituh prasave\" and ending \"with the sovereignty of Agni\" (9.30 has \"of Brihaspati\"). At the end of the homa the Madhyandina wedding pothi has the couple anointed from the water-bearer's kalash with durva-kusha or five leaves, with three verses — Shukla Yajurveda 9.30, this 18.37 and 20.3 — followed by the nine blessing verses (\"kurvantu vah purnamanoratham sada\"). Its use at the wedding is the handbook's, not the sutra's — Paraskara's sprinkling after the saptapadi uses \"apah shivah\" and \"apo hi shtha\". The order is on the [wedding](/occasions/vivah/) page.",
+    "bho": "[शुक्लयजुर्वेद अध्याय 18](https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_१८) के ई मंत्र वसोर्धारा-प्रकरन (18.1–37) के आखिरी मंत्र बा — श्रौत जग्य में जजमान के अभिषेक, जेह में \"देवस्य त्वा सवितुः प्रसवे\" के परसिद्ध ढाँचा बा आ अंत में \"अग्नि के साम्राज्य से\" (9.30 में \"बृहस्पति के साम्राज्य से\")। माध्यंदिन बियाह-पोथी होम के अंत में दृढ़-पुरुष के कलश के जल से दूब-कुश भा पंचपल्लव से दुलहा-कनिया के [[abhishek]] तीन मंत्र से करवावेला — शुक्ल यजुर्वेद 9.30, ई 18.37 आ 20.3 — आ फेर नौ असीस-श्लोक (\"कुर्वन्तु वः पूर्णमनोरथं सदा\")। बियाह में एकर परयोग पद्धति के बा, सूत्र के ना — पारस्कर के अभिषेक सप्तपदी के बाद \"आपः शिवाः\" आ \"आपो हि ष्ठा\" से बा। क्रम [बियाह](/occasions/vivah/) पन्ना पर।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-18",
+    "retrieved": "2026-11-01",
+    "modified": false
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit, public domain; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "abhisheka",
+    "vasordhara"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

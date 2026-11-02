@@ -1,0 +1,101 @@
+{
+  "id": "pgs-1-8-19",
+  "kind": "vedic",
+  "text": "paraskara-grihya-sutra",
+  "locator": "PGS 1.8.19–20 (after sunset he shows her the pole star; if she cannot see it she still says \"I see\"); vivah paddhati: ध्रुवदर्शन for a night wedding",
+  "title": {
+    "hi": "ध्रुवमसि ध्रुवं त्वा पश्यामि — ध्रुव-दर्शन",
+    "en": "Dhruvam asi dhruvam tva pashyami — the sighting of the pole star",
+    "bho": "ध्रुवमसि ध्रुवं त्वा पश्यामि — ध्रुव-दरसन"
+  },
+  "devanagari": "ध्रुवमसि ध्रुवं त्वा पश्यामि ध्रुवैधि पोष्ये मयि । मह्यं त्वादाद्बृहस्पतिर्मया पत्या प्रजावती सञ्जीव शरदः शतम् ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "ध्रुवम् असि",
+      "gloss": {
+        "hi": "(हे ध्रुव,) तू स्थिर है",
+        "en": "(O pole star,) firm art thou",
+        "bho": "(हे ध्रुव,) तू अटल बाड़ऽ"
+      }
+    },
+    {
+      "sa": "ध्रुवं त्वा पश्यामि",
+      "gloss": {
+        "hi": "मैं तुझ स्थिर को देखती हूँ",
+        "en": "I see thee, the firm one",
+        "bho": "हम तोहरा अटल के देखत बानी"
+      }
+    },
+    {
+      "sa": "ध्रुवा एधि पोष्ये मयि",
+      "gloss": {
+        "hi": "(हे वधू,) पोषण करने वाले मुझमें तू स्थिर हो",
+        "en": "(O bride,) be firm in me, who shall sustain thee",
+        "bho": "(हे कनिया,) पोसे वाला हमरा में तू अटल होखू"
+      }
+    },
+    {
+      "sa": "मह्यं त्वा अदात् बृहस्पतिः",
+      "gloss": {
+        "hi": "बृहस्पति ने तुझे मुझे दिया",
+        "en": "Brihaspati has given thee to me",
+        "bho": "बृहस्पति तोहरा के हमरा दिहलन"
+      }
+    },
+    {
+      "sa": "मया पत्या प्रजावती",
+      "gloss": {
+        "hi": "मुझ पति के साथ संतान वाली",
+        "en": "with me, thy husband, rich in offspring",
+        "bho": "हमरा पति के साथे संतान वाली"
+      }
+    },
+    {
+      "sa": "सञ्जीव शरदः शतम्",
+      "gloss": {
+        "hi": "सौ शरद (वर्ष) साथ जी",
+        "en": "live together a hundred autumns",
+        "bho": "सौ सरद (साल) साथे जिअ"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "(वधू ध्रुव तारे को देखकर:) तू स्थिर है, मैं तुझ स्थिर को देखती हूँ। (वर वधू से:) पोषण करने वाले मुझमें तू स्थिर हो; बृहस्पति ने तुझे मुझे दिया है; मुझ पति के साथ संतान वाली होकर सौ वर्ष जी।",
+    "en": "(The bride, looking at the pole star:) Firm art thou; I see thee, the firm one. (The groom to the bride:) Be firm in me who shall sustain thee; Brihaspati has given thee to me; rich in offspring with me, thy husband, live a hundred autumns.",
+    "bho": "(कनिया ध्रुव तारा के देख के:) तू अटल बाड़ऽ, हम तोहरा अटल के देखत बानी। (दुलहा कनिया से:) पोसे वाला हमरा में तू अटल होखू; बृहस्पति तोहरा के हमरा दिहलन; हमरा पति के साथे संतान वाली होके सौ साल जिअ।"
+  },
+  "explanation": {
+    "hi": "[[dhruva-darshan]] — [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.8.19: सूर्यास्त के बाद वर वधू को ध्रुव तारा दिखाता है। Oldenberg की टिप्पणी: \"ध्रुव\" पहले दो बार नपुंसक है (तारा) और तीसरी बार स्त्रीलिंग \"ध्रुवा\" (वधू) — इसलिए पहला आधा वधू का वाक्य है और दूसरा वर का। सूत्र 1.8.20 कहता है कि यदि वधू को तारा न दिखे तो भी वह \"पश्यामि\" (देखती हूँ) कहे — पोथी इसे यूँ समझाती है कि वह मन से ध्रुव का ध्यान करे। पोथी में यह रात के विवाह का विकल्प है (दिन में सूर्य-दर्शन): पंडित कहता है \"ध्रुवमुदीक्षस्व\", वधू \"ध्रुवं पश्यामि\"। [[arundhati-darshan]] — वसिष्ठ के साथ सप्तर्षि में अरुंधती तारा — पारस्कर में नहीं है; आश्वलायन गृह्यसूत्र (ऋग्वेदी) 1.7.22 में वधू ध्रुव, अरुंधती और सप्तर्षि देखकर मौन तोड़ती है ([Oldenberg SBE 29](https://archive.org/details/india.history.resource.89728)); हिंदी-भाषी क्षेत्र के बहुत से पंडित अरुंधती भी दिखाते हैं, पर माध्यंदिन पोथी में उसका अलग मंत्र नहीं है। क्रम [विवाह](/occasions/vivah/) पृष्ठ पर।",
+    "en": "The dhruva-darshana — [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.8.19: after sunset the groom shows the bride the pole star. Oldenberg notes that \"dhruva\" is neuter the first two times (the star) and feminine the third time, \"dhruva\" (the bride) — so the first half is the bride's sentence and the second the groom's. Sutra 1.8.20 says that if she cannot see the star she still says \"pashyami\" (I see) — the pothi explains it as fixing the mind on the pole star. In the pothi this is the option for a night wedding (by day the sun is shown): the pandit says \"dhruvam udikshasva\", the bride \"dhruvam pashyami\". The sighting of Arundhati — the star beside Vasishtha in the Great Bear — is not in Paraskara; in the Ashvalayana Grihya Sutra (Rigvedic) 1.7.22 the bride breaks her silence on seeing the pole star, Arundhati and the seven rishis ([Oldenberg SBE 29](https://archive.org/details/india.history.resource.89728)); many Hindi-belt pandits show Arundhati as well, but the Madhyandina pothi has no separate formula for it. The order is on the [wedding](/occasions/vivah/) page.",
+    "bho": "[[dhruva-darshan]] — [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.8.19: सुरुज डूबला के बाद दुलहा कनिया के ध्रुव तारा देखावेला। Oldenberg के टिप्पनी: \"ध्रुव\" पहिले दू बेर नपुंसक बा (तारा) आ तीसरा बेर स्त्रीलिंग \"ध्रुवा\" (कनिया) — एही से पहिला आधा कनिया के वाक्य बा आ दोसरा दुलहा के। सूत्र 1.8.20 कहेला कि कनिया के तारा ना लउके तबो ऊ \"पश्यामि\" (देखत बानी) कहे — पोथी एकरा अइसे समझावेला कि ऊ मन से ध्रुव के धेयान करे। पोथी में ई रात के बियाह के विकल्प बा (दिन में सुरुज-दरसन): पंडित कहेलन \"ध्रुवमुदीक्षस्व\", कनिया \"ध्रुवं पश्यामि\"। [[arundhati-darshan]] — वसिष्ठ के साथे सप्तरिसि में अरुंधती तारा — पारस्कर में नइखे; आश्वलायन गृह्यसूत्र (ऋग्वेदी) 1.7.22 में कनिया ध्रुव, अरुंधती आ सप्तरिसि देख के मौन तोड़ेली ([Oldenberg SBE 29](https://archive.org/details/india.history.resource.89728)); हिंदी-भाषी इलाका के ढेर पंडित अरुंधती भी देखावेलन, बाकिर माध्यंदिन पोथी में ओकर अलगा मंत्र नइखे। क्रम [बियाह](/occasions/vivah/) पन्ना पर।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-pgs",
+    "retrieved": "2026-11-01",
+    "modified": "Wikisource त्वादादबृहस्पतिर् read as त्वादाद्बृहस्पतिर् (Oldenberg: \"to me Brihaspati has given thee\"; the pothi prints त्वाऽदात् बृहस्पतिर्); संजीव written सञ्जीव as the pothi prints; dandas added; the sutra's closing इति dropped"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-sbe29",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit, public domain; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "dhruva-darshan",
+    "arundhati"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

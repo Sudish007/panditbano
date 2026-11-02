@@ -1,0 +1,94 @@
+{
+  "id": "pgs-1-8-21",
+  "kind": "vedic",
+  "text": "paraskara-grihya-sutra",
+  "locator": "PGS 1.8.21 (sutra: three nights without salt and alkali, sleeping on the ground, continence for a year, twelve, six or at least three nights); vivah paddhati: तीन रात पालनीय नियम",
+  "title": {
+    "hi": "त्रिरात्रमक्षारलवणाशिनौ — तीन रात के नियम",
+    "en": "Triratram aksharalavanashinau — the three-night rules",
+    "bho": "त्रिरात्रमक्षारलवणाशिनौ — तीन रात के नेम-धरम"
+  },
+  "devanagari": "त्रिरात्रमक्षारालवणाशिनौ स्यातामधः शयीयातां संवत्सरं न मिथुनमुपेयातां द्वादशरात्रं षड्रात्रं त्रिरात्रमन्ततः ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "त्रिरात्रम्",
+      "gloss": {
+        "hi": "तीन रात तक",
+        "en": "for three nights",
+        "bho": "तीन रात ले"
+      }
+    },
+    {
+      "sa": "अक्षार अलवण अशिनौ स्याताम्",
+      "gloss": {
+        "hi": "दोनों क्षार और नमक रहित भोजन करें",
+        "en": "the two shall eat food without alkali and salt",
+        "bho": "दुनो खार आ नून बिना खाना खास"
+      }
+    },
+    {
+      "sa": "अधः शयीयाताम्",
+      "gloss": {
+        "hi": "भूमि पर सोएँ",
+        "en": "they shall sleep on the ground",
+        "bho": "भुइयाँ पर सुतस"
+      }
+    },
+    {
+      "sa": "संवत्सरं न मिथुनम् उपेयाताम्",
+      "gloss": {
+        "hi": "एक वर्ष मिथुन (सहवास) न करें",
+        "en": "for a year they shall not come together as a couple",
+        "bho": "एक साल मिथुन (सहवास) ना करस"
+      }
+    },
+    {
+      "sa": "द्वादशरात्रं षड्रात्रं त्रिरात्रम् अन्ततः",
+      "gloss": {
+        "hi": "या बारह रात, छह रात, कम से कम तीन रात",
+        "en": "or twelve nights, six nights, three nights at the least",
+        "bho": "भा बारह रात, छव रात, कम से कम तीन रात"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "तीन रात तक दोनों क्षार और नमक रहित भोजन करें, भूमि पर सोएँ; एक वर्ष तक सहवास न करें — या बारह रात, छह रात, कम से कम तीन रात।",
+    "en": "For three nights the two shall eat food without alkali and salt and sleep on the ground; for a year they shall not come together as a couple — or for twelve nights, six nights, three nights at the least.",
+    "bho": "तीन रात ले दुनो खार आ नून बिना खाना खास, भुइयाँ पर सुतस; एक साल ले सहवास ना करस — भा बारह रात, छव रात, कम से कम तीन रात।"
+  },
+  "explanation": {
+    "hi": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.8.21 — विवाह के बाद के संयम का सूत्र। माध्यंदिन पोथी इसे \"वर-वधू के तीन रात पालनीय नियम\" कहकर तीन बिंदुओं में देती है: तीन दिन क्षार-लवण रहित भोजन, भूमि पर शयन, एक साथ शयन नहीं; एक वर्ष वाला विकल्प पोथी में नहीं है — सूत्र स्वयं \"कम से कम तीन रात\" की छूट देता है। इन तीन रातों के बाद [[chaturthi-karma]] आता है (चौथी रात का होम), जिसके बाद परंपरा में दंपति का साथ आरंभ होता है। आज बहुत से परिवार इसे संक्षेप में (केवल चौथी के होम तक) रखते हैं या विवाह की रात ही चतुर्थी-होम का \"अपकर्षण\" कर लेते हैं — पोथी दोनों की अनुमति देती है। क्रम [विवाह](/occasions/vivah/) पृष्ठ पर।",
+    "en": "[Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.8.21 — the sutra of restraint after the wedding. The Madhyandina pothi gives it as \"the rules the couple keep for three nights\" in three points: food without alkali and salt for three days, sleeping on the ground, not sleeping together; the one-year option is not in the pothi — the sutra itself allows \"three nights at the least\". After these three nights comes the chaturthi-karma (the homa of the fourth night), after which the couple's life together traditionally begins. Many families today keep this short (only until the fourth-night homa) or bring the chaturthi homa forward to the wedding night itself — the pothi permits both. The order is on the [wedding](/occasions/vivah/) page.",
+    "bho": "[पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.8.21 — बियाह के बाद के संजम के सूत्र। माध्यंदिन पोथी एकरा \"वर-वधू के तीन रात पालनीय नियम\" कह के तीन बात में देला: तीन दिन खार-नून बिना खाना, भुइयाँ पर सुतल, संगे ना सुतल; एक साल वाला विकल्प पोथी में नइखे — सूत्र खुद \"कम से कम तीन रात\" के छूट देला। एह तीन रात के बाद [[chaturthi-karma]] आवेला (चउथा रात के होम), जेकरा बाद परंपरा में दंपति के साथे रहल सुरू होला। आज ढेर परिवार एकरा छोट रूप में (खाली चउथी के होम तक) राखेलन भा बियाह के रात ही चतुर्थी-होम के \"अपकर्षन\" कर लेलन — पोथी दुनो के अनुमति देला। क्रम [बियाह](/occasions/vivah/) पन्ना पर।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-pgs",
+    "retrieved": "2026-11-01",
+    "modified": "the Wikisource line break inside the sutra closed; sutra number dropped; danda added"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-sbe29",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit, public domain; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "sutra",
+    "triratra",
+    "niyama"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

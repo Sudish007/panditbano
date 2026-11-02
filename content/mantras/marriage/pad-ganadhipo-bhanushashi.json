@@ -1,0 +1,124 @@
+{
+  "id": "pad-ganadhipo-bhanushashi",
+  "kind": "paddhati",
+  "text": "vivah-paddhati",
+  "locator": "vivah paddhati: अभिषेक-आशीर्वाद — the nine \"kurvantu vah purnamanoratham sada\" verses recited after the abhisheka of the couple (also used at other blessings; the ninth verse names Vyasa)",
+  "title": {
+    "hi": "कुर्वंतु वः पूर्णमनोरथं सदा — नौ आशीर्वाद-श्लोक",
+    "en": "Kurvantu vah purnamanoratham sada — the nine blessing verses",
+    "bho": "कुर्वन्तु वः पूर्णमनोरथं सदा — नौ असीस-श्लोक"
+  },
+  "devanagari": "गणाधिपो भानुशशी धरासुतो बुधो गुरुर्भार्गवसूर्यनन्दनौ । राहुश्च केतुप्रभृति नवग्रहाः कुर्वन्तु वः पूर्णमनोरथं सदा ॥ उपेन्द्र इन्द्रो वरुणो हुताशनो धर्मो यमो वायुहरिश्चतुर्भुजः । गन्धर्वयक्षोरगसिद्धचारणाः कुर्वन्तु वः पूर्णमनोरथं सदा ॥ नलो दधीचिः सगरः पुरूरवाः शाकुन्तलेयो भरतो धनञ्जयः । रामत्रयं वैन्यबलियुधिष्ठिरः कुर्वन्तु वः पूर्णमनोरथं सदा ॥ मनुर्मरीचिर्भृगुदक्षनारदाः पराशरो व्यासवसिष्ठभार्गवाः । वाल्मीकिकुम्भोद्भवगर्गगौतमाः कुर्वन्तु वः पूर्णमनोरथं सदा ॥ रम्भा शची सत्यवती च देवकी गौरी च लक्ष्मीरदितिश्च रुक्मिणी । कूर्मो गजेन्द्रः सचराचरा धरा कुर्वन्तु वः पूर्णमनोरथं सदा ॥ गङ्गा च क्षिप्रा यमुना सरस्वती गोदावरी वेत्रवती च नर्मदा । सा चन्द्रभागा वरुणा असी नदी कुर्वन्तु वः पूर्णमनोरथं सदा ॥ तुङ्गः प्रभासो गुरुचक्रपुष्करं गया विमुक्तो बदरी बटेश्वरः । केदारपम्पासुरनैमिषारकं कुर्वन्तु वः पूर्णमनोरथं सदा ॥ शङ्खश्च दूर्वा सितपत्रचामरं मणिः प्रदीपो वररत्नकाञ्चनम् । सम्पूर्णकुम्भैः सहितो हुताशनः कुर्वन्तु वः पूर्णमनोरथं सदा ॥ प्रयाणकाले यदि वा सुमङ्गले प्रभातकाले च नृपाभिषेचने । धर्मार्थकामाय नरस्य भाषितं व्यासेन सम्प्रोक्तमनोरथं सदा ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "गणाधिपः भानुः शशी धरासुतः बुधः गुरुः भार्गवः सूर्यनन्दनौ राहुः च केतुप्रभृति नवग्रहाः",
+      "gloss": {
+        "hi": "गणपति; सूर्य, चंद्र, मंगल, बुध, गुरु, शुक्र, शनि (सूर्य-पुत्र), राहु और केतु — नवग्रह",
+        "en": "Ganapati; the Sun, the Moon, Mars, Mercury, Jupiter, Venus, Saturn (the Sun's son), Rahu and Ketu — the nine planets",
+        "bho": "गणपति; सुरुज, चंदा, मंगल, बुध, गुरु, सुक्र, सनि (सुरुज-पूत), राहु आ केतु — नवग्रह"
+      }
+    },
+    {
+      "sa": "कुर्वन्तु वः पूर्णमनोरथं सदा",
+      "gloss": {
+        "hi": "तुम सबका मनोरथ सदा पूर्ण करें",
+        "en": "may they always fulfil your wishes",
+        "bho": "रउआ सभे के मनोरथ सदा पूरा करसु"
+      }
+    },
+    {
+      "sa": "उपेन्द्रः इन्द्रः वरुणः हुताशनः धर्मः यमः वायुः हरिः चतुर्भुजः गन्धर्व यक्ष उरग सिद्ध चारणाः",
+      "gloss": {
+        "hi": "उपेंद्र, इंद्र, वरुण, अग्नि, धर्म, यम, वायु, चतुर्भुज हरि; गंधर्व, यक्ष, नाग, सिद्ध, चारण",
+        "en": "Upendra, Indra, Varuna, Agni, Dharma, Yama, Vayu, four-armed Hari; the gandharvas, yakshas, nagas, siddhas and charanas",
+        "bho": "उपेंद्र, इंद्र, वरुन, अग्नि, धरम, जम, वायु, चारभुजा हरि; गंधर्व, जच्छ, नाग, सिद्ध, चारन"
+      }
+    },
+    {
+      "sa": "नलः दधीचिः सगरः पुरूरवाः शाकुन्तलेयः भरतः धनञ्जयः रामत्रयं वैन्यः बलिः युधिष्ठिरः",
+      "gloss": {
+        "hi": "नल, दधीचि, सगर, पुरूरवा, शकुंतला-पुत्र भरत, अर्जुन, तीन राम, पृथु, बलि, युधिष्ठिर",
+        "en": "Nala, Dadhichi, Sagara, Pururavas, Bharata the son of Shakuntala, Arjuna, the three Ramas, Prithu, Bali, Yudhishthira",
+        "bho": "नल, दधीचि, सगर, पुरूरवा, सकुंतला-पूत भरत, अर्जुन, तीन राम, पृथु, बलि, युधिष्ठिर"
+      }
+    },
+    {
+      "sa": "मनुः मरीचिः भृगु दक्ष नारदाः पराशरः व्यास वसिष्ठ भार्गवाः वाल्मीकि कुम्भोद्भव गर्ग गौतमाः",
+      "gloss": {
+        "hi": "मनु, मरीचि, भृगु, दक्ष, नारद, पराशर, व्यास, वसिष्ठ, भार्गव (परशुराम), वाल्मीकि, अगस्त्य, गर्ग, गौतम",
+        "en": "Manu, Marichi, Bhrigu, Daksha, Narada, Parashara, Vyasa, Vasishtha, Bhargava (Parashurama), Valmiki, Agastya, Garga, Gautama",
+        "bho": "मनु, मरीचि, भृगु, दक्ष, नारद, पराशर, व्यास, वसिष्ठ, भार्गव (परसुराम), वाल्मीकि, अगस्त्य, गर्ग, गौतम"
+      }
+    },
+    {
+      "sa": "रम्भा शची सत्यवती च देवकी गौरी च लक्ष्मीः अदितिः च रुक्मिणी कूर्मः गजेन्द्रः सचराचरा धरा",
+      "gloss": {
+        "hi": "रंभा, शची, सत्यवती, देवकी, गौरी, लक्ष्मी, अदिति, रुक्मिणी; कूर्म, गजेंद्र, चर-अचर सहित पृथ्वी",
+        "en": "Rambha, Shachi, Satyavati, Devaki, Gauri, Lakshmi, Aditi, Rukmini; the tortoise, the lord of elephants, the earth with all that moves and stands",
+        "bho": "रंभा, सची, सत्यवती, देवकी, गौरी, लक्ष्मी, अदिति, रुक्मिनी; कूर्म, गजेंद्र, चर-अचर सहित धरती"
+      }
+    },
+    {
+      "sa": "गङ्गा च क्षिप्रा यमुना सरस्वती गोदावरी वेत्रवती च नर्मदा सा चन्द्रभागा वरुणा असी नदी",
+      "gloss": {
+        "hi": "गंगा, क्षिप्रा, यमुना, सरस्वती, गोदावरी, बेतवा, नर्मदा, चंद्रभागा, वरुणा और असी नदी",
+        "en": "the Ganga, Kshipra, Yamuna, Sarasvati, Godavari, Betwa, Narmada, Chandrabhaga, and the rivers Varuna and Asi",
+        "bho": "गंगा, छिपरा, जमुना, सरस्वती, गोदावरी, बेतवा, नरमदा, चंद्रभागा, वरुना आ असी नदी"
+      }
+    },
+    {
+      "sa": "तुङ्गः प्रभासः गुरुचक्रपुष्करं गया विमुक्तः बदरी बटेश्वरः केदार पम्पा सुर नैमिषारकम्",
+      "gloss": {
+        "hi": "तुंग, प्रभास, चक्रतीर्थ-पुष्कर, गया, विमुक्त (काशी), बदरी, बटेश्वर, केदार, पंपा, नैमिषारण्य आदि तीर्थ",
+        "en": "the tirthas Tunga, Prabhasa, Chakra-tirtha and Pushkara, Gaya, Vimukta (Kashi), Badari, Bateshvara, Kedara, Pampa, Naimisha and the rest",
+        "bho": "तुंग, प्रभास, चक्रतीरथ-पुष्कर, गया-तीरथ, विमुक्त (कासी), बदरी, बटेसर, केदार, पंपा, नैमिषारन आदि तीरथ"
+      }
+    },
+    {
+      "sa": "शङ्खः च दूर्वा सितपत्रचामरं मणिः प्रदीपः वररत्नकाञ्चनम् सम्पूर्णकुम्भैः सहितः हुताशनः",
+      "gloss": {
+        "hi": "शंख, दूर्वा, श्वेत पत्र और चामर, मणि, दीपक, उत्तम रत्न और सोना, भरे कलशों सहित अग्नि",
+        "en": "the conch, durva, white leaf and chowrie, the jewel, the lamp, fine gems and gold, and the fire with the full pitchers",
+        "bho": "संख, दूब, उज्जर पत्ता आ चँवर, मनि, दीया, उत्तम रतन आ सोना, भरल कलस सहित आगि"
+      }
+    },
+    {
+      "sa": "प्रयाणकाले यदि वा सुमङ्गले प्रभातकाले च नृपाभिषेचने धर्मार्थकामाय नरस्य भाषितं व्यासेन सम्प्रोक्तम्",
+      "gloss": {
+        "hi": "यात्रा के समय, मंगल कार्य में, प्रभात में, राजा के अभिषेक में — मनुष्य के धर्म, अर्थ, काम के लिए व्यास द्वारा कहा गया (यह मनोरथ)",
+        "en": "at the time of a journey, at an auspicious rite, at dawn, at a king's anointing — spoken by Vyasa for a man's dharma, wealth and desire",
+        "bho": "जतरा के समय, मंगल काम में, भोर में, राजा के अभिषेक में — मनई के धरम, अरथ, काम खातिर व्यास के कहल (ई मनोरथ)"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "गणपति, सूर्य, चंद्र, मंगल, बुध, गुरु, शुक्र, शनि, राहु, केतु — नवग्रह तुम्हारे मनोरथ सदा पूर्ण करें। उपेंद्र, इंद्र, वरुण, अग्नि, धर्म, यम, वायु, चतुर्भुज हरि, गंधर्व, यक्ष, नाग, सिद्ध, चारण … ; नल, दधीचि, सगर, पुरूरवा, भरत, अर्जुन, तीन राम, पृथु, बलि, युधिष्ठिर … ; मनु, मरीचि, भृगु, दक्ष, नारद, पराशर, व्यास, वसिष्ठ, परशुराम, वाल्मीकि, अगस्त्य, गर्ग, गौतम … ; रंभा, शची, सत्यवती, देवकी, गौरी, लक्ष्मी, अदिति, रुक्मिणी, कूर्म, गजेंद्र, चर-अचर सहित पृथ्वी … ; गंगा, क्षिप्रा, यमुना, सरस्वती, गोदावरी, बेतवा, नर्मदा, चंद्रभागा, वरुणा, असी … ; तुंग, प्रभास, पुष्कर, गया, काशी, बदरी, बटेश्वर, केदार, पंपा, नैमिष आदि तीर्थ … ; शंख, दूर्वा, श्वेत पत्र, चामर, मणि, दीप, रत्न, सोना, भरे कलश और अग्नि — ये सब तुम्हारे मनोरथ सदा पूर्ण करें। यात्रा, मंगल कार्य, प्रभात और राज्याभिषेक के समय मनुष्य के धर्म-अर्थ-काम के लिए व्यास ने यह (आशीर्वाद) कहा है।",
+    "en": "Ganapati, the Sun, the Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and Ketu — may the nine planets always fulfil your wishes. Upendra, Indra, Varuna, Agni, Dharma, Yama, Vayu, four-armed Hari, the gandharvas, yakshas, nagas, siddhas and charanas …; Nala, Dadhichi, Sagara, Pururavas, Bharata, Arjuna, the three Ramas, Prithu, Bali, Yudhishthira …; Manu, Marichi, Bhrigu, Daksha, Narada, Parashara, Vyasa, Vasishtha, Parashurama, Valmiki, Agastya, Garga, Gautama …; Rambha, Shachi, Satyavati, Devaki, Gauri, Lakshmi, Aditi, Rukmini, the tortoise, the lord of elephants, the earth with all that moves and stands …; the Ganga, Kshipra, Yamuna, Sarasvati, Godavari, Betwa, Narmada, Chandrabhaga, Varuna and Asi …; the tirthas Tunga, Prabhasa, Pushkara, Gaya, Kashi, Badari, Bateshvara, Kedara, Pampa, Naimisha and the rest …; the conch, durva, white leaf, chowrie, jewel, lamp, gems, gold, the full pitchers and the fire — may all these always fulfil your wishes. At a journey, an auspicious rite, at dawn and at a king's anointing Vyasa spoke this (blessing) for a man's dharma, wealth and desire.",
+    "bho": "गणपति, सुरुज, चंदा, मंगल, बुध, गुरु, सुक्र, सनि, राहु, केतु — नवग्रह राउर मनोरथ सदा पूरा करसु। उपेंद्र, इंद्र, वरुन, अग्नि, धरम, जम, वायु, चारभुजा हरि, गंधर्व, जच्छ, नाग, सिद्ध, चारन … ; नल, दधीचि, सगर, पुरूरवा, भरत, अर्जुन, तीन राम, पृथु, बलि, युधिष्ठिर … ; मनु, मरीचि, भृगु, दक्ष, नारद, पराशर, व्यास, वसिष्ठ, परसुराम, वाल्मीकि, अगस्त्य, गर्ग, गौतम … ; रंभा, सची, सत्यवती, देवकी, गौरी, लक्ष्मी, अदिति, रुक्मिनी, कूर्म, गजेंद्र, चर-अचर सहित धरती … ; गंगा, छिपरा, जमुना, सरस्वती, गोदावरी, बेतवा, नरमदा, चंद्रभागा, वरुना, असी … ; तुंग, प्रभास, पुष्कर, गया-तीरथ, कासी, बदरी, बटेसर, केदार, पंपा, नैमिष आदि तीरथ … ; संख, दूब, उज्जर पत्ता, चँवर, मनि, दीया, रतन, सोना, भरल कलस आ आगि — ई सब राउर मनोरथ सदा पूरा करसु। जतरा, मंगल काम, भोर आ राज्याभिषेक के समय मनई के धरम-अरथ-काम खातिर व्यास ई (असीस) कहले बाड़न।"
+  },
+  "explanation": {
+    "hi": "अभिषेक के बाद के नौ आशीर्वाद-श्लोक — हर श्लोक की चौथी पंक्ति \"कुर्वंतु वः पूर्णमनोरथं सदा\" (ये सब तुम्हारे मनोरथ सदा पूर्ण करें)। [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/details/mvf_20240803_20240803_1558) इन्हें वर-वधू के अभिषेक के तीन वैदिक मंत्रों (शुक्ल यजुर्वेद 9.30, 18.37, 20.3) के बाद रखती है; हिंदी-भाषी क्षेत्र में यही श्लोक अन्य मंगल कार्यों — यात्रा, गृहप्रवेश, यज्ञ के अंत — में भी आशीर्वाद के रूप में पढ़े जाते हैं, जैसा नौवाँ श्लोक स्वयं कहता है। क्रम: नवग्रह → देव और दिव्य गण → पुण्यश्लोक राजा → ऋषि → देवियाँ और धरती → नदियाँ → तीर्थ → मंगल द्रव्य। नौवाँ श्लोक इन्हें व्यास के नाम से जोड़ता है — यह परंपरा का कथन है; वास्तविक रचनाकार और काल अज्ञात हैं (इसीलिए यह अभिलेख \"अनिश्चित\" स्वत्व के साथ है)। कुछ नामों के पाठ पोथियों में भिन्न हैं; यहाँ 2020 की द्विवेदी पोथी का पाठ है, स्कैन की स्पष्ट भूलें सुधारी गई हैं और \"नैमिषारकम्\" पोथी के अनुसार रखा गया है। यह [[paddhati]] की परत है, वैदिक नहीं। क्रम [विवाह](/occasions/vivah/) पृष्ठ पर।",
+    "en": "The nine blessing verses after the abhisheka — the fourth line of each is \"kurvantu vah purnamanoratham sada\" (may all these always fulfil your wishes). The [Vivah Sanskar Paddhati (Dwivedi 2020)](https://archive.org/details/mvf_20240803_20240803_1558) places them after the three Vedic anointing verses of the couple (Shukla Yajurveda 9.30, 18.37, 20.3); in the Hindi belt the same verses are recited as a blessing at other auspicious occasions too — a journey, a house-entry, the end of a yajna — as the ninth verse itself says. The order: the nine planets → gods and divine hosts → the kings of blessed memory → the rishis → goddesses and the earth → rivers → tirthas → auspicious things. The ninth verse attaches them to the name of Vyasa — that is the tradition's statement; the real author and date are unknown (which is why this record carries an \"uncertain\" copyright note). A few names read differently in different pothis; here is the text of the 2020 Dwivedi pothi, with obvious scan errors corrected and \"naimisharakam\" kept as printed. This is the handbook layer, not Vedic. The order is on the [wedding](/occasions/vivah/) page.",
+    "bho": "अभिषेक के बाद के नौ असीस-श्लोक — हर श्लोक के चउथा पंक्ति \"कुर्वन्तु वः पूर्णमनोरथं सदा\" (ई सब राउर मनोरथ सदा पूरा करसु)। [विवाह संस्कार पद्धति (द्विवेदी)](https://archive.org/details/mvf_20240803_20240803_1558) एकरा दुलहा-कनिया के अभिषेक के तीन वैदिक मंत्र (शुक्ल यजुर्वेद 9.30, 18.37, 20.3) के बाद राखेला; हिंदी-भाषी इलाका में एही श्लोक दोसरा मंगल काम — जतरा, गृहपरवेस, जग्य के अंत — में भी असीस के रूप में पढ़ल जाला, जइसन नौवाँ श्लोक खुद कहेला। क्रम: नवग्रह → देव आ दिव्य गन → पुन्यसलोक राजा → रिसि → देवी आ धरती → नदी → तीरथ → मंगल द्रव्य। नौवाँ श्लोक एकरा व्यास के नाँव से जोड़ेला — ई परंपरा के कथन बा; असली रचनाकार आ काल अज्ञात बा (एही से ई अभिलेख \"अनिश्चित\" स्वत्व के साथे बा)। कुछ नाँव के पाठ पोथी-पोथी में अलग बा; इहाँ 2020 के द्विवेदी पोथी के पाठ बा, स्कैन के साफ भूल सुधारल गइल बा आ \"नैमिषारकम्\" पोथी के अनुसार राखल गइल बा। ई [[paddhati]] के परत बा, वैदिक ना। क्रम [बियाह](/occasions/vivah/) पन्ना पर।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-vivah-mvf",
+    "retrieved": "2026-11-01",
+    "modified": "OCR of the pothy normalised: commas and verse numbers removed; sandhi closed where the scan splits compounds (गुरुर्भार्गवसूर्यनन्दनौ, गन्धर्वयक्षोरगसिद्धचारणाः, लक्ष्मीरदितिश्च, वाल्मीकिकुम्भोद्भवगर्गगौतमाः); scan errors भगु → भृगु, दुर्वा → दूर्वा, मनोररथं → मनोरथं, ॐ dropped from the first verse; नैमिषारकं kept as printed (UNCERTAIN)"
+  },
+  "copyright": "uncertain",
+  "reproduce": true,
+  "copyrightBasis": "traditional Sanskrit verse printed in the Hindi-belt vivah paddhatis; author and date unknown; copied from the 2020 Dwivedi pothi OCR (archive.org) under brief §14.2",
+  "tags": [
+    "vivah",
+    "ashirvada",
+    "abhisheka",
+    "navagraha"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "pgs-1-8-11-13",
+  "kind": "vedic",
+  "text": "paraskara-grihya-sutra",
+  "locator": "PGS 1.8.11–13 (sutra: ग्रामवचनं च कुर्युः — at weddings and funerals the village is the authority); the warrant of every regional variant on this site",
+  "title": {
+    "hi": "ग्रामवचनं च कुर्युः — भिन्न रूपों का सूत्र",
+    "en": "Gramavachanam cha kuryuh — the sutra behind the variants",
+    "bho": "ग्रामवचनं च कुर्युः — अलग रूप के सूत्र"
+  },
+  "devanagari": "ग्रामवचनं च कुर्युः । विवाहश्मशानयोर्ग्रामं प्रविशतादिति वचनात् । तस्मात्तयोर्ग्रामः प्रमाणमिति श्रुतेः ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "ग्रामवचनं च कुर्युः",
+      "gloss": {
+        "hi": "और ग्राम (के लोग) जो कहें, वह करें",
+        "en": "and what the village says, that they should do",
+        "bho": "आ गाँव (के लोग) जे कहे, ऊ करसु"
+      }
+    },
+    {
+      "sa": "विवाह श्मशानयोः",
+      "gloss": {
+        "hi": "विवाह और श्मशान (अंत्येष्टि) में",
+        "en": "at the wedding and at the cremation ground",
+        "bho": "बियाह आ मसान (अंत्येष्टि) में"
+      }
+    },
+    {
+      "sa": "ग्रामं प्रविशतात् इति वचनात्",
+      "gloss": {
+        "hi": "\"ग्राम में प्रवेश करे\" — इस वचन से",
+        "en": "because of the saying \"he shall enter the village\"",
+        "bho": "\"गाँव में परवेस करे\" — एह वचन से"
+      }
+    },
+    {
+      "sa": "तस्मात् तयोः ग्रामः प्रमाणम् इति श्रुतेः",
+      "gloss": {
+        "hi": "\"इसलिए इन दोनों में ग्राम ही प्रमाण है\" — इस श्रुति से",
+        "en": "because the shruti says \"therefore in these two the village is the authority\"",
+        "bho": "\"एही से एह दुनो में गाँव ही प्रमान बा\" — एह श्रुति से"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "और जो ग्राम (के लोग) कहें, वह (भी) करें — क्योंकि वचन है \"विवाह और श्मशान में ग्राम में प्रवेश करे\", और क्योंकि श्रुति कहती है \"इसलिए इन दोनों में ग्राम ही प्रमाण है\"।",
+    "en": "And what the village tells them, that they should (also) do — for it is said \"at weddings and funerals he shall enter the village\", and because the shruti says \"therefore in these two the village is the authority\".",
+    "bho": "आ जे गाँव (के लोग) कहे, ऊ (भी) करसु — काहे कि वचन बा \"बियाह आ मसान में गाँव में परवेस करे\", आ काहे कि श्रुति कहेले \"एही से एह दुनो में गाँव ही प्रमान बा\"।"
+  },
+  "explanation": {
+    "hi": "यह [[grihya-sutra]] का वह वाक्य है जिस पर इस साइट के सभी \"भिन्न रूप\" खड़े हैं। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.8.11–13 विवाह-विधि के बीच में ही कहता है कि वैदिक क्रम के साथ ग्राम का कहा भी किया जाए — हरिहर और गदाधर की टीकाएँ \"ग्राम\" को देशाचार, कुलाचार और जात्याचार तक फैलाती हैं। इसीलिए तिलक, हल्दी, मटकोर, द्वारपूजा, जयमाला, सिंदूरदान, कोहबर, विदाई — जो सूत्र में नहीं हैं — गलत नहीं, लोकाचार हैं; और मैथिल, भोजपुरी, राजस्थानी, पहाड़ी, पंजाबी रूप \"भिन्न रूप\" हैं, \"विकृति\" नहीं। Oldenberg \"प्रविशतात्\" का अनुवाद \"गाँव में प्रवेश करे\" करते हैं; पुराना जर्मन अनुवाद \"गाँव के अनुसार चले\" कहता है — अर्थ दोनों में एक ही है। क्रम और भिन्न रूप [विवाह](/occasions/vivah/) पृष्ठ पर।",
+    "en": "This is the sentence of the grihya sutra on which every \"variant\" on this site stands. In the middle of the wedding procedure the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.8.11–13 says that beside the Vedic order the word of the village is to be followed too — the commentaries of Harihara and Gadadhara extend \"village\" to regional, family and community custom. That is why the tilak, haldi, matkor, dwar-puja, jaimala, sindoor-daan, kohbar and vidai — none of them in the sutra — are not errors but folk custom, and why the Maithil, Bhojpuri, Rajasthani, Pahari and Punjabi forms are \"variants\", not \"corruptions\". Oldenberg translates \"pravishatat\" as \"he shall enter the village\", Stenzler as \"let him follow the village\" — the sense is the same. The order and the variants are on the [wedding](/occasions/vivah/) page.",
+    "bho": "ई [[grihya-sutra]] के ऊ वाक्य बा जेकरा पर एह साइट के सभ \"अलग रूप\" ठाड़ बा। [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.8.11–13 बियाह-विधि के बीच में ही कहेला कि वैदिक क्रम के साथे गाँव के कहल भी कइल जाव — हरिहर आ गदाधर के टीका \"गाँव\" के देसाचार, कुलाचार आ जात्याचार तक फइलावेला। एही से तिलक, हरदी, मटकोर, दुआर पूजा, जयमाला, सिंदूरदान, कोहबर, बिदाई — जे सूत्र में नइखे — गलत ना, लोकाचार बा; आ मैथिल, भोजपुरी, राजस्थानी, पहाड़ी, पंजाबी रूप \"अलग रूप\" बा, \"बिगाड़\" ना। Oldenberg \"प्रविशतात्\" के अनुवाद \"गाँव में परवेस करे\" करेलन; पुरान जर्मन अनुवाद \"गाँव के अनुसार चले\" कहेला — अरथ दुनो में एके बा। क्रम आ अलग रूप [बियाह](/occasions/vivah/) पन्ना पर।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-pgs",
+    "retrieved": "2026-11-01",
+    "modified": "Wikisource प्रमानम् corrected to प्रमाणम् (Oldenberg: \"authority\"); the three sutra numbers dropped; dandas added"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-sbe29",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit, public domain; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "sutra",
+    "gramavachana",
+    "variants"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "rv-10-85-27",
+  "kind": "vedic",
+  "text": "rigveda",
+  "locator": "RV 10.85.27 (the Surya wedding-hymn: \"here may delight prosper through offspring\"); Ashvalayana GS 1.8.8 recites it as the bride enters the husband's house — not in PGS, where the entry has no mantra",
+  "title": {
+    "hi": "इह प्रियं प्रजया ते समृध्यताम् — वधू का गृहप्रवेश",
+    "en": "Iha priyam prajaya te samridhyatam — the bride's entry into the house",
+    "bho": "इह प्रियं प्रजया ते समृध्यताम् — कनिया के गृहपरवेस"
+  },
+  "devanagari": "इह प्रियं प्रजया ते समृध्यतामस्मिन्गृहे गार्हपत्याय जागृहि । एना पत्या तन्वं सं सृजस्वाधा जिव्री विदथमा वदाथः ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "इह प्रियं प्रजया ते समृध्यताम्",
+      "gloss": {
+        "hi": "यहाँ संतान के साथ तेरा प्रिय (सुख) समृद्ध हो",
+        "en": "here may what is dear to thee prosper through offspring",
+        "bho": "इहाँ संतान के साथे तोहार प्रिय (सुख) बढ़े"
+      }
+    },
+    {
+      "sa": "अस्मिन् गृहे गार्हपत्याय जागृहि",
+      "gloss": {
+        "hi": "इस घर में गार्हपत्य (गृहस्थ-कर्म) के लिए जागती रह",
+        "en": "in this house keep awake for the duties of the household",
+        "bho": "एह घर में गार्हपत्य (गिरहस्थ-काम) खातिर जागत रहू"
+      }
+    },
+    {
+      "sa": "एना पत्या तन्वं सं सृजस्व",
+      "gloss": {
+        "hi": "इस पति के साथ अपने शरीर को मिला",
+        "en": "unite thy body with this husband",
+        "bho": "एह पति के साथे आपन देह मिलाव"
+      }
+    },
+    {
+      "sa": "अधा जिव्री विदथम् आ वदाथः",
+      "gloss": {
+        "hi": "फिर वृद्ध होकर तुम दोनों सभा में बोलो",
+        "en": "and then, grown old, may you both speak to the assembly",
+        "bho": "फेर बूढ़ होके तू दुनो सभा में बोलऽ"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "यहाँ संतान के साथ तेरा प्रिय समृद्ध हो; इस घर में गृहस्थ के कर्म के लिए जागती रह। इस पति के साथ अपने शरीर को मिला; फिर वृद्ध होकर तुम दोनों सभा में बोलो।",
+    "en": "Here may what is dear to thee prosper through offspring; in this house keep awake for the duties of the household. Unite thy body with this husband; and then, grown old, may you both speak to the assembly.",
+    "bho": "इहाँ संतान के साथे तोहार प्रिय बढ़े; एह घर में गिरहस्थ के काम खातिर जागत रहू। एह पति के साथे आपन देह मिलाव; फेर बूढ़ होके तू दुनो सभा में बोलऽ।"
+  },
+  "explanation": {
+    "hi": "वधू का ससुराल में प्रवेश — परछन, द्वार पर कलश, आलता के पाँव, गौरी-गणेश के दर्शन — हिंदी-भाषी क्षेत्र में लोकाचार है; [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) में इस क्षण का कोई मंत्र नहीं है (उसका 1.8.10 \"इह गावो निषीदंतु\" घर में बैठाने का वाक्य है, जिसे माध्यंदिन पोथी कोहबर में पढ़ाती है)। ऋग्वेदी आश्वलायन गृह्यसूत्र 1.8.8 इस ऋचा से वधू को घर में प्रवेश कराता है, और शांखायन 1.16.12 \"इहैव स्तम्\" (10.85.42 आदि) से ([Oldenberg SBE 29](https://archive.org/details/india.history.resource.89728))। ऋचा [ऋग्वेद 10.85](https://sa.wikisource.org/wiki/ऋग्वेदः_सूक्तं_१०.८५) की सूर्या-विवाह ऋचा 27 है — नए घर में गृहस्थ-कर्म के लिए जागने और वृद्ध होकर सभा में बोलने का आशीर्वाद। यह साइट इसे इसलिए देती है कि यजमान जाने कि वैदिक परंपरा में गृहप्रवेश का यह वाक्य था; माध्यंदिन पंडित इसे प्रायः नहीं पढ़ते। [अथर्ववेद 14.1.21](https://sa.wikisource.org/wiki/%E0%A4%85%E0%A4%A5%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83/%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%82_%E0%A5%A7%E0%A5%AA/%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8D_%E0%A5%A6%E0%A5%A7) का पाठ \"प्रजायै ते\" और \"सं स्पृशस्वाथ जिर्विर्विदथमा वदासि\" है। क्रम [विवाह](/occasions/vivah/) पृष्ठ पर।",
+    "en": "The bride's entry into her husband's home — the parchhan, the kalash at the door, the feet dipped in alta, the sight of Gauri and Ganesha — is folk custom in the Hindi belt; the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) has no mantra for the moment (its 1.8.10, \"iha gavo nishidantu\", is the seating in the house, which the Madhyandina pothi recites at the kohbar). The Rigvedic Ashvalayana Grihya Sutra 1.8.8 makes the bride enter the house with this verse, Shankhayana 1.16.12 with \"ihaiva stam\" (10.85.42 ff.) ([Oldenberg SBE 29](https://archive.org/details/india.history.resource.89728)). The verse is verse 27 of the Surya wedding-hymn, [Rigveda 10.85](https://sa.wikisource.org/wiki/ऋग्वेदः_सूक्तं_१०.८५) — a blessing to keep awake for the household's duties in the new house and, grown old, to speak in the assembly. The site gives it so that a host knows the Vedic tradition had this sentence for the entry; Madhyandina pandits seldom recite it. [Atharvaveda 14.1.21](https://sa.wikisource.org/wiki/%E0%A4%85%E0%A4%A5%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83/%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%82_%E0%A5%A7%E0%A5%AA/%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8D_%E0%A5%A6%E0%A5%A7) reads \"prajayai te\" and \"sam sprishasvatha jirvir vidatham a vadasi\". The order is on the [wedding](/occasions/vivah/) page.",
+    "bho": "कनिया के ससुरा में परवेस — परछन, दुआर पर कलश, आलता के गोड़, गौरी-गणेश के दरसन — हिंदी-भाषी इलाका में लोकाचार बा; [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) में एह घरी के कवनो मंत्र नइखे (ओकर 1.8.10 \"इह गावो निषीदन्तु\" घर में बइठावे के वाक्य बा, जेकरा माध्यंदिन पोथी कोहबर में पढ़ावेला)। ऋग्वेदी आश्वलायन गृह्यसूत्र 1.8.8 एह ऋचा से कनिया के घर में परवेस करावेला, आ शांखायन 1.16.12 \"इहैव स्तम्\" (10.85.42 आदि) से ([Oldenberg SBE 29](https://archive.org/details/india.history.resource.89728))। ऋचा [ऋग्वेद 10.85](https://sa.wikisource.org/wiki/ऋग्वेदः_सूक्तं_१०.८५) के सूर्या-बियाह ऋचा 27 बा — नवका घर में गिरहस्थ-काम खातिर जागे आ बूढ़ होके सभा में बोले के असीस। ई साइट एकरा एही से देले कि जजमान जाने कि वैदिक परंपरा में गृहपरवेस के ई वाक्य रहे; माध्यंदिन पंडित एकरा बेसी ना पढ़ेलन। [अथर्ववेद 14.1.21](https://sa.wikisource.org/wiki/%E0%A4%85%E0%A4%A5%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83/%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%82_%E0%A5%A7%E0%A5%AA/%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8D_%E0%A5%A6%E0%A5%A7) के पाठ \"प्रजायै ते\" आ \"सं स्पृशस्वाथ जिर्विर्विदथमा वदासि\" बा। क्रम [बियाह](/occasions/vivah/) पन्ना पर।"
+  },
+  "phalashruti": false,
+  "variants": [
+    {
+      "reading": "इह प्रियं प्रजायै ते समृध्यतामस्मिन् गृहे गार्हपत्याय जागृहि । एना पत्या तन्वं सं स्पृशस्वाथ जिर्विर्विदथमा वदासि ॥",
+      "note": {
+        "hi": "अथर्ववेद (शौनक) 14.1.21 का पाठ।",
+        "en": "The Atharvaveda (Shaunaka) 14.1.21 reading.",
+        "bho": "अथर्ववेद (शौनक) 14.1.21 के पाठ।"
+      },
+      "source": "ws-av-14-1"
+    }
+  ],
+  "source": {
+    "ref": "ws-rv-10-85",
+    "retrieved": "2026-11-01",
+    "modified": "the verse number ॥२७॥ replaced by ॥; otherwise the Wikisource text"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ws-av-14-1",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-sbe29",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit, public domain; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "griha-pravesh",
+    "rigveda-10-85",
+    "surya-sukta"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "id": "rv-10-85-24-26",
+  "kind": "vedic",
+  "text": "rigveda",
+  "locator": "RV 10.85.24–26 (the Surya wedding-hymn: the three departure verses, Shankhayana GS 1.15.1 — recited when the bride leaves her father's house); not in PGS — the Hindi-belt vidai is folk",
+  "title": {
+    "hi": "प्र त्वा मुंचामि वरुणस्य पाशात् — विदाई की ऋचाएँ",
+    "en": "Pra tva munchami varunasya pashat — the verses of the departure",
+    "bho": "प्र त्वा मुञ्चामि वरुणस्य पाशात् — बिदाई के ऋचा"
+  },
+  "devanagari": "प्र त्वा मुञ्चामि वरुणस्य पाशाद्येन त्वाबध्नात्सविता सुशेवः । ऋतस्य योनौ सुकृतस्य लोकेऽरिष्टां त्वा सह पत्या दधामि ॥ प्रेतो मुञ्चामि नामुतः सुबद्धाममुतस्करम् । यथेयमिन्द्र मीढ्वः सुपुत्रा सुभगासति ॥ पूषा त्वेतो नयतु हस्तगृह्याश्विना त्वा प्र वहतां रथेन । गृहान्गच्छ गृहपत्नी यथासो वशिनी त्वं विदथमा वदासि ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "प्र त्वा मुञ्चामि वरुणस्य पाशात्",
+      "gloss": {
+        "hi": "मैं तुझे वरुण के पाश से मुक्त करता हूँ",
+        "en": "I loosen thee from the fetter of Varuna",
+        "bho": "हम तोहरा के वरुन के पास से छोड़ावत बानी"
+      }
+    },
+    {
+      "sa": "येन त्वा अबध्नात् सविता सुशेवः",
+      "gloss": {
+        "hi": "जिससे कल्याणकारी सविता ने तुझे बाँधा था",
+        "en": "with which the kindly Savitar bound thee",
+        "bho": "जेकरा से कल्यानकारी सविता तोहरा के बान्हले रहलन"
+      }
+    },
+    {
+      "sa": "ऋतस्य योनौ सुकृतस्य लोके",
+      "gloss": {
+        "hi": "ऋत के स्थान में, सुकृत के लोक में",
+        "en": "in the seat of order, in the world of good deeds",
+        "bho": "ऋत के जगह में, सुकृत के लोक में"
+      }
+    },
+    {
+      "sa": "अरिष्टां त्वा सह पत्या दधामि",
+      "gloss": {
+        "hi": "तुझे अक्षत (सुरक्षित) पति के साथ रखता हूँ",
+        "en": "unharmed I place thee with thy husband",
+        "bho": "तोहरा के बिना चोट पति के साथे राखत बानी"
+      }
+    },
+    {
+      "sa": "प्र इतः मुञ्चामि न अमुतः",
+      "gloss": {
+        "hi": "यहाँ से मुक्त करता हूँ, वहाँ से नहीं",
+        "en": "from here I loosen thee, not from there",
+        "bho": "इहाँ से छोड़ावत बानी, उहाँ से ना"
+      }
+    },
+    {
+      "sa": "सुबद्धाम् अमुतः करम्",
+      "gloss": {
+        "hi": "वहाँ (पति के घर) सुबद्ध करता हूँ",
+        "en": "there (in the husband's house) I bind thee fast",
+        "bho": "उहाँ (पति के घर) नीमन से बान्हत बानी"
+      }
+    },
+    {
+      "sa": "यथा इयम् इन्द्र मीढ्वः सुपुत्रा सुभगा असति",
+      "gloss": {
+        "hi": "हे वर देने वाले इंद्र, जिससे यह सुपुत्रा और सुभगा हो",
+        "en": "so that, O bountiful Indra, she may have good sons and good fortune",
+        "bho": "हे वर देवे वाला इंद्र, जेकरा से ई नीक पूत वाली आ सुभगा होखे"
+      }
+    },
+    {
+      "sa": "पूषा त्वा इतः नयतु हस्तगृह्य",
+      "gloss": {
+        "hi": "पूषा हाथ पकड़कर तुझे यहाँ से ले जाएँ",
+        "en": "may Pushan lead thee from here, taking thy hand",
+        "bho": "पूषा हाथ धर के तोहरा के इहाँ से ले जास"
+      }
+    },
+    {
+      "sa": "अश्विना त्वा प्र वहतां रथेन",
+      "gloss": {
+        "hi": "अश्विन तुझे रथ से ले चलें",
+        "en": "may the Ashvins carry thee forth on the chariot",
+        "bho": "अश्विन तोहरा के रथ से ले चलसु"
+      }
+    },
+    {
+      "sa": "गृहान् गच्छ गृहपत्नी यथा असः",
+      "gloss": {
+        "hi": "घर जा, जिससे तू गृहपत्नी हो",
+        "en": "go to the house, that thou mayst be its mistress",
+        "bho": "घर जा, जेकरा से तू घर के मालकिन होखू"
+      }
+    },
+    {
+      "sa": "वशिनी त्वं विदथम् आ वदासि",
+      "gloss": {
+        "hi": "अधिकार रखती हुई तू सभा में बोले",
+        "en": "and, ruling there, speak to the assembly",
+        "bho": "अधिकार राखत तू सभा में बोलू"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "मैं तुझे वरुण के उस पाश से मुक्त करता हूँ जिससे कल्याणकारी सविता ने तुझे बाँधा था; ऋत के स्थान में, सुकृत के लोक में तुझे पति के साथ अक्षत रखता हूँ। यहाँ (पिता के घर) से मुक्त करता हूँ, वहाँ से नहीं — वहाँ सुबद्ध करता हूँ, जिससे, हे इंद्र, यह सुपुत्रा और सुभगा हो। पूषा हाथ पकड़कर तुझे यहाँ से ले जाएँ, अश्विन तुझे रथ से ले चलें; घर जा — वहाँ गृहपत्नी होकर, अधिकार रखती हुई, तू सभा में बोले।",
+    "en": "I loosen thee from the fetter of Varuna with which the kindly Savitar bound thee; in the seat of order, in the world of good deeds, I place thee unharmed with thy husband. From here (thy father's house) I loosen thee, not from there — there I bind thee fast, so that, O bountiful Indra, she may have good sons and good fortune. May Pushan lead thee from here, taking thy hand; may the Ashvins carry thee on the chariot; go to the house, to be its mistress — and, ruling there, speak to the assembly.",
+    "bho": "हम तोहरा के वरुन के ओह पास से छोड़ावत बानी जेकरा से कल्यानकारी सविता तोहरा के बान्हले रहलन; ऋत के जगह में, सुकृत के लोक में तोहरा के पति के साथे बिना चोट राखत बानी। इहाँ (बाप के घर) से छोड़ावत बानी, उहाँ से ना — उहाँ नीमन से बान्हत बानी, जेकरा से, हे इंद्र, ई नीक पूत वाली आ सुभगा होखे। पूषा हाथ धर के तोहरा के इहाँ से ले जास, अश्विन तोहरा के रथ से ले चलसु; घर जा — उहाँ घर के मालकिन होके, अधिकार राखत, तू सभा में बोलू।"
+  },
+  "explanation": {
+    "hi": "[[vidai]] का हिंदी-भाषी क्षेत्र का रूप — बेटी का रोना, पीछे चावल फेंकना, कार या डोली — लोकाचार है; [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) में विदाई का कोई मंत्र नहीं है। ऋग्वेदी गृह्यसूत्रों में है: शांखायन गृह्यसूत्र 1.15.1 \"प्र त्वा मुंचामि\" की इन तीन ऋचाओं को वधू के पिता के घर से निकलते समय पढ़ाता है ([Oldenberg SBE 29](https://archive.org/details/india.history.resource.89728))। ये [ऋग्वेद 10.85](https://sa.wikisource.org/wiki/ऋग्वेदः_सूक्तं_१०.८५) की सूर्या-विवाह ऋचाएँ 24–26 हैं — वरुण के पाश से मुक्ति (पिता के घर का बंधन), नए घर में \"सुबद्ध\" होना, और प्रसिद्ध \"गृहान् गच्छ गृहपत्नी यथासः\" — घर की स्वामिनी बनकर सभा में बोलने का आशीर्वाद। माध्यंदिन पंडित इन्हें प्रायः नहीं पढ़ते; यह साइट इन्हें इसलिए देती है कि यजमान जाने कि वैदिक परंपरा में विदाई का यह रूप था। [अथर्ववेद 14.1.19–21](https://sa.wikisource.org/wiki/%E0%A4%85%E0%A4%A5%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83/%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%82_%E0%A5%A7%E0%A5%AA/%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8D_%E0%A5%A6%E0%A5%A7) में पाठ-भेद हैं (\"भगस्त्वेतो नयतु\", \"सुशेवाः\")। क्रम [विवाह](/occasions/vivah/) पृष्ठ पर।",
+    "en": "The Hindi-belt form of the vidai — the daughter's tears, the rice thrown back over the shoulder, the car or palanquin — is folk custom; the [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) has no mantra for the departure. The Rigvedic grihya sutras have one: the Shankhayana Grihya Sutra 1.15.1 recites these three verses, \"pra tva munchami\", when the bride leaves her father's house ([Oldenberg SBE 29](https://archive.org/details/india.history.resource.89728)). They are verses 24–26 of the Surya wedding-hymn, [Rigveda 10.85](https://sa.wikisource.org/wiki/ऋग्वेदः_सूक्तं_१०.८५) — release from the fetter of Varuna (the bond of the father's house), being \"bound fast\" in the new house, and the famous \"grihan gachchha grihapatni yathasah\" — the blessing to be mistress of the house and to speak in the assembly. Madhyandina pandits seldom recite them; the site gives them so that a host knows the Vedic tradition had this form of the farewell. [Atharvaveda 14.1.19–21](https://sa.wikisource.org/wiki/%E0%A4%85%E0%A4%A5%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83/%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%82_%E0%A5%A7%E0%A5%AA/%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8D_%E0%A5%A6%E0%A5%A7) has variant readings (\"bhagas tveto nayatu\", \"sushevah\"). The order is on the [wedding](/occasions/vivah/) page.",
+    "bho": "[[vidai]] के हिंदी-भाषी इलाका के रूप — बेटी के रोवल, पीछे चाउर फेंकल, गाड़ी भा डोली — लोकाचार बा; [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) में बिदाई के कवनो मंत्र नइखे। ऋग्वेदी गृह्यसूत्र में बा: शांखायन गृह्यसूत्र 1.15.1 \"प्र त्वा मुञ्चामि\" के एह तीन ऋचा के कनिया के बाप के घर से निकलत घरी पढ़ावेला ([Oldenberg SBE 29](https://archive.org/details/india.history.resource.89728))। ई [ऋग्वेद 10.85](https://sa.wikisource.org/wiki/ऋग्वेदः_सूक्तं_१०.८५) के सूर्या-बियाह ऋचा 24–26 बा — वरुन के पास से मुक्ति (बाप के घर के बंधन), नवका घर में \"सुबद्ध\" होखल, आ परसिद्ध \"गृहान् गच्छ गृहपत्नी यथासः\" — घर के मालकिन बन के सभा में बोले के असीस। माध्यंदिन पंडित एकरा बेसी ना पढ़ेलन; ई साइट एकरा एही से देले कि जजमान जाने कि वैदिक परंपरा में बिदाई के ई रूप रहे। [अथर्ववेद 14.1.19–21](https://sa.wikisource.org/wiki/%E0%A4%85%E0%A4%A5%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83/%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%82_%E0%A5%A7%E0%A5%AA/%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8D_%E0%A5%A6%E0%A5%A7) में पाठ-भेद बा (\"भगस्त्वेतो नयतु\", \"सुशेवाः\")। क्रम [बियाह](/occasions/vivah/) पन्ना पर।"
+  },
+  "phalashruti": false,
+  "variants": [
+    {
+      "reading": "प्र त्वा मुञ्चामि वरुणस्य पाशाद्येन त्वाबध्नात्सविता सुशेवाः । ऋतस्य योनौ सुकृतस्य लोके स्योनं ते अस्तु सहसंभलायै ॥ भगस्त्वेतो नयतु हस्तगृह्याश्विना त्वा प्र वहतां रथेन । गृहान् गच्छ गृहपत्नी यथासो वशिनी त्वं विदथमा वदासि ॥",
+      "note": {
+        "hi": "अथर्ववेद (शौनक) 14.1.19–20 का पाठ — दूसरी पंक्ति भिन्न (\"स्योनं ते अस्तु सहसंभलायै\") और \"पूषा\" की जगह \"भग\"।",
+        "en": "The Atharvaveda (Shaunaka) 14.1.19–20 reading — a different second line (\"syonam te astu sahasambhalayai\") and \"Bhaga\" for \"Pushan\".",
+        "bho": "अथर्ववेद (शौनक) 14.1.19–20 के पाठ — दोसरा पंक्ति अलग (\"स्योनं ते अस्तु सहसंभलायै\") आ \"पूषा\" के जगह \"भग\"।"
+      },
+      "source": "ws-av-14-1"
+    }
+  ],
+  "source": {
+    "ref": "ws-rv-10-85",
+    "retrieved": "2026-11-01",
+    "modified": "the three verse numbers ॥२४॥ ॥२५॥ ॥२६॥ replaced by ॥ (the renderer numbers the record); otherwise the Wikisource text"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ws-av-14-1",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-sbe29",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit, public domain; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "vidai",
+    "rigveda-10-85",
+    "surya-sukta"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

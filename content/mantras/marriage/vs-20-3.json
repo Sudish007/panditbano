@@ -1,0 +1,117 @@
+{
+  "id": "vs-20-3",
+  "kind": "vedic",
+  "text": "shukla-yajurveda",
+  "locator": "VS 20.3 (the Sautramani abhisheka — with the healing of the Ashvins, of Sarasvati, with the power of Indra); vivah paddhati: अभिषेक 3",
+  "title": {
+    "hi": "अश्विनोर्भैषज्येन — तेज, वीर्य, बल के लिए अभिषेक (अभिषेक 3)",
+    "en": "Ashvinor bhaishajyena — anointing for lustre, vigour and strength (the third abhisheka verse)",
+    "bho": "अश्विनोर्भैषज्येन — तेज, वीर्य, बल खातिर अभिषेक (अभिषेक 3)"
+  },
+  "devanagari": "दे॒वस्य॑ त्वा सवि॒तुः प्र॑स॒वेऽश्विनो॑र्बा॒हुभ्यां॑ पू॒ष्णो हस्ता॑भ्याम् । अ॒श्विनोर्भैष॑ज्येन॒ तेज॑से ब्रह्मवर्च॒साया॒भिषि॑ञ्चामि॒ सर॑स्वत्यै॒ भैष॑ज्येन वी॒र्या॒या॒न्नाद्या॑या॒भि षि॑ञ्चा॒मीन्द्र॑स्येन्द्रि॒येण॒ बला॑य श्रियै॒ यश॑से॒ऽभिषि॑ञ्चामि ॥",
+  "svara": true,
+  "pada": [
+    {
+      "sa": "देवस्य त्वा सवितुः प्रसवे",
+      "gloss": {
+        "hi": "देव सविता की प्रेरणा में तेरा",
+        "en": "thee, at the impulse of the god Savitar",
+        "bho": "देव सविता के प्रेरना में तोहार"
+      }
+    },
+    {
+      "sa": "अश्विनोः बाहुभ्यां पूष्णः हस्ताभ्याम्",
+      "gloss": {
+        "hi": "अश्विनों की बाँहों से, पूषा के हाथों से",
+        "en": "with the arms of the Ashvins, the hands of Pushan",
+        "bho": "अश्विन लोग के बाँह से, पूषा के हाथ से"
+      }
+    },
+    {
+      "sa": "अश्विनोः भैषज्येन",
+      "gloss": {
+        "hi": "अश्विनों के भेषज से",
+        "en": "with the healing of the Ashvins",
+        "bho": "अश्विन लोग के भेषज से"
+      }
+    },
+    {
+      "sa": "तेजसे ब्रह्मवर्चसाय अभिषिञ्चामि",
+      "gloss": {
+        "hi": "तेज और ब्रह्मवर्चस के लिए अभिषेक करता हूँ",
+        "en": "I anoint for lustre and the splendour of sacred knowledge",
+        "bho": "तेज आ ब्रह्मवर्चस खातिर अभिषेक करत बानी"
+      }
+    },
+    {
+      "sa": "सरस्वत्यै भैषज्येन",
+      "gloss": {
+        "hi": "सरस्वती के भेषज से",
+        "en": "with the healing of Sarasvati",
+        "bho": "सरस्वती के भेषज से"
+      }
+    },
+    {
+      "sa": "वीर्याय अन्नाद्याय अभिषिञ्चामि",
+      "gloss": {
+        "hi": "वीर्य और अन्न के लिए अभिषेक करता हूँ",
+        "en": "I anoint for vigour and for food",
+        "bho": "वीर्य आ अन्न खातिर अभिषेक करत बानी"
+      }
+    },
+    {
+      "sa": "इन्द्रस्य इन्द्रियेण",
+      "gloss": {
+        "hi": "इंद्र के इंद्रिय (शक्ति) से",
+        "en": "with the power of Indra",
+        "bho": "इंद्र के इंद्री (सकति) से"
+      }
+    },
+    {
+      "sa": "बलाय श्रियै यशसे अभिषिञ्चामि",
+      "gloss": {
+        "hi": "बल, श्री और यश के लिए अभिषेक करता हूँ",
+        "en": "I anoint for strength, prosperity and fame",
+        "bho": "बल, श्री आ जस खातिर अभिषेक करत बानी"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "देव सविता की प्रेरणा में, अश्विनों की बाँहों से, पूषा के हाथों से — अश्विनों के भेषज से तेज और ब्रह्मवर्चस के लिए तेरा अभिषेक करता हूँ; सरस्वती के भेषज से वीर्य और अन्न के लिए; इंद्र की शक्ति से बल, श्री और यश के लिए अभिषेक करता हूँ।",
+    "en": "At the impulse of the god Savitar, with the arms of the Ashvins, with the hands of Pushan — with the healing of the Ashvins I anoint thee for lustre and the splendour of sacred knowledge; with the healing of Sarasvati for vigour and for food; with the power of Indra I anoint thee for strength, prosperity and fame.",
+    "bho": "देव सविता के प्रेरना में, अश्विन लोग के बाँह से, पूषा के हाथ से — अश्विन लोग के भेषज से तेज आ ब्रह्मवर्चस खातिर तोहार अभिषेक करत बानी; सरस्वती के भेषज से वीर्य आ अन्न खातिर; इंद्र के सकति से बल, श्री आ जस खातिर अभिषेक करत बानी।"
+  },
+  "explanation": {
+    "hi": "[शुक्लयजुर्वेद अध्याय 20](https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_२०) का तीसरा मंत्र सौत्रामणी यज्ञ के अभिषेक का है — उवट और महीधर के अनुसार यजमान का सिर से अभिषेक, अश्विनों, सरस्वती और इंद्र के नाम से। \"भैषज्य\" अश्विनों और सरस्वती का भेषज-बल है — मंत्र उसके द्वारा तेज, वीर्य और बल माँगता है; यह कामना है, किसी परिणाम का दावा नहीं। माध्यंदिन विवाह-पोथी इसे वर-वधू के [[abhishek]] के तीन मंत्रों में तीसरा रखती है (9.30, 18.37, 20.3)। विवाह में प्रयोग पद्धति का है, सूत्र का नहीं। क्रम [विवाह](/occasions/vivah/) पृष्ठ पर।",
+    "en": "The third verse of [Vajasaneyi Samhita 20](https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_२०) belongs to the anointing of the Sautramani sacrifice — the sacrificer's head is anointed, say Uvata and Mahidhara, in the names of the Ashvins, Sarasvati and Indra. \"Bhaishajya\" is the bheshaja-power of the Ashvins and of Sarasvati — the verse asks through it for lustre, vigour and strength; it is a wish, not a claim of result. The Madhyandina wedding pothi makes it the third of the couple's three abhisheka verses (9.30, 18.37, 20.3). Its wedding use is the handbook's, not the sutra's. The order is on the [wedding](/occasions/vivah/) page.",
+    "bho": "[शुक्लयजुर्वेद अध्याय 20](https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_२०) के तीसरा मंत्र सौत्रामनी जग्य के अभिषेक के बा — उवट आ महीधर के अनुसार जजमान के माथा से अभिषेक, अश्विन, सरस्वती आ इंद्र के नाँव से। \"भैषज्य\" अश्विन आ सरस्वती के भेषज-बल बा — मंत्र ओकरा से तेज, वीर्य आ बल माँगेला; ई कामना बा, कवनो परिनाम के दावा ना। माध्यंदिन बियाह-पोथी एकरा दुलहा-कनिया के [[abhishek]] के तीन मंत्र में तीसरा राखेला (9.30, 18.37, 20.3)। बियाह में परयोग पद्धति के बा, सूत्र के ना। क्रम [बियाह](/occasions/vivah/) पन्ना पर।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-syv-20",
+    "retrieved": "2026-11-01",
+    "modified": false
+  },
+  "checkedAgainst": [
+    {
+      "ref": "titus-vs",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit, public domain; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "abhisheka",
+    "sautramani"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

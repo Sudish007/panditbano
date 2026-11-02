@@ -2346,6 +2346,59 @@
       "note": "Shaunaka Atharvaveda 3.29 with Sayana; verse 7 is the longer parallel of VS 7.48 (क इदं कस्मा अदात्) — recorded as a variant reading only; no text copied as a main record.",
       "wikisourceLang": "sa",
       "locator": "AV 3.29.7"
+    },
+    {
+      "id": "ws-rv-10-85",
+      "project": "wikisource",
+      "title": "ऋग्वेदः सूक्तं १०.८५",
+      "url": "https://sa.wikisource.org/wiki/ऋग्वेदः_सूक्तं_१०.८५",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "copy",
+      "secondSourceAvailable": true,
+      "titles": [
+        "ऋग्वेद 10.85",
+        "Rigveda 10.85",
+        "सूर्या-सूक्त",
+        "Surya-sukta"
+      ],
+      "note": "Rigveda 10.85, the Surya wedding-hymn (Savitri Surya rishika), plain Devanagari without svara. Registered by C1A-10 for the verses the Rigvedic grihya sutras recite at the departure (24–26, Shankhayana GS 1.15.1) and at the entry into the house (27, Ashvalayana GS 1.8.8), and as the check for PGS 1.8.9 (= 10.85.33). Second source: Atharvaveda 14.1–2 parallels on Wikisource (ws-av-14-1, ws-av-14-2).",
+      "wikisourceLang": "sa",
+      "locator": "RV 10.85"
+    },
+    {
+      "id": "ws-av-14-1",
+      "project": "wikisource",
+      "title": "अथर्ववेदः/काण्डं १४/सूक्तम् ०१",
+      "url": "https://sa.wikisource.org/wiki/अथर्ववेदः/काण्डं_१४/सूक्तम्_०१",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "verify",
+      "secondSourceAvailable": false,
+      "titles": [
+        "अथर्ववेद 14.1",
+        "Atharvaveda 14.1"
+      ],
+      "note": "Shaunaka Atharvaveda 14.1 (the first wedding hymn); verses 19–21 are the parallels of RV 10.85.24–27 — used only as the second source and for the variant readings (भगस्त्वेतो नयतु, प्रजायै ते); no text copied as a main record.",
+      "wikisourceLang": "sa",
+      "locator": "AV 14.1.19–21"
+    },
+    {
+      "id": "ws-av-14-2",
+      "project": "wikisource",
+      "title": "अथर्ववेदः/काण्डं १४/सूक्तम् ०२",
+      "url": "https://sa.wikisource.org/wiki/अथर्ववेदः/काण्डं_१४/सूक्तम्_०२",
+      "retrieved": "2026-11-01",
+      "licence": "CC BY-SA 4.0 (transcription); work itself public domain",
+      "kind": "verify",
+      "secondSourceAvailable": false,
+      "titles": [
+        "अथर्ववेद 14.2",
+        "Atharvaveda 14.2"
+      ],
+      "note": "Shaunaka Atharvaveda 14.2 (the second wedding hymn); verse 28 is the parallel of RV 10.85.33 = PGS 1.8.9 (सुमङ्गलीरियं वधूः) with the variant दौर्भाग्यैर्विपरेतन — used only as the second source; no text copied as a main record.",
+      "wikisourceLang": "sa",
+      "locator": "AV 14.2.28"
     }
   ]
 }

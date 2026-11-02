@@ -1,0 +1,116 @@
+{
+  "id": "pgs-1-8-8",
+  "kind": "vedic",
+  "text": "paraskara-grihya-sutra",
+  "locator": "PGS 1.8.8 (hridaya-sparsha — he touches her heart over her right shoulder); vivah paddhati: हृदयालम्भन after the surya/dhruva darshan",
+  "title": {
+    "hi": "मम व्रते ते हृदयं दधामि — हृदय-स्पर्श",
+    "en": "Mama vrate te hridayam dadhami — the touching of the heart",
+    "bho": "मम व्रते ते हृदयं दधामि — हृदय-स्पर्स"
+  },
+  "devanagari": "मम व्रते ते हृदयं दधामि मम चित्तमनुचित्तं ते अस्तु । मम वाचमेकमना जुषस्व प्रजापतिष्ट्वा नियुनक्तु मह्यम् ॥",
+  "svara": false,
+  "pada": [
+    {
+      "sa": "मम व्रते",
+      "gloss": {
+        "hi": "मेरे व्रत में",
+        "en": "into my vow (my undertaking)",
+        "bho": "हमार बरत में"
+      }
+    },
+    {
+      "sa": "ते हृदयं दधामि",
+      "gloss": {
+        "hi": "तेरे हृदय को रखता हूँ",
+        "en": "I place your heart",
+        "bho": "तोहार हृदय राखत बानी"
+      }
+    },
+    {
+      "sa": "मम चित्तम् अनु",
+      "gloss": {
+        "hi": "मेरे चित्त के अनुकूल",
+        "en": "following my mind",
+        "bho": "हमार चित्त के अनुकूल"
+      }
+    },
+    {
+      "sa": "चित्तं ते अस्तु",
+      "gloss": {
+        "hi": "तेरा चित्त हो",
+        "en": "may your mind be",
+        "bho": "तोहार चित्त होखे"
+      }
+    },
+    {
+      "sa": "मम वाचम्",
+      "gloss": {
+        "hi": "मेरी वाणी को",
+        "en": "my word",
+        "bho": "हमार बोली के"
+      }
+    },
+    {
+      "sa": "एकमनाः जुषस्व",
+      "gloss": {
+        "hi": "एक मन से स्वीकार कर",
+        "en": "accept with one mind",
+        "bho": "एक मन से मान"
+      }
+    },
+    {
+      "sa": "प्रजापतिः त्वा",
+      "gloss": {
+        "hi": "प्रजापति तुझे",
+        "en": "may Prajapati you",
+        "bho": "प्रजापति तोहरा के"
+      }
+    },
+    {
+      "sa": "नियुनक्तु मह्यम्",
+      "gloss": {
+        "hi": "मुझसे जोड़ें",
+        "en": "join to me",
+        "bho": "हमरा से जोड़सु"
+      }
+    }
+  ],
+  "meaning": {
+    "hi": "मैं तेरे हृदय को अपने व्रत (संकल्प) में रखता हूँ; तेरा चित्त मेरे चित्त के अनुकूल हो; एक मन से मेरी वाणी को स्वीकार कर; प्रजापति तुझे मुझसे जोड़ें।",
+    "en": "I place your heart within my vow; may your mind follow my mind; accept my word with one mind; may Prajapati join you to me.",
+    "bho": "हम तोहार हृदय आपन बरत (संकल्प) में राखत बानी; तोहार चित्त हमार चित्त के अनुकूल होखे; एक मन से हमार बोली के मान; प्रजापति तोहरा के हमरा से जोड़सु।"
+  },
+  "explanation": {
+    "hi": "[[hriday-sparsh]] — [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.8.8: सूर्य-दर्शन के बाद वर वधू के दाहिने कंधे के ऊपर से हाथ ले जाकर उसके हृदय का स्पर्श करता है और यह वाक्य कहता है। माध्यंदिन पोथी में यह सूर्य/ध्रुव-दर्शन के बाद \"हृदयालंभन\" है, और इसके बाद वधू वर के वाम भाग में बैठती है। वाक्य की भाषा एकपक्षीय है — वर बोलता है, वधू का चित्त \"उसके अनुकूल\" माँगा गया है; यह प्राचीन सूत्र का पाठ है, और यह साइट उसे वैसा ही देती है। बहुत से पंडित आज इसका अर्थ वर-वधू दोनों को \"एक चित्त, एक वाणी\" के परस्पर संकल्प के रूप में समझाते हैं — वह व्याख्या है, पाठ नहीं। चतुर्थीकर्म में हृदय-स्पर्श दूसरे मंत्र (\"यत्ते सुसीमे हृदयम्\", 1.11.9) से फिर होता है। क्रम [विवाह](/occasions/vivah/) पृष्ठ पर।",
+    "en": "The hridaya-sparsha — [Paraskara Grihya Sutra](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.8.8: after the bride has looked at the sun the groom reaches over her right shoulder, touches her heart and says these words. In the Madhyandina pothi this \"hridayalambhana\" follows the sighting of the sun or the pole star, and the bride then moves to the groom's left. The wording is one-sided — the groom speaks, the bride's mind is asked to \"follow\" his; that is the text of the ancient sutra, and this site gives it as it stands. Many pandits today explain it to the couple as a mutual pledge of \"one mind, one word\" — that is interpretation, not the text. At the chaturthi-karma the heart is touched again with a second formula (\"yat te susime hridayam\", 1.11.9). The order is on the [wedding](/occasions/vivah/) page.",
+    "bho": "[[hriday-sparsh]] — [पारस्कर गृह्यसूत्र](https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्) 1.8.8: सुरुज-दरसन के बाद दुलहा कनिया के दहिना कान्ह के ऊपर से हाथ ले जाके ओकर हृदय छूवेला आ ई वाक्य कहेला। माध्यंदिन पोथी में ई सुरुज/ध्रुव-दरसन के बाद \"हृदयालंभन\" बा, आ एकरा बाद कनिया दुलहा के बाईं ओर बइठेली। वाक्य के भाषा एक तरफ के बा — दुलहा बोलेला, कनिया के चित्त \"ओकरा अनुकूल\" माँगल गइल बा; ई पुरान सूत्र के पाठ बा, आ ई साइट ओकरा ओइसहीं देले। ढेर पंडित आज एकर अरथ दुलहा-कनिया दुनो के \"एक चित्त, एक बोली\" के आपसी संकल्प के रूप में समझावेलन — ऊ व्याख्या बा, पाठ ना। चतुर्थीकर्म में हृदय-स्पर्स दोसरा मंत्र (\"यत्ते सुसीमे हृदयम्\", 1.11.9) से फेर होला। क्रम [बियाह](/occasions/vivah/) पन्ना पर।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ws-pgs",
+    "retrieved": "2026-11-01",
+    "modified": "danda inserted after अस्तु and at the end; the sutra's closing इति dropped"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-sbe29",
+      "retrieved": "2026-11-01"
+    },
+    {
+      "ref": "ia-vivah-mvf",
+      "retrieved": "2026-11-01"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "ancient Sanskrit, public domain; Wikisource transcription CC BY-SA 4.0",
+  "tags": [
+    "vivah",
+    "hridaya-sparsha"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}
