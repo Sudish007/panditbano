@@ -12,6 +12,7 @@ const FIX = join(ROOT, "test", "fixtures", "md");
 const TERMS = {
   vivah: { href: "/panditbano/hi/glossary/vivah/", display: "विवाह", alt: "शादी" },
   kalash: { href: "/panditbano/hi/glossary/kalash/", display: "कलश", alt: null },
+  havan: { href: null, display: "हवन", alt: "होम" }, // in the term bank, no glossary page yet (FIX-1a)
 };
 const ctx = {
   lang: "hi",
@@ -62,6 +63,7 @@ test("inline: emphasis, escaping and placeholders", () => {
   assert.equal(renderInline("<b>x</b> & y", ctx), "&lt;b&gt;x&lt;/b&gt; &amp; y");
   assert.equal(renderInline("{{count:occasions}} अवसर", ctx), '<span class="count" data-count="occasions">193</span> अवसर');
   assert.match(renderInline("[[kalash]]", ctx), /^<a class="term" href="\/panditbano\/hi\/glossary\/kalash\/" data-first="1">कलश<\/a>$/);
+  assert.equal(renderInline("[[havan]] और [[havan]]", ctx), '<span class="term" data-term="havan" data-first="1">हवन</span> <span class="term-alt">(होम)</span> और <span class="term" data-term="havan">हवन</span>', "no page yet → text with the first-use bracket, no link to the index (FIX-1a)");
   assert.match(renderInline("[x](#frag)", ctx), /href="#frag"/, "anchors are kept as-is");
 });
 

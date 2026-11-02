@@ -156,12 +156,21 @@ test("no raw < from data: every record string is escaped in the block, the piece
   assert.ok(!page.includes("<script>alert") && !page.includes("<img src=x") && !page.includes("<b>x</b>") && page.includes("&lt;b&gt;x&lt;/b&gt;"));
 });
 
-test("verseFull keeps the fixed order: block → pada → meaning/explanation → vinyog → variants → source line", () => {
+test("verseFull keeps the fixed order: block → pada → meaning/explanation → variants → source line (+ mantra-page link); no vinyog card in a step", () => {
   const s = verseFull(rec("vs-36-3"), "hi", { ctx, derived, occasionsById, sources: data.sources }).toString();
-  const order = ['<div class="verse">', '<section class="card" id="pada-vs-36-3"', '<section class="prose" id="arth-vs-36-3"', 'id="h-arth-vs-36-3-x"', '<section class="card" id="vinyog-vs-36-3"', '<p class="src">'].map((x) => s.indexOf(x));
+  const order = ['<div class="verse">', '<details class="card pada-fold" id="pada-vs-36-3">', '<section class="prose" id="arth-vs-36-3"', 'id="h-arth-vs-36-3-x"', '<p class="src">'].map((x) => s.indexOf(x));
   assert.ok(order.every((x) => x >= 0), `missing piece: ${order}`);
   assert.deepEqual([...order].sort((a, b) => a - b), order);
-  assert.ok(s.includes('href="/panditbano/hi/occasions/vivah/purvang/#step-3">विवाह (बियाह) → चरण 3</a>'), "vinyog links the occasion step");
+  // FIX-1a (orchestrator fallback 2026-11-02): in a step the word split is a closed <details> whose summary is the पदच्छेद heading;
+  // the mantra page keeps the open card
+  assert.ok(s.includes(`<summary><h3 id="h-pada-vs-36-3">${t("hi", "verse.pada")}</h3></summary>`) && !s.includes('<details class="card pada-fold" id="pada-vs-36-3" open'), "closed pada fold with the heading as summary");
+  assert.ok(mantraPage(ctx, pageArgs("hi", "vs-36-3")).toString().includes('<section class="card" id="pada" aria-labelledby="h-pada">'), "mantra page: open pada card");
+  // FIX-1a (orchestrator decision 2026-11-02): the vinyog card is rendered on the mantra page only (§7.6); the step's source
+  // line links that page instead of repeating every other occasion's step text
+  assert.ok(!s.includes('id="vinyog-vs-36-3"'), "no vinyog card inside a step embed");
+  assert.ok(s.includes(` · <a href="/panditbano/hi/mantras/vs-36-3/">${t("hi", "verse.mantra_page")}</a></p>`), "source line links the mantra page");
+  const mp = mantraPage(ctx, pageArgs("hi", "vs-36-3")).toString();
+  assert.ok(mp.includes('id="vinyog"') && mp.includes('href="/panditbano/hi/occasions/vivah/purvang/#step-3">विवाह (बियाह) → चरण 3</a>'), "the mantra page keeps the vinyog list");
   // explanation Markdown links render as external links with the marker
   const pgs = verseFull(rec("pgs-1-8-1"), "hi", { ctx, derived, occasionsById, sources: data.sources }).toString();
   assert.ok(pgs.includes('<a href="https://sa.wikisource.org/wiki/पारस्करगृह्यसूत्रम्" rel="external noopener">पारस्कर गृह्यसूत्र<svg class="ext-ic"'));

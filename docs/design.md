@@ -1136,3 +1136,33 @@ Also binding, from the 2560 review of both directions: the sticky header's motif
   caps are mostly comments, the brief's per-page 150-KB budget is the rule that fails CI, and minifying would cost a build
   dependency the stack forbids (design §2 "no bundler"). Recorded in `build.json#budgets.modules`; revisit only if a page
   nears 150 KB.
+
+- **FIX-1a · per-page budget measured on gzip bytes (ORCHESTRATOR DECISION 2026-11-02 — the owner-side amendment of brief §7 and
+  design §23 / UI-31).** The 150-KB uncompressed rule assumed a shell + JSON architecture; here the content IS the HTML
+  (Devanagari is 3 bytes a character; a step inlines verse + pada + meaning + explanation) and GitHub Pages transfers gzip.
+  After the 1a content loop 161 pages were over (hi/occasions/vivah/mukhya/ 777 KB = 678 HTML + 54 CSS + 45 JS; vivah/pothi
+  401 KB; navagraha 480; dikpal/dikpala 459; katha landing 355; 40-verse chapters 190–250; mantras index 234), while the
+  largest gzip figure was 115 KB. Pagination was ruled out (the owner's "everything in detail"; step pages and chapters are
+  NOT split further). Rules now enforced by `build/report.mjs` and `test/integration/budgets.test.mjs` (fatal in CI): (a)
+  CSS + JS per page ≤ 150 KB uncompressed — the code-bloat tripwire (99 KB today); (b) HTML + CSS + JS per page ≤ 150 KB gzip
+  level 6, pothi routes included, no exemptions; (c) uncompressed HTML per page is a warning only; `build.json#budgets.page`
+  carries `code`, `gzip`, `html` and `heaviest` (the ten heaviest pages with both figures) for the verification report.
+  `tools/audit.py --budget` (UI-31) measures the same three figures. Proof that the heavy pages still perform: Lighthouse
+  mobile locally on vivah/mukhya, navagraha, a 40-verse chapter and vivah/pothi — numbers in the FIX-1a commit body and
+  `docs/verification-phase-1a.md`; the fallback if any is < 95 is a closed `<details>` around each step's pada table, not
+  pagination.
+- **FIX-1a · no vinyog card inside occasion steps (orchestrator sub-decision B, 2026-11-02).** FEAT-106 rendered the mantra's
+  vinyog list (every OTHER occasion step using it, with those steps' action texts) under every step mantra — 18–51 KB per
+  occasion page and the step texts of other occasions on a page about this one. `verseFull()` now renders block → pada →
+  meaning/explanation → variants → source line, and the source line carries a "मंत्र का पृष्ठ →" link (UI key
+  `verse.mantra_page`, hi/en/bho) to the mantra page where the vinyog card lives (design §7.6).
+- **FIX-1a · occasion JSON-LD is `WebPage`, not `HowTo` + `HowToStep`.** The step list repeated every action text in the
+  head (31 KB on vivah/mukhya) and Google retired HowTo rich results in September 2023; `BreadcrumbList` stays on every page,
+  `Article` on lessons/kathas/reference/static, `DefinedTerm` on terms.
+- **FIX-1a · a lone last card in a data-driven grid spans the row.** UI-17 failed `/hi/mantras/` at 1440 (three groups with
+  3n+1 records → last row 1/3 filled). `.grid-lg-3 / .grid-lg-4 / .grid-xl-4 > :last-child:nth-child(kn+1)` now takes
+  `grid-column: 1 / -1`; grids marked `data-grid` (the §27.3 group grid, lists) are excluded so their column count stays as
+  designed. No markup change.
+- **FIX-1a · trims NOT made, and why.** The external-link marker stays inline SVG + sr span (design §5.2 — never a `::after`
+  glyph; under gzip the 241 repeated markers of vivah/mukhya cost ≈ 1 KB) and `data-plain` stays on every `.mantra`
+  (the integration test and the FEAT-105 accessibility proof rely on it; gzip removes the duplicate almost entirely).

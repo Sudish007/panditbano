@@ -77,7 +77,7 @@ test("term page: h1 = display form, the other two forms + alternates / folk form
   assert.ok(hi.includes('<dd lang="en">wedding (vivaha)</dd>') && hi.includes('<dd lang="bho">बियाह</dd>') && !hi.includes('<dd lang="hi">'), "other two forms, not the h1 form again");
   assert.ok(hi.includes("शादी") && hi.includes("ब्याह") && hi.includes("बिआह"), "hiAlt and bhoAlt listed");
   assert.ok(hi.includes("सोलह संस्कारों में पंद्रहवाँ"), "definition text");
-  assert.ok(hi.includes('href="/panditbano/hi/glossary/saptapadi/"') && hi.includes('href="/panditbano/hi/glossary/"'), "related: saptapadi has a page, kanyadaan falls back to the index");
+  assert.ok(hi.includes('<a class="chip" href="/panditbano/hi/glossary/saptapadi/">') && hi.includes('<span class="chip" data-term="kanyadaan">'), "related: saptapadi has a page, kanyadaan (no page yet) is a plain chip (FIX-1a)");
   assert.ok(hi.includes('<section id="used-in"') && hi.includes('href="/panditbano/hi/occasions/vivah/"'), "occasion from the record");
   assert.ok(hi.includes('<section id="in-lessons"') && hi.includes('href="/panditbano/hi/learn/l0-01-purohit-kaun/"'), "lesson whose prose marks [[vivah]]");
   const bho = term("bho", "saptapadi");

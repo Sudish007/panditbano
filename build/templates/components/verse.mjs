@@ -1,8 +1,8 @@
 // Verse / mantra renderer (design.md §7, §18, §27 items 1 and 5; design-review MEDIUM 4, NIT 13; FEAT-105).
 // verseBlock() emits, in this order and only this order: <p class="mantra"> (Devanagari, one pada per line, svara marks
 // kept; the svara-less text as a visually hidden span — never aria-label) → <p class="iast"> → <p class="roman-easy"> →
-// <div class="verse-tools">. The composition helpers below follow with the word split, meaning/explanation, vinyog,
-// variants and the source line in the fixed order of design §7.1. Every string from a record passes through html``/esc().
+// <div class="verse-tools">. The composition helpers below follow with the word split, meaning/explanation, vinyog (mantra
+// page only), variants and the source line in the fixed order of design §7.1. Every string from a record passes through html``/esc().
 import { html, raw, esc, t, icon } from "../lib.mjs";
 import { joinDanda, splitPadas, digitsFor } from "../../lib/deva.mjs";
 import { toIAST, toEasy, ariaPlain } from "../../lib/translit.mjs";
@@ -109,7 +109,9 @@ export function mdContext(ctx, lang, derived = {}) {
       const tb = derived.termbankById && derived.termbankById.get(id);
       if (!tb) return null;
       const f = termForms(tb, lang);
-      return { display: f.display, alt: f.alt, href: R.href(glossary.has(id) ? `${lang}/glossary/${id}/` : `${lang}/glossary/`) };
+      // FIX-1a: a marked term without a glossary page yet (batches 2–6 land in later phases) is rendered as text, not as a
+      // link to the glossary index that does not list it (renderInline emits <span class="term"> when href is null)
+      return { display: f.display, alt: f.alt, href: glossary.has(id) ? R.href(`${lang}/glossary/${id}/`) : null };
     },
     note: (kind) => ({ html: linkNames(esc(t(lang, `honesty.${kind}_note`)), lang, ctx.names) }),
     count: (key) => (derived.counts && derived.counts[key] !== undefined ? derived.counts[key] : null),
@@ -122,12 +124,24 @@ export function mdContext(ctx, lang, derived = {}) {
 export const inlineProse = (text, mdCtx) => raw(renderInline(String(text ?? ""), mdCtx));
 
 // ---------------------------------------------------------------- composition pieces (design §7.5–7.9, §4.4)
-export function padaCard(rec, lang, { id = "pada", heading = "h2" } = {}) {
+/**
+ * Word-split card. `fold: true` (occasion step embeds only — FIX-1a, orchestrator fallback 2026-11-02) renders it as a closed
+ * <details class="card pada-fold"> whose summary is the पदच्छेद heading: a 23-step part page carries ≈ 56 tables, and
+ * laying them all out cost Lighthouse mobile 880 ms of blocking time (perf 69 on vivah/mukhya). Mantra pages are unchanged.
+ */
+export function padaCard(rec, lang, { id = "pada", heading = "h2", fold = false } = {}) {
   if (!Array.isArray(rec.pada) || !rec.pada.length) return "";
   const H = heading;
+  const rows = html`<dl class="pada">${rec.pada.map((p) => html`<div><dt lang="sa">${p.sa}</dt><dd>${p.gloss && p.gloss[lang]}</dd></div>`)}</dl>`;
+  if (fold) {
+    return html`<details class="card pada-fold" id="${id}">
+<summary>${raw(`<${H} id="h-${id}">`)}${t(lang, "verse.pada")}${raw(`</${H}>`)}</summary>
+${rows}
+</details>`;
+  }
   return html`<section class="card" id="${id}" aria-labelledby="h-${id}">
 ${raw(`<${H} id="h-${id}">`)}${t(lang, "verse.pada")}${raw(`</${H}>`)}
-<dl class="pada">${rec.pada.map((p) => html`<div><dt lang="sa">${p.sa}</dt><dd>${p.gloss && p.gloss[lang]}</dd></div>`)}</dl>
+${rows}
 </section>`;
 }
 
@@ -252,11 +266,15 @@ export function attributionLines(rec, lang, sources) {
   return out;
 }
 
-/** The short source line under a verse (§7.7): label, the linked source title, the locator. */
-export function sourceLine(rec, lang, { sources } = {}) {
+/**
+ * The short source line under a verse (§7.7): label, the linked source title, the locator — and, inside an occasion step
+ * (`pageHref`), the link to the mantra's own page where the vinyog list lives (§7.6; FIX-1a).
+ */
+export function sourceLine(rec, lang, { sources, pageHref = null } = {}) {
   const entry = rec.source && sources ? sources.get(rec.source.ref) : null;
-  if (!entry && !rec.locator) return "";
-  return html`<p class="src">${t(lang, "verse.source")}: ${entry ? sourceLink(entry, lang) : ""}${rec.locator ? html`${entry ? " · " : ""}${rec.locator}` : ""}</p>`;
+  if (!entry && !rec.locator && !pageHref) return "";
+  const parts = [entry ? sourceLink(entry, lang) : null, rec.locator ? html`${rec.locator}` : null].filter(Boolean);
+  return html`<p class="src">${parts.length ? html`${t(lang, "verse.source")}: ${parts.map((p, i) => html`${i ? " · " : ""}${p}`)}` : ""}${pageHref ? html`${parts.length ? " · " : ""}<a href="${pageHref}">${t(lang, "verse.mantra_page")}</a>` : ""}</p>`;
 }
 
 /** #sources section of a content page: one attribution line per source of every record (design §4.1). */
@@ -287,16 +305,17 @@ export function kindChip(rec, lang) {
 }
 
 /**
- * The full fixed-order rendering for a step / chapter embed (design §7.1): verse block → pada → meaning/explanation →
- * vinyog → variants → source line. Pages that lay the pieces out differently (the mantra page) call the pieces.
+ * The full fixed-order rendering for a step embed (design §7.1): verse block → pada → meaning/explanation → variants →
+ * source line with the "mantra page →" link. The vinyog card is NOT rendered inside a step (orchestrator decision
+ * 2026-11-02, FIX-1a): the step itself is the use, and the card repeated the step texts of every other occasion
+ * (18–51 KB per occasion page); it lives on the mantra page (§7.6), which the source line links.
  */
-export function verseFull(rec, lang, { ctx, derived, occasionsById, sources, n, textLang, heading = "h3", idPrefix, id } = {}) {
+export function verseFull(rec, lang, { ctx, derived, sources, n, textLang, heading = "h3", idPrefix, id } = {}) {
   const mdCtx = mdContext(ctx, lang, derived);
   const p = idPrefix || `${rec.id}`;
   return html`${verseBlock(rec, lang, { n, textLang, id })}
-${padaCard(rec, lang, { id: `pada-${p}`, heading })}
+${padaCard(rec, lang, { id: `pada-${p}`, heading, fold: true })}
 ${meaningSection(rec, lang, mdCtx, { id: `arth-${p}`, heading })}
-${vinyogCard(rec, lang, { ctx, occasionsById, mdCtx, id: `vinyog-${p}`, heading })}
 ${variantsSection(rec, lang, { sources, id: `variants-${p}`, heading, mdCtx })}
-${sourceLine(rec, lang, { sources })}`;
+${sourceLine(rec, lang, { sources, pageHref: ctx.R.href(`${lang}/mantras/${rec.id}/`) })}`;
 }

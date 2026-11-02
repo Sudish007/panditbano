@@ -152,6 +152,8 @@ export function renderInline(src, ctx = {}, state = { links: [], terms: [], plac
     const first = !state.seenTerms.has(id);
     state.seenTerms.add(id);
     const alt = first && term.alt && term.alt !== term.display ? ` <span class="term-alt">(${esc(term.alt)})</span>` : "";
+    // a term the bank knows but no glossary page defines yet (href null) stays plain text with its first-use bracket (FIX-1a)
+    if (!term.href) return hold(`<span class="term" data-term="${esc(id)}"${first ? ' data-first="1"' : ""}>${esc(term.display)}</span>${alt}`);
     return hold(`<a class="term" href="${esc(term.href)}"${first ? ' data-first="1"' : ""}>${esc(term.display)}</a>${alt}`);
   });
   s = s.replace(PLACEHOLDER_RE, (_, type, arg) => {

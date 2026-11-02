@@ -724,23 +724,42 @@ def run_budget(a):
     for root, _, files in os.walk(os.path.join(dist, "assets")):
         for f in files:
             css_sizes[f] = os.path.getsize(os.path.join(root, f))
+    # UI-31 as amended on 2026-11-02 (orchestrator; docs/design.md Deviations, build/report.mjs): (a) CSS + JS ≤ 150 KB
+    # uncompressed, (b) HTML + CSS + JS ≤ 150 KB gzip level 6, (c) uncompressed HTML reported only; data JSON ≤ 300 KB.
+    import gzip as _gzip
+    import re
+    gz_cache = {}
+    def gz_size(path):
+        if path not in gz_cache:
+            with open(path, "rb") as fh:
+                gz_cache[path] = len(_gzip.compress(fh.read(), compresslevel=6))
+        return gz_cache[path]
+    asset_paths = {}
+    for root, _, files in os.walk(os.path.join(dist, "assets")):
+        for f in files:
+            asset_paths[f] = os.path.join(root, f)
     for p in pages:
         f = os.path.join(dist, *(p + "index.html" if p.endswith("/") or p == "" else p).split("/"))
         html = open(f, encoding="utf-8").read()
-        size = os.path.getsize(f)
-        import re
+        html_size = os.path.getsize(f)
+        html_gz = gz_size(f)
+        assets = set()
         for m in re.finditer(r'(?:href|src)="[^"]*?/assets/(?:css|js)/([^"/]+)"', html):
-            size += css_sizes.get(m.group(1), 0)
+            assets.add(m.group(1))
         mods = re.search(r'id="pb-modules">(\[.*?\])<', html)
         if mods:
             for rel in json.loads(mods.group(1)):
-                size += css_sizes.get(os.path.basename(rel), 0)
+                assets.add(os.path.basename(rel))
+        code = sum(css_sizes.get(n, 0) for n in assets)
+        code_gz = sum(gz_size(asset_paths[n]) for n in assets if n in asset_paths)
         data = 0
         for m in re.finditer(r'"([^"]+\.json)"', html):
             jp = os.path.join(dist, *m.group(1).replace(a.base_path, "").split("/"))
             if os.path.isfile(jp):
                 data += os.path.getsize(jp)
-        au.rec(p, 0, "-", "UI-31", {"pass": size <= 150 * 1024 and data <= 300 * 1024, "measure": f"HTML+CSS+JS {size / 1024:.1f} KB (≤ 150), data JSON {data / 1024:.1f} KB (≤ 300)"})
+        total_gz = html_gz + code_gz
+        ok = code <= 150 * 1024 and total_gz <= 150 * 1024 and data <= 300 * 1024
+        au.rec(p, 0, "-", "UI-31", {"pass": ok, "measure": f"CSS+JS {code / 1024:.1f} KB (≤ 150 raw), HTML+CSS+JS gzip {total_gz / 1024:.1f} KB (≤ 150), HTML raw {html_size / 1024:.1f} KB (note), data JSON {data / 1024:.1f} KB (≤ 300)"})
     return au
 
 

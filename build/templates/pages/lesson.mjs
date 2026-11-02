@@ -87,7 +87,8 @@ export function relatedSection(ctx, lang, lesson, { data, derived }) {
   row("occasions", (rel.occasions || []).filter((id) => occ.has(id)).map((id) => html`<a class="chip" href="${R.href(`${lang}/occasions/${occ.get(id).slug}/`)}">${occ.get(id).title[lang]}</a>`));
   row("mantras", (rel.mantras || []).filter((id) => derived.mantraById && derived.mantraById.get(id)).map((id) => { const m = derived.mantraById.get(id); return html`<a class="chip" href="${R.href(`${lang}/mantras/${id}/`)}">${(m.title && m.title[lang]) || id}</a>`; }));
   row("texts", (rel.texts || []).filter((id) => txt.has(id)).map((id) => html`<a class="chip" href="${R.href(`${lang}/texts/${txt.get(id).slug}/`)}">${txt.get(id).title[lang]}</a>`));
-  row("terms", (rel.terms || []).filter((id) => derived.termbankById && derived.termbankById.get(id)).map((id) => { const tb = derived.termbankById.get(id); return html`<a class="chip" href="${R.href(glossary.has(id) ? `${lang}/glossary/${id}/` : `${lang}/glossary/`)}">${tb[lang] || tb.hi}</a>`; }));
+  // FIX-1a: a related term without a glossary page yet is a plain chip, not a link to the index that does not list it
+  row("terms", (rel.terms || []).filter((id) => derived.termbankById && derived.termbankById.get(id)).map((id) => { const tb = derived.termbankById.get(id); return glossary.has(id) ? html`<a class="chip" href="${R.href(`${lang}/glossary/${id}/`)}">${tb[lang] || tb.hi}</a>` : html`<span class="chip" data-term="${id}">${tb[lang] || tb.hi}</span>`; }));
   row("lessons", (rel.lessons || []).filter((id) => les.has(id)).map((id) => html`<a class="chip" href="${lessonHref(ctx, lang, les.get(id))}">${les.get(id).title[lang]}</a>`));
   if (!rows.length) return "";
   return html`<section id="related" aria-labelledby="h-related"><h2 id="h-related">${t(lang, "learn.related")}</h2><dl class="related">${rows}</dl></section>`;

@@ -304,6 +304,14 @@ G13 glossary terms FAIL/FLAG · G14 honesty FLAG/FAIL · G15 sensitive notes FAI
 G17 literal counts FLAG · G18 duplicate ids FAIL · G19 reproduce:false FAIL · G20 Shubhvela ids FAIL · G21 bho = hi
 FLAG/FAIL · G22 U+0953/0954 count FLAG. `npm run build` runs the same gate and stops on FAIL.
 
+**Page budgets (build stage 10, `build/report.mjs`; fatal in CI; `test/integration/budgets.test.mjs`)** — as amended by the
+orchestrator on 2026-11-02 (the owner-side amendment of brief §7, recorded in `docs/design.md` "Deviations and notes"):
+(a) CSS + JS per page ≤ 150 KB uncompressed; (b) HTML + CSS + JS per page ≤ 150 KB **gzip level 6** (the bytes GitHub Pages
+transfers), pothi routes included, no exemptions; (c) uncompressed HTML per page is reported only (`build.json#budgets.page.html`
+and the ten heaviest pages in `budgets.page.heaviest`, both figures). Content authors never paginate an occasion part or a
+chapter to meet a budget (the owner's "everything in detail" rule): a 62-step occasion stays three part pages + one pothi.
+Write the step's `pada`, `meaning` and `explanation` as fully as the rules above ask; the gzip figure is what the build checks.
+
 ## 11. Lanes (brief §13.2 — three parallel content lanes per phase)
 
 Content items of one phase run in up to three lanes at once. A lane step **never writes inside the repo tree and never

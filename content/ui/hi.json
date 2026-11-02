@@ -114,7 +114,8 @@
     "step": "चरण {n}",
     "checked": "मिलान स्रोत",
     "locator": "स्थान",
-    "open_settings": "पढ़ने की सेटिंग खोलें"
+    "open_settings": "पढ़ने की सेटिंग खोलें",
+    "mantra_page": "मंत्र का पृष्ठ →"
   },
   "layer": {
     "vedic": "वैदिक",

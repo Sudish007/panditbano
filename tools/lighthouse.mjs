@@ -13,6 +13,7 @@ import { existsSync, mkdirSync, readFileSync, readdirSync, statSync, writeFileSy
 import { tmpdir } from "node:os";
 import { dirname, extname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
+import { gzipSync } from "node:zlib";
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const TARGETS = { performance: 95, accessibility: 100, "best-practices": 100, seo: 100 };
@@ -60,8 +61,13 @@ function serveDist(dist, basePath) {
       res.end(existsSync(nf) ? readFileSync(nf) : "404");
       return;
     }
-    res.writeHead(200, { "Content-Type": MIME[extname(file)] || "application/octet-stream", "Cache-Control": "no-cache" });
-    res.end(readFileSync(file));
+    // gzip text assets like GitHub Pages does (FIX-1a): the per-page budget is a gzip figure now, and an uncompressed local
+    // server made `uses-text-compression` fail and performance read 92 on pages that transfer ≈ 100 KB gzip live
+    const type = MIME[extname(file)] || "application/octet-stream";
+    const body = readFileSync(file);
+    const gz = /^(text\/|application\/(json|javascript|xml|manifest))/.test(type) && /\bgzip\b/.test(req.headers["accept-encoding"] || "");
+    res.writeHead(200, { "Content-Type": type, "Cache-Control": "no-cache", ...(gz ? { "Content-Encoding": "gzip", Vary: "Accept-Encoding" } : {}) });
+    res.end(gz ? gzipSync(body, { level: 6 }) : body);
   });
   return new Promise((ok) => srv.listen(0, "127.0.0.1", () => ok({ srv, origin: `http://127.0.0.1:${srv.address().port}` })));
 }

@@ -52,7 +52,7 @@ ${tb.evidence === "UNCERTAIN" ? html`<p class="caveat m0">${t(lang, "glossary.ev
 <h2 id="h-definition">${t(lang, "glossary.definition")}</h2>
 <p>${inlineProse(term.definition[lang], mdCtx)}</p>
 </section>
-${related.length ? html`<section id="related" aria-labelledby="h-related"><h2 id="h-related">${t(lang, "glossary.related")}</h2><p class="chips m0">${related.map((r) => html`<a class="chip" href="${r.page ? termHref(ctx, lang, r.page) : R.href(`${lang}/glossary/`)}">${r.tb[lang] || r.tb.hi}</a>`)}</p></section>` : ""}
+${related.length ? html`<section id="related" aria-labelledby="h-related"><h2 id="h-related">${t(lang, "glossary.related")}</h2><p class="chips m0">${related.map((r) => (r.page ? html`<a class="chip" href="${termHref(ctx, lang, r.page)}">${r.tb[lang] || r.tb.hi}</a>` : html`<span class="chip" data-term="${r.id}">${r.tb[lang] || r.tb.hi}</span>`))}</p></section>` : ""}
 ${occasions.length ? html`<section id="used-in" aria-labelledby="h-used-in"><h2 id="h-used-in">${t(lang, "glossary.used_in")}</h2><ul class="link-list">${occasions.map((o) => html`<li><a href="${R.href(`${lang}/occasions/${o.slug}/`)}">${o.title[lang]}</a>${o.lede && o.lede[lang] ? html` <span class="meta">— ${clip(o.lede[lang], 90)}</span>` : ""}</li>`)}</ul></section>` : ""}
 ${used.lessons.length ? html`<section id="in-lessons" aria-labelledby="h-in-lessons"><h2 id="h-in-lessons">${t(lang, "glossary.in_lessons")}</h2><ul class="link-list">${used.lessons.map((l) => html`<li><a href="${R.href(`${lang}/learn/${l.id}/`)}">${l.title[lang]}</a></li>`)}</ul></section>` : ""}
 </div>

@@ -2,11 +2,9 @@
 // sitemap-<lang>.xml when a language exceeds 45,000 URLs) with xhtml:link hi/en/x-default alternates (bho URLs are ordinary
 // <url> entries — Google has no hreflang code for Bhojpuri), robots.txt, and a <head> injection per page: og:image metas,
 // twitter:card and one JSON-LD block (WebSite on home — SearchAction only when features.search; BreadcrumbList on inner
-// pages; Article for lessons/kathas/reference/static; HowTo with HowToStep for occasions; DefinedTerm for glossary terms).
-// The page title/description/crumbs are read back from the rendered HTML, so every template stays the single source.
+// pages; Article for lessons/kathas/reference/static; WebPage for occasions (FIX-1a: no HowTo step list); DefinedTerm for
+// glossary terms). The page title/description/crumbs are read back from the rendered HTML, so every template stays the single source.
 import { LANGS } from "./config.mjs";
-import { renderInline } from "./lib/md.mjs";
-import { mdContext } from "./templates/components/verse.mjs";
 
 export const SITEMAP_SPLIT_AT = 45000;
 const OG_W = 1200, OG_H = 630;
@@ -32,22 +30,13 @@ export function pageMeta(html, siteName) {
 // ---------------------------------------------------------------- JSON-LD
 const ARTICLE_TYPES = new Set(["lesson", "katha", "katha-adhyaya", "reference-page", "static"]);
 
-function howTo(page, { occasions, R, ctx, derived }, meta, lang) {
+// FIX-1a (orchestrator decision 2026-11-02): occasion and occasion-part pages carry a WebPage node, not HowTo + HowToStep.
+// The step list repeated every step's action text in the head (31 KB on hi/occasions/vivah/mukhya/) and Google retired
+// HowTo rich results in September 2023, so the block bought nothing the BreadcrumbList does not.
+function occasionPage(page, { occasions }, meta, lang) {
   const occ = occasions.find((o) => o.slug === page.route.params.slug);
   if (!occ) return null;
-  const part = page.pageType === "occasion-part" ? page.route.params.part : null;
-  const steps = (occ.steps || []).filter((s) => !part || s.part === part);
-  // the action is a prose field ([[term]], [text](url), **bold**): render it like the page does, then drop the tags
-  const mdCtx = mdContext(ctx, lang, derived);
-  const plain = (s) => unesc(renderInline(String(s ?? ""), mdCtx).replace(/<[^>]+>/g, "")).replace(/\s+/g, " ").trim();
-  return {
-    "@type": "HowTo",
-    name: meta.title,
-    description: meta.description,
-    inLanguage: lang,
-    url: page.route.abs,
-    step: steps.map((s, i) => ({ "@type": "HowToStep", position: i + 1, text: plain(s.action?.[lang]) })),
-  };
+  return { "@type": "WebPage", name: meta.title, description: meta.description, inLanguage: lang, url: page.route.abs };
 }
 
 /** The JSON-LD graph of one page (array of nodes; empty for pages that carry none). */
@@ -67,7 +56,7 @@ export function jsonLd(page, meta, { R, ctx, data, derived }) {
     nodes.push({ "@type": "BreadcrumbList", itemListElement: items });
   }
   if (ARTICLE_TYPES.has(page.pageType)) nodes.push({ "@type": "Article", headline: meta.title, description: meta.description, inLanguage: lang, url: page.route.abs, publisher: { "@type": "Organization", name: site } });
-  else if (page.pageType === "occasion" || page.pageType === "occasion-part") { const h = howTo(page, { occasions: data.occasions, R, ctx, derived }, meta, lang); if (h) nodes.push(h); }
+  else if (page.pageType === "occasion" || page.pageType === "occasion-part") { const h = occasionPage(page, { occasions: data.occasions }, meta, lang); if (h) nodes.push(h); }
   else if (page.pageType === "term") {
     const term = (derived.glossaryPages || []).find((g) => g.id === page.route.params.termId);
     nodes.push({ "@type": "DefinedTerm", name: meta.title, description: meta.description, inLanguage: lang, url: page.route.abs, termCode: term ? term.id : page.route.params.termId, inDefinedTermSet: { "@type": "DefinedTermSet", name: ctx.ui[lang].nav.glossary, url: R.abs(`${lang}/glossary/`) } });

@@ -114,7 +114,8 @@
     "step": "Step {n}",
     "checked": "Checked against",
     "locator": "Locator",
-    "open_settings": "Open reading settings"
+    "open_settings": "Open reading settings",
+    "mantra_page": "Mantra page →"
   },
   "layer": {
     "vedic": "Vedic",

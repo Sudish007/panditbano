@@ -1,6 +1,6 @@
 // FEAT-109: SEO files and structured data (design §17) — sitemap with hi/en/x-default alternates and bho as ordinary
 // URLs, robots.txt disallowing _dev/ and _reports/, JSON-LD per page type that parses (WebSite without SearchAction while the
-// flag is false; BreadcrumbList; HowTo + HowToStep; Article; DefinedTerm), og:image / twitter metas, og:locale hi_IN/en_IN only.
+// flag is false; BreadcrumbList; WebPage on occasions (FIX-1a, no HowTo); Article; DefinedTerm), og:image / twitter metas, og:locale hi_IN/en_IN only.
 import { test } from "node:test";
 import assert from "node:assert/strict";
 import { pageMeta, robotsTxt, unesc, SITEMAP_SPLIT_AT, writeSitemaps } from "../../build/seo.mjs";
@@ -52,19 +52,21 @@ test("fixture build: sitemap has hi/en/x-default alternates, bho URLs as plain e
   assert.ok(b.read("robots.txt").includes("Disallow: /panditbano/_reports/"));
 });
 
-test("fixture build: JSON-LD per page type parses; WebSite without SearchAction; HowTo steps; DefinedTerm; Article; BreadcrumbList", async () => {
+test("fixture build: JSON-LD per page type parses; WebSite without SearchAction; WebPage on occasions; DefinedTerm; Article; BreadcrumbList", async () => {
   const b = await fixtureBuild();
   const home = ld(b.read("hi/index.html"));
   assert.equal(home.length, 1);
   const ws = nodesOf(home[0]).find((n) => n["@type"] === "WebSite");
   assert.ok(ws && ws.inLanguage === "hi" && ws.url === "https://sudish007.github.io/panditbano/hi/");
   assert.ok(!("potentialAction" in ws), "no SearchAction while features.search is false (MEDIUM 6)");
+  // FIX-1a: occasion pages carry WebPage + BreadcrumbList; the HowTo step list (every action text repeated in the head) is gone
   const occ = nodesOf(ld(b.read("hi/occasions/vivah/index.html"))[0]);
-  const howto = occ.find((n) => n["@type"] === "HowTo");
-  assert.ok(howto && howto.step.length > 5 && howto.step.every((s) => s["@type"] === "HowToStep" && s.text));
+  const wp = occ.find((n) => n["@type"] === "WebPage");
+  assert.ok(wp && wp.url === "https://sudish007.github.io/panditbano/hi/occasions/vivah/" && wp.inLanguage === "hi" && wp.name);
+  assert.ok(!occ.some((n) => n["@type"] === "HowTo"), "no HowTo node");
   assert.ok(occ.find((n) => n["@type"] === "BreadcrumbList").itemListElement.length >= 2);
-  const part = nodesOf(ld(b.read("hi/occasions/vivah/purvang/index.html"))[0]).find((n) => n["@type"] === "HowTo");
-  assert.ok(part && part.step.length < howto.step.length, "a part lists only its own steps");
+  const part = nodesOf(ld(b.read("hi/occasions/vivah/purvang/index.html"))[0]);
+  assert.ok(part.some((n) => n["@type"] === "WebPage") && !part.some((n) => n["@type"] === "HowTo"), "part pages likewise");
   const term = nodesOf(ld(b.read("en/glossary/kalash/index.html"))[0]).find((n) => n["@type"] === "DefinedTerm");
   assert.ok(term && term.termCode === "kalash" && term.inDefinedTermSet.url === "https://sudish007.github.io/panditbano/en/glossary/");
   for (const f of ["hi/learn/l0-01-purohit-kaun/index.html", "bho/kathas/satyanarayan-vrat-katha/index.html", "hi/reference/sankalpa/index.html", "en/about/index.html"]) {

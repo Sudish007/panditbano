@@ -1,12 +1,25 @@
-// Stage 10 — budgets and the build report (design.md §23, §11.1 stage 10, §12; FEAT-109). Measures the finished output
-// map: per-page HTML + CSS + JS ≤ 150 KB (excluding data JSON and fonts), data JSON ≤ 300 KB per file, fonts ≤ 450 KB in
-// total, service-worker precache ≤ 2 MB, OG bytes/seconds (build/og.mjs), the ḹ count in the generated IAST and the
-// U+0953/U+0954 fallback-svara count. Budget violations are fatal when CI=true and warnings locally (build.mjs decides);
-// the per-module JS caps of design §12 are reported as warnings only (see docs/design.md "Deviations and notes").
+// Stage 10 — budgets and the build report (design.md §23, §11.1 stage 10, §12; FEAT-109; FIX-1a). Measures the finished
+// output map. Per-page rules (orchestrator decision 2026-11-02, the owner-side amendment of brief §7 — docs/design.md
+// "Deviations and notes", docs/CONTENT-RULES.md): (a) CSS + JS per page ≤ 150 KB uncompressed (the code-bloat tripwire);
+// (b) HTML + CSS + JS per page ≤ 150 KB gzip level 6 — the bytes GitHub Pages transfers — pothi routes included, no
+// exemptions; (c) warning only: uncompressed HTML per page, with the ten heaviest pages listed (both figures) in build.json.
+// Data JSON ≤ 300 KB per file, fonts ≤ 450 KB in total, service-worker precache ≤ 2 MB, OG bytes/seconds (build/og.mjs),
+// the ḹ count in the generated IAST and the U+0953/U+0954 fallback-svara count. Budget violations are fatal when CI=true
+// and warnings locally (build.mjs decides); the per-module JS caps of design §12 are reported as warnings only.
+import { gzipSync } from "node:zlib";
 import { OG_BYTES_BUDGET, OG_SECONDS_BUDGET } from "./og.mjs";
 import { PRECACHE_BUDGET } from "./pwa.mjs";
 
-export const PAGE_BUDGET = 150 * 1024;
+/** (a) CSS + JS per page, uncompressed. */
+export const CODE_BUDGET = 150 * 1024;
+/** (b) HTML + CSS + JS per page, gzip level 6. */
+export const PAGE_GZIP_BUDGET = 150 * 1024;
+/** (c) uncompressed HTML per page — reported, never fatal (the content IS the HTML; Devanagari is 3 bytes a character). */
+export const PAGE_HTML_NOTE = 150 * 1024;
+/** Kept for callers that still read the old name: the gzip cap is the per-page rule now. */
+export const PAGE_BUDGET = PAGE_GZIP_BUDGET;
+export const GZIP_LEVEL = 6;
+export const HEAVIEST_LISTED = 10;
 export const DATA_JSON_BUDGET = 300 * 1024;
 export const FONTS_BUDGET = 450 * 1024;
 /** design §12 size caps (unminified) per client module, bytes. */
@@ -37,25 +50,45 @@ export function textCounts(derived) {
 export function measureBudgets(out, { pages, ctx, og, precache }) {
   const violations = [];
   const warnings = [];
+  const gz = (body) => gzipSync(Buffer.isBuffer(body) ? body : Buffer.from(String(body), "utf8"), { level: GZIP_LEVEL }).length;
   const css = sizeOf(out.get(ctx.assets.css) || "");
   const appJs = sizeOf(out.get(ctx.assets.js) || "");
+  const cssGz = gz(out.get(ctx.assets.css) || "");
+  const appJsGz = gz(out.get(ctx.assets.js) || "");
   const moduleBytes = {};
+  const moduleGz = {};
   for (const [file, body] of out) {
     const m = /^assets\/js\/([A-Za-z0-9_-]+)\.[0-9a-f]{12}\.mjs$/.exec(file);
-    if (m) moduleBytes[m[1]] = sizeOf(body);
+    if (m) { moduleBytes[m[1]] = sizeOf(body); moduleGz[m[1]] = gz(body); }
   }
-  // per-page payload
-  let maxPage = { file: null, bytes: 0 };
-  const pageOffenders = [];
+  // per-page payload: (a) code uncompressed, (b) HTML+CSS+JS gzip, (c) HTML uncompressed (note only)
+  const measured = [];
+  const codeOffenders = [];
+  const gzipOffenders = [];
+  let maxCode = { file: null, bytes: 0 };
+  let maxGzip = { file: null, bytes: 0 };
+  let maxHtml = { file: null, bytes: 0 };
+  let htmlOver = 0;
   for (const p of pages) {
     const html = out.get(p.file);
     if (html === undefined) continue;
-    const mods = (ctx.modules?.[p.pageType] || []).map((rel) => moduleBytes[/^\.\/([A-Za-z0-9_-]+)\./.exec(rel)?.[1]] || 0);
-    const bytes = sizeOf(html) + css + appJs + mods.reduce((a, b) => a + b, 0);
-    if (bytes > maxPage.bytes) maxPage = { file: p.file, bytes };
-    if (bytes > PAGE_BUDGET) pageOffenders.push({ file: p.file, bytes });
+    const modNames = (ctx.modules?.[p.pageType] || []).map((rel) => /^\.\/([A-Za-z0-9_-]+)\./.exec(rel)?.[1]).filter(Boolean);
+    const code = css + appJs + modNames.reduce((a, n) => a + (moduleBytes[n] || 0), 0);
+    const htmlBytes = sizeOf(html);
+    const gzip = gz(html) + cssGz + appJsGz + modNames.reduce((a, n) => a + (moduleGz[n] || 0), 0);
+    const row = { file: p.file, pageType: p.pageType, html: htmlBytes, code, uncompressed: htmlBytes + code, gzip };
+    measured.push(row);
+    if (code > maxCode.bytes) maxCode = { file: p.file, bytes: code };
+    if (gzip > maxGzip.bytes) maxGzip = { file: p.file, bytes: gzip };
+    if (htmlBytes > maxHtml.bytes) maxHtml = { file: p.file, bytes: htmlBytes };
+    if (code > CODE_BUDGET) codeOffenders.push({ file: p.file, bytes: code });
+    if (gzip > PAGE_GZIP_BUDGET) gzipOffenders.push({ file: p.file, bytes: gzip });
+    if (htmlBytes > PAGE_HTML_NOTE) htmlOver++;
   }
-  for (const o of pageOffenders) violations.push(`page ${o.file}: ${kb(o.bytes)} > ${kb(PAGE_BUDGET)} (HTML+CSS+JS)`);
+  for (const o of codeOffenders) violations.push(`page ${o.file}: CSS+JS ${kb(o.bytes)} > ${kb(CODE_BUDGET)} uncompressed (rule a)`);
+  for (const o of gzipOffenders) violations.push(`page ${o.file}: HTML+CSS+JS ${kb(o.bytes)} > ${kb(PAGE_GZIP_BUDGET)} gzip (rule b)`);
+  const heaviest = measured.sort((a, b) => b.uncompressed - a.uncompressed).slice(0, HEAVIEST_LISTED);
+  if (htmlOver) warnings.push(`${htmlOver} page(s) carry more than ${kb(PAGE_HTML_NOTE)} of uncompressed HTML (rule c, note only); heaviest ${maxHtml.file} ${kb(maxHtml.bytes)} HTML, ${kb(maxGzip.bytes)} gzip max on ${maxGzip.file}`);
   // data JSON (search shards and any other JSON a page loads; manifests and reports excluded)
   let maxJson = { file: null, bytes: 0 };
   for (const [file, body] of out) {
@@ -84,7 +117,15 @@ export function measureBudgets(out, { pages, ctx, og, precache }) {
     if (og.fontMatched === false) violations.push("og: Pango did not use the bundled TTFs (font probe metrics equal the fallback's) — Devanagari would be tofu/mis-shaped (MEDIUM 2)");
   }
   const budgets = {
-    page: { cap: PAGE_BUDGET, css, appJs, max: maxPage, over: pageOffenders.length },
+    page: {
+      // (a) code uncompressed, (b) gzip, (c) HTML note — plus the ten heaviest pages with both figures for the verification report
+      cap: PAGE_GZIP_BUDGET, gzipLevel: GZIP_LEVEL, css, appJs, cssGz, appJsGz,
+      code: { cap: CODE_BUDGET, max: maxCode, over: codeOffenders.length },
+      gzip: { cap: PAGE_GZIP_BUDGET, max: maxGzip, over: gzipOffenders.length },
+      html: { note: PAGE_HTML_NOTE, max: maxHtml, over: htmlOver, fatal: false },
+      max: maxGzip, over: gzipOffenders.length,
+      heaviest,
+    },
     dataJson: { cap: DATA_JSON_BUDGET, max: maxJson },
     modules: { caps: Object.fromEntries(Object.entries(MODULE_CAPS).map(([k, v]) => [k, v * 1024])), bytes: moduleBytes, over: modulesOver, fatal: false },
     fonts: { cap: FONTS_BUDGET, bytes: fonts },

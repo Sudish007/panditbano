@@ -67,16 +67,15 @@ export function saysBlock(step, lang) {
   return html`<div class="says"><p class="label">${t(lang, "verse.says")}</p>${s.sa ? html`<p class="sa" lang="sa">${s.sa}</p>` : ""}<p class="m0">${s[lang]}</p></div>`;
 }
 
-/** Step → .step card. opts: { ctx, lang, derived, occasionsById, sources, textsById, mdCtx, mantraById, occ, samagriHref } */
-export function stepCard(step, { ctx, lang, derived, occasionsById, sources, textsById, mdCtx, mantraById, occ }) {
+/** Step → .step card. opts: { ctx, lang, derived, sources, textsById, mdCtx, mantraById, occ } (occasionsById is accepted and ignored) */
+export function stepCard(step, { ctx, lang, derived, sources, textsById, mdCtx, mantraById, occ }) {
   const { head, tail } = splitAction(step.action[lang]);
   const recs = (step.mantraIds || []).map((id) => {
     const rec = mantraById.get(id);
     if (!rec) throw new Error(`step ${step.n}: mantra "${id}" is not in the corpus`);
     return rec;
   });
-  // vinyog on an occasion page lists the OTHER occasions that use the mantra (the current one is this very step)
-  const others = occasionsById && occ ? new Map([...occasionsById].filter(([id]) => id !== occ.id)) : occasionsById;
+  // no vinyog card inside a step (FIX-1a): the source line links the mantra page, which carries the vinyog list (§7.6)
   const samagri = (step.samagriIds || []).map((id) => (occ.samagri || []).find((s) => s.id === id)).filter(Boolean);
   const cls = ["step", recs.length ? "two" : "", step.important ? "important" : ""].filter(Boolean).join(" ");
   return html`<article class="${cls}" id="step-${step.n}">
@@ -88,7 +87,7 @@ ${saysBlock(step, lang)}
 ${step.note && step.note[lang] ? html`<p class="meta note"><strong>${t(lang, "verse.note")}:</strong> ${inlineProse(step.note[lang], mdCtx)}</p>` : ""}
 ${samagri.length ? html`<p class="meta step-samagri">${t(lang, "occasion.step_samagri")}: ${samagri.map((s, i) => html`${i ? ", " : ""}<a href="#sg-${occ.id}-${s.id}">${s.item[lang]}</a>`)}</p>` : ""}
 </div>
-${recs.length ? html`<div class="step-verses">${recs.map((rec) => verseFull(rec, lang, { ctx, derived, occasionsById: others, sources, heading: "h4", idPrefix: `s${step.n}-${rec.id}`, id: `m-s${step.n}-${rec.id}` }))}</div>` : ""}
+${recs.length ? html`<div class="step-verses">${recs.map((rec) => verseFull(rec, lang, { ctx, derived, sources, heading: "h4", idPrefix: `s${step.n}-${rec.id}`, id: `m-s${step.n}-${rec.id}` }))}</div>` : ""}
 </article>`;
 }
 

@@ -102,8 +102,9 @@ test("every step: number chip, h3 title, one layer chip; verses via verseFull wi
   assert.ok(p.includes('<a href="#sg-vivah-kalash">कलश (तांबे या मिट्टी का)</a>'), "step samagri link");
   const m = part("hi", "vivah", "mukhya");
   assert.ok(m.includes('<article class="step two important" id="step-4">') && m.includes('class="chip chip-haldi">मुख्य चरण<'));
-  // vinyog on the occasion page never lists the occasion itself
-  assert.ok(!/vinyog[\s\S]*?occasions\/vivah\//.test(m.slice(m.indexOf('id="vinyog-'), m.indexOf("</section>", m.indexOf('id="vinyog-')))) || !m.includes('id="vinyog-'));
+  // FIX-1a: no vinyog card inside a step — the step's source line links the mantra page, which carries the list (§7.6)
+  assert.ok(!m.includes('id="vinyog-'), "no vinyog card on a part page");
+  assert.ok(m.includes('href="/panditbano/hi/mantras/'), "step source lines link the mantra pages");
   // lok steps carry no verse and the chip reads लोकाचार
   const u = part("hi", "vivah", "uttarang");
   assert.ok(u.includes('class="chip chip-lok">लोकाचार<'));

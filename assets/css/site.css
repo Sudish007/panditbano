@@ -132,6 +132,10 @@ a.chip:hover { border-color: var(--accent); }
 @media (min-width: 1024px) { .grid-lg-3-early { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
 @media (min-width: 1440px) { .grid-lg-4 { grid-template-columns: repeat(4, minmax(0, 1fr)); } .grid-lg-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); } .grid-lg-5 { grid-template-columns: repeat(5, minmax(0, 1fr)); } }
 @media (min-width: 1920px) { .grid-xl-4 { grid-template-columns: repeat(4, minmax(0, 1fr)); } .grid-xl-5 { grid-template-columns: repeat(5, minmax(0, 1fr)); } .grid-xl-6 { grid-template-columns: repeat(6, minmax(0, 1fr)); } }
+/* data-driven card grids (mantras index groups, record lists): a lone card in the last row spans the row so the wide column
+   stays filled (UI-17 "last row not more than 50 % empty"; FIX-1a — hi/mantras/ had three 3n+1 groups at 1440) */
+@media (min-width: 1440px) { .grid-lg-3:not([data-grid]) > :last-child:nth-child(3n+1), .grid-lg-4:not([data-grid]) > :last-child:nth-child(4n+1) { grid-column: 1 / -1; } }
+@media (min-width: 1920px) { .grid-xl-4:not([data-grid]) > :last-child:nth-child(3n+1) { grid-column: auto; } .grid-xl-4:not([data-grid]) > :last-child:nth-child(4n+1) { grid-column: 1 / -1; } }
 
 /* page layout with rails */
 .page { padding-block: var(--gap) calc(var(--gap) * 2); }
@@ -240,6 +244,13 @@ dl.pada > div { display: grid; grid-template-columns: minmax(0, 0.9fr) minmax(0,
 dl.pada dt { font-family: var(--font-mantra); font-size: calc(var(--fs-body) * 1.15); line-height: 1.8; margin: 0; }
 dl.pada dd { margin: 0; }
 @media (min-width: 820px) { dl.pada { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+/* FIX-1a: inside an occasion step the word split is a closed <details> (orchestrator fallback, Lighthouse TBT on 23-step parts) */
+details.pada-fold summary { list-style: none; cursor: pointer; display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: var(--control-h); }
+details.pada-fold summary::-webkit-details-marker { display: none; }
+details.pada-fold summary::after { content: "+"; font-size: 1.3em; color: var(--accent); flex: none; }
+details.pada-fold[open] summary::after { content: "−"; }
+details.pada-fold summary h4 { margin: 0; }
+details.pada-fold[open] summary { margin-bottom: 8px; }
 .label { font-size: var(--fs-small); font-weight: 600; color: var(--ink-2); letter-spacing: 0.02em; text-transform: none; margin: 0 0 6px; }
 .src { font-size: var(--fs-small); color: var(--ink-2); }
 .says { border-left: 3px solid var(--accent); padding: 6px 0 6px 14px; margin: 14px 0 0; color: var(--ink); }
