@@ -1,0 +1,57 @@
+{
+  "id": "pad-satyanarayanam-devam-vande",
+  "kind": "paddhati",
+  "text": "satyanarayan-puja-paddhati",
+  "locator": "Satyanarayan puja vidhi — prarthana (Jangamwadi pothi, puja-vidhi leaf 6, prayer verse 7; sanskritdocuments puja text, अथ प्रार्थना verse 3)",
+  "title": {
+    "hi": "सत्यनारायण प्रार्थना — सत्यनारायणं देवं वंदेऽहं",
+    "en": "Satyanarayan prayer — satyanarayanam devam vande'ham",
+    "bho": "सत्यनारायण के प्रार्थना — सत्यनारायणं देवं वंदेऽहं"
+  },
+  "deity": "सत्यनारायण",
+  "devanagari": "सत्यनारायणं देवं वन्देऽहं कामदं प्रभुम् ।\nलीलया विततं विश्वं येन तस्मै नमो नमः ॥",
+  "svara": false,
+  "pada": [
+    { "sa": "सत्यनारायणं", "gloss": { "hi": "सत्यनारायण को", "en": "Satyanarayan", "bho": "सत्यनारायण के" } },
+    { "sa": "देवं", "gloss": { "hi": "देव को", "en": "the god", "bho": "देव के" } },
+    { "sa": "वन्दे", "gloss": { "hi": "प्रणाम करता हूँ", "en": "I bow to", "bho": "परनाम करत बानी" } },
+    { "sa": "अहं", "gloss": { "hi": "मैं", "en": "I", "bho": "हम" } },
+    { "sa": "कामदं", "gloss": { "hi": "कामनाएँ देने वाले", "en": "giver of what is wished for", "bho": "कामना देवे वाला" } },
+    { "sa": "प्रभुम्", "gloss": { "hi": "प्रभु को", "en": "the Lord", "bho": "प्रभु के" } },
+    { "sa": "लीलया", "gloss": { "hi": "लीला से", "en": "by his play (lila)", "bho": "लीला से" } },
+    { "sa": "विततं", "gloss": { "hi": "फैलाया गया", "en": "spread out", "bho": "पसारल" } },
+    { "sa": "विश्वं", "gloss": { "hi": "विश्व", "en": "the universe", "bho": "संसार" } },
+    { "sa": "येन", "gloss": { "hi": "जिसके द्वारा", "en": "by whom", "bho": "जेकरा से" } },
+    { "sa": "तस्मै", "gloss": { "hi": "उसको", "en": "to him", "bho": "ओकरा" } },
+    { "sa": "नमो नमः", "gloss": { "hi": "बार-बार नमस्कार", "en": "salutation again and again", "bho": "बेर-बेर नमस्कार" } }
+  ],
+  "meaning": {
+    "hi": "मैं कामनाएँ पूरी करने वाले प्रभु सत्यनारायण देव को प्रणाम करता हूँ। जिन्होंने अपनी लीला से यह विश्व फैलाया है, उन्हें बार-बार नमस्कार।",
+    "en": "I bow to the god Satyanarayan, the Lord who grants what is wished for. To him by whose play this universe has been spread out — salutation again and again.",
+    "bho": "हम कामना पूरा करे वाला प्रभु सत्यनारायण देव के परनाम करत बानी। जे आपन लीला से ई संसार पसरले बाड़न, ओकरा बेर-बेर नमस्कार।"
+  },
+  "explanation": {
+    "hi": "पूजन के अंत में, [[pushpanjali]] और [[pradakshina]] के बाद, हाथ जोड़कर यह प्रार्थना-श्लोक पढ़ा जाता है — सत्यनारायण का नाम लेकर किया गया एकमात्र स्तुति-श्लोक, इसलिए इस पूजा की पहचान जैसा। छपी हिंदी-पट्टी पोथी में यह प्रार्थना के सात श्लोकों में अंतिम है (बाकी श्लोक नारायण के सामान्य स्तुति-श्लोक हैं, जैसे \"मंत्रहीनं क्रियाहीनं\" — वे [[kshama-prarthana]] के पृष्ठ पर हैं); महाराष्ट्र की पूजा-विधि में भी यही श्लोक प्रार्थना में है। \"कामदं\" — कामनाएँ देने वाले — देवता का विशेषण है, कथा के अपने शब्द; यह साइट उसे फल का दावा नहीं, स्तुति का वाक्य मानकर देती है। इसके बाद [[kshama-prarthana]] और [[visarjan]] होते हैं।",
+    "en": "At the close of the worship, after the pushpanjali and the pradakshina, this prayer verse is recited with folded hands — the one verse of praise that names Satyanarayan, and so the signature of this puja. In the printed Hindi-belt pothi it is the last of seven prayer verses (the others are general verses to Narayana, such as \"mantra-hinam kriya-hinam\", which live on the kshama-prarthana page); the Maharashtrian puja text has the same verse in its prayer. \"Kamadam\" — giver of what is wished for — is an epithet of the deity in the text's own words; the site presents it as a line of praise, not as a claim of result. The kshama-prarthana and the visarjana follow.",
+    "bho": "पूजन के अंत में, [[pushpanjali]] आ [[pradakshina]] के बाद, हाथ जोड़ के ई प्रार्थना-श्लोक पढ़ल जाला — सत्यनारायण के नाँव लेके कइल गइल एकही स्तुति-श्लोक, एही से एह पूजा के पहिचान जइसन। छपल हिंदी-पट्टी पोथी में ई प्रार्थना के सात श्लोक में अंतिम बा (बाकी श्लोक नारायण के आम स्तुति-श्लोक बा, जइसे \"मंत्रहीनं क्रियाहीनं\" — ऊ [[kshama-prarthana]] के पन्ना पर बा); महाराष्ट्र के पूजा-विधि में भी इहे श्लोक प्रार्थना में बा। \"कामदं\" — कामना देवे वाला — देवता के विशेषन बा, कथा के आपन शब्द; ई साइट एकरा फल के दावा ना, स्तुति के वाक्य मान के देत बिया। एकरा बाद [[kshama-prarthana]] आ [[visarjan]] होला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "sd-satyanarayan-puja-vidhi",
+    "retrieved": "2026-11-01",
+    "locator": "अथ प्रार्थना, verse 3 (सत्यनारायणम् देवम् वन्देऽहम् …)",
+    "modified": "digital text writes word-final nasals as म्; normalised to anusvara before a following word; ASCII . and || replaced by । and ॥"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-satyanarayan-jangamwadi",
+      "retrieved": "2026-11-01",
+      "note": "PD pothi scan (OCR): the same verse closes the seven-verse prayer (numbered ७) before अथ कथाप्रारम्भः; the pothi's Hindi tika (कामनाको देनेवाले प्रभु, अपनी लीलासे जगत्को विस्तृत करनेवाले) confirms the reading; page images not inspected"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional paddhati verse of unknown authorship printed in public-domain Satyanarayan pothis; digital text from sanskritdocuments.org",
+  "tags": ["satyanarayan", "prarthana", "paddhati", "puja"],
+  "review": { "hi": "draft", "bho": "draft" }
+}

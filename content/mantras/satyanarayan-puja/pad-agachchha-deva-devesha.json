@@ -1,0 +1,66 @@
+{
+  "id": "pad-agachchha-deva-devesha",
+  "kind": "paddhati",
+  "text": "satyanarayan-puja-paddhati",
+  "locator": "Satyanarayan puja vidhi — avahana (sanskritdocuments puja text, after the dhyana: आगच्छ देव देवेश … आवाहनम् समर्पयामि)",
+  "title": {
+    "hi": "सत्यनारायण आवाहन — आगच्छ देव देवेश",
+    "en": "Satyanarayan avahana — agachchha deva devesha",
+    "bho": "सत्यनारायण के आवाहन — आगच्छ देव देवेश"
+  },
+  "deity": "सत्यनारायण",
+  "devanagari": "आगच्छ देव देवेश तेजोराशे जगत्पते ।\nक्रियमाणां मया पूजां गृहाण सुरसत्तम ॥",
+  "svara": false,
+  "pada": [
+    { "sa": "आगच्छ", "gloss": { "hi": "आइए", "en": "come", "bho": "आईं" } },
+    { "sa": "देव", "gloss": { "hi": "हे देव", "en": "O god", "bho": "हे देव" } },
+    { "sa": "देवेश", "gloss": { "hi": "हे देवों के ईश", "en": "O lord of the gods", "bho": "हे देव के ईश" } },
+    { "sa": "तेजोराशे", "gloss": { "hi": "हे तेज की राशि", "en": "O mass of radiance", "bho": "हे तेज के राशि" } },
+    { "sa": "जगत्पते", "gloss": { "hi": "हे जगत के स्वामी", "en": "O lord of the world", "bho": "हे जगत के मालिक" } },
+    { "sa": "क्रियमाणां", "gloss": { "hi": "की जा रही", "en": "being performed", "bho": "कइल जात" } },
+    { "sa": "मया", "gloss": { "hi": "मेरे द्वारा", "en": "by me", "bho": "हमरा से" } },
+    { "sa": "पूजां", "gloss": { "hi": "पूजा को", "en": "the worship", "bho": "पूजा के" } },
+    { "sa": "गृहाण", "gloss": { "hi": "ग्रहण करें", "en": "accept", "bho": "ग्रहन करीं" } },
+    { "sa": "सुरसत्तम", "gloss": { "hi": "हे देवों में सर्वोत्तम", "en": "O best of the gods", "bho": "हे देव में सबसे बढ़िया" } }
+  ],
+  "meaning": {
+    "hi": "हे देव, हे देवों के ईश, हे तेज की राशि, हे जगत के स्वामी — आइए। हे देवों में सर्वोत्तम, मेरे द्वारा की जा रही इस पूजा को ग्रहण करें।",
+    "en": "Come, O god, lord of the gods, mass of radiance, lord of the world. O best of the gods, accept this worship that I am performing.",
+    "bho": "हे देव, हे देव के ईश, हे तेज के राशि, हे जगत के मालिक — आईं। हे देव में सबसे बढ़िया, हमरा से कइल जात एह पूजा के ग्रहन करीं।"
+  },
+  "explanation": {
+    "hi": "[[dhyan]] के बाद [[avahan]] — देवता को पूजा-स्थान पर पधारने का निमंत्रण। पंडित यह श्लोक पढ़ते हुए अक्षत या फूल मूर्ति/चित्र पर छोड़ता है और बोलता है \"श्रीसत्यनारायणाय नमः, आवाहनं समर्पयामि\"। यह [[pothi]]-परंपरा का सामान्य आवाहन-श्लोक है, जो यहाँ सत्यनारायण के लिए प्रयुक्त है; इसका पाठ महाराष्ट्र की सत्यनारायण पूजा-विधि से लिया गया है। हिंदी पट्टी की छपी पोथी में ध्यान के बाद सीधे अर्घ्य-पाद्य आदि उपचार आते हैं, अलग आवाहन-श्लोक नहीं — वहाँ आवाहन \"आवाहयामि\" कहकर नाम-मंत्र से होता है। दोनों रीतियाँ चलती हैं; परिवार की परंपरा जो कहे, वही मान्य है।",
+    "en": "After the dhyana comes the avahana — the invitation to the deity to be present at the place of worship. Reciting this verse, the pandit drops rice or a flower on the image and says \"shri-satyanarayanaya namah, avahanam samarpayami\". It is the general handbook (pothi) invocation verse, used here for Satyanarayan; the reading is taken from the Maharashtrian Satyanarayan puja text. The printed Hindi-belt pothi goes straight from the dhyana to the arghya, padya and the other upacharas without a separate avahana verse — there the invocation is done with the name-mantra and the word \"avahayami\". Both ways are in use; the family's own custom decides.",
+    "bho": "[[dhyan]] के बाद [[avahan]] — देवता के पूजा-जगह पर पधारे के नेवता। पंडित ई श्लोक पढ़त अच्छत भा फूल मूरति/चित्र पर छोड़ेलन आ बोलेलन \"श्रीसत्यनारायणाय नमः, आवाहनं समर्पयामि\"। ई [[pothi]]-परंपरा के आम आवाहन-श्लोक बा, जे इहाँ सत्यनारायण खातिर लिहल गइल बा; एकर पाठ महाराष्ट्र के सत्यनारायण पूजा-विधि से लिहल बा। हिंदी पट्टी के छपल पोथी में ध्यान के बाद सीधे अरघ-पाद्य आदि उपचार आवेला, अलगा आवाहन-श्लोक ना — उहाँ आवाहन \"आवाहयामि\" कह के नाँव-मंत्र से होला। दुनो रीति चलेला; परिवार के परंपरा जे कहे, उहे मान्य बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "sd-satyanarayan-puja-vidhi",
+    "retrieved": "2026-11-01",
+    "locator": "the verse between हरिः ॐ सहस्रशीर्षा पुरुषः and श्रीसत्यनारायणाय साङ्गाय सपरिवाराय नमः । आवाहनम् समर्पयामि",
+    "modified": "digital text writes word-final nasals as म् (क्रियमाणाम् मया पूजाम्); normalised to anusvara before a following word; ASCII . and || replaced by । and ॥"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-satyanarayan-jangamwadi",
+      "retrieved": "2026-11-01",
+      "note": "compared: the PD Hindi-belt pothi (OCR) has NO separate avahana verse for Satyanarayan — after the dhyana it goes to the arghya; the verse is therefore labelled as the sanskritdocuments puja form, not as the pothi's reading"
+    }
+  ],
+  "variants": [
+    {
+      "reading": "आवाहनं विघ्नराजाय नमः",
+      "note": {
+        "hi": "छपी पोथी का ढंग — आवाहन नाम-मंत्र से, अलग श्लोक के बिना (पोथी में यह गणेश-पूजन के लिए छपा है; सत्यनारायण के लिए वहाँ ध्यान के बाद सीधे अर्घ्य है)।",
+        "en": "The printed pothi's way — the invocation by name-mantra, without a separate verse (printed there for the Ganesh puja; for Satyanarayan the pothi goes from the dhyana straight to the arghya).",
+        "bho": "छपल पोथी के ढंग — आवाहन नाँव-मंत्र से, अलगा श्लोक बिना (पोथी में ई गणेश-पूजन खातिर छपल बा; सत्यनारायण खातिर उहाँ ध्यान के बाद सीधे अरघ बा)।"
+      },
+      "source": "ia-satyanarayan-jangamwadi"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional paddhati verse of unknown authorship; digital text from sanskritdocuments.org",
+  "tags": ["satyanarayan", "avahan", "paddhati", "puja"],
+  "review": { "hi": "draft", "bho": "draft" }
+}

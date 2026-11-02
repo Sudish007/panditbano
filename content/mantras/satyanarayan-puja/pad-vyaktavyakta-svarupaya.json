@@ -1,0 +1,54 @@
+{
+  "id": "pad-vyaktavyakta-svarupaya",
+  "kind": "paddhati",
+  "text": "satyanarayan-puja-paddhati",
+  "locator": "Satyanarayan puja vidhi — arghya, verse 3 of the pothi's upachara verses (Jangamwadi pothi, puja-vidhi leaf 3, इत्यर्घ्यम्)",
+  "title": {
+    "hi": "सत्यनारायण अर्घ्य — व्यक्ताव्यक्तस्वरूपाय",
+    "en": "Satyanarayan arghya — vyaktavyakta-svarupaya",
+    "bho": "सत्यनारायण के अरघ — व्यक्ताव्यक्तस्वरूपाय"
+  },
+  "deity": "सत्यनारायण",
+  "devanagari": "व्यक्ताव्यक्तस्वरूपाय हृषीकपतये नमः ।\nमया निवेदितो भक्त्या अर्घ्योऽयं प्रतिगृह्यताम् ॥",
+  "svara": false,
+  "pada": [
+    { "sa": "व्यक्ताव्यक्तस्वरूपाय", "gloss": { "hi": "प्रकट और अप्रकट — दोनों रूप वाले को", "en": "to him whose nature is both manifest and unmanifest", "bho": "परगट आ अपरगट — दुनो रूप वाला के" } },
+    { "sa": "हृषीकपतये", "gloss": { "hi": "इंद्रियों के स्वामी (हृषीकेश) को", "en": "to the lord of the senses (Hrishikesha)", "bho": "इंद्री के मालिक (हृषीकेश) के" } },
+    { "sa": "नमः", "gloss": { "hi": "नमस्कार", "en": "salutation", "bho": "नमस्कार" } },
+    { "sa": "मया", "gloss": { "hi": "मेरे द्वारा", "en": "by me", "bho": "हमरा से" } },
+    { "sa": "निवेदितः", "gloss": { "hi": "अर्पित किया गया", "en": "offered", "bho": "चढ़ावल" } },
+    { "sa": "भक्त्या", "gloss": { "hi": "भक्ति से", "en": "with devotion", "bho": "भक्ति से" } },
+    { "sa": "अर्घ्यः", "gloss": { "hi": "अर्घ्य (सम्मान का जल)", "en": "the arghya (water of honour)", "bho": "अरघ (सम्मान के जल)" } },
+    { "sa": "अयं", "gloss": { "hi": "यह", "en": "this", "bho": "ई" } },
+    { "sa": "प्रतिगृह्यताम्", "gloss": { "hi": "स्वीकार किया जाए", "en": "may it be accepted", "bho": "स्वीकार कइल जाए" } }
+  ],
+  "meaning": {
+    "hi": "प्रकट और अप्रकट दोनों रूपों वाले, इंद्रियों के स्वामी (हृषीकेश) को नमस्कार। मैंने भक्ति से यह अर्घ्य अर्पित किया है — इसे स्वीकार किया जाए।",
+    "en": "Salutation to him whose nature is both manifest and unmanifest, the lord of the senses (Hrishikesha). This arghya I have offered with devotion — may it be accepted.",
+    "bho": "परगट आ अपरगट दुनो रूप वाला, इंद्री के मालिक (हृषीकेश) के नमस्कार। हम भक्ति से ई अरघ चढ़वले बानी — एकरा स्वीकार कइल जाए।"
+  },
+  "explanation": {
+    "hi": "[[arghya]] — सम्मान का जल, जिसमें अक्षत, चंदन, फूल और दूर्वा मिले होते हैं — आए हुए देवता का स्वागत है। हिंदी पट्टी की सत्यनारायण पोथी में [[dhyan]] के ठीक बाद यही श्लोक आता है, पाद्य से भी पहले; यह विष्णु के दार्शनिक नाम लेता है — व्यक्त-अव्यक्त स्वरूप, हृषीकेश (इंद्रियों के स्वामी)। पंडित श्लोक पढ़कर अर्घ्य-पात्र का जल मूर्ति के सामने थाली में छोड़ता है और कहता है \"अर्घ्यं समर्पयामि\"। सामान्य पूजा का अर्घ्य-मंत्र [षोडशोपचार](/occasions/shodashopachar/) पृष्ठ पर है; यह पाठ सत्यनारायण पूजा का अपना है।",
+    "en": "The arghya — water of honour, mixed with rice, sandal paste, flowers and durva grass — is the welcome offered to the deity who has arrived. In the Hindi-belt Satyanarayan pothi this verse comes right after the dhyana, even before the padya; it uses Vishnu's philosophical names — manifest-and-unmanifest in nature, Hrishikesha, lord of the senses. The pandit recites it and pours the arghya water into the plate before the image, saying \"arghyam samarpayami\". The general arghya mantra of a puja is on the [shodashopachara](/occasions/shodashopachar/) page; this reading belongs to the Satyanarayan puja itself.",
+    "bho": "[[arghya]] — सम्मान के जल, जेमें अच्छत, चंदन, फूल आ दूब मिलल रहेला — आइल देवता के स्वागत बा। हिंदी पट्टी के सत्यनारायण पोथी में [[dhyan]] के ठीक बाद इहे श्लोक आवेला, पाद्य से भी पहिले; ई विष्णु के दारसनिक नाँव लेला — व्यक्त-अव्यक्त स्वरूप, हृषीकेश (इंद्री के मालिक)। पंडित श्लोक पढ़ के अरघ-पात्र के जल मूरति के सामने थरिया में छोड़ेलन आ कहेलन \"अर्घ्यं समर्पयामि\"। आम पूजा के अरघ-मंत्र [षोडशोपचार](/occasions/shodashopachar/) पन्ना पर बा; ई पाठ सत्यनारायण पूजा के आपन बा।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-satyanarayan-jangamwadi",
+    "retrieved": "2026-11-01",
+    "locator": "puja-vidhi leaf 3 (OCR text): व्यक्ताव्यक्तस्वरूपायहृषीकपतयेनमः। मयानिवेदितोभक्त्याअर्घोयं प्रतिगृह्यतां ॥३॥ इत्यर्घ्यं",
+    "modified": "OCR of the PD scan read against the pothi's own Hindi tika on the same leaf (प्रकट और नहीं प्रकट रूपवाले इन्द्रियोंके स्वामी … मैंने भक्तिसे यह अर्घ्य दिया है): word spacing restored, अर्घोयं → अर्घ्योऽयं (avagraha, conjunct), प्रतिगृह्यतां → प्रतिगृह्यताम् at the verse end, dandas and verse number normalised"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "sd-satyanarayan-puja-vidhi",
+      "retrieved": "2026-11-01",
+      "note": "the sanskritdocuments puja text uses a different arghya verse (नमस्ते देवदेवेश नमस्ते धरणीधर) — the reading here is the Hindi-belt pothi's; no second digital copy of this verse was found"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional paddhati verse of unknown authorship printed in a public-domain Satyanarayan pothi (archive.org CC0 scan metadata)",
+  "tags": ["satyanarayan", "arghya", "paddhati", "puja"],
+  "review": { "hi": "draft", "bho": "draft" }
+}

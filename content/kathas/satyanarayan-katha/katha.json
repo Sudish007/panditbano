@@ -1,0 +1,73 @@
+{
+  "id": "satyanarayan-katha",
+  "title": {
+    "hi": "सत्यनारायण व्रत कथा",
+    "en": "Satyanarayan vrat katha",
+    "bho": "सत्यनारायण बरत कथा"
+  },
+  "lede": {
+    "hi": "पाँच अध्यायों की कथा अपने शब्दों में — नारद का प्रश्न, काशी का निर्धन ब्राह्मण और लकड़हारा, साधु वैश्य और कलावती, दंडी-रूप भगवान, राजा तुंगध्वज — हर अध्याय के साथ मूल संस्कृत श्लोक और पूजा-विधि की कड़ी।",
+    "en": "The five-adhyaya katha retold in our own words — Narada's question, the poor Brahmin of Kashi and the woodcutter, the merchant Sadhu and Kalavati, the Lord as a dandi ascetic, King Tungadhvaja — each adhyaya with its Sanskrit verses and a link to the puja procedure.",
+    "bho": "पाँच अध्याय के कथा आपन शब्द में — नारद के सवाल, काशी के गरीब ब्राह्मण आ लकड़हारा, साधु बनिया आ कलावती, दंडी-रूप भगवान, राजा तुंगध्वज — हर अध्याय संगे मूल संस्कृत श्लोक आ पूजा-विधि के कड़ी।"
+  },
+  "deity": "सत्यनारायण",
+  "textId": "satyanarayan-vrat-katha-sanskrit",
+  "puranicSource": {
+    "ref": "ws-skanda-reva-index",
+    "locator": "SkP Reva 233–237 (katha adhyaya 1–5)"
+  },
+  "caveat": {
+    "hi": "सत्यनारायण व्रत कथा — परंपरा इसे स्कंदपुराण के रेवाखंड की मानती है (अध्यायों के समापन-वाक्य यही कहते हैं; छपी पोथियों में रेवाखंड के पूरक के रूप में, डिजिटल पाठ में अध्याय 233–237)। विद्वान इसे बंगाल की पोथियों और [भविष्यपुराण](https://sa.wikisource.org/wiki/भविष्यपुराणम्) से जोड़ते हैं और बाद की रचना मानते हैं। पाँच अध्यायों का विभाजन छपी व्रत-कथा का है; सात अध्यायों वाला पाठ भी चलता है।",
+    "en": "Satyanarayan vrat katha — traditionally attributed to the Skanda Purana, Reva Khanda (so the colophons; a supplement to it, adhyayas 233–237 in the digital text). Scholars place it in the Bengali editions and the [Bhavishya Purana](https://sa.wikisource.org/wiki/भविष्यपुराणम्) and date it late. The five-adhyaya division follows the printed vrat katha; a seven-adhyaya recension also exists.",
+    "bho": "सत्यनारायण बरत कथा — परंपरा एकरा स्कंदपुराण के रेवाखंड के मानेला (अध्याय के अंत वाला वाक्य इहे कहेला; छपल पोथी में रेवाखंड के पूरक के रूप में, इहाँ लिहल डिजिटल पाठ में अध्याय 233–237)। विद्वान लोग एकरा बंगाल के पोथी आ [भविष्यपुराण](https://sa.wikisource.org/wiki/भविष्यपुराणम्) से जोड़ेला आ बाद के रचना मानेला। पाँच अध्याय के बाँट छपल बरत-कथा के बा; सात अध्याय वाला पाठ भी चलेला।"
+  },
+  "adhyayas": [
+    {
+      "n": 1,
+      "title": {
+        "hi": "पहला अध्याय — नारद का प्रश्न और व्रत का विधान",
+        "en": "Adhyaya 1 — Narada's question and the rule of the vrat",
+        "bho": "पहिला अध्याय — नारद के सवाल आ बरत के विधान"
+      },
+      "verseRefs": [
+        "satyanarayan-vrat-katha-sanskrit-1-2",
+        "satyanarayan-vrat-katha-sanskrit-1-6",
+        "satyanarayan-vrat-katha-sanskrit-1-12",
+        "satyanarayan-vrat-katha-sanskrit-1-14",
+        "satyanarayan-vrat-katha-sanskrit-1-15",
+        "satyanarayan-vrat-katha-sanskrit-1-19",
+        "satyanarayan-vrat-katha-sanskrit-1-20",
+        "satyanarayan-vrat-katha-sanskrit-1-21",
+        "satyanarayan-vrat-katha-sanskrit-1-22",
+        "satyanarayan-vrat-katha-sanskrit-1-23",
+        "satyanarayan-vrat-katha-sanskrit-1-24"
+      ]
+    },
+    {
+      "n": 2,
+      "title": {
+        "hi": "दूसरा अध्याय — काशी का निर्धन ब्राह्मण और लकड़हारा",
+        "en": "Adhyaya 2 — The poor Brahmin of Kashi and the woodcutter",
+        "bho": "दुसरा अध्याय — काशी के गरीब ब्राह्मण आ लकड़हारा"
+      },
+      "verseRefs": [
+        "satyanarayan-vrat-katha-sanskrit-2-1",
+        "satyanarayan-vrat-katha-sanskrit-2-3",
+        "satyanarayan-vrat-katha-sanskrit-2-5",
+        "satyanarayan-vrat-katha-sanskrit-2-8",
+        "satyanarayan-vrat-katha-sanskrit-2-10",
+        "satyanarayan-vrat-katha-sanskrit-2-12",
+        "satyanarayan-vrat-katha-sanskrit-2-15",
+        "satyanarayan-vrat-katha-sanskrit-2-19",
+        "satyanarayan-vrat-katha-sanskrit-2-20",
+        "satyanarayan-vrat-katha-sanskrit-2-23",
+        "satyanarayan-vrat-katha-sanskrit-2-26",
+        "satyanarayan-vrat-katha-sanskrit-2-27"
+      ]
+    }
+  ],
+  "vidhiOccasionId": "satyanarayan-puja",
+  "phase": 1,
+  "tags": ["satyanarayan", "vrat-katha", "skanda-purana", "reva-khanda", "purnima"],
+  "review": { "hi": "draft", "bho": "draft" }
+}

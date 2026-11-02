@@ -1,0 +1,55 @@
+{
+  "id": "pad-narayana-namaste-stu",
+  "kind": "paddhati",
+  "text": "satyanarayan-puja-paddhati",
+  "locator": "Satyanarayan puja vidhi — padya, verse 4 of the pothi's upachara verses (Jangamwadi pothi, puja-vidhi leaf 3, इति पाद्यम्)",
+  "title": {
+    "hi": "सत्यनारायण पाद्य — नारायण नमस्तेऽस्तु",
+    "en": "Satyanarayan padya — narayana namaste'stu",
+    "bho": "सत्यनारायण के पाद्य — नारायण नमस्तेऽस्तु"
+  },
+  "deity": "सत्यनारायण",
+  "devanagari": "नारायण नमस्तेऽस्तु नरकार्णवतारक ।\nपाद्यं गृहाण देवेश मम सौख्यं विवर्धय ॥",
+  "svara": false,
+  "pada": [
+    { "sa": "नारायण", "gloss": { "hi": "हे नारायण", "en": "O Narayana", "bho": "हे नारायण" } },
+    { "sa": "नमस्ते", "gloss": { "hi": "आपको नमस्कार", "en": "salutation to you", "bho": "रउआ के नमस्कार" } },
+    { "sa": "अस्तु", "gloss": { "hi": "हो", "en": "be it", "bho": "होखे" } },
+    { "sa": "नरकार्णवतारक", "gloss": { "hi": "हे नरक-सागर से पार उतारने वाले", "en": "O rescuer from the ocean of hell", "bho": "हे नरक-सागर से पार उतारे वाला" } },
+    { "sa": "पाद्यं", "gloss": { "hi": "पाँव धोने का जल", "en": "water for the feet", "bho": "गोड़ धोवे के जल" } },
+    { "sa": "गृहाण", "gloss": { "hi": "ग्रहण करें", "en": "accept", "bho": "ग्रहन करीं" } },
+    { "sa": "देवेश", "gloss": { "hi": "हे देवों के ईश", "en": "O lord of the gods", "bho": "हे देव के ईश" } },
+    { "sa": "मम", "gloss": { "hi": "मेरा", "en": "my", "bho": "हमार" } },
+    { "sa": "सौख्यं", "gloss": { "hi": "सुख", "en": "happiness", "bho": "सुख" } },
+    { "sa": "विवर्धय", "gloss": { "hi": "बढ़ाइए", "en": "increase", "bho": "बढ़ाईं" } }
+  ],
+  "meaning": {
+    "hi": "हे नारायण, आपको नमस्कार हो; हे नरक के सागर से पार उतारने वाले! हे देवों के ईश, पाँव धोने का यह जल ग्रहण करें और मेरा सुख बढ़ाएँ।",
+    "en": "O Narayana, salutation to you, rescuer from the ocean of hell! Lord of the gods, accept this water for your feet and increase my happiness.",
+    "bho": "हे नारायण, रउआ के नमस्कार होखे; हे नरक के सागर से पार उतारे वाला! हे देव के ईश, गोड़ धोवे के ई जल ग्रहन करीं आ हमार सुख बढ़ाईं।"
+  },
+  "explanation": {
+    "hi": "[[padya]] — अतिथि के पाँव धोने का जल — [[shodashopachar]] का दूसरा उपचार है। सत्यनारायण पोथी में इसके लिए यह विष्णु-विशेष श्लोक है, जो भगवान को \"नरक-सागर से पार उतारने वाले\" कहकर पुकारता है; पंडित श्लोक पढ़कर आचमनी से जल मूर्ति के चरणों की ओर या थाली में छोड़ता है और कहता है \"पाद्यं समर्पयामि\"। सामान्य पूजा का पाद्य-मंत्र [षोडशोपचार](/occasions/shodashopachar/) पृष्ठ पर है; यह पाठ सत्यनारायण पूजा का अपना है। \"मम सौख्यं विवर्धय\" — \"मेरा सुख बढ़ाइए\" — भक्त की प्रार्थना है, साइट का दावा नहीं।",
+    "en": "The padya — water to wash a guest's feet — is the second upachara of the shodashopachara. The Satyanarayan pothi gives this Vishnu-specific verse for it, addressing the Lord as \"rescuer from the ocean of hell\"; the pandit recites it and pours water from the spoon towards the image's feet or into the plate, saying \"padyam samarpayami\". The general padya mantra of a puja is on the [shodashopachara](/occasions/shodashopachar/) page; this reading belongs to the Satyanarayan puja itself. \"Mama saukhyam vivardhaya\" — \"increase my happiness\" — is the devotee's prayer, not a claim made by the site.",
+    "bho": "[[padya]] — पाहुन के गोड़ धोवे के जल — [[shodashopachar]] के दुसरा उपचार बा। सत्यनारायण पोथी में एकरा खातिर ई विष्णु-खास श्लोक बा, जे भगवान के \"नरक-सागर से पार उतारे वाला\" कह के पुकारेला; पंडित श्लोक पढ़ के आचमनी से जल मूरति के गोड़ के ओरी भा थरिया में छोड़ेलन आ कहेलन \"पाद्यं समर्पयामि\"। आम पूजा के पाद्य-मंत्र [षोडशोपचार](/occasions/shodashopachar/) पन्ना पर बा; ई पाठ सत्यनारायण पूजा के आपन बा। \"मम सौख्यं विवर्धय\" — \"हमार सुख बढ़ाईं\" — भक्त के प्रार्थना बा, साइट के दावा ना।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "ia-satyanarayan-jangamwadi",
+    "retrieved": "2026-11-01",
+    "locator": "puja-vidhi leaf 3 (OCR text): नारायणनमस्तेस्तुनरकार्णवतारक ॥ पाद्यंगृहाणदेवेश ममसौख्यंविवर्धय ॥४॥ इतिपाद्यं",
+    "modified": "OCR of the PD scan read against the pothi's own Hindi tika on the same leaf (हे नारायण ! आपको नमस्कार है, हे नरकरूपी समुद्रसे तारनेवाले, मैंने दिया जो पाद्य …): word spacing restored, नमस्तेस्तु → नमस्तेऽस्तु (avagraha), dandas and verse number normalised"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "sd-satyanarayan-puja-vidhi",
+      "retrieved": "2026-11-01",
+      "note": "the sanskritdocuments puja text uses a different padya verse (पाद्यं गृहाण देवेश सर्वक्षेमसमर्थ भोः) — the reading here is the Hindi-belt pothi's; no second digital copy of this verse was found"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional paddhati verse of unknown authorship printed in a public-domain Satyanarayan pothi (archive.org CC0 scan metadata)",
+  "tags": ["satyanarayan", "padya", "paddhati", "puja"],
+  "review": { "hi": "draft", "bho": "draft" }
+}

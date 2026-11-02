@@ -1,0 +1,60 @@
+{
+  "id": "pad-dhyayet-satyam-gunatitam",
+  "kind": "paddhati",
+  "text": "satyanarayan-puja-paddhati",
+  "locator": "Satyanarayan puja vidhi — dhyana, verses 1–2 (Jangamwadi pothi, puja-vidhi leaf 2–3; sanskritdocuments puja text, अथ ध्यानम्)",
+  "title": {
+    "hi": "सत्यनारायण ध्यान — ध्यायेत् सत्यं गुणातीतं",
+    "en": "Satyanarayan dhyana — dhyayet satyam gunatitam",
+    "bho": "सत्यनारायण के ध्यान — ध्यायेत् सत्यं गुणातीतं"
+  },
+  "deity": "सत्यनारायण",
+  "devanagari": "ध्यायेत् सत्यं गुणातीतं गुणत्रयसमन्वितम् ।\nलोकनाथं त्रिलोकेशं कौस्तुभाभरणं हरिम् ॥\nनीलवर्णं पीतवासं श्रीवत्सपदभूषितम् ।\nगोविन्दं गोकुलानन्दं ब्रह्माद्यैरपि पूजितम् ॥",
+  "svara": false,
+  "pada": [
+    { "sa": "ध्यायेत्", "gloss": { "hi": "ध्यान करे", "en": "one should meditate on", "bho": "ध्यान करे" } },
+    { "sa": "सत्यं", "gloss": { "hi": "सत्य(स्वरूप) को", "en": "the True One (Satya)", "bho": "सत्य(रूप) के" } },
+    { "sa": "गुणातीतं", "gloss": { "hi": "गुणों से परे", "en": "beyond the gunas", "bho": "गुन से परे" } },
+    { "sa": "गुणत्रयसमन्वितम्", "gloss": { "hi": "(फिर भी) तीनों गुणों से युक्त", "en": "(yet) joined with the three gunas", "bho": "(तबो) तीनो गुन से जुड़ल" } },
+    { "sa": "लोकनाथं", "gloss": { "hi": "लोकों के स्वामी", "en": "lord of the worlds", "bho": "लोक के मालिक" } },
+    { "sa": "त्रिलोकेशं", "gloss": { "hi": "तीनों लोकों के ईश", "en": "ruler of the three worlds", "bho": "तीनो लोक के ईश" } },
+    { "sa": "कौस्तुभाभरणं", "gloss": { "hi": "कौस्तुभ मणि को आभूषण रूप में धारण करने वाले", "en": "wearing the Kaustubha gem as his ornament", "bho": "कौस्तुभ मनि के गहना जइसन पहिरले" } },
+    { "sa": "हरिम्", "gloss": { "hi": "हरि को", "en": "Hari", "bho": "हरि के" } },
+    { "sa": "नीलवर्णं", "gloss": { "hi": "नील वर्ण वाले", "en": "dark-blue in colour", "bho": "नील रंग वाला" } },
+    { "sa": "पीतवासं", "gloss": { "hi": "पीले वस्त्र वाले", "en": "clad in yellow", "bho": "पियर कपड़ा वाला" } },
+    { "sa": "श्रीवत्सपदभूषितम्", "gloss": { "hi": "श्रीवत्स चिह्न से सुशोभित", "en": "adorned with the Shrivatsa mark", "bho": "श्रीवत्स चिन्ह से सजल" } },
+    { "sa": "गोविन्दं", "gloss": { "hi": "गोविंद को", "en": "Govinda", "bho": "गोविंद के" } },
+    { "sa": "गोकुलानन्दं", "gloss": { "hi": "गोकुल के आनंद(दाता)", "en": "the joy of Gokula", "bho": "गोकुल के आनंद" } },
+    { "sa": "ब्रह्माद्यैरपि", "gloss": { "hi": "ब्रह्मा आदि (देवों) से भी", "en": "by Brahma and the other gods too", "bho": "ब्रह्मा आदि (देव) से भी" } },
+    { "sa": "पूजितम्", "gloss": { "hi": "पूजित", "en": "worshipped", "bho": "पूजल" } }
+  ],
+  "meaning": {
+    "hi": "उन सत्य(स्वरूप) का ध्यान करे जो गुणों से परे हैं और फिर भी तीनों गुणों से युक्त हैं; जो लोकों के स्वामी, तीनों लोकों के ईश, कौस्तुभ मणि से सुशोभित हरि हैं। जो नील वर्ण के हैं, पीले वस्त्र धारण करते हैं, श्रीवत्स चिह्न से शोभित हैं; जो गोविंद हैं, गोकुल के आनंद हैं और ब्रह्मा आदि देवों से भी पूजित हैं।",
+    "en": "One should meditate on the True One, who is beyond the gunas and yet joined with the three gunas; the lord of the worlds, ruler of the three worlds, Hari adorned with the Kaustubha gem. Dark-blue in colour, clad in yellow, bearing the Shrivatsa mark; Govinda, the joy of Gokula, worshipped even by Brahma and the other gods.",
+    "bho": "ओह सत्य(रूप) के ध्यान करे जे गुन से परे बाड़न आ तबो तीनो गुन से जुड़ल बाड़न; जे लोक के मालिक, तीनो लोक के ईश आ कौस्तुभ मनि से सजल हरि बाड़न। जे नील रंग के बाड़न, पियर कपड़ा पहिरेलन, श्रीवत्स चिन्ह से सजल बाड़न; जे गोविंद बाड़न, गोकुल के आनंद बाड़न आ ब्रह्मा आदि देव से भी पूजल जालन।"
+  },
+  "explanation": {
+    "hi": "यह [[satyanarayan]] पूजा का [[dhyan]]-श्लोक है — पूजन का पहला अंग, जिसमें हाथ में फूल लेकर देवता के रूप को मन में बसाया जाता है। पहला श्लोक दर्शन की भाषा में बोलता है: सत्य वह है जो गुणों से परे होकर भी सृष्टि के तीनों गुणों में व्याप्त है; दूसरा श्लोक उसी को विष्णु-कृष्ण के परिचित रूप में दिखाता है — नीला वर्ण, पीतांबर, श्रीवत्स, गोविंद। इसी से सत्यनारायण को [[vishnu]] का ही रूप माना जाता है। यह वैदिक मंत्र नहीं, [[pothi]]-परंपरा का श्लोक है — हिंदी पट्टी की छपी सत्यनारायण पोथी और महाराष्ट्र की पूजा-विधि दोनों में यही पाठ मिलता है। पंडित इसे धीरे, दोनों श्लोक मिलाकर पढ़ता है; यजमान हाथ जोड़े आँखें मूँदकर रूप का ध्यान करता है और श्लोक पूरा होने पर फूल चढ़ाता है।",
+    "en": "This is the dhyana verse of the Satyanarayan puja — the first act of the worship proper, in which the deity's form is held in the mind while a flower is held in the hand. The first verse speaks the language of philosophy: Satya, the True One, stands beyond the gunas and yet pervades the three gunas of creation; the second verse shows the same Lord in the familiar form of Vishnu-Krishna — blue-dark, yellow-clad, bearing the Shrivatsa, Govinda. This is why Satyanarayan is understood as a form of Vishnu himself. It is not a Vedic mantra but a verse of the handbook (pothi) tradition; the printed Hindi-belt Satyanarayan pothi and the Maharashtrian puja text carry the same reading. The pandit recites both verses slowly as one unit; the host sits with folded hands and closed eyes picturing the form, and offers the flower when the verse ends.",
+    "bho": "ई [[satyanarayan]] पूजा के [[dhyan]]-श्लोक बा — पूजन के पहिला अंग, जेमें हाथ में फूल लेके देवता के रूप मन में बसावल जाला। पहिला श्लोक दरसन के भाषा में बोलेला: सत्य ऊ बाड़न जे गुन से परे रहियो के सृष्टि के तीनो गुन में व्यापल बाड़न; दुसरा श्लोक ओही के विष्णु-कृष्ण के चिन्हार रूप में देखावेला — नील रंग, पियर कपड़ा, श्रीवत्स, गोविंद। एही से सत्यनारायण के [[vishnu]] के ही रूप मानल जाला। ई वैदिक मंत्र ना, [[pothi]]-परंपरा के श्लोक बा — हिंदी पट्टी के छपल सत्यनारायण पोथी आ महाराष्ट्र के पूजा-विधि दुनो में इहे पाठ मिलेला। पंडित एकरा धीरे, दुनो श्लोक मिला के पढ़ेलन; जजमान हाथ जोड़ के आँख मूँद के रूप के ध्यान करेला आ श्लोक पूरा भइला पर फूल चढ़ावेला।"
+  },
+  "phalashruti": false,
+  "source": {
+    "ref": "sd-satyanarayan-puja-vidhi",
+    "retrieved": "2026-11-01",
+    "locator": "अथ ध्यानम् — the two verses before इति सत्यनारायणम् ध्यायामि",
+    "modified": "digital text writes word-final nasals as म् and splits compounds (गुणत्रय समन्वितम्); normalised to the printed pothi form — anusvara before a following word, compounds joined; ASCII . and || replaced by । and ॥"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "ia-satyanarayan-jangamwadi",
+      "retrieved": "2026-11-01",
+      "note": "PD pothi scan (600 ppi, Tesseract OCR lang-san): same two verses open the सत्यनारायणपूजनप्रकार after पुष्पं गृहीत्वा ध्यानं कुर्वीत्; the pothi's Hindi tika (सत्यस्वरूप, गुणोंसे परे, कौस्तुभमणि, नीलवर्ण, पीतवस्त्र, श्रीवत्स) confirms every word; page images not inspected"
+    }
+  ],
+  "copyright": "pd",
+  "reproduce": true,
+  "copyrightBasis": "traditional paddhati verse of unknown authorship printed in public-domain Satyanarayan pothis; digital text from sanskritdocuments.org",
+  "tags": ["satyanarayan", "dhyan", "paddhati", "puja"],
+  "review": { "hi": "draft", "bho": "draft" }
+}

@@ -1,0 +1,566 @@
+{
+  "id": "satyanarayan-puja",
+  "code": "K01",
+  "group": "kathas",
+  "phase": 1,
+  "title": {
+    "hi": "सत्यनारायण पूजा विधि",
+    "en": "Satyanarayan puja (vidhi)",
+    "bho": "सत्यनारायण पूजा के विधि"
+  },
+  "lede": {
+    "hi": "पूर्णिमा या किसी भी शुभ दिन संध्या को घर में होने वाली सत्यनारायण व्रत-कथा की पूरी पूजा-विधि — तैयारी, संकल्प, गणेश-कलश-नवग्रह पूजन, सत्यनारायण का षोडशोपचार, सवा मात्रा का नैवेद्य, पाँच अध्यायों की कथा, आरती और प्रसाद।",
+    "en": "The complete home procedure of the Satyanarayan vrat katha, held at dusk on a purnima or any auspicious day — preparation, sankalpa, the Ganesh, kalash and navagraha pujas, the sixteen-step worship of Satyanarayan, the sapada offering, the five-adhyaya katha, aarti and prasad.",
+    "bho": "पुर्नवासी भा कवनो नीक दिन साँझ के घर में होखे वाला सत्यनारायण बरत-कथा के पूरा पूजा-विधि — तइयारी, संकल्प, गणेश-कलश-नवग्रह पूजन, सत्यनारायण के षोडशोपचार, सवा माप के नैवेद्य, पाँच अध्याय के कथा, आरती आ परसाद।"
+  },
+  "overview": {
+    "hi": "सत्यनारायण [[katha]] हिंदी पट्टी का सबसे अधिक होने वाला घरेलू अनुष्ठान है — पूर्णिमा पर, विवाह के पहले, गृह-प्रवेश पर, या किसी मनोकामना के पूरे होने पर। इसका ढाँचा स्वयं कथा के पहले अध्याय (श्लोक 18–23) में है: संध्या का समय, [[brahman]] और बंधु-बांधव, केला-घी-दूध-गेहूँ के आटे-शक्कर का सवा मात्रा का [[naivedya]], कथा-श्रवण, [[dakshina]], भोजन, [[prasad]]। [[pothi]]-परंपरा ने इस ढाँचे के आगे सामान्य पूजा का क्रम जोड़ा — आचमन, [[sankalp]], [[ganesh]]-गौरी पूजन, [[kalash]] में वरुण, [[navagraha]] और पंच-लोकपाल — और सत्यनारायण के लिए [[dhyan]] से [[visarjan]] तक का [[shodashopachar]]। यह पृष्ठ उसी मुख्यधारा क्रम को देता है, हर चरण पर पंडित की बोली और उसके मंत्र के साथ; जहाँ मंत्र दूसरे पृष्ठ पर पहले से है, वहाँ कड़ी दी गई है। [[panjiri]] हिंदी पट्टी में सवा मात्रा के उसी मिश्रण का नाम है जिसे कथा बताती है; [[panchamrit]] सामान्य षोडशोपचार के स्नान का अंग है, कथा उसका नाम नहीं लेती। पूजा में लगभग 45 मिनट और पाँच अध्यायों की कथा में 45–60 मिनट लगते हैं। कथा स्वयं कहती है कि व्रत किसी भी दिन हो सकता है और इसे काशी के निर्धन ब्राह्मण और एक लकड़हारे ने भी किया — इसके लिए न धन चाहिए, न बड़ा आयोजन।",
+    "en": "The Satyanarayan katha is the most frequently held household rite of the Hindi belt — on a purnima, before a wedding, at a griha pravesh, or when a wish has been fulfilled. Its frame stands inside the first adhyaya of the katha itself (verses 18–23): dusk, Brahmins and kinsfolk, a sapada (one-and-a-quarter) measure of banana, ghee, milk, wheat flour and sugar as the offering, hearing the katha, dakshina, a meal, prasad. The handbook (pothi) tradition set the ordinary puja sequence in front of that frame — achamana, sankalpa, the Ganesh-Gauri puja, Varuna in the kalash, the navagraha and the five lokapalas — and gave Satyanarayan a sixteen-step worship from the dhyana to the visarjana. This page follows that mainstream order, with the pandit's spoken line and the mantra at each step; where a mantra already lives on another page, it is linked. Panjiri is the Hindi-belt name of the sapada mixture the katha prescribes; panchamrit belongs to the bath of the general shodashopachara, the katha does not name it. The puja takes about 45 minutes and the five adhyayas another 45–60. The katha itself says the vrat may be kept on any day, and that a destitute Brahmin of Kashi and a woodcutter kept it — it needs neither wealth nor a large gathering.",
+    "bho": "सत्यनारायण [[katha]] हिंदी पट्टी के सबसे बेसी होखे वाला घरेलू अनुष्ठान बा — पुर्नवासी पर, बियाह से पहिले, गृह-प्रवेश पर, भा कवनो मनोकामना पूरा भइला पर। एकर ढाँचा खुदे कथा के पहिला अध्याय (श्लोक 18–23) में बा: साँझ के बेरा, [[brahman]] आ हित-नाता, केरा-घीव-दूध-गोहूँ के आटा-चीनी के सवा माप के [[naivedya]], कथा-श्रवन, [[dakshina]], भोजन, [[prasad]]। [[pothi]]-परंपरा एह ढाँचा के आगे आम पूजा के क्रम जोड़लस — आचमन, [[sankalp]], [[ganesh]]-गौरी पूजन, [[kalash]] में वरुण, [[navagraha]] आ पंच-लोकपाल — आ सत्यनारायण खातिर [[dhyan]] से [[visarjan]] तक के [[shodashopachar]]। ई पन्ना ओही मुख्यधारा क्रम के देत बा, हर चरन पर पंडित के बोली आ ओकर मंत्र संगे; जहाँ मंत्र दुसरा पन्ना पर पहिले से बा, उहाँ कड़ी दिहल बा। [[panjiri]] हिंदी पट्टी में सवा माप के ओही मिलावट के नाँव बा जेकरा कथा बतावेले; [[panchamrit]] आम षोडशोपचार के नहान के अंग बा, कथा ओकर नाँव ना लेले। पूजा में लगभग 45 मिनट आ पाँच अध्याय के कथा में 45–60 मिनट लागेला। कथा खुदे कहेले कि बरत कवनो दिन हो सकेला आ एकरा काशी के गरीब ब्राह्मण आ एगो लकड़हारा भी कइल — एकरा खातिर ना धन चाहीं, ना बड़ आयोजन।"
+  },
+  "when": {
+    "rules": {
+      "hi": "कथा का अपना नियम: किसी भी दिन, संध्या के समय (श्लोक 1.18–19)। परंपरा में [[purnima]] सबसे प्रिय तिथि है; [[ekadashi]], [[sankranti]] और गुरुवार भी चलते हैं, और विवाह, गृह-प्रवेश या मनोकामना-पूर्ति के बाद किसी भी शुभ दिन। [[muhurat]] अलग से नहीं देखा जाता — सूर्यास्त के आसपास पूजा आरंभ हो, यही पर्याप्त है। पूर्णिमा की तिथि और व्रत-विवरण के लिए [शुभवेला](https://sudish007.github.io/shubhvela/hi/vrat/satyanarayan/) का सत्यनारायण व्रत पृष्ठ और [पूर्णिमा व्रत](https://sudish007.github.io/shubhvela/hi/vrat/purnima/) देखें।",
+      "en": "The katha's own rule: on any day, at dusk (verses 1.18–19). Tradition favours the purnima; the ekadashi, a sankranti and Thursdays are also used, and any auspicious day after a wedding, a griha pravesh or the fulfilment of a wish. No separate muhurat is consulted — beginning the puja around sunset is enough. For the date of the purnima and the vrat details see the Satyanarayan vrat page on [Shubhvela](https://sudish007.github.io/shubhvela/en/vrat/satyanarayan/) and its [purnima vrat](https://sudish007.github.io/shubhvela/en/vrat/purnima/) page.",
+      "bho": "कथा के आपन नियम: कवनो दिन, साँझ के बेरा (श्लोक 1.18–19)। परंपरा में [[purnima]] सबसे प्रिय तिथि बा; [[ekadashi]], [[sankranti]] आ बियफे भी चलेला, आ बियाह, गृह-प्रवेश भा मनोकामना पूरा भइला के बाद कवनो नीक दिन। [[muhurat]] अलगा से ना देखल जाला — सुरुज डूबे के आसपास पूजा सुरू होखे, इहे काफी बा। पुर्नवासी के तिथि आ बरत-बिवरन खातिर [शुभवेला](https://sudish007.github.io/shubhvela/bho/vrat/satyanarayan/) के सत्यनारायण बरत पन्ना आ [पुर्नवासी बरत](https://sudish007.github.io/shubhvela/bho/vrat/purnima/) देखीं।"
+    },
+    "shubhvela": {
+      "muhurat": null,
+      "festival": null,
+      "vrat": "satyanarayan"
+    }
+  },
+  "roles": [
+    {
+      "role": { "hi": "यजमान दंपति", "en": "The host couple", "bho": "जजमान जोड़ी" },
+      "does": {
+        "hi": "दिन में उपवास या फलाहार (वैकल्पिक), संध्या को स्नान कर पूर्व मुख बैठना; आचमन, संकल्प, हर उपचार में सामग्री अर्पित करना, कथा सुनना, आरती, दक्षिणा देना और प्रसाद बाँटना। पत्नी दाहिनी ओर बैठती है और संकल्प में साथ होती है।",
+        "en": "A fast or fruit diet during the day (optional); bathing at dusk and sitting facing east; the achamana, the sankalpa, offering the materials at each upachara, hearing the katha, the aarti, giving dakshina and distributing the prasad. The wife sits on the right and joins in the sankalpa.",
+        "bho": "दिन में उपवास भा फलाहार (मरजी से), साँझ के नहा के पूरब मुँह बइठल; आचमन, संकल्प, हर उपचार में सामग्री चढ़ावल, कथा सुनल, आरती, दक्षिणा दिहल आ परसाद बाँटल। घरवाली दाहिना ओरी बइठेली आ संकल्प में संगे रहेली।"
+      }
+    },
+    {
+      "role": { "hi": "पुरोहित / कथावाचक", "en": "The purohit / katha reader", "bho": "पुरोहित / कथा कहे वाला" },
+      "does": {
+        "hi": "विधि चलाना, मंत्र पढ़ना, यजमान को हर क्रिया बताना, पाँच अध्यायों की कथा सुनाना (संस्कृत श्लोक या हिंदी-भोजपुरी में), आरती कराना। घर में पंडित न हो तो घर का कोई सदस्य कथा पढ़ सकता है — कथा का दूसरा अध्याय स्वयं कहता है कि लकड़हारे ने अपना व्रत स्वयं किया।",
+        "en": "Conducts the procedure, recites the mantras, tells the host what to do at each act, narrates the five adhyayas (Sanskrit verses or in Hindi/Bhojpuri), leads the aarti. Where no pandit is available a family member may read the katha — its second adhyaya itself tells how the woodcutter performed his own vrat.",
+        "bho": "विधि चलावल, मंत्र पढ़ल, जजमान के हर काम बतावल, पाँच अध्याय के कथा सुनावल (संस्कृत श्लोक भा हिंदी-भोजपुरी में), आरती करावल। घर में पंडित ना होखसु त घर के कवनो सदस्य कथा पढ़ सकेला — कथा के दुसरा अध्याय खुदे कहेला कि लकड़हारा आपन बरत खुदे कइल।"
+      }
+    },
+    {
+      "role": { "hi": "परिवार, बंधु-बांधव और पड़ोसी", "en": "Family, kin and neighbours", "bho": "परिवार, हित-नाता आ पड़ोसी" },
+      "does": {
+        "hi": "कथा के समय बैठकर सुनना — कथा का नियम \"जनैः सह\" (लोगों के साथ) है; हर अध्याय के अंत में \"सत्यनारायण भगवान की जय\" बोलना; आरती में सम्मिलित होना; प्रसाद लेना — परंपरा में कोई प्रसाद लिए बिना नहीं जाता।",
+        "en": "Sitting and listening during the katha — its rule is \"janaih saha\", with the people; saying \"Satyanarayan Bhagavan ki jai\" at the end of every adhyaya; joining the aarti; taking prasad — by custom nobody leaves without it.",
+        "bho": "कथा के बेरा बइठ के सुनल — कथा के नियम \"जनैः सह\" (लोग संगे) बा; हर अध्याय के अंत में \"सत्यनारायण भगवान के जय\" बोलल; आरती में शामिल होखल; परसाद लेवल — परंपरा में केहू परसाद लिहले बिना ना जाला।"
+      }
+    },
+    {
+      "role": { "hi": "ब्राह्मण (भोजन के लिए)", "en": "Brahmins (for the meal)", "bho": "ब्राह्मण (भोजन खातिर)" },
+      "does": {
+        "hi": "कथा का नियम कथा-श्रवण के बाद ब्राह्मण-भोजन कहता है (श्लोक 1.22); आज प्रायः पुरोहित और एक-दो ब्राह्मणों को भोजन या सीधा दिया जाता है।",
+        "en": "The katha's rule has the Brahmins fed after the katha (verse 1.22); today the purohit and one or two Brahmins are usually given a meal or uncooked provisions (sidha).",
+        "bho": "कथा के नियम कथा-श्रवन के बाद ब्राह्मण-भोजन कहेला (श्लोक 1.22); आजु बेसी के पुरोहित आ एक-दू ब्राह्मण के भोजन भा सीधा दिहल जाला।"
+      }
+    }
+  ],
+  "samagri": [
+    { "id": "murti", "item": { "hi": "सत्यनारायण (विष्णु) की मूर्ति, ठाकुर जी / शालिग्राम या चित्र", "en": "An image of Satyanarayan (Vishnu) — a murti, the household shaligram or a picture", "bho": "सत्यनारायण (विष्णु) के मूरति, ठाकुर जी / शालिग्राम भा चित्र" }, "qty": "1", "must": true, "note": { "hi": "घर का ठाकुर जी पर्याप्त है; नया चित्र ज़रूरी नहीं।", "en": "The household Thakur ji suffices; a new picture is not required.", "bho": "घर के ठाकुर जी काफी बाड़न; नयका चित्र जरूरी ना।" } },
+    { "id": "chauki", "item": { "hi": "चौकी और उस पर बिछाने के लिए नया पीला या लाल वस्त्र", "en": "A chauki (low stool) with a new yellow or red cloth to spread on it", "bho": "चौकी आ ओकरा पर बिछावे खातिर नयका पियर भा लाल कपड़ा" }, "qty": "1 + 1", "must": true },
+    { "id": "kalash", "item": { "hi": "कलश (तांबे/पीतल का), उसमें जल, सुपारी, सिक्का, आम के पत्ते और ऊपर नारियल (मौली बँधा)", "en": "A kalash (copper/brass) with water, a betel nut and a coin inside, mango leaves and a coconut tied with mauli on top", "bho": "कलश (तामा/पीतल के), ओमें जल, सुपारी, सिक्का, आम के पत्ता आ ऊपर नरियर (मौली बान्हल)" }, "qty": "1", "must": true },
+    { "id": "kele-ke-patte", "item": { "hi": "केले के पत्ते या चार केले के पौधे/खंभे — चौकी के चारों कोनों पर मंडप की तरह", "en": "Banana leaves or four banana stems — set at the four corners of the chauki like a canopy", "bho": "केरा के पत्ता भा चार गो केरा के थम — चौकी के चारो कोना पर मंडप जइसन" }, "qty": "4", "must": false, "note": { "hi": "लोकाचार; पोथी में नहीं, पर हिंदी पट्टी में लगभग हर घर में।", "en": "Local custom — not in the pothi, but seen in almost every Hindi-belt home.", "bho": "लोकाचार; पोथी में ना, बाकिर हिंदी पट्टी में लगभग हर घर में।" } },
+    { "id": "gehu-atta", "item": { "hi": "गेहूँ का आटा — पंजीरी के लिए (भूना हुआ)", "en": "Wheat flour — for the panjiri (roasted)", "bho": "गोहूँ के आटा — पंजीरी खातिर (भुंजल)" }, "qty": "सवा पाव – सवा किलो", "must": true, "note": { "hi": "कथा (1.20–21): गेहूँ न हो तो चावल का आटा। \"सवा\" मात्रा घर की सामर्थ्य के अनुसार — सवा पाव भी, सवा किलो भी।", "en": "Katha 1.20–21: rice flour if there is no wheat. The sapada measure scales with the household — sava pao or sava kilo alike.", "bho": "कथा (1.20–21): गोहूँ ना होखे त चाउर के आटा। \"सवा\" माप घर के औकात के मोताबिक — सवा पाव भी, सवा किलो भी।" } },
+    { "id": "shakkar-gud", "item": { "hi": "शक्कर (या बूरा) और/या गुड़ — पंजीरी में", "en": "Sugar (or bura) and/or jaggery — for the panjiri", "bho": "चीनी (भा बूरा) आ/भा गुड़ — पंजीरी में" }, "qty": "आटे के बराबर या आधा", "must": true },
+    { "id": "ghee", "item": { "hi": "घी — पंजीरी भूनने, पंचामृत और दीपक के लिए", "en": "Ghee — for roasting the panjiri, for the panchamrit and for the lamp", "bho": "घी — पंजीरी भुंजे, पंचामृत आ दीया खातिर" }, "qty": "सवा पाव", "must": true },
+    { "id": "kela", "item": { "hi": "पके केले — नैवेद्य और पंजीरी में", "en": "Ripe bananas — for the naivedya and in the panjiri", "bho": "पाकल केरा — नैवेद्य आ पंजीरी में" }, "qty": "5–11", "must": true },
+    { "id": "doodh-dahi", "item": { "hi": "दूध, दही और मधु (शहद) — पंचामृत और नैवेद्य के लिए", "en": "Milk, curd and honey — for the panchamrit and the naivedya", "bho": "दूध, दही आ मधु — पंचामृत आ नैवेद्य खातिर" }, "qty": "थोड़ा-थोड़ा", "must": true, "note": { "hi": "पंचामृत = दूध, दही, घी, मधु, शक्कर; तुलसी दल डालें।", "en": "Panchamrit = milk, curd, ghee, honey, sugar; add tulsi leaves.", "bho": "पंचामृत = दूध, दही, घीव, मधु, चीनी; तुलसी पत्ता डालीं।" } },
+    { "id": "tulsi-dal", "item": { "hi": "तुलसी दल — नैवेद्य, पंचामृत और चरणामृत में", "en": "Tulsi leaves — for the naivedya, the panchamrit and the charanamrit", "bho": "तुलसी पत्ता — नैवेद्य, पंचामृत आ चरणामृत में" }, "qty": "11 या अधिक", "must": true },
+    { "id": "phal", "item": { "hi": "ऋतु के फल और नारियल (फल-अर्पण के लिए)", "en": "Seasonal fruit and a coconut (for the fruit offering)", "bho": "मौसम के फल आ नरियर (फल चढ़ावे खातिर)" }, "qty": "5 प्रकार", "must": false },
+    { "id": "pushp-mala", "item": { "hi": "पुष्प (कमल, गेंदा, गुलाब — पीले फूल प्रिय) और एक माला", "en": "Flowers (lotus, marigold, rose — yellow flowers are favoured) and one garland", "bho": "फूल (कमल, गेंदा, गुलाब — पियर फूल प्रिय) आ एगो माला" }, "qty": "एक टोकरी + 1", "must": true },
+    { "id": "roli-haldi-akshat", "item": { "hi": "रोली, हल्दी, अक्षत (बिना टूटे चावल), सिंदूर और चंदन", "en": "Roli, turmeric, akshat (unbroken rice), sindoor and sandal paste", "bho": "रोरी, हरदी, अच्छत (बिना टूटल चाउर), सिंदूर आ चंदन" }, "qty": "थोड़ा-थोड़ा", "must": true },
+    { "id": "mauli", "item": { "hi": "मौली / कलावा (रक्षासूत्र) — कलश, नारियल और कलाई के लिए", "en": "Mauli / kalava (the raksha-sutra) — for the kalash, the coconut and the wrists", "bho": "मौली / कलावा (रक्षासूत्र) — कलश, नरियर आ कलाई खातिर" }, "qty": "1 लच्छी", "must": true },
+    { "id": "vastra-janeu", "item": { "hi": "देवता के लिए वस्त्र (पीला कपड़ा या रूई का वस्त्र) और जनेऊ", "en": "A cloth for the deity (yellow cloth or cotton) and a sacred-thread cord", "bho": "देवता खातिर वस्त्र (पियर कपड़ा भा रूई के वस्त्र) आ जनेऊ" }, "qty": "1 + 1", "must": false },
+    { "id": "dhoop-deep", "item": { "hi": "धूप / अगरबत्ती, घी का दीप (चार बत्तियों वाला आरती-दीप भी) और कपूर", "en": "Incense / agarbatti, a ghee lamp (and a four-wick aarti lamp) and camphor", "bho": "धूप / अगरबत्ती, घीव के दीया (चार बत्ती वाला आरती-दीप भी) आ कपूर" }, "qty": "1 + 1 + थोड़ा", "must": true },
+    { "id": "paan-supari", "item": { "hi": "पान के पत्ते, सुपारी, लौंग, इलायची — तांबूल के लिए", "en": "Betel leaves, betel nuts, cloves, cardamom — for the tambul", "bho": "पान के पत्ता, सुपारी, लौंग, इलाइची — तांबूल खातिर" }, "qty": "5 + 5", "must": true },
+    { "id": "dakshina-dravya", "item": { "hi": "दक्षिणा के सिक्के/नोट — संकल्प, हर उपचार के साथ और अंत में पुरोहित के लिए", "en": "Coins/notes for dakshina — for the sankalpa, with the upacharas and at the end for the purohit", "bho": "दक्षिणा के सिक्का/नोट — संकल्प, हर उपचार संगे आ अंत में पुरोहित खातिर" }, "qty": "यथाशक्ति", "must": true },
+    { "id": "jal-patra", "item": { "hi": "लोटा / पंचपात्र, आचमनी, थाली, घंटी, गंगाजल और शंख (हो तो)", "en": "A lota / panchapatra, a spoon (achamani), a plate, a bell, Ganga water and a conch (if available)", "bho": "लोटा / पंचपात्र, आचमनी, थरिया, घंटी, गंगाजल आ शंख (होखे त)" }, "qty": "1 सेट", "must": true },
+    { "id": "pothi", "item": { "hi": "कथा की पोथी — या इस साइट का कथा-पृष्ठ / संस्कृत पाठ फ़ोन पर", "en": "The katha book (pothi) — or this site's katha page / Sanskrit text on a phone", "bho": "कथा के पोथी — भा एह साइट के कथा-पन्ना / संस्कृत पाठ फोन पर" }, "qty": "1", "must": true },
+    { "id": "asan", "item": { "hi": "आसन — यजमान दंपति और पुरोहित के लिए", "en": "Seats (asana) — for the host couple and the purohit", "bho": "आसन — जजमान जोड़ी आ पुरोहित खातिर" }, "qty": "3", "must": true }
+  ],
+  "parts": [
+    { "id": "purvang", "title": { "hi": "पूर्वांग — तैयारी और पूर्व-पूजन", "en": "Purvanga — preparation and the preliminary pujas", "bho": "पूर्वांग — तइयारी आ पहिले के पूजन" }, "summary": { "hi": "स्थान और चौकी की तैयारी, आचमन, संकल्प, गणेश-गौरी, कलश, नवग्रह।", "en": "Preparing the place and the chauki, achamana, sankalpa, Ganesh-Gauri, kalash, navagraha.", "bho": "जगह आ चौकी के तइयारी, आचमन, संकल्प, गणेश-गौरी, कलश, नवग्रह।" } },
+    { "id": "mukhya", "title": { "hi": "मुख्य अंग — सत्यनारायण का पूजन और कथा-श्रवण", "en": "Mukhya — the worship of Satyanarayan and the katha", "bho": "मुख्य अंग — सत्यनारायण के पूजन आ कथा-श्रवन" }, "summary": { "hi": "ध्यान से नैवेद्य तक षोडशोपचार, पाँच अध्यायों की कथा।", "en": "The sixteen upacharas from the dhyana to the naivedya, then the five adhyayas.", "bho": "ध्यान से नैवेद्य तक षोडशोपचार, पाँच अध्याय के कथा।" } },
+    { "id": "uttarang", "title": { "hi": "उत्तरांग — आरती, प्रार्थना, प्रसाद", "en": "Uttaranga — aarti, prayer, prasad", "bho": "उत्तरांग — आरती, प्रार्थना, परसाद" }, "summary": { "hi": "आरती, पुष्पांजलि-प्रदक्षिणा, प्रार्थना, क्षमा-विसर्जन, दक्षिणा, भोजन, प्रसाद।", "en": "Aarti, pushpanjali and pradakshina, prayer, kshama and visarjana, dakshina, the meal, prasad.", "bho": "आरती, पुष्पांजलि-प्रदक्षिणा, प्रार्थना, क्षमा-विसर्जन, दक्षिणा, भोजन, परसाद।" } }
+  ],
+  "steps": [
+    {
+      "n": 1, "part": "purvang", "layer": "lok", "minutes": 15,
+      "action": {
+        "hi": "संध्या से पहले स्थान धोकर पूर्व या उत्तर दिशा में [[chauki]] रखें, नया वस्त्र बिछाएँ; चारों कोनों पर केले के पत्ते/खंभे बाँधें। चौकी पर दाहिनी ओर [[kalash]] (जल, सुपारी, सिक्का, आम के पत्ते, ऊपर मौली बँधा नारियल), बीच में सत्यनारायण की मूर्ति/[[thakur-ji]]/चित्र, बाईं ओर गणेश के लिए सुपारी या मूर्ति। पंजीरी भूनकर, पंचामृत बनाकर, सारी सामग्री थालियों में सजाकर रखें। यजमान दंपति स्नान कर स्वच्छ वस्त्र पहनें।",
+        "en": "Before dusk wash the place and set the chauki facing east or north with a new cloth; tie banana leaves or stems at its four corners. On the chauki, the kalash on the right (water, betel nut, coin, mango leaves, a mauli-tied coconut on top), the image of Satyanarayan — murti, Thakur ji or picture — in the middle, a betel nut or image for Ganesh on the left. Roast the panjiri, make the panchamrit and lay out all the materials in plates. The host couple bathe and put on clean clothes.",
+        "bho": "साँझ से पहिले जगह धो के पूरब भा उत्तर ओरी [[chauki]] राखीं, नयका कपड़ा बिछाईं; चारो कोना पर केरा के पत्ता/थम बान्हीं। चौकी पर दाहिना ओरी [[kalash]] (जल, सुपारी, सिक्का, आम के पत्ता, ऊपर मौली बान्हल नरियर), बीच में सत्यनारायण के मूरति/[[thakur-ji]]/चित्र, बाईं ओरी गणेश खातिर सुपारी भा मूरति। पंजीरी भुंज के, पंचामृत बना के, सगरी सामग्री थरिया में सजा के राखीं। जजमान जोड़ी नहा के साफ कपड़ा पहिरसु।"
+      },
+      "samagriIds": ["chauki", "kalash", "murti", "kele-ke-patte", "gehu-atta", "doodh-dahi"],
+      "panditSays": {
+        "hi": "सब सामग्री सामने रख लीजिए — बीच में बार-बार उठना न पड़े। चौकी के सामने पूर्व मुख बैठिए, पत्नी दाहिनी ओर।",
+        "en": "Keep every item within reach so no one has to get up in the middle. Sit before the chauki facing east, the wife on the right.",
+        "bho": "सब सामग्री सामने राख लीं — बीच में बेर-बेर उठे के ना पड़े। चौकी के सामने पूरब मुँह बइठीं, घरवाली दाहिना ओरी।"
+      },
+      "note": {
+        "hi": "केले का मंडप, कलश पर नारियल और पीला वस्त्र लोकाचार हैं — पोथी इन्हें नहीं लिखती, पर हिंदी पट्टी के घरों में यही रूप है। कथा स्वयं केवल संध्या का समय और परिवार-ब्राह्मणों की उपस्थिति माँगती है।",
+        "en": "The banana canopy, the coconut on the kalash and the yellow cloth are local custom — the pothi does not prescribe them, but this is how Hindi-belt homes set it up. The katha itself asks only for the evening hour and the presence of family and Brahmins.",
+        "bho": "केरा के मंडप, कलश पर नरियर आ पियर कपड़ा लोकाचार बा — पोथी एकरा ना लिखे, बाकिर हिंदी पट्टी के घर में इहे रूप बा। कथा खुदे खाली साँझ के बेरा आ परिवार-ब्राह्मण के मौजूदगी माँगेले।"
+      }
+    },
+    {
+      "n": 2, "part": "purvang", "layer": "paddhati", "minutes": 5,
+      "action": {
+        "hi": "[आचमन, पवित्रीकरण और प्राणायाम](/occasions/achaman-pavitrikaran/) — तीन बार आचमन, पंडित सब पर जल छिड़के, फिर मार्जन और तीन प्राणायाम। दीपक जलाकर चौकी के दाहिनी ओर रखें; अगरबत्ती जलाएँ।",
+        "en": "[Achamana, pavitrikarana and pranayama](/occasions/achaman-pavitrikaran/) — three sips, the pandit sprinkles water on everyone, then the marjana and three pranayamas. Light the lamp and set it to the right of the chauki; light the incense.",
+        "bho": "[आचमन, पवित्रीकरण आ प्राणायाम](/occasions/achaman-pavitrikaran/) — तीन बेर आचमन, पंडित सब पर जल छींटसु, फेर मार्जन आ तीन प्राणायाम। दीया जरा के चौकी के दाहिना ओरी राखीं; अगरबत्ती जराईं।"
+      },
+      "mantraIds": ["pad-keshavaya-namah", "pad-apavitrah-pavitro-va"],
+      "samagriIds": ["jal-patra", "dhoop-deep", "asan"],
+      "panditSays": {
+        "sa": "ॐ केशवाय नमः । ॐ नारायणाय नमः । ॐ माधवाय नमः । ॐ अपवित्रः पवित्रो वा सर्वावस्थां गतोऽपि वा ।",
+        "hi": "हथेली में जल लीजिए — तीन बार पिएँ। अब हाथ जोड़िए, मैं जल छिड़क रहा हूँ।",
+        "en": "Take water in the palm — sip three times. Now fold your hands, I am sprinkling the water.",
+        "bho": "हथेली में जल लीं — तीन बेर पियीं। अब हाथ जोड़ीं, हम जल छींटत बानी।"
+      },
+      "note": {
+        "hi": "पूरा विवरण और मंत्रों के अर्थ आचमन-पवित्रीकरण पृष्ठ पर हैं। जो पंडित [स्वस्तिवाचन](/occasions/svasti-vachan/) और [शांति-पाठ](/occasions/shanti-path/) भी कराते हैं, वे यहीं, संकल्प से पहले कराते हैं; घर की छोटी कथा में प्रायः छोड़ दिया जाता है।",
+        "en": "Full detail and the mantra meanings are on the achamana-pavitrikarana page. Pandits who add the [svastivachana](/occasions/svasti-vachan/) and the [shanti-patha](/occasions/shanti-path/) do so here, before the sankalpa; in a small home katha they are usually left out.",
+        "bho": "पूरा बिवरन आ मंत्र के अरथ आचमन-पवित्रीकरण पन्ना पर बा। जे पंडित [स्वस्तिवाचन](/occasions/svasti-vachan/) आ [शांति-पाठ](/occasions/shanti-path/) भी करावेलन, ऊ एहिजे, संकल्प से पहिले करावेलन; घर के छोट कथा में बेसी के छोड़ दिहल जाला।"
+      }
+    },
+    {
+      "n": 3, "part": "purvang", "layer": "paddhati", "minutes": 4, "important": true,
+      "action": {
+        "hi": "[[sankalp]]: यजमान दाहिने हाथ में जल, [[akshat]], फूल, सुपारी और दक्षिणा का सिक्का लेकर पंडित के साथ संकल्प-वाक्य दोहराता है — देश, काल, तिथि, गोत्र और नाम भरकर — और जल थाली में छोड़ देता है। पत्नी हाथ पर हाथ रखती है। संकल्प का पूरा ढाँचा और हर अंग को पंचांग से कैसे पढ़ें, [संकल्प संदर्भ-पृष्ठ](/reference/sankalpa/) पर है।",
+        "en": "Sankalpa: the host takes water, akshat, a flower, a betel nut and a dakshina coin in the right hand and repeats the sankalpa sentence after the pandit — filling in the place, the time, the tithi, the gotra and the name — then lets the water fall into the plate. The wife rests her hand on his. The full sankalpa template and how to read each element from a panchang are on the [sankalpa reference page](/reference/sankalpa/).",
+        "bho": "[[sankalp]]: जजमान दाहिना हाथ में जल, [[akshat]], फूल, सुपारी आ दक्षिणा के सिक्का लेके पंडित संगे संकल्प-वाक्य दोहरावेला — देस, काल, तिथि, गोत्र आ नाँव भर के — आ जल थरिया में छोड़ देला। घरवाली हाथ पर हाथ राखेली। संकल्प के पूरा ढाँचा आ हर अंग के पतरा से कइसे पढ़ीं, [संकल्प संदर्भ-पन्ना](/reference/sankalpa/) पर बा।"
+      },
+      "mantraIds": ["pad-vishnur-vishnur-vishnuh"],
+      "samagriIds": ["jal-patra", "roli-haldi-akshat", "dakshina-dravya", "paan-supari"],
+      "panditSays": {
+        "sa": "ॐ विष्णुर्विष्णुर्विष्णुः । अद्य {मासे} {पक्षे} {तिथौ} {वासरे} {गोत्रः} {नाम} शर्माहं मम सकलदुरितोपशमनपूर्वकसर्वापच्छान्तिपूर्वकसर्वमनोरथसिद्ध्यर्थं यथासम्पादितसामग्र्या गणेशगौरीवरुणदेवतागणपत्यादिपञ्चलोकपालदेवतासूर्यादिनवग्रहदेवतापूजनपूर्वकं श्रीसत्यनारायणपूजनं कथाश्रवणं च करिष्ये ॥",
+        "hi": "हाथ में जल, अक्षत और सिक्का लीजिए। मैं जो बोलूँ, दोहराइए — अपना गोत्र और नाम वहाँ बोलिए। अंत में \"करिष्ये\" कहकर जल छोड़ दीजिए।",
+        "en": "Take water, rice and the coin in your hand. Repeat after me — say your gotra and your name where I pause. At the end say \"karishye\" and let the water fall.",
+        "bho": "हाथ में जल, अछत आ सिक्का लीं। हम जे बोलीं, दोहराईं — आपन गोत्र आ नाँव उहाँ बोलीं। अंत में \"करिष्ये\" कह के जल छोड़ दीं।"
+      },
+      "note": {
+        "hi": "यह पोथी का सत्यनारायण-संकल्प है: \"सब पापों के शमन, सब विपत्तियों की शांति और सब मनोरथों की सिद्धि के लिए, जितनी सामग्री जुटा सका उससे, गणेश-गौरी-वरुण, पंच-लोकपाल और नवग्रह के पूजन सहित, श्रीसत्यनारायण का पूजन और कथा-श्रवण करूँगा।\" जो विशेष कामना या धन्यवाद हो, वह पंडित यहीं जोड़ता है।",
+        "en": "This is the pothi's Satyanarayan sankalpa: \"for the quieting of all faults, the pacification of all troubles and the fulfilment of all wishes, with whatever materials I could gather, together with the worship of Ganesh-Gauri-Varuna, the five lokapalas and the navagraha, I shall perform the worship of Shri Satyanarayan and hear the katha.\" A particular wish or thanksgiving is added here by the pandit.",
+        "bho": "ई पोथी के सत्यनारायण-संकल्प बा: \"सब पाप के समन, सब बिपत के शांति आ सब मनोरथ के सिद्धि खातिर, जेतना सामग्री जुटा पवनी ओसे, गणेश-गौरी-वरुण, पंच-लोकपाल आ नवग्रह के पूजन सहित, श्रीसत्यनारायण के पूजन आ कथा-श्रवन करब।\" जे खास कामना भा धन्यवाद होखे, ऊ पंडित एहिजे जोड़ेलन।"
+      }
+    },
+    {
+      "n": 4, "part": "purvang", "layer": "paddhati", "minutes": 6,
+      "action": {
+        "hi": "[गणेश-अंबिका पूजन](/occasions/ganesh-ambika-pujan/): चौकी की बाईं ओर रखी सुपारी/मूर्ति में गणेश और गौरी का आवाहन — गणानां त्वा और अंबे अंबिके — फिर नाम-मंत्र से संक्षिप्त षोडशोपचार: आसन, पाद्य, अर्घ्य, आचमन, स्नान, वस्त्र, जनेऊ, गंध, अक्षत, फूल-दूर्वा, धूप, दीप, नैवेद्य (गुड़/लड्डू), आचमन, तांबूल, दक्षिणा।",
+        "en": "[Ganesh-Ambika puja](/occasions/ganesh-ambika-pujan/): invoke Ganesh and Gauri into the betel nut or image on the left of the chauki — ganānām tvā and ambe ambike — then a short shodashopachara by name-mantra: seat, padya, arghya, achamana, bath, cloth, sacred thread, sandal, rice, flowers and durva, incense, lamp, naivedya (jaggery or a laddu), achamana, tambul, dakshina.",
+        "bho": "[गणेश-अंबिका पूजन](/occasions/ganesh-ambika-pujan/): चौकी के बाईं ओरी राखल सुपारी/मूरति में गणेश आ गौरी के आवाहन — गणानां त्वा आ अंबे अंबिके — फेर नाँव-मंत्र से छोट षोडशोपचार: आसन, पाद्य, अरघ, आचमन, नहान, वस्त्र, जनेऊ, गंध, अछत, फूल-दूब, धूप, दीप, नैवेद्य (गुड़/लड्डू), आचमन, तांबूल, दक्षिणा।"
+      },
+      "mantraIds": ["vs-23-19", "vs-23-18"],
+      "samagriIds": ["paan-supari", "roli-haldi-akshat", "pushp-mala"],
+      "panditSays": {
+        "sa": "ॐ गं गणपतये नमः । आवाहनं समर्पयामि । आसनं समर्पयामि । पाद्यं समर्पयामि । अर्घ्यं समर्पयामि । आचमनीयं समर्पयामि । स्नानं समर्पयामि । वस्त्रं समर्पयामि । यज्ञोपवीतं समर्पयामि । गन्धं समर्पयामि । अक्षतान् समर्पयामि । पुष्पाणि समर्पयामि । धूपमाघ्रापयामि । दीपं दर्शयामि । नैवेद्यं निवेदयामि । आचमनीयं समर्पयामि । ताम्बूलं समर्पयामि । दक्षिणां समर्पयामि । अनेन पूजनेन गणपतिर्देवता प्रीयताम् ॥",
+        "hi": "पहले गणेश जी — हर उपचार पर मैं \"समर्पयामि\" कहूँ, तब अक्षत-फूल या वह वस्तु सुपारी पर चढ़ाइए।",
+        "en": "Ganesh first — each time I say \"samarpayami\", place the rice and flower, or that item, on the betel nut.",
+        "bho": "पहिले गणेश जी — हर उपचार पर हम \"समर्पयामि\" कहीं, तब अछत-फूल भा ऊ चीज सुपारी पर चढ़ाईं।"
+      },
+      "note": {
+        "hi": "पोथी गणेश के साथ गौरी, फिर वरुण (कलश), पंच-लोकपाल और नवग्रह की \"प्रतिष्ठा और आवाहन\" एक साथ लिखती है और हर देवता का पूजन \"तत्तत् नाम-मंत्रों से\" कहती है — घर की कथा में यही संक्षिप्त रूप चलता है; पूरे मंत्र गणेश-अंबिका पूजन पृष्ठ पर हैं।",
+        "en": "The pothi writes the \"installation and invocation\" of Ganesh with Gauri, then Varuna (the kalash), the five lokapalas and the navagraha together, and says each deity is worshipped \"with its own name-mantras\" — this short form is what a home katha uses; the full mantras are on the Ganesh-Ambika page.",
+        "bho": "पोथी गणेश संगे गौरी, फेर वरुण (कलश), पंच-लोकपाल आ नवग्रह के \"प्रतिष्ठा आ आवाहन\" एक्के संगे लिखेले आ हर देवता के पूजन \"तत्तत् नाँव-मंत्र से\" कहेले — घर के कथा में इहे छोट रूप चलेला; पूरा मंत्र गणेश-अंबिका पूजन पन्ना पर बा।"
+      }
+    },
+    {
+      "n": 5, "part": "purvang", "layer": "vedic", "minutes": 5,
+      "action": {
+        "hi": "[कलश स्थापना](/occasions/kalash-sthapana/): कलश को हाथ से स्पर्श कर आ जिघ्र कलशं पढ़ें, जल में वरुण का आवाहन तत्त्वा यामि से करें; कलश पर मौली, रोली-अक्षत, फूल और नारियल; फिर नाम-मंत्र से वरुण का संक्षिप्त पूजन। परंपरा में माना जाता है कि कलश में सब तीर्थ और देवता निवास करते हैं।",
+        "en": "[Kalash sthapana](/occasions/kalash-sthapana/): touch the kalash and recite ā jighra kalaśam, invoke Varuna into the water with tat tvā yāmi; mauli, roli and rice, a flower and the coconut on the kalash; then a short worship of Varuna by name-mantra. Tradition holds that all the tirthas and the gods dwell in the kalash.",
+        "bho": "[कलश स्थापना](/occasions/kalash-sthapana/): कलश के हाथ से छू के आ जिघ्र कलशं पढ़ीं, जल में वरुण के आवाहन तत्त्वा यामि से करीं; कलश पर मौली, रोली-अछत, फूल आ नरियर; फेर नाँव-मंत्र से वरुण के छोट पूजन। परंपरा में मानल जाला कि कलश में सब तीरथ आ देवता निवास करेलन।"
+      },
+      "mantraIds": ["vs-8-42", "vs-18-49"],
+      "samagriIds": ["kalash", "mauli", "roli-haldi-akshat"],
+      "panditSays": {
+        "sa": "ॐ वरुणाय नमः । वरुणमावाहयामि स्थापयामि । गन्धाक्षतपुष्पं समर्पयामि । अनेन पूजनेन वरुणादिदेवताः प्रीयन्ताम् ॥",
+        "hi": "कलश पर हाथ रखिए — यह वरुण देव का स्थान है। मौली और नारियल मैं रख रहा हूँ; आप रोली-अक्षत और फूल चढ़ाइए।",
+        "en": "Rest your hand on the kalash — this is Varuna's seat. I am placing the mauli and the coconut; you offer the roli, rice and a flower.",
+        "bho": "कलश पर हाथ राखीं — ई वरुण देव के जगह बा। मौली आ नरियर हम राखत बानी; रउआ रोली-अछत आ फूल चढ़ाईं।"
+      }
+    },
+    {
+      "n": 6, "part": "purvang", "layer": "paddhati", "minutes": 5,
+      "action": {
+        "hi": "चौकी पर रोली से बनाए नौ कोष्ठकों में या अक्षत की नौ ढेरियों पर [नवग्रह](/occasions/navagraha-sthapana-pujan/) का आवाहन — सूर्य से केतु तक, हर ग्रह के वैदिक मंत्र और नाम-मंत्र से — और साथ में गणपति आदि पंच-लोकपाल तथा [दिक्पाल](/occasions/dikpal-panchang-pujan/); फिर सब पर एक साथ गंध-अक्षत-फूल, धूप-दीप-नैवेद्य।",
+        "en": "On nine squares drawn with roli on the chauki, or on nine small heaps of rice, invoke the [navagraha](/occasions/navagraha-sthapana-pujan/) — Surya to Ketu, each with its Vedic mantra and name-mantra — together with Ganapati and the other four lokapalas and the [dikpalas](/occasions/dikpal-panchang-pujan/); then sandal, rice and flowers, incense, lamp and naivedya to all of them at once.",
+        "bho": "चौकी पर रोली से बनावल नौ खाना में भा अछत के नौ ढेरी पर [नवग्रह](/occasions/navagraha-sthapana-pujan/) के आवाहन — सुरुज से केतु तक, हर ग्रह के वैदिक मंत्र आ नाँव-मंत्र से — आ संगे गणपति आदि पंच-लोकपाल आ [दिक्पाल](/occasions/dikpal-panchang-pujan/); फेर सब पर एक्के संगे गंध-अछत-फूल, धूप-दीप-नैवेद्य।"
+      },
+      "samagriIds": ["roli-haldi-akshat", "pushp-mala", "dhoop-deep"],
+      "panditSays": {
+        "sa": "ॐ सूर्याय नमः सूर्यमावाहयामि । ॐ चन्द्राय नमः । ॐ भौमाय नमः । ॐ बुधाय नमः । ॐ बृहस्पतये नमः । ॐ शुक्राय नमः । ॐ शनैश्चराय नमः । ॐ राहवे नमः । ॐ केतवे नमः । सर्वोपचारार्थे गन्धाक्षतपुष्पं समर्पयामि ॥",
+        "hi": "नौ ढेरियों पर एक-एक करके अक्षत छोड़िए — मैं ग्रह का नाम लूँगा। फिर सबको एक साथ धूप-दीप।",
+        "en": "Drop rice on the nine heaps one by one as I name each planet. Then incense and lamp to all together.",
+        "bho": "नौ ढेरी पर एक-एक करके अछत छोड़ीं — हम ग्रह के नाँव लेब। फेर सबके एक्के संगे धूप-दीप।"
+      },
+      "note": {
+        "hi": "पोथी नवग्रह के नौ वैदिक मंत्र (आ कृष्णेन…, इमं देवा…, अग्निर्मूर्धा…, उद्बुध्यस्व…, बृहस्पते अति…, अन्नात् परिस्रुतो…, शन्नो देवी…, कया नश्चित्र…, केतुं कृण्वन्…) और ब्रह्मा-विष्णु-शिव के पूरक मंत्र देती है; वे सब शब्दार्थ के साथ नवग्रह पृष्ठ पर हैं। एक घंटे की घरेलू कथा में प्रायः केवल नाम-मंत्र बोले जाते हैं।",
+        "en": "The pothi gives the nine Vedic navagraha mantras (ā kṛṣṇena…, imaṁ devā…, agnir mūrdhā…, ud budhyasva…, bṛhaspate ati…, annāt parisruto…, śan no devī…, kayā naś citra…, ketuṁ kṛṇvan…) plus the supplementary mantras to Brahma, Vishnu and Shiva; all of them, with word meanings, are on the navagraha page. In a one-hour home katha usually only the name-mantras are spoken.",
+        "bho": "पोथी नवग्रह के नौ वैदिक मंत्र (आ कृष्णेन…, इमं देवा…, अग्निर्मूर्धा…, उद्बुध्यस्व…, बृहस्पते अति…, अन्नात् परिस्रुतो…, शन्नो देवी…, कया नश्चित्र…, केतुं कृण्वन्…) आ ब्रह्मा-विष्णु-शिव के पूरक मंत्र देले; ऊ सब शब्दार्थ संगे नवग्रह पन्ना पर बा। एक घंटा के घरेलू कथा में बेसी के खाली नाँव-मंत्र बोलल जाला।"
+      }
+    },
+    {
+      "n": 7, "part": "mukhya", "layer": "paddhati", "minutes": 3, "important": true,
+      "action": {
+        "hi": "सत्यनारायण की स्थापना और [[dhyan]]: मूर्ति/ठाकुर जी/चित्र को अक्षत की ढेरी पर (या कलश के सामने) स्थापित करें और \"ॐ श्रीसत्यनारायणाय नमः, स्थापयामि\" कहें। फिर यजमान हाथ में फूल लेकर आँखें मूँदे; पंडित ध्यान के दो श्लोक पढ़े; श्लोक पूरा होने पर फूल चरणों में अर्पित करें।",
+        "en": "Installing Satyanarayan and the dhyana: set the murti, Thakur ji or picture on a heap of rice (or before the kalash) and say \"om shri-satyanarayanaya namah, sthapayami\". Then the host holds a flower with closed eyes while the pandit recites the two dhyana verses; when they end, the flower is laid at the deity's feet.",
+        "bho": "सत्यनारायण के थापना आ [[dhyan]]: मूरति/ठाकुर जी/चित्र के अछत के ढेरी पर (भा कलश के सामने) थापित करीं आ \"ॐ श्रीसत्यनारायणाय नमः, स्थापयामि\" कहीं। फेर जजमान हाथ में फूल लेके आँख मूँदसु; पंडित ध्यान के दू गो श्लोक पढ़सु; श्लोक पूरा भइला पर फूल गोड़ में चढ़ाईं।"
+      },
+      "mantraIds": ["pad-dhyayet-satyam-gunatitam"],
+      "samagriIds": ["murti", "roli-haldi-akshat", "pushp-mala"],
+      "panditSays": {
+        "sa": "ॐ श्रीसत्यनारायणाय नमः । स्थापयामि । ध्यायेत् सत्यं गुणातीतं गुणत्रयसमन्वितम् । लोकनाथं त्रिलोकेशं कौस्तुभाभरणं हरिम् ॥",
+        "hi": "फूल हाथ में लीजिए, आँखें बंद — सत्यनारायण भगवान का रूप मन में लाइए: नीला वर्ण, पीला वस्त्र, कौस्तुभ मणि। श्लोक पूरा होने पर फूल चरणों में।",
+        "en": "Take a flower, close your eyes — picture the Lord: dark-blue, in yellow, the Kaustubha gem. When the verse ends, the flower at his feet.",
+        "bho": "फूल हाथ में लीं, आँख बंद — सत्यनारायण भगवान के रूप मन में लाईं: नील रंग, पियर कपड़ा, कौस्तुभ मनि। श्लोक पूरा भइला पर फूल गोड़ में।"
+      },
+      "note": {
+        "hi": "पोथी में सत्यनारायण के लिए अलग प्राण-प्रतिष्ठा मंत्र नहीं है — स्थापना नाम-मंत्र से और ध्यान से होती है। जहाँ पंडित वैदिक प्राण-प्रतिष्ठा कराते हैं, वहाँ वही क्रम है जो गणेश-अंबिका पूजन पृष्ठ पर दिया है।",
+        "en": "The pothi has no separate prana-pratishtha mantra for Satyanarayan — the installation is by name-mantra and dhyana. Where a pandit performs the Vedic prana-pratishtha, it follows the sequence given on the Ganesh-Ambika page.",
+        "bho": "पोथी में सत्यनारायण खातिर अलगा प्रान-प्रतिष्ठा मंत्र नइखे — थापना नाँव-मंत्र आ ध्यान से होला। जहाँ पंडित वैदिक प्रान-प्रतिष्ठा करावेलन, उहाँ उहे क्रम बा जे गणेश-अंबिका पूजन पन्ना पर दिहल बा।"
+      }
+    },
+    {
+      "n": 8, "part": "mukhya", "layer": "paddhati", "minutes": 2,
+      "action": {
+        "hi": "[[avahan]] और [[asan]]: आवाहन-श्लोक पढ़ते हुए अक्षत और फूल मूर्ति पर छोड़ें — \"आवाहनं समर्पयामि\"; फिर पाँच फूल या अक्षत आसन के रूप में — \"आसनं समर्पयामि\"।",
+        "en": "Avahana and asana: reciting the invocation verse, drop rice and a flower on the image — \"avahanam samarpayami\"; then five flowers or rice as a seat — \"asanam samarpayami\".",
+        "bho": "[[avahan]] आ [[asan]]: आवाहन-श्लोक पढ़त अछत आ फूल मूरति पर छोड़ीं — \"आवाहनं समर्पयामि\"; फेर पाँच फूल भा अछत आसन के रूप में — \"आसनं समर्पयामि\"।"
+      },
+      "mantraIds": ["pad-agachchha-deva-devesha"],
+      "samagriIds": ["roli-haldi-akshat", "pushp-mala"],
+      "panditSays": {
+        "sa": "आगच्छ देव देवेश तेजोराशे जगत्पते । क्रियमाणां मया पूजां गृहाण सुरसत्तम ॥ ॐ श्रीसत्यनारायणाय नमः । आवाहनं समर्पयामि । आसनं समर्पयामि ।",
+        "hi": "अक्षत-फूल लेकर भगवान को बुलाइए — \"आइए, विराजिए\"। अब आसन के लिए पाँच फूल।",
+        "en": "With rice and a flower, invite the Lord — \"come, be seated\". Now five flowers for the seat.",
+        "bho": "अछत-फूल लेके भगवान के बोलाईं — \"आईं, बइठीं\"। अब आसन खातिर पाँच फूल।"
+      }
+    },
+    {
+      "n": 9, "part": "mukhya", "layer": "paddhati", "minutes": 3,
+      "action": {
+        "hi": "[[padya]], [[arghya]], [[achamaniya]]: आचमनी से जल चरणों की ओर थाली में छोड़ें (पाद्य); फिर अक्षत-चंदन-फूल मिला जल अर्घ्य-पात्र से (अर्घ्य); फिर शुद्ध जल आचमन के लिए — \"आचमनीयं समर्पयामि\"। पोथी में सत्यनारायण के लिए पाद्य और अर्घ्य के अपने श्लोक हैं।",
+        "en": "Padya, arghya, achamaniya: pour water from the spoon towards the feet into the plate (padya); then water mixed with rice, sandal and flowers from the arghya vessel (arghya); then plain water for sipping — \"achamaniyam samarpayami\". The pothi gives Satyanarayan his own padya and arghya verses.",
+        "bho": "[[padya]], [[arghya]], [[achamaniya]]: आचमनी से जल गोड़ के ओरी थरिया में छोड़ीं (पाद्य); फेर अछत-चंदन-फूल मिलल जल अरघ-पात्र से (अरघ); फेर सुद्ध जल आचमन खातिर — \"आचमनीयं समर्पयामि\"। पोथी में सत्यनारायण खातिर पाद्य आ अरघ के आपन श्लोक बा।"
+      },
+      "mantraIds": ["pad-narayana-namaste-stu", "pad-vyaktavyakta-svarupaya"],
+      "samagriIds": ["jal-patra", "roli-haldi-akshat"],
+      "panditSays": {
+        "sa": "नारायण नमस्तेऽस्तु नरकार्णवतारक । पाद्यं गृहाण देवेश मम सौख्यं विवर्धय ॥ पाद्यं समर्पयामि । व्यक्ताव्यक्तस्वरूपाय हृषीकपतये नमः । मया निवेदितो भक्त्या अर्घ्योऽयं प्रतिगृह्यताम् ॥ अर्घ्यं समर्पयामि । ॐ श्रीसत्यनारायणाय नमः । आचमनीयं समर्पयामि ।",
+        "hi": "तीन बार जल — पहले पाँव धोने का, फिर अर्घ्य, फिर आचमन। हर बार मैं \"समर्पयामि\" कहूँ, तब छोड़िए।",
+        "en": "Water three times — first for the feet, then the arghya, then for sipping. Pour each time I say \"samarpayami\".",
+        "bho": "तीन बेर जल — पहिले गोड़ धोवे के, फेर अरघ, फेर आचमन। हर बेर हम \"समर्पयामि\" कहीं, तब छोड़ीं।"
+      }
+    },
+    {
+      "n": 10, "part": "mukhya", "layer": "paddhati", "minutes": 4,
+      "action": {
+        "hi": "[[snan-upachara]]: पहले [[panchamrit]] (दूध, दही, घी, मधु, शक्कर — तुलसी दल के साथ) से, फिर शुद्ध जल/गंगाजल से स्नान — मूर्ति हो तो थाली में रखकर, चित्र हो तो आचमनी से सामने जल छोड़कर। स्नान के बाद मूर्ति को पोंछकर फिर चौकी पर रखें। मंत्र [षोडशोपचार](/occasions/shodashopachar/) पृष्ठ पर।",
+        "en": "The bath: first with panchamrit (milk, curd, ghee, honey, sugar — with tulsi leaves), then with plain water or Ganga water — a murti is bathed in the plate, for a picture water is poured from the spoon in front of it. Dry the murti and set it back on the chauki. Mantras on the [shodashopachara](/occasions/shodashopachar/) page.",
+        "bho": "[[snan-upachara]]: पहिले [[panchamrit]] (दूध, दही, घीव, मधु, चीनी — तुलसी पत्ता संगे) से, फेर सुद्ध जल/गंगाजल से नहान — मूरति होखे त थरिया में राख के, चित्र होखे त आचमनी से सामने जल छोड़ के। नहान के बाद मूरति के पोंछ के फेर चौकी पर राखीं। मंत्र [षोडशोपचार](/occasions/shodashopachar/) पन्ना पर।"
+      },
+      "samagriIds": ["doodh-dahi", "ghee", "tulsi-dal", "jal-patra"],
+      "panditSays": {
+        "sa": "ॐ श्रीसत्यनारायणाय नमः । पञ्चामृतस्नानं समर्पयामि । शुद्धोदकस्नानं समर्पयामि ।",
+        "hi": "पंचामृत से स्नान कराइए — थोड़ा-थोड़ा, धीरे। अब शुद्ध जल से। बचा पंचामृत चरणामृत के साथ प्रसाद में जाएगा।",
+        "en": "Bathe the Lord with the panchamrit — a little at a time, slowly. Now with plain water. The leftover panchamrit goes into the prasad with the charanamrit.",
+        "bho": "पंचामृत से नहवाईं — तनी-तनी, धीरे। अब सुद्ध जल से। बाँचल पंचामृत चरणामृत संगे परसाद में जाई।"
+      },
+      "note": {
+        "hi": "पंचामृत सामान्य षोडशोपचार के स्नान का अंग है; कथा का नियम (1.20–21) उसका नाम नहीं लेता — वहाँ केवल सवा मात्रा का नैवेद्य है। इसलिए पंचामृत यहाँ पद्धति-परंपरा के रूप में है, कथा के नियम के रूप में नहीं।",
+        "en": "Panchamrit belongs to the bath of the general shodashopachara; the katha's rule (1.20–21) does not name it — there it is only the sapada naivedya. So the panchamrit stands here as handbook tradition, not as the katha's rule.",
+        "bho": "पंचामृत आम षोडशोपचार के नहान के अंग बा; कथा के नियम (1.20–21) ओकर नाँव ना लेले — उहाँ खाली सवा माप के नैवेद्य बा। एही से पंचामृत इहाँ पद्धति-परंपरा के रूप में बा, कथा के नियम के रूप में ना।"
+      }
+    },
+    {
+      "n": 11, "part": "mukhya", "layer": "paddhati", "minutes": 4,
+      "action": {
+        "hi": "[[vastra]], [[yajnopavit-upachara]], [[gandh]], [[akshat]], [[pushp]]: पीला वस्त्र/रूई का वस्त्र पहनाएँ, जनेऊ अर्पित करें, चंदन-रोली-हल्दी का तिलक, अक्षत, फिर फूल और माला, [[tulsi-dal]] और इत्र। हर उपचार पर नाम-मंत्र \"ॐ श्रीसत्यनारायणाय नमः … समर्पयामि\"; पूरे उपचार-श्लोक षोडशोपचार पृष्ठ पर हैं।",
+        "en": "Cloth, sacred thread, sandal, rice, flowers: dress the deity in a yellow or cotton cloth, offer the sacred thread, a tilak of sandal, roli and turmeric, rice, then flowers and the garland, tulsi leaves and perfume. At each upachara the name-mantra \"om shri-satyanarayanaya namah … samarpayami\"; the full upachara verses are on the shodashopachara page.",
+        "bho": "[[vastra]], [[yajnopavit-upachara]], [[gandh]], [[akshat]], [[pushp]]: पियर कपड़ा/रूई के वस्त्र पहिराईं, जनेऊ चढ़ाईं, चंदन-रोली-हरदी के टीका, अछत, फेर फूल आ माला, [[tulsi-dal]] आ इत्र। हर उपचार पर नाँव-मंत्र \"ॐ श्रीसत्यनारायणाय नमः … समर्पयामि\"; पूरा उपचार-श्लोक षोडशोपचार पन्ना पर बा।"
+      },
+      "samagriIds": ["vastra-janeu", "roli-haldi-akshat", "pushp-mala", "tulsi-dal"],
+      "panditSays": {
+        "sa": "ॐ श्रीसत्यनारायणाय नमः । वस्त्रं समर्पयामि । यज्ञोपवीतं समर्पयामि । गन्धं समर्पयामि । अक्षतान् समर्पयामि । पुष्पाणि समर्पयामि । तुलसीदलं समर्पयामि ।",
+        "hi": "वस्त्र पहनाइए, जनेऊ, फिर चंदन का टीका — अनामिका से। अक्षत, फूल, माला, तुलसी — एक-एक करके।",
+        "en": "Dress the Lord, the thread, then the sandal mark — with the ring finger. Rice, flowers, garland, tulsi — one by one.",
+        "bho": "कपड़ा पहिराईं, जनेऊ, फेर चंदन के टीका — अनामिका से। अछत, फूल, माला, तुलसी — एक-एक करके।"
+      }
+    },
+    {
+      "n": 12, "part": "mukhya", "layer": "paddhati", "minutes": 2,
+      "action": {
+        "hi": "[[dhoop]] और [[deep]]: धूप/अगरबत्ती मूर्ति के सामने घुमाएँ — \"धूपमाघ्रापयामि\"; घी का दीपक दिखाएँ — \"दीपं दर्शयामि\"; दीप दिखाकर हाथ धो लें।",
+        "en": "Incense and lamp: wave the incense before the image — \"dhupam aghrapayami\"; show the ghee lamp — \"dipam darshayami\"; wash the hands after showing the lamp.",
+        "bho": "[[dhoop]] आ [[deep]]: धूप/अगरबत्ती मूरति के सामने घुमाईं — \"धूपमाघ्रापयामि\"; घीव के दीया देखाईं — \"दीपं दर्शयामि\"; दीया देखा के हाथ धो लीं।"
+      },
+      "samagriIds": ["dhoop-deep", "jal-patra"],
+      "panditSays": {
+        "sa": "ॐ श्रीसत्यनारायणाय नमः । धूपमाघ्रापयामि । दीपं दर्शयामि । हस्तौ प्रक्षालयामि ।",
+        "hi": "धूप घुमाइए, फिर दीपक दिखाइए। दीप के बाद हाथ पर जल — नैवेद्य से पहले हाथ धोना नियम है।",
+        "en": "Wave the incense, then show the lamp. Water on the hands after the lamp — washing before the naivedya is the rule.",
+        "bho": "धूप घुमाईं, फेर दीया देखाईं। दीया के बाद हाथ पर जल — नैवेद्य से पहिले हाथ धोवल नियम बा।"
+      }
+    },
+    {
+      "n": 13, "part": "mukhya", "layer": "paddhati", "minutes": 4, "important": true,
+      "action": {
+        "hi": "[[naivedya]]: सवा मात्रा की [[panjiri]] (भुना गेहूँ का आटा, शक्कर/गुड़, घी, कटे केले — कथा 1.20–21 की पाँचों वस्तुएँ), साथ में पंचामृत, पके केले, ऋतु-फल और मिठाई — तुलसी दल डालकर, जल से घेरा बनाकर सामने रखें; \"नैवेद्यं निवेदयामि\" और प्राणाहुति-मंत्र; बीच में और अंत में जल — \"मध्ये पानीयं, उत्तरापोशनं समर्पयामि\"।",
+        "en": "The naivedya: the sapada panjiri (roasted wheat flour, sugar or jaggery, ghee, sliced banana — the five things of katha 1.20–21), together with the panchamrit, ripe bananas, seasonal fruit and sweets — with tulsi leaves on top, a ring of water drawn around, set before the Lord; \"naivedyam nivedayami\" and the pranahuti mantras; water in the middle and at the end — \"madhye paniyam, uttaraposhanam samarpayami\".",
+        "bho": "[[naivedya]]: सवा माप के [[panjiri]] (भुंजल गोहूँ के आटा, चीनी/गुड़, घीव, कटल केरा — कथा 1.20–21 के पाँचो चीज), संगे पंचामृत, पाकल केरा, मौसम के फल आ मिठाई — तुलसी पत्ता डाल के, जल से घेरा बना के सामने राखीं; \"नैवेद्यं निवेदयामि\" आ प्राणाहुति-मंत्र; बीच में आ अंत में जल — \"मध्ये पानीयं, उत्तरापोशनं समर्पयामि\"।"
+      },
+      "textRefs": [{ "text": "satyanarayan-vrat-katha-sanskrit", "chapter": 1, "note": { "hi": "श्लोक 18–23: संध्या, ब्राह्मण-बंधु, सवा मात्रा का नैवेद्य, कथा, दक्षिणा, भोजन, प्रसाद", "en": "Verses 18–23: dusk, Brahmins and kin, the sapada naivedya, katha, dakshina, meal, prasad", "bho": "श्लोक 18–23: साँझ, ब्राह्मण-हित-नाता, सवा माप के नैवेद्य, कथा, दक्षिणा, भोजन, परसाद" } }],
+      "samagriIds": ["gehu-atta", "shakkar-gud", "ghee", "kela", "doodh-dahi", "phal", "tulsi-dal"],
+      "panditSays": {
+        "sa": "ॐ श्रीसत्यनारायणाय नमः । नैवेद्यं निवेदयामि । ॐ प्राणाय स्वाहा । ॐ अपानाय स्वाहा । ॐ व्यानाय स्वाहा । ॐ उदानाय स्वाहा । ॐ समानाय स्वाहा । ॐ ब्रह्मणे स्वाहा । मध्ये पानीयं समर्पयामि । उत्तरापोशनं समर्पयामि ।",
+        "hi": "पंजीरी की थाली सामने रखिए, ऊपर तुलसी। जल से थाली के चारों ओर घेरा बनाइए। मैं छह बार \"स्वाहा\" कहूँ — हर बार भगवान को भोग लगाने का भाव। फिर जल।",
+        "en": "Set the plate of panjiri before the Lord, tulsi on top. Draw a ring of water around the plate. I shall say \"svaha\" six times — each time the feeling of offering the food. Then water.",
+        "bho": "पंजीरी के थरिया सामने राखीं, ऊपर तुलसी। जल से थरिया के चारो ओरी घेरा बनाईं। हम छह बेर \"स्वाहा\" कहीं — हर बेर भगवान के भोग लगावे के भाव। फेर जल।"
+      },
+      "note": {
+        "hi": "कथा का नियम केवल इतना है — केला, घी, दूध, गेहूँ का आटा (या चावल का), शक्कर/गुड़, सवा मात्रा में एक साथ मिलाकर (1.20–21; लकड़हारे ने भी यही लिया, 2.25–26)। हिंदी पट्टी में इस मिश्रण को पंजीरी कहते हैं; कहीं हलवा, कहीं खीर, महाराष्ट्र में सूजी का शीरा (\"संजावक\") बनता है — सब उसी नियम के रूप हैं।",
+        "en": "The katha's rule is only this — banana, ghee, milk, wheat flour (or rice flour), sugar or jaggery, mixed together in the sapada measure (1.20–21; the woodcutter took the same, 2.25–26). In the Hindi belt the mixture is called panjiri; elsewhere halwa or kheer, in Maharashtra a semolina sheera (\"sanjavak\") — all forms of the same rule.",
+        "bho": "कथा के नियम खाली एतने बा — केरा, घीव, दूध, गोहूँ के आटा (भा चाउर के), चीनी/गुड़, सवा माप में एक्के संगे मिला के (1.20–21; लकड़हारा भी इहे लिहल, 2.25–26)। हिंदी पट्टी में एह मिलावट के पंजीरी कहल जाला; कहीं हलुआ, कहीं खीर, महाराष्ट्र में सूजी के शीरा (\"संजावक\") बनेला — सब ओही नियम के रूप बा।"
+      }
+    },
+    {
+      "n": 14, "part": "mukhya", "layer": "paddhati", "minutes": 2,
+      "action": {
+        "hi": "आचमन, [[tambul]], [[phal]], [[dakshina]]: नैवेद्य के बाद आचमन का जल; पान पर सुपारी-लौंग-इलायची रखकर तांबूल; नारियल और ऋतु-फल; फिर दक्षिणा के रूप में सिक्का — \"द्रव्यदक्षिणां समर्पयामि\"।",
+        "en": "Achamana, tambul, fruit, dakshina: water for sipping after the naivedya; the tambul — betel nut, clove and cardamom on a betel leaf; a coconut and seasonal fruit; then a coin as dakshina — \"dravya-dakshinam samarpayami\".",
+        "bho": "आचमन, [[tambul]], [[phal]], [[dakshina]]: नैवेद्य के बाद आचमन के जल; पान पर सुपारी-लौंग-इलाइची राख के तांबूल; नरियर आ मौसम के फल; फेर दक्षिणा के रूप में सिक्का — \"द्रव्यदक्षिणां समर्पयामि\"।"
+      },
+      "samagriIds": ["paan-supari", "phal", "dakshina-dravya", "jal-patra"],
+      "panditSays": {
+        "sa": "ॐ श्रीसत्यनारायणाय नमः । आचमनीयं समर्पयामि । पूगीफलताम्बूलं समर्पयामि । ऋतुफलानि समर्पयामि । द्रव्यदक्षिणां समर्पयामि ।",
+        "hi": "भोग के बाद जल, फिर पान-सुपारी, फल और एक सिक्का भगवान के सामने।",
+        "en": "Water after the meal, then the betel, the fruit and one coin before the Lord.",
+        "bho": "भोग के बाद जल, फेर पान-सुपारी, फल आ एगो सिक्का भगवान के सामने।"
+      }
+    },
+    {
+      "n": 15, "part": "mukhya", "layer": "paddhati", "minutes": 50, "important": true,
+      "action": {
+        "hi": "कथा-श्रवण: सब लोग बैठकर [सत्यनारायण व्रत कथा](/kathas/satyanarayan-katha/) के पाँच अध्याय सुनते हैं — संस्कृत श्लोकों से ([मूल पाठ](/texts/satyanarayan-vrat-katha-sanskrit/)) या अपनी भाषा में। यजमान दंपति हाथ में फूल/अक्षत लिए रहते हैं और हर अध्याय के अंत में उसे चरणों में छोड़कर \"सत्यनारायण भगवान की जय\" बोलते हैं। यह कथा का अपना नियम है — \"कथां श्रुत्वा जनैः सह\" (1.22)।",
+        "en": "Hearing the katha: everyone sits and hears the five adhyayas of the [Satyanarayan vrat katha](/kathas/satyanarayan-katha/) — from the Sanskrit verses (the [original text](/texts/satyanarayan-vrat-katha-sanskrit/)) or in their own language. The host couple hold a flower or rice and at the end of each adhyaya drop it at the deity's feet and say \"Satyanarayan Bhagavan ki jai\". This is the katha's own rule — \"having heard the katha together with the people\" (1.22).",
+        "bho": "कथा-श्रवन: सभे बइठ के [सत्यनारायण बरत कथा](/kathas/satyanarayan-katha/) के पाँच अध्याय सुनेला — संस्कृत श्लोक से ([मूल पाठ](/texts/satyanarayan-vrat-katha-sanskrit/)) भा आपन भाषा में। जजमान जोड़ी हाथ में फूल/अछत लिहले रहेला आ हर अध्याय के अंत में ओकरा गोड़ में छोड़ के \"सत्यनारायण भगवान के जय\" बोलेला। ई कथा के आपन नियम बा — \"कथां श्रुत्वा जनैः सह\" (1.22)।"
+      },
+      "textRefs": [{ "text": "satyanarayan-vrat-katha-sanskrit", "chapter": [1, 2] }],
+      "samagriIds": ["pothi", "pushp-mala"],
+      "panditSays": {
+        "sa": "अथ श्रीसत्यनारायणव्रतकथा प्रारभ्यते । व्यास उवाच । एकदा नैमिषारण्ये ऋषयः शौनकादयः । पप्रच्छुर्मुनयः सर्वे सूतं पौराणिकं खलु ॥",
+        "hi": "अब कथा। हाथ में फूल रखिए; हर अध्याय के बाद मैं रुकूँगा, तब फूल चढ़ाकर सब बोलें — \"सत्यनारायण भगवान की जय\"।",
+        "en": "Now the katha. Keep a flower in your hand; I will pause after each adhyaya — then offer the flower and everyone says \"Satyanarayan Bhagavan ki jai\".",
+        "bho": "अब कथा। हाथ में फूल राखीं; हर अध्याय के बाद हम रुकब, तब फूल चढ़ा के सभे बोलसु — \"सत्यनारायण भगवान के जय\"।"
+      },
+      "note": {
+        "hi": "पाँच अध्यायों में 45–60 मिनट लगते हैं; संस्कृत श्लोकों के साथ अर्थ भी पढ़ने पर अधिक। हिंदी पट्टी की पोथियों में एक सात-अध्याय वाला पाठ भी मिलता है — वही कथा, अलग बाँट। कथा का हिंदी/भोजपुरी पाठ उन घरों के लिए है जहाँ पंडित नहीं हैं: कथा का दूसरा अध्याय स्वयं कहता है कि लकड़हारे ने अपना व्रत स्वयं किया।",
+        "en": "The five adhyayas take 45–60 minutes; longer if the meanings are read with the Sanskrit verses. Hindi-belt pothis also carry a seven-adhyaya recension — the same story, divided differently. The Hindi/Bhojpuri retelling is for homes without a pandit: the second adhyaya itself tells how the woodcutter performed his own vrat.",
+        "bho": "पाँच अध्याय में 45–60 मिनट लागेला; संस्कृत श्लोक संगे अरथ भी पढ़ला पर बेसी। हिंदी पट्टी के पोथी में एगो सात-अध्याय वाला पाठ भी मिलेला — उहे कथा, अलगा बाँट। कथा के हिंदी/भोजपुरी पाठ ओह घर खातिर बा जहाँ पंडित नइखन: कथा के दुसरा अध्याय खुदे कहेला कि लकड़हारा आपन बरत खुदे कइल।"
+      }
+    },
+    {
+      "n": 16, "part": "uttarang", "layer": "paddhati", "minutes": 6,
+      "action": {
+        "hi": "[[aarti]]: थाली में घी का चार बत्तियों वाला दीपक और कपूर जलाकर, घंटी बजाते हुए, मूर्ति के सामने घड़ी की दिशा में आरती उतारें — पहले चरणों पर, फिर नाभि, मुख, फिर पूरे रूप पर। पोथी का आरती-श्लोक और कर्पूरगौरं [आरती-पुष्पांजलि-विसर्जन](/occasions/aarti-pushpanjali-visarjan/) पृष्ठ पर हैं; हिंदी पट्टी में इसी समय \"जय लक्ष्मीरमणा\" आरती गाई जाती है। आरती के बाद थाली सबके सामने ले जाएँ — लोग हाथ फेरकर आँखों से लगाते हैं।",
+        "en": "Aarti: with a four-wick ghee lamp and camphor lit on a plate, ringing the bell, wave the aarti clockwise before the image — at the feet first, then the navel, the face, then the whole form. The pothi's aarti verse and karpura-gauram are on the [aarti, pushpanjali and visarjana](/occasions/aarti-pushpanjali-visarjan/) page; in the Hindi belt the song \"Jai Lakshmi-ramana\" is sung at this point. After the aarti carry the plate to everyone present — people pass their hands over the flame and touch their eyes.",
+        "bho": "[[aarti]]: थरिया में घीव के चार बत्ती वाला दीया आ कपूर जरा के, घंटी बजावत, मूरति के सामने घड़ी के दिसा में आरती उतारीं — पहिले गोड़ पर, फेर नाभि, मुँह, फेर पूरा रूप पर। पोथी के आरती-श्लोक आ कर्पूरगौरं [आरती-पुष्पांजलि-विसर्जन](/occasions/aarti-pushpanjali-visarjan/) पन्ना पर बा; हिंदी पट्टी में एही बेरा \"जय लक्ष्मीरमणा\" आरती गावल जाला। आरती के बाद थरिया सबके सामने ले जाईं — लोग हाथ फेर के आँख से लगावेला।"
+      },
+      "samagriIds": ["dhoop-deep", "jal-patra"],
+      "panditSays": {
+        "sa": "ॐ श्रीसत्यनारायणाय नमः । कर्पूरनीराजनं समर्पयामि ।",
+        "hi": "सब खड़े हो जाइए। घंटी बजाते रहिए — आरती शुरू।",
+        "en": "Everyone please stand. Keep the bell ringing — the aarti begins.",
+        "bho": "सभे ठाड़ हो जाईं। घंटी बजावत रहीं — आरती सुरू।"
+      },
+      "note": {
+        "hi": "\"जय लक्ष्मीरमणा\" हिंदी की आधुनिक आरती है, पोथी का अंग नहीं — लोकाचार; उसका पाठ आरती-संग्रह में आएगा।",
+        "en": "\"Jai Lakshmi-ramana\" is a modern Hindi aarti song, not part of the pothi — local custom; its text will appear in the aarti collection.",
+        "bho": "\"जय लक्ष्मीरमणा\" हिंदी के आधुनिक आरती बा, पोथी के अंग ना — लोकाचार; ओकर पाठ आरती-संग्रह में आई।"
+      }
+    },
+    {
+      "n": 17, "part": "uttarang", "layer": "vedic", "minutes": 4,
+      "action": {
+        "hi": "[[mantra-pushpanjali]], [[pradakshina]] और प्रार्थना: सब हाथ में फूल-अक्षत लें; यज्ञेन यज्ञमयजंत पढ़कर फूल चरणों में छोड़ें; अपनी जगह पर तीन बार घूमकर प्रदक्षिणा (यानि कानि च पापानि — मंत्र [आरती-पुष्पांजलि](/occasions/aarti-pushpanjali-visarjan/) पृष्ठ पर); फिर हाथ जोड़कर सत्यनारायण की प्रार्थना — सत्यनारायणं देवं वंदेऽहं — और साष्टांग या झुककर नमस्कार।",
+        "en": "Mantra-pushpanjali, pradakshina and prayer: everyone takes flowers and rice; yajñena yajñam ayajanta is recited and the flowers are dropped at the deity's feet; turn three times where you stand for the pradakshina (yāni kāni ca pāpāni — mantra on the [aarti and pushpanjali](/occasions/aarti-pushpanjali-visarjan/) page); then, with folded hands, the Satyanarayan prayer — satyanārāyaṇaṁ devaṁ vande'ham — and a full or bowed prostration.",
+        "bho": "[[mantra-pushpanjali]], [[pradakshina]] आ प्रार्थना: सभे हाथ में फूल-अछत लेसु; यज्ञेन यज्ञमयजन्त पढ़ के फूल गोड़ में छोड़ीं; आपन जगह पर तीन बेर घूम के प्रदक्षिणा (यानि कानि च पापानि — मंत्र [आरती-पुष्पांजलि](/occasions/aarti-pushpanjali-visarjan/) पन्ना पर); फेर हाथ जोड़ के सत्यनारायण के प्रार्थना — सत्यनारायणं देवं वंदेऽहं — आ साष्टांग भा झुक के नमस्कार।"
+      },
+      "mantraIds": ["vs-31-16", "pad-satyanarayanam-devam-vande"],
+      "samagriIds": ["pushp-mala", "roli-haldi-akshat"],
+      "panditSays": {
+        "sa": "ॐ श्रीसत्यनारायणाय नमः । मन्त्रपुष्पाञ्जलिं समर्पयामि । प्रदक्षिणां समर्पयामि । सत्यनारायणं देवं वन्देऽहं कामदं प्रभुम् । लीलया विततं विश्वं येन तस्मै नमो नमः ॥ नमस्कारान् समर्पयामि ।",
+        "hi": "फूल हाथ में — मंत्र के बाद चरणों में छोड़िए। अब अपनी जगह तीन बार घूमिए। हाथ जोड़िए — प्रार्थना मैं बोलूँगा, आप मन में दोहराइए। फिर प्रणाम।",
+        "en": "Flowers in hand — after the mantra, at his feet. Now turn three times where you stand. Fold your hands — I will say the prayer, repeat it in your mind. Then bow.",
+        "bho": "फूल हाथ में — मंत्र के बाद गोड़ में छोड़ीं। अब आपन जगह तीन बेर घूमीं। हाथ जोड़ीं — प्रार्थना हम बोलब, रउआ मन में दोहराईं। फेर परनाम।"
+      },
+      "note": {
+        "hi": "पोथी की प्रार्थना सात श्लोकों की है — नारायण के सामान्य स्तुति-श्लोक (यन्मया भक्तियुक्तेन…, मंत्रहीनं क्रियाहीनं…) और अंत में सत्यनारायण का अपना श्लोक; सामान्य श्लोक क्षमा-प्रार्थना पृष्ठ पर हैं।",
+        "en": "The pothi's prayer runs to seven verses — general verses to Narayana (yan mayā bhaktiyuktena…, mantrahīnaṁ kriyāhīnaṁ…) and at the end Satyanarayan's own verse; the general verses live on the kshama-prarthana page.",
+        "bho": "पोथी के प्रार्थना सात श्लोक के बा — नारायण के आम स्तुति-श्लोक (यन्मया भक्तियुक्तेन…, मंत्रहीनं क्रियाहीनं…) आ अंत में सत्यनारायण के आपन श्लोक; आम श्लोक क्षमा-प्रार्थना पन्ना पर बा।"
+      }
+    },
+    {
+      "n": 18, "part": "uttarang", "layer": "paddhati", "minutes": 2,
+      "action": {
+        "hi": "[[kshama-prarthana]] और [[visarjan]]: आवाहनं न जानामि से क्षमा माँगें और \"अनेन पूजनेन श्रीसत्यनारायणः प्रीयताम्\" कहकर पूजा का फल भगवान को अर्पित करें। विसर्जन (यांतु देवगणाः) प्रायः अगली सुबह होता है — कलश का जल घर में छिड़ककर, नारियल और केले के पत्ते/पौधे किसी स्वच्छ स्थान पर। मंत्र [आरती-पुष्पांजलि-विसर्जन](/occasions/aarti-pushpanjali-visarjan/) पृष्ठ पर।",
+        "en": "Kshama-prarthana and visarjana: ask forgiveness with āvāhanaṁ na jānāmi and dedicate the fruit of the puja with \"anena pūjanena śrī-satyanārāyaṇaḥ prīyatām\". The visarjana (yāntu devagaṇāḥ) is usually done the next morning — the kalash water sprinkled through the house, the coconut and the banana leaves or stems set in a clean place. Mantras on the [aarti, pushpanjali and visarjana](/occasions/aarti-pushpanjali-visarjan/) page.",
+        "bho": "[[kshama-prarthana]] आ [[visarjan]]: आवाहनं न जानामि से क्षमा माँगीं आ \"अनेन पूजनेन श्रीसत्यनारायणः प्रीयताम्\" कह के पूजा के फल भगवान के चढ़ाईं। विसर्जन (यान्तु देवगणाः) बेसी के अगिला भोर होला — कलश के जल घर में छींट के, नरियर आ केरा के पत्ता/थम कवनो साफ जगह पर। मंत्र [आरती-पुष्पांजलि-विसर्जन](/occasions/aarti-pushpanjali-visarjan/) पन्ना पर।"
+      },
+      "samagriIds": ["kalash", "kele-ke-patte"],
+      "panditSays": {
+        "sa": "अनेन यथाशक्ति कृतेन पूजनेन श्रीसत्यनारायणः प्रीयताम् । न मम । ॐ तत्सत् ॥",
+        "hi": "जो भूल-चूक हुई हो उसके लिए क्षमा माँगिए। \"यह पूजा भगवान को प्रिय हो, मेरी नहीं\" — हाथ में जल लेकर छोड़िए। कलश कल सुबह उठेगा।",
+        "en": "Ask forgiveness for whatever was missed. \"May this puja please the Lord — it is not mine\" — take water and let it fall. The kalash is lifted tomorrow morning.",
+        "bho": "जे भूल-चूक भइल होखे ओकरा खातिर क्षमा माँगीं। \"ई पूजा भगवान के प्रिय होखे, हमार ना\" — हाथ में जल लेके छोड़ीं। कलश काल्ह भोरे उठी।"
+      }
+    },
+    {
+      "n": 19, "part": "uttarang", "layer": "paddhati", "minutes": 3,
+      "action": {
+        "hi": "पुरोहित को [[dakshina]] और [[brahman-bhojan]]: कथा के नियम के अनुसार (1.22) कथा सुनकर ब्राह्मण को दक्षिणा दें और बंधुओं के साथ ब्राह्मणों को भोजन कराएँ। आज प्रायः पुरोहित को दक्षिणा के साथ भोजन या सीधा (आटा, दाल, घी, फल) दिया जाता है। दक्षिणा की राशि की बात पहले से साफ हो तो दोनों पक्ष सहज रहते हैं — यह साइट कोई राशि नहीं बताती।",
+        "en": "Dakshina to the purohit and the feeding of Brahmins: as the katha rules (1.22), after hearing the katha give the Brahmin dakshina and feed the Brahmins along with the kinsfolk. Today the purohit is usually given dakshina with a meal or uncooked provisions (sidha — flour, dal, ghee, fruit). Agreeing the dakshina beforehand keeps both sides at ease — this site names no amount.",
+        "bho": "पुरोहित के [[dakshina]] आ [[brahman-bhojan]]: कथा के नियम के मोताबिक (1.22) कथा सुन के ब्राह्मण के दक्षिणा दीं आ हित-नाता संगे ब्राह्मण के भोजन कराईं। आजु बेसी के पुरोहित के दक्षिणा संगे भोजन भा सीधा (आटा, दाल, घीव, फल) दिहल जाला। दक्षिणा के रकम के बात पहिले से साफ रहे त दुनो पक्ष सहज रहेला — ई साइट कवनो रकम ना बतावे।"
+      },
+      "samagriIds": ["dakshina-dravya"],
+      "panditSays": {
+        "hi": "कथा का फल कथा सुनाने वाले और सुनने वालों — दोनों का है। दक्षिणा श्रद्धा से, सामर्थ्य से — यही पोथी कहती है।",
+        "en": "The fruit of the katha belongs to the reader and to the listeners alike. Dakshina with faith, as one can — that is what the pothi says.",
+        "bho": "कथा के फल कथा कहे वाला आ सुने वाला — दुनो के बा। दक्षिणा श्रद्धा से, औकात से — इहे पोथी कहेले।"
+      }
+    },
+    {
+      "n": 20, "part": "uttarang", "layer": "lok", "minutes": 10,
+      "action": {
+        "hi": "[[charanamrit]] और [[prasad]]: पहले चरणामृत (स्नान का जल + पंचामृत + तुलसी) सबकी हथेली में; फिर पंजीरी, केला और फल सबको — पहले पुरोहित, फिर यजमान दंपति, फिर उपस्थित सब। परंपरा में कोई प्रसाद लिए बिना नहीं जाता, और जो न आ सके उसके लिए प्रसाद अलग रखा जाता है। कथा का नियम: \"प्रसाद भक्ति से खाए, नृत्य-गीत करे, और सत्यनारायण का स्मरण करते हुए घर जाए\" (1.23)।",
+        "en": "Charanamrit and prasad: first the charanamrit (the bath water with panchamrit and tulsi) into everyone's palm; then panjiri, banana and fruit to all — the purohit first, then the host couple, then everyone present. By custom nobody leaves without prasad, and a share is kept for those who could not come. The katha's rule: \"eat the prasad with devotion, sing and dance, and go home remembering Satyanarayan\" (1.23).",
+        "bho": "[[charanamrit]] आ [[prasad]]: पहिले चरणामृत (नहान के जल + पंचामृत + तुलसी) सबके हथेली में; फेर पंजीरी, केरा आ फल सबके — पहिले पुरोहित, फेर जजमान जोड़ी, फेर मौजूद सभे। परंपरा में केहू परसाद लिहले बिना ना जाला, आ जे ना आ सके ओकरा खातिर परसाद अलगा राखल जाला। कथा के नियम: \"परसाद भक्ति से खाए, नाच-गान करे, आ सत्यनारायण के सुमिरन करत घर जाए\" (1.23)।"
+      },
+      "textRefs": [{ "text": "satyanarayan-vrat-katha-sanskrit", "chapter": 1, "note": { "hi": "श्लोक 22–23: दक्षिणा, भोजन, प्रसाद, नृत्य-गीत, स्मरण", "en": "Verses 22–23: dakshina, meal, prasad, song and dance, remembrance", "bho": "श्लोक 22–23: दक्षिणा, भोजन, परसाद, नाच-गान, सुमिरन" } }],
+      "samagriIds": ["gehu-atta", "kela", "phal", "doodh-dahi", "tulsi-dal"],
+      "panditSays": {
+        "hi": "दाहिनी हथेली आगे — चरणामृत। अब प्रसाद — सबको मिले, कोई छूटे नहीं। पंजीरी घर में बाँटिए, पड़ोस में भेजिए।",
+        "en": "Right palm forward — the charanamrit. Now the prasad — everyone must receive it, nobody left out. Share the panjiri at home and send it to the neighbours.",
+        "bho": "दाहिना हथेली आगे — चरणामृत। अब परसाद — सबके मिले, केहू छूटे ना। पंजीरी घर में बाँटीं, पड़ोस में पठाईं।"
+      }
+    },
+    {
+      "n": 21, "part": "uttarang", "layer": "lok", "minutes": 5,
+      "action": {
+        "hi": "समापन: दीपक रात भर जलने दें (संभव हो तो); यजमान दंपति प्रसाद पाकर व्रत खोलें — दिन का उपवास रखा हो तो यहीं पारण है। अगली सुबह कलश के जल को घर में और तुलसी में छिड़कें, नारियल प्रसाद में फोड़ें, केले के पत्ते और फूल जल या पेड़ के नीचे रखें; मूर्ति/ठाकुर जी अपने स्थान पर। जिस कामना या धन्यवाद के लिए कथा हुई, परंपरा में उसे अगली पूर्णिमा पर फिर कथा से जोड़ा जाता है (कथा 2.12 का \"मासि मासि\")।",
+        "en": "Closing: let the lamp burn through the night if possible; the host couple take prasad and break the fast — if a day's fast was kept, this is the parana. Next morning sprinkle the kalash water through the house and on the tulsi, break the coconut for prasad, place the banana leaves and flowers in water or under a tree; the murti or Thakur ji returns to its place. The wish or thanksgiving for which the katha was held is, by tradition, carried to another katha on the next purnima (the \"month after month\" of katha 2.12).",
+        "bho": "समापन: दीया रात भर जरे दीं (हो सके त); जजमान जोड़ी परसाद पा के बरत खोलसु — दिन के उपवास रहे त एहिजे पारन बा। अगिला भोर कलश के जल घर में आ तुलसी में छींटीं, नरियर परसाद में फोड़ीं, केरा के पत्ता आ फूल जल भा गाछ के नीचे राखीं; मूरति/ठाकुर जी आपन जगह पर। जवना कामना भा धन्यवाद खातिर कथा भइल, परंपरा में ओकरा अगिला पुर्नवासी पर फेर कथा से जोड़ल जाला (कथा 2.12 के \"मासि मासि\")।"
+      },
+      "samagriIds": ["kalash", "kele-ke-patte", "murti"],
+      "panditSays": {
+        "hi": "कथा पूरी हुई। कलश कल सुबह उठाइए और उसका जल पूरे घर में छिड़किए। सब बोलिए — सत्यनारायण भगवान की जय।",
+        "en": "The katha is complete. Lift the kalash tomorrow morning and sprinkle the water through the house. Satyanarayan Bhagavan ki jai.",
+        "bho": "कथा पूरा भइल। कलश काल्ह भोरे उठाईं, जल घर में छींटीं। सत्यनारायण भगवान के जय।"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "region": "maharashtra-konkan",
+      "what": {
+        "hi": "महाराष्ट्र-कोंकण की पद्धति में सत्यनारायण का षोडशोपचार पुरुषसूक्त के साथ होता है — हर उपचार पर पुरुषसूक्त की एक ऋचा और उसके बाद उपचार-श्लोक; भगवान को पूर्णपात्र (भरे कलश) पर स्थापित किया जाता है; पंचामृत के पाँचों द्रव्यों से अलग-अलग स्नान; महा-अभिषेक; देवी के लिए हल्दी-कुंकुम-काजल-सिंदूर-कंठसूत्र-कंकण; नैवेद्य में सूजी का शीरा (\"संजावक\") और सहस्र तुलसी-दल। आसन-पाद्य-अर्घ्य-आचमन के श्लोक भी हिंदी-पट्टी पोथी से भिन्न हैं।",
+        "en": "In the Maharashtra-Konkan form the shodashopachara of Satyanarayan is woven into the Purusha Sukta — at each upachara one verse of the sukta, then the upachara verse; the Lord is installed on a purna-patra (filled pot); a separate bath with each of the five panchamrit substances; a maha-abhisheka; turmeric, kunkum, kajal, sindoor, a neck-cord and bangles for the Devi; a semolina sheera (\"sanjavak\") and a thousand tulsi leaves in the naivedya. The asana, padya, arghya and achamana verses also differ from the Hindi-belt pothi.",
+        "bho": "महाराष्ट्र-कोंकण के पद्धति में सत्यनारायण के षोडशोपचार पुरुषसूक्त संगे होला — हर उपचार पर पुरुषसूक्त के एगो ऋचा आ ओकरा बाद उपचार-श्लोक; भगवान के पूर्णपात्र (भरल कलश) पर थापित कइल जाला; पंचामृत के पाँचो द्रव्य से अलगा-अलगा नहान; महा-अभिषेक; देवी खातिर हरदी-कुंकुम-काजर-सेनुर-कंठसूत्र-कंगन; नैवेद्य में सूजी के शीरा (\"संजावक\") आ सहस्र तुलसी-पत्ता। आसन-पाद्य-अरघ-आचमन के श्लोक भी हिंदी-पट्टी पोथी से अलगा बा।"
+      },
+      "source": "sd-satyanarayan-puja-vidhi"
+    },
+    {
+      "region": "bhojpuri-madwa",
+      "what": {
+        "hi": "भोजपुरी क्षेत्र में विवाह के पूर्वांग में मड़वा (मंडप) के नीचे कलश-स्थापना के साथ सत्यनारायण कथा एक स्थायी अंग है — विवाह के पहले दिनों में घर पर यही कथा होती है; उसी तरह गृह-प्रवेश और मुंडन के साथ भी। विधि यही है, केवल संकल्प में अवसर (विवाह, गृह-प्रवेश) जोड़ा जाता है।",
+        "en": "In the Bhojpuri region the Satyanarayan katha is a fixed part of the wedding's purvanga — held at home under the madwa (mandap) with the kalash sthapana in the days before the wedding; likewise with a griha pravesh or a mundan. The procedure is the same; only the occasion (wedding, house-entry) is added to the sankalpa.",
+        "bho": "भोजपुरी इलाका में बियाह के पूर्वांग में मड़वा के नीचे कलश-थापना संगे सत्यनारायण कथा एगो नियमित अंग बा — बियाह से पहिले के दिन में घर पर इहे कथा होला; ओही तरे गृह-प्रवेश आ मुंडन संगे भी। विधि इहे बा, खाली संकल्प में अवसर (बियाह, गृह-प्रवेश) जोड़ल जाला।"
+      },
+      "source": "research-r1"
+    },
+    {
+      "region": "pothi-bhed",
+      "what": {
+        "hi": "हिंदी पट्टी की कुछ पोथियों में कथा सात अध्यायों में बँटी है (वही कथा, अलग विभाजन); कुछ में प्रार्थना के सात श्लोकों के स्थान पर केवल सत्यनारायण का अंतिम श्लोक; कुछ पंडित ध्यान के बाद अलग आवाहन-श्लोक नहीं पढ़ते, सीधे अर्घ्य देते हैं — यही इस पृष्ठ का आधार-पाठ भी करता है।",
+        "en": "Some Hindi-belt pothis divide the katha into seven adhyayas (the same story, divided differently); some keep only Satyanarayan's final verse instead of the seven prayer verses; some pandits recite no separate invocation verse after the dhyana and go straight to the arghya — as the base text of this page itself does.",
+        "bho": "हिंदी पट्टी के कुछ पोथी में कथा सात अध्याय में बँटल बा (उहे कथा, अलगा बाँट); कुछ में प्रार्थना के सात श्लोक के जगह खाली सत्यनारायण के अंतिम श्लोक; कुछ पंडित ध्यान के बाद अलगा आवाहन-श्लोक ना पढ़सु, सीधे अरघ देसु — इहे एह पन्ना के आधार-पाठ भी करेला।"
+      },
+      "source": "ia-satyanarayan-jangamwadi"
+    }
+  ],
+  "faq": [
+    {
+      "q": { "hi": "सत्यनारायण कथा किस दिन करें — पूर्णिमा ही ज़रूरी है?", "en": "On which day should the katha be held — must it be the purnima?", "bho": "सत्यनारायण कथा कवना दिन करीं — पुर्नवासी ही जरूरी बा?" },
+      "a": {
+        "hi": "नहीं। कथा का अपना वचन है — \"जिस किसी भी दिन\" (1.18), संध्या के समय। पूर्णिमा परंपरा की पसंद है, नियम नहीं; एकादशी, संक्रांति, गुरुवार, और विवाह, गृह-प्रवेश या मनोकामना-पूर्ति के बाद का कोई भी दिन चलता है। तिथि के लिए [शुभवेला](https://sudish007.github.io/shubhvela/hi/vrat/satyanarayan/) देखें।",
+        "en": "No. The katha's own words are \"on whatever day\" (1.18), at dusk. The purnima is the tradition's preference, not a rule; an ekadashi, a sankranti, a Thursday, and any day after a wedding, a griha pravesh or the fulfilment of a wish will do. For the date see [Shubhvela](https://sudish007.github.io/shubhvela/en/vrat/satyanarayan/).",
+        "bho": "ना। कथा के आपन बचन बा — \"जवना कवनो दिन\" (1.18), साँझ के बेरा। पुर्नवासी परंपरा के पसंद बा, नियम ना; एकादशी, संक्रांति, बियफे, आ बियाह, गृह-प्रवेश भा मनोकामना पूरा भइला के बाद के कवनो दिन चलेला। तिथि खातिर [शुभवेला](https://sudish007.github.io/shubhvela/bho/vrat/satyanarayan/) देखीं।"
+      }
+    },
+    {
+      "q": { "hi": "\"सवा\" का क्या अर्थ है — सवा किलो ही चाहिए?", "en": "What does \"sava\" mean — must it be a kilo and a quarter?", "bho": "\"सवा\" के का मतलब — सवा किलो ही चाहीं?" },
+      "a": {
+        "hi": "सवा = सपाद = एक और चौथाई — कथा में नैवेद्य की मात्रा के लिए कहा गया है (1.20–21), इकाई नहीं बताई गई। सवा पाव, सवा सेर, सवा किलो — घर की सामर्थ्य के अनुसार; लकड़हारे ने एक दिन की कमाई से व्रत किया था (2.24–26)। \"सवा\" केवल नैवेद्य के लिए है; बाकी सामग्री भी सवा-सवा रखना लोकाचार है।",
+        "en": "Sava = sapada = one and a quarter — the katha prescribes it for the measure of the naivedya (1.20–21) without naming a unit. Sava pao, sava ser, sava kilo — according to the household's means; the woodcutter kept the vrat on one day's earnings (2.24–26). \"Sava\" applies only to the naivedya; keeping the other materials in sava measures too is local custom.",
+        "bho": "सवा = सपाद = एक आ चौथाई — कथा में नैवेद्य के माप खातिर कहल गइल बा (1.20–21), इकाई नइखे बतावल। सवा पाव, सवा सेर, सवा किलो — घर के औकात के मोताबिक; लकड़हारा एक दिन के कमाई से बरत कइले रहे (2.24–26)। \"सवा\" खाली नैवेद्य खातिर बा; बाकी सामग्री भी सवा-सवा राखल लोकाचार बा।"
+      }
+    },
+    {
+      "q": { "hi": "पंडित न मिले तो क्या कथा हो सकती है?", "en": "Can the katha be held if no pandit is available?", "bho": "पंडित ना मिलसु त कथा हो सकेला?" },
+      "a": {
+        "hi": "हाँ। कथा का नियम \"ब्राह्मणों और बंधुओं के साथ\" कहता है (1.19), पर दूसरे अध्याय में लकड़हारा अपना व्रत स्वयं करता है। घर का कोई सदस्य इस पृष्ठ के क्रम से पूजा कर सकता है और [कथा](/kathas/satyanarayan-katha/) हिंदी/भोजपुरी में पढ़ सकता है; संस्कृत श्लोक [मूल पाठ](/texts/satyanarayan-vrat-katha-sanskrit/) में अर्थ के साथ हैं। जहाँ पंडित मिल सकें, परंपरा उन्हें ही कथा-वाचक मानती है।",
+        "en": "Yes. The katha's rule says \"with Brahmins and kinsfolk\" (1.19), but in the second adhyaya the woodcutter performs his own vrat. A family member can follow this page's sequence and read the [katha](/kathas/satyanarayan-katha/) in Hindi or Bhojpuri; the Sanskrit verses are in the [original text](/texts/satyanarayan-vrat-katha-sanskrit/) with meanings. Where a pandit can be had, tradition prefers him as the reader.",
+        "bho": "हँ। कथा के नियम \"ब्राह्मण आ हित-नाता संगे\" कहेला (1.19), बाकिर दुसरा अध्याय में लकड़हारा आपन बरत खुदे करेला। घर के कवनो सदस्य एह पन्ना के क्रम से पूजा कर सकेला आ [कथा](/kathas/satyanarayan-katha/) हिंदी/भोजपुरी में पढ़ सकेला; संस्कृत श्लोक [मूल पाठ](/texts/satyanarayan-vrat-katha-sanskrit/) में अरथ संगे बा। जहाँ पंडित मिल सकसु, परंपरा उनका के ही कथा-वाचक मानेले।"
+      }
+    },
+    {
+      "q": { "hi": "पूरी पूजा और कथा में कितना समय लगता है?", "en": "How long do the puja and the katha take altogether?", "bho": "पूरा पूजा आ कथा में केतना समय लागेला?" },
+      "a": {
+        "hi": "तैयारी छोड़कर लगभग डेढ़ से दो घंटे: पूर्व-पूजन 25–30 मिनट, सत्यनारायण का षोडशोपचार 25–30 मिनट, पाँच अध्याय 45–60 मिनट, आरती-प्रसाद 20 मिनट। सूर्यास्त के आसपास शुरू करें तो रात के भोजन से पहले पूरी हो जाती है।",
+        "en": "About an hour and a half to two hours, not counting the preparation: the preliminary pujas 25–30 minutes, Satyanarayan's shodashopachara 25–30, the five adhyayas 45–60, aarti and prasad 20. Begun around sunset, it ends before the evening meal.",
+        "bho": "तइयारी छोड़ के लगभग डेढ़ से दू घंटा: पहिले के पूजन 25–30 मिनट, सत्यनारायण के षोडशोपचार 25–30 मिनट, पाँच अध्याय 45–60 मिनट, आरती-परसाद 20 मिनट। सुरुज डूबे के आसपास सुरू करीं त रात के खाना से पहिले पूरा हो जाला।"
+      }
+    },
+    {
+      "q": { "hi": "क्या पंचामृत और पंजीरी कथा में कहे गए हैं?", "en": "Are the panchamrit and the panjiri prescribed in the katha?", "bho": "का पंचामृत आ पंजीरी कथा में कहल गइल बा?" },
+      "a": {
+        "hi": "पंजीरी — हाँ, नाम से नहीं पर वस्तु से: केला, घी, दूध, गेहूँ का आटा, शक्कर/गुड़ सवा मात्रा में मिलाकर (1.20–21) — यही हिंदी पट्टी की पंजीरी है। पंचामृत — नहीं; वह सामान्य षोडशोपचार के स्नान का अंग है, जिसे पोथी-परंपरा ने इस पूजा में जोड़ा। दोनों रखना ठीक है; अंतर जानना पंडित बनने वाले के लिए ज़रूरी है।",
+        "en": "The panjiri — yes, by its ingredients if not its name: banana, ghee, milk, wheat flour and sugar or jaggery mixed in the sapada measure (1.20–21) — that is the Hindi-belt panjiri. The panchamrit — no; it belongs to the bath of the general shodashopachara, which the handbook tradition added to this puja. Keeping both is fine; knowing the difference matters to a learner.",
+        "bho": "पंजीरी — हँ, नाँव से ना बाकिर चीज से: केरा, घीव, दूध, गोहूँ के आटा, चीनी/गुड़ सवा माप में मिला के (1.20–21) — इहे हिंदी पट्टी के पंजीरी बा। पंचामृत — ना; ऊ आम षोडशोपचार के नहान के अंग बा, जेकरा पोथी-परंपरा एह पूजा में जोड़लस। दुनो राखल ठीक बा; फरक जानल पंडित बने वाला खातिर जरूरी बा।"
+      }
+    },
+    {
+      "q": { "hi": "कथा किस फल के लिए की जाती है?", "en": "What is the katha held for?", "bho": "कथा कवना फल खातिर कइल जाला?" },
+      "a": {
+        "hi": "कथा अपने शब्दों में कहती है कि यह व्रत दुख-शोक का शमन, धन-धान्य, सौभाग्य-संतान और विजय देता है (1.17–18) — यह ग्रंथ की फलश्रुति है, जिसे साइट ग्रंथ के कथन के रूप में दिखाती है। परंपरा में माना जाता है कि श्रद्धा से की गई कथा मनोकामना पूरी करती है; व्यवहार में परिवार इसे धन्यवाद के रूप में — विवाह, नया घर, संतान, परीक्षा या रोग से उभरने के बाद — भी करते हैं। यह साइट किसी परिणाम का दावा नहीं करती।",
+        "en": "In its own words the katha says the vrat quiets sorrow and grief and brings wealth, good fortune, progeny and victory (1.17–18) — this is the text's phalashruti, which the site shows as the text's own statement. Tradition holds that a katha performed with faith fulfils one's wishes; in practice families also hold it in thanksgiving — after a wedding, a new house, a birth, an examination or a recovery. This site makes no claim of any outcome.",
+        "bho": "कथा आपन शब्द में कहेले कि ई बरत दुख-सोक के समन, धन-धान्य, सौभाग्य-संतान आ बिजय देला (1.17–18) — ई ग्रंथ के फलश्रुति बा, जेकरा साइट ग्रंथ के कथन के रूप में देखावेले। परंपरा में मानल जाला कि श्रद्धा से कइल कथा मनोकामना पूरा करेले; व्यवहार में परिवार एकरा धन्यवाद के रूप में — बियाह, नयका घर, संतान, परीक्षा भा रोग से उबरला के बाद — भी करेला। ई साइट कवनो नतीजा के दावा ना करे।"
+      }
+    }
+  ],
+  "sources": [
+    "ws-skanda-reva-233",
+    "ws-skanda-reva-234",
+    "sd-satyanarayan-katha",
+    "ia-satyanarayan-jangamwadi",
+    "sd-satyanarayan-puja-vidhi",
+    "research-r1",
+    "research-decisions"
+  ],
+  "kathaId": "satyanarayan-katha",
+  "textIds": ["satyanarayan-vrat-katha-sanskrit"],
+  "tags": ["satyanarayan", "katha", "purnima", "vrat", "s05"],
+  "review": { "hi": "draft", "bho": "draft" }
+}

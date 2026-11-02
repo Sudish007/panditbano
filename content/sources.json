@@ -2399,6 +2399,21 @@
       "note": "Shaunaka Atharvaveda 14.2 (the second wedding hymn); verse 28 is the parallel of RV 10.85.33 = PGS 1.8.9 (सुमङ्गलीरियं वधूः) with the variant दौर्भाग्यैर्विपरेतन — used only as the second source; no text copied as a main record.",
       "wikisourceLang": "sa",
       "locator": "AV 14.2.28"
+    },
+    {
+      "id": "sd-satyanarayan-puja-vidhi",
+      "project": "sanskritdocuments",
+      "title": "shrI satyanArAyaNa pUjA vidhi (sites/puja/satya_baskegar_unic)",
+      "url": "https://sanskritdocuments.org/sites/puja/satya_baskegar_unic.html",
+      "retrieved": "2026-11-01",
+      "licence": "sanskritdocuments.org terms: personal study; reproduced here under the owner decision of brief section 14 with locator and attribution",
+      "kind": "copy",
+      "secondSourceAvailable": false,
+      "titles": [
+        "श्री सत्यनारायण पूजा विधि (sanskritdocuments)",
+        "Satyanarayana puja vidhi (sanskritdocuments)"
+      ],
+      "note": "Unicode Devanagari Satyanarayana shodashopachara puja with English commentary, contributed by Ashok Basargekar (Maharashtra/Konkan family form built on the Purusha Sukta). Copy source for the Satyanarayan dhyana (ध्यायेत् सत्यं गुणातीतं …), the avahana (आगच्छ देव देवेश …) and the prayer सत्यनारायणं देवं वन्देऽहं …; writes word-final nasals as म् and uses ASCII . and || for the dandas (normalised, recorded in source.modified). The PD Jangamwadi pothi scan (ia-satyanarayan-jangamwadi, OCR only) confirms the dhyana, the upachara verses and the prayer in the Hindi-belt order but has no separate avahana verse — a scan, not a digital text, hence secondSourceAvailable false."
     }
   ]
 }
