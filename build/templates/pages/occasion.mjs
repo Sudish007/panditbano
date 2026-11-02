@@ -116,11 +116,11 @@ export function rolesCard(env) {
 
 /** The PGS I.8.11–13 .sutra block — once per page (decisions.md §1 point 3): the corpus record when present, else the fallback. */
 export function sutraBlock(env) {
-  const { lang, mantraById, sources } = env;
+  const { lang, mantraById, sources, mdCtx } = env;
   const rec = mantraById.get(PGS_SUTRA_ID);
   if (rec) {
     const entry = rec.source && sources ? sources.get(rec.source.ref) : null;
-    return html`<blockquote class="sutra" data-sutra="${PGS_SUTRA_ID}">${verseBlock(rec, lang, { tools: false, showKind: false, id: "sutra-pgs" })}${rec.meaning && rec.meaning[lang] ? html`<p class="m0">${rec.meaning[lang]}</p>` : ""}<cite>${entry ? sourceLink(entry, lang) : ""}${rec.locator ? html` ${rec.locator}` : ""}</cite></blockquote>`;
+    return html`<blockquote class="sutra" data-sutra="${PGS_SUTRA_ID}">${verseBlock(rec, lang, { tools: false, showKind: false, id: "sutra-pgs" })}${rec.meaning && rec.meaning[lang] ? html`<p class="m0">${inlineProse(rec.meaning[lang], mdCtx)}</p>` : ""}<cite>${entry ? sourceLink(entry, lang) : ""}${rec.locator ? html` ${rec.locator}` : ""}</cite></blockquote>`;
   }
   const f = PGS_SUTRA_FALLBACK;
   const entry = sources && sources.get(f.sourceRef);

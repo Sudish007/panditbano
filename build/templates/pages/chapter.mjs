@@ -11,7 +11,7 @@ import { html, raw, t, icon, num } from "../lib.mjs";
 import { layout } from "../layout.mjs";
 import { verseBlock, padaCard, sourceLine, sourcesSection, sourceLink, svaraLegend, kindChip, kindLabel, mdContext, inlineProse } from "../components/verse.mjs";
 import { readingSettings } from "../components/reading-settings.mjs";
-import { textHref, chapterHref, textsCrumbs, langLabel, usedInCard, clip } from "./texts-index.mjs";
+import { textHref, chapterHref, textsCrumbs, langLabel, usedInCard, clip, excerpt } from "./texts-index.mjs";
 
 /** Verse kind label: the record's verseKind, else "mantra" for Vedic Sanskrit texts and "shloka" otherwise. */
 export function verseKindLabel(v, text, lang) {
@@ -154,7 +154,8 @@ export function chapterPage(ctx, { route, text, chapter, k = 1, data, derived, o
   const parts = chapter.parts.length;
   const title = `${text.title[lang]} · ${chapter.title[lang]}${parts > 1 ? ` · ${t(lang, "chapter.part", { k: num(k), n: num(parts) })}` : ""}`;
   const first = (chapter.parts[k - 1] || [])[0];
-  const description = clip((chapter.intro && chapter.intro[lang]) || (first && first.meaning && first.meaning[lang]) || text.intro[lang]);
+  // excerpt, not clip: a [[term]] mark in the intro / first meaning leaked into the meta description (FIX-1a)
+  const description = excerpt((chapter.intro && chapter.intro[lang]) || (first && first.meaning && first.meaning[lang]) || text.intro[lang], mdContext(ctx, lang, derived));
   return layout(ctx, {
     route,
     title,

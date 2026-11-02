@@ -7,6 +7,7 @@ import { html, t, num } from "../lib.mjs";
 import { layout } from "../layout.mjs";
 import { mdContext, inlineProse } from "../components/verse.mjs";
 import { clip, termHref, displayOf, letterOf, groupTerms, glossaryCrumbs, letterId } from "./glossary-index.mjs";
+import { excerpt } from "./texts-index.mjs";
 
 const LANG_LABEL = { hi: "lang.hi.long", en: "lang.en.long", bho: "lang.bho.long" };
 
@@ -67,7 +68,7 @@ export function termPage(ctx, { route, term, data, derived }) {
   return layout(ctx, {
     route,
     title: displayOf(term, lang),
-    description: clip(term.definition[lang]),
+    description: excerpt(term.definition[lang], mdContext(ctx, lang, derived)), // marks resolved (FIX-1a: 64 term pages leaked [[id]] into the description)
     section: "glossary",
     crumbs: glossaryCrumbs(ctx, lang),
     body: termBody(ctx, { lang, term, data, derived }),

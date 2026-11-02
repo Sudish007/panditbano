@@ -7,13 +7,13 @@ import { layout } from "../layout.mjs";
 import { kindChip, sourcesSection, mdContext, inlineProse } from "../components/verse.mjs";
 import { textHref, chapterHref, textsCrumbs, langLabel, textCounts, usedInCard, clip, excerpt } from "./texts-index.mjs";
 
-export function chapterCard(ctx, lang, text, ch) {
+export function chapterCard(ctx, lang, text, ch, mdCtx = null) {
   const kind = ch.verses && ch.verses[0] && ch.verses[0].verseKind ? t(lang, `verse_kind.${ch.verses[0].verseKind}`) : null;
   const n = ch.verses.length;
   return html`<li><a class="card card-link chapter-card" href="${chapterHref(ctx, lang, text, ch.n)}">
 <span class="chip">${t(lang, "occasion.chapter", { n: num(ch.n) })}</span>
 <h3 class="m0">${ch.title[lang]}</h3>
-${ch.intro && ch.intro[lang] ? html`<p class="m0">${clip(ch.intro[lang], 140)}</p>` : ""}
+${ch.intro && ch.intro[lang] ? html`<p class="m0">${excerpt(ch.intro[lang], mdCtx, 140)}</p>` : ""}
 <span class="meta">${kind ? `${num(n)} ${kind}` : t(lang, "counts.verses", { n: num(n) })}${ch.locator ? ` · ${ch.locator}` : ""}${ch.parts.length > 1 ? ` · ${t(lang, "counts.pages", { n: num(ch.parts.length) })}` : ""}</span>
 <span class="more">${t(lang, "home.more")}</span>
 </a></li>`;
@@ -38,7 +38,7 @@ ${text.author && text.author[lang] ? html`<p class="meta">${text.author[lang]}</
 ${text.attributionCaveat && text.attributionCaveat[lang] ? html`<p class="caveat">${inlineProse(text.attributionCaveat[lang], mdCtx)}</p>` : ""}
 <section id="chapters" aria-labelledby="h-chapters">
 <div class="section-head"><h2 id="h-chapters">${t(lang, "texts.chapters")}</h2><span class="meta">${t(lang, "counts.chapters", { n: num(chapters.length) })}</span></div>
-${chapters.length ? html`<ol class="grid grid-md-2 grid-lg-3" aria-label="${t(lang, "texts.chapters")}">${chapters.map((ch) => chapterCard(ctx, lang, text, ch))}</ol>` : html`<p class="meta m0">${t(lang, "occasions.empty_group")}</p>`}
+${chapters.length ? html`<ol class="grid grid-md-2 grid-lg-3" aria-label="${t(lang, "texts.chapters")}">${chapters.map((ch) => chapterCard(ctx, lang, text, ch, mdCtx))}</ol>` : html`<p class="meta m0">${t(lang, "occasions.empty_group")}</p>`}
 </section>
 ${sourcesSection([text, ...text.allChapters.filter((c) => c.published)], lang, { sources: data.sources })}
 </div>

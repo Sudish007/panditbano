@@ -7,6 +7,7 @@ import { layout } from "../layout.mjs";
 import { verseBlock, padaCard, meaningSection, vinyogCard, variantsSection, sourceLine, sourcesSection, svaraLegend, kindChip, mdContext } from "../components/verse.mjs";
 import { readingSettings } from "../components/reading-settings.mjs";
 import { mantraGroups, groupKey, incipit } from "./mantras-index.mjs";
+import { excerpt } from "./texts-index.mjs";
 
 const clip = (s, n = 160) => { const x = String(s ?? "").replace(/\s+/g, " ").trim(); return x.length <= n ? x : x.slice(0, n - 1).replace(/\s+\S*$/, "") + "…"; };
 
@@ -63,7 +64,7 @@ export function mantraPage(ctx, { route, rec, mantras, derived, occasionsById, s
   return layout(ctx, {
     route,
     title: rec.title?.[lang] || rec.id,
-    description: clip(rec.meaning?.[lang] || t(lang, "mantras.lede")),
+    description: excerpt(rec.meaning?.[lang] || t(lang, "mantras.lede"), mdContext(ctx, lang, derived)),
     section: "texts",
     ogType: "article",
     crumbs: [
