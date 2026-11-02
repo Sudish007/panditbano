@@ -1,0 +1,520 @@
+{
+  "text": "satyanarayan-vrat-katha-sanskrit",
+  "n": 2,
+  "title": {
+    "hi": "द्वितीय अध्याय — काशी का निर्धन ब्राह्मण और लकड़हारा",
+    "en": "Adhyaya 2 — The poor Brahmin of Kashi and the woodcutter",
+    "bho": "दुसरा अध्याय — काशी के गरीब ब्राह्मण आ लकड़हारा"
+  },
+  "intro": {
+    "hi": "दूसरा अध्याय [[vrat]] के पहले करने वालों की कथा है। काशी का एक अत्यंत निर्धन [[brahman]] भूख-प्यास से भटकता है; भगवान वृद्ध ब्राह्मण के रूप में आकर उसे सत्यनारायण व्रत और उसका विधान बताते हैं। अगले ही दिन भिक्षा में प्रचुर धन पाकर वह बंधुओं के साथ व्रत करता है और हर महीने करता रहता है। फिर एक लकड़हारा, प्यास से व्याकुल, उसी ब्राह्मण के घर व्रत होते देखता है, [[prasad]] पाता है और संकल्प करता है कि आज की लकड़ी की कमाई से वही व्रत करेगा; धनी नगर में उसे दुगुना दाम मिलता है और वह केला, शक्कर, घी, दूध और गेहूँ के आटे का सवा मात्रा का [[naivedya]] बनाकर व्रत करता है। अध्याय में व्रत के फल के कथन (श्लोक 6, 13–14) ग्रंथ के अपने वचन हैं। श्लोक 8 में मूल स्रोत की पंक्ति छंद से एक अक्षर छोटी है और दूसरे स्रोत के साथ 'न' जोड़कर पढ़ी गई है (ब्राह्मण को रात में नींद नहीं आई); श्लोक 21 में मूल स्रोत का 'काष्ठविक्रेता' छंद से एक अक्षर लंबा है, इसलिए दूसरे स्रोत का 'काष्ठक्रेता' लिया गया है — दोनों पाठांतर में दर्ज हैं।",
+    "en": "The second adhyaya tells of the first people who kept the vrat. A destitute Brahmin of Kashi wanders hungry and thirsty; the Lord comes as an old Brahmin and teaches him the Satyanarayan vrat and its rule. The very next day he receives abundant alms, performs the vrat with his kinsfolk and keeps it every month. Then a woodcutter, parched with thirst, sees the vrat under way in that Brahmin's house, takes the prasad and resolves to perform the same vrat with the day's earnings from his wood; in a wealthy town he gets double the price, and with banana, sugar, ghee, milk and wheat flour in the sapada measure he performs the vrat. The statements of fruit in this adhyaya (verses 6, 13–14) are the text's own words. In verse 8 the copy source's line is a syllable short of the metre and is read with the second source's 'na' (the Brahmin got no sleep that night); in verse 21 the copy source's kāṣṭhavikretā is a syllable too long, so the second source's kāṣṭhakretā is adopted — both are recorded as variants.",
+    "bho": "दुसरा अध्याय [[vrat]] के पहिले करे वाला लोग के कथा बा। काशी के एगो बहुते गरीब [[brahman]] भूख-पियास से भटकत रहेलन; भगवान बूढ़ ब्राह्मण के रूप में आ के उनका सत्यनारायण बरत आ ओकर विधान बतावेलन। दुसरके दिन भीख में ढेर धन पा के ऊ हित-नाता के साथे बरत करेलन आ हर महीना करत रहेलन। फेर एगो लकड़हारा, पियास से बेहाल, ओही ब्राह्मण के घर बरत होत देखेला, [[prasad]] पावेला आ संकल्प करेला कि आज के लकड़ी के कमाई से ओही बरत करब; धनी नगर में ओकरा दुगुना दाम मिलेला आ ऊ केरा, चीनी, घीव, दूध आ गोहूँ के आटा के सवा माप के [[naivedya]] बना के बरत करेला। एह अध्याय में बरत के फल के कथन (श्लोक 6, 13–14) ग्रंथ के आपन वचन बा। श्लोक 8 में मूल स्रोत के पंक्ति छंद से एक अक्षर छोट बा आ दुसरा स्रोत के साथे 'न' जोड़ के पढ़ल गइल बा (ब्राह्मण के रात में नींद ना आइल); श्लोक 21 में मूल स्रोत के 'काष्ठविक्रेता' छंद से एक अक्षर लमहर बा, एह से दुसरा स्रोत के 'काष्ठक्रेता' लिहल गइल बा — दुनो पाठांतर में दरज बा।"
+  },
+  "locator": "SkP Reva 234",
+  "source": {
+    "ref": "ws-skanda-reva-234",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga normalised to ः; the page's half-verse ॥ normalised to ।; verse numbers, quotation marks and the appended Hindi translation dropped; spacing normalised; typing slips corrected against the second source and listed per verse under source.modified; the page breaks off inside the colophon"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "sd-satyanarayan-katha",
+      "retrieved": "2026-11-01",
+      "note": "Same 27 verses; the second source divides verses 3–4 differently and marks a few readings in brackets — recorded as variants"
+    }
+  ],
+  "note": {
+    "hi": "मूल स्रोत का पृष्ठ समापन-वाक्य के बीच में ही कट जाता है; दूसरे स्रोत का पूरा समापन-वाक्य इसे स्कंदपुराण के रेवाखंड की सत्यनारायण व्रतकथा का दूसरा अध्याय कहता है।",
+    "en": "The copy source's page breaks off inside the colophon; the second source's full colophon names this the second adhyaya of the Satyanarayan vrat katha in the Reva Khanda of the Skanda Purana: इति श्रीस्कन्दपुराणे रेवाखण्डे श्रीसत्यनारायणव्रतकथायां द्वितीयोऽध्यायः ॥",
+    "bho": "मूल स्रोत के पन्ना समापन-वाक्य (कोलोफोन) के बीचे में कट जाला; दुसरा स्रोत के पूरा समापन-वाक्य एकरा स्कंदपुराण के रेवाखंड के सत्यनारायण बरतकथा के दुसरा अध्याय कहेला; संस्कृत वाक्य अंगरेजी टिप्पनी में दिहल बा।"
+  },
+  "verses": [
+    {
+      "v": 1,
+      "verseKind": "shloka",
+      "svara": false,
+      "speaker": "सूत उवाच",
+      "devanagari": "अथान्यत्सम्प्रवक्ष्यामि कृतं येन पुरा द्विज । कश्चित्काशीपुरे रम्ये ह्यासीद्विप्रोऽतिनिर्धनः ॥",
+      "variants": [
+        {
+          "reading": "अथान्यत् सम्प्रवक्ष्यामि कृतं येन पुरा द्विजाः ।",
+          "note": {
+            "hi": "दूसरा स्रोत बहुवचन संबोधन 'द्विजाः' (हे ब्राह्मणों) पढ़ता है, जो श्रोता ऋषियों के अनुरूप है; मूल स्रोत में एकवचन 'द्विज' है।",
+            "en": "The second source reads the plural vocative dvijāḥ ('O Brahmins'), which fits the listening rishis; the copy source has the singular dvija.",
+            "bho": "दुसरा स्रोत बहुवचन संबोधन 'द्विजाः' (हे ब्राह्मण लोग) पढ़ेला, जे सुने वाला ऋषि लोग के हिसाब से ठीक बइठेला; मूल स्रोत में एकवचन 'द्विज' बा।"
+          },
+          "source": "sd-satyanarayan-katha"
+        }
+      ],
+      "meaning": {
+        "hi": "सूत जी बोले — हे द्विज, अब मैं दूसरा प्रसंग कहता हूँ कि पहले यह व्रत किसने किया। सुंदर काशीपुरी में कोई अत्यंत निर्धन ब्राह्मण रहता था।",
+        "en": "Suta said: Now, O twice-born, I shall tell another account, of one who performed this vrat in former times. In the lovely city of Kashi there lived a Brahmin who was utterly poor.",
+        "bho": "सूत जी कहलन — हे द्विज, अब हम दुसरा प्रसंग कहत बानी कि पहिले ई बरत के कइल। सुंदर काशीपुरी में एगो बहुते गरीब ब्राह्मण रहत रहलन।"
+      }
+    },
+    {
+      "v": 2,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "क्षुत्तृड्भ्यां व्याकुलो भूत्वा नित्यं बभ्राम भूतले । दुःखितं ब्राह्मणं दृष्ट्वा भगवान् ब्राह्मणप्रियः ॥",
+      "source": {
+        "ref": "ws-skanda-reva-234",
+        "retrieved": "2026-11-01",
+        "modified": "क्षुतृडभ्यां → क्षुत्तृड्भ्यां (dropped त् and virama); दू:खितं → दुःखितं (long vowel sign typed for short); दृष्टवा → दृष्ट्वा (missing virama) — all per the second source"
+      },
+      "meaning": {
+        "hi": "भूख-प्यास से व्याकुल होकर वह नित्य पृथ्वी पर भटकता रहता था। ब्राह्मणों के प्रिय भगवान ने उस दुखी ब्राह्मण को देखा।",
+        "en": "Tormented by hunger and thirst, he wandered the earth day after day. The Lord, who holds Brahmins dear, saw that suffering Brahmin.",
+        "bho": "भूख-पियास से बेहाल ऊ रोज धरती पर भटकत रहलन। ब्राह्मण लोग के प्रिय भगवान ओह दुखी ब्राह्मण के देखलन।"
+      }
+    },
+    {
+      "v": 3,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "वृद्धब्राह्मणरूपस्तं पप्रच्छ द्विजमादरात् । किमर्थं भ्रमसे विप्र महीं नित्यं सुदुःखितः ॥",
+      "source": {
+        "ref": "ws-skanda-reva-234",
+        "retrieved": "2026-11-01",
+        "modified": "अमसे → भ्रमसे (dropped conjunct; reading of the second source); सुदु:खित: → सुदुःखितः"
+      },
+      "meaning": {
+        "hi": "वृद्ध ब्राह्मण का रूप धरकर उन्होंने उस द्विज से आदर से पूछा — हे विप्र, तुम नित्य इतने दुखी होकर पृथ्वी पर क्यों भटकते हो?",
+        "en": "Taking the form of an old Brahmin, he asked that twice-born respectfully: Brahmin, why do you wander the earth every day in such misery?",
+        "bho": "बूढ़ ब्राह्मण के रूप धर के ऊ ओह द्विज से आदर से पूछलन — हे विप्र, तू रोज एतना दुखी हो के धरती पर काहे भटकत बाड़े?"
+      }
+    },
+    {
+      "v": 4,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "तत्सर्वं श्रोतुमिच्छामि कथ्यतां द्विजसत्तम ।\nब्राह्मण उवाच ।\nब्राह्मणोऽतिदरिद्रोऽहं भिक्षार्थं वै भ्रमे महीम् ॥",
+      "source": {
+        "ref": "ws-skanda-reva-234",
+        "retrieved": "2026-11-01",
+        "modified": "the speaker line ब्राह्मण उवाच kept inside the verse as the page prints it"
+      },
+      "variants": [
+        {
+          "reading": "ब्राह्मणोऽति दरिद्रोऽहं भिक्षार्थं वै भ्रमे महीम् ॥",
+          "note": {
+            "hi": "दूसरा स्रोत 'तत्सर्वं श्रोतुमिच्छामि…' की पंक्ति को श्लोक 3 में जोड़कर उसे छह पद का बनाता है और निर्धन ब्राह्मण के उत्तर की अकेली पंक्ति को श्लोक 4 गिनता है; शब्द वही हैं।",
+            "en": "The second source attaches the line tatsarvaṃ śrotumicchāmi… to verse 3, making it six padas, and counts the poor Brahmin's single line of reply as verse 4; the words are the same.",
+            "bho": "दुसरा स्रोत 'तत्सर्वं श्रोतुमिच्छामि…' वाला पंक्ति के श्लोक 3 में जोड़ के ओकरा छह पद के बनावेला आ गरीब ब्राह्मण के जवाब के अकेल पंक्ति के श्लोक 4 गिनेला; शब्द ओही बा।"
+          },
+          "source": "sd-satyanarayan-katha"
+        }
+      ],
+      "meaning": {
+        "hi": "हे द्विजश्रेष्ठ, मैं वह सब सुनना चाहता हूँ; कहो। ब्राह्मण बोला — मैं अत्यंत दरिद्र ब्राह्मण हूँ और भिक्षा के लिए पृथ्वी पर भटकता हूँ।",
+        "en": "Best of Brahmins, I wish to hear it all; tell me. The Brahmin said: I am a Brahmin in utter poverty, and I roam the earth begging for alms.",
+        "bho": "हे द्विजश्रेष्ठ, हम ऊ सब सुनल चाहत बानी; कहऽ। ब्राह्मण कहलन — हम बहुते दरिद्र ब्राह्मण बानी आ भीख खातिर धरती पर भटकत बानी।"
+      }
+    },
+    {
+      "v": 5,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "उपायं यदि जानासि कृपया कथय प्रभो ।\nवृद्धब्राह्मण उवाच ।\nसत्यनारायणो विष्णुर्वाञ्छितार्थफलप्रदः ॥",
+      "source": {
+        "ref": "ws-skanda-reva-234",
+        "retrieved": "2026-11-01",
+        "modified": "the speaker line वृद्धब्राह्मण उवाच kept inside the verse as the page prints it"
+      },
+      "meaning": {
+        "hi": "हे प्रभु, यदि आप कोई उपाय जानते हैं तो कृपा करके बताइए। वृद्ध ब्राह्मण बोले — सत्यनारायण ही विष्णु हैं, जो मनचाहे फल देने वाले हैं।",
+        "en": "Lord, if you know a way, please be kind and tell me. The old Brahmin said: Satyanarayan is Vishnu himself, the giver of the fruits one wishes for.",
+        "bho": "हे प्रभु, अगर रउआ कवनो उपाय जानत बानी त किरपा कइके बताईं। बूढ़ ब्राह्मण कहलन — सत्यनारायण ही विष्णु बाड़न, जे मनचाहा फल देवे वाला बाड़न।"
+      }
+    },
+    {
+      "v": 6,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "तस्य त्वं पूजनं विप्र कुरुष्व व्रतमुत्तमम् । यत्कृत्वा सर्वदुःखेभ्यो मुक्तो भवति मानवः ॥",
+      "phalashruti": true,
+      "meaning": {
+        "hi": "हे विप्र, तुम उनका पूजन करो और यह उत्तम व्रत करो; इसे करके मनुष्य सब दुखों से मुक्त हो जाता है।",
+        "en": "Brahmin, worship him and keep this excellent vrat; by doing it a person is freed from all sorrows.",
+        "bho": "हे विप्र, तू उनकर पूजा करऽ आ ई उत्तम बरत करऽ; एकरा कइला से मनई सब दुख से मुक्त हो जाला।"
+      }
+    },
+    {
+      "v": 7,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "विधानं च व्रतस्यापि विप्रायाभाष्य यत्नतः । सत्यनारायणो वृद्धस्तत्रैवान्तरधीयत ॥",
+      "source": {
+        "ref": "ws-skanda-reva-234",
+        "retrieved": "2026-11-01",
+        "modified": "वद्धस्तत्रैवान्तरधीयत → वृद्धस्तत्रैवान्तरधीयत (missing vowel sign ृ; reading of the second source)"
+      },
+      "meaning": {
+        "hi": "व्रत का विधान भी उस विप्र को यत्नपूर्वक बताकर वृद्ध रूपधारी सत्यनारायण वहीं अंतर्धान हो गए।",
+        "en": "Having carefully explained to the Brahmin the procedure of the vrat as well, Satyanarayan in the form of the old man vanished on the spot.",
+        "bho": "बरत के विधान भी ओह विप्र के जतन से बता के बूढ़ रूप वाला सत्यनारायण ओहिजे अंतर्धान हो गइलन।"
+      }
+    },
+    {
+      "v": 8,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "तद्व्रतं सङ्करिष्यामि यदुक्तं ब्राह्मणेन वै । इति सञ्चिन्त्य विप्रोऽसौ रात्रौ निद्रां न लब्धवान् ॥",
+      "source": {
+        "ref": "ws-skanda-reva-234",
+        "retrieved": "2026-11-01",
+        "modified": "तदव्रतं → तद्व्रतं (missing virama); spacing of सञ्चिन्त्यविप्रोऽसौ रात्रौनिद्रांलब्धवान् normalised; the page's रात्रौ निद्रां लब्धवान् is one syllable short of the anushtubh pada, so the second source's न is restored (रात्रौ निद्रां न लब्धवान्) — see variants"
+      },
+      "variants": [
+        {
+          "reading": "इति सञ्चिन्त्य विप्रोऽसौ रात्रौ निद्रा न लब्धवान् ॥",
+          "note": {
+            "hi": "मूल स्रोत में 'रात्रौ निद्रां लब्धवान्' (नींद मिली) है, जो छंद से एक अक्षर छोटा है; दूसरा स्रोत 'रात्रौ निद्रा न लब्धवान्' (नींद नहीं मिली) पढ़ता है और 'निद्रां' को कोष्ठक में देता है। यहाँ छंद और कथा-प्रवाह के अनुसार 'न' वाला पाठ लिया गया है।",
+            "en": "The copy source has rātrau nidrāṃ labdhavān ('got sleep'), one syllable short of the metre; the second source reads rātrau nidrā na labdhavān ('got no sleep') and brackets nidrāṃ. The reading with na is adopted here on the strength of the metre and the flow of the story.",
+            "bho": "मूल स्रोत में 'रात्रौ निद्रां लब्धवान्' (नींद मिलल) बा, जे छंद से एक अक्षर छोट बा; दुसरा स्रोत 'रात्रौ निद्रा न लब्धवान्' (नींद ना मिलल) पढ़ेला आ 'निद्रां' के कोष्ठक में देला। इहाँ छंद आ कथा के बहाव के हिसाब से 'न' वाला पाठ लिहल गइल बा।"
+          },
+          "source": "sd-satyanarayan-katha"
+        }
+      ],
+      "meaning": {
+        "hi": "\"जो व्रत ब्राह्मण ने बताया है, वह मैं करूँगा\" — ऐसा सोचते हुए उस विप्र को रात में नींद नहीं आई।",
+        "en": "\"I shall perform the vrat that the Brahmin described\" — so thinking, the Brahmin could get no sleep that night.",
+        "bho": "\"जवन बरत ब्राह्मण बतवले बाड़न, ऊ हम करब\" — अइसन सोचत ओह विप्र के रात में नींद ना आइल।"
+      }
+    },
+    {
+      "v": 9,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "ततः प्रातः समुत्थाय सत्यनारायणव्रतम् । करिष्य इति सङ्कल्प्य भिक्षार्थमगमद् द्विजः ॥",
+      "source": {
+        "ref": "ws-skanda-reva-234",
+        "retrieved": "2026-11-01",
+        "modified": "तत प्रात: → ततः प्रातः (missing visarga)"
+      },
+      "meaning": {
+        "hi": "फिर प्रातः उठकर \"मैं सत्यनारायण व्रत करूँगा\" — ऐसा संकल्प करके वह द्विज भिक्षा के लिए निकला।",
+        "en": "Then, rising in the morning, he resolved, \"I will perform the Satyanarayan vrat,\" and the Brahmin went out to beg for alms.",
+        "bho": "फेर भोरे उठ के \"हम सत्यनारायण बरत करब\" — अइसन संकल्प कइके ऊ द्विज भीख खातिर निकललन।"
+      }
+    },
+    {
+      "v": 10,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "तस्मिन्नेव दिने विप्रः प्रचुरं द्रव्यमाप्तवान् । तेनैव बन्धुभिः सार्द्धं सत्यस्य व्रतमाचरत् ॥",
+      "meaning": {
+        "hi": "उसी दिन उस विप्र को प्रचुर धन मिला; उसी से उसने बंधुओं के साथ सत्यदेव का व्रत किया।",
+        "en": "That very day the Brahmin received abundant wealth, and with it he performed the vrat of Satya, the Lord, together with his kinsfolk.",
+        "bho": "ओही दिन ओह विप्र के ढेर धन मिलल; ओही धन से ऊ आपन हित-नाता के साथे सत्यदेव (भगवान) के बरत कइलन।"
+      }
+    },
+    {
+      "v": 11,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "सर्वदुःखविनिर्मुक्तः सर्वसम्पत्समन्वितः । बभूव स द्विजश्रेष्ठो व्रतस्यास्य प्रभावतः ॥",
+      "source": {
+        "ref": "ws-skanda-reva-234",
+        "retrieved": "2026-11-01",
+        "modified": "सर्वदूःख → सर्वदुःख (long vowel sign typed for short)"
+      },
+      "meaning": {
+        "hi": "इस व्रत के प्रभाव से वह श्रेष्ठ ब्राह्मण सब दुखों से छूट गया और सब प्रकार की संपत्ति से युक्त हो गया।",
+        "en": "By the power of this vrat that excellent Brahmin was freed from all sorrows and came to possess every kind of prosperity.",
+        "bho": "एह बरत के प्रभाव से ऊ श्रेष्ठ ब्राह्मण सब दुख से छूट गइलन आ हर तरह के संपत्ति से भर गइलन।"
+      }
+    },
+    {
+      "v": 12,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "ततः प्रभृति कालं च मासि मासि व्रतं कृतम् । एवं नारायणस्येदं व्रतं कृत्वा द्विजोत्तमः ॥",
+      "meaning": {
+        "hi": "उस समय से वह हर महीने यह व्रत करता रहा। इस प्रकार नारायण का यह व्रत करके वह उत्तम द्विज —",
+        "en": "From then on he kept this vrat month after month. Having thus performed this vrat of Narayana, that excellent Brahmin —",
+        "bho": "ओह दिन से ऊ हर महीना ई बरत करत रहलन। अइसे नारायण के ई बरत कइ के ऊ उत्तम द्विज —"
+      }
+    },
+    {
+      "v": 13,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "सर्वपापविनिर्मुक्तो दुर्लभं मोक्षमाप्तवान् । व्रतमस्य यदा विप्राः पृथिव्यां सङ्करिष्यति ॥",
+      "variants": [
+        {
+          "reading": "व्रतमस्य यदा विप्र पृथिव्यां सङ्करिष्यति ॥",
+          "note": {
+            "hi": "दूसरा स्रोत एकवचन संबोधन 'विप्र' पढ़ता है और बहुवचन 'विप्राः' को कोष्ठक में देता है; मूल स्रोत में बहुवचन है, जो श्रोता ऋषियों के अनुरूप है।",
+            "en": "The second source reads the singular vocative vipra and brackets the plural viprāḥ; the copy source has the plural, which fits the listening rishis.",
+            "bho": "दुसरा स्रोत एकवचन संबोधन 'विप्र' पढ़ेला आ बहुवचन 'विप्राः' के कोष्ठक में देला; मूल स्रोत में बहुवचन बा, जे सुने वाला ऋषि लोग के हिसाब से ठीक बइठेला।"
+          },
+          "source": "sd-satyanarayan-katha"
+        }
+      ],
+      "phalashruti": true,
+      "meaning": {
+        "hi": "— सब पापों से मुक्त होकर दुर्लभ मोक्ष को प्राप्त हुआ। हे विप्रों, जब कोई मनुष्य पृथ्वी पर इसका व्रत करेगा —",
+        "en": "— was freed from all sins and attained the rare liberation. O Brahmins, whenever a person on earth performs this vrat —",
+        "bho": "— सब पाप से मुक्त हो के दुर्लभ मोक्ष पवलन। हे विप्र लोग, जब कवनो मनई धरती पर एकर बरत करी —"
+      }
+    },
+    {
+      "v": 14,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "तदैव सर्वदुःखं च मनुजस्य विनश्यति । एवं नारायणेनोक्तं नारदाय महात्मने ॥",
+      "variants": [
+        {
+          "reading": "तदैव सर्वदुःखं तु मनुजस्य विनश्यति ।",
+          "note": {
+            "hi": "दूसरा स्रोत 'च' के स्थान पर 'तु' पढ़ता है और 'च' को कोष्ठक में देता है; अर्थ पर कोई प्रभाव नहीं।",
+            "en": "The second source reads tu for ca and brackets ca; the sense is unchanged.",
+            "bho": "दुसरा स्रोत 'च' के जगह 'तु' पढ़ेला आ 'च' के कोष्ठक में देला; अरथ पर कवनो असर नइखे।"
+          },
+          "source": "sd-satyanarayan-katha"
+        }
+      ],
+      "phalashruti": true,
+      "meaning": {
+        "hi": "— तभी उस मनुष्य का सारा दुख नष्ट हो जाएगा। ऐसा नारायण ने महात्मा नारद को कहा था।",
+        "en": "— at that very moment all that person's sorrow is destroyed. This is what Narayana told the great-souled Narada.",
+        "bho": "— तबे ओह मनई के सगरी दुख नास हो जाई। अइसन नारायण महात्मा नारद के कहले रहलन।"
+      }
+    },
+    {
+      "v": 15,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "मया तत्कथितं विप्राः किमन्यत्कथयामि वः ।\nऋषय ऊचुः ।\nतस्माद्विप्राच्छ्रुतं केन पृथिव्यां चरितं मुने । तत्सर्वं श्रोतुमिच्छामः श्रद्धास्माकं प्रजायते ॥",
+      "source": {
+        "ref": "ws-skanda-reva-234",
+        "retrieved": "2026-11-01",
+        "modified": "spacing normalised; the speaker line ऋषय ऊचुः kept inside the verse as the page prints it (six padas; the second source divides the same way)"
+      },
+      "meaning": {
+        "hi": "हे विप्रों, वही मैंने तुम्हें कह दिया; और क्या कहूँ? ऋषि बोले — हे मुने, उस विप्र से सुनकर पृथ्वी पर और किसने इसका आचरण किया? हम वह सब सुनना चाहते हैं; हमारी श्रद्धा बढ़ रही है।",
+        "en": "That, O Brahmins, I have told you; what more shall I say? The rishis said: Sage, who else on earth heard of it from that Brahmin and practised it? We wish to hear all of it; our faith grows.",
+        "bho": "हे विप्र लोग, ओही हम रउआ सभे के कह दिहनी; अउर का कहीं? ऋषि लोग कहलन — हे मुनि, ओह विप्र से सुन के धरती पर अउर के एकर आचरन कइल? हमनी के ऊ सब सुनल चाहत बानी; हमनी के श्रद्धा बढ़त बिया।"
+      }
+    },
+    {
+      "v": 16,
+      "verseKind": "shloka",
+      "svara": false,
+      "speaker": "सूत उवाच",
+      "devanagari": "शृणुध्वं मुनयः सर्वे व्रतं येन कृतं भुवि । एकदा स द्विजवरो यथाविभवविस्तरैः ॥",
+      "source": {
+        "ref": "ws-skanda-reva-234",
+        "retrieved": "2026-11-01",
+        "modified": "श्रृणुध्वं → शृणुध्वं (र् typed before ृ, a common slip; the second source writes शृ with a joiner)"
+      },
+      "meaning": {
+        "hi": "सूत जी बोले — हे मुनियों, सुनो कि पृथ्वी पर यह व्रत किसने किया। एक बार वही श्रेष्ठ द्विज अपनी सामर्थ्य के अनुसार विस्तार से —",
+        "en": "Suta said: Listen, sages, to who performed this vrat on earth. Once that same excellent Brahmin, on a scale his means allowed —",
+        "bho": "सूत जी कहलन — हे मुनि लोग, सुनीं कि धरती पर ई बरत के कइल। एक बेर ओही श्रेष्ठ द्विज आपन सामरथ के हिसाब से बिस्तार से —"
+      }
+    },
+    {
+      "v": 17,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "बन्धुभिः स्वजनैः सार्धं व्रतं कर्तुं समुद्यतः । एतस्मिन्नन्तरे काले काष्ठक्रेता समागमत् ॥",
+      "note": {
+        "hi": "पाठ में शब्द 'काष्ठक्रेता' (लकड़ी का क्रेता/व्यापारी) है; कथा में वह लकड़ी बेचकर जीविका चलाने वाला है, इसलिए अर्थ में 'लकड़हारा' लिखा गया है।",
+        "en": "The text's word is kāṣṭhakretā, literally a buyer or dealer in wood; in the story he lives by selling wood, so the meaning renders him as the woodcutter.",
+        "bho": "पाठ में शब्द 'काष्ठक्रेता' (लकड़ी के खरीदार/बेपारी) बा; कथा में ऊ लकड़ी बेच के गुजारा करे वाला बा, एह से अरथ में 'लकड़हारा' लिखल गइल बा।"
+      },
+      "meaning": {
+        "hi": "— बंधुओं और स्वजनों के साथ व्रत करने में लगा था। उसी बीच एक लकड़हारा वहाँ आया।",
+        "en": "— was busy performing the vrat with his kinsfolk and family. At that moment a woodcutter arrived there.",
+        "bho": "— हित-नाता आ घर के लोग के साथे बरत करे में लागल रहलन। ओही बीच एगो लकड़हारा उहाँ आइल।"
+      }
+    },
+    {
+      "v": 18,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "बहिः काष्ठं च संस्थाप्य विप्रस्य गृहमाययौ । तृष्णया पीडितात्मा च दृष्ट्वा विप्रं कृतव्रतम् ॥",
+      "source": {
+        "ref": "ws-skanda-reva-234",
+        "retrieved": "2026-11-01",
+        "modified": "संस्थ्याप्य → संस्थाप्य (stray य); विप्रंकृत व्रतम् → विप्रं कृतव्रतम् (spacing; see variants)"
+      },
+      "variants": [
+        {
+          "reading": "तृष्णाया पीडितात्मा च दृष्ट्वा विप्रं कृतं व्रतम् ॥",
+          "note": {
+            "hi": "दूसरा स्रोत 'कृतं व्रतम्' (किया हुआ व्रत) पढ़ता है और 'कृत' को कोष्ठक में देता है; यहाँ मूल स्रोत के अक्षरों को 'विप्रं कृतव्रतम्' (व्रत करते हुए विप्र को) के रूप में पढ़ा गया है। दूसरे स्रोत का 'तृष्णाया' रूप अशुद्ध है; 'तृष्णया' ठीक है।",
+            "en": "The second source reads kṛtaṃ vratam ('the vrat performed') and brackets kṛta; here the copy source's letters are read as vipraṃ kṛtavratam ('the Brahmin engaged in the vrat'). The second source's tṛṣṇāyā is a slip; tṛṣṇayā is correct.",
+            "bho": "दुसरा स्रोत 'कृतं व्रतम्' (कइल बरत) पढ़ेला आ 'कृत' के कोष्ठक में देला; इहाँ मूल स्रोत के अक्षर के 'विप्रं कृतव्रतम्' (बरत करत विप्र के) के रूप में पढ़ल गइल बा। दुसरा स्रोत के 'तृष्णाया' रूप गलत बा; 'तृष्णया' ठीक बा।"
+          },
+          "source": "sd-satyanarayan-katha"
+        }
+      ],
+      "meaning": {
+        "hi": "लकड़ियाँ बाहर रखकर वह विप्र के घर में आया। प्यास से व्याकुल उसने विप्र को व्रत करते देखा —",
+        "en": "Setting his wood down outside, he came into the Brahmin's house. Parched with thirst, he saw the Brahmin engaged in the vrat —",
+        "bho": "लकड़ी बाहर रख के ऊ विप्र के घर में आइल। पियास से बेहाल ऊ विप्र के बरत करत देखल —"
+      }
+    },
+    {
+      "v": 19,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "प्रणिपत्य द्विजं प्राह किमिदं क्रियते त्वया । कृते किं फलमाप्नोति विस्तराद्वद मे प्रभो ॥",
+      "meaning": {
+        "hi": "— और उसे प्रणाम करके बोला — आप यह क्या कर रहे हैं? इसे करने से क्या फल मिलता है? हे प्रभु, मुझे विस्तार से बताइए।",
+        "en": "— and, bowing to him, said: What is this that you are doing? What fruit does one gain by doing it? Tell me in detail, sir.",
+        "bho": "— आ उनका परनाम कइके कहल — रउआ ई का करत बानी? एकरा कइला से का फल मिलेला? हे प्रभु, हमरा बिस्तार से बताईं।"
+      }
+    },
+    {
+      "v": 20,
+      "verseKind": "shloka",
+      "svara": false,
+      "speaker": "विप्र उवाच",
+      "devanagari": "सत्यनारायणस्येदं व्रतं सर्वेप्सितप्रदम् । तस्य प्रसादान्मे सर्वं धनधान्यादिकं महत् ॥",
+      "meaning": {
+        "hi": "विप्र बोला — यह सत्यनारायण का व्रत है, जो सब मनोकामनाएँ पूरी करने वाला है; उनकी कृपा से ही मुझे यह सब धन-धान्य आदि बड़ा वैभव मिला है।",
+        "en": "The Brahmin said: This is the vrat of Satyanarayan, which grants everything one desires; by his grace I have gained all this great wealth, grain and more.",
+        "bho": "विप्र कहलन — ई सत्यनारायण के बरत बा, जे सब मनोकामना पूरा करे वाला बा; उनकरे किरपा से हमरा ई सब धन-धान आदि बड़ा बैभव मिलल बा।"
+      }
+    },
+    {
+      "v": 21,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "तस्मादेतद् व्रतं ज्ञात्वा काष्ठक्रेताऽतिहर्षितः । पपौ जलं प्रसादं च भुक्त्वा स नगरं ययौ ॥",
+      "source": {
+        "ref": "ws-skanda-reva-234",
+        "retrieved": "2026-11-01",
+        "modified": "the page's काष्ठविक्रेतातिहर्षित: has nine syllables in an eight-syllable pada; the second source's काष्ठक्रेताऽतिहर्षितः (so also verse 17) is adopted and the page's reading kept under variants"
+      },
+      "variants": [
+        {
+          "reading": "तस्मादेतद् व्रतं ज्ञात्वा काष्ठविक्रेतातिहर्षितः ।",
+          "note": {
+            "hi": "मूल स्रोत का पाठ: 'काष्ठविक्रेता' (लकड़ी बेचने वाला), जो छंद से एक अक्षर लंबा है; यहाँ दूसरे स्रोत और श्लोक 17 के अनुसार 'काष्ठक्रेता' लिया गया है। अर्थ कथा में एक ही है।",
+            "en": "The copy source's reading: kāṣṭhavikretā ('wood-seller'), a syllable too long for the metre; kāṣṭhakretā is adopted here after the second source and verse 17. In the story the sense is the same.",
+            "bho": "मूल स्रोत के पाठ: 'काष्ठविक्रेता' (लकड़ी बेचे वाला), जे छंद से एक अक्षर लमहर बा; इहाँ दुसरा स्रोत आ श्लोक 17 के हिसाब से 'काष्ठक्रेता' लिहल गइल बा। कथा में अरथ एके बा।"
+          },
+          "source": "ws-skanda-reva-234"
+        }
+      ],
+      "meaning": {
+        "hi": "उस विप्र से इस व्रत को जानकर लकड़हारा बहुत प्रसन्न हुआ; उसने जल (चरणामृत) पिया, प्रसाद खाया और नगर की ओर चला।",
+        "en": "Learning of this vrat from the Brahmin, the woodcutter was overjoyed; he drank the water (charanamrit), ate the prasad and went off to the town.",
+        "bho": "ओह विप्र से एह बरत के जान के लकड़हारा बहुते खुस भइल; ऊ जल (चरनामृत) पियल, परसाद खाइल आ नगर के ओर चल गइल।"
+      }
+    },
+    {
+      "v": 22,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "सत्यनारायणं देवं मनसा इत्यचिन्तयत् । काष्ठं विक्रयतो ग्रामे प्राप्यते चाद्य यद् धनम् ॥",
+      "source": {
+        "ref": "ws-skanda-reva-234",
+        "retrieved": "2026-11-01",
+        "modified": "a zero-width non-joiner inside यद्‌धनम् removed and written यद् धनम्"
+      },
+      "variants": [
+        {
+          "reading": "काष्ठं विक्रयतो ग्रामे प्राप्यते मेऽद्य यद् धनम् ॥",
+          "note": {
+            "hi": "दूसरा स्रोत कोष्ठक में 'प्राप्यते मेऽद्य' (मुझे आज मिले) पाठांतर देता है; मूल स्रोत में 'प्राप्यते चाद्य' है।",
+            "en": "The second source brackets the variant prāpyate me'dya ('that I get today'); the copy source has prāpyate cādya.",
+            "bho": "दुसरा स्रोत कोष्ठक में 'प्राप्यते मेऽद्य' (हमरा आज मिले) पाठांतर देला; मूल स्रोत में 'प्राप्यते चाद्य' बा।"
+          },
+          "source": "sd-satyanarayan-katha"
+        }
+      ],
+      "meaning": {
+        "hi": "वह मन में सत्यनारायण देव का यह विचार करता रहा — \"आज गाँव में लकड़ी बेचने से जो धन मिलेगा —\"",
+        "en": "In his mind he kept thinking of the god Satyanarayan: \"Whatever money I get today from selling wood in the village —\"",
+        "bho": "ऊ मन में सत्यनारायण देव के ई बिचार करत रहल — \"आज गाँव में लकड़ी बेच के जवन धन मिली —\""
+      }
+    },
+    {
+      "v": 23,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "तेनैव सत्यदेवस्य करिष्ये व्रतमुत्तमम् । इति सञ्चिन्त्य मनसा काष्ठं धृत्वा तु मस्तके ॥",
+      "source": {
+        "ref": "ws-skanda-reva-234",
+        "retrieved": "2026-11-01",
+        "modified": "इतिसञ्चिन्त्य → इति सञ्चिन्त्य (word spacing only)"
+      },
+      "meaning": {
+        "hi": "\"— उसी से मैं सत्यदेव का उत्तम व्रत करूँगा।\" मन में यह सोचकर वह लकड़ियाँ सिर पर रखकर —",
+        "en": "\"— with that very money I shall perform the excellent vrat of Satyadeva.\" Thinking this, he placed the wood on his head —",
+        "bho": "\"— ओही से हम सत्यदेव के उत्तम बरत करब।\" मन में इहे सोच के ऊ लकड़ी माथ पर रख के —"
+      }
+    },
+    {
+      "v": 24,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "जगाम नगरे रम्ये धनिनां यत्र संस्थितिः । तद्दिने काष्ठमूल्यं च द्विगुणं प्राप्तवानसौ ॥",
+      "meaning": {
+        "hi": "— उस सुंदर नगर में गया जहाँ धनी लोग रहते थे। उस दिन उसे लकड़ी का दुगुना मूल्य मिला।",
+        "en": "— went to the fine town where the wealthy lived. That day he received twice the usual price for his wood.",
+        "bho": "— ओह सुंदर नगर में गइल जहाँ धनी लोग रहत रहे। ओह दिन ओकरा लकड़ी के दुगुना दाम मिलल।"
+      }
+    },
+    {
+      "v": 25,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "ततः प्रसन्नहृदयः सुपक्वं कदलीफलम् । शर्कराघृतदुग्धं च गोधूमस्य च चूर्णकम् ॥",
+      "meaning": {
+        "hi": "तब प्रसन्न हृदय से उसने पके केले, शक्कर, घी, दूध और गेहूँ का आटा लिया —",
+        "en": "Then, glad at heart, he took ripe bananas, sugar, ghee, milk and wheat flour —",
+        "bho": "तब खुस मन से ऊ पाकल केरा, चीनी, घीव, दूध आ गोहूँ के आटा लिहल —"
+      }
+    },
+    {
+      "v": 26,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "कृत्वैकत्र सपादं च गृहीत्वा स्वगृहं ययौ । ततो बन्धून्समाहूय चकार विधिना व्रतम् ॥",
+      "meaning": {
+        "hi": "— इन सबको एक साथ सवा मात्रा में बनाकर घर गया; फिर बंधुओं को बुलाकर विधिपूर्वक व्रत किया।",
+        "en": "— made them up together in the sapada measure and went home; then he called his kinsfolk and performed the vrat according to the rule.",
+        "bho": "— ई सब के एक साथे सवा माप में बना के घर गइल; फेर हित-नाता के बोला के विधि से बरत कइल।"
+      }
+    },
+    {
+      "v": 27,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "तद्व्रतस्य प्रभावेण धनपुत्रान्वितोऽभवत् । इहलोके सुखं भुंक्त्वा चान्ते सत्यपुरं ययौ ॥",
+      "source": {
+        "ref": "ws-skanda-reva-234",
+        "retrieved": "2026-11-01",
+        "modified": "तदव्रतस्य → तद्व्रतस्य (missing virama); the page's spelling भुंक्त्वा kept (the second source writes भुक्त्वा — see variants)"
+      },
+      "variants": [
+        {
+          "reading": "इहलोके सुखं भुक्त्वा चान्ते सत्यपुरं ययौ ॥",
+          "note": {
+            "hi": "दूसरा स्रोत व्याकरण-सम्मत 'भुक्त्वा' लिखता है; मूल स्रोत का अनुस्वार वाला रूप पोथियों में प्रचलित लेखन है। अर्थ वही है।",
+            "en": "The second source writes the grammatical bhuktvā; the copy source's spelling with the anusvara is a common pothi spelling. The sense is the same.",
+            "bho": "दुसरा स्रोत व्याकरन के हिसाब से 'भुक्त्वा' लिखेला; मूल स्रोत के अनुस्वार वाला रूप पोथी में चलन के लेखन बा। अरथ ओही बा।"
+          },
+          "source": "sd-satyanarayan-katha"
+        }
+      ],
+      "meaning": {
+        "hi": "उस व्रत के प्रभाव से वह धन और पुत्रों से युक्त हुआ; इस लोक में सुख भोगकर अंत में सत्यपुर (भगवान के धाम) को गया।",
+        "en": "By the power of that vrat he came to have wealth and sons; having enjoyed happiness in this world, at the end he went to Satyapura, the Lord's abode.",
+        "bho": "ओह बरत के प्रभाव से ऊ धन आ बेटा से भर गइल; एह लोक में सुख भोग के अंत में सत्यपुर (भगवान के धाम) गइल।"
+      }
+    }
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

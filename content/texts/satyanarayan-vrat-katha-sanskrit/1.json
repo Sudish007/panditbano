@@ -1,0 +1,457 @@
+{
+  "text": "satyanarayan-vrat-katha-sanskrit",
+  "n": 1,
+  "title": {
+    "hi": "प्रथम अध्याय — नारद का प्रश्न और व्रत का विधान",
+    "en": "Adhyaya 1 — Narada's question and the rule of the vrat",
+    "bho": "पहिला अध्याय — नारद के सवाल आ बरत के विधान"
+  },
+  "intro": {
+    "hi": "पहला अध्याय नैमिषारण्य से शुरू होता है: शौनक आदि ऋषि सूत जी से पूछते हैं कि किस [[vrat]] से मनचाहा फल मिलता है, और सूत जी नारद–नारायण का संवाद सुनाते हैं। मर्त्यलोक के दुख देखकर नारद जी विष्णुलोक जाते हैं, स्तुति करते हैं और लोगों के कल्याण का सरल उपाय पूछते हैं; उत्तर में भगवान सत्यनारायण व्रत बताते हैं। श्लोक 17–24 में व्रत का विधान है — यही वह अंश है जिस पर पूजा-विधि टिकी है: सांध्य समय, [[brahman]] और बंधुओं के साथ, केला-घी-दूध-गेहूँ के आटे (अभाव में चावल के आटे) और शक्कर-गुड़ का सवा मात्रा का [[naivedya]], कथा-श्रवण, [[dakshina]], ब्राह्मण-भोजन, [[prasad]] और नृत्य-गीत। फल का कथन (श्लोक 15, 17–18, 24) ग्रंथ का अपना वचन है और उसी रूप में दिया गया है। जहाँ पाठ में श्लोक के बीच वक्ता बदलता है (नारद उवाच, श्रीभगवानुवाच), वह पंक्ति मूल स्रोत की तरह श्लोक के भीतर ही रखी गई है; दूसरा स्रोत श्लोक 8–10 और 15–17 को अलग ढंग से बाँटता है (पाठांतर देखें)।",
+    "en": "The first adhyaya opens in the Naimisha forest: Shaunaka and the other rishis ask Suta which vrat yields the fruit one wishes for, and Suta relates the dialogue of Narada and Narayana. Seeing the suffering of the mortal world, Narada goes to Vishnu's realm, praises the Lord and asks for a simple means to help people; in reply the Lord teaches the Satyanarayan vrat. Verses 17–24 give the rule of the vrat — the passage on which the puja procedure rests: evening, with Brahmins and kinsfolk, a sapada (one-and-a-quarter) measure of banana, ghee, milk, wheat flour (rice flour if there is none) and sugar and jaggery as the offering, then hearing the katha, dakshina, feeding the Brahmins, prasad, song and dance. The statements of fruit (verses 15, 17–18, 24) are the text's own words and are shown as such. Where the speaker changes inside a verse (Narada uvacha, Shri Bhagavan uvacha), the line is kept inside the verse as the copy source prints it; the second source divides verses 8–10 and 15–17 differently (see the variants).",
+    "bho": "पहिला अध्याय नैमिषारण्य से सुरू होला: शौनक आदि ऋषि सूत जी से पूछेलन कि कवना [[vrat]] से मनचाहा फल मिलेला, आ सूत जी नारद–नारायण के संवाद सुनावेलन। मर्त्यलोक के दुख देख के नारद जी विष्णुलोक जालन, स्तुति करेलन आ लोग के भला खातिर सरल उपाय पूछेलन; जवाब में भगवान सत्यनारायण बरत बतावेलन। श्लोक 17–24 में बरत के विधान बा — इहे ऊ अंश बा जेह पर पूजा-विधि टिकल बा: साँझ के बेरा, [[brahman]] आ हित-नाता के साथे, केरा-घीव-दूध-गोहूँ के आटा (ना होखे त चाउर के आटा) आ चीनी-गुड़ के सवा माप के [[naivedya]], कथा सुनल, [[dakshina]], ब्राह्मण-भोजन, [[prasad]] आ नाच-गान। फल के कथन (श्लोक 15, 17–18, 24) ग्रंथ के आपन वचन बा आ ओही रूप में दिहल गइल बा। जहाँ पाठ में श्लोक के बीचे बोले वाला बदलेला (नारद उवाच, श्रीभगवानुवाच), ऊ पंक्ति मूल स्रोत जइसन श्लोक के भीतरे राखल गइल बा; दुसरा स्रोत श्लोक 8–10 आ 15–17 के अलग ढंग से बाँटेला (पाठांतर देखीं)।"
+  },
+  "locator": "SkP Reva 233",
+  "source": {
+    "ref": "ws-skanda-reva-233",
+    "retrieved": "2026-11-01",
+    "modified": "ASCII colon typed for the visarga normalised to ः; the page's half-verse ॥ normalised to ।; verse numbers, quotation marks and the appended Hindi translation dropped; spacing normalised; typing slips corrected against the second source and listed per verse under source.modified"
+  },
+  "checkedAgainst": [
+    {
+      "ref": "sd-satyanarayan-katha",
+      "retrieved": "2026-11-01",
+      "note": "Same 24 verses; the second source divides verses 8–10 and 15–17 differently and marks a few readings in brackets — recorded as variants"
+    }
+  ],
+  "note": {
+    "hi": "अध्याय के अंत में मूल स्रोत का समापन-वाक्य (कोलोफ़ोन) इसे स्कंदपुराण के रेवाखंड की सत्यनारायण व्रतकथा का पहला अध्याय कहता है; संस्कृत वाक्य अंग्रेज़ी टिप्पणी में दिया है।",
+    "en": "The closing line (colophon) names this the first adhyaya of the Satyanarayan vrat katha in the Reva Khanda of the Skanda Purana: इति श्रीस्कन्दपुराणे रेवाखण्डे सत्यनारायणव्रतकथायां प्रथमोऽध्यायः ॥",
+    "bho": "अध्याय के अंत में मूल स्रोत के समापन-वाक्य (कोलोफोन) एकरा स्कंदपुराण के रेवाखंड के सत्यनारायण बरतकथा के पहिला अध्याय कहेला; संस्कृत वाक्य अंगरेजी टिप्पनी में दिहल बा।"
+  },
+  "verses": [
+    {
+      "v": 1,
+      "verseKind": "shloka",
+      "svara": false,
+      "speaker": "व्यास उवाच",
+      "devanagari": "एकदा नैमिषारण्ये ऋषयः शौनकादयः । पप्रच्छुर्मुनयः सर्वे सूतं पौराणिकं खलु ॥",
+      "meaning": {
+        "hi": "व्यास जी बोले — एक बार नैमिषारण्य में शौनक आदि ऋषियों और सभी मुनियों ने पुराणों के ज्ञाता सूत जी से पूछा।",
+        "en": "Vyasa said: Once, in the Naimisha forest, Shaunaka and the other rishis, all the sages together, put a question to Suta, the knower of the Puranas.",
+        "bho": "व्यास जी कहलन — एक बेर नैमिषारण्य में शौनक आदि ऋषि आ सब मुनि लोग पुराण के जानकार सूत जी से पूछलन।"
+      }
+    },
+    {
+      "v": 2,
+      "verseKind": "shloka",
+      "svara": false,
+      "speaker": "ऋषय ऊचुः",
+      "devanagari": "व्रतेन तपसा किंवा प्राप्यते वाञ्छितं फलम् । तत्सर्वं श्रोतुमिच्छामः कथयस्व महामुने ॥",
+      "meaning": {
+        "hi": "ऋषि बोले — किस व्रत या तप से मनचाहा फल मिलता है? हे महामुनि, हम वह सब सुनना चाहते हैं; कृपया कहिए।",
+        "en": "The rishis said: By what vow or what austerity does one obtain the fruit one wishes for? Great sage, we wish to hear all of it; please tell us.",
+        "bho": "ऋषि लोग कहलन — कवना बरत भा तप से मनचाहा फल मिलेला? हे महामुनि, हमनी के ऊ सब सुनल चाहत बानी; किरपा कइके कहीं।"
+      }
+    },
+    {
+      "v": 3,
+      "verseKind": "shloka",
+      "svara": false,
+      "speaker": "सूत उवाच",
+      "devanagari": "नारदेनैव सम्पृष्टो भगवान् कमलापतिः । सुरर्षये यथैवाह तच्छृणुध्वं समाहिताः ॥",
+      "source": {
+        "ref": "ws-skanda-reva-233",
+        "retrieved": "2026-11-01",
+        "modified": "कमलापित: → कमलापतिः (misplaced vowel sign on the page; reading of the second source)"
+      },
+      "meaning": {
+        "hi": "सूत जी बोले — नारद जी के पूछने पर कमलापति भगवान विष्णु ने देवर्षि को जो उत्तर दिया था, वही मैं कहता हूँ; उसे एकाग्र मन से सुनो।",
+        "en": "Suta said: What the Lord, the husband of Kamala (Lakshmi), told the divine sage when Narada questioned him, that I shall tell you; listen with a steady mind.",
+        "bho": "सूत जी कहलन — नारद जी के पूछला पर कमलापति भगवान विष्णु देवर्षि के जवन जवाब दिहले रहलन, ओही हम कहत बानी; एकरा मन लगा के सुनीं।"
+      }
+    },
+    {
+      "v": 4,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "एकदा नारदो योगी परानुग्रहकाङ्क्षया । पर्यटन् विविधान् लोकान् मर्त्यलोकमुपागतः ॥",
+      "source": {
+        "ref": "ws-skanda-reva-233",
+        "retrieved": "2026-11-01",
+        "modified": "विविधान्लोकान् → विविधान् लोकान् (word spacing only)"
+      },
+      "meaning": {
+        "hi": "एक बार योगी नारद दूसरों पर कृपा करने की इच्छा से अनेक लोकों में घूमते हुए मर्त्यलोक में आए।",
+        "en": "Once the yogi Narada, wishing to do good to others, was wandering through the many worlds and came to the mortal world.",
+        "bho": "एक बेर योगी नारद जी सब पर किरपा करे के इच्छा से कई लोक घूमत-घूमत मर्त्यलोक में आ गइलन।"
+      }
+    },
+    {
+      "v": 5,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "ततो दृष्ट्वा जनान्सर्वान्नानाक्लेशसमन्वितान् । नानायोनिसमुत्पन्नान्क्लिश्यमानान् स्वकर्मभिः ॥",
+      "source": {
+        "ref": "ws-skanda-reva-233",
+        "retrieved": "2026-11-01",
+        "modified": "दृष्टवा → दृष्ट्वा (missing virama)"
+      },
+      "meaning": {
+        "hi": "वहाँ उन्होंने देखा कि सब लोग तरह-तरह के कष्टों से घिरे हैं और अपने कर्मों के कारण अनेक योनियों में जन्म लेकर दुख पा रहे हैं।",
+        "en": "There he saw that all people were beset with many kinds of suffering, born into many wombs and tormented by their own deeds.",
+        "bho": "उहाँ उनका देखाई पड़ल कि सब लोग तरह-तरह के कष्ट से घेराइल बा आ आपन कर्म के कारन कई योनि में जनम ले के दुख पावत बा।"
+      }
+    },
+    {
+      "v": 6,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "केनोपायेन चैतेषां दुःखनाशो भवेद् ध्रुवम् । इति सञ्चिन्त्य मनसा विष्णुलोकं गतस्तदा ॥",
+      "source": {
+        "ref": "ws-skanda-reva-233",
+        "retrieved": "2026-11-01",
+        "modified": "भवेद ध्रुवम् → भवेद् ध्रुवम् (missing virama)"
+      },
+      "meaning": {
+        "hi": "\"किस उपाय से इनका दुख सदा के लिए मिटे?\" — मन में यही सोचकर वे तब विष्णुलोक गए।",
+        "en": "\"By what means could their sorrow surely be ended?\" Turning this over in his mind, he then went to the world of Vishnu.",
+        "bho": "\"कवना उपाय से इनकर दुख सदा खातिर मिट जाए?\" — मन में इहे सोच के ऊ तब विष्णुलोक गइलन।"
+      }
+    },
+    {
+      "v": 7,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "तत्र नारायणं देवं शुक्लवर्णं चतुर्भुजम् । शङ्खचक्रगदापद्मवनमालाविभूषितम् ॥",
+      "source": {
+        "ref": "ws-skanda-reva-233",
+        "retrieved": "2026-11-01",
+        "modified": "शङखचक्र → शङ्खचक्र (missing virama); the second source hyphenates the compound"
+      },
+      "meaning": {
+        "hi": "वहाँ उन्होंने देव नारायण को देखा — शुक्ल (गौर) वर्ण, चार भुजाएँ, शंख, चक्र, गदा, पद्म और वनमाला से सुशोभित।",
+        "en": "There he saw the god Narayana: fair in colour, four-armed, adorned with the conch, the discus, the mace, the lotus and a garland of forest flowers.",
+        "bho": "उहाँ उनका देव नारायण के दरसन भइल — गोर रंग, चार भुजा, शंख, चक्र, गदा, पदुम आ वनमाला से सजल।"
+      }
+    },
+    {
+      "v": 8,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "दृष्ट्वा तं देवदेवेशं स्तोतुं समुपचक्रमे ।\nनारद उवाच ।\nनमो वाङ्मनसातीतरूपायानन्तशक्तये ॥",
+      "source": {
+        "ref": "ws-skanda-reva-233",
+        "retrieved": "2026-11-01",
+        "modified": "द्दष्टवा → दृष्ट्वा (typing slip); वाङमनसा → वाङ्मनसा (missing virama; the second source prints वाङ्गमनसा); the speaker line नारद उवाच kept inside the verse as the page prints it"
+      },
+      "variants": [
+        {
+          "reading": "नमो वाङ्गमनसातीतरूपायानन्तशक्तये । आदिमध्यान्तहीनाय निर्गुणाय गुणात्मने ॥",
+          "note": {
+            "hi": "दूसरा स्रोत 'दृष्ट्वा तं देवदेवेशं…' को बिना संख्या की अर्ध-पंक्ति रखता है और श्लोक 8 की गिनती स्तुति से शुरू करता है; इसलिए उसके श्लोक 8–10 यहाँ के 8–10 से आधा श्लोक आगे चलते हैं। वहाँ 'वाङ्म' के स्थान पर ग-युक्त रूप छपा है।",
+            "en": "The second source prints 'dṛṣṭvā taṃ devadeveśaṃ…' as an unnumbered half-line and begins verse 8 with the hymn, so its verses 8–10 run half a verse ahead of the numbering here. It also reads vāṅga- for vāṅ- in vāṅmanasātīta.",
+            "bho": "दुसरा स्रोत 'दृष्ट्वा तं देवदेवेशं…' के बिना नंबर के आधा पंक्ति राखेला आ श्लोक 8 के गिनती स्तुति से सुरू करेला; एह से ओकर श्लोक 8–10 इहाँ के 8–10 से आधा श्लोक आगे चलेला। उहाँ 'वाङ्म' के जगह ग-वाला रूप छपल बा।"
+          },
+          "source": "sd-satyanarayan-katha"
+        }
+      ],
+      "meaning": {
+        "hi": "उन देवों के देव को देखकर नारद जी स्तुति करने लगे। नारद जी बोले — वाणी और मन से परे रूप वाले, अनंत शक्ति वाले आपको नमस्कार।",
+        "en": "Seeing that Lord of the gods, Narada began to praise him. Narada said: Salutation to you, whose form lies beyond speech and mind, whose power has no end.",
+        "bho": "ऊ देवता लोग के देव के देख के नारद जी स्तुति करे लगलन। नारद जी कहलन — वाणी आ मन से परे रूप वाला, अनंत शक्ति वाला रउआ के परनाम।"
+      }
+    },
+    {
+      "v": 9,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "आदिमध्यान्तहीनाय निर्गुणाय गुणात्मने । सर्वेषामादिभूताय भक्तानामार्तिनाशिने ॥",
+      "source": {
+        "ref": "ws-skanda-reva-233",
+        "retrieved": "2026-11-01",
+        "modified": "गुणत्मने → गुणात्मने (missing vowel sign)"
+      },
+      "meaning": {
+        "hi": "जो आदि, मध्य और अंत से रहित हैं, निर्गुण होकर भी गुणों के आत्मा हैं, सबके आदिकारण हैं और भक्तों की पीड़ा हरने वाले हैं — उन्हें नमस्कार।",
+        "en": "To him who has no beginning, middle or end, who is beyond qualities yet the very self of the qualities, the first cause of all, the remover of his devotees' distress — salutation.",
+        "bho": "जे आदि, मध्य आ अंत से रहित बाड़न, निर्गुण होखियो के गुन के आत्मा बाड़न, सब के आदिकारन बाड़न आ भक्त लोग के पीड़ा हरे वाला बाड़न — उनका के परनाम।"
+      }
+    },
+    {
+      "v": 10,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "श्रुत्वा स्तोत्रं ततो विष्णुर्नारदं प्रत्यभाषत ।\nश्रीभगवानुवाच ।\nकिमर्थमागतोऽसि त्वं किं ते मनसि वर्तते ॥",
+      "source": {
+        "ref": "ws-skanda-reva-233",
+        "retrieved": "2026-11-01",
+        "modified": "कि ते → किं ते (missing anusvara); the speaker line श्रीभगवानुवाच kept inside the verse as the page prints it"
+      },
+      "meaning": {
+        "hi": "स्तुति सुनकर विष्णु भगवान नारद जी से बोले। श्रीभगवान बोले — तुम किस प्रयोजन से आए हो? तुम्हारे मन में क्या है?",
+        "en": "Hearing the hymn, Vishnu then spoke to Narada. The Lord said: For what purpose have you come? What is on your mind?",
+        "bho": "स्तुति सुन के विष्णु भगवान नारद जी से बोललन। श्रीभगवान कहलन — तू कवना काम से आइल बाड़े? तोहरा मन में का बा?"
+      }
+    },
+    {
+      "v": 11,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "कथयस्व महाभाग तत्सर्वं कथयामि ते ।\nनारद उवाच ।\nमर्त्यलोके जनाः सर्वे नानाक्लेशसमन्विताः । नानायोनिसमुत्पन्नाः पच्यन्ते पापकर्मभिः ॥",
+      "source": {
+        "ref": "ws-skanda-reva-233",
+        "retrieved": "2026-11-01",
+        "modified": "spacing normalised; the speaker line नारद उवाच kept inside the verse as the page prints it (six padas in this numbering)"
+      },
+      "meaning": {
+        "hi": "हे महाभाग, कहो; मैं तुम्हें वह सब बताऊँगा। नारद जी बोले — मर्त्यलोक में सब लोग तरह-तरह के क्लेशों से घिरे हैं; अनेक योनियों में जन्म लेकर वे अपने पापकर्मों से तपते हैं।",
+        "en": "Tell me, fortunate one, and I shall explain it all to you. Narada said: In the mortal world all people are beset with many kinds of affliction; born into many wombs, they are scorched by their own sinful deeds.",
+        "bho": "हे महाभाग, कहऽ; हम तोहरा ऊ सब बताइब। नारद जी कहलन — मर्त्यलोक में सब लोग तरह-तरह के क्लेश से घेराइल बा; कई योनि में जनम ले के ऊ लोग आपन पाप-कर्म से तपत बा।"
+      }
+    },
+    {
+      "v": 12,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "तत्कथं शमयेन्नाथ लघूपायेन तद्वद । श्रोतुमिच्छामि तत्सर्वं कृपास्ति यदि ते मयि ॥",
+      "meaning": {
+        "hi": "हे नाथ, वह दुख किस छोटे उपाय से शांत हो सकता है, यह बताइए; यदि आपकी मुझ पर कृपा है तो मैं वह सब सुनना चाहता हूँ।",
+        "en": "Lord, tell me by what simple means that suffering may be quieted; if you have grace for me, I wish to hear all of it.",
+        "bho": "हे नाथ, ऊ दुख कवना छोट उपाय से शांत हो सकेला, ई बताईं; अगर रउआ के हमरा पर किरपा बा त हम ऊ सब सुनल चाहत बानी।"
+      }
+    },
+    {
+      "v": 13,
+      "verseKind": "shloka",
+      "svara": false,
+      "speaker": "श्रीभगवानुवाच",
+      "devanagari": "साधु पृष्टं त्वया वत्स लोकानुग्रहकाङ्क्षया । यत्कृत्वा मुच्यते मोहात्तच्छृणुष्व वदामि ते ॥",
+      "meaning": {
+        "hi": "श्रीभगवान बोले — हे वत्स, लोगों पर कृपा की इच्छा से तुमने अच्छा प्रश्न किया। जिसे करके मनुष्य मोह से छूट जाता है, वह मैं तुम्हें बताता हूँ; सुनो।",
+        "en": "The Lord said: Well asked, my child, out of a wish to help the people. I shall tell you what a person may do to be freed from delusion; listen.",
+        "bho": "श्रीभगवान कहलन — हे बेटा, लोग पर किरपा के इच्छा से तू नीक सवाल पूछले। जेकरा कइला से मनई मोह से छूट जाला, ऊ हम तोहरा बतावत बानी; सुनऽ।"
+      }
+    },
+    {
+      "v": 14,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "व्रतमस्ति महत्पुण्यं स्वर्गे मर्त्ये च दुर्लभम् । तव स्नेहान्मया वत्स प्रकाशः क्रियतेऽधुना ॥",
+      "meaning": {
+        "hi": "एक बड़ा पुण्यमय व्रत है, जो स्वर्ग और मर्त्यलोक दोनों में दुर्लभ है। हे वत्स, तुम्हारे स्नेह के कारण आज मैं उसे प्रकट करता हूँ।",
+        "en": "There is a vrat of great merit, rare both in heaven and in the mortal world. Out of affection for you, my child, I now make it known.",
+        "bho": "एगो बड़ा पुण्य वाला बरत बा, जे सरग आ मर्त्यलोक दुनो में दुर्लभ बा। हे बेटा, तोहरा से नेह के कारन आज हम ओकरा प्रकट करत बानी।"
+      }
+    },
+    {
+      "v": 15,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "सत्यनारायणस्यैव व्रतं सम्यग्विधानतः । कृत्वा सद्यः सुखं भुक्त्वा परत्र मोक्षमाप्नुयात् ॥",
+      "source": {
+        "ref": "ws-skanda-reva-233",
+        "retrieved": "2026-11-01",
+        "modified": "भुक्त्त्वापरत्र → भुक्त्वा परत्र (doubled त् and spacing)"
+      },
+      "variants": [
+        {
+          "reading": "सत्यनारायणस्यैवं व्रतं सम्यग्विधानतः । कृत्वा सद्यः सुखं भुक्त्वा परत्र मोक्षमाप्नुयात् । तच्छ्रुत्वा भगवद्वाक्यं नारदो मुनिरब्रवीत् ॥",
+          "note": {
+            "hi": "दूसरा स्रोत कोष्ठक में 'सत्यनारायणस्यैवं' (एवं = इस प्रकार) पाठांतर देता है और 'तच्छ्रुत्वा भगवद्वाक्यं…' की पंक्ति को इसी श्लोक में जोड़कर छह पद का श्लोक 15 बनाता है; यहाँ वह पंक्ति श्लोक 16 में है।",
+            "en": "The second source notes the variant satyanārāyaṇasyaivaṃ (evaṃ, 'thus') in brackets and attaches the line tacchrutvā bhagavadvākyaṃ… to this verse as a six-pada verse 15; here that line opens verse 16.",
+            "bho": "दुसरा स्रोत कोष्ठक में 'सत्यनारायणस्यैवं' (एवं = अइसे) पाठांतर देला आ 'तच्छ्रुत्वा भगवद्वाक्यं…' वाला पंक्ति के एही श्लोक में जोड़ के छह पद के श्लोक 15 बनावेला; इहाँ ऊ पंक्ति श्लोक 16 में बा।"
+          },
+          "source": "sd-satyanarayan-katha"
+        }
+      ],
+      "phalashruti": true,
+      "meaning": {
+        "hi": "सत्यनारायण का व्रत विधिपूर्वक करके मनुष्य इसी समय सुख भोगता है और परलोक में मोक्ष पाता है।",
+        "en": "Performing the vrat of Satyanarayan in the proper way, a person enjoys happiness here at once and attains liberation hereafter.",
+        "bho": "सत्यनारायण के बरत विधि से कइला पर मनई एहिजे तुरते सुख भोगेला आ परलोक में मोक्ष पावेला।"
+      }
+    },
+    {
+      "v": 16,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "तच्छ्रुत्वा भगवद्वाक्यं नारदो मुनिरब्रवीत् ।\nनारद उवाच ।\nकिम्फलं किंविधानञ्च कृतं केनैव तद् व्रतम् ॥",
+      "source": {
+        "ref": "ws-skanda-reva-233",
+        "retrieved": "2026-11-01",
+        "modified": "तच्छुत्वा → तच्छ्रुत्वा (missing र); the speaker line नारद उवाच kept inside the verse as the page prints it; the sandhi spellings किम्फलं किंविधानञ्च of the page kept"
+      },
+      "variants": [
+        {
+          "reading": "किं फलं किं विधानं च कृतं केनैव तद् व्रतम् । तत्सर्वं विस्तराद् ब्रूहि कदा कार्यं व्रतं प्रभो ॥",
+          "note": {
+            "hi": "दूसरे स्रोत में श्लोक 16 नारद जी के प्रश्न की दोनों पंक्तियों से बना है (यहाँ का 16 उत्तरार्ध + 17 पूर्वार्ध), और 'दुःखशोकादिशमनं…' अकेली पंक्ति उसका श्लोक 17 है। शब्द वही हैं, केवल संधि-लेखन अलग है।",
+            "en": "In the second source verse 16 consists of both lines of Narada's question (the second half of 16 and the first half of 17 here), and the single line duḥkhaśokādiśamanaṃ… is its verse 17. The words are the same; only the sandhi spelling differs.",
+            "bho": "दुसरा स्रोत में श्लोक 16 नारद जी के सवाल के दुनो पंक्ति से बनल बा (इहाँ के 16 के दुसरा आधा + 17 के पहिला आधा), आ 'दुःखशोकादिशमनं…' अकेल पंक्ति ओकर श्लोक 17 बा। शब्द ओही बा, खाली संधि-लेखन अलग बा।"
+          },
+          "source": "sd-satyanarayan-katha"
+        }
+      ],
+      "meaning": {
+        "hi": "भगवान का यह वचन सुनकर नारद मुनि बोले। नारद जी बोले — इस व्रत का फल क्या है, इसका विधान क्या है, और इसे पहले किसने किया?",
+        "en": "Hearing these words of the Lord, the sage Narada spoke. Narada said: What is the fruit of this vrat, what is its procedure, and who has performed it before?",
+        "bho": "भगवान के ई बात सुन के नारद मुनि बोललन। नारद जी कहलन — एह बरत के फल का बा, एकर विधान का बा, आ एकरा पहिले के कइल?"
+      }
+    },
+    {
+      "v": 17,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "तत्सर्वं विस्तराद् ब्रूहि कदा कार्यं हि तद् व्रतम् । दुःखशोकादिशमनं धनधान्यप्रवर्धनम् ॥",
+      "source": {
+        "ref": "ws-skanda-reva-233",
+        "retrieved": "2026-11-01",
+        "modified": "तद व्रतम् → तद् व्रतम् (missing virama)"
+      },
+      "variants": [
+        {
+          "reading": "तत्सर्वं विस्तराद् ब्रूहि कदा कार्यं व्रतं प्रभो । श्रीभगवानुवाच । दुःखशोकादिशमनं धनधान्यप्रवर्धनम् ॥",
+          "note": {
+            "hi": "दूसरा स्रोत 'कदा कार्यं व्रतं प्रभो' पढ़ता है और यहाँ के पाठ को कोष्ठक में पाठांतर के रूप में देता है; वह उत्तरार्ध से पहले 'श्रीभगवानुवाच' भी छापता है, जो मूल स्रोत में नहीं है — उत्तरार्ध भगवान का उत्तर है।",
+            "en": "The second source reads kadā kāryaṃ vrataṃ prabho and gives the reading here as a bracketed variant; it also prints śrībhagavānuvāca before the second half, which the copy source omits — the second half is the Lord's reply.",
+            "bho": "दुसरा स्रोत 'कदा कार्यं व्रतं प्रभो' पढ़ेला आ इहाँ के पाठ के कोष्ठक में पाठांतर के रूप में देला; ऊ दुसरा आधा से पहिले 'श्रीभगवानुवाच' भी छापेला, जे मूल स्रोत में नइखे — दुसरा आधा भगवान के जवाब बा।"
+          },
+          "source": "sd-satyanarayan-katha"
+        }
+      ],
+      "phalashruti": true,
+      "meaning": {
+        "hi": "यह सब विस्तार से कहिए, और यह भी कि वह व्रत कब करना चाहिए। (श्रीभगवान का उत्तर —) यह व्रत दुख-शोक आदि का शमन करने वाला और धन-धान्य बढ़ाने वाला है।",
+        "en": "Tell me all this in detail, and also when that vrat should be performed. (The Lord replies:) It quiets sorrow, grief and the like, and increases wealth and grain.",
+        "bho": "ई सब बिस्तार से कहीं, आ ईहो कि ऊ बरत कब करे के चाहीं। (श्रीभगवान के जवाब —) ई बरत दुख-शोक आदि के शांत करे वाला आ धन-धान बढ़ावे वाला बा।"
+      }
+    },
+    {
+      "v": 18,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "सौभाग्यसन्ततिकरं सर्वत्र विजयप्रदम् । यस्मिन् कस्मिन्दिने मर्त्यो भक्तिश्रद्धासमन्वितः ॥",
+      "phalashruti": true,
+      "meaning": {
+        "hi": "यह सौभाग्य और संतान देने वाला तथा सब जगह विजय दिलाने वाला है। जिस किसी भी दिन मनुष्य भक्ति और श्रद्धा से युक्त होकर —",
+        "en": "It bestows good fortune and progeny and grants victory everywhere. On whatever day a person, filled with devotion and faith —",
+        "bho": "ई सौभाग्य आ संतान देवे वाला आ हर जगह जीत देवावे वाला बा। जवना कवनो दिन मनई भक्ति आ श्रद्धा से भर के —"
+      }
+    },
+    {
+      "v": 19,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "सत्यनारायणं देवं यजेच्चैव निशामुखे । ब्राह्मणैर्बान्धवैश्चैव सहितो धर्मतत्परः ॥",
+      "source": {
+        "ref": "ws-skanda-reva-233",
+        "retrieved": "2026-11-01",
+        "modified": "बान्धबैश्चैव → बान्धवैश्चैव (ब typed for व)"
+      },
+      "meaning": {
+        "hi": "— संध्या के समय ब्राह्मणों और बंधु-बांधवों के साथ, धर्म में तत्पर होकर, सत्यनारायण देव की पूजा करे।",
+        "en": "— should worship the god Satyanarayan at dusk, in the company of Brahmins and kinsfolk, intent on dharma.",
+        "bho": "— साँझ के बेरा ब्राह्मण लोग आ हित-नाता के साथे, धरम में लागल रह के, सत्यनारायण देव के पूजा करे।"
+      }
+    },
+    {
+      "v": 20,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "नैवेद्यं भक्तितो दद्यात्सपादं भक्तिसंयुतम् । रम्भाफलं घृतं क्षीरं गोधूमस्य च चूर्णकम् ॥",
+      "source": {
+        "ref": "ws-skanda-reva-233",
+        "retrieved": "2026-11-01",
+        "modified": "चूर्णाकम् → चूर्णकम् (stray vowel sign; so the second source and adhyaya 2 verse 25)"
+      },
+      "variants": [
+        {
+          "reading": "नैवेद्यं भक्तितो दद्यात् सपादं भक्ष्यमुत्तमम् ।",
+          "note": {
+            "hi": "दूसरा स्रोत 'भक्तिसंयुतम्' (भक्ति से युक्त) के स्थान पर 'भक्ष्यमुत्तमम्' (उत्तम खाद्य) पढ़ता है।",
+            "en": "The second source reads bhakṣyam uttamam ('the finest food') for bhaktisaṃyutam ('joined with devotion').",
+            "bho": "दुसरा स्रोत 'भक्तिसंयुतम्' (भक्ति से भरल) के जगह 'भक्ष्यमुत्तमम्' (उत्तम खाना) पढ़ेला।"
+          },
+          "source": "sd-satyanarayan-katha"
+        }
+      ],
+      "meaning": {
+        "hi": "भक्ति से युक्त होकर सवा (सपाद) मात्रा का नैवेद्य भक्तिपूर्वक अर्पित करे — केला, घी, दूध और गेहूँ का आटा।",
+        "en": "With devotion one should offer a naivedya in the sapada (one-and-a-quarter) measure: banana, ghee, milk and wheat flour.",
+        "bho": "भक्ति से भर के सवा (सपाद) माप के नैवेद्य भक्ति से चढ़ावे — केरा, घीव, दूध आ गोहूँ के आटा।"
+      }
+    },
+    {
+      "v": 21,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "अभावे शालिचूर्णं वा शर्करा च गुडस्तथा । सपादं सर्वभक्ष्याणि चैकीकृत्य निवेदयेत् ॥",
+      "variants": [
+        {
+          "reading": "अभावे शालिचूर्णं वा शर्करा वा गुडस्तथा ।",
+          "note": {
+            "hi": "दूसरा स्रोत 'शर्करा च' (शक्कर और) के स्थान पर 'शर्करा वा' (शक्कर या) पढ़ता है — शक्कर न हो तो गुड़।",
+            "en": "The second source reads śarkarā vā ('or sugar') for śarkarā ca ('and sugar') — jaggery when there is no sugar.",
+            "bho": "दुसरा स्रोत 'शर्करा च' (चीनी आ) के जगह 'शर्करा वा' (चीनी भा) पढ़ेला — चीनी ना होखे त गुड़।"
+          },
+          "source": "sd-satyanarayan-katha"
+        }
+      ],
+      "meaning": {
+        "hi": "गेहूँ के अभाव में चावल का आटा, और शक्कर तथा गुड़ — इन सब खाद्य वस्तुओं को सवा मात्रा में एक साथ मिलाकर अर्पित करे।",
+        "en": "If wheat is not available, rice flour; and sugar and jaggery. All these foods, in the sapada measure, should be mixed together and offered.",
+        "bho": "गोहूँ ना होखे त चाउर के आटा, आ चीनी आ गुड़ — ई सब खाए के चीज सवा माप में एक साथे मिला के चढ़ावे।"
+      }
+    },
+    {
+      "v": 22,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "विप्राय दक्षिणां दद्यात्कथां श्रुत्वा जनैः सह । ततश्च बन्धुभिः सार्धं विप्रांश्च प्रतिभोजयेत् ॥",
+      "meaning": {
+        "hi": "लोगों के साथ कथा सुनकर ब्राह्मण को दक्षिणा दे; फिर बंधुओं के साथ ब्राह्मणों को भोजन कराए।",
+        "en": "Having heard the katha together with the people, one should give dakshina to the Brahmin; then feed the Brahmins along with one's kinsfolk.",
+        "bho": "लोग के साथे कथा सुन के ब्राह्मण के दक्षिणा देवे; फेर हित-नाता के साथे ब्राह्मण लोग के भोजन करावे।"
+      }
+    },
+    {
+      "v": 23,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "प्रसादं भक्षयेद्भक्त्या नृत्यगीतादिकं चरेत् । ततश्च स्वगृहं गच्छेत्सत्यनारायणं स्मरन् ॥",
+      "meaning": {
+        "hi": "भक्ति से प्रसाद ग्रहण करे, नृत्य-गीत आदि करे; फिर सत्यनारायण का स्मरण करते हुए अपने घर जाए।",
+        "en": "One should eat the prasad with devotion, and sing and dance; then go home remembering Satyanarayan.",
+        "bho": "भक्ति से परसाद ग्रहन करे, नाच-गान आदि करे; फेर सत्यनारायण के सुमिरन करत आपन घर जाए।"
+      }
+    },
+    {
+      "v": 24,
+      "verseKind": "shloka",
+      "svara": false,
+      "devanagari": "एवं कृते मनुष्याणां वाञ्छासिद्धिर्भवेद् ध्रुवम् । विशेषतः कलियुगे लघूपायोऽस्ति भूतले ॥",
+      "variants": [
+        {
+          "reading": "विशेषतः कलियुगे लघूपायोस्ति भूतले ॥",
+          "note": {
+            "hi": "दूसरा स्रोत कोष्ठक में बिना अवग्रह का रूप 'लघूपायोस्ति' भी देता है; अर्थ वही है।",
+            "en": "The second source also notes the spelling laghūpāyosti without the avagraha in brackets; the sense is the same.",
+            "bho": "दुसरा स्रोत कोष्ठक में बिना अवग्रह के रूप 'लघूपायोस्ति' भी देला; अरथ ओही बा।"
+          },
+          "source": "sd-satyanarayan-katha"
+        }
+      ],
+      "phalashruti": true,
+      "meaning": {
+        "hi": "ऐसा करने पर मनुष्यों की इच्छा निश्चय ही सिद्ध होती है; विशेष रूप से कलियुग में यह पृथ्वी पर एक सहज उपाय है।",
+        "en": "When this is done, people's wishes are surely fulfilled; in the Kali age especially, this is an easy means available on earth.",
+        "bho": "अइसन कइला पर मनई के इच्छा जरूर पूरा होला; खास कर कलियुग में ई धरती पर एगो सहज उपाय बा।"
+      }
+    }
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}
