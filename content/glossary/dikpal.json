@@ -1,0 +1,25 @@
+{
+  "id": "dikpal",
+  "definition": {
+    "hi": "दस दिशाओं के रक्षक — इंद्र (पूर्व), अग्नि (आग्नेय), यम (दक्षिण), निर्ऋति (नैऋत्य), वरुण (पश्चिम), वायु (वायव्य), कुबेर (उत्तर), ईशान (ईशान), ब्रह्मा (ऊर्ध्व) और अनंत (अधः) — जिनका वेदी के चारों ओर उनके स्थान पर आवाहन कर [[akshat]] अर्पित किया जाता है, ताकि कर्म-स्थल हर ओर से सुरक्षित रहे।",
+    "en": "The guardians of the ten directions — Indra (east), Agni (south-east), Yama (south), Nirriti (south-west), Varuna (west), Vayu (north-west), Kubera (north), Ishana (north-east), Brahma (above) and Ananta (below) — invoked and offered rice at their places around the altar so that the ritual space is guarded on every side.",
+    "bho": "दस दिशा के रक्षक — इंद्र (पूरब), अग्नि (आग्नेय), यम (दक्खिन), निर्ऋति (नैऋत्य), वरुण (पच्छिम), वायु (वायव्य), कुबेर (उत्तर), ईशान (ईशान), ब्रह्मा (ऊपर) आ अनंत (नीचे) — जिनका के बेदी के चारो ओर उनकर जगह पर आवाहन कर के [[akshat]] चढ़ावल जाला, ताकि कर्म-स्थल हर ओर से सुरक्षित रहे।"
+  },
+  "related": [
+    "disha",
+    "indra",
+    "agni",
+    "yam",
+    "varun",
+    "kuber",
+    "panchang-pujan",
+    "navagraha-pujan"
+  ],
+  "occasions": [
+    "dikpal-panchang-pujan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

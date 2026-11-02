@@ -1,0 +1,26 @@
+{
+  "id": "naivedya",
+  "definition": {
+    "hi": "दीप के बाद देवता के सामने रखा जाने वाला भोजन: फल, मिठाई, खीर, पंजीरी या पका भोजन, जिसके चारों ओर थोड़ा जल छिड़का जाता है और पाँच प्राणों के मंत्र (प्राणाय स्वाहा…) पढ़े जाते हैं; जब तक देवता भोग लगाते हैं, उसे पत्ते से ढँका जाता है। जो बचता है वही [[prasad]] है।",
+    "en": "The food offering placed before the deity after the lamp: fruit, sweets, kheer, panjiri or a cooked meal, with a little water sprinkled around the plate and the mantras of the five breaths (pranaya svaha…) recited; a leaf covers it while the deity is thought to eat. What remains becomes prasada.",
+    "bho": "दीया के बाद देवता के आगे रखल जाए वाला भोजन: फल, मिठाई, खीर, पंजीरी भा पकल भोजन, जेकरा चारो ओर थोड़ा जल छिड़कल जाला आ पाँच प्रान के मंत्र (प्राणाय स्वाहा…) पढ़ल जाला; जब तक देवता भोग लगावेलन, ओकरा पत्ता से तोपल जाला। जे बचेला उहे [[prasad]] बा।"
+  },
+  "related": [
+    "bhog",
+    "prasad",
+    "phal",
+    "mithai",
+    "kheer",
+    "panjiri",
+    "panchamrit",
+    "tambul",
+    "shodashopachar"
+  ],
+  "occasions": [
+    "shodashopachar"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

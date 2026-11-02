@@ -1,0 +1,23 @@
+{
+  "id": "bhog",
+  "definition": {
+    "hi": "देवता को अर्पित भोजन और, विस्तार से, उसे अर्पित करने की क्रिया ('भोग लगाना'): [[naivedya]] का घरेलू शब्द। हर मंदिर और घर के देवस्थान का भोग का समय होता है; जो चढ़ता है वह बाद में [[prasad]] के रूप में खाया जाता है।",
+    "en": "The food offered to the deity and, by extension, the act of offering it ('bhog lagana'): the household word for naivedya. Every temple and home shrine has its hour of bhog; what is offered is eaten afterwards as prasada.",
+    "bho": "देवता के चढ़ावल भोजन आ ओकरा चढ़ावे के काम भी ('भोग लगावल'): [[naivedya]] के घरेलू शब्द। हर मंदिर आ घर के देवस्थान के भोग के बेरा होला; जे चढ़ेला ऊ बाद में [[prasad]] के रूप में खाइल जाला।"
+  },
+  "related": [
+    "naivedya",
+    "prasad",
+    "kheer",
+    "mithai",
+    "phal",
+    "thakur-ji"
+  ],
+  "occasions": [
+    "shodashopachar"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

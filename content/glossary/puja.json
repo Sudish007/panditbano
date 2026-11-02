@@ -1,0 +1,19 @@
+{
+  "id": "puja",
+  "definition": {
+    "hi": "देवता के सम्मान में निश्चित क्रम से उपचार (सेवाएँ) अर्पित करने की विधि। घर में यह छोटे [[panchopachar]] से लेकर पूरे [[shodashopachar]] तक होती है; पंडित मंत्र बोलते हैं और यजमान अपने हाथों से क्रियाएँ करता है।",
+    "en": "Worship of a deity through services (upacharas) offered in a set order. In the home it ranges from the short five-step panchopachara to the full sixteen-step shodashopachara; the pandit speaks the mantras while the host (yajaman) performs the actions with his own hands.",
+    "bho": "देवता के सम्मान में तय क्रम से उपचार (सेवा) चढ़ावे के विधि। घर में ई छोट [[panchopachar]] से ले के पूरा [[shodashopachar]] तक होला; पंडित जी मंत्र बोलेलन आ जजमान आपन हाथ से काम करेलन।"
+  },
+  "related": [
+    "shodashopachar",
+    "panchopachar",
+    "dev-puja",
+    "yajman",
+    "pandit"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

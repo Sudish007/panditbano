@@ -1,0 +1,21 @@
+{
+  "id": "pavitrikaran",
+  "definition": {
+    "hi": "पूजा की शुरुआत में आत्म-शुद्धि: कुश या फूल से पंडित यजमान (और स्वयं) पर जल छिड़कते हैं और 'अपवित्रः पवित्रो वा' से आरंभ होने वाला श्लोक पढ़ते हैं, जिसका भाव है कि विष्णु का स्मरण करने वाला भीतर-बाहर पवित्र हो जाता है।",
+    "en": "Self-purification at the start of a puja: with a few kusha blades or a flower the pandit sprinkles water on the host (and himself) while reciting the verse beginning apavitrah pavitro va, which says that whoever remembers Vishnu becomes pure within and without.",
+    "bho": "पूजा के शुरुआत में आपन शुद्धि: कुश भा फूल से पंडित जी जजमान (आ आपनो) पर जल छिड़केलन आ 'अपवित्रः पवित्रो वा' से शुरू होखे वाला श्लोक पढ़ेलन, जेकर भाव बा कि विष्णु भगवान के सुमिरन करे वाला भीतर-बाहर पवित्र हो जाला।"
+  },
+  "related": [
+    "achaman",
+    "kush",
+    "snan",
+    "sankalp"
+  ],
+  "occasions": [
+    "achaman-pavitrikaran"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

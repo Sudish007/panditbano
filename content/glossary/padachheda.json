@@ -1,0 +1,20 @@
+{
+  "id": "padachheda",
+  "definition": {
+    "hi": "मंत्र को संधि खोलकर अलग-अलग पदों में बाँटना, ताकि हर पद का अर्थ दिया जा सके — वैदिक पंक्ति को समझने का पहला चरण, जो पाठशाला में अर्थ से पहले सिखाया जाता है। इस साइट पर हर विधि-मंत्र के साथ पदच्छेद और हर पद का अर्थ दिया है।",
+    "en": "Splitting a mantra into its separate words, undoing the sandhi, so that each word can be glossed — the first step in understanding a Vedic line, taught in the pathashala before the meaning. On this site every ritual mantra carries a padachheda with the meaning of each word.",
+    "bho": "मंत्र के संधि खोल के अलग-अलग पद में बाँटल, ताकि हर पद के अरथ दिहल जा सके — वैदिक पाँती के समझे के पहिला चरन, जे पाठशाला में अरथ से पहिले सिखावल जाला। एह साइट पर हर विधि-मंत्र के साथे पदच्छेद आ हर पद के अरथ दिहल बा।"
+  },
+  "related": [
+    "mantra",
+    "vinyog",
+    "arth",
+    "uchcharan",
+    "sanskrit"
+  ],
+  "notes": "ownerQuestion 21 (R5 §7): अर्थ in labels, अरथ in Bhojpuri prose — followed here; bhoAlt 'शब्द के अरथ' left to the term bank.",
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

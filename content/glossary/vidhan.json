@@ -1,0 +1,19 @@
+{
+  "id": "vidhan",
+  "definition": {
+    "hi": "शास्त्रों में निर्धारित नियम — क्या करना है, किसे और कब (जैसे यह विधान कि हर कर्म से पहले [[sankalp]] हो)। विधान नियम बताता है; [[vidhi]] उसे करने का तरीका।",
+    "en": "A rule or ordinance laid down by the texts: what must be done, by whom and when (for example, the ordinance that a sankalpa precedes every rite). Vidhana states the rule; vidhi describes how it is carried out.",
+    "bho": "शास्त्र में तय कइल नियम — का करे के बा, केकरा आ कब (जइसे ई विधान कि हर कर्म से पहिले [[sankalp]] होखे)। विधान नियम बतावेला; [[vidhi]] ओकरा करे के तरीका।"
+  },
+  "related": [
+    "vidhi",
+    "karmakand",
+    "sankalp",
+    "grihya-sutra"
+  ],
+  "notes": "ownerQuestion 20 (R5 §7): व kept (विधान); folk बिधान only as the bhoFolk bracket.",
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

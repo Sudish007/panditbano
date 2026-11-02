@@ -1,0 +1,23 @@
+{
+  "id": "tilak",
+  "definition": {
+    "hi": "माथे पर रोली, चंदन, कुमकुम या भस्म का चिह्न, जो देवता, यजमान और अतिथियों को लगाया जाता है: वैष्णव परंपरा में ऊर्ध्व पुंड्र, शैव में तीन आड़ी रेखाएँ (त्रिपुंड), पूजा में सबको रोली की बिंदी और उस पर [[akshat]]। पंडित इसे अनामिका से लगाते हैं; भोजपुरी में इसे टीका कहते हैं।",
+    "en": "The mark on the forehead — roli, sandal, kumkum or bhasma — applied to the deity, the host and the guests: a vertical mark in the Vaishnava tradition, three horizontal lines (tripunda) in the Shaiva, and at a puja a round bindi of roli with rice grains for everyone. The pandit applies it with the ring finger; in Bhojpuri it is the tika.",
+    "bho": "माथा पर रोरी, चंदन, कुमकुम भा भभूत के चिन्ह, जे देवता, जजमान आ अतिथि लोग के लगावल जाला: वैष्णव परंपरा में खड़ा टीका (ऊर्ध्व पुंड्र), शैव में तीन आड़ा रेखा (त्रिपुंड), पूजा में सभे के रोरी के बिंदी आ ओकरा पर [[akshat]]। पंडित जी एकरा अनामिका अँगुरी से लगावेलन; हिंदी में एकरा तिलक कहल जाला।"
+  },
+  "related": [
+    "gandh",
+    "roli",
+    "akshat",
+    "raksha-sutra",
+    "tilak-ceremony",
+    "bhasma-dharan"
+  ],
+  "occasions": [
+    "shodashopachar"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

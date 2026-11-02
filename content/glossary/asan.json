@@ -1,0 +1,22 @@
+{
+  "id": "asan",
+  "definition": {
+    "hi": "आवाहित देवता को दिया जाने वाला आसन — मंत्र के साथ कुछ [[akshat]] या फूल, जैसे किसी आदरणीय अतिथि को बैठाया जाए। यही शब्द उपासक की अपनी बैठक (चटाई) के लिए भी है, जो कुश, ऊन या सूत की हो, नंगी ज़मीन कभी नहीं।",
+    "en": "The seat offered to the invoked deity — a few grains of rice or a flower placed with the mantra — as one would seat an honoured guest. The word also names the mat the worshipper sits on, which should be of kusha, wool or cotton, never the bare ground.",
+    "bho": "आवाहन कइल देवता के दिहल जाए वाला आसन — मंत्र के साथे कुछ [[akshat]] भा फूल, जइसे कवनो आदर वाला अतिथि के बइठावल जाए। इहे शब्द पूजा करे वाला के आपन बइठकी (चटाई) खातिर भी बा, जे कुश, ऊन भा सूत के होखे, खाली जमीन कबो ना।"
+  },
+  "related": [
+    "avahan",
+    "padya",
+    "akshat",
+    "kush",
+    "shodashopachar"
+  ],
+  "occasions": [
+    "shodashopachar"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

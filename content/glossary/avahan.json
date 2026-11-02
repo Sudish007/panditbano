@@ -1,0 +1,22 @@
+{
+  "id": "avahan",
+  "definition": {
+    "hi": "पहला उपचार: मंत्र और हाथों की मुद्रा (आवाहनी) से देवता को प्रतिमा, कलश, सुपारी या [[akshat]]-पुंज में बुलाना, ताकि आगे की पूजा का कोई उपस्थित अतिथि हो। देवता से कर्म भर ठहरने की प्रार्थना की जाती है।",
+    "en": "Invocation, the first upachara: calling the deity into the image, kalasha, betel nut or rice mound with a mantra and a gesture of the hands (avahani mudra), so that the worship that follows has a present guest. The deity is asked to stay for the length of the rite.",
+    "bho": "पहिला उपचार: मंत्र आ हाथ के मुद्रा (आवाहनी) से देवता के मूरति, कलश, सुपारी भा [[akshat]] के ढेरी में बोलावल, ताकि आगे के पूजा के कवनो हाजिर अतिथि होखे। देवता से कर्म भर रुके के प्रार्थना कइल जाला।"
+  },
+  "related": [
+    "shodashopachar",
+    "dhyan",
+    "asan",
+    "visarjan",
+    "kalash-sthapana"
+  ],
+  "occasions": [
+    "shodashopachar"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

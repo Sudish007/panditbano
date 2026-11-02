@@ -1,0 +1,24 @@
+{
+  "id": "panchang-pujan",
+  "definition": {
+    "hi": "मुख्य देवता से पहले किए जाने वाले पाँच प्रारंभिक पूजन — [[ganesh-ambika-pujan]], कलश (वरुण) पूजन, [[shodash-matrika]] और [[sapta-ghrit-matrika]], [[navagraha-pujan]] तथा [[dikpal]] सहित पंच-लोकपाल पूजन (पद्धतियों में इन पाँचों का विभाजन थोड़ा भिन्न मिलता है)। बड़ी पूजा और हवन का यह मानक आरंभिक खंड है।",
+    "en": "The five preliminary worships performed before the deity of the day in the Madhyandina paddhati — Ganesha-Ambika, the kalasha (Varuna), the shodasha and sapta-ghrita matrikas, the navagrahas, and the pancha-lokapalas with the dikpalas (paddhatis divide the five slightly differently). It is the standard opening block of every larger puja and havan.",
+    "bho": "मुख्य देवता से पहिले कइल जाए वाला पाँच शुरुआती पूजन — [[ganesh-ambika-pujan]], कलश (वरुण) पूजन, [[shodash-matrika]] आ [[sapta-ghrit-matrika]], [[navagraha-pujan]] आ [[dikpal]] समेत पंच-लोकपाल पूजन (पद्धति सभ में एह पाँचो के बाँट थोड़ा अलग मिलेला)। बड़ पूजा आ हवन के ई मानक शुरुआती खंड बा।"
+  },
+  "related": [
+    "ganesh-ambika-pujan",
+    "kalash-sthapana",
+    "shodash-matrika",
+    "navagraha-pujan",
+    "dikpal",
+    "paddhati"
+  ],
+  "occasions": [
+    "dikpal-panchang-pujan"
+  ],
+  "notes": "Term-bank gloss says 'five limbs of the day'; the paddhati sense (five preliminary pujas: Ganesh-Ambika, kalash, matrika, navagraha, lokapala-dikpala) is used here — owner to confirm the gloss.",
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

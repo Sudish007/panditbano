@@ -1,0 +1,22 @@
+{
+  "id": "achamaniya",
+  "definition": {
+    "hi": "[[arghya]] के बाद देवता को दिया जाने वाला आचमन का जल, ताकि अतिथि मुख शुद्ध करे — पाँचवाँ उपचार, मंत्र के साथ एक आचमनी जल अर्पण-पात्र में। स्नान के बाद और नैवेद्य के बाद यह फिर दिया जाता है।",
+    "en": "Water for sipping, offered to the deity after the arghya so that the guest may rinse the mouth — the fifth upachara, a spoonful placed in the offering dish with its mantra. It is offered again after the bath and after the food.",
+    "bho": "[[arghya]] के बाद देवता के दिहल जाए वाला आचमन के जल, ताकि अतिथि के मुँह शुद्ध होखे — पाँचवाँ उपचार, मंत्र के साथे एक आचमनी जल अर्पन-बरतन में। नहान के बाद आ नैवेद्य के बाद ई फेर दिहल जाला।"
+  },
+  "related": [
+    "achaman",
+    "arghya",
+    "snan-upachara",
+    "naivedya",
+    "shodashopachar"
+  ],
+  "occasions": [
+    "shodashopachar"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "dev-puja",
+  "definition": {
+    "hi": "घर के देवस्थान पर कुल और इष्ट देवताओं की नित्य पूजा — पाँच दैनिक यज्ञों में से एक — प्रायः [[panchopachar]] से: प्रतिमाओं को स्नान या जल-छिड़काव, गंध, पुष्प, धूप, दीप और थोड़ा भोग, फिर [[aarti]]। इसे परिवार स्वयं करता है; पंडित बड़े अवसरों पर ही बुलाए जाते हैं।",
+    "en": "The daily worship of the household deities at the home shrine — one of the five daily yajnas — usually by panchopachara: a bath or sprinkling for the images, fragrant paste, flowers, incense, lamp and a small food offering, then an aarti. The family does it itself; a pandit is called only for larger occasions.",
+    "bho": "घर के देवस्थान पर कुल आ इष्ट देवता लोग के नित्य पूजा — पाँच रोज के यज्ञ में से एक — अधिकतर [[panchopachar]] से: मूरति सभ के नहान भा जल-छिड़काव, गंध, फूल, धूप, दीया आ थोड़ा भोग, फेर [[aarti]]। एकरा परिवार खुदे करेला; पंडित जी बड़ अवसर पर ही बोलावल जालन।"
+  },
+  "related": [
+    "panchopachar",
+    "nitya-karma",
+    "puja-path",
+    "aarti",
+    "kul-devta",
+    "ishta-devta",
+    "thakur-ji"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

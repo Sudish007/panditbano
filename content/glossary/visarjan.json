@@ -1,0 +1,22 @@
+{
+  "id": "visarjan",
+  "definition": {
+    "hi": "कर्म के अंत में विदाई: हाथ में [[akshat]] लेकर पंडित आवाहित देवताओं से अपने धाम को लौटने की प्रार्थना करते हैं (विदाई का वैदिक मंत्र) और कलश या प्रतिमा को थोड़ा हिलाकर विदा का संकेत देते हैं। मिट्टी की प्रतिमा और नवरात्रि के जवारों के लिए इसका अर्थ जल में प्रवाहित करना भी है।",
+    "en": "The farewell at the end of a rite: with rice in hand the pandit asks the invoked deities to return to their abodes (the mantra beginning yantu devaganah) and moves the kalasha or image slightly to mark their leave. For clay images and the Navratri barley it also means immersion in water.",
+    "bho": "कर्म के अंत में बिदाई: हाथ में [[akshat]] ले के पंडित जी आवाहन कइल देवता लोग से आपन धाम लवटे के प्रार्थना करेलन (बिदाई के वैदिक मंत्र) आ कलश भा मूरति के थोड़ा हिला के बिदा के संकेत देलन। माटी के मूरति आ नवरात्र के जवारा खातिर एकर अरथ जल में प्रवाहित कइल भी बा।"
+  },
+  "related": [
+    "avahan",
+    "kshama-prarthana",
+    "shanti-path",
+    "ghatasthapana",
+    "asthi-visarjan"
+  ],
+  "occasions": [
+    "aarti-pushpanjali-visarjan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

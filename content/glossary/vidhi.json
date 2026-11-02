@@ -1,0 +1,20 @@
+{
+  "id": "vidhi",
+  "definition": {
+    "hi": "किसी कर्म की निर्धारित प्रक्रिया — कौन-सी क्रिया किसके बाद, किस मंत्र और किस सामग्री के साथ। इस साइट का हर अवसर-पृष्ठ एक विधि के रूप में, चरण-दर-चरण लिखा गया है।",
+    "en": "The prescribed procedure of a rite: which action comes after which, with its mantra and its materials. Every occasion page on this site is written as a vidhi, step by step.",
+    "bho": "कवनो कर्म के तय प्रक्रिया — कवन काम केकरा बाद, कवन मंत्र आ कवन सामग्री के साथे। एह साइट के हर अवसर-पन्ना एगो विधि के रूप में, कदम-दर-कदम लिखल गइल बा।"
+  },
+  "related": [
+    "vidhan",
+    "karmakand",
+    "paddhati",
+    "mantra",
+    "samagri"
+  ],
+  "notes": "ownerQuestion 20 (R5 §7): व kept in Bhojpuri prose (विधि); folk बिधि appears only as the bhoFolk bracket from the term bank.",
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

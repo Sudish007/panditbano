@@ -1,0 +1,22 @@
+{
+  "id": "vastra",
+  "definition": {
+    "hi": "स्नान के बाद देवता को दिया जाने वाला वस्त्र — नया कपड़ा, मौली या उसके प्रतीक रूप में कपास के कुछ रेशे — मंत्र के साथ; मुख्य देवता के लिए पद्धति के अनुसार लाल, पीला या सफ़ेद कपड़ा। इसके बाद उपवस्त्र (दूसरा वस्त्र) भी दिया जा सकता है।",
+    "en": "The cloth offered to the deity after the bath — a piece of new cloth, a mauli thread or a few strands of cotton standing for it — with its mantra; for the main deity a red, yellow or white cloth as the paddhati prescribes. An upavastra (second cloth) may follow.",
+    "bho": "नहान के बाद देवता के दिहल जाए वाला वस्त्र — नवका कपड़ा, मौली भा ओकरा प्रतीक में कपास के कुछ रेशा — मंत्र के साथे; मुख्य देवता खातिर पद्धति के हिसाब से लाल, पीयर भा उज्जर कपड़ा। एकरा बाद उपवस्त्र (दूसर वस्त्र) भी दिहल जा सकेला।"
+  },
+  "related": [
+    "snan-upachara",
+    "yajnopavit-upachara",
+    "pitambar",
+    "lal-kapda",
+    "shodashopachar"
+  ],
+  "occasions": [
+    "shodashopachar"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

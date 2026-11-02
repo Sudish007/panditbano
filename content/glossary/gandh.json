@@ -1,0 +1,23 @@
+{
+  "id": "gandh",
+  "definition": {
+    "hi": "सुगंधित लेप — चंदन, रोली या कुमकुम — जो वस्त्र-यज्ञोपवीत के बाद अनामिका से देवता के मस्तक या प्रतिमा पर लगाया जाता है, प्रायः [[akshat]] के साथ। नित्य पूजा के पाँच उपचारों में यह पहला है।",
+    "en": "Fragrant paste — sandal (chandana), roli or kumkum — applied to the deity's forehead or the image with the ring finger after the cloth and thread, usually together with akshata. In daily puja it is the first of the five upacharas.",
+    "bho": "सुगंध वाला लेप — चंदन, रोरी भा कुमकुम — जे वस्त्र-यज्ञोपवीत के बाद अनामिका अँगुरी से देवता के माथा भा मूरति पर लगावल जाला, अधिकतर [[akshat]] के साथे। नित्य पूजा के पाँच उपचार में ई पहिला बा।"
+  },
+  "related": [
+    "akshat",
+    "tilak",
+    "roli",
+    "pushp",
+    "panchopachar",
+    "shodashopachar"
+  ],
+  "occasions": [
+    "shodashopachar"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

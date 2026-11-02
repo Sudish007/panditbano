@@ -1,0 +1,21 @@
+{
+  "id": "pranayam",
+  "definition": {
+    "hi": "[[achaman]] के बाद और [[sankalp]] से पहले तीन नियंत्रित श्वास — पूरक, कुंभक, रेचक — जिनके साथ मन में गायत्री और उसकी व्याहृतियाँ पढ़ी जाती हैं। इससे मन स्थिर होता है ताकि आगे का संकल्प ध्यान से बोला जाए।",
+    "en": "Three measured breaths — in, held, out — taken after achamana and before the sankalpa, with the Gayatri and its vyahritis recited silently. It settles the mind so that the vow that follows is spoken with attention.",
+    "bho": "[[achaman]] के बाद आ [[sankalp]] से पहिले तीन नियंत्रित साँस — पूरक, कुंभक, रेचक — जेकरा साथे मन में गायत्री आ ओकर व्याहृति पढ़ल जाला। एह से मन थिर होला ताकि आगे के संकल्प ध्यान से बोलल जाए।"
+  },
+  "related": [
+    "achaman",
+    "sankalp",
+    "sandhya-vandan",
+    "jap"
+  ],
+  "occasions": [
+    "achaman-pavitrikaran"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

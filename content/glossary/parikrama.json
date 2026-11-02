@@ -1,0 +1,22 @@
+{
+  "id": "parikrama",
+  "definition": {
+    "hi": "[[pradakshina]] का लोक-प्रचलित नाम: देवता, मंदिर, पवित्र वृक्ष या अग्नि के चारों ओर उन्हें दाहिने रखकर घूमना — एक बार, तीन बार, या मंदिर और गोवर्धन में पूरे स्थान का चक्कर। गिनती की परिक्रमाएँ एक प्रचलित व्रत हैं।",
+    "en": "The everyday word for pradakshina: going round a deity, temple, sacred tree or fire clockwise, keeping it on the right — once, three times or, at a temple or on Govardhan, by the full circuit of the place. Counted rounds are a common vow.",
+    "bho": "[[pradakshina]] के बोलचाल के नाँव: देवता, मंदिर, पवित्र पेड़ भा अग्नि के चारो ओर उनका के दहिने रख के घूमल — एक बेर, तीन बेर, भा मंदिर आ गोवर्धन में पूरा जगह के चक्कर। गिनती के परिक्रमा एगो चलन वाला बरत बा।"
+  },
+  "related": [
+    "pradakshina",
+    "govardhan",
+    "tulsi-chaura",
+    "vat-savitri",
+    "vrat"
+  ],
+  "occasions": [
+    "aarti-pushpanjali-visarjan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

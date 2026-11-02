@@ -1,0 +1,24 @@
+{
+  "id": "kalash-sthapana",
+  "definition": {
+    "hi": "जल-कलश की स्थापना: जल से भरा कलश (जिसमें सुपारी, सिक्का, दूर्वा और कभी गंगाजल डाला जाता है), मुँह पर आम के पत्ते और ऊपर नारियल, अन्न की ढेरी पर रखा जाता है और उसमें जल के अधिपति वरुण का आवाहन होता है। कर्म भर यह समस्त तीर्थों और देवताओं का प्रतीक रहता है।",
+    "en": "Setting up the water-pot: a kalasha filled with water (with betel nut, coin, durva and sometimes gangajal), its mouth ringed with mango leaves and topped with a coconut, placed on grain, and Varuna, lord of waters, invoked into it. For the length of the rite it stands for all the sacred waters and deities.",
+    "bho": "जल-कलश के स्थापना: जल से भरल कलश (जेह में सुपारी, सिक्का, दूब आ कबो गंगाजल डालल जाला), मुँह पर आम के पत्ता आ ऊपर नरियर, अन्न के ढेरी पर रखल जाला आ ओह में जल के अधिपति वरुण देवता के आवाहन होला। कर्म भर ई सब तीरथ आ देवता लोग के प्रतीक रहेला।"
+  },
+  "related": [
+    "kalash",
+    "varun",
+    "nariyal",
+    "aam-patta",
+    "supari",
+    "ghatasthapana",
+    "punyahavachan"
+  ],
+  "occasions": [
+    "kalash-sthapana"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

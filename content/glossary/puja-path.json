@@ -1,0 +1,19 @@
+{
+  "id": "puja-path",
+  "definition": {
+    "hi": "घर में रोज़ की पूजा और पाठ का सामूहिक नाम: दीप जलाना, जल-फूल चढ़ाना और कोई स्तोत्र या चालीसा पढ़ना। इसमें वह सब आता है जो परिवार अपने देवस्थान पर नित्य करता है, पंडित के बिना भी।",
+    "en": "The everyday household round of worship and recitation: lighting the lamp, offering water and flowers, and reading or chanting a stotra or chalisa. The phrase covers whatever a family does daily at its home shrine, with or without a pandit.",
+    "bho": "घर में रोज के पूजा आ पाठ के साझा नाँव: दीया बारल, जल-फूल चढ़ावल आ कवनो स्तोत्र भा चालीसा पढ़ल। एह में ऊ सब आवेला जे परिवार आपन देवस्थान पर नित्य करेला, पंडित जी के बिना भी।"
+  },
+  "related": [
+    "puja",
+    "path",
+    "nitya-karma",
+    "dev-puja",
+    "aarti"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

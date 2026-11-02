@@ -1,0 +1,21 @@
+{
+  "id": "snan",
+  "definition": {
+    "hi": "हर कर्म और नित्य संध्या से पहले का स्नान: सात पवित्र नदियों (गंगा, यमुना, गोदावरी, सरस्वती, नर्मदा, सिंधु, कावेरी) का स्नान-जल में आवाहन करने वाले मंत्रों के साथ जल डालना। इसके बाद स्वच्छ वस्त्र और नया [[tilak]]; विधि के भीतर 'स्नान' देवता को कराया जाने वाला [[snan-upachara]] भी है।",
+    "en": "The ritual bath that precedes every rite and the daily sandhya: water poured with the mantras that invoke the seven sacred rivers (Ganga, Yamuna, Godavari, Sarasvati, Narmada, Sindhu, Kaveri) into the bathing water. Clean clothes and a fresh tilak follow; inside a vidhi, 'snana' also names the bath offered to the deity.",
+    "bho": "हर कर्म आ नित्य संध्या से पहिले के नहान: सात पवित्र नदी (गंगा, यमुना, गोदावरी, सरस्वती, नर्मदा, सिंधु, कावेरी) के नहान के पानी में आवाहन करे वाला मंत्र के साथे जल डालल। एकरा बाद साफ कपड़ा आ ताजा [[tilak]]; विधि के भीतर 'स्नान' देवता के करावल जाए वाला [[snan-upachara]] भी बा।"
+  },
+  "related": [
+    "nitya-karma",
+    "sandhya-vandan",
+    "snan-upachara",
+    "ganga",
+    "gangajal",
+    "kartik-snan",
+    "nahay-khay"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

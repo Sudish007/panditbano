@@ -1,0 +1,22 @@
+{
+  "id": "charanamrit",
+  "definition": {
+    "hi": "वह जल जिससे देवता के चरण (या शालिग्राम, या तुलसी दल) धोए गए हों, जो पूजा के बाद दाहिनी हथेली में लेकर [[prasad]] के रूप में पिया जाता है और एक बूँद सिर से लगाई जाती है। परंपरा में इसे पूजा का सबसे विनीत और प्रिय अंश माना जाता है।",
+    "en": "Water in which the deity's feet (or the shalagrama, or a tulsi leaf) have been bathed, taken in the right palm and sipped as prasada after the puja, with a drop touched to the head. Tradition holds it the humblest and most cherished share of the worship.",
+    "bho": "ऊ जल जेह से देवता के चरन (भा शालिग्राम, भा तुलसी पत्ता) धोवल गइल होखे, जे पूजा के बाद दहिना हथेली में ले के [[prasad]] के रूप में पिअल जाला आ एक बूँद माथा से लगावल जाला। परंपरा में एकरा पूजा के सबसे विनीत आ प्रिय अंश मानल जाला।"
+  },
+  "related": [
+    "prasad",
+    "padya",
+    "thakur-ji",
+    "tulsi-dal",
+    "snan-upachara"
+  ],
+  "occasions": [
+    "shodashopachar"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

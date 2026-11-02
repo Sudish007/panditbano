@@ -1,0 +1,23 @@
+{
+  "id": "navagraha-pujan",
+  "definition": {
+    "hi": "नौ ग्रहों — सूर्य, चंद्र, मंगल, बुध, गुरु, शुक्र, शनि, राहु और केतु — का पूजन, जो अन्न के नौ कोष्ठकों वाले मंडल पर अपनी-अपनी दिशा में स्थापित किए जाते हैं; हर ग्रह का अपना वैदिक मंत्र, रंग, धान्य और समिधा है। परंपरा में माना जाता है कि इससे कर्म ग्रह-बाधा से मुक्त रहता है; यह साइट इसे प्रथा के रूप में बताती है, वचन के रूप में नहीं।",
+    "en": "Worship of the nine grahas — Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and Ketu — seated on a nine-square grain diagram in their fixed directions, each with its own Vedic mantra, colour, grain and wood. Tradition holds that it keeps the rite free of planetary hindrance; this site describes it as practice, not as a promise.",
+    "bho": "नौ ग्रह — सूर्य, चंद्र, मंगल, बुध, गुरु, शुक्र, शनि, राहु आ केतु — के पूजन, जे अन्न के नौ खाना वाला मंडल पर आपन-आपन दिशा में बइठावल जालन; हर ग्रह के आपन वैदिक मंत्र, रंग, अन्न आ समिधा बा। परंपरा में मानल जाला कि एह से कर्म ग्रह-बाधा से मुक्त रहेला; ई साइट एकरा प्रथा के रूप में बतावेला, वादा के रूप में ना।"
+  },
+  "related": [
+    "navagraha",
+    "navagraha-shanti",
+    "navagraha-ahuti",
+    "samidha",
+    "dikpal",
+    "panchang-pujan"
+  ],
+  "occasions": [
+    "navagraha-sthapana-pujan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "panchopachar",
+  "definition": {
+    "hi": "नित्य पूजा और बड़े कर्म के गौण देवताओं के लिए पाँच उपचारों वाली पूजा: [[gandh]], [[pushp]], [[dhoop]], [[deep]] और [[naivedya]], हर एक अपने मंत्र के साथ। यह [[shodashopachar]] का संक्षिप्त रूप है।",
+    "en": "The five-step worship used for daily puja and for the lesser deities of a larger rite: gandha (fragrant paste), pushpa (flower), dhupa (incense), dipa (lamp) and naivedya (food), each with its mantra. It is the shodashopachara in brief.",
+    "bho": "नित्य पूजा आ बड़ कर्म के बाकी देवता लोग खातिर पाँच उपचार वाला पूजा: [[gandh]], [[pushp]], [[dhoop]], [[deep]] आ [[naivedya]], हर एक आपन मंत्र के साथे। ई [[shodashopachar]] के छोट रूप बा।"
+  },
+  "related": [
+    "shodashopachar",
+    "gandh",
+    "pushp",
+    "dhoop",
+    "deep",
+    "naivedya",
+    "dev-puja"
+  ],
+  "occasions": [
+    "shodashopachar"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

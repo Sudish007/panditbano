@@ -1,0 +1,23 @@
+{
+  "id": "dhoop",
+  "definition": {
+    "hi": "धूप — अंगारे पर गुग्गुल, लोबान या चंदन-चूर्ण, अथवा अगरबत्ती — जो फूल के बाद मंत्र के साथ देवता को दक्षिणावर्त घुमाकर दिखाई जाती है, ताकि पूजा-स्थल सुगंध से भर जाए। पाँच उपचारों में यह चौथा है।",
+    "en": "Incense — guggul, loban or sandal powder on a coal, or an agarbatti — shown to the deity in clockwise circles after the flowers, with its mantra, so that the fragrance fills the place of worship. It is the fourth of the five upacharas.",
+    "bho": "धूप — अंगार पर गुग्गुल, लोबान भा चंदन-बुकनी, चाहे अगरबत्ती — जे फूल के बाद मंत्र के साथे देवता के दहिने ओर घुमा के देखावल जाला, ताकि पूजा के जगह सुगंध से भर जाए। पाँच उपचार में ई चउथा बा।"
+  },
+  "related": [
+    "deep",
+    "agarbatti",
+    "kapur",
+    "pushp",
+    "panchopachar",
+    "shodashopachar"
+  ],
+  "occasions": [
+    "shodashopachar"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "swasti-vachan",
+  "definition": {
+    "hi": "शुभकामना के वैदिक मंत्रों का आरंभिक पाठ ('ॐ स्वस्ति न…' से शुरू), जो आगे होने वाले कर्म के कल्याण की कामना करता है। पंडित पढ़ते हैं और यजमान हाथ में [[akshat]]-पुष्प रखकर अंत में उन्हें देवता पर अर्पित करता है।",
+    "en": "The opening recitation of benedictory Vedic mantras (beginning Om svasti na Indro vriddhashravah) that asks for well-being on the rite about to begin. The pandit recites while the host holds rice and flowers, which are offered to the deity at the end.",
+    "bho": "शुभकामना के वैदिक मंत्र के शुरुआती पाठ ('ॐ स्वस्ति न…' से शुरू), जे आगे होखे वाला कर्म के कल्यान के कामना करेला। पंडित जी पढ़ेलन आ जजमान हाथ में [[akshat]]-फूल रख के अंत में ओकरा देवता पर चढ़ावेलन।"
+  },
+  "related": [
+    "shanti-path",
+    "kalash-sthapana",
+    "punyahavachan",
+    "akshat"
+  ],
+  "occasions": [
+    "svasti-vachan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

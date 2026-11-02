@@ -1,0 +1,21 @@
+{
+  "id": "ghatasthapana",
+  "definition": {
+    "hi": "नवरात्रि की पहली तिथि (प्रतिपदा) पर होने वाली [[kalash-sthapana]]: कलश जौ बोई हुई मिट्टी की वेदी पर रखा जाता है, पास में अखंड ज्योति जलती है और नौ दिन के लिए देवी का आवाहन होता है। अंत में अंकुरित जौ (जवारे) का विसर्जन किया जाता है।",
+    "en": "The Navratri form of kalash sthapana on the first day (pratipada): the pot is set on a bed of soil sown with barley, the akhand jyoti is lit beside it, and the Goddess is invoked for nine days. The sprouted barley (jawara) is immersed at the end.",
+    "bho": "नवरात्र के पहिला तिथि (प्रतिपदा) पर होखे वाला [[kalash-sthapana]]: कलश जौ बोअल माटी के बेदी पर रखल जाला, लगे अखंड जोत जरेला आ नौ दिन खातिर देवी के आवाहन होला। अंत में जामल जौ (जवारा) के विसर्जन कइल जाला।"
+  },
+  "related": [
+    "kalash-sthapana",
+    "navratri",
+    "akhand-jyoti",
+    "jau",
+    "kanya-pujan",
+    "durga",
+    "visarjan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

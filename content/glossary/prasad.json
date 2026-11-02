@@ -1,0 +1,23 @@
+{
+  "id": "prasad",
+  "definition": {
+    "hi": "देवता को अर्पित होकर वापस आने वाला भोजन, फूल या जल: उपस्थित सभी में बँटता है और अनुपस्थितों को भेजा जाता है, दाहिने हाथ में लिया जाता है और कभी अस्वीकार नहीं किया जाता। परंपरा में इसे देवता की कृपा का वाहक माना जाता है; प्रसाद का अर्थ ही 'अनुग्रह' है।",
+    "en": "The food, flowers or water that come back from the deity after being offered: shared among everyone present and sent to those absent, received in the right hand and never refused. Tradition holds it to carry the deity's grace; prasada means 'favour'.",
+    "bho": "देवता के चढ़ के लवटे वाला भोजन, फूल भा जल: बइठल सब लोग में बँटेला आ जे ना आइल ओकरा भेजल जाला, दहिना हाथ में लिहल जाला आ कबो मना ना कइल जाला। परंपरा में एकरा देवता के किरपा के वाहक मानल जाला; परसाद के अरथ ही 'अनुग्रह' बा।"
+  },
+  "related": [
+    "naivedya",
+    "bhog",
+    "charanamrit",
+    "panchamrit",
+    "panjiri",
+    "shodashopachar"
+  ],
+  "occasions": [
+    "shodashopachar"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

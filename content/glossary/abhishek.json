@@ -1,0 +1,21 @@
+{
+  "id": "abhishek",
+  "definition": {
+    "hi": "देवता — प्रायः शिवलिंग — को जल, दूध, दही, घी, शहद, शर्करा-जल या पंचामृत की सतत धारा से स्नान कराना, साथ में मंत्र-पाठ, जैसे रुद्राभिषेक में वैदिक पाठ के साथ। कर्म के अंत में कलश के जल से यजमान पर छिड़काव भी अभिषेक कहलाता है।",
+    "en": "Bathing the deity — most often a Shivalinga — by pouring water, milk, curd, ghee, honey, sugar-water or panchamrita over it in a steady stream while mantras are recited, as in Rudrabhishek with Vedic recitation. The sprinkling of the host with kalasha water at the end of a rite is also called abhisheka.",
+    "bho": "देवता — अधिकतर शिवलिंग — के जल, दूध, दही, घी, मधु, चीनी-पानी भा पंचामृत के लगातार धार से नहान करावल, साथे मंत्र-पाठ, जइसे रुद्राभिषेक में वैदिक पाठ के साथे। कर्म के अंत में कलश के जल से जजमान पर छिड़काव भी अभिषेक कहल जाला।"
+  },
+  "related": [
+    "rudrabhishek",
+    "snan-upachara",
+    "panchamrit",
+    "dravya",
+    "shiv",
+    "kalash-sthapana",
+    "punyahavachan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

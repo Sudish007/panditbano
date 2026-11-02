@@ -1,0 +1,22 @@
+{
+  "id": "tambul",
+  "definition": {
+    "hi": "भोजन के बाद का तांबूल: लौंग-इलायची के साथ पान का पत्ता और सुपारी (या उसके प्रतीक रूप में अकेली सुपारी), जो मंत्र के साथ उसी तरह दिया जाता है जैसे गृहस्थ भोजन के बाद अतिथि को पान देता है। इसके बाद [[dakshina]] आती है।",
+    "en": "The betel offering after the food: a paan leaf with betel nut, clove and cardamom (or a whole supari standing for it), given with its mantra as the mouth-freshener a host offers after a meal. It is followed by the dakshina.",
+    "bho": "भोजन के बाद के तांबूल: लौंग-इलायची के साथे पान के पत्ता आ सुपारी (भा ओकरा प्रतीक में अकेले सुपारी), जे मंत्र के साथे ओही तरे दिहल जाला जइसे गृहस्थ खाना के बाद अतिथि के पान देला। एकरा बाद [[dakshina]] आवेला।"
+  },
+  "related": [
+    "paan",
+    "supari",
+    "naivedya",
+    "dakshina",
+    "shodashopachar"
+  ],
+  "occasions": [
+    "shodashopachar"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

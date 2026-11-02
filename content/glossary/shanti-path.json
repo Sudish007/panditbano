@@ -1,0 +1,21 @@
+{
+  "id": "shanti-path",
+  "definition": {
+    "hi": "कर्म के अंत का शांति-पाठ: 'ॐ द्यौः…' से शुरू होने वाला वैदिक मंत्र, जो आकाश, अंतरिक्ष, पृथ्वी, जल, औषधियों, सभी प्राणियों और देवताओं में शांति की कामना करता है और तीन बार 'शांति' के उच्चार पर पूरा होता है।",
+    "en": "The peace recitation that closes a rite: the Vedic mantra beginning Om dyauh shantih asks that sky, space, earth, waters, plants, all beings and the gods be at peace, ending in the threefold Om shantih shantih shantih.",
+    "bho": "कर्म के अंत के शांति-पाठ: 'ॐ द्यौः…' से शुरू होखे वाला वैदिक मंत्र, जे आकाश, अंतरिक्ष, धरती, जल, वनस्पति, सब जीव आ देवता लोग में शांति के कामना करेला आ तीन बेर 'शांति' के उच्चार पर पूरा होला।"
+  },
+  "related": [
+    "swasti-vachan",
+    "visarjan",
+    "kshama-prarthana",
+    "havan"
+  ],
+  "occasions": [
+    "shanti-path"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

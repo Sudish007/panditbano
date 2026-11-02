@@ -1,0 +1,25 @@
+{
+  "id": "sankalp",
+  "definition": {
+    "hi": "हर कर्म की शुरुआत में बोला जाने वाला संकल्प-वाक्य: दाहिने हाथ में जल, [[akshat]] और फूल लेकर यजमान समय (संवत्सर, अयन, ऋतु, मास, पक्ष, तिथि, वार, नक्षत्र), स्थान, अपना गोत्र-नाम और कर्म का उद्देश्य बोलता है, फिर जल छोड़ देता है। बिना संकल्प कर्म का न कोई कर्ता होता है, न लक्ष्य।",
+    "en": "The spoken vow of intent that opens every rite: holding water, rice and a flower in the right hand, the host names the time (year, ayana, season, month, paksha, tithi, weekday, nakshatra), the place, his gotra and name, and the purpose, then lets the water fall. Without a sankalpa the rite has no owner and no aim.",
+    "bho": "हर कर्म के शुरुआत में बोलल जाए वाला संकल्प-वाक्य: दहिना हाथ में जल, [[akshat]] आ फूल ले के जजमान समय (संवत्सर, अयन, ऋतु, मास, पक्ष, तिथि, वार, नक्षत्र), जगह, आपन गोत्र-नाँव आ कर्म के मकसद बोलेलन, फेर जल छोड़ देलन। बिना संकल्प कर्म के ना केहू कर्ता होला, ना लक्ष्य।"
+  },
+  "related": [
+    "sankalp-template",
+    "samvatsar",
+    "tithi",
+    "nakshatra",
+    "gotra",
+    "achaman",
+    "pranayam",
+    "yajman"
+  ],
+  "occasions": [
+    "sankalp"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

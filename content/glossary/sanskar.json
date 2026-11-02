@@ -1,0 +1,20 @@
+{
+  "id": "sanskar",
+  "definition": {
+    "hi": "जीवन के किसी पड़ाव को चिह्नित और परिष्कृत करने वाला संस्कार-कर्म — परंपरा में इनकी संख्या सोलह है, पहले संस्कार से अंत्येष्टि तक। हर एक में गृह्यसूत्र का वैदिक केंद्र और उसके चारों ओर पारिवारिक लोकाचार की परत होती है।",
+    "en": "A life-cycle sacrament that marks and refines a stage of life. The traditional count is sixteen, from the first rite at the start of married life to antyeshti, the last rites. Each has a Vedic core from the Grihya Sutra and a layer of family custom around it.",
+    "bho": "जीवन के कवनो पड़ाव के चिन्हित आ संस्कारित करे वाला कर्म — परंपरा में एकर गिनती सोलह बा, पहिला संस्कार से अंत्येष्टि तक। हर एक में गृह्यसूत्र के वैदिक केंद्र आ ओकरा चारो ओर परिवार के लोकाचार के परत होला।"
+  },
+  "related": [
+    "shodash-sanskar",
+    "garbhadhan",
+    "antyeshti",
+    "vivah-sanskar",
+    "grihya-sutra",
+    "nandi-shraddha"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

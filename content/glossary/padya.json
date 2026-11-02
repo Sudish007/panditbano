@@ -1,0 +1,21 @@
+{
+  "id": "padya",
+  "definition": {
+    "hi": "पैर धोने का जल, जो आचमनी या छोटे पात्र से मंत्र के साथ देवता को दिया जाता है, जैसे गृहस्थ आए हुए अतिथि को पैर धोने का जल देता है। यह [[asan]] के बाद और [[arghya]] से पहले आता है।",
+    "en": "Water for washing the feet, offered to the deity in a spoon or small vessel with its mantra, as a host offers a traveller water for his feet on arrival. It follows the asana and precedes the arghya.",
+    "bho": "गोड़ धोवे के जल, जे आचमनी भा छोट बरतन से मंत्र के साथे देवता के दिहल जाला, जइसे गृहस्थ आइल अतिथि के गोड़ धोवे के जल देला। ई [[asan]] के बाद आ [[arghya]] से पहिले आवेला।"
+  },
+  "related": [
+    "asan",
+    "arghya",
+    "achamaniya",
+    "shodashopachar"
+  ],
+  "occasions": [
+    "shodashopachar"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

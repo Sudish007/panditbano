@@ -1,0 +1,24 @@
+{
+  "id": "dakshina",
+  "definition": {
+    "hi": "कर्म को पूर्ण करने वाला दान: पहले उपचार के रूप में देवता के सामने रखा सिक्का, फिर पान-सुपारी और [[sankalp]] के साथ पंडित और अन्य ब्राह्मणों को दी जाने वाली दक्षिणा — परंपरा में माना जाता है कि बिना दक्षिणा कर्म निष्फल रहता है। इस साइट का शिष्टाचार-पृष्ठ कहता है कि इसे पहले से ईमानदारी से तय कर लिया जाए।",
+    "en": "The gift that completes a rite: first a coin placed before the deity as an upachara, then the fee given to the pandit and any other Brahmins with betel and a sankalpa — tradition holds that a rite without dakshina bears no fruit. This site's etiquette page asks that it be agreed honestly beforehand.",
+    "bho": "कर्म के पूरा करे वाला दान: पहिले उपचार के रूप में देवता के आगे रखल सिक्का, फेर पान-सुपारी आ [[sankalp]] के साथे पंडित जी आ बाकी ब्राह्मण लोग के दिहल जाए वाला दक्षिणा — परंपरा में मानल जाला कि बिना दक्षिणा कर्म निष्फल रहेला। एह साइट के शिष्टाचार-पन्ना कहेला कि एकरा पहिले से ईमानदारी से तय कर लिहल जाए।"
+  },
+  "related": [
+    "pandit",
+    "brahman",
+    "brahman-bhojan",
+    "tambul",
+    "sankalp",
+    "shodashopachar"
+  ],
+  "occasions": [
+    "shodashopachar",
+    "pandit-shishtachar"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "karmakand",
+  "definition": {
+    "hi": "कर्मों को शुद्ध रूप से करने का शास्त्र-व्यवहार: [[sanskar]], पूजा, हवन और श्राद्ध का क्रम, [[mantra]], सामग्री और नियम। पंडित का कामकाजी ज्ञान कर्मकांड ही है; यह साइट उसी की मार्गदर्शिका है।",
+    "en": "The branch of practice concerned with performing rites correctly: the sequence, mantras, materials and rules of the samskaras, pujas, havans and shraddhas. A pandit's working knowledge is karmakanda; this site is a guide to it.",
+    "bho": "कर्म सभ के शुद्ध ढंग से करे के शास्त्र-व्यवहार: [[sanskar]], पूजा, हवन आ श्राद्ध के क्रम, [[mantra]], सामग्री आ नियम। पंडित जी के कामकाजी ज्ञान कर्मकांड ही बा; ई साइट ओकरे मार्गदर्शिका बा।"
+  },
+  "related": [
+    "vidhi",
+    "purohit",
+    "pandit",
+    "paddhati",
+    "grihya-sutra",
+    "sanskar",
+    "havan",
+    "shraddha"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

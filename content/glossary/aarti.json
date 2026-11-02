@@ -1,0 +1,25 @@
+{
+  "id": "aarti",
+  "definition": {
+    "hi": "पूजा के अंत में देवता के सामने जलते दीप (एक, पाँच या अधिक बत्तियों वाले) को घंटी, शंख या गीत के साथ दक्षिणावर्त घुमाना; फिर दीप उपस्थित लोगों तक लाया जाता है, जो लौ पर हाथ फेरकर आँखों से लगाते हैं। हिंदी प्रदेश में गाई जाने वाली आरती इसी चरण में आती है।",
+    "en": "Waving a lit lamp (one wick, five or more) in clockwise circles before the deity at the close of worship, with a bell, conch or song; the lamp is then carried to those present, who pass their hands over the flame and touch them to their eyes. In the Hindi belt the sung aarti belongs to this step.",
+    "bho": "पूजा के अंत में देवता के आगे जरत दीया (एक, पाँच भा बेसी बाती वाला) के घंटी, शंख भा गीत के साथे दहिने ओर घुमावल; फेर दीया बइठल लोग तक ले जाइल जाला, जे लौ पर हाथ फेर के आँख से लगावेला। हिंदी इलाका में गावल जाए वाली आरती एही चरन में आवेला।"
+  },
+  "related": [
+    "deep",
+    "mantra-pushpanjali",
+    "kshama-prarthana",
+    "pradakshina",
+    "visarjan",
+    "kapur",
+    "ghanti",
+    "shankh"
+  ],
+  "occasions": [
+    "aarti-pushpanjali-visarjan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

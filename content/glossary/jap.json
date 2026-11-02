@@ -1,0 +1,21 @@
+{
+  "id": "jap",
+  "definition": {
+    "hi": "किसी मंत्र को निश्चित संख्या में दोहराना — 11, 21, 108 या 108 मनकों की एक माला — मन में, धीमे स्वर में या ऊँचे स्वर में, प्रायः दाहिने हाथ में रुद्राक्ष या तुलसी की माला तर्जनी से हटाकर पकड़े हुए। जप से पहले [[sankalp]] में संख्या बोली जाती है और अंत में जप देवता को अर्पित किया जाता है।",
+    "en": "Repetition of a mantra a fixed number of times — 11, 21, 108 or a mala of 108 beads — silently, in a whisper or aloud, usually with a rudraksha or tulsi mala held in the right hand away from the index finger. A sankalpa names the count before the japa begins, and the japa is offered to the deity at the end.",
+    "bho": "कवनो मंत्र के तय गिनती में दोहरावल — 11, 21, 108 भा 108 दाना के एगो माला — मन में, धीरे भा जोर से, अधिकतर दहिना हाथ में रुद्राक्ष भा तुलसी के माला तर्जनी से हटा के धइले। जप से पहिले [[sankalp]] में गिनती बोलल जाला आ अंत में जप देवता के अर्पित कइल जाला।"
+  },
+  "related": [
+    "mantra",
+    "mala",
+    "mala-108",
+    "sankalp",
+    "anushthan",
+    "mahamrityunjay-jaap",
+    "sandhya-vandan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

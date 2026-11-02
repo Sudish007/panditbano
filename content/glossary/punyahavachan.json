@@ -1,0 +1,22 @@
+{
+  "id": "punyahavachan",
+  "definition": {
+    "hi": "शुभ दिन की घोषणा: [[kalash-sthapana]] के बाद पंडित आशीर्वचन के वैदिक मंत्र पढ़ते हैं और उपस्थित ब्राह्मण तीन-तीन बार 'पुण्याहम्', 'स्वस्ति', 'ऋद्धिम्' कहकर दिन को कर्म के लिए पवित्र, शुभ और समृद्ध घोषित करते हैं। फिर कलश के जल से यजमान का अभिषेक होता है।",
+    "en": "The proclamation of an auspicious day: after the kalasha is set, the pandit recites Vedic mantras of blessing and the assembled Brahmins respond 'punyaham', 'svasti', 'riddhim' three times each, declaring the day pure, well-omened and prosperous for the rite. Water from the kalasha is then sprinkled on the host.",
+    "bho": "शुभ दिन के घोषणा: [[kalash-sthapana]] के बाद पंडित जी आशीर्वाद के वैदिक मंत्र पढ़ेलन आ बइठल ब्राह्मण लोग तीन-तीन बेर 'पुण्याहम्', 'स्वस्ति', 'ऋद्धिम्' कह के दिन के कर्म खातिर पवित्र, शुभ आ समृद्ध घोषित करेलन। फेर कलश के जल से जजमान के अभिषेक होला।"
+  },
+  "related": [
+    "kalash-sthapana",
+    "swasti-vachan",
+    "abhishek",
+    "brahman",
+    "muhurat"
+  ],
+  "occasions": [
+    "punyaha-vachan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

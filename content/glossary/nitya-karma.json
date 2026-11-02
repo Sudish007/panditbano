@@ -1,0 +1,22 @@
+{
+  "id": "nitya-karma",
+  "definition": {
+    "hi": "शास्त्रों में गृहस्थ के लिए बताए गए दैनिक कर्म: ब्रह्म मुहूर्त में उठना, [[pratah-smaran]], [[snan]], प्रातः-सायं [[sandhya-vandan]], गायत्री [[jap]], [[tarpan]] और घर की [[dev-puja]]। इनके लिए न संकल्प चाहिए, न पंडित; नैमित्तिक कर्म इन्हीं के ऊपर खड़े होते हैं।",
+    "en": "The daily duties of a householder laid down by the texts: rising in the brahma-muhurta, pratah-smarana, the bath, sandhya at dawn and dusk, Gayatri japa, tarpana and the home puja. They need no sankalpa and no pandit; the occasional (naimittika) rites are built on top of them.",
+    "bho": "शास्त्र में गृहस्थ खातिर बतावल रोज के कर्म: ब्रह्म मुहूर्त में उठल, [[pratah-smaran]], [[snan]], भोर-साँझ [[sandhya-vandan]], गायत्री [[jap]], [[tarpan]] आ घर के [[dev-puja]]। एह खातिर ना संकल्प चाहीं, ना पंडित; नैमित्तिक कर्म एही के ऊपर खड़ा होला।"
+  },
+  "related": [
+    "pratah-smaran",
+    "snan",
+    "sandhya-vandan",
+    "jap",
+    "tarpan",
+    "dev-puja",
+    "brahma-muhurat",
+    "grihasth"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

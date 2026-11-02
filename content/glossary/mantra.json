@@ -1,0 +1,21 @@
+{
+  "id": "mantra",
+  "definition": {
+    "hi": "निश्चित शब्दों में, प्रायः संस्कृत में पढ़ा जाने वाला वैदिक या पौराणिक वाक्य, जो किसी क्रिया को वाणी देता है — जल छिड़कते, दीप घुमाते या सामग्री चढ़ाते समय बोले जाने वाले शब्द। इस साइट पर हर मंत्र देवनागरी में उसके अर्थ और प्रयोग-स्थान के साथ दिया गया है।",
+    "en": "A Vedic or Puranic formula recited with a fixed wording, usually in Sanskrit, that gives a ritual act its voice — the words spoken while water is sprinkled, a lamp is waved or an offering is placed. On this site every mantra is shown in Devanagari with its meaning and the step where it is used.",
+    "bho": "तय शब्द में, अधिकतर संस्कृत में पढ़ल जाए वाला वैदिक भा पौराणिक वाक्य, जे कवनो काम के वाणी देला — जल छिड़कत, दीया घुमावत भा सामग्री चढ़ावत बेरा बोलल जाए वाला शब्द। एह साइट पर हर मंत्र देवनागरी में ओकरा अरथ आ प्रयोग-जगह के साथे दिहल गइल बा।"
+  },
+  "related": [
+    "shlok",
+    "vinyog",
+    "padachheda",
+    "ved",
+    "jap",
+    "svara",
+    "uchcharan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

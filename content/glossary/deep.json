@@ -1,0 +1,25 @@
+{
+  "id": "deep",
+  "definition": {
+    "hi": "दीप — मिट्टी या धातु के दीये में घी या तेल और रुई की बत्ती — जो पूजा से पहले जलाया जाता है और धूप के बाद मंत्र के साथ देवता को दिखाया जाता है; अंत तक जलता रहता है। परंपरा में माना जाता है कि जलता दीप देव-उपस्थिति का प्रतीक है, इसलिए उसे फूँक से नहीं बुझाते — स्वयं बुझने देते हैं या फूल से ढँकते हैं।",
+    "en": "The lamp — ghee or oil with a cotton wick in an earthen or metal diya — lit before the puja and shown to the deity after the incense with its mantra; it stays burning to the end. Tradition holds that a lit lamp stands for the presence of the divine, so it is never blown out: it is left to die down or covered with a flower.",
+    "bho": "दीया — माटी भा धातु के दीया में घी भा तेल आ रुई के बाती — जे पूजा से पहिले बारल जाला आ धूप के बाद मंत्र के साथे देवता के देखावल जाला; अंत तक जरत रहेला। परंपरा में मानल जाला कि जरत दीया देवता के मौजूदगी के प्रतीक बा, एह से ओकरा फूँक से ना बुतावल जाला — खुदे बुते देल जाला भा फूल से तोपल जाला।"
+  },
+  "related": [
+    "aarti",
+    "diya-mitti",
+    "batti",
+    "ghee",
+    "akhand-jyoti",
+    "deepdaan",
+    "panchopachar",
+    "shodashopachar"
+  ],
+  "occasions": [
+    "shodashopachar"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

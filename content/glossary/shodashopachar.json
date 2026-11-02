@@ -1,0 +1,36 @@
+{
+  "id": "shodashopachar",
+  "definition": {
+    "hi": "देवता को अर्पित सोलह उपचारों का पूरा क्रम, जैसे किसी आदरणीय अतिथि का सत्कार किया जाए: आवाहन, आसन, पाद्य, अर्घ्य, आचमनीय, स्नान, वस्त्र, यज्ञोपवीत, गंध-अक्षत, पुष्प, धूप, दीप, नैवेद्य, तांबूल, दक्षिणा और प्रदक्षिणा-नमस्कार। हर उपचार का अपना मंत्र है; छोटा [[panchopachar]] इनमें से पाँच रखता है।",
+    "en": "The full sixteen-step sequence of services offered to a deity: avahana (invocation), asana (seat), padya (water for the feet), arghya, achamaniya, snana (bath), vastra (cloth), yajnopavita (sacred thread), gandha with akshata, pushpa (flowers), dhupa (incense), dipa (lamp), naivedya (food), tambula (betel), dakshina, and namaskara with pradakshina. Each step has its mantra; the shorter panchopachara keeps five of them.",
+    "bho": "देवता के चढ़ावल जाए वाला सोलह उपचार के पूरा क्रम, जइसे कवनो आदर वाला अतिथि के सत्कार कइल जाए: आवाहन, आसन, पाद्य, अरघ, आचमनीय, स्नान, वस्त्र, यज्ञोपवीत, गंध-अच्छत, फूल, धूप, दीया, नैवेद्य, तांबूल (पान), दक्षिणा आ प्रदक्षिणा-परनाम। हर उपचार के आपन मंत्र बा; छोट [[panchopachar]] एह में से पाँच रखेला।"
+  },
+  "related": [
+    "avahan",
+    "asan",
+    "padya",
+    "arghya",
+    "achamaniya",
+    "snan-upachara",
+    "vastra",
+    "yajnopavit-upachara",
+    "gandh",
+    "akshat",
+    "pushp",
+    "dhoop",
+    "deep",
+    "naivedya",
+    "tambul",
+    "dakshina",
+    "namaskar",
+    "pradakshina",
+    "panchopachar"
+  ],
+  "occasions": [
+    "shodashopachar"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

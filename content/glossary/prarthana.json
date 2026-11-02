@@ -1,0 +1,18 @@
+{
+  "id": "prarthana",
+  "definition": {
+    "hi": "अर्पण के बाद हाथ जोड़कर अपने शब्दों में या नियत श्लोक से की जाने वाली विनती: देवता की कृपा की याचना और कर्म के पीछे की कामना का कथन। विधि में इसका स्थान [[mantra-pushpanjali]] और [[kshama-prarthana]] के बीच है।",
+    "en": "A prayer in the worshipper's own words or in a set verse, spoken with folded hands after the offerings: asking for the deity's grace and stating the wish behind the rite. In a vidhi it sits between the pushpanjali and the kshama-prarthana.",
+    "bho": "अर्पन के बाद हाथ जोड़ के आपन शब्द में भा तय श्लोक से कइल जाए वाला बिनती: देवता के किरपा के याचना आ कर्म के पीछे के कामना के कथन। विधि में एकर जगह [[mantra-pushpanjali]] आ [[kshama-prarthana]] के बीच बा।"
+  },
+  "related": [
+    "kshama-prarthana",
+    "mantra-pushpanjali",
+    "namaskar",
+    "stotra"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

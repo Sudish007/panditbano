@@ -1,0 +1,23 @@
+{
+  "id": "snan-upachara",
+  "definition": {
+    "hi": "छठे उपचार के रूप में देवता का स्नान: प्रतिमा पर जल (और बड़ी पूजा में क्रम से दूध, दही, घी, शहद, शक्कर — पंचामृत — फिर जल) डाला जाता है; चित्र हो तो फूल से छिड़काव। [[vastra]] से पहले प्रतिमा को कपड़े से पोंछ लिया जाता है।",
+    "en": "Bathing the deity as the sixth upachara: water (and in a fuller puja milk, curd, ghee, honey and sugar in turn — the panchamrita — then water again) poured over the image or, for a picture, sprinkled with a flower. The image is dried with a cloth before the vastra.",
+    "bho": "छठा उपचार के रूप में देवता के नहान: मूरति पर जल (आ बड़ पूजा में क्रम से दूध, दही, घी, मधु, चीनी — पंचामृत — फेर जल) डालल जाला; तस्वीर होखे त फूल से छिड़काव। [[vastra]] से पहिले मूरति के कपड़ा से पोंछ लिहल जाला।"
+  },
+  "related": [
+    "snan",
+    "abhishek",
+    "panchamrit",
+    "vastra",
+    "achamaniya",
+    "shodashopachar"
+  ],
+  "occasions": [
+    "shodashopachar"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

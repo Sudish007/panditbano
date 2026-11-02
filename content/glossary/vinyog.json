@@ -1,0 +1,18 @@
+{
+  "id": "vinyog",
+  "definition": {
+    "hi": "मंत्र से पहले बोला जाने वाला वाक्य, जो उसके ऋषि, छंद, देवता और इस समय के प्रयोजन को बताता है — जैसे गायत्री के लिए: 'ऋषि विश्वामित्र, छंद गायत्री, देवता सविता; जप में विनियोग'। इस साइट पर हर मंत्र के पृष्ठ में उसका विनियोग दिया है — वे चरण जहाँ वह प्रयोग होता है।",
+    "en": "The line spoken before a mantra that states its rishi (seer), chhandas (metre), devata (deity) and the purpose for which it is now used — for the Gayatri: 'Vishvamitra is the rishi, Gayatri the metre, Savita the deity; its use is in japa'. On this site each mantra's page lists its vinyog, the steps where it is used.",
+    "bho": "मंत्र से पहिले बोलल जाए वाला वाक्य, जे ओकर ऋषि, छंद, देवता आ एह बेरा के प्रयोजन बतावेला — जइसे गायत्री खातिर: 'ऋषि विश्वामित्र, छंद गायत्री, देवता सविता; जप में विनियोग'। एह साइट पर हर मंत्र के पन्ना में ओकर विनियोग दिहल बा — ऊ चरन जहाँ ऊ प्रयोग होला।"
+  },
+  "related": [
+    "mantra",
+    "padachheda",
+    "jap",
+    "ved"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

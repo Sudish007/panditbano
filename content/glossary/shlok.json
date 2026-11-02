@@ -1,0 +1,19 @@
+{
+  "id": "shlok",
+  "definition": {
+    "hi": "शास्त्रीय संस्कृत छंद का पद, प्रायः पुराणों और महाकाव्यों का चार चरणों वाला अनुष्टुप। कथाएँ और स्तोत्र श्लोकों से बने हैं; विधि के वैदिक मंत्र उनसे बहुत प्राचीन हैं और श्लोक नहीं कहलाते।",
+    "en": "A verse in classical Sanskrit metre, most often the four-quarter anushtubh of the Puranas and the epics. Kathas and stotras are made of shlokas; the Vedic mantras of a vidhi are far older and are not called shlokas.",
+    "bho": "शास्त्रीय संस्कृत छंद के पद, अधिकतर पुराण आ महाकाव्य के चार चरन वाला अनुष्टुप। कथा आ स्तोत्र श्लोक से बनल बा; विधि के वैदिक मंत्र एकरा से बहुते पहिले के बाड़न आ श्लोक ना कहल जालन।"
+  },
+  "related": [
+    "mantra",
+    "katha",
+    "stotra",
+    "puran",
+    "path"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

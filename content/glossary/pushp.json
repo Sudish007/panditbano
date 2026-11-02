@@ -1,0 +1,25 @@
+{
+  "id": "pushp",
+  "definition": {
+    "hi": "[[gandh]] के बाद मंत्र के साथ देवता के चरणों में उँगलियों से रखे जाने वाले (फेंके नहीं जाते) फूल: गेंदा, गुलाब, गुड़हल, कमल और देवता की रुचि के अनुसार बेलपत्र, तुलसी, दूर्वा जैसे पत्ते। परंपरा गणेश जी को तुलसी और शिव जी को केतकी नहीं चढ़ाती।",
+    "en": "Flowers offered after the gandha, with the mantra, placed at the deity's feet with the fingertips (never thrown): marigold, rose, hibiscus, lotus, and leaves such as bel, tulsi and durva by the deity's preference. Tradition withholds tulsi from Ganesha and ketaki from Shiva.",
+    "bho": "[[gandh]] के बाद मंत्र के साथे देवता के चरन में अँगुरी से रखल जाए वाला (फेंकल ना जाला) फूल: गेंदा, गुलाब, अड़हुल, कमल आ देवता के पसंद के हिसाब से बेलपत्र, तुलसी, दूब जइसन पत्ता। परंपरा गणेश जी के तुलसी आ शिव जी के केतकी ना चढ़ावेला।"
+  },
+  "related": [
+    "pushpanjali",
+    "mantra-pushpanjali",
+    "bel-patra",
+    "tulsi-dal",
+    "durva",
+    "mala",
+    "panchopachar",
+    "shodashopachar"
+  ],
+  "occasions": [
+    "shodashopachar"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

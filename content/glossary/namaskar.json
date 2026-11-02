@@ -1,0 +1,21 @@
+{
+  "id": "namaskar",
+  "definition": {
+    "hi": "उपचारों का समापन करने वाला प्रणाम: माथे तक उठे जुड़े हाथ, या आठ अंगों को भूमि से लगाकर साष्टांग प्रणाम, देवता के नमस्कार-श्लोक के साथ। बोलचाल में प्रणाम बड़ों और देवता दोनों का अभिवादन है।",
+    "en": "The salutation that closes the upacharas: folded hands raised to the forehead, or the full prostration (sashtanga pranama) with eight limbs touching the ground, with the deity's own namaskara verse. In speech, pranama is the greeting given to elders and the deity alike.",
+    "bho": "उपचार सभ के समापन करे वाला परनाम: माथा तक उठल जोड़ल हाथ, भा आठ अंग धरती से लगा के साष्टांग परनाम, देवता के नमस्कार-श्लोक के साथे। बोलचाल में परनाम बड़-बुजुर्ग आ देवता दुनो के अभिवादन बा।"
+  },
+  "related": [
+    "pradakshina",
+    "kshama-prarthana",
+    "prarthana",
+    "shodashopachar"
+  ],
+  "occasions": [
+    "shodashopachar"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pradakshina",
+  "definition": {
+    "hi": "[[aarti]] के बाद देवता, वेदी या अग्नि के चारों ओर उन्हें अपनी दाहिनी ओर रखते हुए घूमना, प्रायः तीन बार (देवता के अनुसार संख्या भिन्न है); साथ में 'यानि कानि च पापानि…' वाला श्लोक पढ़ा जाता है। लोकभाषा में इसी को [[parikrama]] कहते हैं।",
+    "en": "Walking around the deity, altar or fire clockwise, keeping it on one's right, usually three times (the number varies by deity), after the aarti; the verse beginning yani kani cha papani is recited. Parikrama is the everyday word for the same act.",
+    "bho": "[[aarti]] के बाद देवता, बेदी भा अग्नि के चारो ओर उनका के आपन दहिने ओर रख के घूमल, अधिकतर तीन बेर (देवता के हिसाब से गिनती अलग बा); साथे 'यानि कानि च पापानि…' वाला श्लोक पढ़ल जाला। बोलचाल में एकरे [[parikrama]] कहल जाला।"
+  },
+  "related": [
+    "parikrama",
+    "aarti",
+    "namaskar",
+    "visarjan"
+  ],
+  "occasions": [
+    "aarti-pushpanjali-visarjan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

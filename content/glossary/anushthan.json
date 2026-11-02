@@ -1,0 +1,20 @@
+{
+  "id": "anushthan",
+  "definition": {
+    "hi": "किसी घोषित उद्देश्य से लिया गया और पूरा किया जाने वाला कर्म — निश्चित संख्या का [[jap]], नियत दिनों का पाठ या हवन। शब्द का भाव यही है कि कार्य [[sankalp]] से [[visarjan]] तक पूरा उतारा जाए।",
+    "en": "A rite or observance undertaken with a stated purpose and completed as a whole — a japa of a fixed count, a path over set days, or a havan. The word stresses that the undertaking is carried through from sankalpa to visarjana.",
+    "bho": "कवनो घोषित मकसद से लिहल आ पूरा कइल जाए वाला कर्म — तय गिनती के [[jap]], तय दिन के पाठ भा हवन। शब्द के भाव इहे बा कि काम [[sankalp]] से [[visarjan]] तक पूरा उतारल जाए।"
+  },
+  "related": [
+    "sankalp",
+    "jap",
+    "path",
+    "havan",
+    "visarjan",
+    "vrat"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

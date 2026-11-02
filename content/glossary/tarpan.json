@@ -1,0 +1,22 @@
+{
+  "id": "tarpan",
+  "definition": {
+    "hi": "अंजलि के जल से देवताओं, ऋषियों और पितरों को तृप्त करना — हर एक को कुछ बूँदें, पितरों को तिल के साथ — उनका नाम लेते हुए; नित्य ब्रह्मयज्ञ का अंग और श्राद्ध तथा पितृ पक्ष का केंद्र। देवताओं का जल उँगलियों के अग्र भाग से, ऋषियों का हाथ के किनारे से और पितरों का अंगूठे-तर्जनी के बीच से छोड़ा जाता है।",
+    "en": "Offering water from the joined palms to the gods, the sages and the ancestors — a few drops each, with til for the ancestors — while naming them; part of the daily brahmayajna and the heart of shraddha and Pitru Paksha. Water for the gods falls from the fingertips, for the sages from the side of the hand, for the ancestors from between thumb and index finger.",
+    "bho": "अंजुरी के जल से देवता, ऋषि आ पितर लोग के तृप्त कइल — हर एक के कुछ बूँद, पितर लोग के तिल के साथे — उनकर नाँव लेत; नित्य ब्रह्मयज्ञ के अंग आ श्राद्ध तथा पितृ पक्ष के केंद्र। देवता के जल अँगुरी के आगे से, ऋषि के हाथ के किनारा से आ पितर के अँगूठा-तर्जनी के बीच से छोड़ल जाला।"
+  },
+  "related": [
+    "pitar",
+    "shraddha",
+    "pitru-paksha",
+    "pitra-tarpan",
+    "til",
+    "til-jal",
+    "nitya-karma",
+    "sandhya-vandan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

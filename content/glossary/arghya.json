@@ -1,0 +1,26 @@
+{
+  "id": "arghya",
+  "definition": {
+    "hi": "सम्मान का जल-अर्पण: [[akshat]], फूल, चंदन और कभी दूध या तिल मिला जल, जो शंख, ताँबे के पात्र या अंजलि से देवता की ओर छोड़ा जाता है। पूजा में यह चौथा उपचार है; सूर्य को यह संध्या का नित्य अर्घ्य और छठ का केंद्रीय कर्म है।",
+    "en": "A respectful water offering: water with rice, flowers, sandal and sometimes milk or til, poured from a conch, a copper vessel or the joined palms towards the deity. In puja it is the fourth upachara; to the Sun it is the daily arghya of sandhya and the central act of Chhath.",
+    "bho": "सम्मान के जल-अर्पन: [[akshat]], फूल, चंदन आ कबो दूध भा तिल मिलल जल, जे शंख, ताँबा के बरतन भा अंजुरी से देवता के ओर छोड़ल जाला। पूजा में ई चउथा उपचार बा; सूर्य के ई संध्या के नित्य अरघ आ छठ के केंद्र-कर्म बा।"
+  },
+  "related": [
+    "padya",
+    "achamaniya",
+    "sandhya-arghya",
+    "usha-arghya",
+    "chhath",
+    "surya",
+    "shankh",
+    "shodashopachar"
+  ],
+  "occasions": [
+    "shodashopachar"
+  ],
+  "notes": "ownerQuestion 16 (R5 §7): Bhojpuri heading अरघ (folk अरघा in brackets) — used as the term bank spells it.",
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "dhyan",
+  "definition": {
+    "hi": "आवाहन से पहले पढ़ा जाने वाला वह श्लोक जो देवता के रूप (वर्ण, आसन, आयुध, परिवार) का वर्णन करता है ताकि उपासक के मन में स्पष्ट चित्र बने; साथ ही पाठ के लिए अपेक्षित एकाग्रता। हर देवता का अपना ध्यान-श्लोक है।",
+    "en": "The visualisation verse that describes the deity's form (colour, seat, weapons, companions), recited before the invocation so that the worshipper has a clear image in mind; also the quiet attention that recitation asks for. Every deity has its own dhyana-shloka.",
+    "bho": "आवाहन से पहिले पढ़ल जाए वाला ऊ श्लोक जे देवता के रूप (रंग, आसन, अस्त्र, परिवार) के बखान करेला ताकि पूजा करे वाला के मन में साफ चित्र बने; संगे पाठ खातिर जरूरी एकाग्रता। हर देवता के आपन ध्यान-श्लोक बा।"
+  },
+  "related": [
+    "avahan",
+    "shlok",
+    "jap",
+    "prarthana"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

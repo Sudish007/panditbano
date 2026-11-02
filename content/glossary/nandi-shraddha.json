@@ -1,0 +1,24 @@
+{
+  "id": "nandi-shraddha",
+  "definition": {
+    "hi": "विवाह, मुंडन जैसे मंगल संस्कार से पहले किया जाने वाला आभ्युदयिक श्राद्ध: पितृ और मातृ पक्ष की तीन पीढ़ियों के पितरों को निमंत्रित कर दही, जौ और [[akshat]] से सम्मानित किया जाता है (मृत्यु-कर्म के तिल और पिंड से नहीं), ताकि वे अवसर को आशीर्वाद दें। इसे नांदीमुख भी कहते हैं।",
+    "en": "The auspicious (abhyudayika) shraddha performed before a happy samskara such as a wedding or mundan: the ancestors of three generations on the father's and the mother's side are invited and honoured with curd, barley and rice (not with til and pinda as in the rites of death), so that they bless the occasion. Also called nandimukha.",
+    "bho": "बियाह, मुंडन जइसन मंगल संस्कार से पहिले कइल जाए वाला आभ्युदयिक श्राद्ध: पितृ आ मातृ पक्ष के तीन पीढ़ी के पितर लोग के नेवता दे के दही, जौ आ [[akshat]] से सम्मान कइल जाला (मृत्यु-कर्म के तिल आ पिंड से ना), ताकि ओह लोग के आशीर्वाद मिले। एकरा नांदीमुख भी कहल जाला।"
+  },
+  "related": [
+    "shraddha",
+    "pitar",
+    "shodash-matrika",
+    "vivah",
+    "mundan",
+    "dahi",
+    "jau"
+  ],
+  "occasions": [
+    "nandi-shraddh"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kshama-prarthana",
+  "definition": {
+    "hi": "पूजा के अंत में क्षमा-याचना: 'आवाहनं न जानामि…' से शुरू होने वाले श्लोक (मैं न आवाहन जानता हूँ, न विसर्जन, न पूजा — क्षमा करें, प्रभु) स्वीकार करते हैं कि कर्म अपूर्ण रहा और देवता से उसे फिर भी स्वीकारने की प्रार्थना करते हैं। पंडित और यजमान हाथ जोड़कर साथ बोलते हैं।",
+    "en": "The prayer for forgiveness at the end of a puja: the verses beginning avahanam na janami ('I know neither invocation nor farewell nor worship — forgive me, Lord') admit that the rite was done imperfectly and ask the deity to accept it anyway. Pandit and host speak it together with folded hands.",
+    "bho": "पूजा के अंत में क्षमा-याचना: 'आवाहनं न जानामि…' से शुरू होखे वाला श्लोक (हम आवाहन ना जानत बानी, ना विसर्जन, ना पूजा — क्षमा करीं, प्रभु) मानेला कि कर्म अधूरा रहल आ देवता से ओकरा तबो स्वीकार करे के प्रार्थना करेला। पंडित जी आ जजमान हाथ जोड़ के साथे बोलेलन।"
+  },
+  "related": [
+    "prarthana",
+    "mantra-pushpanjali",
+    "visarjan",
+    "aarti",
+    "namaskar"
+  ],
+  "occasions": [
+    "aarti-pushpanjali-visarjan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}

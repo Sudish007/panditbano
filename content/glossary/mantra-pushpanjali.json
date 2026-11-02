@@ -1,0 +1,22 @@
+{
+  "id": "mantra-pushpanjali",
+  "definition": {
+    "hi": "[[aarti]] के बाद फूल-[[akshat]] की अंजलि का अर्पण, जिसके साथ 'ॐ यज्ञेन…' से शुरू होने वाले वैदिक मंत्र (और पद्धति में उनके बाद के राज्य-प्रशंसा वाले मंत्र) पढ़े जाते हैं; उपस्थित सभी लोग हाथ में फूल रखते हैं और अंत में छोड़ देते हैं। [[kshama-prarthana]] से पहले यह अंतिम अर्पण है।",
+    "en": "The offering of a handful of flowers and rice after the aarti, while the Vedic mantras beginning Om yajnena yajnam ayajanta devah (and the royal-praise mantras that follow them in the paddhati) are recited; everyone present holds flowers and lets them fall at the end. It is the last offering before the kshama-prarthana.",
+    "bho": "[[aarti]] के बाद फूल-[[akshat]] के अंजुरी के अर्पन, जेकरा साथे 'ॐ यज्ञेन…' से शुरू होखे वाला वैदिक मंत्र (आ पद्धति में ओकरा बाद के राज-प्रशंसा वाला मंत्र) पढ़ल जाला; बइठल सब लोग हाथ में फूल रखेला आ अंत में छोड़ देला। [[kshama-prarthana]] से पहिले ई अंतिम अर्पन बा।"
+  },
+  "related": [
+    "pushpanjali",
+    "aarti",
+    "kshama-prarthana",
+    "pushp",
+    "akshat"
+  ],
+  "occasions": [
+    "aarti-pushpanjali-visarjan"
+  ],
+  "review": {
+    "hi": "draft",
+    "bho": "draft"
+  }
+}
