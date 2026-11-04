@@ -79,18 +79,27 @@ async function fitText(layer, box, minSize) {
   }
 }
 
-/** Proves the bundled TTFs are the faces Pango uses: metrics of the real family must differ from a nonexistent family's
-    (which falls back to whatever the OS has). Recorded in build.json og.fontMatched; false on CI means tofu/fallback. */
+/** Proves the bundled TTFs are the faces Pango uses: the rendered pixels of the real family must differ from a
+    nonexistent family's fallback. Pixel hashes are required because Linux font substitutes can have identical metrics. */
 export async function fontProbe() {
   const probe = (family, file, text) => serial(async () => {
     const r = await sharp({ text: { text, font: `${family} 40`, fontfile: file, width: 1000, rgba: true, dpi: 72 } }).raw().toBuffer({ resolveWithObject: true });
-    return `${r.info.width}x${r.info.height}`;
+    return {
+      metrics: `${r.info.width}x${r.info.height}`,
+      hash: createHash("sha256").update(r.data).digest("hex").slice(0, 12),
+    };
   });
   const deva = await probe(FONTS.deva.family, FONTS.deva.file, "श्राद्ध क्ष ज्ञ");
   const devaBogus = await probe("Pb Nonexistent Family", FONTS.deva.file, "श्राद्ध क्ष ज्ञ");
   const latin = await probe(FONTS.latin.family, FONTS.latin.file, "Pandit Bano");
   const latinBogus = await probe("Pb Nonexistent Family", FONTS.latin.file, "Pandit Bano");
-  return { deva, devaBogus, latin, latinBogus, matched: deva !== devaBogus && latin !== latinBogus };
+  return {
+    deva: deva.metrics,
+    devaBogus: devaBogus.metrics,
+    latin: latin.metrics,
+    latinBogus: latinBogus.metrics,
+    matched: deva.hash !== devaBogus.hash && latin.hash !== latinBogus.hash,
+  };
 }
 
 let baseCache = null;
