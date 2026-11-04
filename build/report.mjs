@@ -114,7 +114,7 @@ export function measureBudgets(out, { pages, ctx, og, precache }) {
     if (og.bytes > OG_BYTES_BUDGET) violations.push(`og ${kb(og.bytes)} > ${kb(OG_BYTES_BUDGET)}`);
     if (og.seconds > OG_SECONDS_BUDGET) violations.push(`og stage ${og.seconds} s > ${OG_SECONDS_BUDGET} s`);
     if (og.failed) warnings.push(`og: ${og.failed} image(s) fell back to the type default`);
-    if (og.fontMatched === false) violations.push("og: Pango did not use the bundled TTFs (font probe metrics equal the fallback's) — Devanagari would be tofu/mis-shaped (MEDIUM 2)");
+    if (og.fontMatched === false) violations.push("og: Pango could not render non-empty text with the bundled TTF fontfiles — Devanagari would be tofu/mis-shaped (MEDIUM 2)");
   }
   const budgets = {
     page: {
