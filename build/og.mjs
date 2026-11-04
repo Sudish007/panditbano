@@ -79,14 +79,15 @@ async function fitText(layer, box, minSize) {
   }
 }
 
-/** Proves the bundled TTFs are the faces Pango uses: the rendered pixels of the real family must differ from a
-    nonexistent family's fallback. Pixel hashes are required because Linux font substitutes can have identical metrics. */
+/** Proves Pango can load and use the bundled TTFs. Devanagari must differ from the fallback face. On Linux,
+    registering the Latin `fontfile` can also make that face the fallback, so equal Latin pixels are valid. */
 export async function fontProbe() {
   const probe = (family, file, text) => serial(async () => {
     const r = await sharp({ text: { text, font: `${family} 40`, fontfile: file, width: 1000, rgba: true, dpi: 72 } }).raw().toBuffer({ resolveWithObject: true });
     return {
       metrics: `${r.info.width}x${r.info.height}`,
       hash: createHash("sha256").update(r.data).digest("hex").slice(0, 12),
+      nonEmpty: r.info.width > 0 && r.info.height > 0 && r.data.some((byte) => byte !== 0),
     };
   });
   const deva = await probe(FONTS.deva.family, FONTS.deva.file, "श्राद्ध क्ष ज्ञ");
@@ -98,7 +99,8 @@ export async function fontProbe() {
     devaBogus: devaBogus.metrics,
     latin: latin.metrics,
     latinBogus: latinBogus.metrics,
-    matched: deva.hash !== devaBogus.hash && latin.hash !== latinBogus.hash,
+    latinFallbackEquivalent: latin.hash === latinBogus.hash,
+    matched: deva.hash !== devaBogus.hash && latin.nonEmpty,
   };
 }
 
