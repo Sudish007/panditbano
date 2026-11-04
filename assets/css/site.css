@@ -18,6 +18,8 @@ body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(
 html[lang="en"] body { font-family: var(--font-latin); }
 img, svg { display: block; max-width: 100%; }
 [hidden] { display: none !important; }
+/* Reserve interactive-control geometry while enhancement modules initialize, preventing first-paint layout shifts. */
+button[data-listen][hidden], [data-save-offline][hidden] { display: inline-flex !important; visibility: hidden; }
 a { color: var(--accent); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 0.18em; }
 a:hover { text-decoration-thickness: 2px; }
 :focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; border-radius: 4px; }
@@ -583,6 +585,14 @@ html[lang="en"] .pothi-step .no { font-family: var(--font-latin); }
 .pothi-step .text-ref { margin: 12px 0 0; }
 body.pothi main { padding-bottom: calc(var(--gap) * 2); }
 .pothi-bar .stepper button[disabled] { color: var(--ink-2); cursor: default; }
+/* Skip layout and paint for the long cards below the viewport while keeping every step and verse in the document.
+   This cuts initial work on the binding Lighthouse pages without paginating or hiding content (FIX-1a review R1a-1). */
+@supports (content-visibility: auto) {
+  .steps > .step, .verse-list > .verse-item, .pothi-steps > .pothi-step {
+    content-visibility: auto;
+    contain-intrinsic-size: auto 720px;
+  }
+}
 /* occasions index */
 .occ-group .section-head h2 { display: flex; align-items: center; gap: 10px; }
 .occ-group .section-head .ico { color: var(--accent); flex: none; }
@@ -622,6 +632,7 @@ body.pothi main { padding-bottom: calc(var(--gap) * 2); }
   .layout { display: block; }
   .page { padding-block: 0; }
   .pothi-step { break-after: page; border: 0; }
+  .steps > .step, .verse-list > .verse-item, .pothi-steps > .pothi-step { content-visibility: visible; contain-intrinsic-size: none; }
   .pothi-steps { display: block; }
   .step, .verse, .card { break-inside: avoid; }
   .pothi-step .mantra { font-size: max(calc(var(--fs-pothi) * var(--pothi-scale, 1)), 18.67px); }

@@ -32,7 +32,7 @@ const CC_BY_NC_SA = "https://creativecommons.org/licenses/by-nc-sa/4.0/";
 const PD_MARK = "https://creativecommons.org/publicdomain/mark/1.0/";
 export const GITHUB_PRIVACY = "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement";
 /** The storage keys of design §9.3 (the Privacy page lists exactly these). */
-export const STORAGE_KEYS = [["pb-theme", "theme"], ["pb-lang", "lang"], ["pb-translit", "translit"], ["pb-rate · pb-repeat", "rate"], ["pb-check:<occasion>", "check"], ["pb-quiz:<lesson>", "quiz"], ["pb-sankalpa", "sankalpa"], ["pb-saved", "saved"], ["pb-font-pct", "font"]];
+export const STORAGE_KEYS = [["pb-theme", "theme"], ["pb-lang", "lang"], ["pb-translit", "translit"], ["pb-rate · pb-repeat", "rate"], ["pb-check:<occasion>", "check"], ["pb-quiz:<lesson>", "quiz"], ["pb-sankalpa", "sankalpa"], ["pb-saved", "saved"], ["pb-fonts", "font_cache"], ["pb-font-pct", "font"]];
 
 /** Licence link target for a registry entry: CC BY-SA / CC BY-NC-SA / Public Domain Mark by the licence text, else the source's own page (its terms). */
 export function licenceUrl(entry) {

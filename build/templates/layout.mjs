@@ -5,8 +5,8 @@ import { html, raw, t, icon, extLink, uiSprite, esc } from "./lib.mjs";
 import { NAV_SECTIONS, STATIC_SLUGS } from "../lib/routes.mjs";
 
 export const HEAD_SCRIPT =
-  "<script>(function(){var d=document.documentElement,g=function(k){try{return localStorage.getItem(k)}catch(e){return null}},t=g('pb-theme'),r=g('pb-translit');" +
-  "d.setAttribute('data-theme',t==='dark'||t==='system'?t:'light');d.setAttribute('data-translit',r==='easy'||r==='off'?r:'iast')})();</script>";
+  "<script>(function(){var d=document.documentElement,g=function(k){try{return localStorage.getItem(k)}catch(e){return null}},t=g('pb-theme'),r=g('pb-translit'),f=g('pb-fonts');" +
+  "d.setAttribute('data-theme',t==='dark'||t==='system'?t:'light');d.setAttribute('data-translit',r==='easy'||r==='off'?r:'iast');if(f==='1')d.setAttribute('data-fonts','ready')})();</script>";
 
 export const GITHUB_REPO = "https://github.com/Sudish007/panditbano";
 export const SHUBHVELA = "https://sudish007.github.io/shubhvela/";
@@ -18,6 +18,14 @@ export function headTags(ctx, { lang, route, title, description, noindex = false
   const { R, assets, themeColors, hash } = ctx;
   const site = t(lang, "site.name");
   const alts = route ? R.hreflangs(route) : [];
+  const performancePage = route && ["occasion", "occasion-part", "chapter", "chapter-part", "pothi"].includes(route.pageType);
+  const stylesheet = performancePage && ctx.inlineCss
+    ? html`<style>${raw(ctx.inlineCss)}</style>`
+    : ctx.criticalCss
+      ? html`<style>${raw(ctx.criticalCss)}</style>
+<link rel="stylesheet" href="${R.href(assets.css)}" media="print" onload="this.media='all'">
+<noscript><link rel="stylesheet" href="${R.href(assets.css)}"></noscript>`
+      : html`<link rel="stylesheet" href="${R.href(assets.css)}">`;
   return html`<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${title} — ${site}</title>
@@ -38,10 +46,10 @@ ${lang === "hi" || lang === "en" ? html`<meta property="og:locale" content="${la
 <link rel="icon" href="${R.href("assets/icons/favicon.svg")}" type="image/svg+xml">
 <link rel="apple-touch-icon" href="${R.href("assets/icons/icon-192.png")}">
 <link rel="manifest" href="${R.href(`${lang}/manifest.webmanifest`)}">
-<link rel="preload" href="${R.href("fonts/noto-sans-devanagari/NotoSansDevanagari-Regular.woff2")}" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="${R.href("fonts/tiro-devanagari-sanskrit/TiroDevanagariSanskrit-Regular.woff2")}" as="font" type="font/woff2" crossorigin>
 ${raw(HEAD_SCRIPT)}
-<link rel="stylesheet" href="${R.href(assets.css)}">`;
+${stylesheet}
+<link rel="preload" href="${R.href("fonts/noto-sans-devanagari/NotoSansDevanagari-Regular.woff2")}" as="font" type="font/woff2" crossorigin fetchpriority="low" media="(min-width: 820px)">
+<link rel="preload" href="${R.href("fonts/tiro-devanagari-sanskrit/TiroDevanagariSanskrit-Regular.woff2")}" as="font" type="font/woff2" crossorigin fetchpriority="low" media="(min-width: 820px)">`;
 }
 
 export function themeButton(lang) {

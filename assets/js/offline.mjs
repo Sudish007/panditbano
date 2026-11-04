@@ -114,6 +114,10 @@ export async function init(pb) {
     if (!("serviceWorker" in navigator)) return;
     navigator.serviceWorker.addEventListener("message", onMessage);
     reg = await navigator.serviceWorker.register(base + "sw.js", { scope: base });
+    await navigator.serviceWorker.ready;
+    // The worker's install is atomic and precaches all five faces. Use them from the next navigation instead of making
+    // first-paint text depend on font transfers (font-display:optional's documented first-visit fallback).
+    try { localStorage.setItem("pb-fonts", "1"); } catch (e) { /* the platform fallback remains readable */ }
     watchUpdates(reg);
     window.pb = Object.assign(window.pb || {}, { offline: { save, list: listSaved } });
     await bindSaveButtons();

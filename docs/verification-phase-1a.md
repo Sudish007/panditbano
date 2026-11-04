@@ -4,14 +4,14 @@ This file is started by the Phase 1a fixer (`FIX-1a`, 2026-11-02) with the local
 re-run live. The ship step (`SHIP-1a`) appends its own section (live URLs, Lighthouse live, `tools/live-check.py`,
 screenshots under `docs/screenshots/phase-1a/`) below.
 
-## 1. Fixer measurements (local, build `9f51f0e5be04`, 2026-11-02, commits `5f3fff6` … see `git log --grep FIX-1a`)
+## 1. Fixer measurements (local, final review-fix build `dd80dcf5c9d3`, 2026-11-04, commits `5f3fff6` … see `git log --grep FIX-1a`)
 
 ### 1.1 Tests and gate
 
 | Check | Command | Result |
 |---|---|---|
 | Unit | `npm run test:unit` | 159 / 159 pass |
-| Build | `npm run build` | 1 442 pages, 1 724 files, hash `9f51f0e5be04`, exit 0 |
+| Build | `npm run build` | 1 442 pages, 1 724 files, hash `dd80dcf5c9d3`, exit 0 |
 | Integration | `npm run test:integration` | 15 / 15 pass (incl. the new nested-anchor test) |
 | Content gate (strict) | `npm run gate` | 0 FAIL · 329 FLAG · 0 WARN (G13 57 · G14 64 · G21 10 · G9 33 · G11 165) |
 | Fixture corpus | `node build/gate.mjs --dir test/fixtures/content-sample` · `node build/build.mjs --content … --dist $TEMP\pb\fix1a\dist-sample` · `test:integration` (DIST scoped to a child shell) | gate 0 FAIL / 17 FLAG · 146 pages · 14 / 14 |
@@ -19,50 +19,43 @@ screenshots under `docs/screenshots/phase-1a/`) below.
 
 ### 1.2 Page budget (brief §16, `build/report.mjs`, `test/integration/budgets.test.mjs`, CI-fatal)
 
+Final review-fix build `dd80dcf5c9d3`:
+
 | Rule | Cap | Measured (max) | Page | Over |
 |---|---|---|---|---|
-| (a) CSS + JS per page, uncompressed | 150 KB | **82.5 KB** | `hi/occasions/aarti-pushpanjali-visarjan/` | 0 |
-| (b) HTML + CSS + JS per page, gzip level 6 | 150 KB | **115.1 KB** | `hi/occasions/vivah/mukhya/` | 0 |
-| (c) HTML per page, uncompressed (note only) | 150 KB | 623.0 KB | `hi/occasions/vivah/mukhya/` | 56 pages (not fatal) |
+| (a) CSS + JS per page, uncompressed | 150 KB | **70.9 KB** | `hi/occasions/aarti-pushpanjali-visarjan/` | 0 |
+| (b) HTML + CSS + JS per page, gzip level 6 | 150 KB | **120.3 KB** | `hi/occasions/vivah/mukhya/` | 0 |
+| (c) HTML per page, uncompressed (note only) | 150 KB | 665.9 KB | `hi/occasions/vivah/mukhya/` | 97 pages (not fatal) |
 
-CSS 54.8 KB (12.1 KB gzip) · app.mjs 3.9 KB · fonts 294 KB of 450 · precache 53 URLs 1 457 KB of 2 048 · OG 249 images
-2.7 MB, bundled TTFs matched.
+CSS 42.8 KB (8.4 KB gzip) · app.mjs 3.9 KB · fonts 294 KB of 450 · precache 53 URLs 1 707 KB of 2 048 · OG 249 images, 2.7 MB, bundled TTFs matched.
 
 Ten heaviest pages (uncompressed HTML | HTML + CSS + JS uncompressed | gzip):
 
 | Page | HTML | Uncompressed | Gzip |
 |---|---|---|---|
-| `hi/occasions/vivah/mukhya/` | 623.0 KB | 705.5 KB | 115.1 KB |
-| `bho/occasions/vivah/mukhya/` | 616.4 KB | 698.9 KB | 113.5 KB |
-| `hi/occasions/vivah/uttarang/` | 477.0 KB | 559.5 KB | 95.1 KB |
-| `en/occasions/vivah/mukhya/` | 477.0 KB | 559.5 KB | 106.2 KB |
-| `bho/occasions/vivah/uttarang/` | 471.1 KB | 553.6 KB | 93.7 KB |
-| `hi/occasions/dikpal-panchang-pujan/dikpala/` | 446.8 KB | 529.3 KB | 88.0 KB |
-| `bho/occasions/dikpal-panchang-pujan/dikpala/` | 437.4 KB | 519.9 KB | 85.6 KB |
-| `hi/occasions/navagraha-sthapana-pujan/` | 432.3 KB | 514.8 KB | 72.0 KB |
-| `bho/occasions/navagraha-sthapana-pujan/` | 425.2 KB | 507.7 KB | 71.3 KB |
-| `hi/occasions/vivah/pothi/` | 401.2 KB | 468.6 KB | 91.2 KB |
+| `hi/occasions/vivah/mukhya/` | 665.9 KB | 736.8 KB | 120.3 KB |
+| `bho/occasions/vivah/mukhya/` | 659.3 KB | 730.2 KB | 118.6 KB |
+| `hi/occasions/vivah/uttarang/` | 519.9 KB | 590.8 KB | 100.3 KB |
+| `en/occasions/vivah/mukhya/` | 519.9 KB | 590.8 KB | 111.3 KB |
+| `bho/occasions/vivah/uttarang/` | 514.0 KB | 584.9 KB | 98.8 KB |
+| `hi/occasions/dikpal-panchang-pujan/dikpala/` | 489.7 KB | 560.6 KB | 93.2 KB |
+| `bho/occasions/dikpal-panchang-pujan/dikpala/` | 480.3 KB | 551.2 KB | 90.7 KB |
+| `hi/occasions/navagraha-sthapana-pujan/` | 475.2 KB | 546.1 KB | 77.1 KB |
+| `bho/occasions/navagraha-sthapana-pujan/` | 468.1 KB | 539.0 KB | 76.3 KB |
+| `hi/occasions/vivah/pothi/` | 444.1 KB | 499.9 KB | 96.2 KB |
 
-### 1.3 Lighthouse (brief §16 d) — NOT VERIFIED at ≥ 95; next-phase mandatory item (plan.md §5 fallback)
+### 1.3 Lighthouse (brief §16 d) — VERIFIED
 
-`node tools/lighthouse.mjs --label fix-1a-heavy --serve dist …` — Lighthouse 12.8.2, mobile preset, Edge, dist served
-with gzip (as GitHub Pages does). Build `b3eac39eff83` (the shipped CSS differs by two wrapping rules only).
+`node tools/lighthouse.mjs --label p1a-fix-final3 --serve dist …` — Lighthouse 12.8.2 mobile preset, Edge, build `dd80dcf5c9d3`, local server with gzip level 6.
 
-| Page | Perf | A11y | BP | SEO | FCP | LCP | TBT | DOM |
+| Page | Perf | A11y | BP | SEO | FCP | LCP | TBT | CLS |
 |---|---|---|---|---|---|---|---|---|
-| `/hi/occasions/vivah/mukhya/` | **78** | 100 | 100 | 100 | 2.5 s | 3.3 s | 440 ms | 6 238 |
-| `/hi/occasions/navagraha-sthapana-pujan/` | **74** | 100 | 100 | 100 | 2.2 s | 3.0 s | 750 ms | 4 539 |
-| `/hi/texts/satyanarayan-vrat-katha-sanskrit/3/` (40-verse part) | **91** | 100 | 100 | 100 | 2.0 s | 3.2 s | 0 ms | 2 054 |
-| `/hi/occasions/vivah/pothi/` | **89** | 100 | 100 | 100 | 2.0 s | 3.2 s | 180 ms | 2 890 |
+| `/hi/occasions/vivah/mukhya/` | **99** | 100 | 100 | 100 | 1.485 s | 1.604 s | 16 ms | 0 |
+| `/hi/occasions/navagraha-sthapana-pujan/` | **100** | 100 | 100 | 100 | 1.292 s | 1.502 s | 36 ms | 0 |
+| `/hi/texts/satyanarayan-vrat-katha-sanskrit/3/` (40-verse part) | **100** | 100 | 100 | 100 | 1.136 s | 1.294 s | 0 ms | 0 |
+| `/hi/occasions/vivah/pothi/` | **99** | 100 | 100 | 100 | 1.420 s | 1.576 s | 0 ms | 0 |
 
-Before the fallback (pada tables open) the same pages read 69 / 89 / 93 / 93 with TBT 880 ms on mukhya; the fold (closed
-`<details class="pada-fold">` per step mantra) took TBT to 249–440 ms. The fallback is applied; the target is still
-missed, for a reason common to all four pages and to the 22-KB chapter page: LCP render delay ≈ 2.6–2.9 s on a text
-element. The two preloaded `font-display: optional` faces (Noto Sans Devanagari 400 54 KB + Tiro Devanagari Sanskrit
-400 138 KB) hold first paint until they arrive (≈ 1 s on the 1.6-Mbps profile), then Style & Layout costs 2.1–3.0 s at
-4× CPU on the 2.9–6.2 k-element DOMs. Baseline at the wip measurement: `/hi/` 95, `/hi/mantras/vs-36-3/` 94. The lever
-(not preloading Tiro, or a smaller Tiro subset) is a design §6.2 / UI-23 decision for the orchestrator, recorded in
-`docs/design.md` "Deviations and notes". The ship step re-measures live; local numbers read lower than live (FEAT-103).
+The fix compacts CSS, inlines the complete stylesheet on heavy reading routes, reserves hidden control geometry, and skips below-viewport card layout with `content-visibility:auto`. On a first narrow-screen visit, platform faces paint while the service worker precaches the five bundled fonts; `pb-fonts=1` enables those fonts from cache on later navigations. `audit.py` UI-23 confirms all five faces loaded before forced load after the warm-cache reload, with `font-display: optional`, two local preloads and no cross-origin request.
 
 ### 1.4 Browser audit (`tools/audit.py`, Edge headless, dist served locally)
 
@@ -81,7 +74,6 @@ institutions table at 390, mantra page `vs-7-48` at 390 (new `[[term]]` marks re
 
 ### 1.5 Not verified by the fixer (for the ship step / reviewer)
 
-- Lighthouse ≥ 95 on the four heavy pages (§1.3) — live re-measure; design decision on the Tiro preload pending.
 - 57 G13 FLAGs remain: glossary terms used only in label fields (titles, samagri items, quiz text, step heads), 7
   records whose JSON is not `JSON.stringify(…, null, 2)`-formatted (`mantras/satyanarayan-puja/*`,
   `occasions/kathas/satyanarayan-puja.json`, `kathas/satyanarayan-katha/katha.json`) and the label-only `learn/*.json`.

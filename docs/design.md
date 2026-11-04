@@ -322,9 +322,10 @@ Wordmarks: पंडित बनो (hi), Pandit Bano (en), पंडित ब
 | `pb-quiz:<lessonId>` | `{right, total, at}` | none | quiz "जाँचें" | lesson progress badge, Learn index |
 | `pb-sankalpa` | `{gotra, name}` | none | sankalpa worked example form | prefilled fields (WCAG 3.3.7, R4 §7.1) |
 | `pb-saved` | JSON array of saved occasion ids with version | `[]` | Save offline button | button state, Home "saved" list |
+| `pb-fonts` | `1` | unset | set after the service worker finishes precaching the five font files | `data-fonts="ready"` on the next navigation |
 | `pb-font-pct` (pothi only) | 80–160 | 100 | pothi A−/A+ | `<output>` "100%" |
 
-A head script of ≤ 400 bytes (as `mock_shell.py#HEAD_SCRIPT`) reads `pb-theme` and `pb-translit` and sets `data-theme` / `data-translit` before first paint, so there is no flash; it validates values against the allowed set and falls back to defaults. All storage access is wrapped in `try/catch` (Safari private mode throws on `setItem`); failure degrades to in-memory state for the page and shows nothing to the user. The Privacy page lists exactly these keys (R4 §6.3 names the categories; the page enumerates them).
+A head script of ≤ 400 bytes (as `mock_shell.py#HEAD_SCRIPT`) reads `pb-theme`, `pb-translit` and `pb-fonts`; it sets the theme, transliteration and cached-font state before first paint. All storage access is wrapped in `try/catch` (Safari private mode throws on `setItem`); failure degrades to in-memory state for the page and shows nothing to the user. The Privacy page lists exactly these keys (R4 §6.3 names the categories; the page enumerates them).
 
 ### 9.4 Rails and reading settings
 
@@ -871,13 +872,13 @@ Also binding, from the 2560 review of both directions: the sticky header's motif
   nothing to measure on that page/width (UI-04/16/17/18 below their widths, UI-26 on non-pothi pages, UI-22 outside
   `_dev/fonts.html`, UI-19 until `content/sources.json#titles` and `content/institutions.json` exist, UI-33 without
   `.verse-tools`). N-A never fails the run; the report counts it separately so a reviewer sees what was not measured.
-- **FEAT-103 · UI-32 lives in `tools/lighthouse.mjs`, not in `audit.py`;** the local server for Lighthouse and the
-  live-check is started inside the respective script (`--serve`), because PowerShell steps may not leave background
-  servers running and the port is not knowable in advance. Local Lighthouse numbers are informational: the local
-  server sends no gzip, so `uses-text-compression` fails and performance reads 92 (LCP 3.2 s under mobile
-  throttling, render delay 2.7 s — the 34.8 KB render-blocking stylesheet competes with the two preloaded faces,
-  192 KB of woff2). The ship step records the live numbers; if performance stays < 95 live, FEAT-110 / the 1b fixer
-  must revisit the preload strategy (design §6.2) or inline the token block.
+- **FIX-1a review · mobile first paint and font-cache hand-off.** Heavy occasion, chapter and pothi pages inline the
+  compacted complete stylesheet; other page types inline `critical.css` and load the complete hashed stylesheet without
+  blocking first paint. Long step, verse and pothi cards use `content-visibility:auto`; hidden voice/save controls reserve
+  their geometry. Mobile font preloads apply from 820 px; on the first narrow-screen visit platform faces render while
+  the service worker precaches the five bundled faces, then `pb-fonts=1` enables them from cache on later navigations.
+  This is the first-visit fallback already accepted in §6.2. UI-23 passes after the warm-cache reload, and the four
+  §16(d) local Lighthouse pages score 99 / 100 / 100 / 99 (performance), with every other category at 100.
 - **FEAT-103 · `_dev/fonts.html` reads `pb-theme`** (one inline line) so the audit can open it dark the same way as
   every other page; the page is still not linked from the site.
 - **FEAT-104 · the sample corpus points at the repo registries instead of copying `ui/`.**

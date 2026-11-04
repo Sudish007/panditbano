@@ -94,6 +94,16 @@ export function paperColours(tokensCss) {
 
 const hash12 = (buf) => createHash("sha256").update(buf).digest("hex").slice(0, 12);
 
+/** Remove comments and redundant whitespace from the render-blocking stylesheet (brief §16 non-visible trims). */
+export function compactCss(css) {
+  return String(css)
+    .replace(/\/\*[\s\S]*?\*\//g, "")
+    .replace(/\s+/g, " ")
+    .replace(/\s*([{}:;,>])\s*/g, "$1")
+    .replace(/;}/g, "}")
+    .trim();
+}
+
 // ---------------------------------------------------------------- stages
 function stageLoad(contentDir = config.CONTENT_DIR) {
   const data = loadContent(contentDir, { label: "content" });
@@ -142,9 +152,11 @@ function computeHash() {
 
 function stageAssets(out, hash) {
   const tokens = readFileSync(join(ROOT, "assets", "css", "tokens.css"), "utf8");
+  const critical = readFileSync(join(ROOT, "assets", "css", "critical.css"), "utf8");
   const site = readFileSync(join(ROOT, "assets", "css", "site.css"), "utf8");
   const css = `assets/css/site.${hash}.css`;
-  out.set(css, tokens + "\n" + site);
+  const cssText = compactCss(tokens + "\n" + site);
+  out.set(css, cssText);
   const jsDir = join(ROOT, "assets", "js");
   const jsMap = {};
   for (const f of walk(jsDir).filter((p) => p.endsWith(".mjs"))) {
@@ -165,7 +177,7 @@ function stageAssets(out, hash) {
   // dev page: font paths were relative to assets/dev/; in dist it sits at _dev/fonts.html
   const dev = readFileSync(join(ROOT, "assets", "dev", "fonts.html"), "utf8").replaceAll("../../fonts/", "../fonts/");
   out.set("_dev/fonts.html", dev);
-  return { css, js: `assets/js/${jsMap.app}`, modules, themeColors: paperColours(tokens) };
+  return { css, cssText, criticalCss: compactCss(tokens + "\n" + critical), js: `assets/js/${jsMap.app}`, modules, themeColors: paperColours(tokens) };
 }
 
 function stageRender(out, ctx, data, derived) {
@@ -277,7 +289,7 @@ export async function build(overrides = {}) {
   const hash = timed("hash", computeHash);
   const out = new Map();
   const assets = timed("assets", () => stageAssets(out, hash));
-  const ctx = { R, ui: data.ui, features: cfg.features, hash, assets: { css: assets.css, js: assets.js }, modules: assets.modules, themeColors: assets.themeColors, names: nameIndex(data.sources, data.institutions), learnHref: (lang) => learnHrefFor(R, data.levels, lang), has: pageIndex(data) };
+  const ctx = { R, ui: data.ui, features: cfg.features, hash, assets: { css: assets.css, js: assets.js }, criticalCss: assets.criticalCss, inlineCss: assets.cssText.replaceAll("../../fonts/", R.href("fonts/")), modules: assets.modules, themeColors: assets.themeColors, names: nameIndex(data.sources, data.institutions), learnHref: (lang) => learnHrefFor(R, data.levels, lang), has: pageIndex(data) };
   const pages = timed("render", () => stageRender(out, ctx, data, derived));
   // stage 8a — head metas (og:image, twitter:card, JSON-LD) BEFORE the offline byte counts are fixed (design §17; MEDIUM 3 og plan)
   const plan = ogPlan(pages, { ctx, out });

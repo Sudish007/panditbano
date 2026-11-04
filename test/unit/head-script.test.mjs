@@ -27,7 +27,7 @@ test("defaults: no storage → light + iast", () => {
 
 test("valid values are applied", () => {
   assert.deepEqual(run({ "pb-theme": "dark", "pb-translit": "easy" }), { "data-theme": "dark", "data-translit": "easy" });
-  assert.deepEqual(run({ "pb-theme": "system", "pb-translit": "off" }), { "data-theme": "system", "data-translit": "off" });
+  assert.deepEqual(run({ "pb-theme": "system", "pb-translit": "off", "pb-fonts": "1" }), { "data-theme": "system", "data-translit": "off", "data-fonts": "ready" });
 });
 
 test("bogus values fall back: pb-translit '<script>' → iast; pb-theme 'x' → light", () => {

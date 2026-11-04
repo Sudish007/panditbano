@@ -537,6 +537,7 @@
       "quiz": "Lesson quiz result (right/total, time)",
       "sankalpa": "Gotra and name for the sankalpa example",
       "saved": "List of occasions saved offline",
+      "font_cache": "Whether the local font cache is ready (yes / no)",
       "font": "Pothi text size"
     },
     "github": "The site is hosted on GitHub Pages: GitHub logs visitors' IP addresses for security under its own Privacy Statement.",
